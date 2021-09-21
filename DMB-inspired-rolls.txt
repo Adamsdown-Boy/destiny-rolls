@@ -1,5 +1,5 @@
-title:Season 12 (Season of the Hunt) Europan weapon rolls
-description:Based on discussions in the Destiny Massive Breakdowns podcast
+title:Destiny Massive Breakdown-inspired weapon rolls
+description:Not affiliated with the DMB podcast, but based on their discussions
 
 // Arctic Haze (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll - still needs Counterbalance mod for recoil direction
