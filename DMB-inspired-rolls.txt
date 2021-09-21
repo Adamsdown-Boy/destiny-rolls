@@ -1,10 +1,13 @@
 title:Destiny Massive Breakdown-inspired weapon rolls
 description:Not affiliated with the DMB podcast, but based on their discussions
 
+title:Season 12 Europan weapons
+description:Weapons from Variks and Europan activities
+
 // Arctic Haze (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll - still needs Counterbalance mod for recoil direction
-dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870,384158423
-dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,699525795,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll - still needs Counterbalance mod for recoil direction.  Recommended MW: Stability.
+dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870
+dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,699525795
 
 // Arctic Haze (PvP backup roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP backup roll - still needs Counterbalance mod for recoil direction
@@ -12,13 +15,13 @@ dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870
 dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,699525795
 
 // Arctic Haze (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll
-dimwishlist:item=20935540&perks=839105230,3177308360,1820235745,2726471870,384158423
-dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,2726471870,384158423
-dimwishlist:item=20935540&perks=839105230,106909392,1820235745,2726471870,384158423
-dimwishlist:item=20935540&perks=839105230,3177308360,1820235745,3108830275,384158423
-dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,3108830275,384158423
-dimwishlist:item=20935540&perks=839105230,106909392,1820235745,3108830275,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll. Recommended MW: Stability.
+dimwishlist:item=20935540&perks=839105230,3177308360,1820235745,2726471870
+dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,2726471870
+dimwishlist:item=20935540&perks=839105230,106909392,1820235745,2726471870
+dimwishlist:item=20935540&perks=839105230,3177308360,1820235745,3108830275
+dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,3108830275
+dimwishlist:item=20935540&perks=839105230,106909392,1820235745,3108830275
 
 // Arctic Haze (PvE backup roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE backup roll. Recommended MW: Stability.
@@ -30,11 +33,11 @@ dimwishlist:item=20935540&perks=839105230,3230963543,1820235745,3108830275
 dimwishlist:item=20935540&perks=839105230,106909392,1820235745,3108830275
 
 // Hailing Confusion (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll - not many great perk 2 options though
-dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,706527188,384158423
-dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,706527188,384158423
-dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,3523296417,384158423
-dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,3523296417,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll - not many great perk 2 options though. Recommended MW: Stability
+dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,706527188
+dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,706527188
+dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,3523296417
+dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,3523296417
 
 // Hailing Confusion (PvP backup roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP backup roll - not many great perk 2 options though. Recommended MW: Stability.
@@ -120,22 +123,22 @@ dimwishlist:item=1738026524&perks=839105230,1087426260,2039302152,3523296417
 dimwishlist:item=1738026524&perks=3661387068,1087426260,2039302152,3523296417
 
 // Hailing Confusion (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll
-dimwishlist:item=1738026524&perks=839105230,1885400500,3436462433,3592538738,384158423
-dimwishlist:item=1738026524&perks=3661387068,1885400500,3436462433,3592538738,384158423
-dimwishlist:item=1738026524&perks=839105230,3230963543,3436462433,3592538738,384158423
-dimwishlist:item=1738026524&perks=3661387068,3230963543,3436462433,3592538738,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll. Recommended MW: Stability.
+dimwishlist:item=1738026524&perks=839105230,1885400500,3436462433,3592538738
+dimwishlist:item=1738026524&perks=3661387068,1885400500,3436462433,3592538738
+dimwishlist:item=1738026524&perks=839105230,3230963543,3436462433,3592538738
+dimwishlist:item=1738026524&perks=3661387068,3230963543,3436462433,3592538738
 
 // Hailing Confusion (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll
-dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,3592538738,384158423
-dimwishlist:item=1738026524&perks=3661387068,1885400500,1528281896,3592538738,384158423
-dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,3592538738,384158423
-dimwishlist:item=1738026524&perks=3661387068,3230963543,1528281896,3592538738,384158423
-dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,3523296417,384158423
-dimwishlist:item=1738026524&perks=3661387068,1885400500,1528281896,3523296417,384158423
-dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,3523296417,384158423
-dimwishlist:item=1738026524&perks=3661387068,3230963543,1528281896,3523296417,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll. Recommended MW: Stability.
+dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,3592538738
+dimwishlist:item=1738026524&perks=3661387068,1885400500,1528281896,3592538738
+dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,3592538738
+dimwishlist:item=1738026524&perks=3661387068,3230963543,1528281896,3592538738
+dimwishlist:item=1738026524&perks=839105230,1885400500,1528281896,3523296417
+dimwishlist:item=1738026524&perks=3661387068,1885400500,1528281896,3523296417
+dimwishlist:item=1738026524&perks=839105230,3230963543,1528281896,3523296417
+dimwishlist:item=1738026524&perks=3661387068,3230963543,1528281896,3523296417
 
 // Hailing Confusion (PvE backup roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE backup roll. Recommended MW: Stability.
@@ -224,14 +227,14 @@ dimwishlist:item=4037745684&perks=3250034553,791862061,280464955,47981717
 dimwishlist:item=4037745684&perks=3250034553,106909392,3400784728,3523296417
 
 // Thermal Erosion (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll
-dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1890422124,384158423
-dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1359896290,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll. Recommended MW: Stability.
+dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1890422124
+dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1359896290
 
 // Thermal Erosion (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll
-dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1890422124,384158423
-dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1359896290,384158423
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll. Recommended MW: Stability.
+dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1890422124
+dimwishlist:item=1766088024&perks=839105230,1885400500,2387244414,1359896290
 
 // Thermal Erosion (PvP backup roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP backup roll. Recommended MW: Stability.
@@ -263,3 +266,115 @@ dimwishlist:item=42351395&perks=981914802,3796465595,3436462433,1275731761
 // Subzero Salvo (PvE backup roll)
 //notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE backup roll for boss DPS. Recommended MW: Reload
 dimwishlist:item=42351395&perks=981914802,3492396210,3436462433,1275731761
+
+title:Season 12 (Season of the Hunt) Wrathborne Hunt weapon rolls
+
+// Royal Chase (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll
+dimwishlist:item=2776503072&perks=1392496348,106909392,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,106909392,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,106909392,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,106909392,2869569095,2458213969
+dimwishlist:item=2776503072&perks=1392496348,3230963543,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2869569095,2458213969
+dimwishlist:item=2776503072&perks=3661387068,3230963543,2869569095,2458213969
+
+// Royal Chase (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll
+dimwishlist:item=2776503072&perks=1392496348,106909392,3300816228,2726471870
+dimwishlist:item=2776503072&perks=3661387068,106909392,3300816228,2726471870
+dimwishlist:item=2776503072&perks=3661387068,106909392,3300816228,2726471870
+dimwishlist:item=2776503072&perks=3661387068,106909392,3300816228,2726471870
+dimwishlist:item=2776503072&perks=1392496348,3230963543,3300816228,2726471870
+dimwishlist:item=2776503072&perks=3661387068,3230963543,3300816228,2726471870
+dimwishlist:item=2776503072&perks=3661387068,3230963543,3300816228,2726471870
+dimwishlist:item=2776503072&perks=3661387068,3230963543,3300816228,2726471870
+dimwishlist:item=2776503072&perks=1392496348,106909392,3300816228,2848615171
+dimwishlist:item=2776503072&perks=3661387068,106909392,3300816228,2848615171
+dimwishlist:item=2776503072&perks=3661387068,106909392,3300816228,2848615171
+dimwishlist:item=2776503072&perks=3661387068,106909392,3300816228,2848615171
+dimwishlist:item=2776503072&perks=1392496348,3230963543,3300816228,2848615171
+dimwishlist:item=2776503072&perks=3661387068,3230963543,3300816228,2848615171
+dimwishlist:item=2776503072&perks=3661387068,3230963543,3300816228,2848615171
+dimwishlist:item=2776503072&perks=3661387068,3230963543,3300816228,2848615171
+
+// Friction Fire (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll. Recommended MW: Reload
+dimwishlist:item=1513993763&perks=3661387068,3177308360,1820235745,3425386926
+dimwishlist:item=1513993763&perks=3661387068,106909392,1820235745,3425386926
+dimwishlist:item=1513993763&perks=3661387068,3230963543,1820235745,3425386926
+dimwishlist:item=1513993763&perks=3661387068,3177308360,2450788523,3425386926
+dimwishlist:item=1513993763&perks=3661387068,106909392,2450788523,3425386926
+dimwishlist:item=1513993763&perks=3661387068,3230963543,2450788523,3425386926
+dimwishlist:item=1513993763&perks=3661387068,3177308360,4071163871,3425386926
+dimwishlist:item=1513993763&perks=3661387068,106909392,4071163871,3425386926
+dimwishlist:item=1513993763&perks=3661387068,3230963543,4071163871,3425386926
+
+// Friction Fire (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll. Recommended MW: Reload
+dimwishlist:item=1513993763&perks=3661387068,3177308360,1820235745,3592538738
+dimwishlist:item=1513993763&perks=3661387068,106909392,1820235745,3592538738
+dimwishlist:item=1513993763&perks=3661387068,3230963543,1820235745,3592538738
+dimwishlist:item=1513993763&perks=3661387068,3177308360,2450788523,3592538738
+dimwishlist:item=1513993763&perks=3661387068,106909392,2450788523,3592538738
+dimwishlist:item=1513993763&perks=3661387068,3230963543,2450788523,3592538738
+dimwishlist:item=1513993763&perks=3661387068,3177308360,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3661387068,106909392,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3661387068,3230963543,4071163871,3592538738
+dimwishlist:item=1513993763&perks=3661387068,3177308360,1820235745,3108830275
+dimwishlist:item=1513993763&perks=3661387068,106909392,1820235745,3108830275
+dimwishlist:item=1513993763&perks=3661387068,3230963543,1820235745,3108830275
+dimwishlist:item=1513993763&perks=3661387068,3177308360,2450788523,3108830275
+dimwishlist:item=1513993763&perks=3661387068,106909392,2450788523,3108830275
+dimwishlist:item=1513993763&perks=3661387068,3230963543,2450788523,3108830275
+dimwishlist:item=1513993763&perks=3661387068,3177308360,4071163871,3108830275
+dimwishlist:item=1513993763&perks=3661387068,106909392,4071163871,3108830275
+dimwishlist:item=1513993763&perks=3661387068,3230963543,4071163871,3108830275
+
+// Deafening Whisper (PvE/PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE/PvP first choice roll. Recommended MW: Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
+
+// Deafening Whisper (PvE/PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE/PvP backup roll. Recommended MW: Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3300816228
+dimwishlist:item=981718087&perks=981914802,2822142346,2010801679,3300816228
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=981914802,2822142346,2010801679,4071163871
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
+dimwishlist:item=981718087&perks=981914802,2822142346,2010801679,3592538738
+
+// Deafening Whisper (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll. Recommended MW: Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3425386926
+
+// Deafening Whisper (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE backup roll. Recommended MW: Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3425386926
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3425386926
+dimwishlist:item=981718087&perks=981914802,2822142346,2010801679,3425386926
+
+// Blast Battue (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvP first choice roll. Recommended MW: Blast Radius
+dimwishlist:item=2453357042&perks=1478423395,1380253176,2450788523,2396489472
+dimwishlist:item=2453357042&perks=1441682018,1380253176,2450788523,2396489472
+dimwishlist:item=2453357042&perks=1478423395,2822142346,2450788523,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2822142346,2450788523,2396489472
+
+// Blast Battue (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll. Recommended MW: Blast Radius
+dimwishlist:item=2453357042&perks=1478423395,1380253176,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1441682018,1380253176,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1478423395,2822142346,2284787283,2396489472
+dimwishlist:item=2453357042&perks=1441682018,2822142346,2284787283,2396489472
+
+// Blast Battue (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns (???  ???): PvE first choice roll for boss DPS. Recommended MW: Blast Radius
+dimwishlist:item=2453357042&perks=1478423395,3301904089,2284787283,3300816228
+dimwishlist:item=2453357042&perks=1441682018,3301904089,2284787283,3300816228
