@@ -664,3 +664,52 @@ dimwishlist:item=893527433&perks=4090651448,1087426260,3300816228,4104185692
 dimwishlist:item=893527433&perks=839105230,1087426260,3300816228,4104185692
 dimwishlist:item=893527433&perks=1840239774,1087426260,3300816228,4104185692
 
+// Brass Attacks (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvP first choice roll. Recommended MW: Handling, with Targeting Adjuster mod.
+dimwishlist:item=2121785039&perks=1392496348,1885400500,2450788523,3425386926
+dimwishlist:item=2121785039&perks=1482024992,1885400500,2450788523,3425386926
+dimwishlist:item=2121785039&perks=3661387068,1885400500,2450788523,3425386926
+dimwishlist:item=2121785039&perks=4090651448,1885400500,2450788523,3425386926
+
+// Brass Attacks (PvE/PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvE/// Brass Attacks (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvE first choice roll. Recommended MW: Handling, with Targeting Adjuster mod.
+dimwishlist:item=2121785039&perks=1392496348,1885400500,2779035018,3425386926
+dimwishlist:item=2121785039&perks=1482024992,1885400500,2779035018,3425386926
+dimwishlist:item=2121785039&perks=3661387068,1885400500,2779035018,3425386926
+dimwishlist:item=2121785039&perks=4090651448,1885400500,2779035018,3425386926
+
+// Brass Attacks (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvE first choice roll.
+dimwishlist:item=2121785039&perks=1392496348,1885400500,2779035018,3425386926
+dimwishlist:item=2121785039&perks=1482024992,1885400500,2779035018,3425386926
+dimwishlist:item=2121785039&perks=3661387068,1885400500,2779035018,3425386926
+dimwishlist:item=2121785039&perks=4090651448,1885400500,2779035018,3425386926
+
+// Brass Attacks (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvE backup roll.
+dimwishlist:item=2121785039&perks=1392496348,1885400500,2779035018,4049631843
+dimwishlist:item=2121785039&perks=1482024992,1885400500,2779035018,4049631843
+dimwishlist:item=2121785039&perks=3661387068,1885400500,2779035018,4049631843
+dimwishlist:item=2121785039&perks=4090651448,1885400500,2779035018,4049631843
+
+// Code Duello (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvP backup roll. Recommended MW: Velocity
+dimwishlist:item=2496242052&perks=1478423395,1996142143,951095735,1275731761
+
+// Code Duello (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvE first choice roll for add clear. Recommended MW: Velocity.
+dimwishlist:item=2496242052&perks=1478423395,1996142143,951095735,2396489472
+dimwishlist:item=2496242052&perks=1478423395,1996142143,3300816228,2396489472
+
+// Code Duello (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns. PvE first choice roll for boss DPS. Recommended MW: Velocity.
+dimwishlist:item=981914802&perks=1478423395,3796465595,951095735,3927722942
+dimwishlist:item=981914802&perks=1441682018,3796465595,951095735,3927722942
+dimwishlist:item=981914802&perks=3525010810,3796465595,951095735,3927722942
+dimwishlist:item=981914802&perks=3798852852,3796465595,951095735,3927722942
+dimwishlist:item=981914802&perks=1478423395,3796465595,3300816228,3927722942
+dimwishlist:item=981914802&perks=1441682018,3796465595,3300816228,3927722942
+dimwishlist:item=981914802&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=981914802&perks=3798852852,3796465595,3300816228,3927722942
+
