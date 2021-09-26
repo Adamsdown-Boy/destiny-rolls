@@ -1390,3 +1390,35 @@ dimwishlist:item=3075224551&perks=3250034553,2680121939,3300816228,1546637391
 dimwishlist:item=3075224551&perks=3250034553,2680121939,2284787283,1546637391
 dimwishlist:item=3075224551&perks=3250034553,2680121939,247725512,1546637391
 
+title:Season 13 (Season of the Chosen) Dead Man's Tale and The Messenger
+description:Dead Man's Tale exotic scout rifle and Messenger (Trials pulse pifle) rolls
+
+title:Season 13 (Season of the Chosen) Gambit weapons
+description:Trinary System and Bottom Dollar
+
+title:Season 13 (Season of the Chosen) Nightfall weapons
+description:Reprised weapons as Nightfall weekly drops
+
+title:Season 14 (Season of the Splicer) Iron Banner weapons
+description:Iron Banner weapons
+
+title:Season 14 (Season of the Splicer) Override weapons
+description:Season activity weapons
+
+title:Season 14 (Season of the Splicer) Crucible weapons
+description:Shayura's Wrath and Survivors Epitaph
+
+title:Season 14 (Season of the Splicer) Reprised Dreaming City weapons
+description:New perks on Dreaming City weapons
+
+title:Season 14 (Season of the Splicer) Compass Rose
+description:Compass Rose rolls
+
+title:Season 14 (Season of the Splicer) Nightfall weapons
+description:Reprised weapons as Nightfall weekly drops
+
+title:Season 15 (Season of the Lost) Astral Alignment weapons
+description:Season activity weapon rolls
+
+title:Season 15 (Season of the Lost) Reprised and new Trials weapons
+description:Reed's Regret
