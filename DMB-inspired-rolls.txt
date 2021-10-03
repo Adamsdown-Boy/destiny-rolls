@@ -5,12 +5,12 @@ title:Season 12 Beyond Light Europan weapons from Podcast 186
 description:Weapons from Variks and Europan activities
 
 // Arctic Haze (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 1. PvP first choice roll - still needs Counterbalance mod for recoil direction.  Recommended MW: Stability.
+//notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 1. PvP first choice roll. Recommended MW: Stability with Counterbalance mod.
 dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870
 dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,699525795
 
 // Arctic Haze (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 1. PvP backup roll - still needs Counterbalance mod for recoil direction
+//notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 1. PvP backup roll. Recommended MW: Stability with Counterbalance mod.
 dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870
 dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,699525795
 
@@ -6514,3 +6514,4 @@ dimwishlist:item=2475355656&perks=4090651448,2969185026,2450788523,438098033
 dimwishlist:item=2475355656&perks=1840239774,2969185026,706527188,438098033
 dimwishlist:item=2475355656&perks=839105230,2969185026,706527188,438098033
 dimwishlist:item=2475355656&perks=4090651448,2969185026,706527188,438098033
+
