@@ -2907,22 +2907,22 @@ dimwishlist:item=3836861464&perks=1392496348,3177308360,1359896290,1890422124
 dimwishlist:item=3836861464&perks=1392496348,3230963543,1359896290,1890422124
 
 // THE SWARM (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvE first choice roll for boss damage. Recommended MW: Stability with Adept Boss Spec mod.
-dimwishlist:item=47772649&perks=1392496348,2420895100,4252909580,1890422124,1546637391
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvE first choice roll. Recommended MW: Stability with Backup Mag mod.
+dimwishlist:item=47772649&perks=1392496348,2420895100,4252909580,1546637391
 
 // THE SWARM (PvE backup roll)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvE backup roll for boss damage. Recommended MW: Stability with Boss Spec mod.
-dimwishlist:item=47772649&perks=1392496348,1087426260,4252909580,1890422124,1546637391
-dimwishlist:item=47772649&perks=1392496348,106909392,4252909580,1890422124,1546637391
+//notes: Inspired by Destiny Massive Breakdowns from Podcast 205. PvE backup roll. Recommended MW: Stability with Backup Mag mod.
+dimwishlist:item=47772649&perks=1392496348,1087426260,4252909580,1546637391
+dimwishlist:item=47772649&perks=1392496348,106909392,4252909580,1546637391
 
 // THE SWARM (Adept) (PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvE first choice roll for boss damage. Recommended MW: Stability with Adept Big Ones Spec mod.
-dimwishlist:item=3836861464&perks=1392496348,2420895100,4252909580,1890422124,1546637391
+dimwishlist:item=3836861464&perks=1392496348,2420895100,4252909580,1546637391
 
 // THE SWARM (Adept) (PvE backup roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvE backup roll for boss damage. Recommended MW: Stability with Adept Big Ones Spec mod.
-dimwishlist:item=3836861464&perks=1392496348,1087426260,4252909580,1890422124,1546637391
-dimwishlist:item=3836861464&perks=1392496348,106909392,4252909580,1890422124,1546637391
+dimwishlist:item=3836861464&perks=1392496348,1087426260,4252909580,1546637391
+dimwishlist:item=3836861464&perks=1392496348,106909392,4252909580,1546637391
 
 // Shadow Price (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP/PvE first choice roll. Recommended MW: Stability with Targeting Adjuster mod (PvP) or Backup Mag (PvE).
@@ -6514,4 +6514,3 @@ dimwishlist:item=2475355656&perks=4090651448,2969185026,2450788523,438098033
 dimwishlist:item=2475355656&perks=1840239774,2969185026,706527188,438098033
 dimwishlist:item=2475355656&perks=839105230,2969185026,706527188,438098033
 dimwishlist:item=2475355656&perks=4090651448,2969185026,706527188,438098033
-
