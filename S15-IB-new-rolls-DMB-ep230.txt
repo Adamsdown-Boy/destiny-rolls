@@ -89,6 +89,11 @@ dimwishlist:item=1076810832&perks=839105230,106909392,3436462433,3592538738
 dimwishlist:item=1076810832&perks=3661387068,106909392,3436462433,3592538738
 
 // Peacebond (PvP first choice roll)
+// Hammer-forged Rifling, Accurized Rounds, Rangefinder, Iron Reach with Range MW
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll for M&K only(!) - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
+dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,591790007
+
+// Peacebond (PvP first choice roll)
 // Stability barrels (Polygonal Rifling, Fluted Barrel), stability mags (Flared Magwell, Tactical Mag), Rangefinder/ Tunnel Vision, Harmony with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
 dimwishlist:item=829330711&perks=1392496348,3230963543,2846385770,438098033
