@@ -1,33 +1,28 @@
 // Forge's Pledge (PvP/PvE first choice roll)
-// Arrowhead Brake, stability perk mags (Steady Rounds, Flared Magwell, Tactical Mag), Heating Up, Rampage with rampage spec mod
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP/PvE first choice roll - although Third Axiom has better base stats in the energy adaptive pulse rifles subtype. Recommended MW: Stability with Rampage Spec mod.
 dimwishlist:item=1076810832&perks=839105230,3230963543,1570042021,3425386926
 dimwishlist:item=1076810832&perks=839105230,3177308360,1570042021,3425386926
 dimwishlist:item=1076810832&perks=839105230,106909392,1570042021,3425386926
 
 // Forge's Pledge (PvP/PvE first choice roll)
-// Chambered Compensator, stability perk mags (Steady Rounds, Flared Magwell, Tactical Mag), Heating Up, Rampage with Counterbalance mod
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP/PvE first choice roll - although Third Axiom has better base stats in the energy adaptive pulse rifles subtype. Recommended MW: Stability with Counterbalance mod.
 dimwishlist:item=1076810832&perks=3661387068,3230963543,1570042021,3425386926
 dimwishlist:item=1076810832&perks=3661387068,3177308360,1570042021,3425386926
 dimwishlist:item=1076810832&perks=3661387068,106909392,1570042021,3425386926
 
 // Forge's Pledge (PvP first choice roll)
-// Arrowhead Brake, stability perk mags (Steady Rounds, Flared Magwell, Tactical Mag), Tunnel Vision, Multikill Clip with Targeting Adjuster mod
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - although Third Axiom has better base stats in the energy adaptive pulse rifles subtype. Recommended MW: Stability with Target Adjuster mod.
 dimwishlist:item=1076810832&perks=839105230,3230963543,2946784966,2458213969
 dimwishlist:item=1076810832&perks=839105230,3177308360,2946784966,2458213969
 dimwishlist:item=1076810832&perks=839105230,106909392,2946784966,2458213969
 
 // Forge's Pledge (PvP first choice roll)
-// Chambered Compensator, stability perk mags (Steady Rounds, Flared Magwell, Tactical Mag), Tunnel Vision, Multikill Clip with Counterbalance mod
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - although Third Axiom has better base stats in the energy adaptive pulse rifles subtype. Recommended MW: Stability with Counterbalance mod.
 dimwishlist:item=1076810832&perks=3661387068,3230963543,2946784966,2458213969
 dimwishlist:item=1076810832&perks=3661387068,3177308360,2946784966,2458213969
 dimwishlist:item=1076810832&perks=3661387068,106909392,2946784966,2458213969
 
 // Forge's Pledge (PvP backup roll)
-// Both recommended barrels (Arrowhead Brake, Chambered Compensator), stability perk mags (Steady Rounds, Flared Magwell, Tactical Mag), all recommended trait 1 (Heating Up, Tunnel Vision, Elemental Capacitor) and trait 2 (Multikill Clip, Rampage, Iron Grip) perks
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - although Third Axiom has better base stats in the energy adaptive pulse rifles subtype. Recommended MW: Stability with Counterbalance mod for Chambered Compensator, Targeting Adjuster for Arrowhead Brake (unless you roll Rampage, in which case Rampage Spec). Elemental Capacitor is most useful with Stasis (Recoil Direction and ADS speed) or Void (stability) subclasses, although Solar (Reload Speed) synergises with Rampage and Multikill Clip.
 dimwishlist:item=1076810832&perks=839105230,3177308360,1570042021,2458213969
 dimwishlist:item=1076810832&perks=3661387068,3177308360,1570042021,2458213969
@@ -35,24 +30,14 @@ dimwishlist:item=1076810832&perks=839105230,3230963543,1570042021,2458213969
 dimwishlist:item=1076810832&perks=3661387068,3230963543,1570042021,2458213969
 dimwishlist:item=1076810832&perks=839105230,106909392,1570042021,2458213969
 dimwishlist:item=1076810832&perks=3661387068,106909392,1570042021,2458213969
-dimwishlist:item=1076810832&perks=839105230,3177308360,2946784966,2458213969
 dimwishlist:item=1076810832&perks=3661387068,3177308360,2946784966,2458213969
-dimwishlist:item=1076810832&perks=839105230,3230963543,2946784966,2458213969
-dimwishlist:item=1076810832&perks=3661387068,3230963543,2946784966,2458213969
-dimwishlist:item=1076810832&perks=839105230,106909392,2946784966,2458213969
-dimwishlist:item=1076810832&perks=3661387068,106909392,2946784966,2458213969
 dimwishlist:item=1076810832&perks=839105230,3177308360,3511092054,2458213969
 dimwishlist:item=1076810832&perks=3661387068,3177308360,3511092054,2458213969
 dimwishlist:item=1076810832&perks=839105230,3230963543,3511092054,2458213969
 dimwishlist:item=1076810832&perks=3661387068,3230963543,3511092054,2458213969
 dimwishlist:item=1076810832&perks=839105230,106909392,3511092054,2458213969
 dimwishlist:item=1076810832&perks=3661387068,106909392,3511092054,2458213969
-dimwishlist:item=1076810832&perks=839105230,3177308360,1570042021,3425386926
 dimwishlist:item=1076810832&perks=3661387068,3177308360,1570042021,3425386926
-dimwishlist:item=1076810832&perks=839105230,3230963543,1570042021,3425386926
-dimwishlist:item=1076810832&perks=3661387068,3230963543,1570042021,3425386926
-dimwishlist:item=1076810832&perks=839105230,106909392,1570042021,3425386926
-dimwishlist:item=1076810832&perks=3661387068,106909392,1570042021,3425386926
 dimwishlist:item=1076810832&perks=839105230,3177308360,2946784966,3425386926
 dimwishlist:item=1076810832&perks=3661387068,3177308360,2946784966,3425386926
 dimwishlist:item=1076810832&perks=839105230,3230963543,2946784966,3425386926
@@ -85,7 +70,6 @@ dimwishlist:item=1076810832&perks=839105230,106909392,3511092054,11551321
 dimwishlist:item=1076810832&perks=3661387068,106909392,3511092054,11551321
 
 // Forge's Pledge (PvE backup roll)
-// Both recommended barrels, stability perk mags, Surplus, Wellspring
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - although Third Axiom has better base stats in the energy adaptive pulse rifles subtype. Recommended MW: Stability with Counterbalance mod for Chambered Compensator, Targeting Adjuster for Arrohead Brake.
 dimwishlist:item=1076810832&perks=839105230,3230963543,3436462433,3592538738
 dimwishlist:item=1076810832&perks=3661387068,3230963543,3436462433,3592538738
@@ -95,14 +79,12 @@ dimwishlist:item=1076810832&perks=839105230,106909392,3436462433,3592538738
 dimwishlist:item=1076810832&perks=3661387068,106909392,3436462433,3592538738
 
 // Peacebond (PvP first choice roll)
-// Range barrels (Hammer-forged Rifling, Full Bore, Extended Barrel), Accurized Rounds, Rangefinder, Iron Reach with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll for range on M&K only(!) - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
 dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,591790007
 dimwishlist:item=829330711&perks=202670084,3142289711,2846385770,591790007
 dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,591790007
 
 // Peacebond (PvP first choice roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), stability mags (Flared Magwell, Tactical Mag), Rangefinder/ Tunnel Vision, Harmony with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
 dimwishlist:item=829330711&perks=1392496348,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=1840239774,3230963543,2846385770,438098033
@@ -114,8 +96,7 @@ dimwishlist:item=829330711&perks=1392496348,106909392,2946784966,438098033
 dimwishlist:item=829330711&perks=1840239774,106909392,2946784966,438098033
 
 // Peacebond (PvE first choice roll/PvP backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), stability mags (Flared Magwell, Tactical Mag), Subsistence, Swashbuckler/ Demolitionist with Range MW
-//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, and PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, and PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range.
 dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,4082225868
@@ -126,24 +107,26 @@ dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,3523296417
 dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), stability mags (Flared Magwell, Tactical Mag), Killing Wind, Swashbuckler with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
 dimwishlist:item=829330711&perks=1392496348,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=1840239774,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=1392496348,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=1840239774,106909392,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod for PvP.
+dimwishlist:item=829330711&perks=1840239774,3230963543,972757866,4082225868
+dimwishlist:item=829330711&perks=1392496348,3230963543,972757866,4082225868
+dimwishlist:item=829330711&perks=1392496348,106909392,972757866,4082225868
+dimwishlist:item=829330711&perks=1840239774,106909392,972757866,4082225868
+dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,4082225868
+dimwishlist:item=829330711&perks=1392496348,3230963543,972757866,3523296417
+dimwishlist:item=829330711&perks=1392496348,106909392,972757866,3523296417
+
 // Peacebond (PvP backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), stability mags (Flared Magwell, Tactical Mag), all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Swashbuckler, Demolitionist, Headstone) perks, with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
-dimwishlist:item=829330711&perks=1392496348,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=1840239774,3230963543,2846385770,438098033
-dimwishlist:item=829330711&perks=1392496348,106909392,2846385770,438098033
-dimwishlist:item=829330711&perks=1840239774,106909392,2846385770,438098033
-dimwishlist:item=829330711&perks=1392496348,3230963543,2946784966,438098033
 dimwishlist:item=829330711&perks=1840239774,3230963543,2946784966,438098033
-dimwishlist:item=829330711&perks=1392496348,106909392,2946784966,438098033
-dimwishlist:item=829330711&perks=1840239774,106909392,2946784966,438098033
 dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,438098033
 dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,438098033
 dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,438098033
@@ -168,18 +151,6 @@ dimwishlist:item=829330711&perks=1392496348,3230963543,2946784966,4082225868
 dimwishlist:item=829330711&perks=1840239774,3230963543,2946784966,4082225868
 dimwishlist:item=829330711&perks=1392496348,106909392,2946784966,4082225868
 dimwishlist:item=829330711&perks=1840239774,106909392,2946784966,4082225868
-dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1392496348,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=1840239774,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=1392496348,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1840239774,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1392496348,3230963543,2450788523,4082225868
-dimwishlist:item=829330711&perks=1840239774,3230963543,2450788523,4082225868
-dimwishlist:item=829330711&perks=1392496348,106909392,2450788523,4082225868
-dimwishlist:item=829330711&perks=1840239774,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=1392496348,3230963543,1645158859,4082225868
 dimwishlist:item=829330711&perks=1840239774,3230963543,1645158859,4082225868
 dimwishlist:item=829330711&perks=1392496348,106909392,1645158859,4082225868
@@ -192,13 +163,8 @@ dimwishlist:item=829330711&perks=1392496348,3230963543,2946784966,3523296417
 dimwishlist:item=829330711&perks=1840239774,3230963543,2946784966,3523296417
 dimwishlist:item=829330711&perks=1392496348,106909392,2946784966,3523296417
 dimwishlist:item=829330711&perks=1840239774,106909392,2946784966,3523296417
-dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,3523296417
 dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,3523296417
-dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=1392496348,3230963543,972757866,3523296417
 dimwishlist:item=829330711&perks=1840239774,3230963543,972757866,3523296417
-dimwishlist:item=829330711&perks=1392496348,106909392,972757866,3523296417
 dimwishlist:item=829330711&perks=1840239774,106909392,972757866,3523296417
 dimwishlist:item=829330711&perks=1392496348,3230963543,2450788523,3523296417
 dimwishlist:item=829330711&perks=1840239774,3230963543,2450788523,3523296417
@@ -234,23 +200,9 @@ dimwishlist:item=829330711&perks=1392496348,106909392,1645158859,124408337
 dimwishlist:item=829330711&perks=1840239774,106909392,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), stability mags (Flared Magwell, Tactical Mag), all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Range MW
-//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
-dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1392496348,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=1840239774,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=1392496348,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1840239774,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,3523296417
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range
 dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,3523296417
-dimwishlist:item=829330711&perks=1392496348,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=1392496348,3230963543,972757866,3523296417
 dimwishlist:item=829330711&perks=1840239774,3230963543,972757866,3523296417
-dimwishlist:item=829330711&perks=1392496348,106909392,972757866,3523296417
 dimwishlist:item=829330711&perks=1840239774,106909392,972757866,3523296417
 dimwishlist:item=829330711&perks=1392496348,3230963543,1820235745,3708227201
 dimwishlist:item=829330711&perks=1840239774,3230963543,1820235745,3708227201
@@ -262,7 +214,6 @@ dimwishlist:item=829330711&perks=1392496348,106909392,972757866,3708227201
 dimwishlist:item=829330711&perks=1840239774,106909392,972757866,3708227201
 
 // Peacebond (PvP first choice roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), Accurized Rounds, Rangefinder/ Tunnel Vision, Harmony with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
 dimwishlist:item=829330711&perks=1392496348,3142289711,2846385770,438098033
 dimwishlist:item=829330711&perks=1840239774,3142289711,2846385770,438098033
@@ -270,7 +221,6 @@ dimwishlist:item=829330711&perks=1392496348,3142289711,2946784966,438098033
 dimwishlist:item=829330711&perks=1840239774,3142289711,2946784966,438098033
 
 // Peacebond (PvP backup roll, PvE first choice roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), Accurized Rounds, Subsistence, Swashbuckler/ Demolitionist with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll, PvE first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
 dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,4082225868
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,4082225868
@@ -278,18 +228,19 @@ dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), Accurized Rounds, Killing Wind, Swashbuckler with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
 dimwishlist:item=829330711&perks=1392496348,3142289711,2450788523,4082225868
 dimwishlist:item=829330711&perks=1840239774,3142289711,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod for PvP
+dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,4082225868
+dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,4082225868
+dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,3523296417
+dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,3523296417
+
 // Peacebond (PvP backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), Accurized Rounds, all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Swashbuckler, Demolitionist, Headstone), with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
-dimwishlist:item=829330711&perks=1392496348,3142289711,2846385770,438098033
-dimwishlist:item=829330711&perks=1840239774,3142289711,2846385770,438098033
-dimwishlist:item=829330711&perks=1392496348,3142289711,2946784966,438098033
-dimwishlist:item=829330711&perks=1840239774,3142289711,2946784966,438098033
 dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,438098033
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,438098033
 dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,438098033
@@ -302,21 +253,13 @@ dimwishlist:item=829330711&perks=1392496348,3142289711,2846385770,4082225868
 dimwishlist:item=829330711&perks=1840239774,3142289711,2846385770,4082225868
 dimwishlist:item=829330711&perks=1392496348,3142289711,2946784966,4082225868
 dimwishlist:item=829330711&perks=1840239774,3142289711,2946784966,4082225868
-dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=1392496348,3142289711,2450788523,4082225868
-dimwishlist:item=829330711&perks=1840239774,3142289711,2450788523,4082225868
 dimwishlist:item=829330711&perks=1392496348,3142289711,1645158859,4082225868
 dimwishlist:item=829330711&perks=1840239774,3142289711,1645158859,4082225868
 dimwishlist:item=829330711&perks=1392496348,3142289711,2846385770,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,2846385770,3523296417
 dimwishlist:item=829330711&perks=1392496348,3142289711,2946784966,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,2946784966,3523296417
-dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,3523296417
-dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,3523296417
 dimwishlist:item=829330711&perks=1392496348,3142289711,2450788523,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,2450788523,3523296417
@@ -336,23 +279,15 @@ dimwishlist:item=829330711&perks=1392496348,3142289711,1645158859,124408337
 dimwishlist:item=829330711&perks=1840239774,3142289711,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Stability barrels (Polygonal Rifling, Fluted Barrel), Accurized Rounds, all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
-dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,4082225868
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,3523296417
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,3523296417
-dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,3523296417
-dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,3523296417
 dimwishlist:item=829330711&perks=1392496348,3142289711,1820235745,3708227201
 dimwishlist:item=829330711&perks=1840239774,3142289711,1820235745,3708227201
 dimwishlist:item=829330711&perks=1392496348,3142289711,972757866,3708227201
 dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,3708227201
 
 // Peacebond (PvP first choice roll)
-// Range barrels (Hammer-forged Rifling, Extended Barrel), stability mags (Flared Magwell, Tactical Mag), Rangefinder/ Tunnel Vision, Harmony with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
 dimwishlist:item=829330711&perks=3250034553,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=1467527085,3230963543,2846385770,438098033
@@ -364,7 +299,6 @@ dimwishlist:item=829330711&perks=3250034553,106909392,2946784966,438098033
 dimwishlist:item=829330711&perks=1467527085,106909392,2946784966,438098033
 
 // Peacebond (PvE first choice roll, PvP backup roll)
-// Range barrels (Hammer-forged Rifling, Extended Barrel), stability mags (Flared Magwell, Tactical Mag), Subsistence, Swashbuckler/ Demolitionist with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
 dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,4082225868
@@ -376,24 +310,25 @@ dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3523296417
 dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Range barrels (Hammer-forged Rifling, Extended Barrel), stability mags (Flared Magwell, Tactical Mag), Killing Wind, Swashbuckler with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
 dimwishlist:item=829330711&perks=3250034553,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=3250034553,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=1467527085,106909392,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod for PvP
+dimwishlist:item=829330711&perks=3250034553,3230963543,972757866,4082225868
+dimwishlist:item=829330711&perks=3250034553,106909392,972757866,4082225868
+dimwishlist:item=829330711&perks=1467527085,106909392,972757866,4082225868
+dimwishlist:item=829330711&perks=3250034553,3230963543,972757866,3523296417
+dimwishlist:item=829330711&perks=3250034553,106909392,972757866,3523296417
+dimwishlist:item=829330711&perks=1467527085,106909392,972757866,3523296417
+
 // Peacebond (PvP backup roll)
-// Range barrels (Hammer-forged Rifling, Extended Barrel), stability mags (Flared Magwell, Tactical Mag), all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Demolitionist, Swashbuckler, Headstone), with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
-dimwishlist:item=829330711&perks=3250034553,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=1467527085,3230963543,2846385770,438098033
-dimwishlist:item=829330711&perks=3250034553,106909392,2846385770,438098033
-dimwishlist:item=829330711&perks=1467527085,106909392,2846385770,438098033
-dimwishlist:item=829330711&perks=3250034553,3230963543,2946784966,438098033
 dimwishlist:item=829330711&perks=1467527085,3230963543,2946784966,438098033
-dimwishlist:item=829330711&perks=3250034553,106909392,2946784966,438098033
-dimwishlist:item=829330711&perks=1467527085,106909392,2946784966,438098033
 dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,438098033
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,438098033
 dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,438098033
@@ -418,17 +353,9 @@ dimwishlist:item=829330711&perks=3250034553,3230963543,2946784966,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,2946784966,4082225868
 dimwishlist:item=829330711&perks=3250034553,106909392,2946784966,4082225868
 dimwishlist:item=829330711&perks=1467527085,106909392,2946784966,4082225868
-dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=3250034553,3230963543,972757866,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1467527085,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=3250034553,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,2450788523,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=1467527085,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=3250034553,3230963543,1645158859,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,1645158859,4082225868
@@ -442,14 +369,8 @@ dimwishlist:item=829330711&perks=3250034553,3230963543,2946784966,3523296417
 dimwishlist:item=829330711&perks=1467527085,3230963543,2946784966,3523296417
 dimwishlist:item=829330711&perks=3250034553,106909392,2946784966,3523296417
 dimwishlist:item=829330711&perks=1467527085,106909392,2946784966,3523296417
-dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,3523296417
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,3523296417
-dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=3250034553,3230963543,972757866,3523296417
 dimwishlist:item=829330711&perks=1467527085,3230963543,972757866,3523296417
-dimwishlist:item=829330711&perks=3250034553,106909392,972757866,3523296417
-dimwishlist:item=829330711&perks=1467527085,106909392,972757866,3523296417
 dimwishlist:item=829330711&perks=3250034553,3230963543,2450788523,3523296417
 dimwishlist:item=829330711&perks=1467527085,3230963543,2450788523,3523296417
 dimwishlist:item=829330711&perks=3250034553,106909392,2450788523,3523296417
@@ -484,24 +405,11 @@ dimwishlist:item=829330711&perks=3250034553,106909392,1645158859,124408337
 dimwishlist:item=829330711&perks=1467527085,106909392,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Range barrels (Hammer-forged Rifling, Extended Barrel), stability mags (Flared Magwell, Tactical Mag), all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod
-dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=3250034553,3230963543,972757866,4082225868
 dimwishlist:item=829330711&perks=1467527085,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1467527085,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,3523296417
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,3523296417
-dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=3250034553,3230963543,972757866,3523296417
 dimwishlist:item=829330711&perks=1467527085,3230963543,972757866,3523296417
-dimwishlist:item=829330711&perks=3250034553,106909392,972757866,3523296417
-dimwishlist:item=829330711&perks=1467527085,106909392,972757866,3523296417
 dimwishlist:item=829330711&perks=3250034553,3230963543,1820235745,3708227201
 dimwishlist:item=829330711&perks=1467527085,3230963543,1820235745,3708227201
 dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,3708227201
@@ -512,7 +420,6 @@ dimwishlist:item=829330711&perks=3250034553,106909392,972757866,3708227201
 dimwishlist:item=829330711&perks=1467527085,106909392,972757866,3708227201
 
 // Peacebond (PvP first choice roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), stability mags (Flared Magwell, Tactical Mag), Rangefinder/ Tunnel Vision, Harmony with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
 dimwishlist:item=829330711&perks=1482024992,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=4090651448,3230963543,2846385770,438098033
@@ -524,7 +431,6 @@ dimwishlist:item=829330711&perks=1482024992,106909392,2946784966,438098033
 dimwishlist:item=829330711&perks=4090651448,106909392,2946784966,438098033
 
 // Peacebond (PvE first choice roll, PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), stability mags (Flared Magwell, Tactical Mag), Subsistence, Swashbuckler/ Demolitionist with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
 dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,4082225868
@@ -536,24 +442,28 @@ dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), stability mags (Flared Magwell, Tactical Mag), Killing Wind, Swashbuckler with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
 dimwishlist:item=829330711&perks=1482024992,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=1482024992,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=4090651448,106909392,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod for PvP
+dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,4082225868
+dimwishlist:item=829330711&perks=1482024992,106909392,972757866,4082225868
+dimwishlist:item=829330711&perks=4090651448,106909392,972757866,4082225868
+dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,124408337
+dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,124408337
+dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,124408337
+dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,124408337
+dimwishlist:item=829330711&perks=1482024992,106909392,972757866,124408337
+dimwishlist:item=829330711&perks=4090651448,106909392,972757866,124408337
+
 // Peacebond (PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), stability mags (Flared Magwell, Tactical Mag), all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Swashbuckler, Demolitionist, Headstone), with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
-dimwishlist:item=829330711&perks=1482024992,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=4090651448,3230963543,2846385770,438098033
-dimwishlist:item=829330711&perks=1482024992,106909392,2846385770,438098033
-dimwishlist:item=829330711&perks=4090651448,106909392,2846385770,438098033
-dimwishlist:item=829330711&perks=1482024992,3230963543,2946784966,438098033
 dimwishlist:item=829330711&perks=4090651448,3230963543,2946784966,438098033
-dimwishlist:item=829330711&perks=1482024992,106909392,2946784966,438098033
-dimwishlist:item=829330711&perks=4090651448,106909392,2946784966,438098033
 dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,438098033
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,438098033
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,438098033
@@ -578,18 +488,9 @@ dimwishlist:item=829330711&perks=1482024992,3230963543,2946784966,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,2946784966,4082225868
 dimwishlist:item=829330711&perks=1482024992,106909392,2946784966,4082225868
 dimwishlist:item=829330711&perks=4090651448,106909392,2946784966,4082225868
-dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=1482024992,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1482024992,3230963543,2450788523,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,2450788523,4082225868
-dimwishlist:item=829330711&perks=1482024992,106909392,2450788523,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,2450788523,4082225868
 dimwishlist:item=829330711&perks=1482024992,3230963543,1645158859,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,1645158859,4082225868
 dimwishlist:item=829330711&perks=1482024992,106909392,1645158859,4082225868
@@ -602,10 +503,7 @@ dimwishlist:item=829330711&perks=1482024992,3230963543,2946784966,3523296417
 dimwishlist:item=829330711&perks=4090651448,3230963543,2946784966,3523296417
 dimwishlist:item=829330711&perks=1482024992,106909392,2946784966,3523296417
 dimwishlist:item=829330711&perks=4090651448,106909392,2946784966,3523296417
-dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,3523296417
-dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3523296417
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,3523296417
 dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,3523296417
 dimwishlist:item=829330711&perks=4090651448,3230963543,972757866,3523296417
 dimwishlist:item=829330711&perks=1482024992,106909392,972757866,3523296417
@@ -626,14 +524,9 @@ dimwishlist:item=829330711&perks=1482024992,3230963543,2946784966,124408337
 dimwishlist:item=829330711&perks=4090651448,3230963543,2946784966,124408337
 dimwishlist:item=829330711&perks=1482024992,106909392,2946784966,124408337
 dimwishlist:item=829330711&perks=4090651448,106909392,2946784966,124408337
-dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,124408337
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,124408337
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,124408337
 dimwishlist:item=829330711&perks=4090651448,3230963543,972757866,124408337
-dimwishlist:item=829330711&perks=1482024992,106909392,972757866,124408337
-dimwishlist:item=829330711&perks=4090651448,106909392,972757866,124408337
 dimwishlist:item=829330711&perks=1482024992,3230963543,2450788523,124408337
 dimwishlist:item=829330711&perks=4090651448,3230963543,2450788523,124408337
 dimwishlist:item=829330711&perks=1482024992,106909392,2450788523,124408337
@@ -644,24 +537,11 @@ dimwishlist:item=829330711&perks=1482024992,106909392,1645158859,124408337
 dimwishlist:item=829330711&perks=4090651448,106909392,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), stability mags (Flared Magwell, Tactical Mag), all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod
-dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,4082225868
-dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,4082225868
 dimwishlist:item=829330711&perks=4090651448,3230963543,972757866,4082225868
-dimwishlist:item=829330711&perks=1482024992,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,972757866,4082225868
-dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,124408337
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,124408337
-dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=1482024992,3230963543,972757866,124408337
 dimwishlist:item=829330711&perks=4090651448,3230963543,972757866,124408337
-dimwishlist:item=829330711&perks=1482024992,106909392,972757866,124408337
-dimwishlist:item=829330711&perks=4090651448,106909392,972757866,124408337
 dimwishlist:item=829330711&perks=1482024992,3230963543,1820235745,3708227201
 dimwishlist:item=829330711&perks=4090651448,3230963543,1820235745,3708227201
 dimwishlist:item=829330711&perks=1482024992,106909392,1820235745,3708227201
@@ -672,7 +552,6 @@ dimwishlist:item=829330711&perks=1482024992,106909392,972757866,3708227201
 dimwishlist:item=829330711&perks=4090651448,106909392,972757866,3708227201
 
 // Peacebond (PvP first choice roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Accurized Rounds, Rangefinder/ Tunnel Vision, Harmony with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,438098033
 dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,438098033
@@ -680,7 +559,6 @@ dimwishlist:item=829330711&perks=1482024992,3142289711,2946784966,438098033
 dimwishlist:item=829330711&perks=4090651448,3142289711,2946784966,438098033
 
 // Peacebond (PvE first choice roll, PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Accurized Rounds, Subsistence, Swashbuckler/ Demolitionist with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,4082225868
 dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,4082225868
@@ -688,18 +566,19 @@ dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Accurized Rounds, Killing Wind, Swashbuckler with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3142289711,2450788523,4082225868
 dimwishlist:item=829330711&perks=4090651448,3142289711,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod for PvP.
+dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,4082225868
+dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,4082225868
+dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,3523296417
+dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,3523296417
+
 // Peacebond (PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Accurized Rounds, all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Swashbuckler, Demolitionist, Headstone), with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
-dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,438098033
-dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,438098033
-dimwishlist:item=829330711&perks=1482024992,3142289711,2946784966,438098033
-dimwishlist:item=829330711&perks=4090651448,3142289711,2946784966,438098033
 dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,438098033
 dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,438098033
 dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,438098033
@@ -712,22 +591,13 @@ dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,4082225868
 dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,4082225868
 dimwishlist:item=829330711&perks=1482024992,3142289711,2946784966,4082225868
 dimwishlist:item=829330711&perks=4090651448,3142289711,2946784966,4082225868
-dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=1482024992,3142289711,2450788523,4082225868
-dimwishlist:item=829330711&perks=4090651448,3142289711,2450788523,4082225868
 dimwishlist:item=829330711&perks=1482024992,3142289711,1645158859,4082225868
 dimwishlist:item=829330711&perks=4090651448,3142289711,1645158859,4082225868
 dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,3523296417
 dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,3523296417
 dimwishlist:item=829330711&perks=1482024992,3142289711,2946784966,3523296417
 dimwishlist:item=829330711&perks=4090651448,3142289711,2946784966,3523296417
-dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,3523296417
-dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,3523296417
-dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,3523296417
 dimwishlist:item=829330711&perks=1482024992,3142289711,2450788523,3523296417
 dimwishlist:item=829330711&perks=4090651448,3142289711,2450788523,3523296417
 dimwishlist:item=829330711&perks=1482024992,3142289711,1645158859,3523296417
@@ -746,57 +616,43 @@ dimwishlist:item=829330711&perks=1482024992,3142289711,1645158859,124408337
 dimwishlist:item=829330711&perks=4090651448,3142289711,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Accurized Rounds, all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
-dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,4082225868
-dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,3523296417
-dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,3523296417
-dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,3523296417
 dimwishlist:item=829330711&perks=1482024992,3142289711,1820235745,3708227201
 dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,3708227201
 dimwishlist:item=829330711&perks=1482024992,3142289711,972757866,3708227201
 dimwishlist:item=829330711&perks=4090651448,3142289711,972757866,3708227201
 
 // Peacebond (PvP first choice roll)
-// Full Bore, Steady Rounds, Rangefinder/ Tunnel Vision, Harmony with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=202670084,3177308360,2846385770,438098033
 dimwishlist:item=829330711&perks=202670084,3177308360,2946784966,438098033
 
 // Peacebond (PvE first choice roll, PvP backup roll)
-// Full Bore, Steady Rounds, Subsistence, Swashbuckler/ Demolitionist with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=202670084,3177308360,1820235745,4082225868
 dimwishlist:item=829330711&perks=202670084,3177308360,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Full Bore, Steady Rounds, Killing Wind, Swashbuckler with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=202670084,3177308360,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+dimwishlist:item=829330711&perks=202670084,3177308360,972757866,4082225868
+dimwishlist:item=829330711&perks=202670084,3177308360,972757866,3523296417
+
 // Peacebond (PvP backup roll)
-// Full Bore, Steady Rounds, all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Swashbuckler, Demolitionist, Headstone), with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
-dimwishlist:item=829330711&perks=202670084,3177308360,2846385770,438098033
-dimwishlist:item=829330711&perks=202670084,3177308360,2946784966,438098033
 dimwishlist:item=829330711&perks=202670084,3177308360,1820235745,438098033
 dimwishlist:item=829330711&perks=202670084,3177308360,972757866,438098033
 dimwishlist:item=829330711&perks=202670084,3177308360,2450788523,438098033
 dimwishlist:item=829330711&perks=202670084,3177308360,1645158859,438098033
 dimwishlist:item=829330711&perks=202670084,3177308360,2846385770,4082225868
 dimwishlist:item=829330711&perks=202670084,3177308360,2946784966,4082225868
-dimwishlist:item=829330711&perks=202670084,3177308360,1820235745,4082225868
-dimwishlist:item=829330711&perks=202670084,3177308360,972757866,4082225868
-dimwishlist:item=829330711&perks=202670084,3177308360,2450788523,4082225868
 dimwishlist:item=829330711&perks=202670084,3177308360,1645158859,4082225868
 dimwishlist:item=829330711&perks=202670084,3177308360,2846385770,3523296417
 dimwishlist:item=829330711&perks=202670084,3177308360,2946784966,3523296417
 dimwishlist:item=829330711&perks=202670084,3177308360,1820235745,3523296417
-dimwishlist:item=829330711&perks=202670084,3177308360,972757866,3523296417
 dimwishlist:item=829330711&perks=202670084,3177308360,2450788523,3523296417
 dimwishlist:item=829330711&perks=202670084,3177308360,1645158859,3523296417
 dimwishlist:item=829330711&perks=202670084,3177308360,2846385770,124408337
@@ -807,17 +663,13 @@ dimwishlist:item=829330711&perks=202670084,3177308360,2450788523,124408337
 dimwishlist:item=829330711&perks=202670084,3177308360,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Full Bore, Steady Rounds, all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod.
 dimwishlist:item=829330711&perks=202670084,3177308360,4082225868,4082225868
-dimwishlist:item=829330711&perks=202670084,3177308360,972757866,4082225868
 dimwishlist:item=829330711&perks=202670084,3177308360,4082225868,3523296417
-dimwishlist:item=829330711&perks=202670084,3177308360,972757866,3523296417
 dimwishlist:item=829330711&perks=202670084,3177308360,4082225868,3708227201
 dimwishlist:item=829330711&perks=202670084,3177308360,972757866,3708227201
 
 // Peacebond (PvP first choice roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Steady Rounds, Rangefinder/ Tunnel Vision, Harmony with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP first choice roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3177308360,2846385770,438098033
 dimwishlist:item=829330711&perks=4090651448,3177308360,2846385770,438098033
@@ -825,7 +677,6 @@ dimwishlist:item=829330711&perks=1482024992,3177308360,2946784966,438098033
 dimwishlist:item=829330711&perks=4090651448,3177308360,2946784966,438098033
 
 // Peacebond (PvE first choice roll, PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Steady Rounds, Subsistence, Swashbuckler/ Demolitionist with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE first choice roll, PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3177308360,1820235745,4082225868
 dimwishlist:item=829330711&perks=4090651448,3177308360,1820235745,4082225868
@@ -833,18 +684,19 @@ dimwishlist:item=829330711&perks=1482024992,3177308360,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,3177308360,1820235745,3523296417
 
 // Peacebond (PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Steady Rounds, Killing Wind, Swashbuckler with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3177308360,2450788523,4082225868
 dimwishlist:item=829330711&perks=4090651448,3177308360,2450788523,4082225868
 
+// Peacebond (PvP/PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod for PvP.
+dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,4082225868
+dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,3523296417
+
 // Peacebond (PvP backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Steady Rounds, all recommended trait 1 (Rangefinder, Tunnel Vision, Subsistence, Pulse Monitor, Killing Wind, Heating Up) and trait 2 (Harmony, Swashbuckler, Demolitionist, Headstone), with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1392496348,3177308360,2846385770,438098033
-dimwishlist:item=829330711&perks=4090651448,3177308360,2846385770,438098033
 dimwishlist:item=829330711&perks=1392496348,3177308360,2946784966,438098033
-dimwishlist:item=829330711&perks=4090651448,3177308360,2946784966,438098033
 dimwishlist:item=829330711&perks=1392496348,3177308360,1820235745,438098033
 dimwishlist:item=829330711&perks=4090651448,3177308360,1820235745,438098033
 dimwishlist:item=829330711&perks=1392496348,3177308360,972757866,438098033
@@ -858,11 +710,8 @@ dimwishlist:item=829330711&perks=4090651448,3177308360,2846385770,4082225868
 dimwishlist:item=829330711&perks=1392496348,3177308360,2946784966,4082225868
 dimwishlist:item=829330711&perks=4090651448,3177308360,2946784966,4082225868
 dimwishlist:item=829330711&perks=1392496348,3177308360,1820235745,4082225868
-dimwishlist:item=829330711&perks=4090651448,3177308360,1820235745,4082225868
 dimwishlist:item=829330711&perks=1392496348,3177308360,972757866,4082225868
-dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,4082225868
 dimwishlist:item=829330711&perks=1392496348,3177308360,2450788523,4082225868
-dimwishlist:item=829330711&perks=4090651448,3177308360,2450788523,4082225868
 dimwishlist:item=829330711&perks=1392496348,3177308360,1645158859,4082225868
 dimwishlist:item=829330711&perks=4090651448,3177308360,1645158859,4082225868
 dimwishlist:item=829330711&perks=1392496348,3177308360,2846385770,3523296417
@@ -872,7 +721,6 @@ dimwishlist:item=829330711&perks=4090651448,3177308360,2946784966,3523296417
 dimwishlist:item=829330711&perks=1392496348,3177308360,1820235745,3523296417
 dimwishlist:item=829330711&perks=4090651448,3177308360,1820235745,3523296417
 dimwishlist:item=829330711&perks=1392496348,3177308360,972757866,3523296417
-dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,3523296417
 dimwishlist:item=829330711&perks=1392496348,3177308360,2450788523,3523296417
 dimwishlist:item=829330711&perks=4090651448,3177308360,2450788523,3523296417
 dimwishlist:item=829330711&perks=1392496348,3177308360,1645158859,3523296417
@@ -891,16 +739,13 @@ dimwishlist:item=829330711&perks=1392496348,3177308360,1645158859,124408337
 dimwishlist:item=829330711&perks=4090651448,3177308360,1645158859,124408337
 
 // Peacebond (PvE backup roll)
-// Combination barrels (Smallbore, Corkscrew Rifling), Steady Rounds, all recommended trait 1 (Subsistence, Pulse Monitor) and trait 2 (Swashbuckler, Demolitionist, Surrounded) perks, with Range MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvE backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod.
 dimwishlist:item=829330711&perks=1482024992,3177308360,4082225868,4082225868
 dimwishlist:item=829330711&perks=4090651448,3177308360,4082225868,4082225868
 dimwishlist:item=829330711&perks=1482024992,3177308360,972757866,4082225868
-dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,4082225868
 dimwishlist:item=829330711&perks=1482024992,3177308360,4082225868,3523296417
 dimwishlist:item=829330711&perks=4090651448,3177308360,4082225868,3523296417
 dimwishlist:item=829330711&perks=1482024992,3177308360,972757866,3523296417
-dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,3523296417
 dimwishlist:item=829330711&perks=1482024992,3177308360,4082225868,3708227201
 dimwishlist:item=829330711&perks=4090651448,3177308360,4082225868,3708227201
 dimwishlist:item=829330711&perks=1482024992,3177308360,972757866,3708227201
