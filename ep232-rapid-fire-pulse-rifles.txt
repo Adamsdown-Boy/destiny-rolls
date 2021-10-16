@@ -192,6 +192,14 @@ dimwishlist:item=2481758391&perks=1392496348,1968497646,1820235745,3425386926
 dimwishlist:item=2481758391&perks=3661387068,1561002382,1820235745,3425386926
 dimwishlist:item=2481758391&perks=1392496348,1561002382,1820235745,3425386926
 
+// Gridskipper (PvP first choice roll)
+// Recommended barrels (Arrowhead Brake, Chambered Compensator), Ricochet Rounds, Recommended Trait 1 (Tunnel Vision, Heating Up), Multikill Clip
+//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP first choice roll - probably best in subtype for 6v6 modes. Recommended MW: Range or Stability on personal choice with Targeting Adjuster mod.
+dimwishlist:item=1621558458&perks=839105230,3661387068,2946784966,2458213969
+dimwishlist:item=1621558458&perks=3661387068,3661387068,2946784966,2458213969
+dimwishlist:item=1621558458&perks=839105230,3661387068,1570042021,2458213969
+dimwishlist:item=1621558458&perks=3661387068,3661387068,1570042021,2458213969
+
 // Gridskipper (PvP backup roll)
 // Recommended barrels (Arrowhead Brake, Chambered Compensator, Extended Barrel, Hammer-forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling), Recommended mags (Ricochet Rounds, Flared Magwell), Recommended Trait 1 (Tunnel Vision, Heating Up, Killing Wind), Multikill Clip
 //notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP backup roll - probably best in subtype for 6v6 modes. Recommended MW: Range or Stability on personal choice with Targeting Adjuster mod.
@@ -255,15 +263,6 @@ dimwishlist:item=1621558458&perks=3250034553,3230963543,588594999,957782887
 dimwishlist:item=1621558458&perks=1392496348,3230963543,588594999,957782887
 dimwishlist:item=1621558458&perks=1482024992,3230963543,588594999,957782887
 dimwishlist:item=1621558458&perks=4090651448,3230963543,588594999,957782887
-
-// Gridskipper (PvP first choice roll)
-// Recommended barrels (Arrowhead Brake, Chambered Compensator), Ricochet Rounds, Recommended Trait 1 (Tunnel Vision, Heating Up), Multikill Clip
-//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP first choice roll - probably best in subtype for 6v6 modes. Recommended MW: Range or Stability on personal choice with Targeting Adjuster mod.
-dimwishlist:item=1621558458&perks=839105230,3661387068,2946784966,2458213969
-dimwishlist:item=1621558458&perks=3661387068,3661387068,2946784966,2458213969
-dimwishlist:item=1621558458&perks=839105230,3661387068,1570042021,2458213969
-dimwishlist:item=1621558458&perks=3661387068,3661387068,1570042021,2458213969
-
 
 // Gridskipper (PvE first choice roll)
 // Recommended barrels (Arrowhead Brake, Chambered Compensator, Extended Barrel, Hammer-forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling), Recommended mags (Ricochet Rounds, Flared Magwell, High-Calibre Rounds, Armor-Piercing Rounds), Heating up, Recommended Trait 2 (Thresh, Frenzy, Adreniline Junkie)
