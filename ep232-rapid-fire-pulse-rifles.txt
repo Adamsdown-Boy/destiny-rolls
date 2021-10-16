@@ -259,7 +259,7 @@ dimwishlist:item=1621558458&perks=1482024992,3230963543,588594999,957782887
 dimwishlist:item=1621558458&perks=4090651448,3230963543,588594999,957782887
 
 // Gridskipper (PvE first choice roll)
-// Recommended barrels (Arrowhead Brake, Chambered Compensator, Extended Barrel, Hammer-forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling), Recommended mags (Ricochet Rounds, Flared Magwell, High-Calibre Rounds, Armor-Piercing Rounds), Heating up, Recommended Trait 2 (Thresh, Frenzy, Adreniline Junkie)
+// Recommended barrels (Arrowhead Brake, Chambered Compensator, Extended Barrel, Hammer-forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling), Recommended mags (Ricochet Rounds, Flared Magwell, High-Calibre Rounds, Armor-Piercing Rounds), Heating up, Recommended Trait 2 (Thresh, Frenzy, Adrenaline Junkie)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvE first choice roll. Recommended MW: Range or Stability on personal choice.
 dimwishlist:item=1621558458&perks=839105230,3661387068,1570042021,2726471870
 dimwishlist:item=1621558458&perks=3661387068,3661387068,1570042021,2726471870
