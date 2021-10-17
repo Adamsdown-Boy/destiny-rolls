@@ -257,31 +257,9 @@ dimwishlist:item=1621558458&perks=1392496348,3230963543,588594999,957782887
 dimwishlist:item=1621558458&perks=1482024992,3230963543,588594999,957782887
 dimwishlist:item=1621558458&perks=4090651448,3230963543,588594999,957782887
 
-// The Time-Worn Spire (PvP first choice roll)
-// Rifle Scope ST, Ricochet Rounds, Moving Traget, Iron Grip
-//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP first choice roll, but tough to farm. Recommended MW: Stability with Counterbalance mod.
-dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321
-
-// The Time-Worn Spire (PvP backup roll)
-// Zoom scopes (Rifle Scope ST, Rifle Scope SSF), Ricochet Rounds, Recommended Trait 1 (Slideways, Moving Target, Under pressure), Iron Grip
-//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP backup roll, but tough to farm. Recommended MW: Stability with Counterbalance mod.
-dimwishlist:item=3593598010&perks=679077872,1885400500,588594999,11551321
-dimwishlist:item=3593598010&perks=679077873,3230963543,588594999,11551321
-dimwishlist:item=3593598010&perks=679077872,3230963543,588594999,11551321
-dimwishlist:item=3593598010&perks=679077873,1885400500,2039302152,11551321
-dimwishlist:item=3593598010&perks=679077872,1885400500,2039302152,11551321
-dimwishlist:item=3593598010&perks=679077873,3230963543,2039302152,11551321
-dimwishlist:item=3593598010&perks=679077872,3230963543,2039302152,11551321
-dimwishlist:item=3593598010&perks=679077873,1885400500,1645158859,11551321
-dimwishlist:item=3593598010&perks=679077872,1885400500,1645158859,11551321
-dimwishlist:item=3593598010&perks=679077873,3230963543,1645158859,11551321
-dimwishlist:item=3593598010&perks=679077872,3230963543,1645158859,11551321
-
-// For personal list only, not published as DMB 
-
 // Gridskipper (PvE first choice roll)
 // Recommended barrels not mentioned in Podcast 213 (Extended Barrel, Hammer-forged Rifling, Smallbore, Corkscrew Rifling), Mags (Ricochet Rounds, Flared Magwell, High-Calibre Rounds, Armor-Piercing Rounds), Heating up, Recommended Trait 2 from Podcast 213 (Thresh, Frenzy, Adrenaline Junkie)
-//notes:PvE first choice roll. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvE first choice roll. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1621558458&perks=1467527085,3230963543,1570042021,2726471870
 dimwishlist:item=1621558458&perks=3250034553,3230963543,1570042021,2726471870
 dimwishlist:item=1621558458&perks=1482024992,3230963543,1570042021,2726471870
@@ -330,6 +308,28 @@ dimwishlist:item=1621558458&perks=1467527085,1087426260,1570042021,11612903
 dimwishlist:item=1621558458&perks=3250034553,1087426260,1570042021,11612903
 dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,11612903
 dimwishlist:item=1621558458&perks=4090651448,1087426260,1570042021,11612903
+
+// The Time-Worn Spire (PvP first choice roll)
+// Rifle Scope ST, Ricochet Rounds, Moving Traget, Iron Grip
+//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP first choice roll, but tough to farm. Recommended MW: Stability with Counterbalance mod.
+dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321
+
+// The Time-Worn Spire (PvP backup roll)
+// Zoom scopes (Rifle Scope ST, Rifle Scope SSF), Ricochet Rounds, Recommended Trait 1 (Slideways, Moving Target, Under Pressure), Iron Grip
+//notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP backup roll, but tough to farm. Recommended MW: Stability with Counterbalance mod.
+dimwishlist:item=3593598010&perks=679077872,1885400500,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,3230963543,588594999,11551321
+dimwishlist:item=3593598010&perks=679077872,3230963543,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,1885400500,2039302152,11551321
+dimwishlist:item=3593598010&perks=679077872,1885400500,2039302152,11551321
+dimwishlist:item=3593598010&perks=679077873,3230963543,2039302152,11551321
+dimwishlist:item=3593598010&perks=679077872,3230963543,2039302152,11551321
+dimwishlist:item=3593598010&perks=679077873,1885400500,1645158859,11551321
+dimwishlist:item=3593598010&perks=679077872,1885400500,1645158859,11551321
+dimwishlist:item=3593598010&perks=679077873,3230963543,1645158859,11551321
+dimwishlist:item=3593598010&perks=679077872,3230963543,1645158859,11551321
+
+// For personal list only, not published as DMB 
 
 // The Time-Worn Spire (PvE first choice roll)
 // Handling scopes (Rifle Scope ST, Rifle Scope SSF), Armor-Piercing Rounds, Quickdraw, Vorpal Weapon 
