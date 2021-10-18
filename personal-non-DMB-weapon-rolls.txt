@@ -74,10 +74,10 @@ dimwishlist:item=3593598010&perks=679077872,1087426260,2779035018,3425386926
 dimwishlist:item=3593598010&perks=679077873,1087426260,2779035018,3425386926
 
 @title:Season 15 Festival of the Lost auto rifles
-@notes:Not yet covered by DMB
+@notes:Not yet covered by DMB - PvE rolls only!
 
 // BrayTech Werewolf (PvE first choice roll)
-//notes:Adamsdown_Boy PvE first choice roll for Anti-Barrier mod. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll for Anti-Barrier mod. Recommended MW: Stability or Reload Speed on personal choice with Major Spec mod.
 dimwishlist:item=528834068&perks=1840239774,1968497646,1354429876,1546637391
 dimwishlist:item=528834068&perks=1392496348,1968497646,1354429876,1546637391
 dimwishlist:item=528834068&perks=1482024992,1968497646,1354429876,1546637391
