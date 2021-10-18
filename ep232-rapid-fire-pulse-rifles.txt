@@ -1,3 +1,6 @@
+title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
+description:Weapons roundup as at S15 Festival of the Lost
+
 // Jurassic Green (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP first choice roll - although objectively the worst stats in the rapid-fire subtype. Recommended MW: Range or Stability on persoanl preference with Counterbalance mod.
 dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2458213969
