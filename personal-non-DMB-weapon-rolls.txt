@@ -66,6 +66,35 @@ dimwishlist:item=3829285960&perks=679077873,3230963543,1359896290,3523296417
 dimwishlist:item=3829285960&perks=679077872,1087426260,1359896290,3523296417
 dimwishlist:item=3829285960&perks=679077873,1087426260,1359896290,3523296417
 
+@title:Season 15 Vault of Glass weapons
+@notes:Not yet covered by DMB - PvE rolls only!
+
+// Fatebringer (PvE first choice roll)
+// Fluted Barrel, Appended Mag, Explosive Payload, Firefly
+//notes:Adamsdown_Boy PvE first choice roll. Closest to D1 roll. Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=3829285960&perks=1840239774,1087426260,3038247973,3824105627
+
+// Fatebringer (PvE first choice roll)
+// (Fluted Barrel or Polygonal Rifling), (Flared Magwell, Tactical Mag), Thresh, Frenzy
+//notes:Adamsdown_Boy PvE first choice roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=3829285960&perks=1840239774,3230963543,2726471870,4104185692
+dimwishlist:item=3829285960&perks=1392496348,3230963543,2726471870,4104185692
+dimwishlist:item=3829285960&perks=1840239774,106909392,2726471870,4104185692
+dimwishlist:item=3829285960&perks=1392496348,106909392,2726471870,4104185692
+
+// Fatebringer (PvE first choice roll)
+// (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag, Steady Rounds), Thresh, Frenzy
+//notes:Adamsdown_Boy PvE first choice roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=3829285960&perks=4090651448,3230963543,2726471870,4104185692
+dimwishlist:item=3829285960&perks=1482024992,3230963543,2726471870,4104185692
+dimwishlist:item=3829285960&perks=3250034553,3230963543,2726471870,4104185692
+dimwishlist:item=3829285960&perks=4090651448,106909392,2726471870,4104185692
+dimwishlist:item=3829285960&perks=1482024992,106909392,2726471870,4104185692
+dimwishlist:item=3829285960&perks=3250034553,106909392,2726471870,4104185692
+dimwishlist:item=3829285960&perks=4090651448,3177308360,2726471870,4104185692
+dimwishlist:item=3829285960&perks=1482024992,3177308360,2726471870,4104185692
+dimwishlist:item=3829285960&perks=3250034553,3177308360,2726471870,4104185692
+
 @title:Section for additional personal PvE rolls on weapons reviewed on DMB
 
 title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
