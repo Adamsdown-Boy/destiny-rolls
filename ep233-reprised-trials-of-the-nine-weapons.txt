@@ -254,11 +254,9 @@ dimwishlist:item=2855157553&perks=1047830412,791862061,3161816588,957782887
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll - competing with Felwindter's Lie in energy slot, which is better as at Season 15. Recommended MW: Range.
 dimwishlist:item=2855157553&perks=1047830412,3142289711,3161816588,957782887
 
-// A Sudden Death (PvE first choice roll)
-// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Threat Detector, Surrounded
-//notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll. Recommended MW: Handling or Reload Speed with Surrounded Spec mod.
-dimwishlist:item=2855157553&perks=1300023272,791862061,4071163871,3708227201
-dimwishlist:item=2855157553&perks=4090651448,791862061,4071163871,3708227201
+// A Sudden Death (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll - arc class with Elemental Capacitor for a big handling boost. Recommended MW: Handling or Reload Speed.
+dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
 
 // A Sudden Death (PvE first choice roll)
 // (Barrel Shroud, Corkscrew Rifling), Assault Mag, Pulse Monitor, Frenzy
