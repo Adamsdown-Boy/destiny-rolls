@@ -255,8 +255,10 @@ dimwishlist:item=2855157553&perks=1047830412,791862061,3161816588,957782887
 dimwishlist:item=2855157553&perks=1047830412,3142289711,3161816588,957782887
 
 // A Sudden Death (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll - arc class with Elemental Capacitor for a big handling boost. Recommended MW: Handling or Reload Speed.
+// Full Choke, (Assault Mag, Accurized Rounds), Threat Detector, Elemental Capacitor
+//notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE backup roll - arc class with Elemental Capacitor for a massive handling boost. Recommended MW: Handling or Reload Speed.
 dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
+dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
 
 // A Sudden Death (PvE first choice roll)
 // (Barrel Shroud, Corkscrew Rifling), Assault Mag, Pulse Monitor, Frenzy
