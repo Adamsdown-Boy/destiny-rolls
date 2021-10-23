@@ -1,16 +1,12 @@
 @title:Season 15 Reissued Trials of the Nine weapons
 @notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
 
-// Two stability perks with Range MW
-
 // Judgment (PvP first choice roll)
-// (Fastdraw HCS, SteadyHand HCS), Flared Magwell, Tunnel Vision, Multikill Clip with Range MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll for 6s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Range with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3230963543,2946784966,2458213969
 dimwishlist:item=1476654960&perks=1926090095,3230963543,2946784966,2458213969
 
 // Judgment (PvP backup roll)
-// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS. HitMark HCS), (Flared Magwell, Tactical Mag, Appended Mag), (Tunnel Vision, Ensemble), Multikill Clip with Range MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll for 6s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Range with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3230963543,2946784966,2458213969
 dimwishlist:item=1476654960&perks=1926090095,3230963543,2946784966,2458213969
@@ -38,7 +34,6 @@ dimwishlist:item=1476654960&perks=1926090092,1087426260,2621346526,2458213969
 dimwishlist:item=1476654960&perks=1926090093,1087426260,2621346526,2458213969
 
 // Judgment (PvP first choice roll)
-// (Fastdraw HCS, SteadyHand HCS), (Flared Magwell, Tactical Mag), Moving Target, Opening Shot with Range MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll for 3s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Range with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3230963543,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090095,3230963543,588594999,47981717
@@ -46,7 +41,6 @@ dimwishlist:item=1476654960&perks=1926090094,106909392,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090095,106909392,588594999,47981717
 
 // Judgment (PvP backup roll)
-// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS. HitMark HCS), (Flared Magwell, Tactical Mag, Appended Mag), (Moving Target Slideshot), Opening Shot with Range MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll for 3s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Range with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3230963543,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090095,3230963543,588594999,47981717
@@ -73,27 +67,21 @@ dimwishlist:item=1476654960&perks=1926090095,1087426260,3161816588,47981717
 dimwishlist:item=1476654960&perks=1926090092,1087426260,3161816588,47981717
 dimwishlist:item=1476654960&perks=1926090093,1087426260,3161816588,47981717
 
-// One stability perk, Accurised Rounds with Stability MW
-
 // Judgment (PvP first choice roll)
-// (Fastdraw HCS, SteadyHand HCS), Accurized Rounds, Tunnel Vision, Multikill Clip with Stability MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll for 6s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Stability with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3142289711,2946784966,2458213969
 dimwishlist:item=1476654960&perks=1926090095,3142289711,2946784966,2458213969
 
  // Judgment (PvP backup roll)
-// TrueSight HCS, Accurized Rounds, Tunnel Vision, Multikill Clip with Stability MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll for 6s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Stability with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090092,3142289711,2946784966,2458213969
 
 // Judgment (PvP first choice roll)
-// (Fastdraw HCS, SteadyHand HCS), Accurized Rounds, Moving Target, Opening Shot with Stability MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll for 3s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Stability with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
 
 // Judgment (PvP backup roll)
-// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS), Accurized Rounds, (Moving Target, Slideshot), Opening Shot with Stability MW for 6s
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll for 3s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Stability with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,47981717
 dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
@@ -103,7 +91,6 @@ dimwishlist:item=1476654960&perks=1926090095,3142289711,3161816588,47981717
 dimwishlist:item=1476654960&perks=1926090092,3142289711,3161816588,47981717
 
 // Judgment (PvE first choice roll)
-// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS. HitMark HCS), (Flared Magwell, Tactical Mag, Appended Mag), Demolitionist, Osmosis
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll for grenade usage and Match Game. Recommended MW: Reload or Stability.
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1774574192
 dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,1774574192
@@ -119,7 +106,6 @@ dimwishlist:item=1476654960&perks=1926090092,1087426260,3523296417,1774574192
 dimwishlist:item=1476654960&perks=1926090093,1087426260,3523296417,1774574192
 
 // Judgment (PvE first choice roll)
-// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS, HitMark HCS), (Flared Magwell, Tactical Mag, Appended Mag), Demolitionist, Adrenaline Junkie
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll for grenade usage. Recommended MW: Reload or Stability.
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903
 dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,11612903
@@ -135,42 +121,36 @@ dimwishlist:item=1476654960&perks=1926090092,1087426260,3523296417,11612903
 dimwishlist:item=1476654960&perks=1926090093,1087426260,3523296417,11612903
 
 // The Last Breath (PvP first choice roll)
-// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), Ricochet Rounds, Dynamic Sway Reduction, Rangefinder with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll, needs a fair bit of help to compete with Scathelock in kinetic slot, or Gnawing Hunder as an option. Recommended MW: Stability with Targeting Adjuter or Freehand Grip mod.
 dimwishlist:item=507038823&perks=839105230,1885400500,1359896290,2846385770
 dimwishlist:item=507038823&perks=3661387068,1885400500,1359896290,2846385770
 dimwishlist:item=507038823&perks=1392496348,1885400500,1359896290,2846385770
 
 // The Last Breath (PvP backup roll)
-// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), Ricochet Rounds, Slideshot, Rangefinder with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll, needs a fair bit of help to compete with Scathelock in kinetic slot, or Gnawing Hunder as an option. Recommended MW: Stability with Targeting Adjuter or Freehand Grip mod.
 dimwishlist:item=507038823&perks=839105230,1885400500,3161816588,2846385770
 dimwishlist:item=507038823&perks=3661387068,1885400500,3161816588,2846385770
 dimwishlist:item=507038823&perks=1392496348,1885400500,3161816588,2846385770
 
 // The Last Breath (PvE first choice roll)
-// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), Ricochet Rounds, Demolitionist, Osmosis
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll for grenade use or Match Game. Recommended MW: Reload Speed or Stability.
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,1774574192
 dimwishlist:item=507038823&perks=3661387068,1885400500,3523296417,1774574192
 dimwishlist:item=507038823&perks=1392496348,1885400500,3523296417,1774574192
 
 // The Last Breath (PvE first choice roll)
-// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), Ricochet Rounds, Demolitionist, Adrenaline Junkie
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll for grenade use. Recommended MW: Reload Speed or Stability.
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903
 dimwishlist:item=507038823&perks=3661387068,1885400500,3523296417,11612903
 dimwishlist:item=507038823&perks=1392496348,1885400500,3523296417,11612903
 
 // The Last Breath (PvE first choice roll)
-// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), Ricochet Rounds, Subsistence, Frenzy
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll for general PvE. Recommended MW: Reload Speed or Stability.
 dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4104185692
 dimwishlist:item=507038823&perks=3661387068,1885400500,1820235745,4104185692
 dimwishlist:item=507038823&perks=1392496348,1885400500,1820235745,4104185692
 
 // The Last Breath (PvE first choice roll)
-// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), Ricochet Rounds, Subsistence, One For All
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll for endgame PvE if you can get One For All procced. Recommended MW: Reload Speed or Stability.
 dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4049631843
 dimwishlist:item=507038823&perks=3661387068,1885400500,1820235745,4049631843
@@ -187,7 +167,6 @@ dimwishlist:item=1626503676&perks=445755706,1885400500,2946784966,1015611457
 dimwishlist:item=1626503676&perks=445755707,1885400500,2946784966,1015611457
 
 // The Long Walk (PvP first choice roll)
-// (Fluted Barrel, Arrowhead Brake), (any magazine except Extended Mag), Killing Wind, (Moving Target, Snapshot Sights) 
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll - can crit supers. Recommended MW: Handling
 dimwishlist:item=3326850591&perks=1840239774,1431678320,2450788523,588594999
 dimwishlist:item=3326850591&perks=839105230,1431678320,2450788523,588594999
@@ -219,7 +198,6 @@ dimwishlist:item=3326850591&perks=1840239774,679225683,2450788523,957782887
 dimwishlist:item=3326850591&perks=839105230,679225683,2450788523,957782887
 
 // The Long Walk (PvE first choice roll)
-// (Fluted Barrel, Arrowhead Brake, Chambered Compensator), Appended Mag, (Overflow, Clown Cartridge, Ensemble), Firing Line with Boss Spec mod
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll - mainly for boss DPS. Recommended MW: Reload Speed or Stability with Boss Spec mod
 dimwishlist:item=3326850591&perks=1840239774,1087426260,3643424744,1771339417
 dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,1771339417
@@ -232,7 +210,6 @@ dimwishlist:item=3326850591&perks=839105230,1087426260,2621346526,1771339417
 dimwishlist:item=3326850591&perks=3661387068,1087426260,2621346526,1771339417
 
 // The Long Walk (PvE first choice roll)
-// (Fluted Barrel, Arrowhead Brake, Chambered Compensator), Extended Mag, (Overflow, Clown Cartridge, Ensemble), Firing Line with Backup Mag mod
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll - mainly for boss DPS. Recommended MW: Reload Speed or Stability with Backup Mag
 dimwishlist:item=3326850591&perks=1840239774,2420895100,3643424744,1771339417
 dimwishlist:item=3326850591&perks=839105230,2420895100,3643424744,1771339417
@@ -245,35 +222,29 @@ dimwishlist:item=3326850591&perks=839105230,2420895100,2621346526,1771339417
 dimwishlist:item=3326850591&perks=3661387068,2420895100,2621346526,1771339417
 
 // A Sudden Death (PvP first choice roll)
-// Full Choke, Assault Mag, Slideshot, Snapshot Sights
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll - competing with Felwindter's Lie in energy slot, which is better as at Season 15. Recommended MW: Range.
 dimwishlist:item=2855157553&perks=1047830412,791862061,3161816588,957782887
 
 // A Sudden Death (PvP backup roll)
-// Full Choke, Accurized Rounds, Slideshot, Snapshot Sights
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP backup roll - competing with Felwindter's Lie in energy slot, which is better as at Season 15. Recommended MW: Range.
 dimwishlist:item=2855157553&perks=1047830412,3142289711,3161816588,957782887
 
 // A Sudden Death (PvP backup roll)
-// Full Choke, (Assault Mag, Accurized Rounds), Threat Detector, Elemental Capacitor
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE backup roll - arc class with Elemental Capacitor for the handling boost. Recommended MW: Handling or Reload Speed.
 dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
 
 // A Sudden Death (PvE first choice roll)
-// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Pulse Monitor, Frenzy
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll. Recommended MW: Handling or Reload Speed.
 dimwishlist:item=2855157553&perks=1300023272,791862061,972757866,4104185692
 dimwishlist:item=2855157553&perks=4090651448,791862061,972757866,4104185692
 
 // A Sudden Death (PvE first choice roll)
-// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Grave Robber, One-Two Punch
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE first choice roll. Recommended MW: Handling or Reload Speed.
 dimwishlist:item=2855157553&perks=1300023272,791862061,1631667848,2679249093
 dimwishlist:item=2855157553&perks=4090651448,791862061,1631667848,2679249093
 
 // A Sudden Death (PvE backup roll)
-// (Barrel Shroud, Corkscrew Rifling), Assault Mag, (Threat Detector, Pulse Monitor, Grave Robber, Field Prep), (Frenzy, Surrounded, One-Two Punch)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE backup roll. Recommended MW: Handling or Reload Speed.
 dimwishlist:item=2855157553&perks=1300023272,791862061,4071163871,4104185692
 dimwishlist:item=2855157553&perks=4090651448,791862061,4071163871,4104185692
