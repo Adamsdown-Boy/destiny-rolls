@@ -1,1 +1,38 @@
+title:Season 14 (Season of the Chosen) Vault of Glass rolls from episode 234
+description:Reprised weapons from Vault of Glass Raid
 
+// Found Verdict
+dimwishlist:item=3197270240
+
+// Found Verdict (Timelost)
+dimwishlist:item=631439337
+
+// Fatebringer
+dimwishlist:item=2171478765
+
+// Fatebringer (Timelost)
+dimwishlist:item=1216319404
+
+// Vision of Confluence
+dimwishlist:item=3186018373
+
+// Vision of Confluence (Timelost)
+dimwishlist:item=690668916
+
+// Praedyth's Revenge
+dimwishlist:item=3653573172
+
+// Praedyth's Revenge (Timelost)
+dimwishlist:item=1987769101
+
+// Hezen Vengeance
+dimwishlist:item=4050645223
+
+// Hezen Vengeance (Timelost)
+dimwishlist:item=1921159786
+
+// Corrective Measure
+dimwishlist:item=471518543
+
+// Corrective Measure (Timelost)
+dimwishlist:item=3796510434
