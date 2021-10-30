@@ -837,7 +837,7 @@ dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,2213355989
 
 // Corrective Measure (Timelost) (PvE first choice roll)
 // (Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel), Extended Mag, (Rewind Rounds, Demolitionist), High-Impact Reserves with Boss Spec mod
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS. Recommended MW: Handling or Stability with Boss Spec mod.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS. Recommended MW: Handling or Stability with Adept Big Ones Spec mod.
 dimwishlist:item=3796510434&perks=1482024992,2420895100,3418782618,2213355989
 dimwishlist:item=3796510434&perks=1392496348,2420895100,3418782618,2213355989
 dimwishlist:item=3796510434&perks=4090651448,2420895100,3418782618,2213355989
