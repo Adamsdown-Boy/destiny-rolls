@@ -1,38 +1,848 @@
-title:Season 14 (Season of the Chosen) Vault of Glass rolls from episode 234
+title:Season 14 (Season of the Chosen) Vault of Glass rolls
 description:Reprised weapons from Vault of Glass Raid
 
-// Found Verdict
-dimwishlist:item=3197270240
+// Found Verdict (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling
+// Full Choke, Assault Mag, Slideshot, Opening Shot
+dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,47981717
 
-// Found Verdict (Timelost)
-dimwishlist:item=631439337
+// Found Verdict (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling
+// Full Choke, Accurized Rounds, Slideshot, Killing Wind
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
 
-// Fatebringer
-dimwishlist:item=2171478765
+// Found Verdict (PvE first choice roll)
+// Barrel Shroud, Tactical Mag, Rewind Rounds, (Demolitionist, One-Two Punch)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS. Recommended MW: Reload Speed with Boss Spec mod
+dimwishlist:item=3197270240&perks=1047830412,106909392,3418782618,3523296417
+dimwishlist:item=3197270240&perks=1047830412,106909392,3418782618,2679249093
 
-// Fatebringer (Timelost)
-dimwishlist:item=1216319404
+// Found Verdict (PvE first choice roll)
+// Barrel Shroud, Assault Mag, Auto-Loading Holster, Frenzy
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for major and add clear. Recommended MW: Handling with Backup Mag mod
+dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,4104185692
 
-// Vision of Confluence
-dimwishlist:item=3186018373
+// Found Verdict (PvE first choice roll)
+// Barrel Shroud, Assault Mag, Auto-Loading Holster, One-Two Punch
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for majors. Recommended MW: Handling with Backup Mag mod
+dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,2679249093
 
-// Vision of Confluence (Timelost)
-dimwishlist:item=690668916
+// Found Verdict (PvE first choice roll)
+// Barrel Shroud, Assault Mag, Auto-Loading Holster, Vorpal Weapon
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for majors. Recommended MW: Handling with Backup Mag mod
+dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,1546637391
 
-// Praedyth's Revenge
-dimwishlist:item=3653573172
+// Found Verdict (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling with Adept Handling mod
+// Full Choke, Assault Mag, Slideshot, Opening Shot
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717
 
-// Praedyth's Revenge (Timelost)
-dimwishlist:item=1987769101
+// Found Verdict (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling with Adept Handling mod
+// Full Choke, Accurized Rounds, Slideshot, Killing Wind
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,2450788523
 
-// Hezen Vengeance
-dimwishlist:item=4050645223
+// Found Verdict (Timelost) (PvE first choice roll)
+// Barrel Shroud, Tactical Mag, Rewind Rounds, (Demolitionist, One-Two Punch)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS. Recommended MW: Reload Speed with Adept Big Ones mod
+dimwishlist:item=631439337&perks=1047830412,106909392,3418782618,3523296417
+dimwishlist:item=631439337&perks=1047830412,106909392,3418782618,2679249093
 
-// Hezen Vengeance (Timelost)
-dimwishlist:item=1921159786
+// Found Verdict (Timelost) (PvE first choice roll)
+// Barrel Shroud, Assault Mag, Auto-Loading Holster, Frenzy
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for major and add clear. Recommended MW: Handling with Backup Mag or Adept Big Ones mod
+dimwishlist:item=631439337&perks=1047830412,791862061,3300816228,4104185692
 
-// Corrective Measure
-dimwishlist:item=471518543
+// Found Verdict (Timelost) (PvE first choice roll)
+// Barrel Shroud, Assault Mag, Auto-Loading Holster, One-Two Punch
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for majors. Recommended MW: Handling with Backup Mag or Adept Big Ones mod
+dimwishlist:item=631439337&perks=1047830412,791862061,3300816228,2679249093
 
-// Corrective Measure (Timelost)
-dimwishlist:item=3796510434
+// Found Verdict (Timelost) (PvE first choice roll)
+// Barrel Shroud, Assault Mag, Auto-Loading Holster, Vorpal Weapon
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for majors. Recommended MW: Handling with Backup Mag or Adept Big Ones mod
+dimwishlist:item=631439337&perks=1047830412,791862061,3300816228,1546637391
+
+// Fatebringer (PvP first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Icarus Grip mod.
+dimwishlist:item=2171478765&perks=3250034553,106909392,2946784966,1015611457
+dimwishlist:item=2171478765&perks=3250034553,3177308360,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1482024992,3177308360,2946784966,1015611457
+dimwishlist:item=2171478765&perks=3250034553,3230963543,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2946784966,1015611457
+
+// Fatebringer (PvP first choice roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Icarus Grip mod.
+dimwishlist:item=2171478765&perks=1392496348,3142289711,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1840239774,3142289711,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1482024992,3142289711,2946784966,1015611457
+
+// Fatebringer (PvP first choice roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability or Range with Targeting Adjuster or Icarus Grip mod.
+dimwishlist:item=2171478765&perks=1392496348,106909392,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1840239774,106909392,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1482024992,106909392,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1840239774,3230963543,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2946784966,1015611457
+
+// Fatebringer (PvP first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), (Killing Wind, Explosive Payload), (Opening Shot, Eye Of The Storm)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability with Targeting Adjuster or Icarus Grip mod.
+dimwishlist:item=2171478765&perks=3250034553,106909392,2450788523,47981717
+dimwishlist:item=2171478765&perks=3250034553,1482024992,2450788523,47981717
+dimwishlist:item=2171478765&perks=1482024992,1482024992,2450788523,47981717
+dimwishlist:item=2171478765&perks=3250034553,3230963543,2450788523,47981717
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2450788523,47981717
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,47981717
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,47981717
+dimwishlist:item=2171478765&perks=3250034553,1482024992,3038247973,47981717
+dimwishlist:item=2171478765&perks=1482024992,1482024992,3038247973,47981717
+dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,47981717
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,47981717
+dimwishlist:item=2171478765&perks=3250034553,106909392,2450788523,699525795
+dimwishlist:item=2171478765&perks=1482024992,106909392,2450788523,699525795
+dimwishlist:item=2171478765&perks=3250034553,1482024992,2450788523,699525795
+dimwishlist:item=2171478765&perks=1482024992,1482024992,2450788523,699525795
+dimwishlist:item=2171478765&perks=3250034553,3230963543,2450788523,699525795
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,699525795
+dimwishlist:item=2171478765&perks=3250034553,1482024992,3038247973,699525795
+dimwishlist:item=2171478765&perks=1482024992,1482024992,3038247973,699525795
+dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,699525795
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,699525795
+
+// Fatebringer (PvP first choice roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, (Killing Wind, Explosive Payload), (Opening Shot, Eye Of The Storm)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability with Targeting Adjuster or Icarus Grip mod.
+dimwishlist:item=2171478765&perks=1392496348,3142289711,2450788523,47981717
+dimwishlist:item=2171478765&perks=1482024992,3142289711,2450788523,47981717
+dimwishlist:item=2171478765&perks=1840239774,3142289711,2450788523,47981717
+dimwishlist:item=2171478765&perks=1392496348,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=1392496348,3142289711,2450788523,699525795
+dimwishlist:item=2171478765&perks=1482024992,3142289711,2450788523,699525795
+dimwishlist:item=2171478765&perks=1840239774,3142289711,2450788523,699525795
+dimwishlist:item=2171478765&perks=1392496348,3142289711,3038247973,699525795
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,699525795
+
+// Fatebringer (PvP first choice roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), (Killing Wind, Explosive Payload), (Opening Shot, Eye Of The Storm)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability or Range with Targeting Adjuster or Icarus Grip mod.
+dimwishlist:item=2171478765&perks=1392496348,106909392,2450788523,47981717
+dimwishlist:item=2171478765&perks=1482024992,106909392,2450788523,47981717
+dimwishlist:item=2171478765&perks=1840239774,106909392,2450788523,47981717
+dimwishlist:item=2171478765&perks=1392496348,3230963543,2450788523,47981717
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2450788523,47981717
+dimwishlist:item=2171478765&perks=1840239774,3230963543,2450788523,47981717
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,47981717
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,47981717
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,47981717
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,47981717
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,47981717
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,47981717
+dimwishlist:item=2171478765&perks=1392496348,106909392,2450788523,699525795
+dimwishlist:item=2171478765&perks=1482024992,106909392,2450788523,699525795
+dimwishlist:item=2171478765&perks=1840239774,106909392,2450788523,699525795
+dimwishlist:item=2171478765&perks=1392496348,3230963543,2450788523,699525795
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=2171478765&perks=1840239774,3230963543,2450788523,699525795
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,699525795
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,699525795
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,699525795
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,699525795
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,699525795
+
+// Fatebringer (Timelost) (PvP first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=3250034553,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=3250034553,3177308360,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3177308360,2946784966,1015611457
+dimwishlist:item=1216319404&perks=3250034553,3230963543,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2946784966,1015611457
+
+// Fatebringer (Timelost) (PvP first choice roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2946784966,1015611457
+
+// Fatebringer (Timelost) (PvP first choice roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability or Range with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1840239774,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1840239774,3230963543,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2946784966,1015611457
+
+// Fatebringer (Timelost) (PvP first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), (Killing Wind, Explosive Payload), (Opening Shot, Eye Of The Storm)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=3250034553,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,1482024992,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,1482024992,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,1482024992,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,1482024992,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=3250034553,1482024992,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,1482024992,2450788523,699525795
+dimwishlist:item=1216319404&perks=3250034553,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=3250034553,1482024992,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,1482024992,3038247973,699525795
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,699525795
+
+// Fatebringer (Timelost) (PvP first choice roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, (Killing Wind, Explosive Payload), (Opening Shot, Eye Of The Storm)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1392496348,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795
+
+// Fatebringer (Timelost) (PvP first choice roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), (Killing Wind, Explosive Payload), (Opening Shot, Eye Of The Storm)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability or Range with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=1840239774,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=1392496348,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1840239774,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=1392496348,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=1840239774,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=1392496348,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1840239774,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,699525795
+
+// Fatebringer (PvE first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Explosive Payload, Firefly
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - classic trait combination of Explosive Payload and Firefly (even if it's debatable if one interferes with the other proccing). Recommended MW: Stability.
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,3824105627
+dimwishlist:item=2171478765&perks=3250034553,3177308360,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3177308360,3038247973,3824105627
+
+// Fatebringer (PvE first choice roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Explosive Payload, Firefly
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - classic trait combination of Explosive Payload and Firefly (even if it's debatable if one interferes with the other proccing). Recommended MW: Stability.
+dimwishlist:item=2171478765&perks=1392496348,3142289711,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,3824105627
+
+// Fatebringer (PvE first choice roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Explosive Payload, Firefly
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - classic trait combination of Explosive Payload and Firefly (even if it's debatable if one interferes with the other proccing). Recommended MW: Stability or Range.
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,3824105627
+
+// Fatebringer (PvE backup roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Explosive Payload, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll. Recommended MW: Stability.
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3177308360,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3177308360,3038247973,4104185692
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=3250034553,3230963543,3038247973,11612903
+dimwishlist:item=2171478765&perks=3250034553,3177308360,3038247973,11612903
+dimwishlist:item=2171478765&perks=1482024992,3177308360,3038247973,11612903
+
+// Fatebringer (PvE backup roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Explosive Payload, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll. Recommended MW: Stability.
+dimwishlist:item=2171478765&perks=1392496348,3142289711,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3142289711,3038247973,11612903
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,11612903
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,11612903
+
+// Fatebringer (PvE backup roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Explosive Payload, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll. Recommended MW: Stability or Range.
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,11612903
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,11612903
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,11612903
+
+// Fatebringer (PvE backup roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Osmosis, (Firefly, Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability.
+dimwishlist:item=2171478765&perks=3250034553,106909392,1774574192,3824105627
+dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,3824105627
+dimwishlist:item=2171478765&perks=3250034553,1482024992,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1482024992,1482024992,1774574192,3824105627
+dimwishlist:item=2171478765&perks=3250034553,106909392,1774574192,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692
+dimwishlist:item=2171478765&perks=3250034553,1482024992,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1482024992,1482024992,1774574192,4104185692
+dimwishlist:item=2171478765&perks=3250034553,106909392,1774574192,11612903
+dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,11612903
+dimwishlist:item=2171478765&perks=3250034553,1482024992,1774574192,11612903
+dimwishlist:item=2171478765&perks=1482024992,1482024992,1774574192,11612903
+
+// Fatebringer (PvE backup roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Osmosis, (Firefly, Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability.
+dimwishlist:item=2171478765&perks=1392496348,3142289711,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3142289711,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3142289711,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1392496348,3142289711,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1840239774,3142289711,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3142289711,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3142289711,1774574192,11612903
+dimwishlist:item=2171478765&perks=1840239774,3142289711,1774574192,11612903
+dimwishlist:item=2171478765&perks=1482024992,3142289711,1774574192,11612903
+
+// Fatebringer (PvE backup roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Osmosis, (Firefly, Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability or Range.
+dimwishlist:item=2171478765&perks=1392496348,106909392,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1840239774,106909392,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1482024992,106909392,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1392496348,3230963543,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3230963543,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3230963543,1774574192,3824105627
+dimwishlist:item=2171478765&perks=1392496348,106909392,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1840239774,106909392,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1482024992,106909392,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3230963543,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1840239774,3230963543,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3230963543,1774574192,4104185692
+dimwishlist:item=2171478765&perks=1392496348,106909392,1774574192,11612903
+dimwishlist:item=2171478765&perks=1840239774,106909392,1774574192,11612903
+dimwishlist:item=2171478765&perks=1482024992,106909392,1774574192,11612903
+dimwishlist:item=2171478765&perks=1392496348,3230963543,1774574192,11612903
+dimwishlist:item=2171478765&perks=1840239774,3230963543,1774574192,11612903
+dimwishlist:item=2171478765&perks=1482024992,3230963543,1774574192,11612903
+
+// Fatebringer (Timelost) (PvE first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Explosive Payload, Firefly
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - classic trait combination of Explosive Payload and Firefly (even if it's debatable if one interferes with the other proccing). Recommended MW: Stability.
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,3824105627
+dimwishlist:item=1216319404&perks=3250034553,3177308360,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3177308360,3038247973,3824105627
+
+// Fatebringer (Timelost) (PvE first choice roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Explosive Payload, Firefly
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - classic trait combination of Explosive Payload and Firefly (even if it's debatable if one interferes with the other proccing). Recommended MW: Stability.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,3824105627
+
+// Fatebringer (Timelost) (PvE first choice roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Explosive Payload, Firefly
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - classic trait combination of Explosive Payload and Firefly (even if it's debatable if one interferes with the other proccing). Recommended MW: Stability or Range.
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,3824105627
+
+// Fatebringer (Timelost) (PvE backup roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Explosive Payload, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll. Recommended MW: Stability.
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=3250034553,3177308360,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1482024992,3177308360,3038247973,4104185692
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,11612903
+dimwishlist:item=1216319404&perks=3250034553,3177308360,3038247973,11612903
+dimwishlist:item=1216319404&perks=1482024992,3177308360,3038247973,11612903
+
+// Fatebringer (Timelost) (PvE backup roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Explosive Payload, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll. Recommended MW: Stability.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,11612903
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,11612903
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,11612903
+
+// Fatebringer (Timelost) (PvE backup roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Explosive Payload, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll. Recommended MW: Stability or Range.
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,11612903
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,11612903
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,11612903
+
+// Fatebringer (Timelost) (PvE backup roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Osmosis, (Firefly, Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability.
+dimwishlist:item=1216319404&perks=3250034553,106909392,1774574192,3824105627
+dimwishlist:item=1216319404&perks=3250034553,3230963543,1774574192,3824105627
+dimwishlist:item=1216319404&perks=3250034553,1482024992,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1482024992,1482024992,1774574192,3824105627
+dimwishlist:item=1216319404&perks=3250034553,106909392,1774574192,4104185692
+dimwishlist:item=1216319404&perks=3250034553,3230963543,1774574192,4104185692
+dimwishlist:item=1216319404&perks=3250034553,1482024992,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1482024992,1482024992,1774574192,4104185692
+dimwishlist:item=1216319404&perks=3250034553,106909392,1774574192,11612903
+dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,11612903
+dimwishlist:item=1216319404&perks=3250034553,3230963543,1774574192,11612903
+dimwishlist:item=1216319404&perks=1482024992,3230963543,1774574192,11612903
+dimwishlist:item=1216319404&perks=3250034553,1482024992,1774574192,11612903
+dimwishlist:item=1216319404&perks=1482024992,1482024992,1774574192,11612903
+
+// Fatebringer (Timelost) (PvE backup roll)
+// Stability barrel, Accuracy mag, Stability MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), Accurized Rounds, Osmosis, (Firefly, Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3142289711,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3142289711,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1392496348,3142289711,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1840239774,3142289711,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1482024992,3142289711,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1392496348,3142289711,1774574192,11612903
+dimwishlist:item=1216319404&perks=1840239774,3142289711,1774574192,11612903
+dimwishlist:item=1216319404&perks=1482024992,3142289711,1774574192,11612903
+
+// Fatebringer (Timelost) (PvE backup roll)
+// Stability barrel, Stability mag, Stability or Range MW
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Osmosis, (Firefly, Frenzy, Adrenaline Junkie)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability or Range.
+dimwishlist:item=1216319404&perks=1392496348,106909392,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1840239774,106909392,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1392496348,3230963543,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3230963543,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3230963543,1774574192,3824105627
+dimwishlist:item=1216319404&perks=1392496348,106909392,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1840239774,106909392,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1392496348,3230963543,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1840239774,3230963543,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1482024992,3230963543,1774574192,4104185692
+dimwishlist:item=1216319404&perks=1392496348,106909392,1774574192,11612903
+dimwishlist:item=1216319404&perks=1840239774,106909392,1774574192,11612903
+dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,11612903
+dimwishlist:item=1216319404&perks=1392496348,3230963543,1774574192,11612903
+dimwishlist:item=1216319404&perks=1840239774,3230963543,1774574192,11612903
+dimwishlist:item=1216319404&perks=1482024992,3230963543,1774574192,11612903
+
+// Vision of Confluence (PvP first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), Ricochet Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Handling.
+dimwishlist:item=3186018373&perks=1840239774,1885400500,2946784966,1015611457
+dimwishlist:item=3186018373&perks=839105230,1885400500,2946784966,1015611457
+dimwishlist:item=3186018373&perks=1392496348,1885400500,2946784966,1015611457
+dimwishlist:item=3186018373&perks=1482024992,1885400500,2946784966,1015611457
+dimwishlist:item=3186018373&perks=4090651448,1885400500,2946784966,1015611457
+
+// Vision of Confluence (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), High-Calibre Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,1015611457
+dimwishlist:item=3186018373&perks=839105230,1561002382,2946784966,1015611457
+dimwishlist:item=3186018373&perks=1392496348,1561002382,2946784966,1015611457
+dimwishlist:item=3186018373&perks=1482024992,1561002382,2946784966,1015611457
+dimwishlist:item=3186018373&perks=4090651448,1561002382,2946784966,1015611457
+
+// Vision of Confluence (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), High-Calibre Rounds, Rewind Rounds, (Firefly, Frenzy, Thresh, Disruption Break)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll but currently a weak subtype as at Season 15. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3418782618,3824105627
+dimwishlist:item=3186018373&perks=839105230,1561002382,3418782618,3824105627
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3418782618,3824105627
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3418782618,3824105627
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3418782618,3824105627
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3418782618,4104185692
+dimwishlist:item=3186018373&perks=839105230,1561002382,3418782618,4104185692
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3418782618,4104185692
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3418782618,4104185692
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3418782618,4104185692
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3418782618,2726471870
+dimwishlist:item=3186018373&perks=839105230,1561002382,3418782618,2726471870
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3418782618,2726471870
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3418782618,2726471870
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3418782618,2726471870
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=839105230,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3418782618,1683379515
+
+// Vision of Confluence (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), High-Calibre Rounds, (Wellspring, Surplus), (Firefly, Frenzy, Thresh, Disruption Break)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll but currently a weak subtype as at Season 15. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3592538738,3824105627
+dimwishlist:item=3186018373&perks=839105230,1561002382,3592538738,3824105627
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3592538738,3824105627
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3592538738,3824105627
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3592538738,3824105627
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3436462433,3824105627
+dimwishlist:item=3186018373&perks=839105230,1561002382,3436462433,3824105627
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3436462433,3824105627
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3436462433,3824105627
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3436462433,3824105627
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3592538738,4104185692
+dimwishlist:item=3186018373&perks=839105230,1561002382,3592538738,4104185692
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3592538738,4104185692
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3592538738,4104185692
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3592538738,4104185692
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3436462433,4104185692
+dimwishlist:item=3186018373&perks=839105230,1561002382,3436462433,4104185692
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3436462433,4104185692
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3436462433,4104185692
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3436462433,4104185692
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3592538738,2726471870
+dimwishlist:item=3186018373&perks=839105230,1561002382,3592538738,2726471870
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3592538738,2726471870
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3592538738,2726471870
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3592538738,2726471870
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3436462433,2726471870
+dimwishlist:item=3186018373&perks=839105230,1561002382,3436462433,2726471870
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3436462433,2726471870
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3436462433,2726471870
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3436462433,2726471870
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3592538738,1683379515
+dimwishlist:item=3186018373&perks=839105230,1561002382,3592538738,1683379515
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3592538738,1683379515
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3592538738,1683379515
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3592538738,1683379515
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=839105230,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3436462433,1683379515
+
+// Vision of Confluence (Timelost) (PvP first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), Ricochet Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Handling.
+dimwishlist:item=690668916&perks=1840239774,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=839105230,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=1392496348,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=1482024992,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=4090651448,1885400500,2946784966,1015611457
+
+// Vision of Confluence (Timelost) (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), High-Calibre Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=839105230,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=1392496348,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=1482024992,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=4090651448,1561002382,2946784966,1015611457
+
+// Vision of Confluence (Timelost) (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), High-Calibre Rounds, Rewind Rounds, (Firefly, Frenzy, Thresh, Disruption Break)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll but currently a weak subtype as at Season 15. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=690668916&perks=1840239774,1561002382,3418782618,3824105627
+dimwishlist:item=690668916&perks=839105230,1561002382,3418782618,3824105627
+dimwishlist:item=690668916&perks=1392496348,1561002382,3418782618,3824105627
+dimwishlist:item=690668916&perks=1482024992,1561002382,3418782618,3824105627
+dimwishlist:item=690668916&perks=4090651448,1561002382,3418782618,3824105627
+dimwishlist:item=690668916&perks=1840239774,1561002382,3418782618,4104185692
+dimwishlist:item=690668916&perks=839105230,1561002382,3418782618,4104185692
+dimwishlist:item=690668916&perks=1392496348,1561002382,3418782618,4104185692
+dimwishlist:item=690668916&perks=1482024992,1561002382,3418782618,4104185692
+dimwishlist:item=690668916&perks=4090651448,1561002382,3418782618,4104185692
+dimwishlist:item=690668916&perks=1840239774,1561002382,3418782618,2726471870
+dimwishlist:item=690668916&perks=839105230,1561002382,3418782618,2726471870
+dimwishlist:item=690668916&perks=1392496348,1561002382,3418782618,2726471870
+dimwishlist:item=690668916&perks=1482024992,1561002382,3418782618,2726471870
+dimwishlist:item=690668916&perks=4090651448,1561002382,3418782618,2726471870
+dimwishlist:item=690668916&perks=1840239774,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=839105230,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=1392496348,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=1482024992,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=4090651448,1561002382,3418782618,1683379515
+
+// Vision of Confluence (Timelost) (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling, Corkscrew Rifling, Smallbore), High-Calibre Rounds, (Wellspring, Surplus), (Firefly, Frenzy, Thresh, Disruption Break)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll but currently a weak subtype as at Season 15. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=690668916&perks=1840239774,1561002382,3592538738,3824105627
+dimwishlist:item=690668916&perks=839105230,1561002382,3592538738,3824105627
+dimwishlist:item=690668916&perks=1392496348,1561002382,3592538738,3824105627
+dimwishlist:item=690668916&perks=1482024992,1561002382,3592538738,3824105627
+dimwishlist:item=690668916&perks=4090651448,1561002382,3592538738,3824105627
+dimwishlist:item=690668916&perks=1840239774,1561002382,3436462433,3824105627
+dimwishlist:item=690668916&perks=839105230,1561002382,3436462433,3824105627
+dimwishlist:item=690668916&perks=1392496348,1561002382,3436462433,3824105627
+dimwishlist:item=690668916&perks=1482024992,1561002382,3436462433,3824105627
+dimwishlist:item=690668916&perks=4090651448,1561002382,3436462433,3824105627
+dimwishlist:item=690668916&perks=1840239774,1561002382,3592538738,4104185692
+dimwishlist:item=690668916&perks=839105230,1561002382,3592538738,4104185692
+dimwishlist:item=690668916&perks=1392496348,1561002382,3592538738,4104185692
+dimwishlist:item=690668916&perks=1482024992,1561002382,3592538738,4104185692
+dimwishlist:item=690668916&perks=4090651448,1561002382,3592538738,4104185692
+dimwishlist:item=690668916&perks=1840239774,1561002382,3436462433,4104185692
+dimwishlist:item=690668916&perks=839105230,1561002382,3436462433,4104185692
+dimwishlist:item=690668916&perks=1392496348,1561002382,3436462433,4104185692
+dimwishlist:item=690668916&perks=1482024992,1561002382,3436462433,4104185692
+dimwishlist:item=690668916&perks=4090651448,1561002382,3436462433,4104185692
+dimwishlist:item=690668916&perks=1840239774,1561002382,3592538738,2726471870
+dimwishlist:item=690668916&perks=839105230,1561002382,3592538738,2726471870
+dimwishlist:item=690668916&perks=1392496348,1561002382,3592538738,2726471870
+dimwishlist:item=690668916&perks=1482024992,1561002382,3592538738,2726471870
+dimwishlist:item=690668916&perks=4090651448,1561002382,3592538738,2726471870
+dimwishlist:item=690668916&perks=1840239774,1561002382,3436462433,2726471870
+dimwishlist:item=690668916&perks=839105230,1561002382,3436462433,2726471870
+dimwishlist:item=690668916&perks=1392496348,1561002382,3436462433,2726471870
+dimwishlist:item=690668916&perks=1482024992,1561002382,3436462433,2726471870
+dimwishlist:item=690668916&perks=4090651448,1561002382,3436462433,2726471870
+dimwishlist:item=690668916&perks=1840239774,1561002382,3592538738,1683379515
+dimwishlist:item=690668916&perks=839105230,1561002382,3592538738,1683379515
+dimwishlist:item=690668916&perks=1392496348,1561002382,3592538738,1683379515
+dimwishlist:item=690668916&perks=1482024992,1561002382,3592538738,1683379515
+dimwishlist:item=690668916&perks=4090651448,1561002382,3592538738,1683379515
+dimwishlist:item=690668916&perks=1840239774,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=839105230,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=1392496348,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=1482024992,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=4090651448,1561002382,3436462433,1683379515
+
+// Praedyth's Revenge (PvP first choice roll)
+// Fluted Barrel, Accurized Rounds, Moving Target, Opening Shot. Recommended MW: Handling MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling with Targeting Adjuster mod.
+dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
+
+// Praedyth's Revenge (PvP first choice roll)
+// Fluted Barrel, Tactical Mag, Moving Target, Opening Shot. Recommended MW: Range MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range with Targeting Adjuster mod.
+dimwishlist:item=3653573172&perks=1840239774,106909392,588594999,47981717
+
+// Praedyth's Revenge (PvP backup roll)
+// Fluted Barrel, Accurized Rounds, Quickdraw, Opening Shot. Recommended MW: Handling MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling.
+dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188,47981717
+
+// Praedyth's Revenge (PvP backup roll)
+// Fluted Barrel, Tactical Mag, Quickdraw, Opening Shot. Recommended MW: Handling MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range.
+dimwishlist:item=3653573172&perks=1840239774,106909392,706527188,47981717
+
+// Praedyth's Revenge (PvE first choice roll)
+// Fluted Barrel, Tactical Mag, Rewind Rounds, High-Impact Reserves. Recommended MW: Reload Speed MW with Boss Spec mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - best example currently of a weak subtype as at Season 15. Recommended MW: Handling with Major Spec or Boss Spec mod.
+dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,2213355989
+
+// Praedyth's Revenge (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15. Recommended MW: Handling.
+dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,4104185692
+
+/ Praedyth's Revenge (Timelost) (PvP first choice roll)
+// Fluted Barrel, Accurized Rounds, Moving Target, Opening Shot. Recommended MW: Handling MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling with Targeting Adjuster mod.
+dimwishlist:item=1987769101&perks=1840239774,3142289711,588594999,47981717
+
+// Praedyth's Revenge (Timelost) (PvP first choice roll)
+// Fluted Barrel, Tactical Mag, Moving Target, Opening Shot. Recommended MW: Range MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range with Targeting Adjuster mod.
+dimwishlist:item=1987769101&perks=1840239774,106909392,588594999,47981717
+
+// Praedyth's Revenge (Timelost) (PvP backup roll)
+// Fluted Barrel, Accurized Rounds, Quickdraw, Opening Shot. Recommended MW: Handling MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling.
+dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,47981717
+
+// Praedyth's Revenge (Timelost) (PvP backup roll)
+// Fluted Barrel, Tactical Mag, Quickdraw, Opening Shot. Recommended MW: Handling MW with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range.
+dimwishlist:item=1987769101&perks=1840239774,106909392,706527188,47981717
+
+// Praedyth's Revenge (Timelost) (PvE first choice roll)
+// Fluted Barrel, Tactical Mag, Rewind Rounds, High-Impact Reserves. Recommended MW: Reload Speed MW with Boss Spec mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - best example currently of a weak subtype as at Season 15. Recommended MW: Handling with Adept Big Ones Spec mod.
+dimwishlist:item=1987769101&perks=1840239774,106909392,3418782618,2213355989
+
+// Praedyth's Revenge (Timelost) (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll - best example currently of a weak subtype as at Season 15. Recommended MW: Handling.
+dimwishlist:item=1987769101&perks=1840239774,106909392,3418782618,4104185692
+
+// Hezen Vengeance (PvE first choice roll)
+// Quick Launch, Impact Casing, Impulse Amplifier, Lasting Impressions
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice for boss damage when you need the rocket to get there fast. Recommended MW: Velocity with Boss Spec mod.
+dimwishlist:item=4050645223&perks=3525010810,3796465595,951095735,3927722942
+
+// Hezen Vengeance (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - get a kill, reload to get two in the tubes and throw a grenade for a quick third. Recommended MW: Reload with Boss Spec mod.
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3523296417
+
+// Hezen Vengeance (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup for boss damage when you need the rocket to get there fast. Recommended MW: Velocity with Boss Spec mod.
+dimwishlist:item=4050645223&perks=3525010810,3796465595,951095735,3927722942
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942
+dimwishlist:item=4050645223&perks=3525010810,3796465595,951095735,3523296417
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3523296417
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3523296417
+
+// Hezen Vengeance (Timelost) (PvE first choice roll)
+// Quick Launch, Impact Casing, Impulse Amplifier, Lasting Impressions
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice for boss damage when you need the rocket to get there fast. Recommended MW: Velocity with Adept Big Ones mod.
+dimwishlist:item=1921159786&perks=3525010810,3796465595,951095735,3927722942
+
+// Hezen Vengeance (Timelost) (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - get a kill, reload to get two in the tubes and throw a grenade for a quick third. Recommended MW: Reload with Boss Spec mod.
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3523296417
+
+// Hezen Vengeance (Timelost) (PvE backup roll)
+// Quick Launch, Impact Casing, (Impulse Amplifier, Auto-Loading Holster, Overflow), (Lasting Impressions, Demolitionist)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup for boss damage when you need the rocket to get there fast. Recommended MW: Velocity with Adept Big Ones mod.
+dimwishlist:item=1921159786&perks=3525010810,3796465595,951095735,3927722942
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942
+dimwishlist:item=1921159786&perks=3525010810,3796465595,951095735,3523296417
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3523296417
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3523296417
+
+// Corrective Measure (PvP first choice roll)
+// Polygonal Rifling, Tactical Mag, Dynamic Sway Reduction, Tap The Trigger with Backup Mag mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Backup Mag mod.
+dimwishlist:item=471518543&perks=1392496348,106909392,1359896290,1890422124
+
+// Corrective Measure (PvP first choice roll)
+// Polygonal Rifling, Extended Mag, Dynamic Sway Reduction, Tap The Trigger with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Targeting Adjuster mod.
+dimwishlist:item=471518543&perks=1392496348,2420895100,1359896290,1890422124
+
+// Corrective Measure (PvE first choice roll)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel), Tactical Mag, (Rewind Rounds, Demolitionist), High-Impact Reserves with Backup Mag mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll. Recommended MW: Handling or Stability with Backup Mag mod.
+dimwishlist:item=471518543&perks=1482024992,106909392,3418782618,2213355989
+dimwishlist:item=471518543&perks=1392496348,106909392,3418782618,2213355989
+dimwishlist:item=471518543&perks=4090651448,106909392,3418782618,2213355989
+dimwishlist:item=471518543&perks=1840239774,106909392,3418782618,2213355989
+dimwishlist:item=471518543&perks=1482024992,106909392,3523296417,2213355989
+dimwishlist:item=471518543&perks=1392496348,106909392,3523296417,2213355989
+dimwishlist:item=471518543&perks=4090651448,106909392,3523296417,2213355989
+dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,2213355989
+
+// Corrective Measure (PvE first choice roll)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel), Extended Mag, (Rewind Rounds, Demolitionist), High-Impact Reserves with Boss Spec mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS. Recommended MW: Handling or Stability with Boss Spec mod.
+dimwishlist:item=471518543&perks=1482024992,2420895100,3418782618,2213355989
+dimwishlist:item=471518543&perks=1392496348,2420895100,3418782618,2213355989
+dimwishlist:item=471518543&perks=4090651448,2420895100,3418782618,2213355989
+dimwishlist:item=471518543&perks=1840239774,2420895100,3418782618,2213355989
+dimwishlist:item=471518543&perks=1482024992,2420895100,3523296417,2213355989
+dimwishlist:item=471518543&perks=1392496348,2420895100,3523296417,2213355989
+dimwishlist:item=471518543&perks=4090651448,2420895100,3523296417,2213355989
+dimwishlist:item=471518543&perks=1840239774,2420895100,3523296417,2213355989
+
+// Corrective Measure (Timelost) (PvP first choice roll)
+// Polygonal Rifling, Tactical Mag, Dynamic Sway Reduction, Tap The Trigger with Backup Mag mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Backup Mag mod.
+dimwishlist:item=3796510434&perks=1392496348,106909392,1359896290,1890422124
+
+// Corrective Measure (Timelost) (PvP first choice roll)
+// Polygonal Rifling, Extended Mag, Dynamic Sway Reduction, Tap The Trigger with Targeting Adjuster mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Targeting Adjuster mod.
+dimwishlist:item=3796510434&perks=1392496348,2420895100,1359896290,1890422124
+
+// Corrective Measure (Timelost) (PvE first choice roll)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel), Tactical Mag, (Rewind Rounds, Demolitionist), High-Impact Reserves with Backup Mag mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll. Recommended MW: Handling or Stability with Backup Mag mod.
+dimwishlist:item=3796510434&perks=1482024992,106909392,3418782618,2213355989
+dimwishlist:item=3796510434&perks=1392496348,106909392,3418782618,2213355989
+dimwishlist:item=3796510434&perks=4090651448,106909392,3418782618,2213355989
+dimwishlist:item=3796510434&perks=1840239774,106909392,3418782618,2213355989
+dimwishlist:item=3796510434&perks=1482024992,106909392,3523296417,2213355989
+dimwishlist:item=3796510434&perks=1392496348,106909392,3523296417,2213355989
+dimwishlist:item=3796510434&perks=4090651448,106909392,3523296417,2213355989
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,2213355989
+
+// Corrective Measure (Timelost) (PvE first choice roll)
+// (Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel), Extended Mag, (Rewind Rounds, Demolitionist), High-Impact Reserves with Boss Spec mod
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS. Recommended MW: Handling or Stability with Boss Spec mod.
+dimwishlist:item=3796510434&perks=1482024992,2420895100,3418782618,2213355989
+dimwishlist:item=3796510434&perks=1392496348,2420895100,3418782618,2213355989
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3418782618,2213355989
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3418782618,2213355989
+dimwishlist:item=3796510434&perks=1482024992,2420895100,3523296417,2213355989
+dimwishlist:item=3796510434&perks=1392496348,2420895100,3523296417,2213355989
+dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,2213355989
+dimwishlist:item=3796510434&perks=1840239774,2420895100,3523296417,2213355989
