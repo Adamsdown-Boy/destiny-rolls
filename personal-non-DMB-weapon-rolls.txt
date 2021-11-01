@@ -54,18 +54,21 @@ dimwishlist:item=528834068&perks=3661387068,3230963543,1359896290,4082225868
 // Horror Story (PvE first choice roll)
 // (Rifle Scope SSF, Rifle Scope ST), (Flared Magwell, Tactical Mag, Appended Mag), (Subsistence, Ambitious Assassin), Demolitionist
 //notes:Adamsdown_Boy PvE first choice roll for general add clear (Rifle Scopes to constrain recoil), but not great perks really. Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=3829285960&perks=679077872,106909392,1820235745
-dimwishlist:item=3829285960&perks=679077873,106909392,1820235745
-dimwishlist:item=3829285960&perks=679077872,3230963543,1820235745
-dimwishlist:item=3829285960&perks=679077873,3230963543,1820235745
-dimwishlist:item=3829285960&perks=679077872,1087426260,1820235745
-dimwishlist:item=3829285960&perks=679077873,1087426260,1820235745
-dimwishlist:item=3829285960&perks=679077872,106909392,2010801679
-dimwishlist:item=3829285960&perks=679077873,106909392,2010801679
-dimwishlist:item=3829285960&perks=679077872,3230963543,2010801679
-dimwishlist:item=3829285960&perks=679077873,3230963543,2010801679
-dimwishlist:item=3829285960&perks=679077872,1087426260,2010801679
-dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679
+dimwishlist:item=3829285960&perks=679077872,3230963543,1820235745,3523296417
+dimwishlist:item=3829285960&perks=679077873,3230963543,1820235745,3523296417
+dimwishlist:item=3829285960&perks=679077872,106909392,1820235745,3523296417
+dimwishlist:item=3829285960&perks=679077873,106909392,1820235745,3523296417
+dimwishlist:item=3829285960&perks=679077872,1087426260,1820235745,3523296417
+dimwishlist:item=3829285960&perks=679077873,1087426260,1820235745,3523296417
+dimwishlist:item=3829285960&perks=679077872,3230963543,2010801679,3523296417
+dimwishlist:item=3829285960&perks=679077873,3230963543,2010801679,3523296417
+dimwishlist:item=3829285960&perks=679077872,106909392,2010801679,3523296417
+dimwishlist:item=3829285960&perks=679077873,106909392,2010801679,3523296417
+dimwishlist:item=3829285960&perks=679077872,1087426260,2010801679,3523296417
+dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679,3523296417
+
+
+
 
 @title:Osmosis (1774574192) weapon rolls
 @notes:Useful for Match Game end game content
@@ -752,28 +755,49 @@ dimwishlist:item=1786797708&perks=663495154,3230963543,1631667848,1774574192
 // Fatebringer (PvE first choice roll)
 // Fluted Barrel, Appended Mag, Explosive Payload, Firefly
 //notes:Adamsdown_Boy PvE first choice roll. Closest to D1 roll. Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=3829285960&perks=1840239774,1087426260,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1840239774,1087426260,3038247973,3824105627
 
 // Fatebringer (PvE interesting roll)
 // (Fluted Barrel or Polygonal Rifling), (Flared Magwell, Tactical Mag), Thresh, Frenzy
 //notes:Adamsdown_Boy PvE interesting roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=3829285960&perks=1840239774,3230963543,2726471870,4104185692
-dimwishlist:item=3829285960&perks=1392496348,3230963543,2726471870,4104185692
-dimwishlist:item=3829285960&perks=1840239774,106909392,2726471870,4104185692
-dimwishlist:item=3829285960&perks=1392496348,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1840239774,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1840239774,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1392496348,106909392,2726471870,4104185692
 
 // Fatebringer (PvE interesting roll)
 // (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag, Steady Rounds), Thresh, Frenzy
 //notes:Adamsdown_Boy PvE interesting roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=3829285960&perks=4090651448,3230963543,2726471870,4104185692
-dimwishlist:item=3829285960&perks=1482024992,3230963543,2726471870,4104185692
-dimwishlist:item=3829285960&perks=3250034553,3230963543,2726471870,4104185692
-dimwishlist:item=3829285960&perks=4090651448,106909392,2726471870,4104185692
-dimwishlist:item=3829285960&perks=1482024992,106909392,2726471870,4104185692
-dimwishlist:item=3829285960&perks=3250034553,106909392,2726471870,4104185692
-dimwishlist:item=3829285960&perks=4090651448,3177308360,2726471870,4104185692
-dimwishlist:item=3829285960&perks=1482024992,3177308360,2726471870,4104185692
-dimwishlist:item=3829285960&perks=3250034553,3177308360,2726471870,4104185692
+dimwishlist:item=2171478765&perks=4090651448,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=4090651448,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1482024992,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=3250034553,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=4090651448,3177308360,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3177308360,2726471870,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3177308360,2726471870,4104185692
+
+// Found Verdict (PvE backup roll)
+// (Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Surplus, (Demolitionist, Frenzy, One-Two Punch, Vorpal Weapon)
+//notes:Adamsdown_Boy PvE backup roll. Recommended MW: Stability or Reload Speed on personal choice with Backup Mag mod.
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,3523296417
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,3523296417
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,3523296417
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,3523296417
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,4104185692
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,4104185692
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,4104185692
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,4104185692
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,2679249093
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,2679249093
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,2679249093
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,2679249093
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,1546637391
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,1546637391
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,1546637391
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,1546637391
+
 
 @title:Section for additional personal PvE rolls on weapons reviewed on DMB
 
@@ -952,7 +976,7 @@ title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
 description:Weapons roundup as at S15 Festival of the Lost - additional personal rolls
 
 // Gridskipper (PvE first choice roll)
-// Recommended barrels not mentioned in Podcast 213 (Extended Barrel, Hammer-forged Rifling, Smallbore, Corkscrew Rifling), Combat Mags (High-Calibre Rounds, Armor-Piercing Rounds), Heating up, Recommended Trait 2 from Podcast 213 (Thresh, Frenzy, Adrenaline Junkie)
+// (Extended Barrel, Hammer-forged Rifling, Smallbore, Corkscrew Rifling), (High-Calibre Rounds, Armor-Piercing Rounds), Heating up, (Thresh, Frenzy, Adrenaline Junkie)
 //notes:Adamsdown_Boy PvE first choice roll. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1621558458&perks=1467527085,1968497646,1570042021,2726471870
 dimwishlist:item=1621558458&perks=3250034553,1968497646,1570042021,2726471870
@@ -980,13 +1004,17 @@ dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,11612903
 dimwishlist:item=1621558458&perks=4090651448,1087426260,1570042021,11612903
 
 // The Time-Worn Spire (PvE first choice roll)
-// Handling scopes (Rifle Scope ST, Rifle Scope SSF), Armor-Piercing Rounds, Quickdraw, Vorpal Weapon 
+// Handling scopes (Rifle Scope ST, Rifle Scope SSF), Armor-Piercing Rounds, (Quickdraw, Feeding Frenzy, Subsistence), Vorpal Weapon 
 //notes:Adamsodwn_Boy PvE first choice roll for anti-barrier mod, but tough to farm. Recommended MW: Stability with Major Spec mod.
-dimwishlist:item=3593598010&perks=679077873,1968497646,706527188,1546637391
+dimwishlist:item=3593598010&perks=679077872,1968497646,1820235745,1546637391
+dimwishlist:item=3593598010&perks=679077873,1968497646,1820235745,1546637391
 dimwishlist:item=3593598010&perks=679077872,1968497646,706527188,1546637391
+dimwishlist:item=3593598010&perks=679077873,1968497646,706527188,1546637391
+dimwishlist:item=3593598010&perks=679077872,1968497646,2779035018,1546637391
+dimwishlist:item=3593598010&perks=679077873,1968497646,2779035018,1546637391
 
 // The Time-Worn Spire (PvE backup roll)
-// Zoom scopes (Rifle Scope ST, Rifle Scope SSF), Recommended mags (Armor-Piercing Rounds, Flared Magwell, High-Calibre Rounds, Appended Mag), Trait 1 (Subsistence, Feeding Frenzy), Trait 2 (Rampage, Vorpal Weapon)
+// (Rifle Scope ST, Rifle Scope SSF), (Armor-Piercing Rounds, Flared Magwell, High-Calibre Rounds, Appended Mag), (Subsistence, Feeding Frenzy), (Rampage, Vorpal Weapon)
 //notes:Adamsdown_Boy PvE backup roll, but tough to farm. Recommended MW: Stability.
 dimwishlist:item=3593598010&perks=679077872,1968497646,1820235745,1546637391
 dimwishlist:item=3593598010&perks=679077873,1968497646,1820235745,1546637391
