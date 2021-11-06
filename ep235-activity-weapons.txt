@@ -40,7 +40,7 @@ dimwishlist:item=2496875173&perks=839105230,3142289711,1359896290,3425386926
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Harmony
-//notes:8 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
+//notes:8 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll to pair with a Harmony in the kinetic slot. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1570042021,438098033
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,438098033
 dimwishlist:item=2496875173&perks=839105230,3142289711,1359896290,438098033
@@ -54,7 +54,7 @@ dimwishlist:item=2496875173&perks=839105230,3177308360,1359896290,3425386926
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Harmony
-//notes:10 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
+//notes:10 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice rol to pair with a Harmony in the kinetic slotl. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1359896290,438098033
