@@ -23,12 +23,12 @@ dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,3425386926
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Accurized Rounds, Tap The Trigger, Harmony
-//notes:5 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
+//notes:5 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll to pair with a Harmony in the kinetic slot. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,438098033
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Steady Rounds, Tap The Trigger, Harmony
-//notes:6 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
+//notes:6 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll to pair with a Harmony in the kinetic slot. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,438098033
 
 // Sorrow's Verse (PvP backup roll)
