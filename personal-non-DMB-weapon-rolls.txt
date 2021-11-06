@@ -6,6 +6,7 @@
 @notes:Not yet covered by DMB - PvE rolls only!
 
 // BrayTech Werewolf (PvE first choice roll)
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling, Chambered Compensator), Armor-Piercing Rounds, (Fourth Time's the Charm, Dynamic Sway Redution), Vorpal Weapon
 //notes:Adamsdown_Boy PvE first choice roll for Anti-Barrier mod. Recommended MW: Stability or Reload Speed on personal choice with Major Spec mod.
 dimwishlist:item=528834068&perks=1840239774,1968497646,1354429876,1546637391
 dimwishlist:item=528834068&perks=1392496348,1968497646,1354429876,1546637391
@@ -19,6 +20,7 @@ dimwishlist:item=528834068&perks=4090651448,1968497646,1359896290,1546637391
 dimwishlist:item=528834068&perks=3661387068,1968497646,1359896290,1546637391
 
 // BrayTech Werewolf (PvE backup roll)
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling, Chambered Compensator), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell), (Fourth Time's the Charm, Dynamic Sway Redution), Swashbuckler
 //notes:Adamsdown_Boy PvE backup roll for general add clear. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=528834068&perks=1840239774,1968497646,1354429876,4082225868
 dimwishlist:item=528834068&perks=1392496348,1968497646,1354429876,4082225868
@@ -53,7 +55,7 @@ dimwishlist:item=528834068&perks=3661387068,3230963543,1359896290,4082225868
 
 // Horror Story (PvE first choice roll)
 // (Rifle Scope SSF, Rifle Scope ST), (Flared Magwell, Tactical Mag, Appended Mag), (Subsistence, Ambitious Assassin), Demolitionist
-//notes:Adamsdown_Boy PvE first choice roll for general add clear (Rifle Scopes to constrain recoil), but not great perks really. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll for general add clear (Rifle Scopes to constrain recoil in the absence of barrel options), but not great PvE perks really. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3829285960&perks=679077872,3230963543,1820235745,3523296417
 dimwishlist:item=3829285960&perks=679077873,3230963543,1820235745,3523296417
 dimwishlist:item=3829285960&perks=679077872,106909392,1820235745,3523296417
@@ -69,15 +71,14 @@ dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679,3523296417
 
 
 
+@title:Osmosis perk (1774574192) weapon rolls
+@notes:Useful for endgame Match Game content
 
-@title:Osmosis (1774574192) weapon rolls
-@notes:Useful for Match Game end game content
-
-@title:Auto Rifles
+@title:Auto Rifles with Osmosis perk
 
 // Horror Story (PvE first choice roll)
 // (Rifle Scope SSF, Rifle Scope ST), (Flared Magwell, Tactical Mag, Appended Mag), (Subsistence, Ambitious Assassin), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3829285960&perks=679077872,106909392,1820235745,1774574192
 dimwishlist:item=3829285960&perks=679077873,106909392,1820235745,1774574192
 dimwishlist:item=3829285960&perks=679077872,3230963543,1820235745,1774574192
@@ -93,7 +94,7 @@ dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679,1774574192
 
 // Scathelock (PvE first choice roll)
 // (Arrowhead Brake, Chambered Compensator), (Flared Magwell, TacticalMag), (Subsistence, Surplus), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=602618796&perks=839105230,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=3661387068,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=839105230,106909392,1820235745,1774574192
@@ -105,7 +106,7 @@ dimwishlist:item=602618796&perks=3661387068,106909392,3436462433,1774574192
 
 // Scathelock (PvE backup roll)
 // (Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Flared Magwell, Tactical Mag), (Subsistence, Surplus), Osmosis
-//notes:Adamsdown_Boy PvE backup roll for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE backup roll for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=602618796&perks=4090651448,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=1392496348,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=1840239774,3230963543,1820235745,1774574192
@@ -124,8 +125,8 @@ dimwishlist:item=602618796&perks=1840239774,106909392,3436462433,1774574192
 dimwishlist:item=602618796&perks=1482024992,106909392,3436462433,1774574192
 
 // The Last Breath (PvE first choice roll)
-// 9Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), Demolitionist, Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+// Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), Demolitionist, Osmosis
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=3661387068,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,1774574192
@@ -140,8 +141,8 @@ dimwishlist:item=507038823&perks=3661387068,3230963543,3523296417,1774574192
 dimwishlist:item=507038823&perks=1392496348,3230963543,3523296417,1774574192
 
 // The Last Breath (PvE backup roll)
-// 9Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Ensemble, Subsistence), Osmosis
-//notes:Adamsdown_Boy PvE backup for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+// Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Ensemble, Subsistence), Osmosis
+//notes:Adamsdown_Boy PvE backup for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=507038823&perks=839105230,1968497646,2621346526,1774574192
 dimwishlist:item=507038823&perks=3661387068,1968497646,2621346526,1774574192
 dimwishlist:item=507038823&perks=1392496348,1968497646,2621346526,1774574192
@@ -167,23 +168,11 @@ dimwishlist:item=507038823&perks=839105230,3230963543,1820235745,1774574192
 dimwishlist:item=507038823&perks=3661387068,3230963543,1820235745,1774574192
 dimwishlist:item=507038823&perks=1392496348,3230963543,1820235745,1774574192
 
-@title:Hand Cannons
+@title:Hand Cannons with Osmosis perk
 
 // Dire Promise (PvE first choice roll)
-// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Auto-Loading Holster, Overflow, Triple Tap), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=2742838701&perks=1926090094,1968497646,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090095,1968497646,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090092,1968497646,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090094,1561002382,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090095,1561002382,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090092,1561002382,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090094,1087426260,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090095,1087426260,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090092,1087426260,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090094,3230963543,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090095,3230963543,3643424744,1774574192
-dimwishlist:item=2742838701&perks=1926090092,3230963543,3643424744,1774574192
+// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), Auto-Loading Holster, Osmosis
+//notes:Adamsdown_Boy PvE first choice for soloing endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=2742838701&perks=1926090094,1968497646,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090095,1968497646,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090092,1968497646,3300816228,1774574192
@@ -196,6 +185,22 @@ dimwishlist:item=2742838701&perks=1926090092,1087426260,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090094,3230963543,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090095,3230963543,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090092,3230963543,3300816228,1774574192
+
+// Dire Promise (PvE first choice roll)
+// (Fastdraw HCS, SteadyHand HCS, TrueSight HCS), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Overflow, Triple Tap), Osmosis
+//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=2742838701&perks=1926090094,1968497646,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090095,1968497646,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090092,1968497646,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090094,1561002382,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090095,1561002382,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090092,1561002382,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090094,1087426260,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090095,1087426260,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090092,1087426260,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090094,3230963543,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090095,3230963543,3643424744,1774574192
+dimwishlist:item=2742838701&perks=1926090092,3230963543,3643424744,1774574192
 dimwishlist:item=2742838701&perks=1926090094,1968497646,3400784728,1774574192
 dimwishlist:item=2742838701&perks=1926090095,1968497646,3400784728,1774574192
 dimwishlist:item=2742838701&perks=1926090092,1968497646,3400784728,1774574192
@@ -211,7 +216,7 @@ dimwishlist:item=2742838701&perks=1926090092,3230963543,3400784728,1774574192
 
 // Fatebringer (PvE first choice roll)
 // (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell, Appended Mag), Osmosis, (Kill Clip, Frenzy, Adrenaline Junkie, Firefly)
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=2171478765&perks=1392496348,106909392,1774574192,1015611457
 dimwishlist:item=2171478765&perks=1840239774,106909392,1774574192,1015611457
 dimwishlist:item=2171478765&perks=1482024992,106909392,1774574192,1015611457
@@ -251,7 +256,7 @@ dimwishlist:item=2171478765&perks=1482024992,1087426260,1774574192,3824105627
 
 // Fatebringer (Timelost) (PvE first choice roll)
 // (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell, Appended Mag), Osmosis, (Kill Clip, Frenzy, Adrenaline Junkie, Firefly)
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1216319404&perks=1392496348,106909392,1774574192,1015611457
 dimwishlist:item=1216319404&perks=1840239774,106909392,1774574192,1015611457
 dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,1015611457
@@ -291,7 +296,7 @@ dimwishlist:item=1216319404&perks=1482024992,1087426260,1774574192,3824105627
 
 // Loud Lullaby (PvE first choice roll)
 // (Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Flared Magwell, Tactical Mag, Appended Mag), (Subsistence, Surplus), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3924212056&perks=1840239774,106909392,1820235745,1774574192
 dimwishlist:item=3924212056&perks=1392496348,106909392,1820235745,1774574192
 dimwishlist:item=3924212056&perks=1482024992,106909392,1820235745,1774574192
@@ -319,7 +324,7 @@ dimwishlist:item=3924212056&perks=4090651448,1087426260,3436462433,1774574192
 
 // Seventh Seraph Officer Revolver (PvE first choice roll)
 // (Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Flared Magwell, Tactical Mag, Appended Mag), (Threat Detector, Ambitious Assassin, Fourth Time's The Charm, Pulse Monitor), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,1774574192
 dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,1774574192
 dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,1774574192
@@ -371,7 +376,7 @@ dimwishlist:item=3037520408&perks=1392496348,3230963543,972757866,1774574192
 
 // Survivor's Epitaph (PvE first choice roll)
 // (Chambered Compensator, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Appended Mag), (Surplus, Ambitious Assassin, Feeding Frenzy, Subsistence, Rapid Hit), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=310708513&perks=3661387068,1968497646,3436462433,1774574192
 dimwishlist:item=310708513&perks=1840239774,1968497646,3436462433,1774574192
 dimwishlist:item=310708513&perks=4090651448,1968497646,3436462433,1774574192
@@ -473,11 +478,11 @@ dimwishlist:item=310708513&perks=4090651448,3230963543,247725512,1774574192
 dimwishlist:item=310708513&perks=1392496348,3230963543,247725512,1774574192
 dimwishlist:item=310708513&perks=1482024992,3230963543,247725512,1774574192
 
-@title:Pulse Rifles
+@title:Pulse Rifles with Osmosis perk
 
 // Legal Action II (PvE first choice roll)
 // (Chambered Compensator, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling), Steady Rounds, (Surplus, Feeding Frenzy), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3409645497&perks=3661387068,3177308360,3436462433,1774574192
 dimwishlist:item=3409645497&perks=1392496348,3177308360,3436462433,1774574192
 dimwishlist:item=3409645497&perks=1840239774,3177308360,3436462433,1774574192
@@ -491,7 +496,7 @@ dimwishlist:item=3409645497&perks=4090651448,3177308360,2779035018,1774574192
 
 // Legal Action II (PvE first choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag, Appended Mag), (Surplus, Feeding Frenzy), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3409645497&perks=839105230,106909392,3436462433,1774574192
 dimwishlist:item=3409645497&perks=839105230,3230963543,3436462433,1774574192
 dimwishlist:item=3409645497&perks=839105230,1087426260,3436462433,1774574192
@@ -499,11 +504,11 @@ dimwishlist:item=3409645497&perks=839105230,106909392,2779035018,1774574192
 dimwishlist:item=3409645497&perks=839105230,3230963543,2779035018,1774574192
 dimwishlist:item=3409645497&perks=839105230,1087426260,2779035018,1774574192
 
-@title:Scout Rifles
+@title:Scout Rifles with Osmosis perk
 
 // Servant Leader (PvE first choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), (Fourth Time's The Charm, Shoot To Loot, Surplus, Subsistence, Rapid Hit), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1107446438&perks=839105230,3230963543,1354429876,1774574192
 dimwishlist:item=1107446438&perks=839105230,106909392,1354429876,1774574192
 dimwishlist:item=1107446438&perks=839105230,3230963543,3700496672,1774574192
@@ -517,7 +522,7 @@ dimwishlist:item=1107446438&perks=839105230,106909392,247725512,1774574192
 
 // Servant Leader (PvE first choice roll)
 // (Chambered Compensator, Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (Steady Rounds), (Fourth Time's The Charm, Shoot To Loot, Surplus, Subsistence, Rapid Hit), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1107446438&perks=3661387068,3177308360,1354429876,1774574192
 dimwishlist:item=1107446438&perks=1392496348,3177308360,1354429876,1774574192
 dimwishlist:item=1107446438&perks=1840239774,3177308360,1354429876,1774574192
@@ -546,7 +551,7 @@ dimwishlist:item=1107446438&perks=4090651448,3177308360,247725512,1774574192
 
 // The Guiding Sight (PvE first choice roll)
 // (Cleanshot IS, Hitmark IS, Red Dot 2 MOA, Red Dot Micro), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Rapid Hit, Surplus, Ambitious Assassin), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability, Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability, Handling or Reload Speed on personal choice.
 dimwishlist:item=1641430382&perks=13792279,1968497646,247725512,1774574192
 dimwishlist:item=1641430382&perks=13792278,1968497646,247725512,1774574192
 dimwishlist:item=1641430382&perks=2405638014,1968497646,247725512,1774574192
@@ -596,11 +601,11 @@ dimwishlist:item=1641430382&perks=13792278,3230963543,2010801679,1774574192
 dimwishlist:item=1641430382&perks=2405638014,3230963543,2010801679,1774574192
 dimwishlist:item=1641430382&perks=2405638015,3230963543,2010801679,1774574192
 
-@title:Shotguns
+@title:Shotguns with Osmosis perk
 
 // Blasphemer (PvE first choice roll)
 // (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake), Assault Mag, (Threat Detector, Dual Loader, Surplus, Fourth Time's The Charm), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,1774574192
 dimwishlist:item=2782847179&perks=4090651448,791862061,4071163871,1774574192
 dimwishlist:item=2782847179&perks=839105230,791862061,4071163871,1774574192
@@ -615,10 +620,14 @@ dimwishlist:item=2782847179&perks=4090651448,791862061,1354429876,1774574192
 dimwishlist:item=2782847179&perks=839105230,791862061,1354429876,1774574192
 
 // One Small Step (PvE first choice roll)
-// (Barrel Shroud, Corkscrew Rifling), Tactical Mag, (Auto-Loading Holster, Dual Loader, Slideshot, Surplus, Feeding Frenzy), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+// (Barrel Shroud, Corkscrew Rifling), Tactical Mag, Auto-Loading Holster, Osmosis
+//notes:Adamsdown_Boy PvE first choice roll for soloing endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1016668089&perks=1300023272,106909392,3300816228,1774574192
 dimwishlist:item=1016668089&perks=4090651448,106909392,3300816228,1774574192
+
+// One Small Step (PvE forst choice roll)
+// (Barrel Shroud, Corkscrew Rifling), Tactical Mag, (Dual Loader, Slideshot, Surplus, Feeding Frenzy), Osmosis
+//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1016668089&perks=1300023272,106909392,25606670,1774574192
 dimwishlist:item=1016668089&perks=4090651448,106909392,25606670,1774574192
 dimwishlist:item=1016668089&perks=1300023272,106909392,3161816588,1774574192
@@ -628,11 +637,11 @@ dimwishlist:item=1016668089&perks=4090651448,106909392,3436462433,1774574192
 dimwishlist:item=1016668089&perks=1300023272,106909392,2779035018,1774574192
 dimwishlist:item=1016668089&perks=4090651448,106909392,2779035018,1774574192
 
-@title:Sidearms
+@title:Sidearms with Osmosis perk
 
 // Spoiler Alert (PvE first choice roll)
 // (Shortspec SAS, Quickdit SAS, Control SAS), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell), (Surplus, Feeding Frenzy, Threat Detector), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability, Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability, Handling or Reload Speed on personal choice.
 dimwishlist:item=2588048270&perks=445755707,1968497646,3436462433,1774574192
 dimwishlist:item=2588048270&perks=445755706,1968497646,3436462433,1774574192
 dimwishlist:item=2588048270&perks=445755705,1968497646,3436462433,1774574192
@@ -661,11 +670,11 @@ dimwishlist:item=2588048270&perks=445755707,3230963543,4071163871,1774574192
 dimwishlist:item=2588048270&perks=445755706,3230963543,4071163871,1774574192
 dimwishlist:item=2588048270&perks=445755705,3230963543,4071163871,1774574192
 
-@title:Sniper Rifles
+@title:Sniper Rifles with Osmosis perk
 
 // Praedyth's Revenge (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Tactical Mag, Osmosis, (Frenzy, High-Impact Reserves, Firefly)
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=3653573172&perks=1840239774,106909392,1774574192,2213355989
 dimwishlist:item=3653573172&perks=839105230,106909392,1774574192,2213355989
 dimwishlist:item=3653573172&perks=4090651448,106909392,1774574192,2213355989
@@ -678,7 +687,7 @@ dimwishlist:item=3653573172&perks=4090651448,106909392,1774574192,3824105627
 
 // Praedyth's Revenge (Timelost) (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Tactical Mag, Osmosis, (Frenzy, High-Impact Reserves, Firefly)
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1987769101&perks=1840239774,106909392,1774574192,2213355989
 dimwishlist:item=1987769101&perks=839105230,106909392,1774574192,2213355989
 dimwishlist:item=1987769101&perks=4090651448,106909392,1774574192,2213355989
@@ -691,7 +700,7 @@ dimwishlist:item=1987769101&perks=4090651448,106909392,1774574192,3824105627
 
 // Shepherd's Watch (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (No Distractions, Outlaw), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=3743729616&perks=1840239774,1087426260,2866798147,1774574192
 dimwishlist:item=3743729616&perks=839105230,1087426260,2866798147,1774574192
 dimwishlist:item=3743729616&perks=4090651448,1087426260,2866798147,1774574192
@@ -701,16 +710,20 @@ dimwishlist:item=3743729616&perks=4090651448,1087426260,1168162263,1774574192
 
 // Succession (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Mag, Reconstruction, Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,1774574192
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,1774574192
 dimwishlist:item=2990047042&perks=4090651448,2420895100,1523832109,1774574192
 
 // Tranquility (PvE first choice roll)
-// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (Auto-Loading Holster, Surplus, No Distractions), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Handling or Reload Speed on personal choice.
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, Auto-Loading Holster, Osmosis
+//notes:Adamsdown_Boy PvE first choice for soloing endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1645386487&perks=1840239774,1087426260,3300816228,1774574192
 dimwishlist:item=1645386487&perks=839105230,1087426260,3300816228,1774574192
+
+// Tranquility (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (Surplus, No Distractions), Osmosis
+//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1645386487&perks=4090651448,1087426260,3300816228,1774574192
 dimwishlist:item=1645386487&perks=1840239774,1087426260,3436462433,1774574192
 dimwishlist:item=1645386487&perks=839105230,1087426260,3436462433,1774574192
@@ -719,11 +732,11 @@ dimwishlist:item=1645386487&perks=1840239774,1087426260,2866798147,1774574192
 dimwishlist:item=1645386487&perks=839105230,1087426260,2866798147,1774574192
 dimwishlist:item=1645386487&perks=4090651448,1087426260,2866798147,1774574192
 
-@title:Submachine Guns
+@title:Submachine Guns with Osmosis perk
 
 // Escape Velocity (PvE first choice roll)
 // (IS 2 CLassic, IS 5 Circle, Model 6 Loop, Model 8 Red), (Tactical Mag, Flared Magwell), (Grave Robber, Threat Detector, Overflow), Osmosis
-//notes:Adamsdown_Boy PvE first choice for Match Game. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1786797708&perks=2209280307,106909392,3643424744,1774574192
 dimwishlist:item=1786797708&perks=2209280306,106909392,3643424744,1774574192
 dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1774574192
@@ -749,59 +762,627 @@ dimwishlist:item=1786797708&perks=2209280306,3230963543,1631667848,1774574192
 dimwishlist:item=1786797708&perks=663495155,3230963543,1631667848,1774574192
 dimwishlist:item=1786797708&perks=663495154,3230963543,1631667848,1774574192
 
-@title:Season 15 Vault of Glass weapons
-@notes:Not yet covered by DMB - PvE rolls only!
+
+@title:Anti-Barrier champion weapons
+@notes:Weapons that combine Armor-Piercing Rounds and Disruption Break or Vorpal Weapon to keep for when they're in a seasonal rotation
+
+@title:Auto Rifles for anti-barrier mods
+
+// Seventh Seraph Carbine (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, Auto-Loading Holster, Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability or Handling with Major Spec mod.
+dimwishlist:item=1561006927&perks=1392496348,1561002382,3300816228,1546637391
+dimwishlist:item=1561006927&perks=3661387068,1561002382,3300816228,1546637391
+dimwishlist:item=1561006927&perks=1482024992,1561002382,3300816228,1546637391
+dimwishlist:item=1561006927&perks=1840239774,1561002382,3300816228,1546637391
+dimwishlist:item=1561006927&perks=4090651448,1561002382,3300816228,1546637391
+
+// Seventh Seraph Carbine (PvE backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Underdog, Threat Detector), Vorpal Weapon
+//notes:Adamsdown_Boy PvE backup roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1561006927&perks=1392496348,1561002382,205890336,1546637391
+dimwishlist:item=1561006927&perks=3661387068,1561002382,205890336,1546637391
+dimwishlist:item=1561006927&perks=1482024992,1561002382,205890336,1546637391
+dimwishlist:item=1561006927&perks=1840239774,1561002382,205890336,1546637391
+dimwishlist:item=1561006927&perks=4090651448,1561002382,205890336,1546637391
+dimwishlist:item=1561006927&perks=1392496348,1561002382,4071163871,1546637391
+dimwishlist:item=1561006927&perks=3661387068,1561002382,4071163871,1546637391
+dimwishlist:item=1561006927&perks=1482024992,1561002382,4071163871,1546637391
+dimwishlist:item=1561006927&perks=1840239774,1561002382,4071163871,1546637391
+dimwishlist:item=1561006927&perks=4090651448,1561002382,4071163871,1546637391
+
+@title:Hand Cannons for anti-barrier mods
+
+// Waking Vigil (PvE first choice roll)
+// (SteadyHand HCS, FastDraw HCS, TrueSight HCS), Armor-Piercing Rounds, Surplus, Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=334171687&perks=1926090095,1561002382,3436462433,1683379515
+dimwishlist:item=334171687&perks=1926090094,1561002382,3436462433,1683379515
+dimwishlist:item=334171687&perks=1926090092,1561002382,3436462433,1683379515
+
+// Waking Vigil (PvE backup roll)
+// (SteadyHand HCS, FastDraw HCS, TrueSight HCS), Armor-Piercing Rounds, Surplus, Vorpal Weapon
+//notes:Adamsdown_Boy PvE backup roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=334171687&perks=1926090095,1561002382,3436462433,1546637391
+dimwishlist:item=334171687&perks=1926090094,1561002382,3436462433,1546637391
+dimwishlist:item=334171687&perks=1926090092,1561002382,3436462433,1546637391
+
+@title:Machine Guns for anti-barrier mods
+
+// Avalanche (PvE first choice roll)
+// (SLO-12 Post, SLO-21 Post, SLO-10 Post, SPO-26 Front, SPO-28 Front), Armor-Piercing Rounds, Auto-Loading Holster, Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for soloing anti-barrier Champions mods. Recommended MW: Stability or Handling with Major Spec mod.
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619223,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536503,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536500,1561002382,3300816228,1546637391
+
+// Avalanche (PvE first choice roll)
+// (SLO-12 Post, SLO-21 Post, SLO-10 Post, SPO-26 Front, SPO-28 Front), Armor-Piercing Rounds, Surplus, Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=66875353&perks=965619221,1561002382,3436462433,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,3436462433,1546637391
+dimwishlist:item=66875353&perks=965619223,1561002382,3436462433,1546637391
+dimwishlist:item=66875353&perks=3151536503,1561002382,3436462433,1546637391
+dimwishlist:item=66875353&perks=3151536500,1561002382,3436462433,1546637391
+
+// Seventh Seraph SAW (PvE first choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Fluted Barrel), Armor-Piercing Rounds, Auto-Loading Holster, Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for soloing anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability or Handling with Major Spec mod.
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1683379515
+dimwishlist:item=2582755344&perks=1392496348,1561002382,3300816228,1683379515
+dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,1683379515
+
+// Seventh Seraph SAW (PvE first choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Fluted Barrel), Armor-Piercing Rounds, (Clown Cartridge, Field Prep), Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=2582755344&perks=839105230,1561002382,2284787283,1683379515
+dimwishlist:item=2582755344&perks=1392496348,1561002382,2284787283,1683379515
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2284787283,1683379515
+dimwishlist:item=2582755344&perks=839105230,1561002382,2869569095,1683379515
+dimwishlist:item=2582755344&perks=1392496348,1561002382,2869569095,1683379515
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2869569095,1683379515
+
+// Seventh Seraph SAW (PvE backup roll)
+// (Arrowhead Brake, Polygonal Rifling, Fluted Barrel), Armor-Piercing Rounds, Auto-Loading Holster, Vorpal Weapon
+//notes:Adamsdown_Boy PvE backup roll for soloing anti-barrier Champions mods. Recommended MW: Stability or Handling with Major Spec mod.
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1546637391
+dimwishlist:item=2582755344&perks=1392496348,1561002382,3300816228,1546637391
+dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,1546637391
+
+// Seventh Seraph SAW (PvE backup roll)
+// (Arrowhead Brake, Polygonal Rifling, Fluted Barrel), Armor-Piercing Rounds, (Clown Cartridge, Field Prep), Vorpal Weapon
+//notes:Adamsdown_Boy PvE backup roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=2582755344&perks=839105230,1561002382,2284787283,1546637391
+dimwishlist:item=2582755344&perks=1392496348,1561002382,2284787283,1546637391
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2284787283,1546637391
+dimwishlist:item=2582755344&perks=839105230,1561002382,2869569095,1546637391
+dimwishlist:item=2582755344&perks=1392496348,1561002382,2869569095,1546637391
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2869569095,1546637391
+
+@title:Pulse Rifles for anti-barrier mods
+
+// The Third Axiom (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Surplus, Genesis, Quickdraw), Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=4156253727&perks=1392496348,1561002382,3436462433,1683379515
+dimwishlist:item=4156253727&perks=3661387068,1561002382,3436462433,1683379515
+dimwishlist:item=4156253727&perks=1482024992,1561002382,3436462433,1683379515
+dimwishlist:item=4156253727&perks=1840239774,1561002382,3436462433,1683379515
+dimwishlist:item=4156253727&perks=4090651448,1561002382,3436462433,1683379515
+dimwishlist:item=4156253727&perks=1392496348,1561002382,3096702027,1683379515
+dimwishlist:item=4156253727&perks=3661387068,1561002382,3096702027,1683379515
+dimwishlist:item=4156253727&perks=1482024992,1561002382,3096702027,1683379515
+dimwishlist:item=4156253727&perks=1840239774,1561002382,3096702027,1683379515
+dimwishlist:item=4156253727&perks=4090651448,1561002382,3096702027,1683379515
+dimwishlist:item=4156253727&perks=1392496348,1561002382,706527188,1683379515
+dimwishlist:item=4156253727&perks=3661387068,1561002382,706527188,1683379515
+dimwishlist:item=4156253727&perks=1482024992,1561002382,706527188,1683379515
+dimwishlist:item=4156253727&perks=1840239774,1561002382,706527188,1683379515
+dimwishlist:item=4156253727&perks=4090651448,1561002382,706527188,1683379515
+
+// The Third Axiom (PvE backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Surplus, Genesis, Quickdraw), Vorpal Weapon
+//notes:Adamsdown_Boy PvE backup roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=4156253727&perks=1392496348,1561002382,3436462433,1546637391
+dimwishlist:item=4156253727&perks=3661387068,1561002382,3436462433,1546637391
+dimwishlist:item=4156253727&perks=1482024992,1561002382,3436462433,1546637391
+dimwishlist:item=4156253727&perks=1840239774,1561002382,3436462433,1546637391
+dimwishlist:item=4156253727&perks=4090651448,1561002382,3436462433,1546637391
+dimwishlist:item=4156253727&perks=1392496348,1561002382,3096702027,1546637391
+dimwishlist:item=4156253727&perks=3661387068,1561002382,3096702027,1546637391
+dimwishlist:item=4156253727&perks=1482024992,1561002382,3096702027,1546637391
+dimwishlist:item=4156253727&perks=1840239774,1561002382,3096702027,1546637391
+dimwishlist:item=4156253727&perks=4090651448,1561002382,3096702027,1546637391
+dimwishlist:item=4156253727&perks=1392496348,1561002382,706527188,1546637391
+dimwishlist:item=4156253727&perks=3661387068,1561002382,706527188,1546637391
+dimwishlist:item=4156253727&perks=1482024992,1561002382,706527188,1546637391
+dimwishlist:item=4156253727&perks=1840239774,1561002382,706527188,1546637391
+dimwishlist:item=4156253727&perks=4090651448,1561002382,706527188,1546637391
+
+// Jian 7 Rifle (PvE first choice roll)
+// (SRO-52 Ocular, SRO-41 Ocular, SRO-37 Ocular, SPO-57 Front, SPO-28 Front, SPO-26 Front), Armor-Piercing Rounds, Disruption Break, (Swashbuckler, Rampage, Outlaw, Rangefinder, Dragonfly)
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Draw Time with Quick Access Sling mod.
+dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,4082225868
+dimwishlist:item=1162247618&perks=360593482,1561002382,1683379515,4082225868
+dimwishlist:item=1162247618&perks=3151536501,1561002382,1683379515,4082225868
+dimwishlist:item=1162247618&perks=3151536500,1561002382,1683379515,4082225868
+dimwishlist:item=1162247618&perks=3151536503,1561002382,1683379515,4082225868
+dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,3425386926
+dimwishlist:item=1162247618&perks=360593482,1561002382,1683379515,3425386926
+dimwishlist:item=1162247618&perks=3151536501,1561002382,1683379515,3425386926
+dimwishlist:item=1162247618&perks=3151536500,1561002382,1683379515,3425386926
+dimwishlist:item=1162247618&perks=3151536503,1561002382,1683379515,3425386926
+dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,1168162263
+dimwishlist:item=1162247618&perks=360593482,1561002382,1683379515,1168162263
+dimwishlist:item=1162247618&perks=3151536501,1561002382,1683379515,1168162263
+dimwishlist:item=1162247618&perks=3151536500,1561002382,1683379515,1168162263
+dimwishlist:item=1162247618&perks=3151536503,1561002382,1683379515,1168162263
+dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,2846385770
+dimwishlist:item=1162247618&perks=360593482,1561002382,1683379515,2846385770
+dimwishlist:item=1162247618&perks=3151536501,1561002382,1683379515,2846385770
+dimwishlist:item=1162247618&perks=3151536500,1561002382,1683379515,2846385770
+dimwishlist:item=1162247618&perks=3151536503,1561002382,1683379515,2846385770
+dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,2848615171
+dimwishlist:item=1162247618&perks=360593482,1561002382,1683379515,2848615171
+dimwishlist:item=1162247618&perks=3151536501,1561002382,1683379515,2848615171
+dimwishlist:item=1162247618&perks=3151536500,1561002382,1683379515,2848615171
+dimwishlist:item=1162247618&perks=3151536503,1561002382,1683379515,2848615171
+
+// The Time-Worn Spire (PvE first choice roll)
+// (Hitmark IS, Cleanshot IS, Red Dot 2 MOA, Red Dot Micro), Armor-Piercing Rounds, Quickdraw, Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3593598010&perks=13792278,1561002382,706527188,1546637391
+dimwishlist:item=3593598010&perks=13792279,1561002382,706527188,1546637391
+dimwishlist:item=3593598010&perks=13792279,1561002382,706527188,1546637391
+dimwishlist:item=3593598010&perks=13792278,1561002382,706527188,1546637391
+
+@title:Scout Rifles for anti-barrier mods
+
+// Eternal Blazon (PvE first choice roll)
+// (Candle PS, Spark PS, Jolt PS, Flash HS5), Armor-Piercing Rounds, (Overflow, Quickdraw), Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3514096004&perks=1409978309,1561002382,3643424744,1683379515
+dimwishlist:item=3514096004&perks=1409978308,1561002382,3643424744,1683379515
+dimwishlist:item=3514096004&perks=1409978311,1561002382,3643424744,1683379515
+dimwishlist:item=3514096004&perks=1628165637,1561002382,3643424744,1683379515
+dimwishlist:item=3514096004&perks=1409978309,1561002382,706527188,1683379515
+dimwishlist:item=3514096004&perks=1409978308,1561002382,706527188,1683379515
+dimwishlist:item=3514096004&perks=1409978311,1561002382,706527188,1683379515
+dimwishlist:item=3514096004&perks=1628165637,1561002382,706527188,1683379515
+
+// The Guiding Sight (PvE first choice roll)
+// (Hitmark IS, Cleanshot IS, Red Dot 2 MOA, Red Dot Micro), Armor-Piercing Rounds, (Surplus, Quickdraw), Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1641430382&perks=13792278,1561002382,3436462433,1546637391
+dimwishlist:item=1641430382&perks=13792279,1561002382,3436462433,1546637391
+dimwishlist:item=1641430382&perks=13792279,1561002382,3436462433,1546637391
+dimwishlist:item=1641430382&perks=13792278,1561002382,3436462433,1546637391
+dimwishlist:item=1641430382&perks=13792278,1561002382,706527188,1546637391
+dimwishlist:item=1641430382&perks=13792279,1561002382,706527188,1546637391
+dimwishlist:item=1641430382&perks=13792279,1561002382,706527188,1546637391
+dimwishlist:item=1641430382&perks=13792278,1561002382,706527188,1546637391
+
+// The Scholar (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Underdog, Quickdraw), Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=2478792241&perks=1392496348,1561002382,205890336,1546637391
+dimwishlist:item=2478792241&perks=3661387068,1561002382,205890336,1546637391
+dimwishlist:item=2478792241&perks=1482024992,1561002382,205890336,1546637391
+dimwishlist:item=2478792241&perks=1840239774,1561002382,205890336,1546637391
+dimwishlist:item=2478792241&perks=4090651448,1561002382,205890336,1546637391
+dimwishlist:item=2478792241&perks=1392496348,1561002382,706527188,1546637391
+dimwishlist:item=2478792241&perks=3661387068,1561002382,706527188,1546637391
+dimwishlist:item=2478792241&perks=1482024992,1561002382,706527188,1546637391
+dimwishlist:item=2478792241&perks=1840239774,1561002382,706527188,1546637391
+dimwishlist:item=2478792241&perks=4090651448,1561002382,706527188,1546637391
+
+// The Scholar (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Underdog, Quickdraw), Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Adept Big Ones Spec mod.
+dimwishlist:item=2386979999&perks=1392496348,1561002382,205890336,1546637391
+dimwishlist:item=2386979999&perks=3661387068,1561002382,205890336,1546637391
+dimwishlist:item=2386979999&perks=1482024992,1561002382,205890336,1546637391
+dimwishlist:item=2386979999&perks=1840239774,1561002382,205890336,1546637391
+dimwishlist:item=2386979999&perks=4090651448,1561002382,205890336,1546637391
+dimwishlist:item=2386979999&perks=1392496348,1561002382,706527188,1546637391
+dimwishlist:item=2386979999&perks=3661387068,1561002382,706527188,1546637391
+dimwishlist:item=2386979999&perks=1482024992,1561002382,706527188,1546637391
+dimwishlist:item=2386979999&perks=1840239774,1561002382,706527188,1546637391
+dimwishlist:item=2386979999&perks=4090651448,1561002382,706527188,1546637391
+
+// Vision of Confluence (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Rewind Rounds, Surplus) Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=3661387068,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3418782618,1683379515
+dimwishlist:item=3186018373&perks=1392496348,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=3661387068,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=1482024992,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=1840239774,1561002382,3436462433,1683379515
+dimwishlist:item=3186018373&perks=4090651448,1561002382,3436462433,1683379515
+
+// Vision of Confluence (Timelost) (PvE first choice roll)
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Adept Big Ones Spec mod.
+dimwishlist:item=690668916&perks=1392496348,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=3661387068,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=1482024992,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=1840239774,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=4090651448,1561002382,3418782618,1683379515
+dimwishlist:item=690668916&perks=1392496348,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=3661387068,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=1482024992,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=1840239774,1561002382,3436462433,1683379515
+dimwishlist:item=690668916&perks=4090651448,1561002382,3436462433,1683379515
+
+@title:Sidearms for anti-barrier mods
+
+// The Keening (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, (Pulse Monitor, Surplus, Threat Detector), Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=409551876&perks=1392496348,1561002382,972757866,1546637391
+dimwishlist:item=409551876&perks=3661387068,1561002382,972757866,1546637391
+dimwishlist:item=409551876&perks=1482024992,1561002382,972757866,1546637391
+dimwishlist:item=409551876&perks=1840239774,1561002382,972757866,1546637391
+dimwishlist:item=409551876&perks=4090651448,1561002382,972757866,1546637391
+dimwishlist:item=409551876&perks=1392496348,1561002382,3436462433,1546637391
+dimwishlist:item=409551876&perks=3661387068,1561002382,3436462433,1546637391
+dimwishlist:item=409551876&perks=1482024992,1561002382,3436462433,1546637391
+dimwishlist:item=409551876&perks=1840239774,1561002382,3436462433,1546637391
+dimwishlist:item=409551876&perks=4090651448,1561002382,3436462433,1546637391
+dimwishlist:item=409551876&perks=1392496348,1561002382,4071163871,1546637391
+dimwishlist:item=409551876&perks=3661387068,1561002382,4071163871,1546637391
+dimwishlist:item=409551876&perks=1482024992,1561002382,4071163871,1546637391
+dimwishlist:item=409551876&perks=1840239774,1561002382,4071163871,1546637391
+dimwishlist:item=409551876&perks=4090651448,1561002382,4071163871,1546637391
+
+// A Swift Verdict (PvE first choice roll)
+// (Control SAS, QuickDot SAS, Shortspec SAS), Armor-Piercing Rounds, (Surplus, Threat Detector), Disruption Break
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods - 50% extra kinetic damage once the barrier breaks. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1626503676&perks=445755706,1561002382,3436462433,1683379515
+dimwishlist:item=1626503676&perks=445755707,1561002382,3436462433,1683379515
+dimwishlist:item=1626503676&perks=445755705,1561002382,3436462433,1683379515
+dimwishlist:item=1626503676&perks=445755706,1561002382,4071163871,1683379515
+dimwishlist:item=1626503676&perks=445755707,1561002382,4071163871,1683379515
+dimwishlist:item=1626503676&perks=445755705,1561002382,4071163871,1683379515
+
+@title:Sniper Rifles for anti-barrier mods
+
+// Occluded Finality (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Armor-Piercing Rounds, Auto-Loading Holster, Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for soloing anti-barrier Champions mods. Recommended MW: Handling with Major Spec mod.
+dimwishlist:item=852551895&perks=1840239774,1561002382,3300816228,1546637391
+dimwishlist:item=852551895&perks=839105230,1561002382,3300816228,1546637391
+dimwishlist:item=852551895&perks=4090651448,1561002382,3300816228,1546637391
+
+// Occluded Finality (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Armor-Piercing Rounds, Surplus, Vorpal Weapon
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier Champions mods. Recommended MW: Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=852551895&perks=1840239774,1561002382,3436462433,1546637391
+dimwishlist:item=852551895&perks=839105230,1561002382,3436462433,1546637391
+dimwishlist:item=852551895&perks=4090651448,1561002382,3436462433,1546637391
+
+
+@@title:Anti-Unstoppable champion weapons
+@notes:Weapons that have an explosive projectile to quickly disrupt Overload chsmpions, to keep for when they're in a seasonal rotation
+
+@title:Combat Boes for overload mods
+
+// Accrued Redemption (PvE first choice roll)
+// Elastic String, (Straight Fletching, Compact Arrow Shaft), (Archer's Tempo, Quickdraw), Explosive Head
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Draw Time with Major Spec mod.
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3311977193,201365942,3365897133
+dimwishlist:item=4095896073&perks=2801223209,16392701,201365942,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3827198035,706527188,3365897133
+dimwishlist:item=4095896073&perks=2801223209,3311977193,706527188,3365897133
+dimwishlist:item=4095896073&perks=2801223209,16392701,706527188,3365897133
+
+// Arsenic Bite-4b (PvE first choice roll)
+// (Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching, Compact Arrow Shaft), (Quickdraw Snapshot Sights), Explosive Head
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Draw Time with Major Spec mod.
+dimwishlist:item=720351795&perks=4067834857,3429800428,706527188,3365897133
+dimwishlist:item=720351795&perks=852209214,3429800428,706527188,3365897133
+dimwishlist:item=720351795&perks=4067834857,3827198035,706527188,3365897133
+dimwishlist:item=720351795&perks=852209214,3827198035,706527188,3365897133
+dimwishlist:item=720351795&perks=4067834857,16392701,706527188,3365897133
+dimwishlist:item=720351795&perks=852209214,16392701,706527188,3365897133
+dimwishlist:item=720351795&perks=4067834857,3429800428,957782887,3365897133
+dimwishlist:item=720351795&perks=852209214,3429800428,957782887,3365897133
+dimwishlist:item=720351795&perks=4067834857,3827198035,957782887,3365897133
+dimwishlist:item=720351795&perks=852209214,3827198035,957782887,3365897133
+dimwishlist:item=720351795&perks=4067834857,16392701,957782887,3365897133
+dimwishlist:item=720351795&perks=852209214,16392701,957782887,3365897133
+
+// Arsenic Bite-4b (PvE first choice roll)
+// Elastic String, (Fiberglass Arrow Shaft, Straight Fletching, Compact Arrow Shaft), (Quickdraw Snapshot Sights), Explosive Head
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Accuracy with Major Spec mod.
+dimwishlist:item=720351795&perks=2801223209,3429800428,706527188,3365897133
+dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,3365897133
+dimwishlist:item=720351795&perks=2801223209,16392701,706527188,3365897133
+dimwishlist:item=720351795&perks=2801223209,3429800428,957782887,3365897133
+dimwishlist:item=720351795&perks=2801223209,3827198035,957782887,3365897133
+dimwishlist:item=720351795&perks=2801223209,16392701,957782887,3365897133
+
+// Biting Winds (PvE first choice roll)
+// (Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching, Compact Arrow Shaft), (Quickdraw Snapshot Sights), Explosive Head
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Draw Time with Major Spec mod.
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+dimwishlist:item=1621657423&perks=2801223209,3827198035,247725512,3365897133
+dimwishlist:item=1621657423&perks=2801223209,16392701,247725512,3365897133
+dimwishlist:item=1621657423&perks=2801223209,3429800428,706527188,3365897133
+dimwishlist:item=1621657423&perks=2801223209,3827198035,706527188,3365897133
+dimwishlist:item=1621657423&perks=2801223209,16392701,706527188,3365897133
+
+// Tyranny of Heaven (PvE first choice roll)
+// Elastic String, (Straight Fletching, Compact Arrow Shaft), Archer's Tempo, Explosive Head
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Draw Time with Major Spec mod.
+dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3365897133
+dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133
+
+@title:Hand Cannons for overload mods
+
+// Annual Skate (PvE first choice roll)
+// (SteadyHand HCS, FastDraw HCS), Tactical Mag, (Surplus, Triple Tap), Timed Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=6857689&perks=1926090095,106909392,3436462433,1954620775
+dimwishlist:item=6857689&perks=1926090094,106909392,3436462433,1954620775
+dimwishlist:item=6857689&perks=1926090095,106909392,3400784728,1954620775
+dimwishlist:item=6857689&perks=1926090094,106909392,3400784728,1954620775
+
+// Bottom Dollar (PvE first choice roll)
+// (Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), (Surplus, Fourth Time's The Charm, Rapid Hit), Explosive Rounds
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1046651176&perks=1392496348,106909392,3436462433,3038247973
+dimwishlist:item=1046651176&perks=1482024992,106909392,3436462433,3038247973
+dimwishlist:item=1046651176&perks=1392496348,3230963543,3436462433,3038247973
+dimwishlist:item=1046651176&perks=1482024992,3230963543,3436462433,3038247973
+dimwishlist:item=1046651176&perks=1392496348,106909392,1354429876,3038247973
+dimwishlist:item=1046651176&perks=1482024992,106909392,1354429876,3038247973
+dimwishlist:item=1046651176&perks=1392496348,3230963543,1354429876,3038247973
+dimwishlist:item=1046651176&perks=1482024992,3230963543,1354429876,3038247973
+dimwishlist:item=1046651176&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=1046651176&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=1046651176&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=1046651176&perks=1482024992,3230963543,247725512,3038247973
+
+// Crimil's Dagger (PvE first choice roll)
+// (SteadyHand HCS, FastDraw HCS), (Tactical Mag, Flared Magwell), (Auto-Loading Holster, Threat Detector, Triple Tap), Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=4292849692&perks=1926090095,106909392,3300816228,3038247973
+dimwishlist:item=4292849692&perks=1926090094,106909392,3300816228,3038247973
+dimwishlist:item=4292849692&perks=1926090095,3230963543,3300816228,3038247973
+dimwishlist:item=4292849692&perks=1926090094,3230963543,3300816228,3038247973
+dimwishlist:item=4292849692&perks=1926090095,106909392,4071163871,3038247973
+dimwishlist:item=4292849692&perks=1926090094,106909392,4071163871,3038247973
+dimwishlist:item=4292849692&perks=1926090095,3230963543,4071163871,3038247973
+dimwishlist:item=4292849692&perks=1926090094,3230963543,4071163871,3038247973
+dimwishlist:item=4292849692&perks=1926090095,106909392,3400784728,3038247973
+dimwishlist:item=4292849692&perks=1926090094,106909392,3400784728,3038247973
+dimwishlist:item=4292849692&perks=1926090095,3230963543,3400784728,3038247973
+dimwishlist:item=4292849692&perks=1926090094,3230963543,3400784728,3038247973
 
 // Fatebringer (PvE first choice roll)
-// Fluted Barrel, Appended Mag, Explosive Payload, Firefly
-//notes:Adamsdown_Boy PvE first choice roll. Closest to D1 roll. Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=2171478765&perks=1840239774,1087426260,3038247973,3824105627
+// (Polygonal Rifling, Smallbore, Fluted Barrel), (Tactical Mag, Flared Magwell), Explosive Payload, (Frenzy, Adrenaline Junkie, Firefly)
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,11612903
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,11612903
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,11612903
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,11612903
+dimwishlist:item=2171478765&perks=1392496348,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,3824105627
+dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,3824105627
 
-// Fatebringer (PvE interesting roll)
-// (Fluted Barrel or Polygonal Rifling), (Flared Magwell, Tactical Mag), Thresh, Frenzy
-//notes:Adamsdown_Boy PvE interesting roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=2171478765&perks=1840239774,3230963543,2726471870,4104185692
-dimwishlist:item=2171478765&perks=1392496348,3230963543,2726471870,4104185692
-dimwishlist:item=2171478765&perks=1840239774,106909392,2726471870,4104185692
-dimwishlist:item=2171478765&perks=1392496348,106909392,2726471870,4104185692
+// Fatebringer (Timelost) (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel), (Tactical Mag, Flared Magwell), Explosive Payload, (Frenzy, Adrenaline Junkie, Firefly)
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Adept Big Ones Spec mod.
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,11612903
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,11612903
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,11612903
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,11612903
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,3824105627
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,3824105627
 
-// Fatebringer (PvE interesting roll)
-// (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag, Steady Rounds), Thresh, Frenzy
-//notes:Adamsdown_Boy PvE interesting roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
-dimwishlist:item=2171478765&perks=4090651448,3230963543,2726471870,4104185692
-dimwishlist:item=2171478765&perks=1482024992,3230963543,2726471870,4104185692
-dimwishlist:item=2171478765&perks=3250034553,3230963543,2726471870,4104185692
-dimwishlist:item=2171478765&perks=4090651448,106909392,2726471870,4104185692
-dimwishlist:item=2171478765&perks=1482024992,106909392,2726471870,4104185692
-dimwishlist:item=2171478765&perks=3250034553,106909392,2726471870,4104185692
-dimwishlist:item=2171478765&perks=4090651448,3177308360,2726471870,4104185692
-dimwishlist:item=2171478765&perks=1482024992,3177308360,2726471870,4104185692
-dimwishlist:item=2171478765&perks=3250034553,3177308360,2726471870,4104185692
+// Judgment (PvE first choice roll)
+// (SteadyHand HCS, FastDraw HCS), (Tactical Mag, Flared Magwell), Ensemble, Timed Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1476654960&perks=1926090095,106909392,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090094,106909392,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090095,3230963543,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090094,3230963543,2621346526,1954620775
 
-// Found Verdict (PvE backup roll)
-// (Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Surplus, (Demolitionist, Frenzy, One-Two Punch, Vorpal Weapon)
-//notes:Adamsdown_Boy PvE backup roll. Recommended MW: Stability or Reload Speed on personal choice with Backup Mag mod.
-dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,3523296417
-dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,3523296417
-dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,3523296417
-dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,3523296417
-dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,4104185692
-dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,4104185692
-dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,4104185692
-dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,4104185692
-dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,2679249093
-dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,2679249093
-dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,2679249093
-dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,2679249093
-dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,1546637391
-dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,1546637391
-dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,1546637391
-dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,1546637391
+// Loud Lullaby (PvE first choice roll)
+// (Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), Surplus, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3924212056&perks=1392496348,106909392,3436462433,3038247973
+dimwishlist:item=3924212056&perks=1482024992,106909392,3436462433,3038247973
+dimwishlist:item=3924212056&perks=1392496348,3230963543,3436462433,3038247973
+dimwishlist:item=3924212056&perks=1482024992,3230963543,3436462433,3038247973
 
+// Nation of Beasts (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Tactical Mag, Overflow, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=654370424&perks=1392496348,106909392,2010801679,3038247973
+dimwishlist:item=654370424&perks=1482024992,106909392,2010801679,3038247973
+dimwishlist:item=654370424&perks=1840239774,106909392,2010801679,3038247973
+dimwishlist:item=654370424&perks=4090651448,106909392,2010801679,3038247973
+
+// Seventh Seraph Officer Revolver (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Ambitious Assassin, Fourth Time's The Charm, Threat Detector), Timed Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3037520408&perks=1392496348,106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1482024992,106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1840239774,106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=4090651448,106909392,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1392496348,3230963543,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1482024992,3230963543,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1840239774,3230963543,2010801679,1954620775
+dimwishlist:item=3037520408&perks=4090651448,3230963543,2010801679,1954620775
+dimwishlist:item=3037520408&perks=1392496348,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1482024992,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1840239774,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1392496348,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1482024992,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1840239774,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=4090651448,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1392496348,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1482024992,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1840239774,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1392496348,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1482024992,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=1840239774,3230963543,1354429876,1954620775
+dimwishlist:item=3037520408&perks=4090651448,3230963543,1354429876,1954620775
+
+// True Prophecy (PvE first choice roll)
+// (Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), (Field Prep, Overflow), (Explosive, Payload, Timed Payload)
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=2742838700&perks=1392496348,106909392,2869569095,3038247973
+dimwishlist:item=2742838700&perks=1482024992,106909392,2869569095,3038247973
+dimwishlist:item=2742838700&perks=1392496348,3230963543,2869569095,3038247973
+dimwishlist:item=2742838700&perks=1482024992,3230963543,2869569095,3038247973
+dimwishlist:item=2742838700&perks=1392496348,106909392,3643424744,3038247973
+dimwishlist:item=2742838700&perks=1482024992,106909392,3643424744,3038247973
+dimwishlist:item=2742838700&perks=1392496348,3230963543,3643424744,3038247973
+dimwishlist:item=2742838700&perks=1482024992,3230963543,3643424744,3038247973
+dimwishlist:item=2742838700&perks=1392496348,106909392,2869569095,1954620775
+dimwishlist:item=2742838700&perks=1482024992,106909392,2869569095,1954620775
+dimwishlist:item=2742838700&perks=1392496348,3230963543,2869569095,1954620775
+dimwishlist:item=2742838700&perks=1482024992,3230963543,2869569095,1954620775
+dimwishlist:item=2742838700&perks=1392496348,106909392,3643424744,1954620775
+dimwishlist:item=2742838700&perks=1482024992,106909392,3643424744,1954620775
+dimwishlist:item=2742838700&perks=1392496348,3230963543,3643424744,1954620775
+dimwishlist:item=2742838700&perks=1482024992,3230963543,3643424744,1954620775
+
+// Vulpecula (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Ensemble, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1622998472&perks=1392496348,106909392,2621346526,3038247973
+dimwishlist:item=1622998472&perks=1482024992,106909392,2621346526,3038247973
+dimwishlist:item=1622998472&perks=1840239774,106909392,2621346526,3038247973
+dimwishlist:item=1622998472&perks=4090651448,106909392,2621346526,3038247973
+dimwishlist:item=1622998472&perks=1392496348,3230963543,2621346526,3038247973
+dimwishlist:item=1622998472&perks=1482024992,3230963543,2621346526,3038247973
+dimwishlist:item=1622998472&perks=1840239774,3230963543,2621346526,3038247973
+dimwishlist:item=1622998472&perks=4090651448,3230963543,2621346526,3038247973
+
+@title:Scout Rifles for overload mods
+
+// Hung Jury SR4 (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Rapid Hit, Surplus, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=4281371574&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=4281371574&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=4281371574&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=4281371574&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=4281371574&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=4281371574&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=4281371574&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=4281371574&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=4281371574&perks=1392496348,106909392,3436462433,3038247973
+dimwishlist:item=4281371574&perks=1482024992,106909392,3436462433,3038247973
+dimwishlist:item=4281371574&perks=1840239774,106909392,3436462433,3038247973
+dimwishlist:item=4281371574&perks=4090651448,106909392,3436462433,3038247973
+dimwishlist:item=4281371574&perks=1392496348,3230963543,3436462433,3038247973
+dimwishlist:item=4281371574&perks=1482024992,3230963543,3436462433,3038247973
+dimwishlist:item=4281371574&perks=1840239774,3230963543,3436462433,3038247973
+dimwishlist:item=4281371574&perks=4090651448,3230963543,3436462433,3038247973
+
+// Hung Jury SR4 (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Rapid Hit, Surplus), Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Adept Big Ones Spec mod.
+dimwishlist:item=681067419&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=1392496348,106909392,3436462433,3038247973
+dimwishlist:item=681067419&perks=1482024992,106909392,3436462433,3038247973
+dimwishlist:item=681067419&perks=1840239774,106909392,3436462433,3038247973
+dimwishlist:item=681067419&perks=4090651448,106909392,3436462433,3038247973
+dimwishlist:item=681067419&perks=1392496348,3230963543,3436462433,3038247973
+dimwishlist:item=681067419&perks=1482024992,3230963543,3436462433,3038247973
+dimwishlist:item=681067419&perks=1840239774,3230963543,3436462433,3038247973
+dimwishlist:item=681067419&perks=4090651448,3230963543,3436462433,3038247973
+
+// Night Watch (PvE first choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), Rapid Hit, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3504336176&perks=839105230,3177308360,247725512,3038247973
+dimwishlist:item=3504336176&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=3504336176&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973
+dimwishlist:item=3504336176&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=3504336176&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973
+dimwishlist:item=3504336176&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=3504336176&perks=1392496348,3230963543,247725512,3038247973
+
+// Talons of the Eagle (PvE first choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), Threat Detector, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=1982711279&perks=839105230,3177308360,4071163871,3038247973
+dimwishlist:item=1982711279&perks=3661387068,3177308360,4071163871,3038247973
+dimwishlist:item=1982711279&perks=1392496348,3177308360,4071163871,3038247973
+dimwishlist:item=1982711279&perks=839105230,106909392,4071163871,3038247973
+dimwishlist:item=1982711279&perks=3661387068,106909392,4071163871,3038247973
+dimwishlist:item=1982711279&perks=1392496348,106909392,4071163871,3038247973
+dimwishlist:item=1982711279&perks=839105230,3230963543,4071163871,3038247973
+dimwishlist:item=1982711279&perks=3661387068,3230963543,4071163871,3038247973
+dimwishlist:item=1982711279&perks=1392496348,3230963543,4071163871,3038247973
+
+// Transfiguration (PvE first choice roll)
+// Curated roll - Fluted Barrel, Light Mag, Outlaw, Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973
+
+// Vouchsafe (PvE first choice roll)
+// Arrowhead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), (Rapid Hit, Fourt hTime's The Charm, Surplus), Explosive Payload
+//notes:Adamsdown_Boy PvE first choice roll for anti-overload Champions mods. Recommended MW: Stability, Handling or Reload Speed with Major Spec mod.
+dimwishlist:item=3242168339&perks=839105230,3177308360,247725512,3038247973
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=839105230,3230963543,247725512,3038247973
+dimwishlist:item=3242168339&perks=839105230,3177308360,1354429876,3038247973
+dimwishlist:item=3242168339&perks=839105230,106909392,1354429876,3038247973
+dimwishlist:item=3242168339&perks=839105230,3230963543,1354429876,3038247973
+dimwishlist:item=3242168339&perks=839105230,3177308360,3436462433,3038247973
+dimwishlist:item=3242168339&perks=839105230,106909392,3436462433,3038247973
+dimwishlist:item=3242168339&perks=839105230,3230963543,3436462433,3038247973
 
 @title:Section for additional personal PvE rolls on weapons reviewed on DMB
 
-@title:Season 15 Season 15 Reissued Trials of the Nine weapons from Podcast 233
+@title:Season 15 Reissued Trials of the Nine weapons from Podcast 233
 @notes:Weapons roundup as at S15 Festival of the Lost - additional personal rolls
 
 // Judgment (PvE first choice roll)
@@ -1005,7 +1586,7 @@ dimwishlist:item=1621558458&perks=4090651448,1087426260,1570042021,11612903
 
 // The Time-Worn Spire (PvE first choice roll)
 // Handling scopes (Rifle Scope ST, Rifle Scope SSF), Armor-Piercing Rounds, (Quickdraw, Feeding Frenzy, Subsistence), Vorpal Weapon 
-//notes:Adamsodwn_Boy PvE first choice roll for anti-barrier mod, but tough to farm. Recommended MW: Stability with Major Spec mod.
+//notes:Adamsdown_Boy PvE first choice roll for anti-barrier mod, but tough to farm. Recommended MW: Stability with Major Spec mod.
 dimwishlist:item=3593598010&perks=679077872,1968497646,1820235745,1546637391
 dimwishlist:item=3593598010&perks=679077873,1968497646,1820235745,1546637391
 dimwishlist:item=3593598010&perks=679077872,1968497646,706527188,1546637391
@@ -1048,3 +1629,52 @@ dimwishlist:item=3593598010&perks=679077872,3230963543,2779035018,3425386926
 dimwishlist:item=3593598010&perks=679077873,3230963543,2779035018,3425386926
 dimwishlist:item=3593598010&perks=679077872,1087426260,2779035018,3425386926
 dimwishlist:item=3593598010&perks=679077873,1087426260,2779035018,3425386926
+
+@title:Season 14 Vault of Glass weapons from Podcast 234
+@notes:Weapons as at S15 Festival of the Lost - additional personal rolls
+
+// Fatebringer (PvE first choice roll)
+// Fluted Barrel, Appended Mag, Explosive Payload, Firefly
+//notes:Adamsdown_Boy PvE first choice roll. Closest to D1 roll. Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=2171478765&perks=1840239774,1087426260,3038247973,3824105627
+
+// Fatebringer (PvE interesting roll)
+// (Fluted Barrel or Polygonal Rifling), (Flared Magwell, Tactical Mag), Thresh, Frenzy
+//notes:Adamsdown_Boy PvE interesting roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=2171478765&perks=1840239774,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1392496348,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1840239774,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1392496348,106909392,2726471870,4104185692
+
+// Fatebringer (PvE interesting roll)
+// (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag, Steady Rounds), Thresh, Frenzy
+//notes:Adamsdown_Boy PvE interesting roll for general add clear - Thresh AND Frenzy? Who would say no to more super and more damage? Recommended MW: Stability or Reload Speed on personal choice.
+dimwishlist:item=2171478765&perks=4090651448,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3230963543,2726471870,4104185692
+dimwishlist:item=2171478765&perks=4090651448,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1482024992,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=3250034553,106909392,2726471870,4104185692
+dimwishlist:item=2171478765&perks=4090651448,3177308360,2726471870,4104185692
+dimwishlist:item=2171478765&perks=1482024992,3177308360,2726471870,4104185692
+dimwishlist:item=2171478765&perks=3250034553,3177308360,2726471870,4104185692
+
+// Found Verdict (PvE backup roll)
+// (Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Surplus, (Demolitionist, Frenzy, One-Two Punch, Vorpal Weapon)
+//notes:Adamsdown_Boy PvE backup roll. Recommended MW: Stability or Reload Speed on personal choice with Backup Mag mod.
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,3523296417
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,3523296417
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,3523296417
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,3523296417
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,4104185692
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,4104185692
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,4104185692
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,4104185692
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,2679249093
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,2679249093
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,2679249093
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,2679249093
+dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,1546637391
+dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,1546637391
+dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,1546637391
+dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,1546637391
