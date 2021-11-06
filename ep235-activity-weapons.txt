@@ -36,35 +36,35 @@ dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,438098033
 //notes:7 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability with Rampage Spec mod.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1570042021,3425386926
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,3425386926
-dimwishlist:item=2496875173&perks=839105230,3142289711,1613006503,3425386926
+dimwishlist:item=2496875173&perks=839105230,3142289711,1359896290,3425386926
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Harmony
 //notes:8 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1570042021,438098033
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,438098033
-dimwishlist:item=2496875173&perks=839105230,3142289711,1613006503,438098033
+dimwishlist:item=2496875173&perks=839105230,3142289711,1359896290,438098033
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Rampage
 //notes:9 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Rampage Spec mod.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,3425386926
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,3425386926
-dimwishlist:item=2496875173&perks=839105230,3177308360,1613006503,3425386926
+dimwishlist:item=2496875173&perks=839105230,3177308360,1359896290,3425386926
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Harmony
 //notes:10 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,438098033
-dimwishlist:item=2496875173&perks=839105230,3177308360,1613006503,438098033
+dimwishlist:item=2496875173&perks=839105230,3177308360,1359896290,438098033
 
 // Sorrow's Verse (PvP first choice roll)
 // Hammer-Forged Rifling, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
 //notes:11 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range or Stability with Void subclass, Stability with Stasis subclass.
 dimwishlist:item=2496875173&perks=3250034553,3142289711,1570042021,3511092054
 dimwishlist:item=2496875173&perks=3250034553,3142289711,1890422124,3511092054
-dimwishlist:item=2496875173&perks=3250034553,3142289711,1613006503,3511092054
+dimwishlist:item=2496875173&perks=3250034553,3142289711,1359896290,3511092054
 
 // Sorrow's Verse (PvP first choice roll)
 // (Hammer-Forged Rifling, Smallbore), (Accurized Rounds, Steady Rounds), (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
@@ -75,23 +75,23 @@ dimwishlist:item=2496875173&perks=3250034553,3177308360,1570042021,3511092054
 dimwishlist:item=2496875173&perks=1482024992,3142289711,1890422124,3511092054
 dimwishlist:item=2496875173&perks=1482024992,3177308360,1890422124,3511092054
 dimwishlist:item=2496875173&perks=3250034553,3177308360,1890422124,3511092054
-dimwishlist:item=2496875173&perks=1482024992,3142289711,1613006503,3511092054
-dimwishlist:item=2496875173&perks=1482024992,3177308360,1613006503,3511092054
-dimwishlist:item=2496875173&perks=3250034553,3177308360,1613006503,3511092054
+dimwishlist:item=2496875173&perks=1482024992,3142289711,1359896290,3511092054
+dimwishlist:item=2496875173&perks=1482024992,3177308360,1359896290,3511092054
+dimwishlist:item=2496875173&perks=3250034553,3177308360,1359896290,3511092054
 
 // Sorrow's Verse (PvP first choice roll)
 // Polygonal Rifling, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
 //notes:13 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Void subclass or Stability with Stasis Subclass.
 dimwishlist:item=2496875173&perks=1392496348,3142289711,1570042021,3511092054
 dimwishlist:item=2496875173&perks=1392496348,3142289711,1890422124,3511092054
-dimwishlist:item=2496875173&perks=1392496348,3142289711,1613006503,3511092054
+dimwishlist:item=2496875173&perks=1392496348,3142289711,1359896290,3511092054
 
 // Sorrow's Verse (PvP first choice roll)
 // Polygonal Rifling, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
 //notes:14 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=1392496348,3177308360,1570042021,3511092054
 dimwishlist:item=2496875173&perks=1392496348,3177308360,1890422124,3511092054
-dimwishlist:item=2496875173&perks=1392496348,3177308360,1613006503,3511092054
+dimwishlist:item=2496875173&perks=1392496348,3177308360,1359896290,3511092054
 
 // Servant Leader (PvP/PvE first choice roll)
 // Polygonal Rifling, Steady Rounds, Rapid Hit, Kill Clip
