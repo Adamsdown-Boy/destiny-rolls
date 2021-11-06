@@ -3,72 +3,72 @@ description:Weapons dropping at the end of Crucible, Gambit and Vanguard activit
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Accurized Rounds, Tunnel Vision, Multikill Clip
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
+//notes:1 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
 dimwishlist:item=2496875173&perks=839105230,3142289711,2946784966,2458213969
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Steady Rounds, Tunnel Vision, Multikill Clip
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
+//notes:2 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=839105230,3177308360,2946784966,2458213969
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Accurized Rounds, Heating Up, Rampage
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability with Rampage Spec mod.
+//notes:3 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability with Rampage Spec mod.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1570042021,3425386926
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Steady Rounds, Heating Up, Rampage
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Rampage Spec mod.
+//notes:4 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Rampage Spec mod.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,3425386926
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Accurized Rounds, Tap The Trigger, Harmony
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
+//notes:5 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,438098033
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Steady Rounds, Tap The Trigger, Harmony
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
+//notes:6 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,438098033
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Rampage
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability with Rampage Spec mod.
+//notes:7 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability with Rampage Spec mod.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1570042021,3425386926
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,3425386926
 dimwishlist:item=2496875173&perks=839105230,3142289711,1613006503,3425386926
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Harmony
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
+//notes:8 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Stability.
 dimwishlist:item=2496875173&perks=839105230,3142289711,1570042021,438098033
 dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,438098033
 dimwishlist:item=2496875173&perks=839105230,3142289711,1613006503,438098033
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Rampage
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Rampage Spec mod.
+//notes:9 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Rampage Spec mod.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,3425386926
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,3425386926
 dimwishlist:item=2496875173&perks=839105230,3177308360,1613006503,3425386926
 
 // Sorrow's Verse (PvP backup roll)
 // Arrowhead Brake, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Harmony
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
+//notes:10 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=839105230,3177308360,1570042021,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1890422124,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1613006503,438098033
 
 // Sorrow's Verse (PvP first choice roll)
 // Hammer-Forged Rifling, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range or Stability with Void subclass, Stability with Stasis subclass.
+//notes:11 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range or Stability with Void subclass, Stability with Stasis subclass.
 dimwishlist:item=2496875173&perks=3250034553,3142289711,1570042021,3511092054
 dimwishlist:item=2496875173&perks=3250034553,3142289711,1890422124,3511092054
 dimwishlist:item=2496875173&perks=3250034553,3142289711,1613006503,3511092054
 
 // Sorrow's Verse (PvP first choice roll)
 // (Hammer-Forged Rifling, Smallbore), (Accurized Rounds, Steady Rounds), (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range or Stability.
+//notes:12 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range or Stability.
 dimwishlist:item=2496875173&perks=1482024992,3142289711,1570042021,3511092054
 dimwishlist:item=2496875173&perks=1482024992,3177308360,1570042021,3511092054
 dimwishlist:item=2496875173&perks=3250034553,3177308360,1570042021,3511092054
@@ -81,14 +81,14 @@ dimwishlist:item=2496875173&perks=3250034553,3177308360,1613006503,3511092054
 
 // Sorrow's Verse (PvP first choice roll)
 // Polygonal Rifling, Accurized Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Void subclass or Stability with Stasis Subclass.
+//notes:13 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range with Void subclass or Stability with Stasis Subclass.
 dimwishlist:item=2496875173&perks=1392496348,3142289711,1570042021,3511092054
 dimwishlist:item=2496875173&perks=1392496348,3142289711,1890422124,3511092054
 dimwishlist:item=2496875173&perks=1392496348,3142289711,1613006503,3511092054
 
 // Sorrow's Verse (PvP first choice roll)
 // Polygonal Rifling, Steady Rounds, (Heating Up, Tap The Trigger, Dynamic Sway Reduction), Elemental Capacitor
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
+//notes:14 Inspired by Destiny Massive Breakdowns from Podcast 235. PvP first choice roll with Void or Stasis subclasses. Good accuracy adjusted time-time-kill as of the Season 15 sandbox, but not as super-strong as they once were. Spec for range once you're comfortable with the stability. Recommended MW: Range.
 dimwishlist:item=2496875173&perks=1392496348,3177308360,1570042021,3511092054
 dimwishlist:item=2496875173&perks=1392496348,3177308360,1890422124,3511092054
 dimwishlist:item=2496875173&perks=1392496348,3177308360,1613006503,3511092054
