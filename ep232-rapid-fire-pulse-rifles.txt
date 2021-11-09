@@ -279,7 +279,6 @@ dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321
 
 // The Time-Worn Spire (PvP backup roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP backup roll, but tough to farm. Recommended MW: Stability with Counterbalance mod.
-dimwishlist:item=3593598010&perks=679077872,1885400500,588594999,11551321
 dimwishlist:item=3593598010&perks=679077873,3230963543,588594999,11551321
 dimwishlist:item=3593598010&perks=679077872,3230963543,588594999,11551321
 dimwishlist:item=3593598010&perks=679077873,1885400500,2039302152,11551321
