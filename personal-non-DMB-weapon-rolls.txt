@@ -1141,7 +1141,7 @@ dimwishlist:item=852551895&perks=4090651448,1561002382,3436462433,1546637391
 @@title:Anti-Unstoppable champion weapons
 @notes:Weapons that have an explosive projectile to quickly disrupt Overload chsmpions, to keep for when they're in a seasonal rotation
 
-@title:Combat Boes for overload mods
+@title:Combat Bows for overload mods
 
 // Accrued Redemption (PvE first choice roll)
 // Elastic String, (Straight Fletching, Compact Arrow Shaft), (Archer's Tempo, Quickdraw), Explosive Head
