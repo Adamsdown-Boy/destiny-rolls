@@ -661,7 +661,7 @@ dimwishlist:item=1987769101&perks=1840239774,106909392,3418782618,4104185692
 dimwishlist:item=4050645223&perks=3525010810,3796465595,951095735,3927722942
 
 // Hezen Vengeance (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - get a kill, reload to get two in the tubes and throw a grenade for a quick third. Recommended MW: Reload with Boss Spec mod.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - pick up special or heavy ammo to get two in the tube (somehow) and throw a grenade for a quick third. Recommended MW: Reload with Boss Spec mod.
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3523296417
 
 // Hezen Vengeance (PvE backup roll)
@@ -678,7 +678,7 @@ dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3523296417
 dimwishlist:item=1921159786&perks=3525010810,3796465595,951095735,3927722942
 
 // Hezen Vengeance (Timelost) (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - get a kill, reload to get two in the tubes and throw a grenade for a quick third. Recommended MW: Reload with Boss Spec mod.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvE first choice roll for boss DPS - pick up special or heavy ammo to get two in the tube (somehow) and throw a grenade for a quick third. Recommended MW: Reload with Boss Spec mod.
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3523296417
 
 // Hezen Vengeance (Timelost) (PvE backup roll)
