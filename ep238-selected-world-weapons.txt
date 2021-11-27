@@ -391,6 +391,9 @@ dimwishlist:item=3743729616&perks=839105230,1087426260,1556840489,3523296417
 dimwishlist:item=3743729616&perks=1840239774,3230963543,1556840489,3523296417
 dimwishlist:item=3743729616&perks=839105230,3230963543,1556840489,3523296417
 
+title:Season 13 (Season of the Chosen) World drop weapon rolls
+description:World pool legendary weapon rolls
+
 // Cartesian Coordinate (PvP first choice roll)
 // (Red Dot Micro, Red Dot 2 MOA), (Accelerated Coils, Particle Repeater), Under Pressure, High-Impact Reserves
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 238. PvP first choice roll. Very good option in the right hands. Recommended MW: Charge Rate or Stability with Targeting Adjuster or Icarus Grip mod, or Counterbalance Stock mod if you need it to help control recoil.
