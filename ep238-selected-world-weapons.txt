@@ -403,7 +403,7 @@ dimwishlist:item=2481881293&perks=2405638014,3868766766,1645158859,2213355989
 dimwishlist:item=2481881293&perks=2405638015,3868766766,1645158859,2213355989
 
 // Cartesian Coordinate (PvP backup roll)
-// (Red Dot Micro, Red Dot 2 MOA), (Accelerated Coils, Particle Repeater), (Under Pressure Slideways), (High-Impact Reserves, Snapshot Sights)
+// (Red Dot Micro, Red Dot 2 MOA), (Accelerated Coils, Particle Repeater), (Under Pressure Slideways), (High-Impact Reserves, Snapshot Sights, Vorpal Weapon)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 238. PvP backup roll. Very good option in the right hands. Recommended MW: Charge Rate or Stability with Targeting Adjuster or Icarus Grip mod, or Counterbalance Stock mod if you need it to help control recoil.
 dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,2213355989
 dimwishlist:item=2481881293&perks=2405638015,689005463,2039302152,2213355989
@@ -417,6 +417,14 @@ dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,957782887
 dimwishlist:item=2481881293&perks=2405638015,689005463,2039302152,957782887
 dimwishlist:item=2481881293&perks=2405638014,3868766766,2039302152,957782887
 dimwishlist:item=2481881293&perks=2405638015,3868766766,2039302152,957782887
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638015,689005463,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638014,3868766766,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638015,3868766766,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,1546637391
+dimwishlist:item=2481881293&perks=2405638015,689005463,2039302152,1546637391
+dimwishlist:item=2481881293&perks=2405638014,3868766766,2039302152,1546637391
+dimwishlist:item=2481881293&perks=2405638015,3868766766,2039302152,1546637391
 
 // Cartesian Coordinate (PvE first choice roll)
 // (Red Dot Micro, Red Dot 2 MOA), (Accelerated Coils, Particle Repeater), (Grave Robber, Feeding Frenzy), (Swashbuckler, Thresh, Vorpal Weapon)
