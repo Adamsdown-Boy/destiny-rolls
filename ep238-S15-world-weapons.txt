@@ -13,29 +13,29 @@ dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,47981717
 dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,3592538738
 
 // Annual Skate (PvP backup roll)
-// (SteadyHand HCS, FastDraw HCS, TrueSight HCS), Accurized Rounds, (Tunnel Vision, Snapshot Sights), Multikill Clip
+// (SteadyHand HCS, FastDraw HCS, TrueSight HCS), Accurized Rounds, (Tunnel Vision, Slideshot), Multikill Clip
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 238. PvP backup roll for damage-chaining (6s). Decent base stats, but not quite as good as Palindrome. Recommended MW: Stability, or Handling for blinting, with Targeting Adjuster or Icarus Grip mod depending on play style.
 dimwishlist:item=6857689&perks=1926090095,3142289711,2946784966,2458213969
 dimwishlist:item=6857689&perks=1926090094,3142289711,2946784966,2458213969
 dimwishlist:item=6857689&perks=1926090092,3142289711,2946784966,2458213969
-dimwishlist:item=6857689&perks=1926090095,3142289711,957782887,2458213969
-dimwishlist:item=6857689&perks=1926090094,3142289711,957782887,2458213969
-dimwishlist:item=6857689&perks=1926090092,3142289711,957782887,2458213969
+dimwishlist:item=6857689&perks=1926090095,3142289711,3161816588,2458213969
+dimwishlist:item=6857689&perks=1926090094,3142289711,3161816588,2458213969
+dimwishlist:item=6857689&perks=1926090092,3142289711,3161816588,2458213969
 
 // Annual Skate (PvP backup roll)
-// (SteadyHand HCS, FastDraw HCS, TrueSight HCS), Accurized Rounds, (Surplus, Snapshot Sights), (Opening Shot, Wellspring)
+// (SteadyHand HCS, FastDraw HCS, TrueSight HCS), Accurized Rounds, (Surplus, Slideshot), (Opening Shot, Wellspring)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 238. PvP backup roll for duelling (3s). Decent base stats, but not quite as good as Palindrome. Recommended MW: Stability, or Handling for blinting, with Targeting Adjuster or Icarus Grip mod depending on play style.
 dimwishlist:item=6857689&perks=1926090094,3142289711,3436462433,47981717
 dimwishlist:item=6857689&perks=1926090092,3142289711,3436462433,47981717
-dimwishlist:item=6857689&perks=1926090095,3142289711,957782887,47981717
-dimwishlist:item=6857689&perks=1926090094,3142289711,957782887,47981717
-dimwishlist:item=6857689&perks=1926090092,3142289711,957782887,47981717
+dimwishlist:item=6857689&perks=1926090095,3142289711,3161816588,47981717
+dimwishlist:item=6857689&perks=1926090094,3142289711,3161816588,47981717
+dimwishlist:item=6857689&perks=1926090092,3142289711,3161816588,47981717
 dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,3592538738
 dimwishlist:item=6857689&perks=1926090094,3142289711,3436462433,3592538738
 dimwishlist:item=6857689&perks=1926090092,3142289711,3436462433,3592538738
-dimwishlist:item=6857689&perks=1926090095,3142289711,957782887,3592538738
-dimwishlist:item=6857689&perks=1926090094,3142289711,957782887,3592538738
-dimwishlist:item=6857689&perks=1926090092,3142289711,957782887,3592538738
+dimwishlist:item=6857689&perks=1926090095,3142289711,3161816588,3592538738
+dimwishlist:item=6857689&perks=1926090094,3142289711,3161816588,3592538738
+dimwishlist:item=6857689&perks=1926090092,3142289711,3161816588,3592538738
 
 // Annual Skate (PvE first choice roll)
 // (SteadyHand HCS, FastDraw HCS, TrueSight HCS), (Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell), (Surplus, Outlaw), (Wellspring, Dragonfly)
