@@ -159,7 +159,7 @@ Accuracy Arrows (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching)
 Accuracy Arrows without downsides (Straight Fletching, Helical Fletching)
 3827198035 3311977193
 
-Stability (stabilty = draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
+Stability (draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
 1500996326 2154191829 3311977193
 
 Stability (draw hold time) without downsides Arrows (Carbon Arrow Shaft, Helical Fletching)
