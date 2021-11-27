@@ -1,0 +1,196 @@
+// Barrel groupings:
+
+Range Barrels (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling)
+202670084 1467527085 3250034553 1482024992 4090651448
+
+Range Barrels without downsides (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling)
+3250034553 1482024992 4090651448
+
+Stability Barrels (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling)
+1392496348 3661387068 1482024992 1840239774 4090651448
+
+Stability Barrels without downsides (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling)
+1392496348 1482024992 1840239774 4090651448
+
+Handling Barrels (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling)
+1840239774 839105230 4090651448
+
+Recoil Direction Barrels (Arrowhead Brake, Chambered Compensator, Extended Barrel)
+839105230 3661387068 1467527085
+
+
+// Additional Shotgun Barrels groupings:
+
+Shotgun Range Barrels (Full Choke, Rifled Barrel)
+1047830412 1332244541
+
+Shotgun Range Barrels without downsides (Full Choke)
+1047830412
+
+Shotgun Stability Barrels (Barrel Shround)
+1300023272
+
+Shotgun Handling Barrels (Barrel Shround)
+1300023272
+
+
+// Hand Cannon Sights groupings:
+
+Range Sights (SureShot HCS, CrossFire HCS, Hitmark HCS, TrueSight HCS)
+1926090091 1926090090 1926090093 1926090092
+
+Range Sights without downsides (Hitmark HCS, TrueSight HCS)
+1926090093 1926090092
+
+Stability Sights (SteadyHand HCS, FastDraw HCS, TrueSight HCS)
+1926090095 1926090094 1926090092
+
+Handling Sights (FastDraw HCS, SteadyHand HCS, TrueSight HCS)
+1926090094 1926090095 1926090092
+
+
+// Sidearm Sights groupings:
+
+Range Sights (FarPoint SAS, Target SAS, Tactic SAS, Shortspec SAS)
+445755710 445755711 445755704 445755705
+
+Range Sights without downsides (Tactic SAS, Shortspec SAS)
+445755704 445755705
+
+Stability Sights (Control SAS, QuickDot SAS, Shortspec SAS)
+445755706 445755707 445755705
+
+Handling Sights (QuickDot SAS, Control SAS, Shortspec SAS)
+445755707 445755706 445755705
+
+
+// Rifle Scopes/Sights groupings:
+
+Range Scopes/Sights (Rifle Scope ST, Rifle Scope SST, Red Dot Micro, Red Dot 2 MOA, Cleanshot IS, Hitmark IS)
+679077873 679077872 2405638014 2405638015 13792279 13792278
+
+Range Scopes/Sights without downsides (Red Dot Micro, Red Dot 2 MOA, Cleanshot IS, Hitmark IS)
+2405638014 2405638015 13792279 13792278
+
+Handling Scopes/Sights (Hitmark IS, Cleanshot IS, Red Dot 2 MOA, Red Dot Micro) 
+13792278 13792279 13792279 13792278
+
+Zoom Scopes/Sights (Rifle Scope ST, Rifle Scope SST, Red Dot Micro, Red Dot 2 MOA, Cleanshot IS) 
+679077873 679077872 2405638014 2405638015 13792279
+
+Zoom Scopes/Sights without downsides (Red Dot Micro, Red Dot 2 MOA, Cleanshot IS)
+2405638014 2405638015 13792279
+
+
+// SMG Scopes/Sights groupings:
+
+Range Scopes/Sights (Model 8 Red, Model 6 Loop, IS 2 Classic)
+663495154 663495155 2209280307
+
+Handling Scopes/Sights (IS 5 Circle, IS 2 Classic, Model 6 Loop)
+2209280306 2209280307 663495155
+
+Zoom Scopes/Sights (Model 8 Red, Model 6 Loop)
+663495154 663495155
+
+
+// Suros Scopes/Sights groupings:
+
+Range Scopes/Sights (SPO-57 Front, SRO-52 Ocular, SPO-28 Front, SRO-37 Ocular, SRO-41 Ocular, SPO-26 Front, SLO-10 Post, SLO-21 Post)
+3151536501 360593481 3151536500 360593483 360593482 3151536503 965619223 965619220
+
+Range Scopes/Sights without downsides (SPO-28 Front, SRO-41 Ocular, SPO-26 Front, SLO-10 Post, SLO-21 Post)
+3151536500 360593482 3151536503 965619223 965619220
+
+Handling Scopes/Sights (SLO-12 Post, SLO-21 Post, SLO-10 Post, SPO-26 Front, SPO-28 Front)
+965619221 965619220 965619223 3151536503 3151536500
+
+Zoom Scopes/Sights (SRO-52 Ocular, SRO-41 Ocular, SRO-37 Ocular, SPO-57 Front, SPO-28 Front, SPO-26 Front)
+360593481 360593482 3151536501 3151536500 3151536503
+
+Highlighting Scopes/Sights (SPO-57 Front, SRO-41 Ocular)
+3151536501 360593482
+
+
+// Omolon Scopes/Sights groupings:
+
+Range Scopes/Sights (Torch HS3, Impulse MS3, Signal MS5, Transmission MS7, Flash HS5, Jolt PS, Spark PS)
+1628165636 194952922 194952923 194952921 1628165637 1409978311 1409978308
+
+Range Scopes/Sights without downsides (Flash HS5, Jolt PS, Spark PS)
+1628165637 1409978311 1409978308
+
+Handling Scopes/Sights (Candle PS, Spark PS, Jolt PS, Flash HS5)
+1409978309 1409978308 1409978311 1628165637
+
+Zoom Scopes/Sights (Impulse MS3, Signal MS5, Transmission MS7, Flash HS5, Torch HS3)
+194952922 194952921 1628165637 1409978311 1628165636
+
+Zoom Scopes/Sights without downsides (Flash HS3)
+1409978311
+
+Highlighting Scopes/Sights (Signal MS5, Flash HS3)
+194952921 1409978311
+
+
+// Combat Bow Bowstrings groupings:
+
+Accuracy Strings (High Tension String, Tactile String, Natural String, Polymer String)
+3371775011 1196733167 1784898267 852209214
+
+Accuracy Strings without downsides (Tactile String, Natural String, Polymer String)
+3371775011 1196733167 1784898267 852209214
+
+Stability (draw hold time) Strings (Tactile String, Natural String, Agile Bowstring)
+1196733167 1784898267 3768438372
+
+Handling Strings (Agile Bowstring, Flexible String, Elastic String, Natural String)
+3768438372 4067834857 2801223209 1784898267
+
+Draw Time/ Charge (charged shots = optimum accuracy/damage) Strings (Elastic String, Flexible String, Polymer String)
+2801223209 4067834857 852209214
+
+
+// Combat Bow Arrows groupings:
+
+Accuracy Arrows (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching)
+3429800428 3827198035 3311977193
+
+Accuracy Arrows without downsides (Straight Fletching, Helical Fletching)
+3827198035 3311977193
+
+Stability (stabilty = draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
+1500996326 2154191829 3311977193
+
+Stability (draw hold time) without downsides Arrows (Carbon Arrow Shaft, Helical Fletching)
+2154191829 3311977193
+
+Handling Arrows (Compact Arrow Shaft)
+16392701
+
+Reload Speed Arrows (Compact Arrow Shaft)
+16392701
+
+
+// Magazine groupings:
+
+Range Magazines (Accurized Rounds, Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Light Mag)
+3142289711 1885400500 1968497646 1561002382 679225683
+
+Stability Magazines (Steady Rounds, Ricochet Rounds, Tactical Mag, Flared Magwell)
+3177308360 1885400500 106909392 3230963543
+
+Stability Magazines without downsides (Ricochet Rounds, Tactical Mag, Flared Magwell)
+1885400500 106909392 3230963543
+
+Reload Magazines (Flared Magwell, Tactical Mag, Light Mag, Alloy Magazine)
+3230963543 106909392 679225683 1431678320
+
+Mag Size Magazines (Extended Mag, Appended Mag, Tactical Mag)
+2420895100 1087426260 106909392
+
+Mag Size Magazines without downsides (Appended Mag, Tactical Mag)
+1087426260 106909392
+
+Combat Effect Magazines (High-Calibre Rounds, Armor-Piercing Rounds, Ricochet Rounds)
+1968497646 1561002382 1885400500
