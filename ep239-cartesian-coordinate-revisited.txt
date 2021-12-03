@@ -4,7 +4,7 @@
 dimwishlist:item=2481881293&perks=2405638014,2680121939,2039302152,1546637391
 
 // Cartesian Coordinate (PvE backup roll)
-// (Red Dot Micro, Red Dot 2 MOA), (Enhanced Battery, Accelerated Coils), (Slideways, Grave Robber, Feeding Frenzy), Vorpal Weapon
+// (Red Dot Micro, Red Dot 2 MOA), (Enhanced Battery, Accelerated Coils), (Slideways, Grave Robber, Feeding Frenzy, Under Pressure), Vorpal Weapon
 //notes:Inspired by Destiny Massive Breakdowns from Podcasts 238 and 239. PvE backup roll for major/boss damage. Recommended MW: Charge Rate or Reload Speed with Backup Mag or damage-boosting mod.
 dimwishlist:item=2481881293&perks=2405638015,2680121939,2039302152,1546637391
 dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,1546637391
@@ -17,9 +17,13 @@ dimwishlist:item=2481881293&perks=2405638014,2680121939,2779035018,1546637391
 dimwishlist:item=2481881293&perks=2405638015,2680121939,2779035018,1546637391
 dimwishlist:item=2481881293&perks=2405638014,689005463,2779035018,1546637391
 dimwishlist:item=2481881293&perks=2405638015,689005463,2779035018,1546637391
+dimwishlist:item=2481881293&perks=2405638014,2680121939,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638015,2680121939,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,1546637391
+dimwishlist:item=2481881293&perks=2405638015,689005463,1645158859,1546637391
 
 // Cartesian Coordinate (PvE first choice roll)
-// (Red Dot Micro, Red Dot 2 MOA), (Enhanced Battery, Accelerated Coils), (Slideways, Grave Robber, Feeding Frenzy), (Swashbuckler, Thresh)
+// (Red Dot Micro, Red Dot 2 MOA), (Enhanced Battery, Accelerated Coils), (Slideways, Grave Robber, Feeding Frenzy, Under Pressure), (Swashbuckler, Thresh)
 //notes:Inspired by Destiny Massive Breakdowns from Podcasts 238 and 239. PvE first choice roll for orange bar and add clear. Recommended MW: Charge Rate or Reload Speed with Backup Mag or damage-boosting mod.
 dimwishlist:item=2481881293&perks=2405638014,2680121939,2039302152,4082225868
 dimwishlist:item=2481881293&perks=2405638015,2680121939,2039302152,4082225868
@@ -33,6 +37,10 @@ dimwishlist:item=2481881293&perks=2405638014,2680121939,2779035018,4082225868
 dimwishlist:item=2481881293&perks=2405638015,2680121939,2779035018,4082225868
 dimwishlist:item=2481881293&perks=2405638014,689005463,2779035018,4082225868
 dimwishlist:item=2481881293&perks=2405638015,689005463,2779035018,4082225868
+dimwishlist:item=2481881293&perks=2405638014,2680121939,1645158859,4082225868
+dimwishlist:item=2481881293&perks=2405638015,2680121939,1645158859,4082225868
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,4082225868
+dimwishlist:item=2481881293&perks=2405638015,689005463,1645158859,4082225868
 dimwishlist:item=2481881293&perks=2405638014,2680121939,2039302152,2726471870
 dimwishlist:item=2481881293&perks=2405638015,2680121939,2039302152,2726471870
 dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,2726471870
@@ -45,3 +53,7 @@ dimwishlist:item=2481881293&perks=2405638014,2680121939,2779035018,2726471870
 dimwishlist:item=2481881293&perks=2405638015,2680121939,2779035018,2726471870
 dimwishlist:item=2481881293&perks=2405638014,689005463,2779035018,2726471870
 dimwishlist:item=2481881293&perks=2405638015,689005463,2779035018,2726471870
+dimwishlist:item=2481881293&perks=2405638014,2680121939,1645158859,2726471870
+dimwishlist:item=2481881293&perks=2405638015,2680121939,1645158859,2726471870
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,2726471870
+dimwishlist:item=2481881293&perks=2405638015,689005463,1645158859,2726471870
