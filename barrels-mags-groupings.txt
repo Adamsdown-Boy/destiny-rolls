@@ -194,3 +194,28 @@ Mag Size Magazines without downsides (Appended Mag, Tactical Mag)
 
 Combat Effect Magazines (High-Calibre Rounds, Armor-Piercing Rounds, Ricochet Rounds)
 1968497646 1561002382 1885400500
+
+// Battery groupings:
+Range batteries (Projection Fuse, Tactical Battery)
+2969185026 732557052
+
+Stability Batteries (Particle Repeater, Tactical Battery)
+3868766766 732557052
+
+Handling Batteries (Light Battery)
+2749775325
+
+Reload Batteries (Tactical Battery, Light Battery)
+732557052 2749775325
+
+Battery Size Batteries (Ionised Battery, Enhanced Battery)
+1483536627 2680121939
+
+Mag Size Magazines without downsides (Enhanced Battery)
+2680121939
+
+Impact Batteries (Liquid Coils)
+1687452232
+
+Charge Time Batteries (Accelerated Coils)
+689005463
