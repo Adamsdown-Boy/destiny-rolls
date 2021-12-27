@@ -153,7 +153,7 @@ dimwishlist:item=1030895163&perks=1467527085,1687452232,1645158859,2213355989
 
 // Glacioclasm (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Barrel), Enhanced Battery, (Subsistence, Slideshot), Reservoir Burst
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvE first choice roll. Use Subsistence of Slideshot to keep the magazine filled, to continuously proc Reservoir Burst for a constant 25% damage boost and add detonation. Recommended MW: Handling with damage boosting mod.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvE first choice roll. Use Subsistence or Slideshot to keep the magazine filled, to continuously proc Reservoir Burst for a constant 25% damage boost and added detonation. Recommended MW: Handling with damage boosting mod.
 dimwishlist:item=1030895163&perks=1840239774,2680121939,1820235745,1427256713
 dimwishlist:item=1030895163&perks=839105230,2680121939,1820235745,1427256713
 dimwishlist:item=1030895163&perks=4090651448,2680121939,1820235745,1427256713
@@ -251,7 +251,7 @@ dimwishlist:item=3400256755&perks=2827049491,269888150,1749209109,3913600130
 dimwishlist:item=3400256755&perks=938542991,269888150,1749209109,3913600130
 
 // Zephyr (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvE first choice roll. Cold Steel charged attack useful for Overload champions. for Recommended MW: Impact with Backup Mag or damage boosting mod.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvE first choice roll. Cold Steel charged attack useful for Overload champions. Recommended MW: Impact with Backup Mag or damage boosting mod.
 dimwishlist:item=3400256755&perks=3666208348,269888150,3705817207,3650930298
 dimwishlist:item=3400256755&perks=2827049491,269888150,3705817207,3650930298
 dimwishlist:item=3400256755&perks=938542991,269888150,3705817207,3650930298
