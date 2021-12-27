@@ -72,7 +72,7 @@ dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679,3523296417
 
 
 @title:Osmosis perk (1774574192) weapon rolls
-@notes:Useful for endgame Match Game content
+@notes:Useful for endgame Match Game content (only need one of each weapon archetype)
 
 @title:Auto Rifles with Osmosis perk
 
@@ -835,7 +835,7 @@ dimwishlist:item=1786797708&perks=663495154,3230963543,1631667848,1774574192
 
 
 @title:Anti-Barrier champion weapons
-@notes:Weapons that combine Armor-Piercing Rounds and Disruption Break or Vorpal Weapon to keep for when they're in a seasonal rotation
+@notes:Weapons that combine Armor-Piercing Rounds and Disruption Break or Vorpal Weapon to keep for when they're in a seasonal rotation. Just keep one per weapon archetype of each shield type
 
 @title:Auto Rifles for anti-barrier mods
 
@@ -1139,8 +1139,7 @@ dimwishlist:item=852551895&perks=4090651448,1561002382,3436462433,1546637391
 
 
 @@title:Anti-Unstoppable champion weapons
-@notes:Weapons that have an explosive projectile to quickly disrupt Overload chsmpions, to keep for when they're in a seasonal rotation
-
+@notes:Weapons that have an explosive projectile to quickly disrupt Overload champions, to keep for when they're in a seasonal rotationa
 @title:Combat Bows for overload mods
 
 // Accrued Redemption (PvE first choice roll)
@@ -1454,7 +1453,7 @@ dimwishlist:item=3242168339&perks=839105230,3230963543,3436462433,3038247973
 @title:Section for additional personal PvE rolls on weapons reviewed on DMB
 
 @title:Season 15 Reissued Trials of the Nine weapons from Podcast 233
-@notes:Weapons roundup as at S15 Festival of the Lost - additional personal rolls
+@notes:Prophecy dungeon weapons roundup of as at S15 Festival of the Lost - additional personal rolls
 
 // Judgment (PvE first choice roll)
 // (Fastdraw HCS, SteadyHand HCS, TrueSight HCS, Hitmark HCS), (Tactical Mag, Flared Magwell, Appended Mag), Ensemble, (Timed Payload, MultiKill Clip)
@@ -1706,7 +1705,7 @@ dimwishlist:item=3593598010&perks=679077873,1087426260,2779035018,3425386926
 
 // Fatebringer (PvE first choice roll)
 // Fluted Barrel, Appended Mag, Explosive Payload, Firefly
-//notes:Adamsdown_Boy PvE first choice roll. Closest to D1 roll. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll. Closest to D1 roll, even if explosive payload might interfere with firefly proccing. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=2171478765&perks=1840239774,1087426260,3038247973,3824105627
 
 // Fatebringer (PvE interesting roll)
@@ -1749,6 +1748,9 @@ dimwishlist:item=3197270240&perks=1300023272,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,1546637391
 dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,1546637391
+
+@title:Reprised Moon weapons
+@notes:Weapons as at S15 Festival of the Lost - additional personal rolls
 
 // Sorrow's Verse (PvE first choice roll)
 // Arrowhead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), (Surplus, Fourth Time's The Charm, Feeding Frenzy, Subsistence), (Wellspring, Frenzy, One For All, Thresh, Adrenaline Junkie, Demolitionist, Harmony)
@@ -1837,6 +1839,9 @@ dimwishlist:item=2496875173&perks=839105230,3230963543,2779035018,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1820235745,438098033
 dimwishlist:item=2496875173&perks=839105230,106909392,1820235745,438098033
 dimwishlist:item=2496875173&perks=839105230,3230963543,1820235745,438098033
+
+@title:Gambit weapons
+@notes:Weapons as at S15 Festival of the Lost - additional personal rolls
 
 // Servant Leader (PvE backup roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), (Fourth Time's The Charm, Surplus, Subsistence, Rapid Hit), (Rampage, Thresh, Wellspring, Adrenaline Junkie, One For All, Frenzy)
