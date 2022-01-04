@@ -2278,3 +2278,17 @@ dimwishlist:item=1107446438&perks=1392496348,3230963543,247725512,4104185692
 dimwishlist:item=1107446438&perks=1482024992,3230963543,247725512,4104185692
 dimwishlist:item=1107446438&perks=1840239774,3230963543,247725512,4104185692
 dimwishlist:item=1107446438&perks=4090651448,3230963543,247725512,4104185692
+
+
+@title:Season 14 Dawning weapons from Podcast 241
+@notes:Weapons as at S15 30th Anniversary - additional personal rolls
+
+// Glacioclasm (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Chambered Compensator), Accelerated Coils, (Subsistence, Slideshot), Reservoir Burst
+//notes:Adamsdown_Boy first choice PvE roll - reduce the charge time thorough Accelerated Coils and a Charge Time masterwork (the reduction in damage makes little difference to killing adds to proc Reservoir Burst and Subsistence). Recommended MW: Charge Time with damage-boosting mod.
+dimwishlist:item=1030895163&perks=1840239774,689005463,1820235745,1427256713
+dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
+dimwishlist:item=1030895163&perks=3661387068,689005463,1820235745,1427256713
+dimwishlist:item=1030895163&perks=1840239774,689005463,3161816588,1427256713
+dimwishlist:item=1030895163&perks=839105230,689005463,3161816588,1427256713
+dimwishlist:item=1030895163&perks=3661387068,689005463,3161816588,1427256713
