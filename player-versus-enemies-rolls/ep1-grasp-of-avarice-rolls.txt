@@ -376,7 +376,7 @@ dimwishlist:item=4164201232&perks=3661387068,1087426260,3400784728,3523296417
 
 // 1000 Yard Stare (PvE backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Triple Tap, Firmly Planted, No Distractions), Golden Tricorn
-//notes: (???  ???): Inspired by DMB Player Versus Enemies Podcast 1. PvE backup roll for major/champions damage.  Used with an Void subclass, Golden Tricorn can buff damage by 50% for 10 secs on a melee or grenade kill, after a kill. Recommended MW: Reload or Stability, with Major/Taken Spec mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 1. PvE backup roll for major/champions damage.  Used with an Void subclass, Golden Tricorn can buff damage by 50% for 10 secs on a melee or grenade kill, after a kill. Recommended MW: Reload or Stability, with Major/Taken Spec mod.
 dimwishlist:item=4164201232&perks=1392496348,106909392,3400784728,2610012052
 dimwishlist:item=4164201232&perks=3661387068,106909392,3400784728,2610012052
 dimwishlist:item=4164201232&perks=1482024992,106909392,3400784728,2610012052
@@ -404,7 +404,7 @@ dimwishlist:item=4164201232&perks=1840239774,3230963543,2866798147,2610012052
 
 // 1000 Yard Stare (PvE backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Triple Tap, Firmly Planted, No Distractions), (Demolitionist, Mulligan)
-//notes: (???  ???): Inspired by DMB Player Versus Enemies Podcast 1. PvE backup roll for major/champions damage. Recommended MW: Reload or Stability, with Major/Taken Spec mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 1. PvE backup roll for major/champions damage. Recommended MW: Reload or Stability, with Major/Taken Spec mod.
 dimwishlist:item=4164201232&perks=1392496348,106909392,3400784728,3523296417
 dimwishlist:item=4164201232&perks=3661387068,106909392,3400784728,3523296417
 dimwishlist:item=4164201232&perks=1482024992,106909392,3400784728,3523296417
