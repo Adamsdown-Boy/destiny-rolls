@@ -25,6 +25,7 @@ dimwishlist:item=235827225&perks=1926090090,1968497646,3108830275,124408337
 dimwishlist:item=235827225&perks=1926090093,1968497646,3108830275,124408337
 dimwishlist:item=235827225&perks=1926090092,1968497646,3108830275,124408337
 
+// Eyasluna (PvE first choice roll)
 // (SureShot HCS, CrossFire HCS, Hitmark HCS, TrueSight HCS), (High-Calibre Rounds, Flared Magwell), Unrelenting, Headstone
 //notes:Inspired by DMB Player Versus Enemies Podcast 1. PvE first choice roll for add clear. Headstone creates cover with crit kills in combat and works well with stasis subclasses - try pairing with Whispers of Fissures (think stasis dragonfly), Shards, Chains and/or Rending (although it only works with kinetic primary weapons). Destroying the crystal procs Unrelenting healing. Recommended MW: Reload, with damage-boosting mod (Minor, Major or Taken Spec).
 dimwishlist:item=235827225&perks=1926090091,1561002382,3108830275,124408337
@@ -224,6 +225,7 @@ dimwishlist:item=235827225&perks=1926090090,1968497646,247725512,3523296417
 dimwishlist:item=235827225&perks=1926090093,1968497646,247725512,3523296417
 dimwishlist:item=235827225&perks=1926090092,1968497646,247725512,3523296417
 
+// Eyasluna (PvE first choice roll)
 // (SureShot HCS, CrossFire HCS, Hitmark HCS, TrueSight HCS), (High-Calibre Rounds, Flared Magwell), (Perpetual Motion, Outlaw, Rapid Hit), (Kill Clip, Demolitionist)
 //notes:Inspired by DMB Player Versus Enemies Podcast 1. PvE backup roll for add clear. Recommended MW: Range or Stability, with damage-boosting mod (Minor, Major or Taken Spec).
 dimwishlist:item=235827225&perks=1926090091,1561002382,1428297954,1015611457
