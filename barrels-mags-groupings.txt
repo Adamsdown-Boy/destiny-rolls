@@ -159,7 +159,7 @@ Accuracy Arrows (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching)
 Accuracy Arrows without downsides (Straight Fletching, Helical Fletching)
 3827198035 3311977193
 
-Stability (draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
+Stability (stabilty = draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
 1500996326 2154191829 3311977193
 
 Stability (draw hold time) without downsides Arrows (Carbon Arrow Shaft, Helical Fletching)
@@ -192,9 +192,8 @@ Mag Size Magazines (Extended Mag, Appended Mag, Tactical Mag)
 Mag Size Magazines without downsides (Appended Mag, Tactical Mag)
 1087426260 106909392
 
-Combat Effect Magazines (High-Calibre Rounds, Armor-Piercing Rounds, Ricochet Rounds)
+Combat Effect Magazines (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds)
 1968497646 1561002382 1885400500
-
 
 // Battery groupings:
 Range batteries (Projection Fuse, Tactical Battery)
