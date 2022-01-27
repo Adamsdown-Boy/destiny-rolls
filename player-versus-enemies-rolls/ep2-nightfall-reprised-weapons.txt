@@ -1224,7 +1224,7 @@ dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,1546637391
 
 // The Hothead (Adept) (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, (Demolitionist, Field Prep), Explosive Light
-//notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE first choice roll for end game content. Ideal to use in a fireteam that contains one Gjallerhorn, where you get the benefit of Wolfpack Rounds, where Impact Casing and Explosive Light can get you the best boss damage per shot. Recommended MW: Reload Speed or Velocity with damage boosting (Major, Boss, or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE first choice roll for end game content. Ideal to use in a fireteam that contains one Gjallerhorn, where you get the benefit of Wolfpack Rounds, where Impact Casing and Explosive Light can get you the best boss damage per shot. Recommended MW: Reload Speed or Velocity with damage boosting (Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=1866778462&perks=981914802,3796465595,3523296417,3194351027
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3523296417,3194351027
 dimwishlist:item=1866778462&perks=1441682018,3796465595,3523296417,3194351027
@@ -1236,7 +1236,7 @@ dimwishlist:item=1866778462&perks=3798852852,3796465595,2869569095,3194351027
 
 // The Hothead (Adept) (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Alloy Mag, (Demolitionist, Field Prep), Clown Cartridge
-//notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE first choice roll for end game content. Ideal to use in a fireteam that contains one Gjallerhorn, where you get the benefit of Wolfpack Rounds, where the faster reload of Alloy Mag, plus Demolitionist or Field Prep and Clown Cartridge will help with sustained boss damage. Recommended MW: Reload Speed or Velocity with damage boosting (Major, Boss, or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE first choice roll for end game content. Ideal to use in a fireteam that contains one Gjallerhorn, where you get the benefit of Wolfpack Rounds, where the faster reload of Alloy Mag, plus Demolitionist or Field Prep and Clown Cartridge will help with sustained boss damage. Recommended MW: Reload Speed or Velocity with damage boosting (Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=1866778462&perks=981914802,2985827016,3523296417,2284787283
 dimwishlist:item=1866778462&perks=3525010810,2985827016,3523296417,2284787283
 dimwishlist:item=1866778462&perks=1441682018,2985827016,3523296417,2284787283
@@ -1247,7 +1247,7 @@ dimwishlist:item=1866778462&perks=1441682018,2985827016,2869569095,2284787283
 dimwishlist:item=1866778462&perks=3798852852,2985827016,2869569095,2284787283
 
 // The Hothead (Adept) (PvE backup roll)
-//notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE backup roll for end game content. Great to use in a fireteam that contains one Gjallerhorn, where you get the benefit of Wolfpack Rounds for boss damage. Recommended MW: Reload Speed or Velocity with damage boosting (Major, Boss, or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE backup roll for end game content. Great to use in a fireteam that contains one Gjallerhorn, where you get the benefit of Wolfpack Rounds for boss damage. Recommended MW: Reload Speed or Velocity with damage boosting (Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=1866778462&perks=3798852852,3796465595,3523296417,3194351027
 dimwishlist:item=1866778462&perks=981914802,2985827016,3523296417,3194351027
 dimwishlist:item=1866778462&perks=3525010810,2985827016,3523296417,3194351027
