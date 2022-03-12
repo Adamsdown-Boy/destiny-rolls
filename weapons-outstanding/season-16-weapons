@@ -6,7 +6,7 @@
 // Empirical Evidence - shapeable
 dimwishlist:item=2607304614
 
-// The Enigma Glaive - shapeable
+// The Enigma - shapeable
 dimwishlist:item=2595497736
 
 // Red Herring Rocket Launcher - shapeable
@@ -81,7 +81,7 @@ dimwishlist:item=1526296434
 
 
 @title:Season Pass weapons
-@description:Unlocked through season pass progression
+@description:Unlocked through season pass progression, and then world drops
 
 // Thoughtless - shapeable
 dimwishlist:item=4067556514
@@ -106,6 +106,12 @@ dimwishlist:item=2638190703
 
 // Aisha's Embrace (Adept)
 dimwishlist:item=3245493570
+
+// The Summoner
+dimwishlist:item=1907698332
+
+// The Summoner (Adept)
+dimwishlist:item=3927598940
 
 
 @title:Iron Banner weapons
@@ -166,7 +172,7 @@ dimwishlist:item=2886339027
 
 
 @title:World Drops
-@descriptionThese can drop from Engrams regardless of source.
+@descriptionThese can drop from engrams regardless of source.
 
 // Krait
 dimwishlist:item=2852052802
