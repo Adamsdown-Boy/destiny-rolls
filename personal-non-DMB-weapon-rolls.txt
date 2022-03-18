@@ -4410,14 +4410,10 @@ dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,3007133316
 // Ragnhild-D (PvE first choice roll)
 // Barrel Shroud, Assault Mag, (Subsistence, Subsistence Enhanced), (Demolitionist, Demolitionist Enhanced)
 //notes:Adamsdown_Boy first choice PvE roll for grenadier builds. Shapeable weapon. The usual traits for barrels and mags, with a combination of Subsistence and Demolitionist to keep the grenades rolling. Recommended MW: Reload Speed or Handling with a damage-boosting mod.
-dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,2679249093
-dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,2679249093
-dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,788178929
-dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,788178929
-dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,4104185692
-dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,4104185692
-dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,3007133316
-dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,3007133316
+dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,3523296417
+dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,3523296417
+dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,1906147653
+dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,1906147653
 
 // Snorri FR5 (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Accelerated Coils, Compulsive Reloader, Reservoir Burst
