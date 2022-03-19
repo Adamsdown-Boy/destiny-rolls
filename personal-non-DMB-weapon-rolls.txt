@@ -5419,14 +5419,14 @@ dimwishlist:item=1135050595&perks=3661387068,106909392,3400784728,3425386926
 
 // Duty Bound (PvE first choice roll)
 // Arrowhead Brake, Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), Rampage
-//notes:Adamsdown_Boy first choice roll for PvE general content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Arrowhead Brake and Tactical Mag helps a lot. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Rampage Spec mod.
+//notes:Adamsdown_Boy first choice roll for PvE general content. Arrowhead Brake and Tactical Mag helps a lot with the wonky recoil direction. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Rampage Spec mod.
 dimwishlist:item=435216110&perks=839105230,106909392,1428297954,3425386926
 dimwishlist:item=435216110&perks=839105230,106909392,2387244414,3425386926
 dimwishlist:item=435216110&perks=839105230,106909392,3400784728,3425386926
 
 // Duty Bound (Adept) (PvE first choice roll)
 // Arrowhead Brake, Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), Rampage
-//notes:Adamsdown_Boy first choice roll for PvE general content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Arrowhead Brake and Tactical Mag helps a lot. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Rampage Spec mod.
+//notes:Adamsdown_Boy first choice roll for PvE general content. Arrowhead Brake and Tactical Mag helps a lot with the wonky recoil direction. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Rampage Spec mod.
 dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,3425386926
 dimwishlist:item=1135050595&perks=839105230,106909392,2387244414,3425386926
 dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,3425386926
