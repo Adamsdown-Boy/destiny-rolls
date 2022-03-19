@@ -2291,7 +2291,7 @@ dimwishlist:item=1030895163&perks=3661387068,689005463,3161816588,1427256713
 
 // Under Your Skin (PvE first choice roll)
 // (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching), (Archer's Tempo, Archer's Tempo Enhanced), (Explosive Head, Explosive Head Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for end-game PvE content. Shapeable weapon. Reduce the draw time and use the arrow perk to bump accuracy back up, nothing to touch Archer's Tempo in PvE, and then Explosive Head for Overload and Barrier Champions (when the relevant mod's in town), flinch and higher overall damage. Recommended MW: Draw Time with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for end-game PvE content. Shapeable weapon. Reduce the draw time and use the arrow perk to bump accuracy back up, nothing to touch Archer's Tempo in PvE, and then Explosive Head for Overload and Barrier Champions (when the relevant mod's in town), flinch and higher overall damage. Recommended MW: Draw Time with damage-boosting mod.
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,3365897133
 dimwishlist:item=232928045&perks=852209214,3429800428,201365942,3365897133
@@ -2331,7 +2331,7 @@ dimwishlist:item=232928045&perks=852209214,3311977193,3523746922,1551736345
 
 // Under Your Skin (PvE first choice roll)
 // (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching), (Archer's Tempo, Archer's Tempo Enhanced), (Adaptive Munitions, Adaptive Munitions Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for end-game PvE content. Shapeable weapon. Reduce the draw time and use the arrow perk to bump accuracy back up, nothing to touch Archer's Tempo in PvE, and then Adaptive Munitions for Match Game. Recommended MW: Draw Time with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for end-game PvE content. Shapeable weapon. Reduce the draw time and use the arrow perk to bump accuracy back up, nothing to touch Archer's Tempo in PvE, and then Adaptive Munitions for Match Game. Recommended MW: Draw Time with damage-boosting mod.
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,1048183818
 dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,1048183818
 dimwishlist:item=232928045&perks=852209214,3429800428,201365942,1048183818
@@ -2371,7 +2371,7 @@ dimwishlist:item=232928045&perks=852209214,3311977193,3523746922,3431277734
 
 // Sweet Sorrow (PvE first choice roll)
 // Arrowhead Brake, (Tactical Mag, Appended Mag, Flared Magwell), (Triple Tap, Triple Tap Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Vorpal Weapon, Vorpal Weapon Enhanced, Demolitionist, Demolitionist Enhanced, Turnabout, Turnabout Enhanced, One for All, One for All Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Shapeable weapon. Use close to mid-range once the wonky recoil direction's sorted. Recommended MW: Reload Speed or Stability with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Shapeable weapon. Use close to mid-range once the wonky recoil direction's sorted. Recommended MW: Reload Speed or Stability with damage-boosting mod.
 dimwishlist:item=1248372789&perks=839105230,106909392,3400784728,1546637391
 dimwishlist:item=1248372789&perks=839105230,1087426260,3400784728,1546637391
 dimwishlist:item=1248372789&perks=839105230,3230963543,3400784728,1546637391
@@ -2471,7 +2471,7 @@ dimwishlist:item=1248372789&perks=839105230,3230963543,2014892510,859780267
 
 // Sweet Sorrow (PvE first choice roll)
 // Polygonal Rifling, Steady Rounds, (Triple Tap, Triple Tap Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Vorpal Weapon, Vorpal Weapon Enhanced, Demolitionist, Demolitionist Enhanced, Turnabout, Turnabout Enhanced, One for All, One for All Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Shapeable weapon. Use close to mid-range once the wonky recoil direction's controlled. Recommended MW: Reload Speed or Stability with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Shapeable weapon. Use close to mid-range once the wonky recoil direction's controlled. Recommended MW: Reload Speed or Stability with damage-boosting mod.
 dimwishlist:item=1248372789&perks=1392496348,3177308360,3400784728,1546637391
 dimwishlist:item=1248372789&perks=1392496348,3177308360,1428297954,1546637391
 dimwishlist:item=1248372789&perks=1392496348,3177308360,573122728,1546637391
@@ -2507,7 +2507,7 @@ dimwishlist:item=1248372789&perks=1392496348,3177308360,2014892510,859780267
 
 // Recurrent Impact (PvE first choice roll)
 // Arrowhead Brake, Appended Mag, (Field Prep, Field Prep Enhanced), (Firing Line, Firing Line Enhanced, Frenzy, Frenzy Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for boss/orange/yellow bar damage. Shapeable weapon. Make the recoil easier to control, then maximise the magazine size and add a damage perk. Recommended MW: Stability with Backup Mag mod.
+//notes:Adamsdown_Boy first choice roll for PvE boss/orange/yellow bar damage. Shapeable weapon. Make the recoil easier to control, then maximise the magazine size and add a damage perk. Recommended MW: Stability with Backup Mag mod.
 dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,1771339417
 dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,1771339417
 dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,395388285
@@ -2519,7 +2519,7 @@ dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,3007133316
 
 // Recurrent Impact (PvE first choice roll)
 // Arrowhead Brake, Appended Mag, (Field Prep, Field Prep Enhanced, Subsistence, Subsistence Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Frenzy, Frenzy Enhanced, One For All, One For All Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for add clear. Shapeable weapon. Make the recoil easier to control, then maximise the magazine size and add a reload and a damage perk. Recommended MW: Stability with Backup Mag mod.
+//notes:Adamsdown_Boy first choice  roll for PvE add clear. Shapeable weapon. Make the recoil easier to control, then maximise the magazine size and add a reload and a damage perk. Recommended MW: Stability with Backup Mag mod.
 dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,4104185692
 dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,4104185692
 dimwishlist:item=1572896086&perks=839105230,1087426260,1820235745,4104185692
@@ -2705,7 +2705,7 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,2308090567,2000295559
 dimwishlist:item=4096943616&perks=1441682018,2822142346,2308090567,2000295559
 dimwishlist:item=4096943616&perks=3798852852,2822142346,2308090567,2000295559
 
-@title:Season Pass weapons
+@title:Season 16 (Risen) Season Pass weapons
 
 // Piece of Mind (PvE backup roll)
 // (Polygonal Rifling, Chambered Compensator, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), (Overflow, Overflow Enhanced, Perpetual Motion, Perpetual Motion Enhanced, Compulsive Reloader, Compulsive Reloader Enhanced), (Vorpal Weapon, Vorpal Weapon Enhanced, Adrenaline Junkie, Adrenaline Junkie Enhanced)
@@ -2905,7 +2905,7 @@ dimwishlist:item=2097055732&perks=4090651448,3230963543,595108252,2422968039
 
 // Thoughtless (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, (Overflow, Overflow Enhanced), (Firing Line, Firing Line Enhanced, Focused Fury, Focused Fury Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for boss/single target DPS. Shapeable weapon. Stability/recoil control helps with follow-up shots, then maximise the number of shots and add a damage perk. Recommended MW: Stability with Backup Mag mod.
+//notes:Adamsdown_Boy first choice  roll for PvE boss/single target DPS. Shapeable weapon. Stability/recoil control helps with follow-up shots, then maximise the number of shots and add a damage perk. Recommended MW: Stability with Backup Mag mod.
 dimwishlist:item=4067556514&perks=1392496348,1087426260,3643424744,1771339417
 dimwishlist:item=4067556514&perks=3661387068,1087426260,3643424744,1771339417
 dimwishlist:item=4067556514&perks=1482024992,1087426260,3643424744,1771339417
@@ -2949,7 +2949,7 @@ dimwishlist:item=4067556514&perks=4090651448,1087426260,2682205016,2402480669
 
 // Thoughtless (PvE backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, (Rapid Hit, Rapid Hit Enhanced), (Firing Line, Firing Line Enhanced, Focused Fury, Focused Fury Enhanced)
-//notes:Adamsdown_Boy backup PvE roll for boss/single target DPS. Shapeable weapon. Stability/recoil control helps with follow-up shots, then maximise the number of shots and add a damage perk. Recommended MW: Stability with Backup Mag mod.
+//notes:Adamsdown_Boy backup roll for PvE boss/single target DPS. Shapeable weapon. Stability/recoil control helps with follow-up shots, then maximise the number of shots and add a damage perk. Recommended MW: Stability with Backup Mag mod.
 dimwishlist:item=4067556514&perks=1392496348,1087426260,247725512,1771339417
 dimwishlist:item=4067556514&perks=3661387068,1087426260,247725512,1771339417
 dimwishlist:item=4067556514&perks=1482024992,1087426260,247725512,1771339417
@@ -3053,7 +3053,7 @@ dimwishlist:item=2607304614&perks=1482024992,1885400500,2014892510
 
 // The Enigma (PvE first choice roll)
 // (Tempered Truss Rod, Lightweight Emitter), Swap Mag, (Threat Detector, Threat Detector Enhanced), (Unrelenting, Unrelenting Enhanced, Frenzy, Frenzy Enhanced, Rampage, Rampage Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for Hunters using Enigma as a stabby stick with Suppressing Glaive and Stylish Executioner to stay invisible in Season 16. Shapeable weapon. Up the Handling then all you'll need is a damage perk, or Unrelenting. Recommended MW: Handling with damage-boosting (or Rampage spec, if you choose Rampage in the last column) mod.
+//notes:Adamsdown_Boy first choice roll for Hunters using Enigma as a stabby stick with Suppressing Glaive and Stylish Executioner to stay invisible in Season 16 PvE. Shapeable weapon. Up the Handling then all you'll need is a damage perk, or Unrelenting. Recommended MW: Handling with damage-boosting (or Rampage spec, if you choose Rampage in the last column) mod.
 dimwishlist:item=2595497736&perks=5699512,3721627275,4071163871,3108830275
 dimwishlist:item=2595497736&perks=594346985,3721627275,4071163871,3108830275
 dimwishlist:item=2595497736&perks=5699512,3721627275,494941759,3108830275
@@ -3081,7 +3081,7 @@ dimwishlist:item=2595497736&perks=594346985,3721627275,494941759,288411554
 
 // The Enigma (PvE first choice roll)
 // (Tempered Truss Rod, Lightweight Emitter), Light Mag, (Grave Robber, Grave Robber Enhanced, Subsistence, Subsistence Enhanced), (Unrelenting, Unrelenting Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for CQC, combining a bit of hack and slash with close-range bolt firing. Shapeable weapon. Looking for handling and reload speed, combined with reload perks that help when you're up close and in a fight, and Unrelenting to regen health. Recommended MW: Handling or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE CQC, combining a bit of hack and slash with close-range bolt firing. Shapeable weapon. Looking for handling and reload speed, combined with reload perks that help when you're up close and in a fight, and Unrelenting to regen health. Recommended MW: Handling or Reload Speed with a damage-boosting mod.
 dimwishlist:item=2595497736&perks=594346985,679225683,1631667848,3108830275
 dimwishlist:item=2595497736&perks=2713678205,679225683,1631667848,3108830275
 dimwishlist:item=2595497736&perks=594346985,679225683,402033656,3108830275
@@ -3101,7 +3101,7 @@ dimwishlist:item=2595497736&perks=2713678205,679225683,4245865861,855168139
 
 // The Enigma (PvE backup roll)
 // (Tempered Truss Rod, Lightweight Emitter), (Light Mag, Appended Mag, Alloy Mag), (Grave Robber, Grave Robber Enhanced, Subsistence, Subsistence Enhanced, Threat Detector, Threat Detector Enhanced, Feeding Frenzy, Feeding Frenzy Enhanced), (Unrelenting, Unrelenting Enhanced, Frenzy, Frenzy Enhanced, Rampage, Rampage Enhanced, Thresh, Thresh Enhanced)
-//notes:Adamsdown_Boy backup PvE roll for CQC, combining a bit of hack and slash with close-range bolt firing. Shapeable weapon. Looking for handling and reload speed, combined with perks that help when you're up close and personal. Recommended MW: Handling or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE CQC, combining a bit of hack and slash with close-range bolt firing. Shapeable weapon. Looking for handling and reload speed, combined with perks that help when you're up close and personal. Recommended MW: Handling or Reload Speed with a damage-boosting mod.
 dimwishlist:item=2595497736&perks=594346985,1087426260,1631667848,3108830275
 dimwishlist:item=2595497736&perks=2713678205,1087426260,1631667848,3108830275
 dimwishlist:item=2595497736&perks=594346985,1431678320,1631667848,3108830275
@@ -3477,7 +3477,7 @@ dimwishlist:item=2595497736&perks=594346985,1431678320,1171147302,1172413778
 dimwishlist:item=2595497736&perks=2713678205,1431678320,1171147302,1172413778
 
 // The Enigma (PvE first choice roll)
-//notes:Adamsdown_Boy first choice PvE roll for bolt firing. Shapeable weapon. Looking for range and reload speed, combined with perks that help when you're up shooting bolts from mid-range. Recommended MW: Range or Reload Speed with a damage-boosting (or Rampage Spec if you decide that's the way to go) mod.
+//notes:Adamsdown_Boy first choice roll for PvE bolt firing. Shapeable weapon. Looking for range and reload speed, combined with perks that help when you're up shooting bolts from mid-range. Recommended MW: Range or Reload Speed with a damage-boosting (or Rampage Spec if you decide that's the way to go) mod.
 dimwishlist:item=2595497736&perks=1263609309,679225683,951095735,4104185692
 dimwishlist:item=2595497736&perks=1263609309,3142289711,951095735,4104185692
 dimwishlist:item=2595497736&perks=1263609309,679225683,3878366039,4104185692
@@ -3496,7 +3496,7 @@ dimwishlist:item=2595497736&perks=1263609309,679225683,3878366039,288411554
 dimwishlist:item=2595497736&perks=1263609309,3142289711,3878366039,288411554
 
 // The Enigma (PvE first choice roll)
-//notes: Adamsdown_Boy first choice PvE roll for building into Unstoppable Force for single target damage. Shapeable weapon. Looking to maximise the shield stats and the number of bolts you can fire, with Impulse Amplifier to get bolts travel time down. Recommended MW: Range or Reload Speed with a damage-boosting mod.
+//notes: Adamsdown_Boy first choice roll for PvE building into Unstoppable Force for single target damage. Shapeable weapon. Looking to maximise the shield stats and the number of bolts you can fire, with Impulse Amplifier to get bolts travel time down. Recommended MW: Range or Reload Speed with a damage-boosting mod.
 dimwishlist:item=2595497736&perks=580685494,1087426260,951095735,2224838837
 dimwishlist:item=2595497736&perks=2713678205,1087426260,951095735,2224838837
 dimwishlist:item=2595497736&perks=580685494,1087426260,3878366039,2224838837
@@ -3507,7 +3507,7 @@ dimwishlist:item=2595497736&perks=580685494,1087426260,3878366039,3102670337
 dimwishlist:item=2595497736&perks=2713678205,1087426260,3878366039,3102670337
 
 // Red Herring (PvE first choice roll)
-//notes:Adamsdown_Boy first choice PvE roll for boss damage - but in the most meh rocket launcher archetype, so only shape one if you've not already got a void boss DPS rocket launcher. Shapeable weapon. Recommended MW: Velocity with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE boss damage - but in the most meh rocket launcher archetype, so only shape one if you've not already got a void boss DPS rocket launcher. Shapeable weapon. Recommended MW: Velocity with a damage-boosting mod.
 dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,3927722942
 dimwishlist:item=3175851496&perks=981914802,3796465595,2869569095,3927722942
 dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,3927722942
@@ -3525,12 +3525,12 @@ dimwishlist:item=3175851496&perks=981914802,3796465595,3977735242,1167468626
 dimwishlist:item=3175851496&perks=3525010810,3796465595,406461158,1167468626
 dimwishlist:item=3175851496&perks=981914802,3796465595,406461158,1167468626
 
-@title:World Drops
+@title:Season 16 World Drops
 @descriptionThese can drop from engrams regardless of source.
 
 // Krait (PvE first choice roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell), Subsistence, Adagio
-//notes:Adamsdown_Boy first choice PvE roll for general use. Maybe a bit of recoil control and stability, and then a mag trait to add some pep. Subsistence/Adagio is fun when procced - each bullet does more damage, the slower RoF makes control easier and damage output with Subsistence is increased. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Maybe a bit of recoil control and stability, and then a mag trait to add some pep. Subsistence/Adagio is fun when procced - each bullet does more damage, the slower RoF makes control easier and damage output with Subsistence is increased. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2852052802&perks=839105230,1968497646,1820235745,3673922083
 dimwishlist:item=2852052802&perks=3661387068,1968497646,1820235745,3673922083
 dimwishlist:item=2852052802&perks=1392496348,1968497646,1820235745,3673922083
@@ -3543,7 +3543,7 @@ dimwishlist:item=2852052802&perks=1392496348,3230963543,1820235745,3673922083
 
 // Krait (PvE backup roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell), (Subsistence, Overflow, Auto-Loading Holster), (Adagio, One For All, Headstone, Vorpal Weapon)
-//notes:Adamsdown_Boy backup PvE roll for general use. Maybe a bit of recoil control and stability, and then a mag trait to add some pep, then something to help with reload and damage Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE general use. Maybe a bit of recoil control and stability, and then a mag trait to add some pep, then something to help with reload and damage Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2852052802&perks=1392496348,1968497646,1820235745,3673922083
 dimwishlist:item=2852052802&perks=1392496348,1561002382,1820235745,3673922083
 dimwishlist:item=2852052802&perks=1392496348,3230963543,1820235745,3673922083
@@ -3649,7 +3649,7 @@ dimwishlist:item=2852052802&perks=1392496348,3230963543,3300816228,1546637391
 
 // Syncopation-53 (PvE first choice roll)
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Armor-Piercing Rounds, High-Calibre Rounds), (Outlaw, Outlaw Enhanced, Compulsive Reloader, Compulsive Reloader Enhanced), (Frenzy, Frenzy Enhanced, Headstone, Headstone Enhanced, Vorpal Weapon, Vorpal Weapon Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Shapeable weapon. Feels a bit more PvP with the traits available, but there's still a few useful PvE rolls. Slight wonky recoil direction needs some control, and then the usual combination of reload and damage/combat perks. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Shapeable weapon. Feels a bit more PvP with the traits available, but there's still a few useful PvE rolls. Slight wonky recoil direction needs some control, and then the usual combination of reload and damage/combat perks. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2856514843&perks=839105230,1968497646,1168162263,4104185692
 dimwishlist:item=2856514843&perks=3661387068,1968497646,1168162263,4104185692
 dimwishlist:item=2856514843&perks=1467527085,1968497646,1168162263,4104185692
@@ -3797,7 +3797,7 @@ dimwishlist:item=2856514843&perks=1467527085,1561002382,595108252,3418165135
 
 // Syncopation-53 (PvE first choice roll)
 // Polygonal Rifling, (Flared Magwell, Ricochet Rounds), (Outlaw, Outlaw Enhanced, Compulsive Reloader, Compulsive Reloader Enhanced), (Frenzy, Frenzy Enhanced, Headstone, Headstone Enhanced, Vorpal Weapon, Vorpal Weapon Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Feels a bit more PvP with the traits available, but there's still a few useful PvE rolls. Use stability to help control the wonky recoil direction, and then the usual combination of reload and damage/combat perks. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Feels a bit more PvP with the traits available, but there's still a few useful PvE rolls. Use stability to help control the wonky recoil direction, and then the usual combination of reload and damage/combat perks. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2856514843&perks=1392496348,3230963543,1168162263,4104185692
 dimwishlist:item=2856514843&perks=1392496348,1885400500,1168162263,4104185692
 dimwishlist:item=2856514843&perks=1392496348,3230963543,1347741687,4104185692
@@ -3849,7 +3849,7 @@ dimwishlist:item=2856514843&perks=1392496348,1885400500,595108252,3418165135
 
 // Perses-D (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Rapid Hit, (Explosive Payload, Vorpal Weapon, Headstone)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=1019000888&perks=1392496348,106909392,247725512,3038247973
 dimwishlist:item=1019000888&perks=3661387068,106909392,247725512,3038247973
 dimwishlist:item=1019000888&perks=1482024992,106909392,247725512,3038247973
@@ -3883,7 +3883,7 @@ dimwishlist:item=1019000888&perks=4090651448,3230963543,247725512,124408337
 
 // Perses-D (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Shoot to Loot, (Explosive Payload, Vorpal Weapon)
-//notes:Adamsdown_Boy first choice PvE roll for end-game use. Shoot to Loot picks up ammo while you stay safe, and Explosive Payload or Vorpal Weapon add damage and help with Champions, when the Scout Rifle mod's in town. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE end-game use. Shoot to Loot picks up ammo while you stay safe, and Explosive Payload or Vorpal Weapon add damage and help with Champions, when the Scout Rifle mod's in town. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=1019000888&perks=1392496348,106909392,3700496672,3038247973
 dimwishlist:item=1019000888&perks=3661387068,106909392,3700496672,3038247973
 dimwishlist:item=1019000888&perks=1482024992,106909392,3700496672,3038247973
@@ -3907,7 +3907,7 @@ dimwishlist:item=1019000888&perks=4090651448,3230963543,3700496672,1546637391
 
 // Funnelweb (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Perpetual Motion, Pulse Monitor, Auto-Loading Holster), Frenzy
-//notes:Adamsdown_Boy first choice PvE roll for endgame use. Needs a bit of help with Reload Speed and Stability, and then pair with reload traits and Frenzy to add damage without having to get a kill to proc first. Recommended MW: Reload Speed or Stability with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE endgame use. Needs a bit of help with Reload Speed and Stability, and then pair with reload traits and Frenzy to add damage without having to get a kill to proc first. Recommended MW: Reload Speed or Stability with damage-boosting mod.
 dimwishlist:item=3341893443&perks=1392496348,3230963543,1428297954,4104185692
 dimwishlist:item=3341893443&perks=3661387068,3230963543,1428297954,4104185692
 dimwishlist:item=3341893443&perks=1482024992,3230963543,1428297954,4104185692
@@ -3941,7 +3941,7 @@ dimwishlist:item=3341893443&perks=4090651448,106909392,3300816228,4104185692
 
 // Funnelweb (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Subsistence, Perpetual Motion, Auto-Loading Holster), (Adrenaline Junkie, Frenzy, Thresh)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Needs a bit of help with Reload Speed and Stability, and then pair with reload traits and something to help in combat. Recommended MW: Reload Speed or Stability with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Needs a bit of help with Reload Speed and Stability, and then pair with reload traits and something to help in combat. Recommended MW: Reload Speed or Stability with damage-boosting mod.
 dimwishlist:item=3341893443&perks=1392496348,3230963543,1820235745,11612903
 dimwishlist:item=3341893443&perks=3661387068,3230963543,1820235745,11612903
 dimwishlist:item=3341893443&perks=1482024992,3230963543,1820235745,11612903
@@ -4018,7 +4018,7 @@ dimwishlist:item=3341893443&perks=4090651448,106909392,3300816228,2726471870
 
 // Redback-5si (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Tactical Mag, (Perpetual Motion, Compulsive Reloader), (Surrounded, One for All)
-//notes:Adamsdown_Boy first choice PvE roll for end-game use (aren't YOU brave?). Recommended MW: Stability or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE end-game use (aren't YOU brave?). Recommended MW: Stability or Reload Speed with a damage-boosting mod.
 dimwishlist:item=1687353095&perks=1392496348,106909392,1428297954,3708227201
 dimwishlist:item=1687353095&perks=3661387068,106909392,1428297954,3708227201
 dimwishlist:item=1687353095&perks=1482024992,106909392,1428297954,3708227201
@@ -4042,7 +4042,7 @@ dimwishlist:item=1687353095&perks=4090651448,106909392,671806388,4049631843
 
 // Redback-5si (PvE backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Steady Rounds), (Perpetual Motion, Compulsive Reloader), (Surrounded, One for All)
-//notes:Adamsdown_Boy backup PvE roll for end-game use (aren't YOU brave?). Recommended MW: Stability or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE end-game use (aren't YOU brave?). Recommended MW: Stability or Reload Speed with a damage-boosting mod.
 dimwishlist:item=1687353095&perks=1392496348,3230963543,1428297954,3708227201
 dimwishlist:item=1687353095&perks=3661387068,3230963543,1428297954,3708227201
 dimwishlist:item=1687353095&perks=1482024992,3230963543,1428297954,3708227201
@@ -4086,7 +4086,7 @@ dimwishlist:item=1687353095&perks=4090651448,3177308360,671806388,4049631843
 
 // Redback-5si (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Tactical Mag, (Perpetual Motion, Compulsive Reloader), (Surrounded, Rampage, One for All)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Recommended MW: Stability or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Recommended MW: Stability or Reload Speed with a damage-boosting mod.
 dimwishlist:item=1687353095&perks=1392496348,106909392,1820235745,3708227201
 dimwishlist:item=1687353095&perks=3661387068,106909392,1820235745,3708227201
 dimwishlist:item=1687353095&perks=1482024992,106909392,1820235745,3708227201
@@ -4117,7 +4117,7 @@ dimwishlist:item=1687353095&perks=4090651448,106909392,1428297954,4049631843
 dimwishlist:item=1687353095&perks=4090651448,106909392,671806388,4049631843
 
 // Redback-5si (PvE backup roll)
-//notes:Adamsdown_Boy backup PvE roll for general use. Recommended MW: Stability or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE general use. Recommended MW: Stability or Reload Speed with a damage-boosting mod.
 dimwishlist:item=1687353095&perks=1392496348,3230963543,1820235745,3708227201
 dimwishlist:item=1687353095&perks=3661387068,3230963543,1820235745,3708227201
 dimwishlist:item=1687353095&perks=1482024992,3230963543,1820235745,3708227201
@@ -4211,7 +4211,7 @@ dimwishlist:item=1687353095&perks=4090651448,3177308360,671806388,4049631843
 
 // Cantata-57 (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Rapid Hit, (Timed Payload, Vorpal Weapon)
-//notes:Adamsdown_Boy first choice PvE roll for general use, although the perks are quite PvP focussed. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use, although the perks are quite PvP focussed. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=372697604&perks=1392496348,106909392,247725512,1954620775
 dimwishlist:item=372697604&perks=3661387068,106909392,247725512,1954620775
 dimwishlist:item=372697604&perks=1482024992,106909392,247725512,1954620775
@@ -4235,7 +4235,7 @@ dimwishlist:item=372697604&perks=4090651448,3230963543,247725512,1546637391
 
 // Ogma PR6 (PvE first choice roll)
 // (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Fluted Barrel, Arrowhead Brake), (Tactical Mag, Appended Mag), Adaptive Munitions, Disruption Break
-//notes:Adamsdown_Boy first choice PvE roll for end game content. Lots of good rolls. You can get by with pretty much any barrel and a few addional bullets in the mag. For match game modifiers this is the first Adaptive Munitions/Disruption Break pairing we've had. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE end game content. Lots of good rolls. You can get by with pretty much any barrel and a few addional bullets in the mag. For match game modifiers this is the first Adaptive Munitions/Disruption Break pairing we've had. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2342054803&perks=1467527085,106909392,1048183818,1683379515
 dimwishlist:item=2342054803&perks=3250034553,106909392,1048183818,1683379515
 dimwishlist:item=2342054803&perks=1482024992,106909392,1048183818,1683379515
@@ -4255,7 +4255,7 @@ dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,1683379515
 
 // Ogma PR6 (PvE first choice roll)
 // (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Fluted Barrel, Arrowhead Brake), (Tactical Mag, Appended Mag), Adaptive Munitions, Turnabout
-//notes:Adamsdown_Boy first choice PvE roll for end game content. Lots of good rolls. You can get by with pretty much any barrel and a few addional bullets in the mag. For match game modifiers this is the first Adaptive Munitions/Turnabout pairing we've had. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE end game content. Lots of good rolls. You can get by with pretty much any barrel and a few addional bullets in the mag. For match game modifiers this is the first Adaptive Munitions/Turnabout pairing we've had. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2342054803&perks=1467527085,106909392,1048183818,2209918983
 dimwishlist:item=2342054803&perks=3250034553,106909392,1048183818,2209918983
 dimwishlist:item=2342054803&perks=1482024992,106909392,1048183818,2209918983
@@ -4275,7 +4275,7 @@ dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,2209918983
 
 // Ogma PR6 (PvE first choice roll)
 // (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Fluted Barrel, Arrowhead Brake), (Tactical Mag, Appended Mag), Demolitionist, (Adrenaline Junkie, Wellspring)
-//notes:Adamsdown_Boy first choice PvE roll for grenadiers. Lots of good rolls. You can get by with pretty much any barrel and a few addional bullets in the mag. Potentially one of the best weapons in the game for grenade builds with both Demolitionist and then Adrenaline Junkie/Wellspring options. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE grenadiers. Lots of good rolls. You can get by with pretty much any barrel and a few addional bullets in the mag. Potentially one of the best weapons in the game for grenade builds with both Demolitionist and then Adrenaline Junkie/Wellspring options. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2342054803&perks=1467527085,106909392,3523296417,11612903
 dimwishlist:item=2342054803&perks=3250034553,106909392,3523296417,11612903
 dimwishlist:item=2342054803&perks=1482024992,106909392,3523296417,11612903
@@ -4311,7 +4311,7 @@ dimwishlist:item=2342054803&perks=839105230,1087426260,3523296417,3592538738
 
 // Ogma PR6 (PvE first choice roll)
 // (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Polygonal Rifling, Chambered Compensator, Fluted Barrel, Arrowhead Brake), (Tactical Mag, Appended Mag), Demolitionist, Perpetual Motion), (Adrenaline Junkie, Dragonfly, One For All)
-//notes:Adamsdown_Boy first choice PvE roll for general use. You can get by with pretty much any barrel and a few addional bullets in the mag, and then there are plenty of useful third and fourth column perks. Recommended MW: Stability or Reload Speed with damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. You can get by with pretty much any barrel and a few addional bullets in the mag, and then there are plenty of useful third and fourth column perks. Recommended MW: Stability or Reload Speed with damage-boosting mod.
 dimwishlist:item=2342054803&perks=1840239774,106909392,3523296417,11612903
 dimwishlist:item=2342054803&perks=1840239774,1087426260,3523296417,11612903
 dimwishlist:item=2342054803&perks=1467527085,106909392,1428297954,11612903
@@ -4397,7 +4397,7 @@ dimwishlist:item=2342054803&perks=839105230,1087426260,1428297954,4049631843
 
 // Ragnhild-D (PvE first choice roll)
 // Barrel Shroud, Assault Mag, (Auto-Loading Holster, Auto-Loading Holster Enhanced), (One-Two Punch, One-Two Punch Enhanced, Frenzy, Frenzy Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for boss/major DPS. Shapeable weapon. The usual traits for barrels and mags, and Auto-Loading Holster is useful for swapping between it and a power weapon for CQC boss damage. Although One-Two Punch builds have taken a nerf, it's there as an option, with Frenzy being easy to proc for additional damage. Recommended MW: Handling with a Backup Mag mod.
+//notes:Adamsdown_Boy first choice roll for PvE boss/major DPS. Shapeable weapon. The usual traits for barrels and mags, and Auto-Loading Holster is useful for swapping between it and a power weapon for CQC boss damage. Although One-Two Punch builds have taken a nerf, it's there as an option, with Frenzy being easy to proc for additional damage. Recommended MW: Handling with a Backup Mag mod.
 dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,2679249093
 dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,2679249093
 dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,788178929
@@ -4409,7 +4409,7 @@ dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,3007133316
 
 // Ragnhild-D (PvE first choice roll)
 // Barrel Shroud, Assault Mag, (Subsistence, Subsistence Enhanced), (Demolitionist, Demolitionist Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for grenadier builds. Shapeable weapon. The usual traits for barrels and mags, with a combination of Subsistence and Demolitionist to keep the grenades rolling. Recommended MW: Reload Speed or Handling with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE grenadier builds. Shapeable weapon. The usual traits for barrels and mags, with a combination of Subsistence and Demolitionist to keep the grenades rolling. Recommended MW: Reload Speed or Handling with a damage-boosting mod.
 dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,3523296417
 dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,3523296417
 dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,1906147653
@@ -4426,7 +4426,7 @@ dimwishlist:item=4114929480&perks=4090651448,689005463,671806388,1427256713
 
 // Snorri FR5 (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Enhanced Battery, Surplus, (Frenzy, High-Impact Reserves)
-//notes:Adamsdown_Boy first choice PvE roll for boss DPS. Reducing bolt spread, increasing the number of shots, faster reloads and passive damage boosts that are easy to proc. Recommended MW: Reload Speed with a Backup Mag mod.
+//notes:Adamsdown_Boy first choice roll for PvE boss DPS. Reducing bolt spread, increasing the number of shots, faster reloads and passive damage boosts that are easy to proc. Recommended MW: Reload Speed with a Backup Mag mod.
 dimwishlist:item=4114929480&perks=1392496348,2680121939,3436462433,4104185692
 dimwishlist:item=4114929480&perks=3661387068,2680121939,3436462433,4104185692
 dimwishlist:item=4114929480&perks=1482024992,2680121939,3436462433,4104185692
@@ -4440,7 +4440,7 @@ dimwishlist:item=4114929480&perks=4090651448,2680121939,3436462433,2213355989
 
 // Fugue-55 (PvE first choice roll)
 (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Fourth Time's The Charm, (Focused Fury, Firing Line, Vorpal Weapon, Box Breathing)
-//notes:Adamsdown_Boy first choice PvE roll for sustained single-target DPS. Focus on stability to keep your reticle on target more easily, appended mag and Backup Mag to get 11 crit shots with Fourth Time's the Charm, and lots of damage boosting options in the last column (Focused Fury for sustained damage, Firing Line for fireteams, Vorpal Weapon for +15% to majors/bosses, or Box Breathing for single shots). Recommended MW: Stability with Backup Mag mod.
+//notes:Adamsdown_Boy first choice roll for PvE sustained single-target DPS. Focus on stability to keep your reticle on target more easily, appended mag and Backup Mag to get 11 crit shots with Fourth Time's the Charm, and lots of damage boosting options in the last column (Focused Fury for sustained damage, Firing Line for fireteams, Vorpal Weapon for +15% to majors/bosses, or Box Breathing for single shots). Recommended MW: Stability with Backup Mag mod.
 dimwishlist:item=2233545123&perks=1392496348,1087426260,1354429876,2896038713
 dimwishlist:item=2233545123&perks=3661387068,1087426260,1354429876,2896038713
 dimwishlist:item=2233545123&perks=1482024992,1087426260,1354429876,2896038713
@@ -4464,7 +4464,7 @@ dimwishlist:item=2233545123&perks=4090651448,1087426260,1354429876,2551157718
 
 // Fugue-55 (PvE first choice roll)
 (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Auto-Loading Holster, (Focused Fury, Firing Line, Vorpal Weapon)
-//notes:Adamsdown_Boy first choice PvE roll for boss DPS. Focus on stability and handling to keep your reticle on target more easily and for faster stowing/drawing, appended mag and Backup Mag to get seven shots before swapping to a heavy for a bit and letting auto-loading holster do its thing, and lots of damage boosting options in the last column (Focused Fury for sustained damage on crit hits for bosses with big heads, or for easier proccing Firing Line for fireteams and Vorpal Weapon for +15% damage). Recommended MW: Stability or Handling with Backup Mag mod.
+//notes:Adamsdown_Boy first choice roll for PvE boss DPS. Focus on stability and handling to keep your reticle on target more easily and for faster stowing/drawing, appended mag and Backup Mag to get seven shots before swapping to a heavy for a bit and letting auto-loading holster do its thing, and lots of damage boosting options in the last column (Focused Fury for sustained damage on crit hits for bosses with big heads, or for easier proccing Firing Line for fireteams and Vorpal Weapon for +15% damage). Recommended MW: Stability or Handling with Backup Mag mod.
 dimwishlist:item=2233545123&perks=1392496348,1087426260,3300816228,2896038713
 dimwishlist:item=2233545123&perks=3661387068,1087426260,3300816228,2896038713
 dimwishlist:item=2233545123&perks=1482024992,1087426260,3300816228,2896038713
@@ -4483,14 +4483,14 @@ dimwishlist:item=2233545123&perks=4090651448,1087426260,3300816228,1546637391
 
 // Typhon GL5 (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator), Spike Grenades, Impulse Amplifier, Explosive Light
-//notes:Adamsdown_Boy first choice PvE roll for boss/major DPS. Maximise velocity and then damage using Spike Grenades and Explosive Right . Recommended MW: Velocity or Reload Speed with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE boss/major DPS. Maximise velocity and then damage using Spike Grenades and Explosive Right . Recommended MW: Velocity or Reload Speed with a damage-boosting mod.
 dimwishlist:item=3568377122&perks=981914802,3301904089,951095735,3194351027
 dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,3194351027
 dimwishlist:item=3568377122&perks=1441682018,3301904089,951095735,3194351027
 
 // Typhon GL5 (PvE first choice roll)
 // (Volatile Launch, Confined Launch, Linear Compensator), (High-Explosive Ordnance, Alloy Casing), Demolitionist, (One For All, Frenzy, Adrenaline Junkie)
-//notes:Adamsdown_Boy first choice PvE roll for add clear, although Chain Reaction isn't available. Maximise blast radius, reload speed or magazine size, and damage-boosting perks to help with majors. Recommended MW: Blast Radius with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE add clear, although Chain Reaction isn't available. Maximise blast radius, reload speed or magazine size, and damage-boosting perks to help with majors. Recommended MW: Blast Radius with a damage-boosting mod.
 dimwishlist:item=3568377122&perks=1478423395,1380253176,3523296417,4049631843
 dimwishlist:item=3568377122&perks=1844523823,1380253176,3523296417,4049631843
 dimwishlist:item=3568377122&perks=1441682018,1380253176,3523296417,4049631843
@@ -4512,7 +4512,7 @@ dimwishlist:item=3568377122&perks=1441682018,2985827016,3523296417,11612903
 
 // Palmyra-B (PvE first choice roll)
 // (Volatile Launch, Confined Launch, Linear Compensator), (alloy Casing, High-Velocity Rounds, Black Powder), (Ambitious Assassin, Ambitious Assassin Enhanced, Impulse Amplifier, Impulse Amplifier Enhanced, Surplus, Surplus Enhanced), (Chain Reaction, Chain Reaction Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for major/boss damage. Shapeable weapon. With tracking, keep the velocity down and I don't mind blast radius to catch as many adds in the blast. Auto-Loading Holster lets you swap to a special weapon to keep damage going while reloading, and Explosive Light givens the most potential additional damage (and is good if you're running a Devour build), or Lasting Impression otherwise. Recommended MW: Blast Radius with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE major/boss damage. Shapeable weapon. With tracking, keep the velocity down and I don't mind blast radius to catch as many adds in the blast. Auto-Loading Holster lets you swap to a special weapon to keep damage going while reloading, and Explosive Light givens the most potential additional damage (and is good if you're running a Devour build), or Lasting Impression otherwise. Recommended MW: Blast Radius with a damage-boosting mod.
 dimwishlist:item=3489657138&perks=1478423395,3796465595,3300816228,3194351027
 dimwishlist:item=3489657138&perks=1844523823,3796465595,3300816228,3194351027
 dimwishlist:item=3489657138&perks=1441682018,3796465595,3300816228,3194351027
@@ -4528,7 +4528,7 @@ dimwishlist:item=3489657138&perks=1441682018,3796465595,3300816228,1167468626
 
 // Palmyra-B (PvE first choice roll)
 // (Volatile Launch, Confined Launch, Linear Compensator), Impact Casing, Auto-Loading Holster) (Explosive Light, Explosive Light Enhanced, Lasting Impression, Lasting Impression Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for zdd clear. Shapeable weapon. Maximise blast radius and reload speed and then let Chain Reaction rip. Recommended MW: Blast Radius with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE zdd clear. Shapeable weapon. Maximise blast radius and reload speed and then let Chain Reaction rip. Recommended MW: Blast Radius with a damage-boosting mod.
 dimwishlist:item=3489657138&perks=1478423395,2985827016,2010801679,2396489472
 dimwishlist:item=3489657138&perks=1844523823,2985827016,2010801679,2396489472
 dimwishlist:item=3489657138&perks=1441682018,2985827016,2010801679,2396489472
@@ -4790,7 +4790,7 @@ dimwishlist:item=1399109800&perks=852209214,3311977193,2840833776,1172413778
 
 // Come to Pass (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Genesis, Genesis Enhanced), (Adaptive Munitions, Adaptive Munitions Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for endgame activities. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Genesis and Adaptive Munitions work well together in activities with the Extra Shields modifier. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE endgame activities. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Genesis and Adaptive Munitions work well together in activities with the Extra Shields modifier. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=927567426&perks=1392496348,106909392,3096702027,1048183818
 dimwishlist:item=927567426&perks=3661387068,106909392,3096702027,1048183818
 dimwishlist:item=927567426&perks=1482024992,106909392,3096702027,1048183818
@@ -4854,7 +4854,7 @@ dimwishlist:item=927567426&perks=4090651448,1087426260,1658784563,3431277734
 
 // Come to Pass (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Shoot to Loot, Shoot to Loot Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (One For All, One For All Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for endgame use. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Shoot to Loot to pick up ammo safely and reload stowed weapons, or Perpetual Motion for stat boosts are both useful. One For All is easier to proc in spray and pray weapons in endgame content, not requiring a kill. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE endgame use. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Shoot to Loot to pick up ammo safely and reload stowed weapons, or Perpetual Motion for stat boosts are both useful. One For All is easier to proc in spray and pray weapons in endgame content, not requiring a kill. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=927567426&perks=1392496348,106909392,3700496672,4049631843
 dimwishlist:item=927567426&perks=3661387068,106909392,3700496672,4049631843
 dimwishlist:item=927567426&perks=1482024992,106909392,3700496672,4049631843
@@ -4978,7 +4978,7 @@ dimwishlist:item=927567426&perks=4090651448,1087426260,2014892510,859780267
 
 // Come to Pass (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Triple Tap, Triple Tap Enhanced), (Golden Tricorn, Golden Tricorn Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Triple Tap probably works best with Golden Tricorn on a single target for a damage boost. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Triple Tap probably works best with Golden Tricorn on a single target for a damage boost. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=927567426&perks=1392496348,106909392,3400784728,2610012052
 dimwishlist:item=927567426&perks=3661387068,106909392,3400784728,2610012052
 dimwishlist:item=927567426&perks=1482024992,106909392,3400784728,2610012052
@@ -5041,7 +5041,7 @@ dimwishlist:item=927567426&perks=1840239774,1087426260,573122728,4290541820
 dimwishlist:item=927567426&perks=4090651448,1087426260,573122728,4290541820
 
 // Come to Pass (PvE backup roll)
-//notes:Adamsdown_Boy backup PvE roll for general use. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE general use. Shapeable weapon obtained from Golmag, Warden of the Spring in Wellspring. Recommended MW: Reload Speed or Stability with a damage-boosting mod.
 dimwishlist:item=927567426&perks=1392496348,106909392,1428297954,3592538738
 dimwishlist:item=927567426&perks=3661387068,106909392,1428297954,3592538738
 dimwishlist:item=927567426&perks=1482024992,106909392,1428297954,3592538738
@@ -5165,7 +5165,7 @@ dimwishlist:item=927567426&perks=4090651448,1087426260,2014892510,169755979
 
 // Father's Sins (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Tactical Mag, (Triple Tap, Triple Tap Enhanced), (Focused Fury, Focused Fury Enhanced)
-//notes:Adamsdown_Boy backup PvE roll for boss/major DPS. Shapeable weapon obtained from Zeerik, Lightflayer in Wellspring. Stability to keep the reticle on target, and Tactical Mag gets you to maximum mag size on its own. Keep hitting crits and Triple Tap gves you 10 shots without reloading with Focused Fury adding bonus damage. Recommended MW: Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE boss/major DPS. Shapeable weapon obtained from Zeerik, Lightflayer in Wellspring. Stability to keep the reticle on target, and Tactical Mag gets you to maximum mag size on its own. Keep hitting crits and Triple Tap gves you 10 shots without reloading with Focused Fury adding bonus damage. Recommended MW: Stability with a damage-boosting mod.
 dimwishlist:item=3865728990&perks=1392496348,106909392,3400784728,2896038713
 dimwishlist:item=3865728990&perks=3661387068,106909392,3400784728,2896038713
 dimwishlist:item=3865728990&perks=1482024992,106909392,3400784728,2896038713
@@ -5189,7 +5189,7 @@ dimwishlist:item=3865728990&perks=4090651448,106909392,573122728,2402480669
 
 // Father's Sins (PvE backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Tactical Mag, (Field Prep, Field Prep Enhanced), (Focused Fury, Focused Fury Enhanced)
-//notes:Adamsdown_Boy backup PvE roll for boss/major DPS. Shapeable weapon obtained from Zeerik, Lightflayer in Wellspring. Stability to keep the reticle on target, and Tactical Mag gets you to maximum mag size on its own. Field Prep gives you more inventory and faster reloads while Focused Fury adds bonus damage with crit hits. Recommended MW: Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy backup roll for PvE boss/major DPS. Shapeable weapon obtained from Zeerik, Lightflayer in Wellspring. Stability to keep the reticle on target, and Tactical Mag gets you to maximum mag size on its own. Field Prep gives you more inventory and faster reloads while Focused Fury adds bonus damage with crit hits. Recommended MW: Stability with a damage-boosting mod.
 dimwishlist:item=3865728990&perks=1392496348,106909392,2869569095,2896038713
 dimwishlist:item=3865728990&perks=3661387068,106909392,2869569095,2896038713
 dimwishlist:item=3865728990&perks=1482024992,106909392,2869569095,2896038713
@@ -5213,7 +5213,7 @@ dimwishlist:item=3865728990&perks=4090651448,106909392,2308090567,2402480669
 
 // Father's Sins (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Tactical Mag, (Field Prep, Field Prep Enhanced, Shoot to Loot, Shoot to Loot Enhanced, Lead from Gold, Lead from Gold Enhanced), (Turnabout, Turnabout Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for general use. Shapeable weapon obtained from Zeerik, Lightflayer in Wellspring. Stability to keep the reticle on target, and Tactical Mag gets you to maximum mag size on its own. Field Prep gives you more inventory and faster reloads, Shoot to Loot for safer ammo grabbing while reloading stowed weapons, and Lead from Gold saves using a Scavenger or Finder mod. Turnabout might be a good call when Anti-Barrier Sniper mods are around, but otherwise gives you a overshield on shield break for an extra shot or two when you're out of cover. Recommended MW: Stability with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE general use. Shapeable weapon obtained from Zeerik, Lightflayer in Wellspring. Stability to keep the reticle on target, and Tactical Mag gets you to maximum mag size on its own. Field Prep gives you more inventory and faster reloads, Shoot to Loot for safer ammo grabbing while reloading stowed weapons, and Lead from Gold saves using a Scavenger or Finder mod. Turnabout might be a good call when Anti-Barrier Sniper mods are around, but otherwise gives you a overshield on shield break for an extra shot or two when you're out of cover. Recommended MW: Stability with a damage-boosting mod.
 dimwishlist:item=3865728990&perks=1392496348,106909392,2869569095,2209918983
 dimwishlist:item=3865728990&perks=3661387068,106909392,2869569095,2209918983
 dimwishlist:item=3865728990&perks=1482024992,106909392,2869569095,2209918983
@@ -5277,7 +5277,7 @@ dimwishlist:item=3865728990&perks=4090651448,106909392,3442762221,2000295559
 
 // Tarnation (PvE first choice roll)
 // (Volatile Launch, Confined Launch, Linear Compensator), High-Explosive Ordnance, (Clown Cartridge, Clown Cartridge Enhanced, Field Prep, Field Prep Enhanced), (Chain Reaction, Chain Reaction Enhanced)
-//notes:Adamsdown_Boy first choice PvE roll for add clear. Shapeable weapon obtained from Vezuul, Lightflayer in Wellspring. Maximuse the Blast Radius, then Clown Cartridge for additional shots or Field Prep for improved reserves and reload speed. Recommended MW: Blast Radius with a damage-boosting mod.
+//notes:Adamsdown_Boy first choice roll for PvE add clear. Shapeable weapon obtained from Vezuul, Lightflayer in Wellspring. Maximuse the Blast Radius, then Clown Cartridge for additional shots or Field Prep for improved reserves and reload speed. Recommended MW: Blast Radius with a damage-boosting mod.
 dimwishlist:item=2721157927&perks=1478423395,1380253176,2284787283,2396489472
 dimwishlist:item=2721157927&perks=1844523823,1380253176,2284787283,2396489472
 dimwishlist:item=2721157927&perks=1441682018,1380253176,2284787283,2396489472
@@ -5303,3 +5303,268 @@ dimwishlist:item=2721157927&perks=1478423395,1380253176,2308090567,598607952
 dimwishlist:item=2721157927&perks=1844523823,1380253176,2308090567,598607952
 dimwishlist:item=2721157927&perks=1441682018,1380253176,2308090567,598607952
 
+@title:Season 16 (Risen) Nightfall weapons
+
+// Duty Bound (PvE first choice roll)
+// Arrowhead Brake, Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), (One For All, Frenzy, Vorpal Weapon)
+//notes:Adamsdown_Boy first choice roll for PvE endgame content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Arrowhead Brake and Tactical Mag helps a lot, then maximise the magazine and add a damage boost that doesn't need a kill  Recommended MW: Stability with a damage-boosting mod.
+dimwishlist:item=435216110&perks=839105230,106909392,1428297954,4049631843
+dimwishlist:item=435216110&perks=839105230,106909392,2387244414,4049631843
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,4049631843
+dimwishlist:item=435216110&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=435216110&perks=839105230,106909392,2387244414,4104185692
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,4104185692
+dimwishlist:item=435216110&perks=839105230,106909392,1428297954,1546637391
+dimwishlist:item=435216110&perks=839105230,106909392,2387244414,1546637391
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,1546637391
+
+// Duty Bound (Adept) (PvE first choice roll)
+// Arrowhead Brake, Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), (One For All, Frenzy, Vorpal Weapon)
+//notes:Adamsdown_Boy first choice roll for PvE endgame content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Arrowhead Brake and Tactical Mag helps a lot, then maximise the magazine and add a damage boost that doesn't need a kill  Recommended MW: Stability with a damage-boosting mod.
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,4049631843
+dimwishlist:item=1135050595&perks=839105230,106909392,2387244414,4049631843
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,4049631843
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=1135050595&perks=839105230,106909392,2387244414,4104185692
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,4104185692
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,1546637391
+dimwishlist:item=1135050595&perks=839105230,106909392,2387244414,1546637391
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,1546637391
+
+// Duty Bound (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator), Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), (One For All, Frenzy, Vorpal Weapon)
+//notes:Adamsdown_Boy first choice roll for PvE endgame content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Stability barrels and Tactical Mag help a lot but you might need a Counterbalance mod to bring it under control. Then maximise the magazine and add a damage boost that doesn't need a kill  Recommended MW: Stability with a Counterbalance mod.
+dimwishlist:item=435216110&perks=1392496348,106909392,1428297954,4049631843
+dimwishlist:item=435216110&perks=3661387068,106909392,1428297954,4049631843
+dimwishlist:item=435216110&perks=1392496348,106909392,2387244414,4049631843
+dimwishlist:item=435216110&perks=3661387068,106909392,2387244414,4049631843
+dimwishlist:item=435216110&perks=1392496348,106909392,3400784728,4049631843
+dimwishlist:item=435216110&perks=3661387068,106909392,3400784728,4049631843
+dimwishlist:item=435216110&perks=1392496348,106909392,1428297954,4104185692
+dimwishlist:item=435216110&perks=3661387068,106909392,1428297954,4104185692
+dimwishlist:item=435216110&perks=1392496348,106909392,2387244414,4104185692
+dimwishlist:item=435216110&perks=3661387068,106909392,2387244414,4104185692
+dimwishlist:item=435216110&perks=1392496348,106909392,3400784728,4104185692
+dimwishlist:item=435216110&perks=3661387068,106909392,3400784728,4104185692
+dimwishlist:item=435216110&perks=1392496348,106909392,1428297954,1546637391
+dimwishlist:item=435216110&perks=3661387068,106909392,1428297954,1546637391
+dimwishlist:item=435216110&perks=1392496348,106909392,2387244414,1546637391
+dimwishlist:item=435216110&perks=3661387068,106909392,2387244414,1546637391
+dimwishlist:item=435216110&perks=1392496348,106909392,3400784728,1546637391
+dimwishlist:item=435216110&perks=3661387068,106909392,3400784728,1546637391
+
+// Duty Bound (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator), Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), (One For All, Frenzy, Vorpal Weapon)
+//notes:Adamsdown_Boy first choice roll for PvE endgame content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Stability barrels and Tactical Mag help a lot but you might need a Counterbalance mod to bring it under control. Then maximise the magazine and add a damage boost that doesn't need a kill  Recommended MW: Stability with an Adept Counterbalance mod.
+dimwishlist:item=1135050595&perks=1392496348,106909392,1428297954,4049631843
+dimwishlist:item=1135050595&perks=3661387068,106909392,1428297954,4049631843
+dimwishlist:item=1135050595&perks=1392496348,106909392,2387244414,4049631843
+dimwishlist:item=1135050595&perks=3661387068,106909392,2387244414,4049631843
+dimwishlist:item=1135050595&perks=1392496348,106909392,3400784728,4049631843
+dimwishlist:item=1135050595&perks=3661387068,106909392,3400784728,4049631843
+dimwishlist:item=1135050595&perks=1392496348,106909392,1428297954,4104185692
+dimwishlist:item=1135050595&perks=3661387068,106909392,1428297954,4104185692
+dimwishlist:item=1135050595&perks=1392496348,106909392,2387244414,4104185692
+dimwishlist:item=1135050595&perks=3661387068,106909392,2387244414,4104185692
+dimwishlist:item=1135050595&perks=1392496348,106909392,3400784728,4104185692
+dimwishlist:item=1135050595&perks=3661387068,106909392,3400784728,4104185692
+dimwishlist:item=1135050595&perks=1392496348,106909392,1428297954,1546637391
+dimwishlist:item=1135050595&perks=3661387068,106909392,1428297954,1546637391
+dimwishlist:item=1135050595&perks=1392496348,106909392,2387244414,1546637391
+dimwishlist:item=1135050595&perks=3661387068,106909392,2387244414,1546637391
+dimwishlist:item=1135050595&perks=1392496348,106909392,3400784728,1546637391
+dimwishlist:item=1135050595&perks=3661387068,106909392,3400784728,1546637391
+
+// Duty Bound (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator), Tactical Mag, Triple Tap, Fourth Time's The Charm
+//notes:Adamsdown_Boy novelty roll for PvE. I have no idea how many bullets you can fire in a row if you hit all crits. Recommended MW: Stability with a Counterbalance mod.
+dimwishlist:item=435216110&perks=1392496348,106909392,3400784728,1354429876
+dimwishlist:item=435216110&perks=3661387068,106909392,3400784728,1354429876
+
+// Duty Bound (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator), Tactical Mag, Triple Tap, Fourth Time's The Charm
+//notes:Adamsdown_Boy novelty roll for PvE. I have no idea how many bullets you can fire in a row if you hit all crits. Recommended MW: Stability with a Counterbalance mod.
+dimwishlist:item=1135050595&perks=1392496348,106909392,3400784728,1354429876
+dimwishlist:item=1135050595&perks=3661387068,106909392,3400784728,1354429876
+
+// Duty Bound (PvE first choice roll)
+// Arrowhead Brake, Tactical Mag, Triple Tap, Fourth Time's The Charm
+//notes:Adamsdown_Boy novelty roll for PvE. I have no idea how many bullets you can fire in a row if you hit all crits. Recommended MW: Stability with a damage-boosting mod.
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,1354429876
+
+// Duty Bound (Adept) (PvE first choice roll)
+// Arrowhead Brake, Tactical Mag, Triple Tap, Fourth Time's The Charm
+//notes:Adamsdown_Boy novelty roll for PvE. I have no idea how many bullets you can fire in a row if you hit all crits. Recommended MW: Stability with a damage-boosting mod.
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,1354429876
+
+// Duty Bound (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator), Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), Rampage
+//notes:Adamsdown_Boy first choice roll for PvE general content. Stability barrels and Tactical Mag helps a lot with the wonky recoil direction, but you might need a Counterbalance mod to bring it under control. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Counterbalance or Rampage Spec mod.
+dimwishlist:item=435216110&perks=1392496348,106909392,1428297954,3425386926
+dimwishlist:item=435216110&perks=3661387068,106909392,1428297954,3425386926
+dimwishlist:item=435216110&perks=1392496348,106909392,2387244414,3425386926
+dimwishlist:item=435216110&perks=3661387068,106909392,2387244414,3425386926
+dimwishlist:item=435216110&perks=1392496348,106909392,3400784728,3425386926
+dimwishlist:item=435216110&perks=3661387068,106909392,3400784728,3425386926
+
+// Duty Bound (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator), Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), Rampage
+//notes:Adamsdown_Boy first choice roll for PvE general content. Stability barrels and Tactical Mag helps a lot with the wonky recoil direction, but you might need a Counterbalance mod to bring it under control. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Counterbalance or Rampage Spec mod.
+dimwishlist:item=1135050595&perks=1392496348,106909392,1428297954,3425386926
+dimwishlist:item=1135050595&perks=3661387068,106909392,1428297954,3425386926
+dimwishlist:item=1135050595&perks=1392496348,106909392,2387244414,3425386926
+dimwishlist:item=1135050595&perks=3661387068,106909392,2387244414,3425386926
+dimwishlist:item=1135050595&perks=1392496348,106909392,3400784728,3425386926
+dimwishlist:item=1135050595&perks=3661387068,106909392,3400784728,3425386926
+
+// Duty Bound (PvE first choice roll)
+// Arrowhead Brake, Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), Rampage
+//notes:Adamsdown_Boy first choice roll for PvE general content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Arrowhead Brake and Tactical Mag helps a lot. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Rampage Spec mod.
+dimwishlist:item=435216110&perks=839105230,106909392,1428297954,3425386926
+dimwishlist:item=435216110&perks=839105230,106909392,2387244414,3425386926
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,3425386926
+
+// Duty Bound (Adept) (PvE first choice roll)
+// Arrowhead Brake, Tactical Mag, (Perpetual Motion, Zen Moment, Triple Tap), Rampage
+//notes:Adamsdown_Boy first choice roll for PvE general content. Duty Bound offers some nice combinations for endgame, once you get past the wonky recoil direction. Arrowhead Brake and Tactical Mag helps a lot. Then maximise the magazine and add a damage boost. Recommended MW: Stability with a Rampage Spec mod.
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,3425386926
+dimwishlist:item=1135050595&perks=839105230,106909392,2387244414,3425386926
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,3425386926
+
+// Silicon Neuroma (PvE first choice roll)
+//notes:Adamsdown_Boy first choice roll for PvE endgame boss/major DPS. Slow firing so you're probably better off with a Handling barrel. You can only get to five in the magazine with Extended Magazine and Backup Mag, which gives seven shots with Triple Tap. Then go for a damage perk that can proc without kills. Recommended MW: Handling or Reload Speed with a Backup Mag mod.
+dimwishlist:item=3355385170&perks=1840239774,2420895100,3400784728,2896038713
+dimwishlist:item=3355385170&perks=839105230,2420895100,3400784728,2896038713
+dimwishlist:item=3355385170&perks=4090651448,2420895100,3400784728,2896038713
+dimwishlist:item=3355385170&perks=1840239774,2420895100,3400784728,1771339417
+dimwishlist:item=3355385170&perks=839105230,2420895100,3400784728,1771339417
+dimwishlist:item=3355385170&perks=4090651448,2420895100,3400784728,1771339417
+dimwishlist:item=3355385170&perks=1840239774,2420895100,3400784728,4104185692
+dimwishlist:item=3355385170&perks=839105230,2420895100,3400784728,4104185692
+dimwishlist:item=3355385170&perks=4090651448,2420895100,3400784728,4104185692
+
+// Silicon Neuroma (Adept) (PvE first choice roll)
+//notes:Adamsdown_Boy first choice roll for PvE endgame boss/major DPS. Slow firing so you're probably better off with a Handling barrel. You can only get to five in the magazine with Extended Magazine and Backup Mag, which gives seven shots with Triple Tap. Then go for a damage perk that can proc without kills. Recommended MW: Handling or Reload Speed with a Backup Mag mod.
+dimwishlist:item=3020227688&perks=1840239774,2420895100,3400784728,2896038713
+dimwishlist:item=3020227688&perks=839105230,2420895100,3400784728,2896038713
+dimwishlist:item=3020227688&perks=4090651448,2420895100,3400784728,2896038713
+dimwishlist:item=3020227688&perks=1840239774,2420895100,3400784728,1771339417
+dimwishlist:item=3020227688&perks=839105230,2420895100,3400784728,1771339417
+dimwishlist:item=3020227688&perks=4090651448,2420895100,3400784728,1771339417
+dimwishlist:item=3020227688&perks=1840239774,2420895100,3400784728,4104185692
+dimwishlist:item=3020227688&perks=839105230,2420895100,3400784728,4104185692
+dimwishlist:item=3020227688&perks=4090651448,2420895100,3400784728,4104185692
+
+// Silicon Neuroma (PvE first choice roll)
+//notes:Adamsdown_Boy first choice roll for PvE general (single shot) use. Slow firing so you're probably better off with a Handling barrel. Appended Mag gives you an extra shot with no downsides, or increase the reload speed. Then a damage perk, or Demolitionist. Recommended MW: Handling or Reload Speed with a damage-boosting mod.
+dimwishlist:item=3355385170&perks=1840239774,1087426260,671806388,2896038713
+dimwishlist:item=3355385170&perks=839105230,1087426260,671806388,2896038713
+dimwishlist:item=3355385170&perks=4090651448,1087426260,671806388,2896038713
+dimwishlist:item=3355385170&perks=1840239774,106909392,671806388,2896038713
+dimwishlist:item=3355385170&perks=839105230,106909392,671806388,2896038713
+dimwishlist:item=3355385170&perks=4090651448,106909392,671806388,2896038713
+dimwishlist:item=3355385170&perks=1840239774,679225683,671806388,2896038713
+dimwishlist:item=3355385170&perks=839105230,679225683,671806388,2896038713
+dimwishlist:item=3355385170&perks=4090651448,679225683,671806388,2896038713
+dimwishlist:item=3355385170&perks=1840239774,1087426260,1428297954,2896038713
+dimwishlist:item=3355385170&perks=839105230,1087426260,1428297954,2896038713
+dimwishlist:item=3355385170&perks=4090651448,1087426260,1428297954,2896038713
+dimwishlist:item=3355385170&perks=1840239774,106909392,1428297954,2896038713
+dimwishlist:item=3355385170&perks=839105230,106909392,1428297954,2896038713
+dimwishlist:item=3355385170&perks=4090651448,106909392,1428297954,2896038713
+dimwishlist:item=3355385170&perks=1840239774,679225683,1428297954,2896038713
+dimwishlist:item=3355385170&perks=839105230,679225683,1428297954,2896038713
+dimwishlist:item=3355385170&perks=4090651448,679225683,1428297954,2896038713
+dimwishlist:item=3355385170&perks=1840239774,1087426260,671806388,1771339417
+dimwishlist:item=3355385170&perks=839105230,1087426260,671806388,1771339417
+dimwishlist:item=3355385170&perks=4090651448,1087426260,671806388,1771339417
+dimwishlist:item=3355385170&perks=1840239774,106909392,671806388,1771339417
+dimwishlist:item=3355385170&perks=839105230,106909392,671806388,1771339417
+dimwishlist:item=3355385170&perks=4090651448,106909392,671806388,1771339417
+dimwishlist:item=3355385170&perks=1840239774,679225683,671806388,1771339417
+dimwishlist:item=3355385170&perks=839105230,679225683,671806388,1771339417
+dimwishlist:item=3355385170&perks=4090651448,679225683,671806388,1771339417
+dimwishlist:item=3355385170&perks=1840239774,1087426260,1428297954,1771339417
+dimwishlist:item=3355385170&perks=839105230,1087426260,1428297954,1771339417
+dimwishlist:item=3355385170&perks=4090651448,1087426260,1428297954,1771339417
+dimwishlist:item=3355385170&perks=1840239774,106909392,1428297954,1771339417
+dimwishlist:item=3355385170&perks=839105230,106909392,1428297954,1771339417
+dimwishlist:item=3355385170&perks=4090651448,106909392,1428297954,1771339417
+dimwishlist:item=3355385170&perks=1840239774,679225683,1428297954,1771339417
+dimwishlist:item=3355385170&perks=839105230,679225683,1428297954,1771339417
+dimwishlist:item=3355385170&perks=4090651448,679225683,1428297954,1771339417
+dimwishlist:item=3355385170&perks=1840239774,1087426260,671806388,4104185692
+dimwishlist:item=3355385170&perks=839105230,1087426260,671806388,4104185692
+dimwishlist:item=3355385170&perks=4090651448,1087426260,671806388,4104185692
+dimwishlist:item=3355385170&perks=1840239774,106909392,671806388,4104185692
+dimwishlist:item=3355385170&perks=839105230,106909392,671806388,4104185692
+dimwishlist:item=3355385170&perks=4090651448,106909392,671806388,4104185692
+dimwishlist:item=3355385170&perks=1840239774,679225683,671806388,4104185692
+dimwishlist:item=3355385170&perks=839105230,679225683,671806388,4104185692
+dimwishlist:item=3355385170&perks=4090651448,679225683,671806388,4104185692
+dimwishlist:item=3355385170&perks=1840239774,1087426260,1428297954,4104185692
+dimwishlist:item=3355385170&perks=839105230,1087426260,1428297954,4104185692
+dimwishlist:item=3355385170&perks=4090651448,1087426260,1428297954,4104185692
+dimwishlist:item=3355385170&perks=1840239774,106909392,1428297954,4104185692
+dimwishlist:item=3355385170&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=3355385170&perks=4090651448,106909392,1428297954,4104185692
+dimwishlist:item=3355385170&perks=1840239774,679225683,1428297954,4104185692
+dimwishlist:item=3355385170&perks=839105230,679225683,1428297954,4104185692
+dimwishlist:item=3355385170&perks=4090651448,679225683,1428297954,4104185692
+
+// Silicon Neuroma (Adept) (PvE first choice roll)
+//notes:Adamsdown_Boy first choice roll for PvE general (single shot) use. Slow firing so you're probably better off with a Handling barrel. Appended Mag gives you an extra shot with no downsides, or increase the reload speed. Then a damage perk, or Demolitionist. Recommended MW: Handling or Reload Speed with a damage-boosting mod.
+dimwishlist:item=3020227688&perks=1840239774,1087426260,671806388,2896038713
+dimwishlist:item=3020227688&perks=839105230,1087426260,671806388,2896038713
+dimwishlist:item=3020227688&perks=4090651448,1087426260,671806388,2896038713
+dimwishlist:item=3020227688&perks=1840239774,106909392,671806388,2896038713
+dimwishlist:item=3020227688&perks=839105230,106909392,671806388,2896038713
+dimwishlist:item=3020227688&perks=4090651448,106909392,671806388,2896038713
+dimwishlist:item=3020227688&perks=1840239774,679225683,671806388,2896038713
+dimwishlist:item=3020227688&perks=839105230,679225683,671806388,2896038713
+dimwishlist:item=3020227688&perks=4090651448,679225683,671806388,2896038713
+dimwishlist:item=3020227688&perks=1840239774,1087426260,1428297954,2896038713
+dimwishlist:item=3020227688&perks=839105230,1087426260,1428297954,2896038713
+dimwishlist:item=3020227688&perks=4090651448,1087426260,1428297954,2896038713
+dimwishlist:item=3020227688&perks=1840239774,106909392,1428297954,2896038713
+dimwishlist:item=3020227688&perks=839105230,106909392,1428297954,2896038713
+dimwishlist:item=3020227688&perks=4090651448,106909392,1428297954,2896038713
+dimwishlist:item=3020227688&perks=1840239774,679225683,1428297954,2896038713
+dimwishlist:item=3020227688&perks=839105230,679225683,1428297954,2896038713
+dimwishlist:item=3020227688&perks=4090651448,679225683,1428297954,2896038713
+dimwishlist:item=3020227688&perks=1840239774,1087426260,671806388,1771339417
+dimwishlist:item=3020227688&perks=839105230,1087426260,671806388,1771339417
+dimwishlist:item=3020227688&perks=4090651448,1087426260,671806388,1771339417
+dimwishlist:item=3020227688&perks=1840239774,106909392,671806388,1771339417
+dimwishlist:item=3020227688&perks=839105230,106909392,671806388,1771339417
+dimwishlist:item=3020227688&perks=4090651448,106909392,671806388,1771339417
+dimwishlist:item=3020227688&perks=1840239774,679225683,671806388,1771339417
+dimwishlist:item=3020227688&perks=839105230,679225683,671806388,1771339417
+dimwishlist:item=3020227688&perks=4090651448,679225683,671806388,1771339417
+dimwishlist:item=3020227688&perks=1840239774,1087426260,1428297954,1771339417
+dimwishlist:item=3020227688&perks=839105230,1087426260,1428297954,1771339417
+dimwishlist:item=3020227688&perks=4090651448,1087426260,1428297954,1771339417
+dimwishlist:item=3020227688&perks=1840239774,106909392,1428297954,1771339417
+dimwishlist:item=3020227688&perks=839105230,106909392,1428297954,1771339417
+dimwishlist:item=3020227688&perks=4090651448,106909392,1428297954,1771339417
+dimwishlist:item=3020227688&perks=1840239774,679225683,1428297954,1771339417
+dimwishlist:item=3020227688&perks=839105230,679225683,1428297954,1771339417
+dimwishlist:item=3020227688&perks=4090651448,679225683,1428297954,1771339417
+dimwishlist:item=3020227688&perks=1840239774,1087426260,671806388,4104185692
+dimwishlist:item=3020227688&perks=839105230,1087426260,671806388,4104185692
+dimwishlist:item=3020227688&perks=4090651448,1087426260,671806388,4104185692
+dimwishlist:item=3020227688&perks=1840239774,106909392,671806388,4104185692
+dimwishlist:item=3020227688&perks=839105230,106909392,671806388,4104185692
+dimwishlist:item=3020227688&perks=4090651448,106909392,671806388,4104185692
+dimwishlist:item=3020227688&perks=1840239774,679225683,671806388,4104185692
+dimwishlist:item=3020227688&perks=839105230,679225683,671806388,4104185692
+dimwishlist:item=3020227688&perks=4090651448,679225683,671806388,4104185692
+dimwishlist:item=3020227688&perks=1840239774,1087426260,1428297954,4104185692
+dimwishlist:item=3020227688&perks=839105230,1087426260,1428297954,4104185692
+dimwishlist:item=3020227688&perks=4090651448,1087426260,1428297954,4104185692
+dimwishlist:item=3020227688&perks=1840239774,106909392,1428297954,4104185692
+dimwishlist:item=3020227688&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=3020227688&perks=4090651448,106909392,1428297954,4104185692
+dimwishlist:item=3020227688&perks=1840239774,679225683,1428297954,4104185692
+dimwishlist:item=3020227688&perks=839105230,679225683,1428297954,4104185692
+dimwishlist:item=3020227688&perks=4090651448,679225683,1428297954,4104185692
