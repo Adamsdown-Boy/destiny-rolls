@@ -2905,7 +2905,7 @@ dimwishlist:item=2097055732&perks=4090651448,3230963543,595108252,2422968039
 
 // Thoughtless (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, (Overflow, Overflow Enhanced), (Firing Line, Firing Line Enhanced, Focused Fury, Focused Fury Enhanced)
-//notes:Adamsdown_Boy first choice  roll for PvE boss/single target DPS. Shapeable weapon. Stability/recoil control helps with follow-up shots, then maximise the number of shots and add a damage perk. Recommended MW: Stability with Backup Mag mod.
+//notes:Adamsdown_Boy first choice  roll for PvE boss/single target DPS. Shapeable weapon. Stability/recoil control helps with follow-up shots, then maximise the number of shots. Appended Mag and a Backup Mag mod give you seven, and with Overload you get instant reloads of a magazine of 10 (it's kind of nuts) when you run over a green brink - Enhanced gets you to 15! Then add a damage perk of preference and go to town... Recommended MW: Stability with Backup Mag mod.
 dimwishlist:item=4067556514&perks=1392496348,1087426260,3643424744,1771339417
 dimwishlist:item=4067556514&perks=3661387068,1087426260,3643424744,1771339417
 dimwishlist:item=4067556514&perks=1482024992,1087426260,3643424744,1771339417
