@@ -1,6 +1,6 @@
 // For personal list only, not published as DMB 
 
-@title:Section for weapons with no DMB suggestions yet
+@title:Section for older weapons with no DMB suggestions yet
 
 @title:Season 15 Festival of the Lost auto rifles
 @notes:Not yet covered by DMB - PvE rolls only!
@@ -77,7 +77,7 @@ dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679,3523296417
 
 // Horror Story (PvE first choice roll)
 // (Rifle Scope SSF, Rifle Scope ST), (Flared Magwell, Tactical Mag, Appended Mag), (Subsistence, Ambitious Assassin), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3829285960&perks=679077872,106909392,1820235745,1774574192
 dimwishlist:item=3829285960&perks=679077873,106909392,1820235745,1774574192
 dimwishlist:item=3829285960&perks=679077872,3230963543,1820235745,1774574192
@@ -93,7 +93,7 @@ dimwishlist:item=3829285960&perks=679077873,1087426260,2010801679,1774574192
 
 // Scathelock (PvE first choice roll)
 // (Arrowhead Brake, Chambered Compensator), (Flared Magwell, TacticalMag), (Subsistence, Surplus), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=602618796&perks=839105230,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=3661387068,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=839105230,106909392,1820235745,1774574192
@@ -105,7 +105,7 @@ dimwishlist:item=602618796&perks=3661387068,106909392,3436462433,1774574192
 
 // Scathelock (PvE backup roll)
 // (Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Flared Magwell, Tactical Mag), (Subsistence, Surplus), Osmosis
-//notes:Adamsdown_Boy PvE backup roll for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE backup roll for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=602618796&perks=4090651448,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=1392496348,3230963543,1820235745,1774574192
 dimwishlist:item=602618796&perks=1840239774,3230963543,1820235745,1774574192
@@ -125,7 +125,7 @@ dimwishlist:item=602618796&perks=1482024992,106909392,3436462433,1774574192
 
 // The Last Breath (PvE first choice roll)
 // Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), Demolitionist, Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=3661387068,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,1774574192
@@ -141,7 +141,7 @@ dimwishlist:item=507038823&perks=1392496348,3230963543,3523296417,1774574192
 
 // The Last Breath (PvE backup roll)
 // Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Ensemble, Subsistence), Osmosis
-//notes:Adamsdown_Boy PvE backup for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE backup for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=507038823&perks=839105230,1968497646,2621346526,1774574192
 dimwishlist:item=507038823&perks=3661387068,1968497646,2621346526,1774574192
 dimwishlist:item=507038823&perks=1392496348,1968497646,2621346526,1774574192
@@ -171,7 +171,7 @@ dimwishlist:item=507038823&perks=1392496348,3230963543,1820235745,1774574192
 
 // Dire Promise (PvE first choice roll)
 // (Fastdraw HCS, SteadyHand HCS, TrueSight HCS), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), Auto-Loading Holster, Osmosis
-//notes:Adamsdown_Boy PvE first choice for soloing endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for soloing endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=2742838701&perks=1926090094,1968497646,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090095,1968497646,3300816228,1774574192
 dimwishlist:item=2742838701&perks=1926090092,1968497646,3300816228,1774574192
@@ -187,7 +187,7 @@ dimwishlist:item=2742838701&perks=1926090092,3230963543,3300816228,1774574192
 
 // Dire Promise (PvE first choice roll)
 // (Fastdraw HCS, SteadyHand HCS, TrueSight HCS), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Overflow, Triple Tap), Osmosis
-//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=2742838701&perks=1926090094,1968497646,3643424744,1774574192
 dimwishlist:item=2742838701&perks=1926090095,1968497646,3643424744,1774574192
 dimwishlist:item=2742838701&perks=1926090092,1968497646,3643424744,1774574192
@@ -215,7 +215,7 @@ dimwishlist:item=2742838701&perks=1926090092,3230963543,3400784728,1774574192
 
 // Fatebringer (PvE first choice roll)
 // (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell, Appended Mag), Osmosis, (Kill Clip, Frenzy, Adrenaline Junkie, Firefly)
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=2171478765&perks=1392496348,106909392,1774574192,1015611457
 dimwishlist:item=2171478765&perks=1840239774,106909392,1774574192,1015611457
 dimwishlist:item=2171478765&perks=1482024992,106909392,1774574192,1015611457
@@ -255,7 +255,7 @@ dimwishlist:item=2171478765&perks=1482024992,1087426260,1774574192,3824105627
 
 // Fatebringer (Timelost) (PvE first choice roll)
 // (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell, Appended Mag), Osmosis, (Kill Clip, Frenzy, Adrenaline Junkie, Firefly)
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1216319404&perks=1392496348,106909392,1774574192,1015611457
 dimwishlist:item=1216319404&perks=1840239774,106909392,1774574192,1015611457
 dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,1015611457
@@ -295,7 +295,7 @@ dimwishlist:item=1216319404&perks=1482024992,1087426260,1774574192,3824105627
 
 // Loud Lullaby (PvE first choice roll)
 // (Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Flared Magwell, Tactical Mag, Appended Mag), (Subsistence, Surplus), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3924212056&perks=1840239774,106909392,1820235745,1774574192
 dimwishlist:item=3924212056&perks=1392496348,106909392,1820235745,1774574192
 dimwishlist:item=3924212056&perks=1482024992,106909392,1820235745,1774574192
@@ -323,7 +323,7 @@ dimwishlist:item=3924212056&perks=4090651448,1087426260,3436462433,1774574192
 
 // Seventh Seraph Officer Revolver (PvE first choice roll)
 // (Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Flared Magwell, Tactical Mag, Appended Mag), (Threat Detector, Ambitious Assassin, Fourth Time's The Charm, Pulse Monitor), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,1774574192
 dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,1774574192
 dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,1774574192
@@ -375,7 +375,7 @@ dimwishlist:item=3037520408&perks=1392496348,3230963543,972757866,1774574192
 
 // Survivor's Epitaph (PvE first choice roll)
 // (Chambered Compensator, Corkscrew Rifling, Polygonal Rifling, Fluted Barrel, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Appended Mag), (Surplus, Ambitious Assassin, Feeding Frenzy, Subsistence, Rapid Hit), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=310708513&perks=3661387068,1968497646,3436462433,1774574192
 dimwishlist:item=310708513&perks=1840239774,1968497646,3436462433,1774574192
 dimwishlist:item=310708513&perks=4090651448,1968497646,3436462433,1774574192
@@ -481,7 +481,7 @@ dimwishlist:item=310708513&perks=1482024992,3230963543,247725512,1774574192
 
 // Legal Action II (PvE first choice roll)
 // (Chambered Compensator, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal Rifling), Steady Rounds, (Surplus, Feeding Frenzy), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3409645497&perks=3661387068,3177308360,3436462433,1774574192
 dimwishlist:item=3409645497&perks=1392496348,3177308360,3436462433,1774574192
 dimwishlist:item=3409645497&perks=1840239774,3177308360,3436462433,1774574192
@@ -495,7 +495,7 @@ dimwishlist:item=3409645497&perks=4090651448,3177308360,2779035018,1774574192
 
 // Legal Action II (PvE first choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag, Appended Mag), (Surplus, Feeding Frenzy), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=3409645497&perks=839105230,106909392,3436462433,1774574192
 dimwishlist:item=3409645497&perks=839105230,3230963543,3436462433,1774574192
 dimwishlist:item=3409645497&perks=839105230,1087426260,3436462433,1774574192
@@ -507,7 +507,7 @@ dimwishlist:item=3409645497&perks=839105230,1087426260,2779035018,1774574192
 
 // Servant Leader (PvE first choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), (Fourth Time's The Charm, Shoot To Loot, Surplus, Subsistence, Rapid Hit), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1107446438&perks=839105230,3230963543,1354429876,1774574192
 dimwishlist:item=1107446438&perks=839105230,106909392,1354429876,1774574192
 dimwishlist:item=1107446438&perks=839105230,3230963543,3700496672,1774574192
@@ -521,7 +521,7 @@ dimwishlist:item=1107446438&perks=839105230,106909392,247725512,1774574192
 
 // Servant Leader (PvE first choice roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), Shoot To Loot, Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1107446438&perks=839105230,3177308360,3700496672,1774574192
 dimwishlist:item=1107446438&perks=3661387068,3177308360,3700496672,1774574192
 dimwishlist:item=1107446438&perks=1392496348,3177308360,3700496672,1774574192
@@ -543,7 +543,7 @@ dimwishlist:item=1107446438&perks=4090651448,3230963543,3700496672,1774574192
 
 // Servant Leader (PvE backup roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), (Fourth Time's The Charm, Surplus, Subsistence, Rapid Hit), Osmosis
-//notes:Adamsdown_Boy PvE nackup roll for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE nackup roll for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1107446438&perks=839105230,3177308360,1354429876,1774574192
 dimwishlist:item=1107446438&perks=3661387068,3177308360,1354429876,1774574192
 dimwishlist:item=1107446438&perks=1392496348,3177308360,1354429876,1774574192
@@ -619,7 +619,7 @@ dimwishlist:item=1107446438&perks=4090651448,3230963543,247725512,1774574192
 
 // The Guiding Sight (PvE first choice roll)
 // (Cleanshot IS, Hitmark IS, Red Dot 2 MOA, Red Dot Micro), (Armor-Piercing Rounds, High-Calibre Rounds, Appended Mag, Flared Magwell), (Rapid Hit, Surplus, Ambitious Assassin), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability, Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability, Handling or Reload Speed on personal choice.
 dimwishlist:item=1641430382&perks=13792279,1968497646,247725512,1774574192
 dimwishlist:item=1641430382&perks=13792278,1968497646,247725512,1774574192
 dimwishlist:item=1641430382&perks=2405638014,1968497646,247725512,1774574192
@@ -673,7 +673,7 @@ dimwishlist:item=1641430382&perks=2405638015,3230963543,2010801679,1774574192
 
 // Blasphemer (PvE first choice roll)
 // (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake), Assault Mag, (Threat Detector, Dual Loader, Surplus, Fourth Time's The Charm), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,1774574192
 dimwishlist:item=2782847179&perks=4090651448,791862061,4071163871,1774574192
 dimwishlist:item=2782847179&perks=839105230,791862061,4071163871,1774574192
@@ -689,13 +689,13 @@ dimwishlist:item=2782847179&perks=839105230,791862061,1354429876,1774574192
 
 // One Small Step (PvE first choice roll)
 // (Barrel Shroud, Corkscrew Rifling), Tactical Mag, Auto-Loading Holster, Osmosis
-//notes:Adamsdown_Boy PvE first choice roll for soloing endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll for soloing endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1016668089&perks=1300023272,106909392,3300816228,1774574192
 dimwishlist:item=1016668089&perks=4090651448,106909392,3300816228,1774574192
 
 // One Small Step (PvE forst choice roll)
 // (Barrel Shroud, Corkscrew Rifling), Tactical Mag, (Dual Loader, Slideshot, Surplus, Feeding Frenzy), Osmosis
-//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1016668089&perks=1300023272,106909392,25606670,1774574192
 dimwishlist:item=1016668089&perks=4090651448,106909392,25606670,1774574192
 dimwishlist:item=1016668089&perks=1300023272,106909392,3161816588,1774574192
@@ -709,7 +709,7 @@ dimwishlist:item=1016668089&perks=4090651448,106909392,2779035018,1774574192
 
 // Spoiler Alert (PvE first choice roll)
 // (Shortspec SAS, Quickdit SAS, Control SAS), (Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell), (Surplus, Feeding Frenzy, Threat Detector), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability, Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability, Handling or Reload Speed on personal choice.
 dimwishlist:item=2588048270&perks=445755707,1968497646,3436462433,1774574192
 dimwishlist:item=2588048270&perks=445755706,1968497646,3436462433,1774574192
 dimwishlist:item=2588048270&perks=445755705,1968497646,3436462433,1774574192
@@ -742,7 +742,7 @@ dimwishlist:item=2588048270&perks=445755705,3230963543,4071163871,1774574192
 
 // Praedyth's Revenge (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Tactical Mag, Osmosis, (Frenzy, High-Impact Reserves, Firefly)
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=3653573172&perks=1840239774,106909392,1774574192,2213355989
 dimwishlist:item=3653573172&perks=839105230,106909392,1774574192,2213355989
 dimwishlist:item=3653573172&perks=4090651448,106909392,1774574192,2213355989
@@ -755,7 +755,7 @@ dimwishlist:item=3653573172&perks=4090651448,106909392,1774574192,3824105627
 
 // Praedyth's Revenge (Timelost) (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Tactical Mag, Osmosis, (Frenzy, High-Impact Reserves, Firefly)
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1987769101&perks=1840239774,106909392,1774574192,2213355989
 dimwishlist:item=1987769101&perks=839105230,106909392,1774574192,2213355989
 dimwishlist:item=1987769101&perks=4090651448,106909392,1774574192,2213355989
@@ -768,7 +768,7 @@ dimwishlist:item=1987769101&perks=4090651448,106909392,1774574192,3824105627
 
 // Shepherd's Watch (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (No Distractions, Outlaw), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=3743729616&perks=1840239774,1087426260,2866798147,1774574192
 dimwishlist:item=3743729616&perks=839105230,1087426260,2866798147,1774574192
 dimwishlist:item=3743729616&perks=4090651448,1087426260,2866798147,1774574192
@@ -778,20 +778,20 @@ dimwishlist:item=3743729616&perks=4090651448,1087426260,1168162263,1774574192
 
 // Succession (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Mag, Reconstruction, Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,1774574192
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,1774574192
 dimwishlist:item=2990047042&perks=4090651448,2420895100,1523832109,1774574192
 
 // Tranquility (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, Auto-Loading Holster, Osmosis
-//notes:Adamsdown_Boy PvE first choice for soloing endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for soloing endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1645386487&perks=1840239774,1087426260,3300816228,1774574192
 dimwishlist:item=1645386487&perks=839105230,1087426260,3300816228,1774574192
 
 // Tranquility (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (Surplus, No Distractions), Osmosis
-//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities. Recommended MW: Handling or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice roll for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Handling or Reload Speed on personal choice.
 dimwishlist:item=1645386487&perks=4090651448,1087426260,3300816228,1774574192
 dimwishlist:item=1645386487&perks=1840239774,1087426260,3436462433,1774574192
 dimwishlist:item=1645386487&perks=839105230,1087426260,3436462433,1774574192
@@ -804,7 +804,7 @@ dimwishlist:item=1645386487&perks=4090651448,1087426260,2866798147,1774574192
 
 // Escape Velocity (PvE first choice roll)
 // (IS 2 CLassic, IS 5 Circle, Model 6 Loop, Model 8 Red), (Tactical Mag, Flared Magwell), (Grave Robber, Threat Detector, Overflow), Osmosis
-//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities. Recommended MW: Stability or Reload Speed on personal choice.
+//notes:Adamsdown_Boy PvE first choice for endgame Match Game activities, but you only need to keep one of each weapon type. Recommended MW: Stability or Reload Speed on personal choice.
 dimwishlist:item=1786797708&perks=2209280307,106909392,3643424744,1774574192
 dimwishlist:item=1786797708&perks=2209280306,106909392,3643424744,1774574192
 dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1774574192
@@ -1449,7 +1449,7 @@ dimwishlist:item=3242168339&perks=839105230,106909392,3436462433,3038247973
 dimwishlist:item=3242168339&perks=839105230,3230963543,3436462433,3038247973
 
 
-@title:Section for additional personal PvE rolls on weapons reviewed on DMB
+@title:Section for additional personal PvE rolls on older weapons reviewed on DMB
 
 @title:Season 15 Reissued Trials of the Nine weapons from Podcast 233
 @notes:Weapons roundup as at S15 Festival of the Lost - additional personal rolls
@@ -1622,8 +1622,8 @@ dimwishlist:item=2855157553&perks=4090651448,1087426260,2869569095,2679249093
 dimwishlist:item=2855157553&perks=1300023272,679225683,2869569095,2679249093
 dimwishlist:item=2855157553&perks=4090651448,679225683,2869569095,2679249093
 
-title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
-description:Weapons roundup as at S15 Festival of the Lost - additional personal rolls
+@title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
+@description:Weapons roundup as at S15 Festival of the Lost - additional personal rolls
 
 // Gridskipper (PvE first choice roll)
 // (Extended Barrel, Hammer-forged Rifling, Smallbore, Corkscrew Rifling), (High-Calibre Rounds, Armor-Piercing Rounds), Heating up, (Thresh, Frenzy, Adrenaline Junkie)
@@ -1748,6 +1748,8 @@ dimwishlist:item=3197270240&perks=4090651448,791862061,3436462433,1546637391
 dimwishlist:item=3197270240&perks=1300023272,106909392,3436462433,1546637391
 dimwishlist:item=3197270240&perks=4090651448,106909392,3436462433,1546637391
 
+@Season 15 Crucible weapon
+
 // Sorrow's Verse (PvE first choice roll)
 // Arrowhead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), (Surplus, Fourth Time's The Charm, Feeding Frenzy, Subsistence), (Wellspring, Frenzy, One For All, Thresh, Adrenaline Junkie, Demolitionist, Harmony)
 //notes:Adamsdown_Boy PvE first choice roll for general PvE. Okay solar 600RPM auto rifle, but not really any endgame-friendly traits available. Recommended MW: Stability or Reload Speed with Backup Mag mod.
@@ -1835,6 +1837,8 @@ dimwishlist:item=2496875173&perks=839105230,3230963543,2779035018,438098033
 dimwishlist:item=2496875173&perks=839105230,3177308360,1820235745,438098033
 dimwishlist:item=2496875173&perks=839105230,106909392,1820235745,438098033
 dimwishlist:item=2496875173&perks=839105230,3230963543,1820235745,438098033
+
+@Season 15 Gambit weapon
 
 // Servant Leader (PvE backup roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), (Fourth Time's The Charm, Surplus, Subsistence, Rapid Hit), (Rampage, Thresh, Wellspring, Adrenaline Junkie, One For All, Frenzy)
@@ -2284,6 +2288,7 @@ dimwishlist:item=1030895163&perks=3661387068,689005463,1820235745,1427256713
 dimwishlist:item=1030895163&perks=1840239774,689005463,3161816588,1427256713
 dimwishlist:item=1030895163&perks=839105230,689005463,3161816588,1427256713
 dimwishlist:item=1030895163&perks=3661387068,689005463,3161816588,1427256713
+
 
 @title:Witch Queen and Season 16 (Season of the Risen) weapons
 
