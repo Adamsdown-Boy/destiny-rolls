@@ -241,7 +241,7 @@ dimwishlist:item=768621510&perks=4090651448,3868766766,2014892510,1523649716
 
 // Deliverance (PvP first choice roll)
 // Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
 dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,2978966579
 dimwishlist:item=768621510&perks=1482024992,3868766766,2014892510,2978966579
 dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,344235611
@@ -249,7 +249,7 @@ dimwishlist:item=768621510&perks=1482024992,3868766766,2014892510,344235611
 
 // Deliverance (PvP first choice roll)
 // Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
 dimwishlist:item=768621510&perks=1392496348,2969185026,1428297954,2978966579
 dimwishlist:item=768621510&perks=1392496348,2969185026,2014892510,2978966579
 dimwishlist:item=768621510&perks=1392496348,2969185026,1428297954,344235611
@@ -257,7 +257,7 @@ dimwishlist:item=768621510&perks=1392496348,2969185026,2014892510,344235611
 
 // Deliverance (PvP first choice roll)
 // Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
 dimwishlist:item=768621510&perks=4090651448,3868766766,1428297954,2978966579
 dimwishlist:item=768621510&perks=4090651448,3868766766,2014892510,2978966579
 dimwishlist:item=768621510&perks=4090651448,3868766766,1428297954,344235611
@@ -361,7 +361,7 @@ dimwishlist:item=768621510&perks=4090651448,3868766766,1008128453,617966211
 
 // Deliverance (PvP first choice roll)
 // Smallbore, Particle Repeater, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect, and Cornered helps with follow-up kills for anyone caught in the slowing field. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
 dimwishlist:item=768621510&perks=1482024992,3868766766,1799762209,2978966579
 dimwishlist:item=768621510&perks=1482024992,3868766766,1008128453,2978966579
 dimwishlist:item=768621510&perks=1482024992,3868766766,1799762209,344235611
@@ -369,7 +369,7 @@ dimwishlist:item=768621510&perks=1482024992,3868766766,1008128453,344235611
 
 // Deliverance (PvP first choice roll)
 // Polygonal Rifling, Projection Fuse, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect, and Cornered helps with follow-up kills for anyone caught in the slowing field. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
 dimwishlist:item=768621510&perks=1392496348,2969185026,1799762209,2978966579
 dimwishlist:item=768621510&perks=1392496348,2969185026,1008128453,2978966579
 dimwishlist:item=768621510&perks=1392496348,2969185026,1799762209,344235611
@@ -377,9 +377,280 @@ dimwishlist:item=768621510&perks=1392496348,2969185026,1008128453,344235611
 
 // Deliverance (PvP first choice roll)
 // Corkscrew Rifling, Particle Repeater, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect, and Cornered helps with follow-up kills for anyone caught in the slowing field. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
 dimwishlist:item=768621510&perks=4090651448,3868766766,1799762209,2978966579
 dimwishlist:item=768621510&perks=4090651448,3868766766,1008128453,2978966579
 dimwishlist:item=768621510&perks=4090651448,3868766766,1799762209,344235611
 dimwishlist:item=768621510&perks=4090651448,3868766766,1008128453,344235611
 
+// Deliverance (Adept) (PvP first choice roll)
+// Hammer-Forged Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Going all in to range to get an extra metre to the damage falloff, and using the boosts from Perpetual Motion and Tap the Trigger get you to 77 stability in use. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=3250034553,2969185026,1428297954,1890422124
+dimwishlist:item=2886339027&perks=3250034553,2969185026,2014892510,1890422124
+dimwishlist:item=2886339027&perks=3250034553,2969185026,1428297954,1523649716
+dimwishlist:item=2886339027&perks=3250034553,2969185026,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,1890422124
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,1890422124
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,1523649716
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,1890422124
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,1890422124
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,1523649716
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,1890422124
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,1890422124
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,1523649716
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,344235611
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,344235611
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,344235611
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Successful Warm-up enables fast follow-up kills once procced. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,617966211
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Successful Warm-up enables fast follow-up kills once procced. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,617966211
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Successful Warm-up enables fast follow-up kills once procced. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,617966211
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Heating Up, Heating Up Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Heating Up and Successful Warm-up enable fast follow-up kills once procced. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1570042021,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2748258257,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1570042021,617966211
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2748258257,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Heating Up, Heating Up Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Heating Up and Successful Warm-up enable fast follow-up kills once procced.  Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1570042021,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2748258257,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1570042021,617966211
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2748258257,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Heating Up, Heating Up Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Heating Up and Successful Warm-up enable fast follow-up kills once procced.  Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1570042021,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2748258257,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1570042021,617966211
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2748258257,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Sleight of Hand and Harmony are an ideal pairing for chaining kills, after a kill with another weapon. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2172504645,438098033
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1172098417,438098033
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2172504645,2748801589
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1172098417,2748801589
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Sleight of Hand and Harmony are an ideal pairing for chaining kills, after a kill with another weapon. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2172504645,438098033
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1172098417,438098033
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2172504645,2748801589
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1172098417,2748801589
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Sleight of Hand and Harmony are an ideal pairing for chaining kills, after a kill with another weapon. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2172504645,438098033
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1172098417,438098033
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2172504645,2748801589
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1172098417,2748801589
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Cornered, Cornered Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Cornered gives you Backup Plan-lite when near enemies, and Successful Warm-Up makes follow-up kills easier. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,617966211
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Cornered, Cornered Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Cornered gives you Backup Plan-lite when near enemies, and Successful Warm-Up makes follow-up kills easier. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,617966211
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Cornered, Cornered Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Cornered gives you Backup Plan-lite when near enemies, and Successful Warm-Up makes follow-up kills easier. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,617966211
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,344235611
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,344235611
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,344235611
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,344235611
+
+// Forbearance (PvP first choice roll)
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
+
+// Forbearance (PvP backup roll)
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP backup roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
+dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,598607952
+dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,598607952
+
+// Forbearance (Adept) (PvP first choice roll)
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,598607952
+
+// Forbearance (Adept) (PvP backup roll)
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP backup roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
+dimwishlist:item=4038592169&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3797647183,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,2010801679,598607952
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3797647183,598607952
+
+// Lubrae's Ruin (PvP first choice roll)
+// Auxilliary Reserves, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Look to increase range with haft and mag traits, without hurting shield duration. Takes two bolts to kill, so you'll need to adapt to a shoot-shield-shoot cycle. Remember that melee attacks do not proc or benefit from perks that activate on kills. Recommended MW: Range with Quick Access Sling mod.
+dimwishlist:item=2534546147&perks=580685494,3142289711,1631667848,4082225868
+dimwishlist:item=2534546147&perks=580685494,3142289711,402033656,4082225868
+dimwishlist:item=2534546147&perks=580685494,3142289711,1631667848,1161469972
+dimwishlist:item=2534546147&perks=580685494,3142289711,402033656,1161469972
+dimwishlist:item=2534546147&perks=580685494,3142289711,1631667848,3708227201
+dimwishlist:item=2534546147&perks=580685494,3142289711,402033656,3708227201
+dimwishlist:item=2534546147&perks=580685494,3142289711,1631667848,781192741
+dimwishlist:item=2534546147&perks=580685494,3142289711,402033656,781192741
+dimwishlist:item=2534546147&perks=580685494,3142289711,1631667848,2224838837
+dimwishlist:item=2534546147&perks=580685494,3142289711,402033656,2224838837
+dimwishlist:item=2534546147&perks=580685494,3142289711,1631667848,3102670337
+dimwishlist:item=2534546147&perks=580685494,3142289711,402033656,3102670337
+
+// Lubrae's Ruin (PvP backup roll)
+// Supercooled Accelerator, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP backup roll. Look to increase range with haft and mag traits, without hurting shield duration. Takes two bolts to kill, so you'll need to adapt to a shoot-shield-shoot cycle. Remember that melee attacks do not proc or benefit from perks that activate on kills. Recommended MW: Range with Quick Access Sling mod.
+dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,4082225868
+dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,4082225868
+dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,1161469972
+dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,1161469972
+dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,3708227201
+dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,3708227201
+dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,781192741
+dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,781192741
+dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,2224838837
+dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,2224838837
+dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,3102670337
+dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,3102670337
+
+// Lubrae's Ruin (Adept) (PvP first choice roll)
+// Auxilliary Reserves, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Look to increase range with haft and mag traits, without hurting shield duration. Takes two bolts to kill, so you'll need to adapt to a shoot-shield-shoot cycle. Remember that melee attacks do not proc or benefit from perks that activate on kills. Recommended MW: Range with Quick Access Sling mod.
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,4082225868
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,4082225868
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,1161469972
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,1161469972
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,3708227201
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,3708227201
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,781192741
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,781192741
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,2224838837
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,2224838837
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,3102670337
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,3102670337
+
+// Lubrae's Ruin (Adept) (PvP backup roll)
+// Supercooled Accelerator, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP backup roll. Look to increase range with haft and mag traits, without hurting shield duration. Takes two bolts to kill, so you'll need to adapt to a shoot-shield-shoot cycle. Remember that melee attacks do not proc or benefit from perks that activate on kills. Recommended MW: Range with Quick Access Sling mod.
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,4082225868
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,4082225868
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,1161469972
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,1161469972
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,3708227201
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,3708227201
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,781192741
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,781192741
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,2224838837
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,2224838837
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,3102670337
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,3102670337
