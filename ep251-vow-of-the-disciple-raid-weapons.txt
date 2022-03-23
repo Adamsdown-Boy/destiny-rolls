@@ -1,0 +1,264 @@
+@title:Vow of the Disciple Raid weapons
+@description:Raid weapons from Witch Queen, Season 16 (Risen)
+
+// Insidious (PvP first choice roll)
+// Chambered Compensator, Accurized Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=3428521585&perks=3661387068,3142289711,247725512,3425386926
+dimwishlist:item=3428521585&perks=3661387068,3142289711,2938480696,3425386926
+dimwishlist:item=3428521585&perks=3661387068,3142289711,1570042021,3425386926
+dimwishlist:item=3428521585&perks=3661387068,3142289711,2748258257,3425386926
+dimwishlist:item=3428521585&perks=3661387068,3142289711,247725512,288411554
+dimwishlist:item=3428521585&perks=3661387068,3142289711,2938480696,288411554
+dimwishlist:item=3428521585&perks=3661387068,3142289711,1570042021,288411554
+dimwishlist:item=3428521585&perks=3661387068,3142289711,2748258257,288411554
+
+// Insidious (PvP first choice roll) 
+// Extended Barrel, Steady Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=3428521585&perks=1467527085,3142289711,247725512,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3177308360,247725512,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3142289711,2938480696,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3177308360,2938480696,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3142289711,1570042021,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3177308360,1570042021,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3142289711,2748258257,3425386926
+dimwishlist:item=3428521585&perks=1467527085,3177308360,2748258257,3425386926
+
+// Insidious (PvP first choice roll)
+// (Polygonal Rifling, Smallbore), Steady Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to get stability high enough so when either Rapid Hit or Heating Up kicks in, it mitigates the slightly-off recoil direction. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=3428521585&perks=1482024992,3177308360,247725512,3425386926
+dimwishlist:item=3428521585&perks=1392496348,3177308360,247725512,3425386926
+dimwishlist:item=3428521585&perks=1482024992,3177308360,2938480696,3425386926
+dimwishlist:item=3428521585&perks=1392496348,3177308360,2938480696,3425386926
+dimwishlist:item=3428521585&perks=1482024992,3177308360,1570042021,3425386926
+dimwishlist:item=3428521585&perks=1392496348,3177308360,1570042021,3425386926
+dimwishlist:item=3428521585&perks=1482024992,3177308360,2748258257,3425386926
+dimwishlist:item=3428521585&perks=1392496348,3177308360,2748258257,3425386926
+dimwishlist:item=3428521585&perks=1482024992,3177308360,247725512,288411554
+dimwishlist:item=3428521585&perks=1392496348,3177308360,247725512,288411554
+dimwishlist:item=3428521585&perks=1482024992,3177308360,2938480696,288411554
+dimwishlist:item=3428521585&perks=1392496348,3177308360,2938480696,288411554
+dimwishlist:item=3428521585&perks=1482024992,3177308360,1570042021,288411554
+dimwishlist:item=3428521585&perks=1392496348,3177308360,1570042021,288411554
+dimwishlist:item=3428521585&perks=1482024992,3177308360,2748258257,288411554
+dimwishlist:item=3428521585&perks=1392496348,3177308360,2748258257,288411554
+
+// Insidious (PvP first choice roll)
+// Chambered Compensator, Accurized Rounds, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to improve recoil direction, stability and range, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=3428521585&perks=3661387068,3142289711,3523296417,11612903
+dimwishlist:item=3428521585&perks=3661387068,3142289711,1906147653,11612903
+dimwishlist:item=3428521585&perks=3661387068,3142289711,3523296417,2422968039
+dimwishlist:item=3428521585&perks=3661387068,3142289711,1906147653,2422968039
+
+// Insidious (PvP first choice roll)
+// Extended Barrel, Steady Rounds, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to improve recoil direction, stability and range, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=3428521585&perks=1467527085,3177308360,3523296417,11612903
+dimwishlist:item=3428521585&perks=1467527085,3177308360,1906147653,11612903
+dimwishlist:item=3428521585&perks=1467527085,3177308360,3523296417,2422968039
+dimwishlist:item=3428521585&perks=1467527085,3177308360,1906147653,2422968039
+
+// Insidious (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to get stability high enough so it helps with the slightly-off recoil direction, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=3428521585&perks=1392496348,3177308360,3523296417,11612903
+dimwishlist:item=3428521585&perks=1392496348,3177308360,3523296417,11612903
+dimwishlist:item=3428521585&perks=1392496348,3177308360,1906147653,11612903
+dimwishlist:item=3428521585&perks=1392496348,3177308360,1906147653,11612903
+dimwishlist:item=3428521585&perks=1392496348,3177308360,3523296417,2422968039
+dimwishlist:item=3428521585&perks=1392496348,3177308360,3523296417,2422968039
+dimwishlist:item=3428521585&perks=1392496348,3177308360,1906147653,2422968039
+dimwishlist:item=3428521585&perks=1392496348,3177308360,1906147653,2422968039
+
+// Insidious (Adept) (PvP first choice roll)
+// Chambered Compensator, Accurized Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=3661387068,3142289711,247725512,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,2938480696,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,1570042021,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,2748258257,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,247725512,288411554
+dimwishlist:item=786352912&perks=3661387068,3142289711,2938480696,288411554
+dimwishlist:item=786352912&perks=3661387068,3142289711,1570042021,288411554
+dimwishlist:item=786352912&perks=3661387068,3142289711,2748258257,288411554
+
+// Insidious (Adept) (PvP first choice roll) 
+// Extended Barrel, Steady Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1467527085,3142289711,247725512,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,247725512,3425386926
+dimwishlist:item=786352912&perks=1467527085,3142289711,2938480696,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,2938480696,3425386926
+dimwishlist:item=786352912&perks=1467527085,3142289711,1570042021,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,1570042021,3425386926
+dimwishlist:item=786352912&perks=1467527085,3142289711,2748258257,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,2748258257,3425386926
+
+// Insidious (Adept) (PvP first choice roll)
+// (Polygonal Rifling, Smallbore), Steady Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to get stability high enough so when either Rapid Hit or Heating Up kicks in, it mitigates the slightly-off recoil direction. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1482024992,3177308360,247725512,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,247725512,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,2938480696,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,2938480696,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,1570042021,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,1570042021,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,2748258257,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,2748258257,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,247725512,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,247725512,288411554
+dimwishlist:item=786352912&perks=1482024992,3177308360,2938480696,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,2938480696,288411554
+dimwishlist:item=786352912&perks=1482024992,3177308360,1570042021,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,1570042021,288411554
+dimwishlist:item=786352912&perks=1482024992,3177308360,2748258257,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,2748258257,288411554
+
+// Insidious (Adept) (PvP first choice roll)
+// Chambered Compensator, Accurized Rounds, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to improve recoil direction, stability and range, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=3661387068,3142289711,3523296417,11612903
+dimwishlist:item=786352912&perks=3661387068,3142289711,1906147653,11612903
+dimwishlist:item=786352912&perks=3661387068,3142289711,3523296417,2422968039
+dimwishlist:item=786352912&perks=3661387068,3142289711,1906147653,2422968039
+
+// Insidious (Adept) (PvP first choice roll)
+// Extended Barrel, Steady Rounds, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to improve recoil direction, stability and range, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1467527085,3177308360,3523296417,11612903
+dimwishlist:item=786352912&perks=1467527085,3177308360,1906147653,11612903
+dimwishlist:item=786352912&perks=1467527085,3177308360,3523296417,2422968039
+dimwishlist:item=786352912&perks=1467527085,3177308360,1906147653,2422968039
+
+// Insidious (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to get stability high enough so it helps with the slightly-off recoil direction, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,2422968039
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,2422968039
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,2422968039
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,2422968039
+
+// Submission (PvP first choice roll)
+// Hammer-Forged Rifling, Steady Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=3886416794&perks=3250034553,3177308360,1428297954,4082225868
+dimwishlist:item=3886416794&perks=3250034553,3177308360,2014892510,4082225868
+dimwishlist:item=3886416794&perks=3250034553,3177308360,1428297954,1161469972
+dimwishlist:item=3886416794&perks=3250034553,3177308360,2014892510,1161469972
+
+// Submission (PvP first choice roll)
+// Polygonal Rifling, Accurized Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=3886416794&perks=1392496348,3142289711,1428297954,4082225868
+dimwishlist:item=3886416794&perks=1392496348,3142289711,2014892510,4082225868
+dimwishlist:item=3886416794&perks=1392496348,3142289711,1428297954,1161469972
+dimwishlist:item=3886416794&perks=1392496348,3142289711,2014892510,1161469972
+
+// Submission (PvP first choice roll)
+// Hammer-Forged Rifling, Steady Rounds, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=3886416794&perks=3250034553,3177308360,2172504645,438098033
+dimwishlist:item=3886416794&perks=3250034553,3177308360,1172098417,438098033
+dimwishlist:item=3886416794&perks=3250034553,3177308360,2172504645,2748801589
+dimwishlist:item=3886416794&perks=3250034553,3177308360,1172098417,2748801589
+
+// Submission (PvP first choice roll)
+// Polygonal Rifling, Accurized Rounds, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=3886416794&perks=1392496348,3142289711,2172504645,438098033
+dimwishlist:item=3886416794&perks=1392496348,3142289711,1172098417,438098033
+dimwishlist:item=3886416794&perks=1392496348,3142289711,2172504645,2748801589
+dimwishlist:item=3886416794&perks=1392496348,3142289711,1172098417,2748801589
+
+// Submission (Adept)(PvP first choice roll)
+// Hammer-Forged Rifling, Steady Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1428297954,4082225868
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2014892510,4082225868
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1428297954,1161469972
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2014892510,1161469972
+
+// Submission (Adept)(PvP first choice roll)
+// Polygonal Rifling, Accurized Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1428297954,4082225868
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2014892510,4082225868
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1428297954,1161469972
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2014892510,1161469972
+
+// Submission (Adept)(PvP first choice roll)
+// Hammer-Forged Rifling, Steady Rounds, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Sleight of Hand and Harmony work well together for a fast swap and 20% damage boots after a kill with another weapon. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2172504645,438098033
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1172098417,438098033
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2172504645,2748801589
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1172098417,2748801589
+
+// Submission (Adept)(PvP first choice roll)
+// Polygonal Rifling, Accurized Rounds, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Sleight of Hand and Harmony work well together for a fast swap and 20% damage boots after a kill with another weapon. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2172504645,438098033
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1172098417,438098033
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2172504645,2748801589
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1172098417,2748801589
+
+// Deliverance (PvP first choice roll)
+// Hammer-Forged Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Going all in to range to get an extra metre to the damage falloff, and using the boosts from Perpetual Motion and Tap the Trigger get you to 77 stability in use. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=3250034553,2969185026,1428297954,1890422124
+dimwishlist:item=768621510&perks=3250034553,2969185026,2014892510,1523649716
+dimwishlist:item=768621510&perks=3250034553,2969185026,1428297954,1890422124
+dimwishlist:item=768621510&perks=3250034553,2969185026,2014892510,1523649716
+
+// Deliverance (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,1890422124
+dimwishlist:item=768621510&perks=1482024992,3868766766,2014892510,1523649716
+dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,1890422124
+dimwishlist:item=768621510&perks=1482024992,3868766766,2014892510,1523649716
+
+// Deliverance (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=1392496348,2969185026,1428297954,1890422124
+dimwishlist:item=768621510&perks=1392496348,2969185026,2014892510,1523649716
+dimwishlist:item=768621510&perks=1392496348,2969185026,1428297954,1890422124
+dimwishlist:item=768621510&perks=1392496348,2969185026,2014892510,1523649716
+
+// Deliverance (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=4090651448,3868766766,1428297954,1890422124
+dimwishlist:item=768621510&perks=4090651448,3868766766,2014892510,1523649716
+dimwishlist:item=768621510&perks=4090651448,3868766766,1428297954,1890422124
+dimwishlist:item=768621510&perks=4090651448,3868766766,2014892510,1523649716
+
+// Deliverance (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,2978966579
+dimwishlist:item=768621510&perks=1482024992,3868766766,2014892510,344235611
+dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,2978966579
+dimwishlist:item=768621510&perks=1482024992,3868766766,2014892510,344235611
+
+// Deliverance (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=1392496348,2969185026,1428297954,2978966579
+dimwishlist:item=768621510&perks=1392496348,2969185026,2014892510,344235611
+dimwishlist:item=768621510&perks=1392496348,2969185026,1428297954,2978966579
+dimwishlist:item=768621510&perks=1392496348,2969185026,2014892510,344235611
+
+// Deliverance (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing effect. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=768621510&perks=4090651448,3868766766,1428297954,2978966579
+dimwishlist:item=768621510&perks=4090651448,3868766766,2014892510,344235611
+dimwishlist:item=768621510&perks=4090651448,3868766766,1428297954,2978966579
+dimwishlist:item=768621510&perks=4090651448,3868766766,2014892510,344235611
