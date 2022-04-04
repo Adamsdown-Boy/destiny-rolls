@@ -36,13 +36,6 @@ dimwishlist:item=2607304614&perks=2014892510,2675361166
 dimwishlist:item=2607304614&perks=2946784966,2675361166
 dimwishlist:item=2607304614&perks=987673306,2675361166
 
-// The Enigma - shapeable
-dimwishlist:item=2595497736
-
-// Red Herring Rocket Launcher - shapeable
-dimwishlist:item=3175851496
-
-
 @title:Triumph Weapon
 @description:From completing the Chief Investigator Triumph and then world drops
 
@@ -60,7 +53,6 @@ dimwishlist:item=1526296434&perks=2420895100,1631667848,124408337
 dimwishlist:item=1526296434&perks=2420895100,402033656,124408337
 dimwishlist:item=1526296434&perks=2420895100,1631667848,1171887445
 dimwishlist:item=1526296434&perks=2420895100,402033656,1171887445
-
 
 The Wellspring - Witch Queen DLC six-man activity - weapons
 
@@ -155,22 +147,3 @@ dimwishlist:item=927567426&perks=3661387068,3230963543,4290541820
 dimwishlist:item=927567426&perks=1482024992,3230963543,4290541820
 dimwishlist:item=927567426&perks=1840239774,3230963543,4290541820
 dimwishlist:item=927567426&perks=4090651448,3230963543,4290541820
-
-
-// Father's Sins - shapeable 
-//notes:Zeerik, Lightflayer
-dimwishlist:item=3866185975
-
-// Tarnation - shapeable
-//notes:Vezuul, Lightflayer
-dimwishlist:item=3311856850
-
-
-@title:Throne World Weapons
-@description:Dropping from Savathun's Throne World engrams
-
-// Likely Suspect - shapeable
-imwishlist:item=2956183123
-
-// Pointed Inquiry - shapeable
-dimwishlist:item=4117085525
