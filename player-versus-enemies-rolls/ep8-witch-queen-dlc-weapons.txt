@@ -54,7 +54,7 @@ dimwishlist:item=1526296434&perks=2420895100,402033656,124408337
 dimwishlist:item=1526296434&perks=2420895100,1631667848,1171887445
 dimwishlist:item=1526296434&perks=2420895100,402033656,1171887445
 
-The Wellspring - Witch Queen DLC six-man activity - weapons
+@title:The Wellspring - Witch Queen DLC six-man activity - weapons
 
 // Fel Taradiddle (PvE first choice roll)
 // Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit (Enhanced)), (Explosive Head, Explosive Head (Enhanced))
