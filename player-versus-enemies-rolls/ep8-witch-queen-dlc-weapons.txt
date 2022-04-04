@@ -1,16 +1,16 @@
 @title:Witch Queen DLC weapons
 
 // Empirical Evidence (PvE first choice roll)
-// Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion (Enhanced)), (Swashbuckler, Swashbuckler (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing or High-Calibre Rounds) preferences. Perpetual Motion passively improves gun feel. You're likely to be in CQC, so Swashbuckler is the obvious damage boost perk. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+// Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing or High-Calibre Rounds) preferences. Perpetual Motion passively improves gun feel. You're likely to be in CQC, so Swashbuckler is the obvious damage boost perk. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=2607304614&perks=1428297954,4082225868
 dimwishlist:item=2607304614&perks=2014892510,4082225868
 dimwishlist:item=2607304614&perks=1428297954,1161469972
 dimwishlist:item=2607304614&perks=2014892510,1161469972
 
 // Empirical Evidence (PvE backup roll)
-// Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion (Enhanced), Tunnel Vision, Tunnel Vision (enhanced)), (Adagio, Adagio (Enhanced), Thresh, Thresh (Enhanced), Wellspring, Wellspring (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE backup roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing/High-Calibre Rounds) preferences. Perpetual Motion and Tunnel Vision improve gun feel. Adagio is effectively a 10% chainable damage buff, Thresh and Wellspring give faster super/ability charging. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+// Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion Enhanced, Tunnel Vision, Tunnel Vision (enhanced)), (Adagio, Adagio Enhanced, Thresh, Thresh Enhanced, Wellspring, Wellspring Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing/High-Calibre Rounds) preferences. Perpetual Motion and Tunnel Vision improve gun feel. Adagio is effectively a 10% chainable damage buff, Thresh and Wellspring give faster super/ability charging. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=2607304614&perks=1428297954,3673922083
 dimwishlist:item=2607304614&perks=2014892510,3673922083
 dimwishlist:item=2607304614&perks=2946784966,3673922083
@@ -36,53 +36,106 @@ dimwishlist:item=2607304614&perks=2014892510,2675361166
 dimwishlist:item=2607304614&perks=2946784966,2675361166
 dimwishlist:item=2607304614&perks=987673306,2675361166
 
+// The Enigma (PvE first choice roll)
+// Any haft, Any Mag, (Impulse Amplifier, Impulse Amplifier Enhanced), (Frenzy, Frenzy Enhanced, Unrelenting, Unrelenting Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end game content. Hafts and mags are dependent on use - shield and charge time are useful if you use the shield function, or for mid-range projectile use tend towards range. Impulse Amplifier improves both projectile and reload speed, while Frenzy provides a decent damage buff or Unrelenting gives health to keep you in a fight longer. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2595497736&perks=951095735,4104185692
+dimwishlist:item=2595497736&perks=3878366039,4104185692
+dimwishlist:item=2595497736&perks=951095735,3007133316
+dimwishlist:item=2595497736&perks=3878366039,3007133316
+dimwishlist:item=2595497736&perks=951095735,3108830275
+dimwishlist:item=2595497736&perks=3878366039,3108830275
+dimwishlist:item=2595497736&perks=951095735,855168139
+dimwishlist:item=2595497736&perks=3878366039,855168139
+
+// The Enigma (PvE first choice roll)
+// Any haft, Any Mag, (Threat Detector, Threat Detector Enhanced, Grave Robber, Grave Robbert Enhanced), (Frenzy, Frenzy Enhanced, Unrelenting, Unrelenting Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end game content. Hafts and mags are dependent on use - shield and charge time are useful if you use the shield function, or handling/reload speed to help with CQC use. Threat Detector or Grave Robber help with handling and reload in close quarters, while Frenzy provides a decent damage buff or Unrelenting gives health to keep you in a fight longer. Recommended MW: Reload Speed or Handling, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2595497736&perks=4071163871,4104185692
+dimwishlist:item=2595497736&perks=494941759,4104185692
+dimwishlist:item=2595497736&perks=1631667848,4104185692
+dimwishlist:item=2595497736&perks=402033656,4104185692
+dimwishlist:item=2595497736&perks=4071163871,3007133316
+dimwishlist:item=2595497736&perks=494941759,3007133316
+dimwishlist:item=2595497736&perks=1631667848,3007133316
+dimwishlist:item=2595497736&perks=402033656,3007133316
+dimwishlist:item=2595497736&perks=4071163871,3108830275
+dimwishlist:item=2595497736&perks=494941759,3108830275
+dimwishlist:item=2595497736&perks=1631667848,3108830275
+dimwishlist:item=2595497736&perks=402033656,3108830275
+dimwishlist:item=2595497736&perks=4071163871,855168139
+dimwishlist:item=2595497736&perks=494941759,855168139
+dimwishlist:item=2595497736&perks=1631667848,855168139
+dimwishlist:item=2595497736&perks=402033656,855168139
+
+// The Enigma (PvE backup roll)
+// Any haft, Any Mag, (Impulse Amplifier, Impulse Amplifier Enhanced), (Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end game content. Hafts and mags are dependent on use - shield and charge time are useful if you use the shield function, or for mid-range projectile use tend towards range. Impulse Amplifier improves both projectile and reload speed, while Unstoppable Force boosts damage output. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2595497736&perks=951095735,2224838837
+dimwishlist:item=2595497736&perks=3878366039,2224838837
+dimwishlist:item=2595497736&perks=951095735,3102670337
+dimwishlist:item=2595497736&perks=3878366039,3102670337
+
+// The Enigma (PvE backup roll)
+// Any haft, Any Mag, (Subsistence, Subsistence Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Hafts and mags are dependent on use - shield and charge time are useful if you use the shield function, or handling or reload speed for closeish projectile use. Subsistence and Rampage paid well together for add and non-boss Major clearing. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2595497736&perks=1820235745,3425386926
+dimwishlist:item=2595497736&perks=4245865861,3425386926
+dimwishlist:item=2595497736&perks=1820235745,288411554
+dimwishlist:item=2595497736&perks=4245865861,288411554
+
+// Red Herring Rocket Launcher - shapeable
+dimwishlist:item=3175851496
+
+
 @title:Triumph Weapon
 @description:From completing the Chief Investigator Triumph and then world drops
 
 // Forensic Nightmare (PvE first choice roll)
-// Any barrel, Extended Mag, (Grave Robber, Grave Robber (Enhanced)), (Headstone, Headstone (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll for general PvE content. Suffers from a low magazine size to be able to both proc Headstone and shatter the shard for a stasis "firefly" - Whisper of Rending helps. Barrel perk depends on your preference for range/stability/handling, with Extended Mag and Grave Robber to help offset the reload speed penalty. Recommended MW: Reload Speed, with a Backup Mag mod.
+// Any barrel, Extended Mag, (Grave Robber, Grave Robber Enhanced), (Headstone, Headstone Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general PvE content. Suffers from a low magazine size to be able to both proc Headstone and shatter the shard for a stasis "firefly" - Whisper of Rending helps. Barrel perk depends on your preference for range/stability/handling, with Extended Mag and Grave Robber to help offset the reload speed penalty. Recommended MW: Reload Speed, with a Backup Mag mod.
 dimwishlist:item=1526296434&perks=2420895100,1631667848,124408337
 dimwishlist:item=1526296434&perks=2420895100,402033656,124408337
 dimwishlist:item=1526296434&perks=2420895100,1631667848,1171887445
 dimwishlist:item=1526296434&perks=2420895100,402033656,1171887445
 
 // Forensic Nightmare (PvE backup roll)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE backup roll for general PvE content. Barrel perk depends on your preference for range/stability/handling, with Extended Mag to bump up a poor magazine size. Grave Robber helps offset the reload speed penalty and Swashbuckler is a reliable damage perk for CQC use. Recommended MW: Reload Speed, with a Backup Mag mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general PvE content. Barrel perk depends on your preference for range/stability/handling, with Extended Mag to bump up a poor magazine size. Grave Robber helps offset the reload speed penalty and Swashbuckler is a reliable damage perk for CQC use. Recommended MW: Reload Speed, with a Backup Mag mod.
 dimwishlist:item=1526296434&perks=2420895100,1631667848,124408337
 dimwishlist:item=1526296434&perks=2420895100,402033656,124408337
 dimwishlist:item=1526296434&perks=2420895100,1631667848,1171887445
 dimwishlist:item=1526296434&perks=2420895100,402033656,1171887445
 
+
 @title:The Wellspring - Witch Queen DLC six-man activity - weapons
 
 // Fel Taradiddle (PvE first choice roll)
-// Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit (Enhanced)), (Explosive Head, Explosive Head (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll for end-game content. Lightweight frame, so an alternative if you haven't dropped an Accrued Redemption or Biting Winds that you like. Bowstring and Arrow depend on your choice balancing Accuracy and Draw Speed. Then it's the tried and trusted combination of Archer's Tempo and Explosive Head - good anyway, but very useful when an anti-barrier bow mod is around. Recommended MW: your choice to round out bowstring and arrow perks, with a damage-boosting (Minor, Major or Taken Spec) mod.
+// Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit Enhanced), (Explosive Head, Explosive Head Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. Lightweight frame, so an alternative if you haven't dropped an Accrued Redemption or Biting Winds that you like. Bowstring and Arrow depend on your choice balancing Accuracy and Draw Speed. Then it's the tried and trusted combination of Archer's Tempo and Explosive Head - good anyway, but very useful when an anti-barrier bow mod is around. Recommended MW: your choice to round out bowstring and arrow perks, with a damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=1810346708&perks=247725512,3365897133
 dimwishlist:item=1810346708&perks=2938480696,3365897133
 dimwishlist:item=1810346708&perks=247725512,1551736345
 dimwishlist:item=1810346708&perks=2938480696,1551736345
 
 // Fel Taradiddle (PvE first choice roll)
-// Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit (Enhanced)), (Adrenaline Junkie, Adrenaline Junkie (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll for general content. Lightweight frame, so an alternative if you haven't dropped an Accrued Redemption or Biting Winds that you like. Bowstring and Arrow depend on your choice balancing Accuracy and Draw Speed. Then Archer's Tempo is the best perk in the first trait column and Adrenaline Junkie is useful with the strength of void grenades in Void 3.0. Recommended MW: your choice to round out bowstring and arrow perks, with a damage-boosting (Minor, Major or Taken Spec) mod.
+// Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Lightweight frame, so an alternative if you haven't dropped an Accrued Redemption or Biting Winds that you like. Bowstring and Arrow depend on your choice balancing Accuracy and Draw Speed. Then Archer's Tempo is the best perk in the first trait column and Adrenaline Junkie is useful with the strength of void grenades in Void 3.0. Recommended MW: your choice to round out bowstring and arrow perks, with a damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=1810346708&perks=247725512,11612903
 dimwishlist:item=1810346708&perks=2938480696,11612903
 dimwishlist:item=1810346708&perks=247725512,2422968039
 dimwishlist:item=1810346708&perks=2938480696,2422968039
 
 // Fel Taradiddle (PvE first choice roll)
-// Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit (Enhanced)), (Successful Warm-Up, Successful Warm-Up (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll to try and recreate the Hush pinnicle weapon. Lightweight frame, so has the faster draw time. Bowstring and Arrow depend on your choice balancing Draw Speed and Accuracy. Then Archer's Tempo is the best perk in the first trait column and Successful Warm-Up can turn this bow into a mini-Hush after one add kill. Recommended MW: Draw Time, with a damage-boosting (Minor, Major or Taken Spec) mod.
+// Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll to try and recreate the Hush pinnicle weapon. Lightweight frame, so has the faster draw time. Bowstring and Arrow depend on your choice balancing Draw Speed and Accuracy. Then Archer's Tempo is the best perk in the first trait column and Successful Warm-Up can turn this bow into a mini-Hush after one add kill. Recommended MW: Draw Time, with a damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=1810346708&perks=247725512,11612903
 dimwishlist:item=1810346708&perks=2938480696,11612903
 dimwishlist:item=1810346708&perks=247725512,2422968039
 dimwishlist:item=1810346708&perks=2938480696,2422968039
 
 // Come to Pass (PvE first choice roll)
-// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Stats For All, Stats For All (Enhanced)), (One For All, One For All (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll for general PvE content, although it's not a strng subtype - there are better arc auto rifles available as at S16. The gun feel is helped with some extra stability - up to you how much you feel you need. Stats for All and One for All were made to work together. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Stats For All, Stats For All Enhanced), (One For All, One For All Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general PvE content, although it's not a strong subtype - there are better arc auto rifles available as at S16. The gun feel is helped with some extra stability - up to you how much you feel you need. Stats for All and One for All were made to work together. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=927567426&perks=1392496348,106909392,1583705720,4049631843
 dimwishlist:item=927567426&perks=3661387068,106909392,1583705720,4049631843
 dimwishlist:item=927567426&perks=1482024992,106909392,1583705720,4049631843
@@ -125,8 +178,8 @@ dimwishlist:item=927567426&perks=1840239774,3230963543,1409206216,859780267
 dimwishlist:item=927567426&perks=4090651448,3230963543,1409206216,859780267
 
 // Come to Pass (PvE first choice roll)
-// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Any Trait 1, (Golden Tricorn, Golden Tricorn (Enhanced))
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapable through the Mars Relic. PvE first choice roll for general PvE content, although it's not a strng subtype this is the only arc auto rifle that can roll with Golden Tricorn, so might be worth tucking away for Arc 3.0. The gun feel is helped with some extra stability - up to you how much you feel you need. Pretty much any first column trait will pair with Golden Tricorn. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Any Trait 1, (Golden Tricorn, Golden Tricorn Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general PvE content, although it's not a strong subtype this is the only arc auto rifle that can roll with Golden Tricorn, so might be worth tucking away for Arc 3.0. The gun feel is helped with some extra stability - up to you how much you feel you need. Pretty much any first column trait will pair with Golden Tricorn. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=927567426&perks=1392496348,106909392,2610012052
 dimwishlist:item=927567426&perks=3661387068,106909392,2610012052
 dimwishlist:item=927567426&perks=1482024992,106909392,2610012052
@@ -147,3 +200,111 @@ dimwishlist:item=927567426&perks=3661387068,3230963543,4290541820
 dimwishlist:item=927567426&perks=1482024992,3230963543,4290541820
 dimwishlist:item=927567426&perks=1840239774,3230963543,4290541820
 dimwishlist:item=927567426&perks=4090651448,3230963543,4290541820
+
+// Father's Sins (PvE first choice roll)
+// Tactical Mag, (Triple Tap, Triple Tap Enhanced), (Focused Fury, Focus Fury Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for sustained Boss DPS, particularly with Void 3.8 volatile rounds. Tactical Mag gets you to the magic seven in the mag, giving you ten shots without reloading and extending the damage boost from Focused Fury. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3865728990&perks=106909392,3400784728,2896038713
+dimwishlist:item=3865728990&perks=106909392,573122728,2896038713
+dimwishlist:item=3865728990&perks=106909392,3400784728,2402480669
+dimwishlist:item=3865728990&perks=106909392,573122728,2402480669
+
+// Father's Sins (PvE first choice roll)
+// Tactical Mag, (Lead from Gold, Lead from Gold Enhanced, Field Prep, Field Prep Enhanced) (Rampage, Rampage Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for add clear for bounties, particularly with Void 3.8 volatile rounds. Tactical Mag gets you to the maximum seven in the mag. Shoot to Loot and Field Prep both help with ammo economy and rampage might help with the occasional body shot to a beefier enemy. Recommended MW: Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3865728990&perks=106909392,1556840489,3425386926
+dimwishlist:item=3865728990&perks=106909392,3442762221,3425386926
+dimwishlist:item=3865728990&perks=106909392,2869569095,3425386926
+dimwishlist:item=3865728990&perks=106909392,2308090567,3425386926
+dimwishlist:item=3865728990&perks=106909392,1556840489,288411554
+dimwishlist:item=3865728990&perks=106909392,3442762221,288411554
+dimwishlist:item=3865728990&perks=106909392,2869569095,288411554
+dimwishlist:item=3865728990&perks=106909392,2308090567,288411554
+
+// Tarnation - shapeable
+//notes:Vezuul, Lightflayer
+dimwishlist:item=3311856850
+
+
+@title:Throne World Weapons
+@description:Dropping from Savathun's Throne World engrams
+
+// Likely Suspect (PvE first choice roll)
+// Any barrel, Enhanced Battery, (Stats for All, Stats for All Enhanced), (One for All, One for All Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference for handling or range (keep stability down to be able to spray to trigger the two traits). Enhanced Battery gets you to the maximum eight in he mag. Stats for All and One for All pair well to improve gun performance and damage output. Recommended MW: Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1994645182&perks=2680121939,1583705720,4049631843
+dimwishlist:item=1994645182&perks=2680121939,1409206216,4049631843
+dimwishlist:item=1994645182&perks=2680121939,1583705720,859780267
+dimwishlist:item=1994645182&perks=2680121939,1409206216,859780267
+
+// Likely Suspect (PvE first choice roll)
+// Any barrel, Enhanced Battery, (Perpetual Motion, Perpetual Motion Enhanced, Ensemble, Ensemble Enhanced, Firmly Planted, Firmly Planted Enhanced), (Golden Tricorn, Golden Tricorn Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for sustained boss DPS. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference - stability is useful to keep bolt spread tight. Enhanced Battery gets you to the maximum eight in he mag. Perpetual Motion, Ensemble or Firmly Planted improve the gun feel, while Golden Tricorn can provide a 50% damage boost for 10 seconds - enough for most damage phases. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1994645182&perks=2680121939,1428297954,2610012052
+dimwishlist:item=1994645182&perks=2680121939,2014892510,2610012052
+dimwishlist:item=1994645182&perks=2680121939,2621346526,2610012052
+dimwishlist:item=1994645182&perks=2680121939,2495011826,2610012052
+dimwishlist:item=1994645182&perks=2680121939,280464955,2610012052
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2610012052
+dimwishlist:item=1994645182&perks=2680121939,1428297954,4290541820
+dimwishlist:item=1994645182&perks=2680121939,2014892510,4290541820
+dimwishlist:item=1994645182&perks=2680121939,2621346526,4290541820
+dimwishlist:item=1994645182&perks=2680121939,2495011826,4290541820
+dimwishlist:item=1994645182&perks=2680121939,280464955,4290541820
+dimwishlist:item=1994645182&perks=2680121939,3920370755,4290541820
+
+// Likely Suspect (PvE backup roll)
+// Any barrel, Enhanced Battery, (Perpetual Motion, Perpetual Motion Enhanced, Ensemble, Ensemble Enhanced, Firmly Planted, Firmly Planted Enhanced), (Adagio, Adagio Enhanced, Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference for stability, handling or range. Enhanced Battery gets you to the maximum eight in he mag. Perpetual Motion, Ensemble or Firmly Planted improve the gun feel, while Adagio and Successful Warm-Up provide chainable damage buffs on kills. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1994645182&perks=2680121939,1428297954,3673922083
+dimwishlist:item=1994645182&perks=2680121939,2014892510,3673922083
+dimwishlist:item=1994645182&perks=2680121939,2621346526,3673922083
+dimwishlist:item=1994645182&perks=2680121939,2495011826,3673922083
+dimwishlist:item=1994645182&perks=2680121939,280464955,3673922083
+dimwishlist:item=1994645182&perks=2680121939,3920370755,3673922083
+dimwishlist:item=1994645182&perks=2680121939,1428297954,2889515627
+dimwishlist:item=1994645182&perks=2680121939,2014892510,2889515627
+dimwishlist:item=1994645182&perks=2680121939,2621346526,2889515627
+dimwishlist:item=1994645182&perks=2680121939,2495011826,2889515627
+dimwishlist:item=1994645182&perks=2680121939,280464955,2889515627
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2889515627
+dimwishlist:item=1994645182&perks=2680121939,1428297954,2652708987
+dimwishlist:item=1994645182&perks=2680121939,2014892510,2652708987
+dimwishlist:item=1994645182&perks=2680121939,2621346526,2652708987
+dimwishlist:item=1994645182&perks=2680121939,2495011826,2652708987
+dimwishlist:item=1994645182&perks=2680121939,280464955,2652708987
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2652708987
+dimwishlist:item=1994645182&perks=2680121939,1428297954,617966211
+dimwishlist:item=1994645182&perks=2680121939,2014892510,617966211
+dimwishlist:item=1994645182&perks=2680121939,2621346526,617966211
+dimwishlist:item=1994645182&perks=2680121939,2495011826,617966211
+dimwishlist:item=1994645182&perks=2680121939,280464955,617966211
+dimwishlist:item=1994645182&perks=2680121939,3920370755,617966211
+
+// Pointed Inquiry (PvE first choice roll)
+// Any barrel, Any mag, (Genesis, Genesis Enhanced), (Turnabout, Turnabout Enhanced, Adaptive Munitions, Adaptive Munitions Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=297296830&perks=3096702027,2209918983
+dimwishlist:item=297296830&perks=1658784563,2209918983
+dimwishlist:item=297296830&perks=3096702027,2000295559
+dimwishlist:item=297296830&perks=1658784563,2000295559
+dimwishlist:item=297296830&perks=3096702027,1048183818
+dimwishlist:item=297296830&perks=1658784563,1048183818
+dimwishlist:item=297296830&perks=3096702027,3431277734
+dimwishlist:item=297296830&perks=1658784563,3431277734
+
+// Pointed Inquiry (PvE first choice roll)
+// Any barrel, Any mag, (Fourth Time's The Charm, Fourth Time's The Charm Enhanced), (Focused Fury, Focused Fury Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Focused Fury procs on crit hits from half the bullets in a base magazine, so Fourth Time's The Charm extends the damage for longer. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=297296830&perks=1354429876,2896038713
+dimwishlist:item=297296830&perks=848860060,2896038713
+dimwishlist:item=297296830&perks=1354429876,2402480669
+dimwishlist:item=297296830&perks=848860060,2402480669
+
+// Pointed Inquiry (PvE backup roll)
+// Any barrel, Any mag, (Shoot To Loot, Shoot To Loot Enhanced), (Focused Fury, Focused Fury Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Focused Fury procs on crit hits from half the bullets in a base magazine, and Shoot To Loot's automatic reload keeps the damage boost going on shooting an ammo brick to pick it up. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=297296830&perks=3700496672,2896038713
+dimwishlist:item=297296830&perks=2840833776,2896038713
+dimwishlist:item=297296830&perks=3700496672,2402480669
+dimwishlist:item=297296830&perks=2840833776,2402480669
