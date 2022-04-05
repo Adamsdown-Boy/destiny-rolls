@@ -84,8 +84,17 @@ dimwishlist:item=2595497736&perks=4245865861,3425386926
 dimwishlist:item=2595497736&perks=1820235745,288411554
 dimwishlist:item=2595497736&perks=4245865861,288411554
 
-// Red Herring Rocket Launcher - shapeable
-dimwishlist:item=3175851496
+// Red Herring (PvE first choice roll)
+// Any barrel, Any mag, (Field Prep, Field Prep Enhanced), (Frenzy, Frenzy Enhanced, Lasting Impression, Lasting Impression Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. No Auto-Loading Holster, although faster crouching reloads with Field Prep helps in a pinch, nor intrinsic tracking. Aim to round out Velocity, Impact Damage and Reload Speed with Barrel, Mag and Masterwork. On the plus side it does slightly more damage intrinsically,  Lasting Impression or Frenzy give solid damage boosts, and it's void so works with a Void 3.0 build. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3175851496&perks=2869569095,4104185692
+dimwishlist:item=3175851496&perks=2308090567,4104185692
+dimwishlist:item=3175851496&perks=2869569095,3007133316
+dimwishlist:item=3175851496&perks=2308090567,3007133316
+dimwishlist:item=3175851496&perks=2869569095,3927722942
+dimwishlist:item=3175851496&perks=2308090567,3927722942
+dimwishlist:item=3175851496&perks=2869569095,1167468626
+dimwishlist:item=3175851496&perks=2308090567,1167468626
 
 
 @title:Triumph Weapon
@@ -221,9 +230,17 @@ dimwishlist:item=3865728990&perks=106909392,3442762221,288411554
 dimwishlist:item=3865728990&perks=106909392,2869569095,288411554
 dimwishlist:item=3865728990&perks=106909392,2308090567,288411554
 
-// Tarnation - shapeable
-//notes:Vezuul, Lightflayer
-dimwishlist:item=3311856850
+// Tarnation (PvE first choice roll)
+// Any barrel, Any mag, (Field Prep, Field Prep Enhanced, Clown Cartridge, Clown Cartridge Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. No boss damage traits so focus on using barrel and mag to increase Blast Radius and/or help Reload Speed along, and use Chain Reaction for add clearing instead. Recommended MW: Blast Radius or Reload Speed, with Backup Mag mod.
+dimwishlist:item=2721157927&perks=2869569095,2396489472
+dimwishlist:item=2721157927&perks=2308090567,2396489472
+dimwishlist:item=2721157927&perks=2284787283,2396489472
+dimwishlist:item=2721157927&perks=3563868667,2396489472
+dimwishlist:item=2721157927&perks=2869569095,598607952
+dimwishlist:item=2721157927&perks=2308090567,598607952
+dimwishlist:item=2721157927&perks=2284787283,598607952
+dimwishlist:item=2721157927&perks=3563868667,598607952
 
 
 @title:Throne World Weapons
@@ -283,7 +300,7 @@ dimwishlist:item=1994645182&perks=2680121939,3920370755,617966211
 
 // Pointed Inquiry (PvE first choice roll)
 // Any barrel, Any mag, (Genesis, Genesis Enhanced), (Turnabout, Turnabout Enhanced, Adaptive Munitions, Adaptive Munitions Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Genersis pairs well with either Turnabout for extra shields or Adaptive Munitions, to keep firing after a shield is broken. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=297296830&perks=3096702027,2209918983
 dimwishlist:item=297296830&perks=1658784563,2209918983
 dimwishlist:item=297296830&perks=3096702027,2000295559
