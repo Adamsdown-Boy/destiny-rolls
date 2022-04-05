@@ -121,26 +121,26 @@ dimwishlist:item=1526296434&perks=2420895100,402033656,1171887445
 // Fel Taradiddle (PvE first choice roll)
 // Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit Enhanced), (Explosive Head, Explosive Head Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. Lightweight frame, so an alternative if you haven't dropped an Accrued Redemption or Biting Winds that you like. Bowstring and Arrow depend on your choice balancing Accuracy and Draw Speed. Then it's the tried and trusted combination of Archer's Tempo and Explosive Head - good anyway, but very useful when an anti-barrier bow mod is around. Recommended MW: your choice to round out bowstring and arrow perks, with a damage-boosting (Minor, Major or Taken Spec) mod.
-dimwishlist:item=1399109800&perks=247725512,3365897133
-dimwishlist:item=1399109800&perks=2938480696,3365897133
-dimwishlist:item=1399109800&perks=247725512,1551736345
-dimwishlist:item=1399109800&perks=2938480696,1551736345
+dimwishlist:item=1399109800&perks=201365942,3365897133
+dimwishlist:item=1399109800&perks=3523746922,3365897133
+dimwishlist:item=1399109800&perks=201365942,1551736345
+dimwishlist:item=1399109800&perks=3523746922,1551736345
 
 // Fel Taradiddle (PvE first choice roll)
 // Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Lightweight frame, so an alternative if you haven't dropped an Accrued Redemption or Biting Winds that you like. Bowstring and Arrow depend on your choice balancing Accuracy and Draw Speed. Then Archer's Tempo is the best perk in the first trait column and Adrenaline Junkie is useful with the strength of void grenades in Void 3.0. Recommended MW: your choice to round out bowstring and arrow perks, with a damage-boosting (Minor, Major or Taken Spec) mod.
-dimwishlist:item=1399109800&perks=247725512,11612903
-dimwishlist:item=1399109800&perks=2938480696,11612903
-dimwishlist:item=1399109800&perks=247725512,2422968039
-dimwishlist:item=1399109800&perks=2938480696,2422968039
+dimwishlist:item=1399109800&perks=201365942,11612903
+dimwishlist:item=1399109800&perks=3523746922,11612903
+dimwishlist:item=1399109800&perks=201365942,2422968039
+dimwishlist:item=1399109800&perks=3523746922,2422968039
 
 // Fel Taradiddle (PvE first choice roll)
 // Any Bowstring, Any Arrow, (Rapid Hit, Rapid Hit Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll to try and recreate the Hush pinnicle weapon. Lightweight frame, so has the faster draw time. Bowstring and Arrow depend on your choice balancing Draw Speed and Accuracy. Then Archer's Tempo is the best perk in the first trait column and Successful Warm-Up can turn this bow into a mini-Hush after one add kill. Recommended MW: Draw Time, with a damage-boosting (Minor, Major or Taken Spec) mod.
-dimwishlist:item=1399109800&perks=247725512,11612903
-dimwishlist:item=1399109800&perks=2938480696,11612903
-dimwishlist:item=1399109800&perks=247725512,2422968039
-dimwishlist:item=1399109800&perks=2938480696,2422968039
+dimwishlist:item=1399109800&perks=201365942,11612903
+dimwishlist:item=1399109800&perks=3523746922,11612903
+dimwishlist:item=1399109800&perks=201365942,2422968039
+dimwishlist:item=1399109800&perks=3523746922,2422968039
 
 // Come to Pass (PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Stats For All, Stats For All Enhanced), (One For All, One For All Enhanced)
