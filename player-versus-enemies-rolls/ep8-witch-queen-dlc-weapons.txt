@@ -6,4 +6,30 @@ dimwishlist:item=2607304614&perks=1840239774,1561002382,1428297954,4082225868
 dimwishlist:item=2607304614&perks=1840239774,1561002382,2014892510,1161469972
 dimwishlist:item=2607304614&perks=1840239774,1561002382,2014892510,4082225868
 
-
+// Empirical Evidence (PvE backup roll)
+// Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion Enhanced, Tunnel Vision, Tunnel Vision (enhanced)), (Adagio, Adagio Enhanced, Thresh, Thresh Enhanced, Wellspring, Wellspring Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing/High-Calibre Rounds) preferences. Perpetual Motion and Tunnel Vision improve gun feel. Adagio is effectively a 10% chainable damage buff, Thresh and Wellspring give faster super/ability charging. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2607304614&perks=1428297954,3673922083
+dimwishlist:item=2607304614&perks=2014892510,3673922083
+dimwishlist:item=2607304614&perks=2946784966,3673922083
+dimwishlist:item=2607304614&perks=987673306,3673922083
+dimwishlist:item=2607304614&perks=1428297954,2889515627
+dimwishlist:item=2607304614&perks=2014892510,2889515627
+dimwishlist:item=2607304614&perks=2946784966,2889515627
+dimwishlist:item=2607304614&perks=987673306,2889515627
+dimwishlist:item=2607304614&perks=1428297954,2726471870
+dimwishlist:item=2607304614&perks=2014892510,2726471870
+dimwishlist:item=2607304614&perks=2946784966,2726471870
+dimwishlist:item=2607304614&perks=987673306,2726471870
+dimwishlist:item=2607304614&perks=1428297954,1172413778
+dimwishlist:item=2607304614&perks=2014892510,1172413778
+dimwishlist:item=2607304614&perks=2946784966,1172413778
+dimwishlist:item=2607304614&perks=987673306,1172413778
+dimwishlist:item=2607304614&perks=1428297954,3592538738
+dimwishlist:item=2607304614&perks=2014892510,3592538738
+dimwishlist:item=2607304614&perks=2946784966,3592538738
+dimwishlist:item=2607304614&perks=987673306,3592538738
+dimwishlist:item=2607304614&perks=1428297954,2675361166
+dimwishlist:item=2607304614&perks=2014892510,2675361166
+dimwishlist:item=2607304614&perks=2946784966,2675361166
+dimwishlist:item=2607304614&perks=987673306,2675361166
