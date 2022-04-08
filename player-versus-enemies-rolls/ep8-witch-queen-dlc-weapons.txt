@@ -301,7 +301,7 @@ dimwishlist:item=1994645182&perks=2680121939,3920370755,617966211
 
 // Pointed Inquiry (PvE first choice roll)
 // Any barrel, Any mag, (Genesis, Genesis Enhanced), (Turnabout, Turnabout Enhanced, Adaptive Munitions, Adaptive Munitions Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Genersis pairs well with either Turnabout for extra shields or Adaptive Munitions, to keep firing after a shield is broken. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game PvE, although it's not a strong subtype, it does have some interesting perk pairings and might be worth keeping in case of a sandbox change. Barrel and mag depend on your preferences, although improving recoil direction and/or stability can be useful. Genesis pairs well with either Turnabout for extra shields or Adaptive Munitions, to keep firing after a shield is broken. Recommended MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=297296830&perks=3096702027,2209918983
 dimwishlist:item=297296830&perks=1658784563,2209918983
 dimwishlist:item=297296830&perks=3096702027,2000295559
