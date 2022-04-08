@@ -91,18 +91,18 @@ dimwishlist:item=1941816543&perks=2014892510,3007133316
 // Deliverance (PvE first choice roll)
 // Any barrel, Any mag, (Cornered, Cornered Enhanced), (Surrounded, Surrounded Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Cornered and Surrounded pair well, giving a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
-dimwishlist:item=768621510&perks=3523296417,11612903
-dimwishlist:item=768621510&perks=1906147653,11612903
-dimwishlist:item=768621510&perks=3523296417,2422968039
-dimwishlist:item=768621510&perks=1906147653,2422968039
+dimwishlist:item=768621510&perks=1799762209,3708227201
+dimwishlist:item=768621510&perks=1008128453,3708227201
+dimwishlist:item=768621510&perks=1799762209,781192741
+dimwishlist:item=768621510&perks=1008128453,781192741
 
 // Deliverance (PvE backup roll)
 // Any barrel, Any mag, (Perpetual Motion, Perpetual Motion Enhanced), (Surrounded, Surrounded Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Perpetual Motion passively improves gun feel and reload speed and Surrounded gives a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
-dimwishlist:item=768621510&perks=1428297954,11612903
-dimwishlist:item=768621510&perks=2014892510,11612903
-dimwishlist:item=768621510&perks=1428297954,2422968039
-dimwishlist:item=768621510&perks=2014892510,2422968039
+dimwishlist:item=768621510&perks=1428297954,3708227201
+dimwishlist:item=768621510&perks=2014892510,3708227201
+dimwishlist:item=768621510&perks=1428297954,781192741
+dimwishlist:item=768621510&perks=2014892510,781192741
 
 // Deliverance (PvE backup roll)
 // Any barrel, Any mag, (Compulsive Reloader, Compulsive Reloader Enhanced), (Chill Clip, Chill Clip Enhanced)
@@ -120,33 +120,33 @@ dimwishlist:item=768621510&perks=1906147653,11612903
 dimwishlist:item=768621510&perks=3523296417,2422968039
 dimwishlist:item=768621510&perks=1906147653,2422968039
 
-// Deliverance (PvE first choice roll)
+// Deliverance (Adept) (PvE first choice roll)
 // Any barrel, Any mag, (Cornered, Cornered Enhanced), (Surrounded, Surrounded Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Cornered and Surrounded pair well, giving a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
-dimwishlist:item=2943293195&perks=3523296417,11612903
-dimwishlist:item=2943293195&perks=1906147653,11612903
-dimwishlist:item=2943293195&perks=3523296417,2422968039
-dimwishlist:item=2943293195&perks=1906147653,2422968039
+dimwishlist:item=2943293195&perks=1799762209,3708227201
+dimwishlist:item=2943293195&perks=1008128453,3708227201
+dimwishlist:item=2943293195&perks=1799762209,781192741
+dimwishlist:item=2943293195&perks=1008128453,781192741
 
-// Deliverance (PvE backup roll)
+// Deliverance (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Perpetual Motion, Perpetual Motion Enhanced), (Surrounded, Surrounded Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Perpetual Motion passively improves gun feel and reload speed and Surrounded gives a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
-dimwishlist:item=2943293195&perks=1428297954,11612903
-dimwishlist:item=2943293195&perks=2014892510,11612903
-dimwishlist:item=2943293195&perks=1428297954,2422968039
-dimwishlist:item=2943293195&perks=2014892510,2422968039
+dimwishlist:item=2943293195&perks=1428297954,3708227201
+dimwishlist:item=2943293195&perks=2014892510,3708227201
+dimwishlist:item=2943293195&perks=1428297954,781192741
+dimwishlist:item=2943293195&perks=2014892510,781192741
 
-// Deliverance (PvE backup roll)
+// Deliverance (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Compulsive Reloader, Compulsive Reloader Enhanced), (Chill Clip, Chill Clip Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Chill Clip gives you a kind of stasis version of Reservoir Burst, and Compulsive Reloader helps with keeping the mag full. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Chill Clip gives you a kind of stasis version of Reservoir Burst, and Compulsive Reloader helps with keeping the mag full. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=2943293195&perks=671806388,2978966579
 dimwishlist:item=2943293195&perks=595108252,2978966579
 dimwishlist:item=2943293195&perks=671806388,344235611
 dimwishlist:item=2943293195&perks=595108252,344235611
 
-// Deliverance (PvE first choice roll)
+// Deliverance (Adept) (PvE first choice roll)
 // Any barrel, Any mag, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Demolitionist and Adrenaline Junkie pair well, and help stasis builds. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Demolitionist and Adrenaline Junkie pair well, and help stasis builds. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=2943293195&perks=3523296417,11612903
 dimwishlist:item=2943293195&perks=1906147653,11612903
 dimwishlist:item=2943293195&perks=3523296417,2422968039
