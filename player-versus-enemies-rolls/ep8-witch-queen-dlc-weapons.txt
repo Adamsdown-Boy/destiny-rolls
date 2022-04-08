@@ -86,7 +86,7 @@ dimwishlist:item=2595497736&perks=4245865861,288411554
 
 // Red Herring (PvE first choice roll)
 // Any barrel, Any mag, (Field Prep, Field Prep Enhanced), (Frenzy, Frenzy Enhanced, Lasting Impression, Lasting Impression Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. No Auto-Loading Holster, although faster crouching reloads with Field Prep helps in a pinch, nor intrinsic tracking. Aim to round out Velocity, Impact Damage and Reload Speed with Barrel, Mag and Masterwork. On the plus side it does slightly more damage intrinsically,  Lasting Impression or Frenzy give solid damage boosts, and it's void so works with a Void 3.0 build. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. No Auto-Loading Holster (although faster crouching reloads with Field Prep helps in a pinch), nor intrinsic tracking. Aim to round out Velocity, Impact Damage and Reload Speed with Barrel, Mag and Masterwork. On the plus side it does slightly more damage intrinsically. Lasting Impression or Frenzy give solid damage boosts, and it's void so works with a Void 3.0 build. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=3175851496&perks=2869569095,4104185692
 dimwishlist:item=3175851496&perks=2308090567,4104185692
 dimwishlist:item=3175851496&perks=2869569095,3007133316
@@ -273,7 +273,7 @@ dimwishlist:item=1994645182&perks=2680121939,3920370755,4290541820
 
 // Likely Suspect (PvE backup roll)
 // Any barrel, Enhanced Battery, (Perpetual Motion, Perpetual Motion Enhanced, Ensemble, Ensemble Enhanced, Firmly Planted, Firmly Planted Enhanced), (Adagio, Adagio Enhanced, Successful Warm-Up, Successful Warm-Up Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference for stability, handling or range. Enhanced Battery gets you to the maximum eight in he mag. Perpetual Motion, Ensemble or Firmly Planted improve the gun feel, while Adagio and Successful Warm-Up provide chainable damage buffs on kills. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general content. Rapid Fire Fusions are still good, particularly void ones with Void 3.8 volatile rounds. The barrel is your preference for stability, handling or range. Enhanced Battery gets you to the maximum eight in he mag. Perpetual Motion, Ensemble or Firmly Planted improve the gun feel, while Adagio and Successful Warm-Up both provide chainable damage output buffs on kills. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
 dimwishlist:item=1994645182&perks=2680121939,1428297954,3673922083
 dimwishlist:item=1994645182&perks=2680121939,2014892510,3673922083
 dimwishlist:item=1994645182&perks=2680121939,2621346526,3673922083
