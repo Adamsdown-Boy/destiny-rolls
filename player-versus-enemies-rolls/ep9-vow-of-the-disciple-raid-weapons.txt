@@ -1,0 +1,289 @@
+@title:Vow of the Disciple Raid weapons
+
+// Insidious (PvE first choice roll)
+// Any barrel, Any Mag, (Stats for All, Stats for All Enhanced), (One for All, One for All Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for endgame content. Fairly rare four-round burst pulse rifle subtype. Good all-round stats, although the recoil direct could use a little help from the barrel perk. Once you proc Stats for All and One for All, you'll get a 35% damage boost and significant stat buffs. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3428521585&perks=1583705720,4049631843
+dimwishlist:item=3428521585&perks=1409206216,4049631843
+dimwishlist:item=3428521585&perks=1583705720,859780267
+dimwishlist:item=3428521585&perks=1409206216,859780267
+
+// Insidious (PvE backup roll)
+// Any barrel, Any mag, (Rapid Hit, Rapid Hit Enhanced), (Adaptive Munitions, Adaptive Munitions Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for endgame content. Fairly rare four-round burst pulse rifle subtype. Good all-round stats, although the recoil direct could use a little help from the barrel perk. Adaptive Munitions is useful for Match Game content, and Rapid Hit gives solid boosts to reload speed and stability to keep you shooting. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3428521585&perks=247725512,1048183818
+dimwishlist:item=3428521585&perks=2938480696,1048183818
+dimwishlist:item=3428521585&perks=247725512,3431277734
+dimwishlist:item=3428521585&perks=2938480696,3431277734
+
+// Insidious (PvE first choice roll)
+// Any barrel, Any mag, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Fairly rare four-round burst pulse rifle subtype. Good all-round stats, although the recoil direct could use a little help from the barrel perk. Demolitionist and Adrenaline Junkie make this something to tuck away somewhere safe for Arc 3.0. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3428521585&perks=3523296417,11612903
+dimwishlist:item=3428521585&perks=1906147653,11612903
+dimwishlist:item=3428521585&perks=3523296417,2422968039
+dimwishlist:item=3428521585&perks=1906147653,2422968039
+
+// Insidious (Adept) (PvE first choice roll)
+// Any barrel, Any Mag, (Stats for All, Stats for All Enhanced), (One for All, One for All Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for endgame content. Fairly rare four-round burst pulse rifle subtype. Good all-round stats, although the recoil direct could use a little help from the barrel perk. Once you proc Stats for All and One for All, you'll get a 35% damage boost and significant stat buffs. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=786352912&perks=1583705720,4049631843
+dimwishlist:item=786352912&perks=1409206216,4049631843
+dimwishlist:item=786352912&perks=1583705720,859780267
+dimwishlist:item=786352912&perks=1409206216,859780267
+
+// Insidious (Adept) (PvE backup roll)
+// Any barrel, Any mag, (Rapid Hit, Rapid Hit Enhanced), (Adaptive Munitions, Adaptive Munitions Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for endgame content. Fairly rare four-round burst pulse rifle subtype. Good all-round stats, although the recoil direct could use a little help from the barrel perk. Adaptive Munitions is useful for Match Game content, and Rapid Hit gives solid boosts to reload speed and stability to keep you shooting. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=786352912&perks=247725512,1048183818
+dimwishlist:item=786352912&perks=2938480696,1048183818
+dimwishlist:item=786352912&perks=247725512,3431277734
+dimwishlist:item=786352912&perks=2938480696,3431277734
+
+// Insidious (Adept) (PvE first choice roll)
+// Any barrel, Any mag, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Fairly rare four-round burst pulse rifle subtype. Good all-round stats, although the recoil direct could use a little help from the barrel perk. Demolitionist and Adrenaline Junkie make this something to tuck away somewhere safe for Arc 3.0. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=786352912&perks=3523296417,11612903
+dimwishlist:item=786352912&perks=1906147653,11612903
+dimwishlist:item=786352912&perks=3523296417,2422968039
+dimwishlist:item=786352912&perks=1906147653,2422968039
+
+// Submission (PvE first choice roll)
+// Any barrel, Extended Mag, (Overflow, Overflow Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for endgame content. Perfect recoil makes control fairly easy, but go for your choice of range, stability or handling in the barrel. Extended Mag with Overflow bypasses the reload penalty on picking up an ammo brick, and buffs magazine size to 82 (or more with the Enhanced version). Then Frenzy is easy to proc in endgame to give a solid damage buff. Recommended MW: Reload Speed or Stability, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3886416794&perks=2420895100,3643424744,4104185692
+dimwishlist:item=3886416794&perks=2420895100,2682205016,4104185692
+dimwishlist:item=3886416794&perks=2420895100,3643424744,3007133316
+dimwishlist:item=3886416794&perks=2420895100,2682205016,3007133316
+
+// Submission (PvE first choice roll)
+// Any barrel, Any mag, (Subsistence, Subsistence Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Perfect recoil makes control fairly easy, but go for your choice of range, stability or handling in the barrel. Look to increase magazine size with the mag, and then Subsistence or Perpetual Motion pair with Frenzy to keep you shooting with a decent damage buff. Recommended MW: Reload Speed, with a Backup Mag (if not using Extended Mag) or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3886416794&perks=1820235745,4104185692
+dimwishlist:item=3886416794&perks=4245865861,4104185692
+dimwishlist:item=3886416794&perks=1428297954,4104185692
+dimwishlist:item=3886416794&perks=2014892510,4104185692
+dimwishlist:item=3886416794&perks=1820235745,3007133316
+dimwishlist:item=3886416794&perks=4245865861,3007133316
+dimwishlist:item=3886416794&perks=1428297954,3007133316
+dimwishlist:item=3886416794&perks=2014892510,3007133316
+
+// Submission (Adept) (PvE first choice roll)
+// Any barrel, Extended Mag, (Overflow, Overflow Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for endgame content. Perfect recoil direction makes control fairly easy, so go for your choice of range, stability or handling in the barrel. Extended Mag with Overflow bypasses the reload penalty on picking up an ammo brick, and buffs magazine size to 82 (or more with the Enhanced version). Then Frenzy is easy to proc in endgame to give a solid damage buff. Recommended MW: Reload Speed or Stability, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1941816543&perks=2420895100,3643424744,4104185692
+dimwishlist:item=1941816543&perks=2420895100,2682205016,4104185692
+dimwishlist:item=1941816543&perks=2420895100,3643424744,3007133316
+dimwishlist:item=1941816543&perks=2420895100,2682205016,3007133316
+
+// Submission (Adept) (PvE first choice roll)
+// Any barrel, Any mag, (Subsistence, Subsistence Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Perfect recoil direciton makes control fairly easy, so go for your choice of range, stability or handling in the barrel. Look to increase magazine size with the mag, and then Subsistence or Perpetual Motion pair with Frenzy to keep you shooting with a decent damage buff. Recommended MW: Reload Speed, with a Backup Mag (if not using Extended Mag) or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1941816543&perks=1820235745,4104185692
+dimwishlist:item=1941816543&perks=4245865861,4104185692
+dimwishlist:item=1941816543&perks=1428297954,4104185692
+dimwishlist:item=1941816543&perks=2014892510,4104185692
+dimwishlist:item=1941816543&perks=1820235745,3007133316
+dimwishlist:item=1941816543&perks=4245865861,3007133316
+dimwishlist:item=1941816543&perks=1428297954,3007133316
+dimwishlist:item=1941816543&perks=2014892510,3007133316
+
+// Deliverance (PvE first choice roll)
+// Any barrel, Any mag, (Cornered, Cornered Enhanced), (Surrounded, Surrounded Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Cornered and Surrounded pair well, giving a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=768621510&perks=3523296417,11612903
+dimwishlist:item=768621510&perks=1906147653,11612903
+dimwishlist:item=768621510&perks=3523296417,2422968039
+dimwishlist:item=768621510&perks=1906147653,2422968039
+
+// Deliverance (PvE backup roll)
+// Any barrel, Any mag, (Perpetual Motion, Perpetual Motion Enhanced), (Surrounded, Surrounded Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Perpetual Motion passively improves gun feel and reload speed and Surrounded gives a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=768621510&perks=1428297954,11612903
+dimwishlist:item=768621510&perks=2014892510,11612903
+dimwishlist:item=768621510&perks=1428297954,2422968039
+dimwishlist:item=768621510&perks=2014892510,2422968039
+
+// Deliverance (PvE backup roll)
+// Any barrel, Any mag, (Compulsive Reloader, Compulsive Reloader Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Chill Clip gives you a kind of stasis version of Reservoir Burst, and Compulsive Reloader helps with keeping the mag full. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=768621510&perks=671806388,2978966579
+dimwishlist:item=768621510&perks=595108252,2978966579
+dimwishlist:item=768621510&perks=671806388,344235611
+dimwishlist:item=768621510&perks=595108252,344235611
+
+// Deliverance (PvE first choice roll)
+// Any barrel, Any mag, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Demolitionist and Adrenaline Junkie pair well, and help stasis builds. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=768621510&perks=3523296417,11612903
+dimwishlist:item=768621510&perks=1906147653,11612903
+dimwishlist:item=768621510&perks=3523296417,2422968039
+dimwishlist:item=768621510&perks=1906147653,2422968039
+
+// Deliverance (PvE first choice roll)
+// Any barrel, Any mag, (Cornered, Cornered Enhanced), (Surrounded, Surrounded Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Cornered and Surrounded pair well, giving a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=2943293195&perks=3523296417,11612903
+dimwishlist:item=2943293195&perks=1906147653,11612903
+dimwishlist:item=2943293195&perks=3523296417,2422968039
+dimwishlist:item=2943293195&perks=1906147653,2422968039
+
+// Deliverance (PvE backup roll)
+// Any barrel, Any mag, (Perpetual Motion, Perpetual Motion Enhanced), (Surrounded, Surrounded Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Perpetual Motion passively improves gun feel and reload speed and Surrounded gives a 40% damage boost (or 47% boost for the enhanced perk) when used with a Surrounded Spec mod. Recommended MW: Charge Time or Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=2943293195&perks=1428297954,11612903
+dimwishlist:item=2943293195&perks=2014892510,11612903
+dimwishlist:item=2943293195&perks=1428297954,2422968039
+dimwishlist:item=2943293195&perks=2014892510,2422968039
+
+// Deliverance (PvE backup roll)
+// Any barrel, Any mag, (Compulsive Reloader, Compulsive Reloader Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for end-game content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Chill Clip gives you a kind of stasis version of Reservoir Burst, and Compulsive Reloader helps with keeping the mag full. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2943293195&perks=671806388,2978966579
+dimwishlist:item=2943293195&perks=595108252,2978966579
+dimwishlist:item=2943293195&perks=671806388,344235611
+dimwishlist:item=2943293195&perks=595108252,344235611
+
+// Deliverance (PvE first choice roll)
+// Any barrel, Any mag, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. The first fusion rifle for your kinetic slot, with perfect recoil direction from the precision subtype intrinsic perk. Your choice of barrel and mag, but you might want stability to keep bolts together, or charge time to get your shots away as quickly as possible. Demolitionist and Adrenaline Junkie pair well, and help stasis builds. Recommended MW: Charge Time or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2943293195&perks=3523296417,11612903
+dimwishlist:item=2943293195&perks=1906147653,11612903
+dimwishlist:item=2943293195&perks=3523296417,2422968039
+dimwishlist:item=2943293195&perks=1906147653,2422968039
+
+// Forbearance (PvE first choice roll)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Unrelenting, Unrelenting Enhanced, Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. The first arc wave-frame Grenade Launcher, but no boss damage parks, so focus on those that help with add clear. You'll want decent weapon swap speeds, and shots to get where they're going as fast as possible. Both Unrelenting and Ambitious Assassin have their place with Chain Reaction. Recommended MW: Reload Speed, Velocity or Handling, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,3108830275,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,855168139,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,855168139,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,598607952
+dimwishlist:item=613334176&perks=3798852852,2822142346,3108830275,598607952
+dimwishlist:item=613334176&perks=3525010810,2822142346,855168139,598607952
+dimwishlist:item=613334176&perks=3798852852,2822142346,855168139,598607952
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,598607952
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
+dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,598607952
+
+// Forbearance (PvE first choice roll)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Unrelenting, Unrelenting Enhanced, Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for end-game content. The first arc wave-frame Grenade Launcher, but no boss damage parks, so focus on those that help with add clear. You'll want decent weapon swap speeds, and shots to get where they're going as fast as possible. Both Unrelenting and Ambitious Assassin have their place with Chain Reaction. Recommended MW: Reload Speed, Velocity or Handling, with a damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3108830275,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3108830275,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,855168139,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,855168139,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3797647183,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3108830275,598607952
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3108830275,598607952
+dimwishlist:item=4038592169&perks=3525010810,2822142346,855168139,598607952
+dimwishlist:item=4038592169&perks=3798852852,2822142346,855168139,598607952
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=4038592169&perks=3798852852,2822142346,2010801679,598607952
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,598607952
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3797647183,598607952
+
+// Cataclysmic (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Accelerated Coils, (Fourth Time's The Charm, Fourth Time's The Charm Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for sustained boss DPS. Focused Fury procs after three crit hits (half of the mag), and Fourth Time's the Charm then gives you seven more crits with a 20% damage buff, on the base mag size of six. Useful with Divinity in the fireteam, to make sure the crits are easier to land. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=999767358&perks=1392496348,689005463,1354429876,2896038713
+dimwishlist:item=999767358&perks=3661387068,689005463,1354429876,2896038713
+dimwishlist:item=999767358&perks=1482024992,689005463,1354429876,2896038713
+dimwishlist:item=999767358&perks=1840239774,689005463,1354429876,2896038713
+dimwishlist:item=999767358&perks=4090651448,689005463,1354429876,2896038713
+dimwishlist:item=999767358&perks=1392496348,689005463,848860060,2896038713
+dimwishlist:item=999767358&perks=3661387068,689005463,848860060,2896038713
+dimwishlist:item=999767358&perks=1482024992,689005463,848860060,2896038713
+dimwishlist:item=999767358&perks=1840239774,689005463,848860060,2896038713
+dimwishlist:item=999767358&perks=4090651448,689005463,848860060,2896038713
+dimwishlist:item=999767358&perks=1392496348,689005463,1354429876,2402480669
+dimwishlist:item=999767358&perks=3661387068,689005463,1354429876,2402480669
+dimwishlist:item=999767358&perks=1482024992,689005463,1354429876,2402480669
+dimwishlist:item=999767358&perks=1840239774,689005463,1354429876,2402480669
+dimwishlist:item=999767358&perks=4090651448,689005463,1354429876,2402480669
+dimwishlist:item=999767358&perks=1392496348,689005463,848860060,2402480669
+dimwishlist:item=999767358&perks=3661387068,689005463,848860060,2402480669
+dimwishlist:item=999767358&perks=1482024992,689005463,848860060,2402480669
+dimwishlist:item=999767358&perks=1840239774,689005463,848860060,2402480669
+dimwishlist:item=999767358&perks=4090651448,689005463,848860060,2402480669
+
+// Cataclysmic (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Accelerated Coils, (Fourth Time's The Charm, Fourth Time's The Charm Enhanced), (High-Impact Reserves, High-Impact Reserves Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for burst boss DPS. High-Impact Reserves procs after three shots (two with the Enhanced perk), and Fourth Time's the Charm then gives you seven more crits with an increasing damage buff that tops out at 25.4%. Useful with Divinity in the fireteam, to make sure crits are easier to land. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=999767358&perks=1392496348,689005463,1354429876,2213355989
+dimwishlist:item=999767358&perks=3661387068,689005463,1354429876,2213355989
+dimwishlist:item=999767358&perks=1482024992,689005463,1354429876,2213355989
+dimwishlist:item=999767358&perks=1840239774,689005463,1354429876,2213355989
+dimwishlist:item=999767358&perks=4090651448,689005463,1354429876,2213355989
+dimwishlist:item=999767358&perks=1392496348,689005463,848860060,2213355989
+dimwishlist:item=999767358&perks=3661387068,689005463,848860060,2213355989
+dimwishlist:item=999767358&perks=1482024992,689005463,848860060,2213355989
+dimwishlist:item=999767358&perks=1840239774,689005463,848860060,2213355989
+dimwishlist:item=999767358&perks=4090651448,689005463,848860060,2213355989
+dimwishlist:item=999767358&perks=1392496348,689005463,1354429876,2002547233
+dimwishlist:item=999767358&perks=3661387068,689005463,1354429876,2002547233
+dimwishlist:item=999767358&perks=1482024992,689005463,1354429876,2002547233
+dimwishlist:item=999767358&perks=1840239774,689005463,1354429876,2002547233
+dimwishlist:item=999767358&perks=4090651448,689005463,1354429876,2002547233
+dimwishlist:item=999767358&perks=1392496348,689005463,848860060,2002547233
+dimwishlist:item=999767358&perks=3661387068,689005463,848860060,2002547233
+dimwishlist:item=999767358&perks=1482024992,689005463,848860060,2002547233
+dimwishlist:item=999767358&perks=1840239774,689005463,848860060,2002547233
+dimwishlist:item=999767358&perks=4090651448,689005463,848860060,2002547233
+
+// Cataclysmic (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Accelerated Coils, (Fourth Time's The Charm, Fourth Time's The Charm Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for sustained boss DPS. Focused Fury procs after three crit hits (half of the mag), and Fourth Time's the Charm then gives you seven more crits with a 20% damage buff, on the base mag size of six. Useful with Divinity in the fireteam, to make sure the crits are easier to land. Recommended MW: Stability, with a damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=2886339027&perks=1392496348,689005463,1354429876,2896038713
+dimwishlist:item=2886339027&perks=3661387068,689005463,1354429876,2896038713
+dimwishlist:item=2886339027&perks=1482024992,689005463,1354429876,2896038713
+dimwishlist:item=2886339027&perks=1840239774,689005463,1354429876,2896038713
+dimwishlist:item=2886339027&perks=4090651448,689005463,1354429876,2896038713
+dimwishlist:item=2886339027&perks=1392496348,689005463,848860060,2896038713
+dimwishlist:item=2886339027&perks=3661387068,689005463,848860060,2896038713
+dimwishlist:item=2886339027&perks=1482024992,689005463,848860060,2896038713
+dimwishlist:item=2886339027&perks=1840239774,689005463,848860060,2896038713
+dimwishlist:item=2886339027&perks=4090651448,689005463,848860060,2896038713
+dimwishlist:item=2886339027&perks=1392496348,689005463,1354429876,2402480669
+dimwishlist:item=2886339027&perks=3661387068,689005463,1354429876,2402480669
+dimwishlist:item=2886339027&perks=1482024992,689005463,1354429876,2402480669
+dimwishlist:item=2886339027&perks=1840239774,689005463,1354429876,2402480669
+dimwishlist:item=2886339027&perks=4090651448,689005463,1354429876,2402480669
+dimwishlist:item=2886339027&perks=1392496348,689005463,848860060,2402480669
+dimwishlist:item=2886339027&perks=3661387068,689005463,848860060,2402480669
+dimwishlist:item=2886339027&perks=1482024992,689005463,848860060,2402480669
+dimwishlist:item=2886339027&perks=1840239774,689005463,848860060,2402480669
+dimwishlist:item=2886339027&perks=4090651448,689005463,848860060,2402480669
+
+// Cataclysmic (Adept) (PvE first choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Accelerated Coils, (Fourth Time's The Charm, Fourth Time's The Charm Enhanced), (High-Impact Reserves, High-Impact Reserves Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for burst boss DPS. High-Impact Reserves procs after three shots (two with the Enhanced perk), and Fourth Time's the Charm then gives you seven more crits with an increasing damage buff that tops out at 25.4%. Useful with Divinity in the fireteam, to make sure crits are easier to land. Recommended MW: Stability, with a damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=2886339027&perks=1392496348,689005463,1354429876,2213355989
+dimwishlist:item=2886339027&perks=3661387068,689005463,1354429876,2213355989
+dimwishlist:item=2886339027&perks=1482024992,689005463,1354429876,2213355989
+dimwishlist:item=2886339027&perks=1840239774,689005463,1354429876,2213355989
+dimwishlist:item=2886339027&perks=4090651448,689005463,1354429876,2213355989
+dimwishlist:item=2886339027&perks=1392496348,689005463,848860060,2213355989
+dimwishlist:item=2886339027&perks=3661387068,689005463,848860060,2213355989
+dimwishlist:item=2886339027&perks=1482024992,689005463,848860060,2213355989
+dimwishlist:item=2886339027&perks=1840239774,689005463,848860060,2213355989
+dimwishlist:item=2886339027&perks=4090651448,689005463,848860060,2213355989
+dimwishlist:item=2886339027&perks=1392496348,689005463,1354429876,2002547233
+dimwishlist:item=2886339027&perks=3661387068,689005463,1354429876,2002547233
+dimwishlist:item=2886339027&perks=1482024992,689005463,1354429876,2002547233
+dimwishlist:item=2886339027&perks=1840239774,689005463,1354429876,2002547233
+dimwishlist:item=2886339027&perks=4090651448,689005463,1354429876,2002547233
+dimwishlist:item=2886339027&perks=1392496348,689005463,848860060,2002547233
+dimwishlist:item=2886339027&perks=3661387068,689005463,848860060,2002547233
+dimwishlist:item=2886339027&perks=1482024992,689005463,848860060,2002547233
+dimwishlist:item=2886339027&perks=1840239774,689005463,848860060,2002547233
+dimwishlist:item=2886339027&perks=4090651448,689005463,848860060,2002547233
