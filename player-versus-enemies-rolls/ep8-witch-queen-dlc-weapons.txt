@@ -110,11 +110,11 @@ dimwishlist:item=1526296434&perks=2420895100,402033656,1171887445
 
 // Forensic Nightmare (PvE backup roll)
 // Any barrel, Extended Mag, (Subsistence, Subsistence Enhanced), (Swashbuckler, Swashbuckler Enhanced)
-//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general PvE content. Barrel perk depends on your preference for range/stability/handling, with Extended Mag to bump up a poor magazine size. Grave Robber helps offset the reload speed penalty and Swashbuckler is a reliable damage perk for CQC use. Recommended MW: Reload Speed, with a Backup Mag mod.
-dimwishlist:item=1526296434&perks=1820235745,4082225868
-dimwishlist:item=1526296434&perks=4245865861,4082225868
-dimwishlist:item=1526296434&perks=1820235745,1161469972
-dimwishlist:item=1526296434&perks=4245865861,1161469972
+//notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE backup roll for general PvE content. Barrel perk depends on your preference for range/stability/handling. Grave Robber helps offset the reload speed penalty and Swashbuckler is a reliable damage perk for CQC use. Recommended MW: Reload Speed, with a Backup Mag mod.
+dimwishlist:item=1526296434&perks=1631667848,4082225868
+dimwishlist:item=1526296434&perks=402033656,4082225868
+dimwishlist:item=1526296434&perks=1631667848,1161469972
+dimwishlist:item=1526296434&perks=402033656,1161469972
 
 
 @title:The Wellspring - Witch Queen DLC six-man activity - weapons
