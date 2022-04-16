@@ -1,0 +1,102 @@
+@title:Nightfall weapons part 1
+
+// The Palindrome (PvE first choice roll)
+// Any barrel, Any mag, Stats for All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing/High-Calibre Rounds) preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=432476743&perks=1583705720,4049631843
+
+// The Palindrome (Adept) (PvE first choice roll)
+// Any barrel, Any mag, Stats for All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing/High-Calibre Rounds) preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1481892490&perks=1583705720,4049631843
+
+// PLUG ONE.1 (PvE first choice roll)
+// Any barrel, Any mag, Adaptive Munitions, Turnabout
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Adaptive Munitions will shred shields in Match Game activities, with Turnabout giving you bonus shields on top. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1289000550&perks=1048183818,2209918983
+
+// PLUG ONE.1 (PvE first choice roll)
+// Any barrel, Any mag, (Compulsive Reloader, Feeding Frenzy), Reservoir Burst
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Compulsive Reloader or Feeding Frenzy both pair well with Reservoir Burst for burning through groups of adds. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1289000550&perks=671806388,1427256713
+dimwishlist:item=1289000550&perks=2779035018,1427256713
+
+// PLUG ONE.1 (PvE first choice roll)
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Feeding Frenzy plus Adrenaline Junkie is worth tucking away ready for Arc 3.0. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1289000550&perks=2779035018,11612903
+
+// PLUG ONE.1 (Adept) (PvE first choice roll)
+// Any barrel, Any mag, Adaptive Munitions, Turnabout
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Adaptive Munitions will shred shields in Match Game activities, with Turnabout giving you bonus shields on top. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=534775659&perks=1048183818,2209918983
+
+// PLUG ONE.1 (Adept) (PvE first choice roll)
+// Any barrel, Any mag, (Compulsive Reloader, Feeding Frenzy), Reservoir Burst
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for end-game content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Compulsive Reloader or Feeding Frenzy both pair well with Reservoir Burst for burning through groups of adds. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=534775659&perks=671806388,1427256713
+dimwishlist:item=534775659&perks=2779035018,1427256713
+
+// PLUG ONE.1 (Adept) (PvE first choice roll)
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general content. Recoil direction is already perfect with it being a Precision frame, so barrel and mag depend on your range/stability/handling/mag size preferences. The Stunning Recovery Origin Trait can be procced when there's an anti-Champion mod in town, or externally by a grenade or melee as long as the weapon is equipped. Feeding Frenzy plus Adrenaline Junkie is worth tucking away ready for Arc 3.0. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=534775659&perks=2779035018,11612903
+
+@title:Veist Foundry weapons
+
+// Krait (PvE first choice roll)
+// Any barrel, Appended Mag, (Overflow, Subsistence), Headstone
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general add clear. Barrel depends on your range/stability/handling preferences. Boost the mag size, and then pair with Subsistence or Overflow which, with the Veist Origin Perk, should keep you shooting. Pair with Headstone, a Stasis subclass using Whisper of Rending for what is effectively Stasis dragonfly. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2852052802&perks=1087426260,3643424744,124408337
+dimwishlist:item=2852052802&perks=1087426260,1820235745,124408337
+
+// Krait (PvE first choice roll)
+// Any barrel, Appended Mag, (Overflow, Subsistence), (One For All, Adagio)
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for general add clear. Barrel depends on your range/stability/handling preferences. Boost the mag size, and then pair with Subsistence or Overflow which, with the Veist Origin Perk, should keep you shooting. Pair with One For All or Adagio for a damage boost. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2852052802&perks=1087426260,3643424744,4049631843
+dimwishlist:item=2852052802&perks=1087426260,1820235745,4049631843
+dimwishlist:item=2852052802&perks=1087426260,3643424744,3673922083
+dimwishlist:item=2852052802&perks=1087426260,1820235745,3673922083
+
+// Redback-5si (PvE backup roll)
+// Any barrel, (Accurized ROunds, Steady Rounds, Alloy Mag, Flared Magwell), Perpetual Motion, Surrounded
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so choose something else. Perpetual Motion and Surrounded should work well together. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1687353095&perks=3142289711,1428297954,3708227201
+dimwishlist:item=1687353095&perks=3177308360,1428297954,3708227201
+dimwishlist:item=1687353095&perks=1431678320,1428297954,3708227201
+dimwishlist:item=1687353095&perks=3230963543,1428297954,3708227201
+
+// Redback-5si (PvE backup roll)
+// Any barrel, (Accurized ROunds, Steady Rounds, Alloy Mag, Flared Magwell), Stats For All, One FOr All
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so choose something else. Stats For All and One For All work well together. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1687353095&perks=3142289711,1583705720,4049631843
+dimwishlist:item=1687353095&perks=3177308360,1583705720,4049631843
+dimwishlist:item=1687353095&perks=1431678320,1583705720,4049631843
+dimwishlist:item=1687353095&perks=3230963543,1583705720,4049631843
+
+// Redback-5si (PvE backup roll)
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so got for something else. Perpetual Motion and Stats for All both give nice stat boosts, and Rampage is a reliable damage boost in non endgame content. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1687353095&perks=3142289711,1583705720,3425386926
+dimwishlist:item=1687353095&perks=3177308360,1583705720,3425386926
+dimwishlist:item=1687353095&perks=1431678320,1583705720,3425386926
+dimwishlist:item=1687353095&perks=3230963543,1583705720,3425386926
+dimwishlist:item=1687353095&perks=3142289711,1583705720,3425386926
+dimwishlist:item=1687353095&perks=3177308360,1583705720,3425386926
+dimwishlist:item=1687353095&perks=1431678320,1583705720,3425386926
+dimwishlist:item=1687353095&perks=3230963543,1583705720,3425386926
+
+// Funnelweb (PvE first choice roll)
+// Any barrel, Any mag, (Perpetual Motion, Subsistence), (Frenzy Adrenaline Junkie)
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for endgame use. Barrel and mag depends on your range/stability/handling/recoil direction/mag size preferences. Perpetual Motion and Subsistence both work well with either Frenzy for reliable passive damage boost, or Adrenaline Junkie for Void 3.0 grenade builds. Recommended MW: Handling or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+dimwishlist:item=3341893443&perks=1428297954,4104185692
+dimwishlist:item=3341893443&perks=1820235745,11612903
+dimwishlist:item=3341893443&perks=1428297954,11612903
+
+// Reed's Regret (PvE first choice roll)
+// Any barrel, Ionized Battery, Triple Tap, Firing Line, Veist Stinger
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for Boss DPS. Barrel depends on your range/stability/handling preferences. Ionised Battery brings the magazine to seven, which gives you 10 shots from landing crits with Triple Tap, and 20% bonus damage in a fireteam from Firing Line. Even if you have it already, it's worth getting again for the Veist Stinger  Origin Trait which gives you a chance for reloads when dealing damage, so you might get through all your reserves in a single phase without reloading. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1399243961&perks=1483536627,3400784728,1771339417,3988215619
+
+// Reed's Regret Adept) (PvE first choice roll)
+// Any barrel, Ionized Battery, Triple Tap, Firing Line, Veist Stinger
+//notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE first choice roll for Boss DPS. Barrel depends on your range/stability/handling preferences. Ionised Battery brings the magazine to seven, which gives you 10 shots from landing crits with Triple Tap, and 20% bonus damage in a fireteam from Firing Line. Even if you have it already, it's worth getting again for the Veist Stinger  Origin Trait which gives you a chance for reloads when dealing damage, so you might get through all your reserves in a single phase without reloading. Recommended MW: Handling or Stability, with a damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=2475355656&perks=1483536627,3400784728,1771339417,3988215619
