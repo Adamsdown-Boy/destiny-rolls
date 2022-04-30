@@ -1,0 +1,313 @@
+@title:Nightfall weapons part 2
+
+// Duty Bound (PvE first choice roll)
+// Arrohead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Not too much to offer over other kinetic adaptive auto-rifles like Scathelocke or The Last Breath. Recoil Direction and stability both need some attention, so Arrowhead Brake and a stability mag perk help. The "All for All" pairing works well to both boost useful stats and damage. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=435216110&perks=839105230,3177308360,1583705720,4049631843
+dimwishlist:item=435216110&perks=839105230,106909392,1583705720,4049631843
+dimwishlist:item=435216110&perks=839105230,3230963543,1583705720,4049631843
+
+// Duty Bound (PvE first choice roll)
+// Arrohead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), (Stats For All, Triple Tap. Perpetual Motion), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Not too much to offer over other kinetic adaptive auto-rifles like Scathelocke or The Last Breath other the the origin traits. Recoil Direction and stability both need some attention, so Arrowhead Brake and a stability mag perk help. For endgame rolls you're looking for traits that boost stats or effective mag size and damage without needing a kill. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=435216110&perks=839105230,3177308360,1583705720,4104185692
+dimwishlist:item=435216110&perks=839105230,106909392,1583705720,4104185692
+dimwishlist:item=435216110&perks=839105230,3230963543,1583705720,4104185692
+dimwishlist:item=435216110&perks=839105230,3177308360,3400784728,4104185692
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,4104185692
+dimwishlist:item=435216110&perks=839105230,3230963543,3400784728,4104185692
+dimwishlist:item=435216110&perks=839105230,3177308360,1428297954,4104185692
+dimwishlist:item=435216110&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=435216110&perks=839105230,3230963543,1428297954,4104185692
+
+// Duty Bound (PvE first choice roll)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for general content. Not too much to offer over other kinetic adaptive auto-rifles like Scathelocke or The Last Breath other the the origin traits. Recoil Direction and stability both need some attention, so Arrowhead Brake and a stability mag perk help. There are traits that boost stats (including reload speed) or effective mag size and in non-endgame activities, Rampage is always reliable. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=435216110&perks=839105230,3177308360,1583705720,3425386926
+dimwishlist:item=435216110&perks=839105230,106909392,1583705720,3425386926
+dimwishlist:item=435216110&perks=839105230,3230963543,1583705720,3425386926
+dimwishlist:item=435216110&perks=839105230,3177308360,3400784728,3425386926
+dimwishlist:item=435216110&perks=839105230,106909392,3400784728,3425386926
+dimwishlist:item=435216110&perks=839105230,3230963543,3400784728,3425386926
+dimwishlist:item=435216110&perks=839105230,3177308360,1428297954,3425386926
+dimwishlist:item=435216110&perks=839105230,106909392,1428297954,3425386926
+dimwishlist:item=435216110&perks=839105230,3230963543,1428297954,3425386926
+
+// Duty Bound (Adept) (PvE first choice roll)
+// Arrohead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Not too much to offer over other kinetic adaptive auto-rifles like Scathelocke or The Last Breath, other the the origin traits. Recoil Direction and stability both need some attention, so Arrowhead Brake and a stability mag perk help. The "All for All" pairing works well to both boost useful stats and damage. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1135050595&perks=839105230,3177308360,1583705720,4049631843
+dimwishlist:item=1135050595&perks=839105230,106909392,1583705720,4049631843
+dimwishlist:item=1135050595&perks=839105230,3230963543,1583705720,4049631843
+
+// Duty Bound (Adept) (PvE first choice roll)
+// Arrohead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), (Stats For All, Triple Tap. Perpetual Motion), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Not too much to offer over other kinetic adaptive auto-rifles like Scathelocke or The Last Breath, other the the origin traits. Recoil Direction and stability both need some attention, so Arrowhead Brake and a stability mag perk help. For endgame rolls you're looking for traits that boost stats or effective mag size and damage without needing a kill. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1135050595&perks=839105230,3177308360,1583705720,4104185692
+dimwishlist:item=1135050595&perks=839105230,106909392,1583705720,4104185692
+dimwishlist:item=1135050595&perks=839105230,3230963543,1583705720,4104185692
+dimwishlist:item=1135050595&perks=839105230,3177308360,3400784728,4104185692
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,4104185692
+dimwishlist:item=1135050595&perks=839105230,3230963543,3400784728,4104185692
+dimwishlist:item=1135050595&perks=839105230,3177308360,1428297954,4104185692
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,4104185692
+dimwishlist:item=1135050595&perks=839105230,3230963543,1428297954,4104185692
+
+// Duty Bound (Adept) (PvE first choice roll)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for general content. Not too much to offer over other kinetic adaptive auto-rifles like Scathelocke or The Last Breath, other the the origin traits. Recoil Direction and stability both need some attention, so Arrowhead Brake and a stability mag perk help. There are traits that boost stats (including reload speed) or effective mag size and in non-endgame activities, Rampage is always reliable. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1135050595&perks=839105230,3177308360,1583705720,3425386926
+dimwishlist:item=1135050595&perks=839105230,106909392,1583705720,3425386926
+dimwishlist:item=1135050595&perks=839105230,3230963543,1583705720,3425386926
+dimwishlist:item=1135050595&perks=839105230,3177308360,3400784728,3425386926
+dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,3425386926
+dimwishlist:item=1135050595&perks=839105230,3230963543,3400784728,3425386926
+dimwishlist:item=1135050595&perks=839105230,3177308360,1428297954,3425386926
+dimwishlist:item=1135050595&perks=839105230,106909392,1428297954,3425386926
+dimwishlist:item=1135050595&perks=839105230,3230963543,1428297954,3425386926
+
+// Silicon Neuroma (PvE first choice roll)
+// Any barrel, Appended Mag, Triple Tap (Firing Line, Frenzy, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for Burst damage on a Major or Boss. The Stunning Recovery origin trait could be useful when there's an anti-champion sniper mod. Choose your barrel depending on your Range/Stability/Handling preferences. Appended Mag gets you an extra round in the mag, giving five crit hits before reloading with Triple Tap. Firing Line is your choice for damage in a fireteam, while Frenzy or Focused Fury are better for solo activities. Recommended MW: Reload Speed or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3355385170&perks=1087426260,3400784728,1771339417
+dimwishlist:item=3355385170&perks=1087426260,3400784728,4104185692
+dimwishlist:item=3355385170&perks=1087426260,3400784728,2896038713
+
+// Silicon Neuroma (Adept) (PvE first choice roll)
+// Any barrel, Appended Mag, Triple Tap (Firing Line, Frenzy, Focused Fury)//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for Burst damage on a Major or Boss. The Stunning Recovery origin trait could be useful when there's an anti-champion sniper mod. Choose your barrel depending on your Range/Stability/Handling preferences. Appended Mag with Adept Backup Mag gets you to five rounds in the mag, giving seven crit hits before reloading with Triple Tap. Firing Line is your choice for damage in a fireteam, while Frenzy or Focused Fury are better for solo activities. Recommended MW: Reload Speed or Handling, with Adept Backup Mag mod.
+dimwishlist:item=1387987271&perks=1087426260,3400784728,1771339417
+dimwishlist:item=1387987271&perks=1087426260,3400784728,4104185692
+dimwishlist:item=1387987271&perks=1087426260,3400784728,2896038713
+
+// Perses-D (PvE first choice roll)
+/ Any barrel, (Tactical Mag, Flared Magwell), Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful if you're looking at the "All For All" combo, as you're not starting off with as large a mag as an auto rifle. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1019000888&perks=106909392,1583705720,4049631843
+dimwishlist:item=1019000888&perks=3230963543,1583705720,4049631843
+
+// Perses-D (PvE first choice roll)
+/ Any barrel, (Tactical Mag, Flared Magwell), Stats For All, Explosive Payload
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful with Stats For All, as you're not starting off with as large a mag as an auto rifle. Splash Damage from Explosive Payload counts towards the proccing conditions for SFA, as well as dealing more damage, helping through flinch and working with anti-Champion mods. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1019000888&perks=106909392,1583705720,3038247973
+dimwishlist:item=1019000888&perks=3230963543,1583705720,3038247973
+
+// Perses-D (PvE first choice roll)
+/ Any barrel, (Tactical Mag, Flared Magwell), Rapid Hit, (Explosive Payload, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Rapid Hit procs on the same conditions as Focused Fury for stability/reload speed and damage boosts, Or Explosive Payload deals more damage, helps through flinch and works with anti-Champion mods. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1019000888&perks=106909392,247725512,3038247973
+dimwishlist:item=1019000888&perks=3230963543,247725512,3038247973
+dimwishlist:item=1019000888&perks=106909392,247725512,2896038713
+dimwishlist:item=1019000888&perks=3230963543,247725512,2896038713
+
+// Perses-D (PvE first choice roll)
+/ Any barrel, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Rapid Hit or Perpetual Motion help with reload speed and other useful stats. Vorpal Weapon doubles down on the origin perk providing additional damage to vehicles, turrets and constructs like Shriekers and Cyclopses. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1019000888&perks=106909392,247725512,1546637391
+dimwishlist:item=1019000888&perks=3230963543,247725512,1546637391
+dimwishlist:item=1019000888&perks=106909392,1428297954,1546637391
+dimwishlist:item=1019000888&perks=3230963543,1428297954,1546637391
+
+// Perses-D (PvE first choice roll)
+/ Any barrel, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Headstone
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Rapid Hit or Perpetual Motion help with reload speed and other useful stats. Headstone works well with Stasis builds and the origin perk, which does additional damage to stasis crystals for the dragonfly-like AOE damage. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1019000888&perks=106909392,247725512,124408337
+dimwishlist:item=1019000888&perks=3230963543,247725512,124408337
+dimwishlist:item=1019000888&perks=106909392,1428297954,124408337
+dimwishlist:item=1019000888&perks=3230963543,1428297954,124408337
+
+// Perses-D (PvE first choice roll)
+/ Any barrel, (Tactical Mag, Flared Magwell), Shoot to Loot, (Headstone, Explosive Rounds, Focused Fury, One for All, Vorpal Weapon)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Choose your barrel depending on your Stability/Handling/Recoil Direction preferences. A mag that provides reload speed, or a bit of extra ammo is useful for uptime in a fight. Shoot to Loot can be very useful for end-game content allowing you to restock ammo from cover and reload all your weapons. Headstone works well with Stasis builds and the origin perk, which does additional damage to stasis crystals for the dragonfly-like AOE damage, Explosive Payload adds damage, flinch and utility against Champions, or non-kill damage boosters increase your effectiveness in combat. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=1019000888&perks=106909392,3700496672,124408337
+dimwishlist:item=1019000888&perks=3230963543,3700496672,124408337
+dimwishlist:item=1019000888&perks=106909392,3700496672,3038247973
+dimwishlist:item=1019000888&perks=3230963543,3700496672,3038247973
+dimwishlist:item=1019000888&perks=106909392,3700496672,2896038713
+dimwishlist:item=1019000888&perks=3230963543,3700496672,2896038713
+dimwishlist:item=1019000888&perks=106909392,3700496672,4049631843
+dimwishlist:item=1019000888&perks=3230963543,3700496672,4049631843
+dimwishlist:item=1019000888&perks=106909392,3700496672,1546637391
+dimwishlist:item=1019000888&perks=3230963543,3700496672,1546637391
+
+// Ragnhild-D (PvE first choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Auto-Loading Holster, Auto-Loading Holster Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (One-Two Punch, One-Two Punch Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for end-game content. Shapeable weapon. It's difficult arguing against a Handling boost for your barrel, and then Assault Mag or Tactical Mag are the best magazine options. Use Auto-Loading Holster to be certain when you pull it out, it's ready to roll, or Perpetual Motion to help with boosts to all the useful stats, with the reliability of One-Two Punch for close-up major and champion damage. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,2679249093
+dimwishlist:item=4225322581&perks=4090651448,791862061,3300816228,2679249093
+dimwishlist:item=4225322581&perks=1300023272,106909392,3300816228,2679249093
+dimwishlist:item=4225322581&perks=4090651448,106909392,3300816228,2679249093
+dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,2679249093
+dimwishlist:item=4225322581&perks=4090651448,791862061,3528046508,2679249093
+dimwishlist:item=4225322581&perks=1300023272,106909392,3528046508,2679249093
+dimwishlist:item=4225322581&perks=4090651448,106909392,3528046508,2679249093
+dimwishlist:item=4225322581&perks=1300023272,791862061,1428297954,2679249093
+dimwishlist:item=4225322581&perks=4090651448,791862061,1428297954,2679249093
+dimwishlist:item=4225322581&perks=1300023272,106909392,1428297954,2679249093
+dimwishlist:item=4225322581&perks=4090651448,106909392,1428297954,2679249093
+dimwishlist:item=4225322581&perks=1300023272,791862061,2014892510,2679249093
+dimwishlist:item=4225322581&perks=4090651448,791862061,2014892510,2679249093
+dimwishlist:item=4225322581&perks=1300023272,106909392,2014892510,2679249093
+dimwishlist:item=4225322581&perks=4090651448,106909392,2014892510,2679249093
+dimwishlist:item=4225322581&perks=1300023272,791862061,3300816228,788178929
+dimwishlist:item=4225322581&perks=4090651448,791862061,3300816228,788178929
+dimwishlist:item=4225322581&perks=1300023272,106909392,3300816228,788178929
+dimwishlist:item=4225322581&perks=4090651448,106909392,3300816228,788178929
+dimwishlist:item=4225322581&perks=1300023272,791862061,3528046508,788178929
+dimwishlist:item=4225322581&perks=4090651448,791862061,3528046508,788178929
+dimwishlist:item=4225322581&perks=1300023272,106909392,3528046508,788178929
+dimwishlist:item=4225322581&perks=4090651448,106909392,3528046508,788178929
+dimwishlist:item=4225322581&perks=1300023272,791862061,1428297954,788178929
+dimwishlist:item=4225322581&perks=4090651448,791862061,1428297954,788178929
+dimwishlist:item=4225322581&perks=1300023272,106909392,1428297954,788178929
+dimwishlist:item=4225322581&perks=4090651448,106909392,1428297954,788178929
+dimwishlist:item=4225322581&perks=1300023272,791862061,2014892510,788178929
+dimwishlist:item=4225322581&perks=4090651448,791862061,2014892510,788178929
+dimwishlist:item=4225322581&perks=1300023272,106909392,2014892510,788178929
+dimwishlist:item=4225322581&perks=4090651448,106909392,2014892510,788178929
+
+// Ragnhild-D (PvE backup roll)
+// Any barrel, Any magazine, (Auto-Loading Holster, Auto-Loading Holster Enhanced, Perpetual Motion, Perpetual Motion Enhanced), (One-Two Punch, One-Two Punch Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE backup roll for end-game content. Shapeable weapon. Your choice of barrels and mag perks, depending on your preferences. Use Auto-Loading Holster to be certain when you pull it out, it's ready to roll, or Perpetual Motion to help with boosts to all the useful stats, with the reliability of One-Two Punch for close-up major and champion damage. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4225322581&perks=3300816228,2679249093
+dimwishlist:item=4225322581&perks=3528046508,2679249093
+dimwishlist:item=4225322581&perks=1428297954,2679249093
+dimwishlist:item=4225322581&perks=2014892510,2679249093
+dimwishlist:item=4225322581&perks=3300816228,788178929
+dimwishlist:item=4225322581&perks=3528046508,788178929
+dimwishlist:item=4225322581&perks=1428297954,788178929
+dimwishlist:item=4225322581&perks=2014892510,788178929
+
+// Ragnhild-D (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Subsistence, Subs Enhanced), (Demolitionist, Demolitionist Enhanced, Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice roll for general content. Shapeable weapon. It's difficult arguing against a Handling boost for your barrel, and then Assault Mag or Tactical Mag are the best magazine options. Subsistence kills keepo your magazine topped off, while Demolitionist or Adrenaline Junkie both have utility for grenade-based builds. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,3523296417
+dimwishlist:item=4225322581&perks=4090651448,791862061,1820235745,3523296417
+dimwishlist:item=4225322581&perks=1300023272,106909392,1820235745,3523296417
+dimwishlist:item=4225322581&perks=4090651448,106909392,1820235745,3523296417
+dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,3523296417
+dimwishlist:item=4225322581&perks=4090651448,791862061,4245865861,3523296417
+dimwishlist:item=4225322581&perks=1300023272,106909392,4245865861,3523296417
+dimwishlist:item=4225322581&perks=4090651448,106909392,4245865861,3523296417
+dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,1906147653
+dimwishlist:item=4225322581&perks=4090651448,791862061,1820235745,1906147653
+dimwishlist:item=4225322581&perks=1300023272,106909392,1820235745,1906147653
+dimwishlist:item=4225322581&perks=4090651448,106909392,1820235745,1906147653
+dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,1906147653
+dimwishlist:item=4225322581&perks=4090651448,791862061,4245865861,1906147653
+dimwishlist:item=4225322581&perks=1300023272,106909392,4245865861,1906147653
+dimwishlist:item=4225322581&perks=4090651448,106909392,4245865861,1906147653
+dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,11612903
+dimwishlist:item=4225322581&perks=4090651448,791862061,1820235745,11612903
+dimwishlist:item=4225322581&perks=1300023272,106909392,1820235745,11612903
+dimwishlist:item=4225322581&perks=4090651448,106909392,1820235745,11612903
+dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,11612903
+dimwishlist:item=4225322581&perks=4090651448,791862061,4245865861,11612903
+dimwishlist:item=4225322581&perks=1300023272,106909392,4245865861,11612903
+dimwishlist:item=4225322581&perks=4090651448,106909392,4245865861,11612903
+dimwishlist:item=4225322581&perks=1300023272,791862061,1820235745,2422968039
+dimwishlist:item=4225322581&perks=4090651448,791862061,1820235745,2422968039
+dimwishlist:item=4225322581&perks=1300023272,106909392,1820235745,2422968039
+dimwishlist:item=4225322581&perks=4090651448,106909392,1820235745,2422968039
+dimwishlist:item=4225322581&perks=1300023272,791862061,4245865861,2422968039
+dimwishlist:item=4225322581&perks=4090651448,791862061,4245865861,2422968039
+dimwishlist:item=4225322581&perks=1300023272,106909392,4245865861,2422968039
+dimwishlist:item=4225322581&perks=4090651448,106909392,4245865861,2422968039
+
+// Ragnhild-D (PvE backup roll)
+// Any barrel, Any magazine, (Subsistence, Subs Enhanced), (Demolitionist, Demolitionist Enhanced, Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE backup roll for general content. Shapeable weapon. Your choice of barrels and mag perks, depending on your preferences. Subsistence kills keep your magazine topped off, while Demolitionist or Adrenaline Junkie both have utility for grenade-based builds. Recommended MW: Reload Speed or Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4225322581&perks=1820235745,3523296417
+dimwishlist:item=4225322581&perks=4245865861,3523296417
+dimwishlist:item=4225322581&perks=1820235745,1906147653
+dimwishlist:item=4225322581&perks=4245865861,1906147653
+dimwishlist:item=4225322581&perks=1820235745,11612903
+dimwishlist:item=4225322581&perks=4245865861,11612903
+dimwishlist:item=4225322581&perks=1820235745,2422968039
+dimwishlist:item=4225322581&perks=4245865861,2422968039
+
+// Palmyra-B (PvE first choice roll)
+// (Volatile Launch, Confined Launch), Impact Casing (Auto-Loading Holster, Auto-Loading Holster Enhanced), (Explosive Light, Lasting Impression, Lasting Impression Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first roll for boss damage. Shapeable weapon. Volatile Launch or Confined Launch keep the velocity down, which is good in an auto-tracking launcher, and Impact Casing ups damage slightly. For Boss DPS, Auto-Loading Holster is the best option, with Explosive Light (but not the enhanced version which adds velocity) the best if you're in a fireteam and generating orbs, and for Champions with an instant detonation. If you're looking for straight boss damage, or soloing, Lasting Impression is easier to use. Recommended MW: Blast Radius or Handling, with damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3300816228,3194351027
+dimwishlist:item=3489657138&perks=1844523823,3796465595,3300816228,3194351027
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3528046508,3194351027
+dimwishlist:item=3489657138&perks=1844523823,3796465595,3528046508,3194351027
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3300816228,3927722942
+dimwishlist:item=3489657138&perks=1844523823,3796465595,3300816228,3927722942
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3528046508,3927722942
+dimwishlist:item=3489657138&perks=1844523823,3796465595,3528046508,3927722942
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3300816228,1167468626
+dimwishlist:item=3489657138&perks=1844523823,3796465595,3300816228,1167468626
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3528046508,1167468626
+dimwishlist:item=3489657138&perks=1844523823,3796465595,3528046508,1167468626
+
+// Palmyra-B (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compemsator), (Black Powder, Alloy Casing) (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE backup for add clear. Shapeable weapon. So you've got a Gunsmith rocket launcher bounty? Maximise the Blast Radius, and Reload Speed, and add Ambitious Assassin and Chain Reaction. Recommended MW: Blast Radius or Reload Speed, with damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3489657138&perks=1478423395,1996142143,2010801679,3076459908
+dimwishlist:item=3489657138&perks=1844523823,1996142143,2010801679,3076459908
+dimwishlist:item=3489657138&perks=1441682018,1996142143,2010801679,3076459908
+dimwishlist:item=3489657138&perks=1478423395,2985827016,2010801679,3076459908
+dimwishlist:item=3489657138&perks=1844523823,2985827016,2010801679,3076459908
+dimwishlist:item=3489657138&perks=1441682018,2985827016,2010801679,3076459908
+dimwishlist:item=3489657138&perks=1478423395,1996142143,3797647183,3076459908
+dimwishlist:item=3489657138&perks=1844523823,1996142143,3797647183,3076459908
+dimwishlist:item=3489657138&perks=1441682018,1996142143,3797647183,3076459908
+dimwishlist:item=3489657138&perks=1478423395,2985827016,3797647183,3076459908
+dimwishlist:item=3489657138&perks=1844523823,2985827016,3797647183,3076459908
+dimwishlist:item=3489657138&perks=1441682018,2985827016,3797647183,3076459908
+dimwishlist:item=3489657138&perks=1478423395,1996142143,2010801679,598607952
+dimwishlist:item=3489657138&perks=1844523823,1996142143,2010801679,598607952
+dimwishlist:item=3489657138&perks=1441682018,1996142143,2010801679,598607952
+dimwishlist:item=3489657138&perks=1478423395,2985827016,2010801679,598607952
+dimwishlist:item=3489657138&perks=1844523823,2985827016,2010801679,598607952
+dimwishlist:item=3489657138&perks=1441682018,2985827016,2010801679,598607952
+dimwishlist:item=3489657138&perks=1478423395,1996142143,3797647183,598607952
+dimwishlist:item=3489657138&perks=1844523823,1996142143,3797647183,598607952
+dimwishlist:item=3489657138&perks=1441682018,1996142143,3797647183,598607952
+dimwishlist:item=3489657138&perks=1478423395,2985827016,3797647183,598607952
+dimwishlist:item=3489657138&perks=1844523823,2985827016,3797647183,598607952
+dimwishlist:item=3489657138&perks=1441682018,2985827016,3797647183,598607952
+
+// Herod-C (PvE first choice roll)
+// Any barrel, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. Stats for All and One for All are natural partners. Recommended MW: Stability, Handling or Reload Speed, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1788603939&perks=1583705720,4049631843
+
+// Herod-C (PvE first choice roll)
+// Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Vorpal Weapon
+//notes: (???  ???): Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Vorpal Weapon builds into the foundry intrinsic perk to do more damage against vehicles, turrets, constructs and Stasis crystals. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1788603939&perks=1583705720,1546637391
+dimwishlist:item=1788603939&perks=1354429876,1546637391
+dimwishlist:item=1788603939&perks=3700496672,1546637391
+dimwishlist:item=1788603939&perks=1428297954,1546637391
+dimwishlist:item=1788603939&perks=1570042021,1546637391
+dimwishlist:item=1788603939&perks=3300816228,1546637391
+
+// Herod-C (PvE first choice roll)
+// Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Headstone
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Headstone works well for Stasis builds, with the foundry intrinsic perk providing extra damage against Stasis crystals for dragonfly-like AOE damage. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1788603939&perks=1583705720,124408337
+dimwishlist:item=1788603939&perks=1354429876,124408337
+dimwishlist:item=1788603939&perks=3700496672,124408337
+dimwishlist:item=1788603939&perks=1428297954,124408337
+dimwishlist:item=1788603939&perks=1570042021,124408337
+dimwishlist:item=1788603939&perks=3300816228,124408337
+
+// Herod-C (PvE first choice roll)
+// Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for end-game use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Frenzy provides a reliable passive damage-boost. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1788603939&perks=1583705720,4104185692
+dimwishlist:item=1788603939&perks=1354429876,4104185692
+dimwishlist:item=1788603939&perks=3700496672,4104185692
+dimwishlist:item=1788603939&perks=1428297954,4104185692
+dimwishlist:item=1788603939&perks=1570042021,4104185692
+dimwishlist:item=1788603939&perks=3300816228,4104185692
+
+// Herod-C (PvE first choice roll)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for general use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Multikill Clip is a good damage boost perk for non end-game activities. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1788603939&perks=1583705720,2458213969
+dimwishlist:item=1788603939&perks=1354429876,2458213969
+dimwishlist:item=1788603939&perks=3700496672,2458213969
+dimwishlist:item=1788603939&perks=1428297954,2458213969
+dimwishlist:item=1788603939&perks=1570042021,2458213969
+dimwishlist:item=1788603939&perks=3300816228,2458213969
+dimwishlist:item=1788603939&perks=1570042021,2458213969
