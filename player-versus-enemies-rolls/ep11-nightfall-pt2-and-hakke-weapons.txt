@@ -72,7 +72,8 @@ dimwishlist:item=3355385170&perks=1087426260,3400784728,4104185692
 dimwishlist:item=3355385170&perks=1087426260,3400784728,2896038713
 
 // Silicon Neuroma (Adept) (PvE first choice roll)
-// Any barrel, Appended Mag, Triple Tap (Firing Line, Frenzy, Focused Fury)//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for Burst damage on a Major or Boss. The Stunning Recovery origin trait could be useful when there's an anti-champion sniper mod. Choose your barrel depending on your Range/Stability/Handling preferences. Appended Mag with Adept Backup Mag gets you to five rounds in the mag, giving seven crit hits before reloading with Triple Tap. Firing Line is your choice for damage in a fireteam, while Frenzy or Focused Fury are better for solo activities. Recommended MW: Reload Speed or Handling, with Adept Backup Mag mod.
+// Any barrel, Appended Mag, Triple Tap (Firing Line, Frenzy, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first choice roll for Burst damage on a Major or Boss. The Stunning Recovery origin trait could be useful when there's an anti-champion sniper mod. Choose your barrel depending on your Range/Stability/Handling preferences. Appended Mag with Adept Backup Mag gets you to five rounds in the mag, giving seven crit hits before reloading with Triple Tap. Firing Line is your choice for damage in a fireteam, while Frenzy or Focused Fury are better for solo activities. Recommended MW: Reload Speed or Handling, with Adept Backup Mag mod.
 dimwishlist:item=1387987271&perks=1087426260,3400784728,1771339417
 dimwishlist:item=1387987271&perks=1087426260,3400784728,4104185692
 dimwishlist:item=1387987271&perks=1087426260,3400784728,2896038713
