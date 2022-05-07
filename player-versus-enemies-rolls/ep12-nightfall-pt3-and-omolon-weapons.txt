@@ -234,7 +234,7 @@ dimwishlist:item=4114929480&perks=671806388,4104185692
 
 // Typhon GL5 (PvE first choice roll)
 // Any barrel, Spike Grenades, Impulse Amplifier, Explosive Light
-//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for Boss DPS. Omolon trait gives stability and reload speed in the top half of the mag. This is the first legendary stasis grenade launcher, and the first since Wendigo with Explosive Light. Your preference of barrel for blast radius or velocity, and Spike Grenades to maximise single-target damage. Then pair with Impulse Amplifier for faster projectiles and reload speed. Recommended MW: Reload Speed with a damage-boosting (Major, Boss or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for Boss DPS. Omolon trait gives stability and reload speed in the top half of the mag. This is the first legendary stasis grenade launcher, and the first with Explosive Light since Wendigo. Your preference of barrel for blast radius or velocity, and Spike Grenades to maximise single-target damage. Then pair with Impulse Amplifier for faster projectiles and reload speed. Recommended MW: Reload Speed with a damage-boosting (Major, Boss or Taken Spec) mod.
 dimwishlist:item=3568377122&perks=3301904089,951095735,3194351027
 
 // Typhon GL5 (PvE first choice roll)
