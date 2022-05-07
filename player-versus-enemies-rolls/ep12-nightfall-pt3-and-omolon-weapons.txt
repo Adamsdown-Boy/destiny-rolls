@@ -11,22 +11,22 @@ dimwishlist:item=1028582252&perks=1300023272,791862061,1820235745,1546637391
 dimwishlist:item=1028582252&perks=4090651448,791862061,1820235745,1546637391
 dimwishlist:item=1028582252&perks=1300023272,106909392,1820235745,1546637391
 dimwishlist:item=1028582252&perks=4090651448,106909392,1820235745,1546637391
-dimwishlist:item=1028582252&perks=1300023272,791862061,1556840489,806159697
-dimwishlist:item=1028582252&perks=4090651448,791862061,1556840489,806159697
-dimwishlist:item=1028582252&perks=1300023272,106909392,1556840489,806159697
-dimwishlist:item=1028582252&perks=4090651448,106909392,1556840489,806159697
-dimwishlist:item=1028582252&perks=1300023272,791862061,1820235745,806159697
-dimwishlist:item=1028582252&perks=4090651448,791862061,1820235745,806159697
-dimwishlist:item=1028582252&perks=1300023272,106909392,1820235745,806159697
-dimwishlist:item=1028582252&perks=4090651448,106909392,1820235745,806159697
+dimwishlist:item=1028582252&perks=1300023272,791862061,1556840489,2360754333
+dimwishlist:item=1028582252&perks=4090651448,791862061,1556840489,2360754333
+dimwishlist:item=1028582252&perks=1300023272,106909392,1556840489,2360754333
+dimwishlist:item=1028582252&perks=4090651448,106909392,1556840489,2360754333
+dimwishlist:item=1028582252&perks=1300023272,791862061,1820235745,2360754333
+dimwishlist:item=1028582252&perks=4090651448,791862061,1820235745,2360754333
+dimwishlist:item=1028582252&perks=1300023272,106909392,1820235745,2360754333
+dimwishlist:item=1028582252&perks=4090651448,106909392,1820235745,2360754333
 
 // The Comedian (PvE backup roll)
 // Any barrel, Any mag, (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, choose your preference in barrel and mag perks, and add something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
 dimwishlist:item=1028582252&perks=1556840489,1546637391
 dimwishlist:item=1028582252&perks=1820235745,1546637391
-dimwishlist:item=1028582252&perks=1556840489,806159697
-dimwishlist:item=1028582252&perks=1820235745,806159697
+dimwishlist:item=1028582252&perks=1556840489,2360754333
+dimwishlist:item=1028582252&perks=1820235745,2360754333
 
 // The Comedian (Adept) (PvE first choice roll)
 // (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
@@ -39,22 +39,22 @@ dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,1546637391
 dimwishlist:item=2443900757&perks=4090651448,791862061,1820235745,1546637391
 dimwishlist:item=2443900757&perks=1300023272,106909392,1820235745,1546637391
 dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,1546637391
-dimwishlist:item=2443900757&perks=1300023272,791862061,1556840489,806159697
-dimwishlist:item=2443900757&perks=4090651448,791862061,1556840489,806159697
-dimwishlist:item=2443900757&perks=1300023272,106909392,1556840489,806159697
-dimwishlist:item=2443900757&perks=4090651448,106909392,1556840489,806159697
-dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,806159697
-dimwishlist:item=2443900757&perks=4090651448,791862061,1820235745,806159697
-dimwishlist:item=2443900757&perks=1300023272,106909392,1820235745,806159697
-dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,806159697
+dimwishlist:item=2443900757&perks=1300023272,791862061,1556840489,2360754333
+dimwishlist:item=2443900757&perks=4090651448,791862061,1556840489,2360754333
+dimwishlist:item=2443900757&perks=1300023272,106909392,1556840489,2360754333
+dimwishlist:item=2443900757&perks=4090651448,106909392,1556840489,2360754333
+dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,2360754333
+dimwishlist:item=2443900757&perks=4090651448,791862061,1820235745,2360754333
+dimwishlist:item=2443900757&perks=1300023272,106909392,1820235745,2360754333
+dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,2360754333
 
 // The Comedian (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
 //notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, choose your preference in barrel and mag perks, and add something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=2443900757&perks=1556840489,1546637391
 dimwishlist:item=2443900757&perks=1820235745,1546637391
-dimwishlist:item=2443900757&perks=1556840489,806159697
-dimwishlist:item=2443900757&perks=1820235745,806159697
+dimwishlist:item=2443900757&perks=1556840489,2360754333
+dimwishlist:item=2443900757&perks=1820235745,2360754333
 
 // The Hothead (PvE first choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Auto-loading Holster, (Explosive Light, Lasting Impression)
