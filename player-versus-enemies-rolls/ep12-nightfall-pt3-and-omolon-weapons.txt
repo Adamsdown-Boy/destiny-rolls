@@ -1,0 +1,245 @@
+@title:Nightfall weapons part 3 and Omolon foundry
+
+// The Comedian (PvE first choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, you'll generally want good handling and faster firing speed or an extra round in the mag from your barrel and mag, and something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1028582252&perks=1300023272,791862061,1556840489,1546637391
+dimwishlist:item=1028582252&perks=4090651448,791862061,1556840489,1546637391
+dimwishlist:item=1028582252&perks=1300023272,106909392,1556840489,1546637391
+dimwishlist:item=1028582252&perks=4090651448,106909392,1556840489,1546637391
+dimwishlist:item=1028582252&perks=1300023272,791862061,1820235745,1546637391
+dimwishlist:item=1028582252&perks=4090651448,791862061,1820235745,1546637391
+dimwishlist:item=1028582252&perks=1300023272,106909392,1820235745,1546637391
+dimwishlist:item=1028582252&perks=4090651448,106909392,1820235745,1546637391
+dimwishlist:item=1028582252&perks=1300023272,791862061,1556840489,806159697
+dimwishlist:item=1028582252&perks=4090651448,791862061,1556840489,806159697
+dimwishlist:item=1028582252&perks=1300023272,106909392,1556840489,806159697
+dimwishlist:item=1028582252&perks=4090651448,106909392,1556840489,806159697
+dimwishlist:item=1028582252&perks=1300023272,791862061,1820235745,806159697
+dimwishlist:item=1028582252&perks=4090651448,791862061,1820235745,806159697
+dimwishlist:item=1028582252&perks=1300023272,106909392,1820235745,806159697
+dimwishlist:item=1028582252&perks=4090651448,106909392,1820235745,806159697
+
+// The Comedian (PvE backup roll)
+// Any barrel, Any mag, (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, choose your preference in barrel and mag perks, and add something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1028582252&perks=1556840489,1546637391
+dimwishlist:item=1028582252&perks=1820235745,1546637391
+dimwishlist:item=1028582252&perks=1556840489,806159697
+dimwishlist:item=1028582252&perks=1820235745,806159697
+
+// The Comedian (Adept) (PvE first choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, you'll generally want good handling and faster firing speed or an extra round in the mag from your barrel and mag, and something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=2443900757&perks=1300023272,791862061,1556840489,1546637391
+dimwishlist:item=2443900757&perks=4090651448,791862061,1556840489,1546637391
+dimwishlist:item=2443900757&perks=1300023272,106909392,1556840489,1546637391
+dimwishlist:item=2443900757&perks=4090651448,106909392,1556840489,1546637391
+dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,1546637391
+dimwishlist:item=2443900757&perks=4090651448,791862061,1820235745,1546637391
+dimwishlist:item=2443900757&perks=1300023272,106909392,1820235745,1546637391
+dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,1546637391
+dimwishlist:item=2443900757&perks=1300023272,791862061,1556840489,806159697
+dimwishlist:item=2443900757&perks=4090651448,791862061,1556840489,806159697
+dimwishlist:item=2443900757&perks=1300023272,106909392,1556840489,806159697
+dimwishlist:item=2443900757&perks=4090651448,106909392,1556840489,806159697
+dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,806159697
+dimwishlist:item=2443900757&perks=4090651448,791862061,1820235745,806159697
+dimwishlist:item=2443900757&perks=1300023272,106909392,1820235745,806159697
+dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,806159697
+
+// The Comedian (Adept) (PvE backup roll)
+// Any barrel, Any mag, (Lead From Gold, Subsistence), (Vorpal Weapon, Trench Barrel)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Bad stats generally, and sub-optimal damage output as at Season 16 - rapid fire subtypes are generally better picks. If you want to tuck one away in case Aggressive frame shotguns get some love, or there's an anti-Champion mod around, choose your preference in barrel and mag perks, and add something that helps with ammo economy and additional damage from your trait columns. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=2443900757&perks=1556840489,1546637391
+dimwishlist:item=2443900757&perks=1820235745,1546637391
+dimwishlist:item=2443900757&perks=1556840489,806159697
+dimwishlist:item=2443900757&perks=1820235745,806159697
+
+// The Hothead (PvE first choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Auto-loading Holster, (Explosive Light, Lasting Impression)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice roll for burst and sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Improve velocity and reload speed with your barrel and mag, and then use Auto-Loading Holster and a damage-boosting trait, and pair with a sniper to continue damage while it reloads in its holster. Recommended MW: Stability, Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4255171531&perks=981914802,3796465595,3300816228,3194351027
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=4255171531&perks=1441682018,3796465595,3300816228,3194351027
+dimwishlist:item=4255171531&perks=3798852852,3796465595,3300816228,3194351027
+dimwishlist:item=4255171531&perks=981914802,3796465595,3300816228,3927722942
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=4255171531&perks=1441682018,3796465595,3300816228,3927722942
+dimwishlist:item=4255171531&perks=3798852852,3796465595,3300816228,3927722942
+
+// The Hothead (PvE backup roll)
+// Any barrel, Any mag, Auto-loading Holster, (Explosive Light, Lasting Impression)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for burst and sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use Auto-Loading Holster and a damage-boosting trait, and pair with a sniper to continue damage while it reloads in its holster. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4255171531&perks=3300816228,3194351027
+dimwishlist:item=4255171531&perks=3300816228,3927722942
+
+// The Hothead (PvE first choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), (Alloy Casing, High-velocity Rounds), (Field Prep, Ensemble), Clown Cartridge
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice roll for sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Use barrel and mag to improve velocity and reload speed, and then use maximise damage output with your last two traits - Field Prep for better reserves and faster reload while crouched (or Ensemble if you're in a fireteam), and Clown Cartridge for two in the chamber on reload. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4255171531&perks=981914802,2985827016,2869569095,2284787283
+dimwishlist:item=4255171531&perks=3525010810,2985827016,2869569095,2284787283
+dimwishlist:item=4255171531&perks=1441682018,2985827016,2869569095,2284787283
+dimwishlist:item=4255171531&perks=3798852852,2985827016,2869569095,2284787283
+dimwishlist:item=4255171531&perks=981914802,2822142346,2869569095,2284787283
+dimwishlist:item=4255171531&perks=3525010810,2822142346,2869569095,2284787283
+dimwishlist:item=4255171531&perks=1441682018,2822142346,2869569095,2284787283
+dimwishlist:item=4255171531&perks=3798852852,2822142346,2869569095,2284787283
+dimwishlist:item=4255171531&perks=981914802,2985827016,2621346526,2284787283
+dimwishlist:item=4255171531&perks=3525010810,2985827016,2621346526,2284787283
+dimwishlist:item=4255171531&perks=1441682018,2985827016,2621346526,2284787283
+dimwishlist:item=4255171531&perks=3798852852,2985827016,2621346526,2284787283
+dimwishlist:item=4255171531&perks=981914802,2822142346,2621346526,2284787283
+dimwishlist:item=4255171531&perks=3525010810,2822142346,2621346526,2284787283
+dimwishlist:item=4255171531&perks=1441682018,2822142346,2621346526,2284787283
+dimwishlist:item=4255171531&perks=3798852852,2822142346,2621346526,2284787283
+
+// The Hothead (PvE backup roll)
+// Any barrel, Any mag, (Field Prep, Ensemble), Clown Cartridge
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use maximise damage output with your last two traits - Field Prep for better reserves and faster reload while crouched (or Ensemble if you're in a fireteam), and Clown Cartridge for two in the chamber on reload. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=4255171531&perks=2869569095,2284787283
+dimwishlist:item=4255171531&perks=2621346526,2284787283
+
+// The Hothead (Adept) (PvE first choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Auto-loading Holster, (Explosive Light, Lasting Impression)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice roll for burst and sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Improve velocity and reload speed with your barrel and mag, and then use Auto-Loading Holster and a damage-boosting trait, and pair with a sniper to continue damage while it reloads in its holster. Recommended MW: Stability, Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1866778462&perks=981914802,3796465595,3300816228,3194351027
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3300816228,3194351027
+dimwishlist:item=1866778462&perks=1441682018,3796465595,3300816228,3194351027
+dimwishlist:item=1866778462&perks=3798852852,3796465595,3300816228,3194351027
+dimwishlist:item=1866778462&perks=981914802,3796465595,3300816228,3927722942
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=1866778462&perks=1441682018,3796465595,3300816228,3927722942
+dimwishlist:item=1866778462&perks=3798852852,3796465595,3300816228,3927722942
+
+// The Hothead (Adept) (PvE backup roll)
+// Any barrel, Any mag, Auto-loading Holster, (Explosive Light, Lasting Impression)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for burst and sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use Auto-Loading Holster and a damage-boosting trait, and pair with a sniper to continue damage while it reloads in its holster. Recommended MW: Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1866778462&perks=3300816228,3194351027
+dimwishlist:item=1866778462&perks=3300816228,3927722942
+
+// The Hothead (Adept) (PvE first choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), (Alloy Casing, High-velocity Rounds), (Field Prep, Ensemble), Clown Cartridge
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice roll for sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Use barrel and mag to improve velocity and reload speed, and then use maximise damage output with your last two traits - Field Prep for better reserves and faster reload while crouched (or Ensemble if you're in a fireteam), and Clown Cartridge for two in the chamber on reload. Recommended MW: Reload Speed, with a damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1866778462&perks=981914802,2985827016,2869569095,2284787283
+dimwishlist:item=1866778462&perks=3525010810,2985827016,2869569095,2284787283
+dimwishlist:item=1866778462&perks=1441682018,2985827016,2869569095,2284787283
+dimwishlist:item=1866778462&perks=3798852852,2985827016,2869569095,2284787283
+dimwishlist:item=1866778462&perks=981914802,2822142346,2869569095,2284787283
+dimwishlist:item=1866778462&perks=3525010810,2822142346,2869569095,2284787283
+dimwishlist:item=1866778462&perks=1441682018,2822142346,2869569095,2284787283
+dimwishlist:item=1866778462&perks=3798852852,2822142346,2869569095,2284787283
+dimwishlist:item=1866778462&perks=981914802,2985827016,2621346526,2284787283
+dimwishlist:item=1866778462&perks=3525010810,2985827016,2621346526,2284787283
+dimwishlist:item=1866778462&perks=1441682018,2985827016,2621346526,2284787283
+dimwishlist:item=1866778462&perks=3798852852,2985827016,2621346526,2284787283
+dimwishlist:item=1866778462&perks=981914802,2822142346,2621346526,2284787283
+dimwishlist:item=1866778462&perks=3525010810,2822142346,2621346526,2284787283
+dimwishlist:item=1866778462&perks=1441682018,2822142346,2621346526,2284787283
+dimwishlist:item=1866778462&perks=3798852852,2822142346,2621346526,2284787283
+
+// The Hothead (Adept) (PvE backup roll)
+// Any barrel, Any mag, (Field Prep, Ensemble), Clown Cartridge
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for sustained Boss DPS. Great for pairing with a Gjallerhorn in a fireteam, and worth tucking a roll away for Arc 3.0. Now that adaptive rocket launchers do additional damage than other subtypes, they're a very good choice for Boss DPS. Your choice of barrel and mag, and then use maximise damage output with your last two traits - Field Prep for better reserves and faster reload while crouched (or Ensemble if you're in a fireteam), and Clown Cartridge for two in the chamber on reload. Recommended MW: Reload Speed, with a damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1866778462&perks=2869569095,2284787283
+dimwishlist:item=1866778462&perks=2621346526,2284787283
+
+// Crisis Inverted (PvE first choice roll)
+// Any barrel, Armor-Piercing Rounds, (Rapid Hit, Shoot To Loot), (Vorpal Weapon, Turnmabout)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first-choice roll for barrier champion mods. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrels, with Armor-Piercing Rounds and a useful trait to pair with Vorpal Weapon or Turnabout in the final column. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Major or Taken Spec) mod.
+dimwishlist:item=2888266564&perks=1968497646,247725512,1546637391
+dimwishlist:item=2888266564&perks=1968497646,3700496672,1546637391
+dimwishlist:item=2888266564&perks=1968497646,247725512,2209918983
+dimwishlist:item=2888266564&perks=1968497646,3700496672,2209918983
+
+// Crisis Inverted (PvE backup roll)
+// Any barrel, Armor-Piercing Rounds, (Stats For  All, Outlaw, Demolitionist), (Vorpal Weapon, Turnmabout)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for barrier champion mods. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrels, with Armor-Piercing Rounds and a useful trait to pair with Vorpal Weapon or Turnabout in the final column. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Major or Taken Spec) mod.
+dimwishlist:item=2888266564&perks=1968497646,1583705720,1546637391
+dimwishlist:item=2888266564&perks=1968497646,1168162263,1546637391
+dimwishlist:item=2888266564&perks=1968497646,3523296417,1546637391
+dimwishlist:item=2888266564&perks=1968497646,1583705720,2209918983
+dimwishlist:item=2888266564&perks=1968497646,1168162263,2209918983
+dimwishlist:item=2888266564&perks=1968497646,3523296417,2209918983
+
+// Crisis Inverted (PvE first choice roll)
+// Any barrel, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrel and mag perks, with the always reliable "All For All" combination in the two trait columns. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2888266564&perks=1583705720,4049631843
+
+// Crisis Inverted (PvE first choice roll)
+// Any barrel, Any mag, Shoot To Loot, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrel and mag perks, with the Shoot To Loot to help with safe ammo pickup and One For All as a reliable damage boost. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2888266564&perks=3700496672,4049631843
+
+// Crisis Inverted (PvE first choice roll)
+// Any barrel, Any mag, Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for grenade builds. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Dealer's choice of barrel and mag perks, with the natural symbiosis of Demolitionist and Adrenaline Junkie. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2888266564&perks=3700496672,4049631843
+
+// Crisis Inverted (PvE backup roll)
+// Any barrel, Any Mag, (Shoot to Loot, Stats For All, Outlaw, Demolitionist, Rapid Hit), (One For All, Vorpal Weapon, Adrenaline Junkie, Turnabout)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE backup roll for general use. Omolon trait gives stability and reload speed in the top half of the mag. Huge perk pool, so you only have a 1 in 144 chance of any last two perks, before you even look at barrels and mags. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2888266564&perks=3700496672,4049631843
+dimwishlist:item=2888266564&perks=1583705720,4049631843
+dimwishlist:item=2888266564&perks=1168162263,4049631843
+dimwishlist:item=2888266564&perks=3523296417,4049631843
+dimwishlist:item=2888266564&perks=247725512,4049631843
+dimwishlist:item=2888266564&perks=3700496672,1546637391
+dimwishlist:item=2888266564&perks=1583705720,1546637391
+dimwishlist:item=2888266564&perks=1168162263,1546637391
+dimwishlist:item=2888266564&perks=3523296417,1546637391
+dimwishlist:item=2888266564&perks=247725512,1546637391
+dimwishlist:item=2888266564&perks=3700496672,11612903
+dimwishlist:item=2888266564&perks=1583705720,11612903
+dimwishlist:item=2888266564&perks=1168162263,11612903
+dimwishlist:item=2888266564&perks=3523296417,11612903
+dimwishlist:item=2888266564&perks=247725512,11612903
+dimwishlist:item=2888266564&perks=3700496672,11612903
+dimwishlist:item=2888266564&perks=1583705720,11612903
+dimwishlist:item=2888266564&perks=1168162263,11612903
+dimwishlist:item=2888266564&perks=3523296417,11612903
+dimwishlist:item=2888266564&perks=247725512,11612903
+dimwishlist:item=2888266564&perks=3700496672,2209918983
+dimwishlist:item=2888266564&perks=1583705720,2209918983
+dimwishlist:item=2888266564&perks=1168162263,2209918983
+dimwishlist:item=2888266564&perks=3523296417,2209918983
+dimwishlist:item=2888266564&perks=247725512,2209918983
+
+// Ogma PR6 (PvE first choice roll)
+// Any barrel, Any mag, Adaptive Munitions, (Disruption Break, Turnabout)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for anti. Omolon trait gives stability and reload speed in the top half of the mag. The unique (as at S17) combination of Adaptive Munitions and Disruption Break for 50% more kinetic damage after a shield break, or Turnabout for an overshile don sheild break. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2342054803&perks=1048183818,3871884143
+dimwishlist:item=2342054803&perks=1048183818,2209918983
+
+// Ogma PR6 (PvE first choice roll)
+// Any barrel, Any mag, Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for grenade builds. Omolon trait gives stability and reload speed in the top half of the mag. Your choice of barrel and mag, with the natural symbiosis of Demolitionist and Adrenaline Junkie for Solar 3.0. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2342054803&perks=3523296417,11612903
+
+// Ogma PR6 (PvE first choice roll)
+// Any barrel, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Your choice of barrel and mag, with the with the "All For All" combo of Stats For All and One For All. Recommended MW: your choice of Stability, Range, Reload Speed and Handling with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2342054803&perks=1583705720,4049631843
+
+// Snorri FR5 (PvE first choice roll)
+// Any barrel, Any mag, Compulsive Reloader, Reservoir Burst
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Barrel and mag are your preference. Build into the Omolon Perk with a combination of Compulsive Reloader and Reservoir Burst, to keep the magazine full for the extra damage and add explosions on kills. Recommended MW: Reload Speed with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4114929480&perks=671806388,1427256713
+
+// Snorri FR5 (PvE first choice roll)
+// Any barrel, Any mag, Compulsive Reloader, Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Barrel and mag are your preference. Build into the Omolon Perk with a combination of Compulsive Reloader, while Frenzy gives you a respectable damage boost. Recommended MW: Reload Speed with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4114929480&perks=671806388,4104185692
+
+// Typhon GL5 (PvE first choice roll)
+// Any barrel, Spike Grenades, Impulse Amplifier, Explosive Light
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for Boss DPS. Omolon trait gives stability and reload speed in the top half of the mag. This is the first legendary stasis grenade launcher, and the first since Wendigo with Explosive Light. Your preference of barrel for blast radius or velocity, and Spike Grenades to maximise single-target damage. Then pair with Impulse Amplifier for faster projectiles and reload speed. Recommended MW: Reload Speed with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3568377122&perks=3301904089,951095735,3194351027
+
+// Typhon GL5 (PvE first choice roll)
+// Any barrel, Any mag, Demolitionist, (Adrenaline Junkie, Chill Clip, Frenzy)
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Your preference of barrel and mag for blast radius or velocity and reload speed. Then pair with Demolitionist for more grenades and Adrenaline Junkie for grenade builds, Chill Clip to slow groups of enemies or Frenzy for a reliable damage boost against beefier enemies. Recommended MW: Blast Radius, Velocity or Reload Speed with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3568377122&perks=3523296417,11612903
+dimwishlist:item=3568377122&perks=3523296417,2978966579
+dimwishlist:item=3568377122&perks=3523296417,4104185692
