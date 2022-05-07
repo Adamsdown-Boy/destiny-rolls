@@ -1,4 +1,4 @@
-@title:Nightfall weapons part 2
+@title:Nightfall weapons part 2 and Hakke foundry
 
 // Duty Bound (PvE first choice roll)
 // Arrohead Brake, (Steady Rounds, Tactical Mag, Flared Magwell), Stats For All, One For All
@@ -304,6 +304,7 @@ dimwishlist:item=1788603939&perks=1570042021,4104185692
 dimwishlist:item=1788603939&perks=3300816228,4104185692
 
 // Herod-C (PvE first choice roll)
+// Any barrel, Any mag, (Stats For All, Fourth Time's The Charm, Shoot To Loot, Perpetual Motion, Auto-Loading Holster), Miltikill Clip
 //notes:Inspired by DMB Player Versus Enemies Podcast 11. PvE first-choice for general use. Not the strongest subtype, but worth tucking a roll in case High-Impact Frame ARs ever get some love. Gambit drop, with large perk pools, giving a 1 in 144 chance of getting the two perks you want in the last two columns, before even looking at barrels and mags. Choose barrel and mag depending on your Stability, Handling or Reload Speed preferences. There are really good options to improve weapon performance in the third column, and Multikill Clip is a good damage boost perk for non end-game activities. Recommended MW: Stability, Handling or Reload Speed, with damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=1788603939&perks=1583705720,2458213969
 dimwishlist:item=1788603939&perks=1354429876,2458213969
