@@ -224,7 +224,7 @@ dimwishlist:item=2342054803&perks=1583705720,4049631843
 
 // Snorri FR5 (PvE first choice roll)
 // Any barrel, Any mag, Compulsive Reloader, Reservoir Burst
-//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Barrel and mag are your preference. Build into the Omolon Perk with a combination of Compulsive Reloader and Reservoir Burst, to keep the magazine full for the extra damage and add explosions on kills. Recommended MW: Reload Speed with a damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 12. PvE first choice roll for end-game content. Omolon trait gives stability and reload speed in the top half of the mag. Barrel and mag are your preference. Build into the Omolon Perk with a combination of Compulsive Reloader and Reservoir Burst, to reload after each shot and keep the magazine full for the extra damage and add explosions on kills. Recommended MW: Reload Speed with a damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=4114929480&perks=671806388,1427256713
 
 // Snorri FR5 (PvE first choice roll)
