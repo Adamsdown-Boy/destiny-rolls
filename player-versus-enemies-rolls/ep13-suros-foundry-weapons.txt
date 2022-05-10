@@ -1,0 +1,153 @@
+@title:Suros foundry weapons
+
+// Syncopation-53 (PvE first choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), Any mag, (Outlaw, Outlaw Enhanced), (Headstone, Headstone Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for stasis builds. Shapeable. Solid feeling weapon - could do with a tiny bit of help with recoil direction in the barrel, and then your choice of mag perk for stability, range, reload speed or combat effect. Maybe more PvP options with the traits, but Outlaw and Headstone provide a solid choice of weapon for stasis builds. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Minor, Major, or Taken Spec) mod.
+dimwishlist:item=2856514843&perks=839105230,1168162263,124408337
+dimwishlist:item=2856514843&perks=3661387068,1168162263,124408337
+dimwishlist:item=2856514843&perks=1467527085,1168162263,124408337
+dimwishlist:item=2856514843&perks=839105230,1347741687,124408337
+dimwishlist:item=2856514843&perks=3661387068,1347741687,124408337
+dimwishlist:item=2856514843&perks=1467527085,1347741687,124408337
+dimwishlist:item=2856514843&perks=839105230,1168162263,1171887445
+dimwishlist:item=2856514843&perks=3661387068,1168162263,1171887445
+dimwishlist:item=2856514843&perks=1467527085,1168162263,1171887445
+dimwishlist:item=2856514843&perks=839105230,1347741687,1171887445
+dimwishlist:item=2856514843&perks=3661387068,1347741687,1171887445
+dimwishlist:item=2856514843&perks=1467527085,1347741687,1171887445
+
+// Syncopation-53 (PvE first choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), Any mag, (Outlaw, Outlaw Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game use. Shapeable. Solid feeling weapon - could do with a tiny bit of help with recoil direction in the barrel, and then your choice of mag perk for stability, range, reload speed or combat effect. Maybe more PvP options with the traits, but Outlaw will help keep kill streaks going once you proc Frenzy. Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2856514843&perks=839105230,1168162263,4104185692
+dimwishlist:item=2856514843&perks=3661387068,1168162263,4104185692
+dimwishlist:item=2856514843&perks=1467527085,1168162263,4104185692
+dimwishlist:item=2856514843&perks=839105230,1347741687,4104185692
+dimwishlist:item=2856514843&perks=3661387068,1347741687,4104185692
+dimwishlist:item=2856514843&perks=1467527085,1347741687,4104185692
+dimwishlist:item=2856514843&perks=839105230,1168162263,3007133316
+dimwishlist:item=2856514843&perks=3661387068,1168162263,3007133316
+dimwishlist:item=2856514843&perks=1467527085,1168162263,3007133316
+dimwishlist:item=2856514843&perks=839105230,1347741687,3007133316
+dimwishlist:item=2856514843&perks=3661387068,1347741687,3007133316
+dimwishlist:item=2856514843&perks=1467527085,1347741687,3007133316
+
+// Cantata-57 (PvE first choice roll)
+// Any barrel, Any mag, Rapid Hit, Timed Payload
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game use. Very good option for an arc energy primary weapon, particularly when there's an anti-champion mod to pair with it. Solid base stats, so your choice of barrel and mag, with Rapid Hit for a better feeling weapon on crit hits and and Timed Payload for flinch and bonus damage. Recommended MW: Handling. Stability or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=372697604&perks=247725512,1954620775
+
+// Finite Impactor (PvE first choice roll)
+// (FastDraw HCS, SteadyHand HCS, TrueSight HCS), Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE backup roll for end-game use. Only keep if you haven't got a better arc hand cannon already, as the bases stats are pretty much worst in class. Avoid any sight that harms a stat, and choose your preferred mag. The "All For All" combo of Stats For All and One For All is available, even if it takes 30% of your magazine to proc. Recommended MW: Handling, Stability or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=3813153080&perks=1926090094,1583705720,4049631843
+dimwishlist:item=3813153080&perks=1926090095,1583705720,4049631843
+dimwishlist:item=3813153080&perks=1926090092,1583705720,4049631843
+
+// Occluded Finality (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Mag, Auto-Loading Holster, (Firing Line, Vorpal Weapon)
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for Boss DPS. Look for a Handling buff in the barrel for swapping, and Extended Mag plus Backup Mag mod gives you seven shots. Auto-Loading Holster means you can ignore the tanked Reload Speed while you swap to your power weapon to to continue damage and reload, and Firing Line works in a fireteam, or Vorpal Weapon works for solo content. Recommended MW: Handling, with Backup Mag mod.
+dimwishlist:item=852551895&perks=1840239774,2420895100,3300816228,1771339417
+dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1771339417
+dimwishlist:item=852551895&perks=4090651448,2420895100,3300816228,1771339417
+dimwishlist:item=852551895&perks=1840239774,2420895100,3300816228,1546637391
+dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391
+dimwishlist:item=852551895&perks=4090651448,2420895100,3300816228,1546637391
+
+// Fugue-55 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, Auto-Loading Holster, (Firing Line, Vorpal Weapon)
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for Boss DPS. Look for a Handling buff in the barrel for swapping, and Appended Mag plus Backup Mag mod gives you seven shots. Auto-Loading Holster means you can swap to your power weapon to continue damage and reload, and Firing Line works in a fireteam, or Vorpal Weapon works for solo content. Recommended MW: Handling, with Backup Mag mod.
+dimwishlist:item=2233545123&perks=1840239774,1087426260,3300816228,1771339417
+dimwishlist:item=2233545123&perks=839105230,1087426260,3300816228,1771339417
+dimwishlist:item=2233545123&perks=4090651448,1087426260,3300816228,1771339417
+dimwishlist:item=2233545123&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=2233545123&perks=839105230,1087426260,3300816228,1546637391
+dimwishlist:item=2233545123&perks=4090651448,1087426260,3300816228,1546637391
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), Fourth Time's The Charm, (Frenzy, Vorpal Weapon)
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for Boss DPS. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for burst DPS or Tactical Mag for a larger mag and sustained damage. Fourth Time's The Charm and either Vorpal Weapon or Frenzy work to boost damage against bosses. Recommended MW: Handling, with Backup Mag mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,4104185692
+dimwishlist:item=2821430069&perks=839105230,791862061,1354429876,4104185692
+dimwishlist:item=2821430069&perks=4090651448,791862061,1354429876,4104185692
+dimwishlist:item=2821430069&perks=1840239774,106909392,1354429876,4104185692
+dimwishlist:item=2821430069&perks=839105230,106909392,1354429876,4104185692
+dimwishlist:item=2821430069&perks=4090651448,106909392,1354429876,4104185692
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,1546637391
+dimwishlist:item=2821430069&perks=839105230,791862061,1354429876,1546637391
+dimwishlist:item=2821430069&perks=4090651448,791862061,1354429876,1546637391
+dimwishlist:item=2821430069&perks=1840239774,106909392,1354429876,1546637391
+dimwishlist:item=2821430069&perks=839105230,106909392,1354429876,1546637391
+dimwishlist:item=2821430069&perks=4090651448,106909392,1354429876,1546637391
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), Demolitionist, Osmosis
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game content. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for better rate of fire or Tactical Mag for a larger mag and better reload speed. One of the few weapons to roll with Demolitionist and Osmosis, which potentially allows you to cover an energy shield type with your kinetic weapon. Recommended MW: Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=839105230,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=4090651448,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=1840239774,106909392,3523296417,1774574192
+dimwishlist:item=2821430069&perks=839105230,106909392,3523296417,1774574192
+dimwishlist:item=2821430069&perks=4090651448,106909392,3523296417,1774574192
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for grenade builds. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for better rate of fire or Tactical Mag for a larger mag and better reload speed. Demolitionist and Adrenaline Junkie combine for discipline-focussed builds. Recommended MW: Handling, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=839105230,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=4090651448,791862061,3523296417,1774574192
+dimwishlist:item=2821430069&perks=1840239774,106909392,3523296417,1774574192
+dimwishlist:item=2821430069&perks=839105230,106909392,3523296417,1774574192
+dimwishlist:item=2821430069&perks=4090651448,106909392,3523296417,1774574192
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), Unrelenting, Surrounded
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game content. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for better rate of fire or Tactical Mag for a larger mag and better reload speed. Build into the Vanguard Intrinsic perk with Unrelenting and use Surrounded to boost damage as you're going to be up close anyway. Recommended MW: Handling or Reload Speed, with Backup Mag or Surrounded Spec mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,3108830275,3708227201
+dimwishlist:item=2821430069&perks=839105230,791862061,3108830275,3708227201
+dimwishlist:item=2821430069&perks=4090651448,791862061,3108830275,3708227201
+dimwishlist:item=2821430069&perks=1840239774,106909392,3108830275,3708227201
+dimwishlist:item=2821430069&perks=839105230,106909392,3108830275,3708227201
+dimwishlist:item=2821430069&perks=4090651448,106909392,3108830275,3708227201
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Feeding Frenzy, Subsistence), Surrounded
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game content. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for better rate of fire or Tactical Mag for a larger mag and better reload speed. Get better damage uptime from Feeding Frenzy or Subsistence, and use Surrounded to boost damage as you're going to be up close anyway. Recommended MW: Handling or Reload Speed, with Backup Mag or Surrounded Spec mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,2779035018,3708227201
+dimwishlist:item=2821430069&perks=839105230,791862061,2779035018,3708227201
+dimwishlist:item=2821430069&perks=4090651448,791862061,2779035018,3708227201
+dimwishlist:item=2821430069&perks=1840239774,106909392,2779035018,3708227201
+dimwishlist:item=2821430069&perks=839105230,106909392,2779035018,3708227201
+dimwishlist:item=2821430069&perks=4090651448,106909392,2779035018,3708227201
+dimwishlist:item=2821430069&perks=1840239774,791862061,1820235745,3708227201
+dimwishlist:item=2821430069&perks=839105230,791862061,1820235745,3708227201
+dimwishlist:item=2821430069&perks=4090651448,791862061,1820235745,3708227201
+dimwishlist:item=2821430069&perks=1840239774,106909392,1820235745,3708227201
+dimwishlist:item=2821430069&perks=839105230,106909392,1820235745,3708227201
+dimwishlist:item=2821430069&perks=4090651448,106909392,1820235745,3708227201
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Feeding Frenzy, Subsistence), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game content. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for better rate of fire or Tactical Mag for a larger mag and better reload speed. Get better damage uptime from Feeding Frenzy or Subsistence, and use Frenzy to boost damage (and Handling and Reload Speed too). Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,2779035018,4104185692
+dimwishlist:item=2821430069&perks=839105230,791862061,2779035018,4104185692
+dimwishlist:item=2821430069&perks=4090651448,791862061,2779035018,4104185692
+dimwishlist:item=2821430069&perks=1840239774,106909392,2779035018,4104185692
+dimwishlist:item=2821430069&perks=839105230,106909392,2779035018,4104185692
+dimwishlist:item=2821430069&perks=4090651448,106909392,2779035018,4104185692
+dimwishlist:item=2821430069&perks=1840239774,791862061,1820235745,4104185692
+dimwishlist:item=2821430069&perks=839105230,791862061,1820235745,4104185692
+dimwishlist:item=2821430069&perks=4090651448,791862061,1820235745,4104185692
+dimwishlist:item=2821430069&perks=1840239774,106909392,1820235745,4104185692
+dimwishlist:item=2821430069&perks=839105230,106909392,1820235745,4104185692
+dimwishlist:item=2821430069&perks=4090651448,106909392,1820235745,4104185692
+
+// Fortissimo-11 (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Assault Mag, Tactical Mag), Unrelenting, Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 13. PvE first-choice roll for end-game content. The usual huge perk pool, which means a 1 in 144 chance of any two traits from the last two columns, before you even start thinking about barrel and mag. Choose a barrel for Handling, and then Assault Mag for better rate of fire or Tactical Mag for a larger mag and better reload speed. Build into the Vanguard Intrinsic perk with Unrelenting, and use Frenzy to boost damage (and Handling and Reload Speed too). Recommended MW: Handling or Reload Speed, with Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2821430069&perks=1840239774,791862061,3108830275,4104185692
+dimwishlist:item=2821430069&perks=839105230,791862061,3108830275,4104185692
+dimwishlist:item=2821430069&perks=4090651448,791862061,3108830275,4104185692
+dimwishlist:item=2821430069&perks=1840239774,106909392,3108830275,4104185692
+dimwishlist:item=2821430069&perks=839105230,106909392,3108830275,4104185692
+dimwishlist:item=2821430069&perks=4090651448,106909392,3108830275,4104185692
