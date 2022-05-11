@@ -1,0 +1,838 @@
+@title:Guardian Games 2022 and Trials of Osiris weapon
+
+// The Title (PvE first choice roll)
+// (Corkscrew Rifling. Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Light Mag, Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Appended Magazine), Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Then the "All For All" combo of Stats For All and One For All help bump all the stats up to help with gun feel and a 35% damage boost. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=294129361&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=294129361&perks=1482024992,3230963543,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=294129361&perks=3250034553,3230963543,1583705720,4049631843
+dimwishlist:item=294129361&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=294129361&perks=4090651448,1968497646,1583705720,4049631843
+dimwishlist:item=294129361&perks=1482024992,1968497646,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,1968497646,1583705720,4049631843
+dimwishlist:item=294129361&perks=3250034553,1968497646,1583705720,4049631843
+dimwishlist:item=294129361&perks=1392496348,1968497646,1583705720,4049631843
+dimwishlist:item=294129361&perks=4090651448,1561002382,1583705720,4049631843
+dimwishlist:item=294129361&perks=1482024992,1561002382,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,1561002382,1583705720,4049631843
+dimwishlist:item=294129361&perks=3250034553,1561002382,1583705720,4049631843
+dimwishlist:item=294129361&perks=1392496348,1561002382,1583705720,4049631843
+dimwishlist:item=294129361&perks=4090651448,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=1482024992,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=3250034553,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=1392496348,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=4090651448,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=1482024992,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=3250034553,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=1392496348,1885400500,1583705720,4049631843
+dimwishlist:item=294129361&perks=4090651448,1087426260,1583705720,4049631843
+dimwishlist:item=294129361&perks=1482024992,1087426260,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,1087426260,1583705720,4049631843
+dimwishlist:item=294129361&perks=3250034553,1087426260,1583705720,4049631843
+dimwishlist:item=294129361&perks=1392496348,1087426260,1583705720,4049631843
+
+// The Title (PvE backup roll)
+// Any barrel, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Then the "All For All" combo of Stats For All and One For All help bump all the stats up to help with gun feel and a 35% damage boost. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=294129361&perks=1583705720,4049631843
+
+// The Title (PvE first choice roll)
+// (Corkscrew Rifling. Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Light Mag, Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Appended Magazine), Threat Detector, Surrounded
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Threat Detector and Surrounded are natural partners. Recommended MW: Stability or Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=294129361&perks=4090651448,3230963543,4071163871,3708227201
+dimwishlist:item=294129361&perks=1482024992,3230963543,4071163871,3708227201
+dimwishlist:item=294129361&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=294129361&perks=3250034553,3230963543,4071163871,3708227201
+dimwishlist:item=294129361&perks=1392496348,3230963543,4071163871,3708227201
+dimwishlist:item=294129361&perks=4090651448,1968497646,4071163871,3708227201
+dimwishlist:item=294129361&perks=1482024992,1968497646,4071163871,3708227201
+dimwishlist:item=294129361&perks=1840239774,1968497646,4071163871,3708227201
+dimwishlist:item=294129361&perks=3250034553,1968497646,4071163871,3708227201
+dimwishlist:item=294129361&perks=1392496348,1968497646,4071163871,3708227201
+dimwishlist:item=294129361&perks=4090651448,1561002382,4071163871,3708227201
+dimwishlist:item=294129361&perks=1482024992,1561002382,4071163871,3708227201
+dimwishlist:item=294129361&perks=1840239774,1561002382,4071163871,3708227201
+dimwishlist:item=294129361&perks=3250034553,1561002382,4071163871,3708227201
+dimwishlist:item=294129361&perks=1392496348,1561002382,4071163871,3708227201
+dimwishlist:item=294129361&perks=4090651448,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=1840239774,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=3250034553,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=1392496348,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=4090651448,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=1840239774,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=3250034553,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=1392496348,1885400500,4071163871,3708227201
+dimwishlist:item=294129361&perks=4090651448,1087426260,4071163871,3708227201
+dimwishlist:item=294129361&perks=1482024992,1087426260,4071163871,3708227201
+dimwishlist:item=294129361&perks=1840239774,1087426260,4071163871,3708227201
+dimwishlist:item=294129361&perks=3250034553,1087426260,4071163871,3708227201
+dimwishlist:item=294129361&perks=1392496348,1087426260,4071163871,3708227201
+
+// The Title (PvE backup roll)
+// Any barrel, Any mag, Threat Detector, Surrounded
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Threat Detector and Surrounded are natural partners. Recommended MW: Stability or Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=294129361&perks=4071163871,3708227201
+
+// The Title (PvE first choice roll)
+// (Corkscrew Rifling. Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Light Mag, Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Appended Magazine), Grave Robber, Swashbuckler
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Grave Robber and Swashbuckler are natural partners. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=294129361&perks=4090651448,3230963543,1631667848,4082225868
+dimwishlist:item=294129361&perks=1482024992,3230963543,1631667848,4082225868
+dimwishlist:item=294129361&perks=1840239774,3230963543,1631667848,4082225868
+dimwishlist:item=294129361&perks=3250034553,3230963543,1631667848,4082225868
+dimwishlist:item=294129361&perks=1392496348,3230963543,1631667848,4082225868
+dimwishlist:item=294129361&perks=4090651448,1968497646,1631667848,4082225868
+dimwishlist:item=294129361&perks=1482024992,1968497646,1631667848,4082225868
+dimwishlist:item=294129361&perks=1840239774,1968497646,1631667848,4082225868
+dimwishlist:item=294129361&perks=3250034553,1968497646,1631667848,4082225868
+dimwishlist:item=294129361&perks=1392496348,1968497646,1631667848,4082225868
+dimwishlist:item=294129361&perks=4090651448,1561002382,1631667848,4082225868
+dimwishlist:item=294129361&perks=1482024992,1561002382,1631667848,4082225868
+dimwishlist:item=294129361&perks=1840239774,1561002382,1631667848,4082225868
+dimwishlist:item=294129361&perks=3250034553,1561002382,1631667848,4082225868
+dimwishlist:item=294129361&perks=1392496348,1561002382,1631667848,4082225868
+dimwishlist:item=294129361&perks=4090651448,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=1482024992,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=1840239774,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=3250034553,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=1392496348,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=4090651448,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=1482024992,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=1840239774,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=3250034553,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=1392496348,1885400500,1631667848,4082225868
+dimwishlist:item=294129361&perks=4090651448,1087426260,1631667848,4082225868
+dimwishlist:item=294129361&perks=1482024992,1087426260,1631667848,4082225868
+dimwishlist:item=294129361&perks=1840239774,1087426260,1631667848,4082225868
+dimwishlist:item=294129361&perks=3250034553,1087426260,1631667848,4082225868
+dimwishlist:item=294129361&perks=1392496348,1087426260,1631667848,4082225868
+
+// The Title (PvE backup roll)
+// Any barrel, Any mag, Grave Robber, Swashbuckler
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Grave Robber and Swashbuckler are natural partners. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=294129361&perks=1631667848,4082225868
+
+// Shayura's Wrath (PvE first choice roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Accurized Rounds, Light Mag, Flared Magwell), Perpetual Motion, Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for soloing Lost Sectors. Stats are already best in class - look to boost range a little, and reload speed never hurts. Perpetual Motion boosts stats up even more just by moving around, and Golden Tricorn can boost damage by a huge 50% with a void ability kill. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3682803680&perks=1467527085,3142289711,1428297954,2610012052
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1428297954,2610012052
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1428297954,2610012052
+dimwishlist:item=3682803680&perks=4090651448,3142289711,1428297954,2610012052
+dimwishlist:item=3682803680&perks=1467527085,679225683,1428297954,2610012052
+dimwishlist:item=3682803680&perks=3250034553,679225683,1428297954,2610012052
+dimwishlist:item=3682803680&perks=1482024992,679225683,1428297954,2610012052
+dimwishlist:item=3682803680&perks=4090651448,679225683,1428297954,2610012052
+dimwishlist:item=3682803680&perks=1467527085,3230963543,1428297954,2610012052
+dimwishlist:item=3682803680&perks=3250034553,3230963543,1428297954,2610012052
+dimwishlist:item=3682803680&perks=1482024992,3230963543,1428297954,2610012052
+dimwishlist:item=3682803680&perks=4090651448,3230963543,1428297954,2610012052
+
+// Shayura's Wrath (PvE backup roll)
+// Any barrel, Any mag, Perpetual Motion, Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Stats are best in class - and Perpetual Motion boosts stats up even more just by moving around, and Golden Tricorn can boost damage by a huge 50% with a void ability kill. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3682803680&perks=1428297954,2610012052
+
+// Shayura's Wrath (PvE first choice roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Accurized Rounds, Light Mag, Flared Magwell), Perpetual Motion, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Stats are best in class - look to boost range a little, and reload speed never hurts. Perpetual Motion boosts stats up even more just by moving around, and Adrenaline Junkie provides a decent damage boost. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3682803680&perks=1467527085,3142289711,1428297954,11612903
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1428297954,11612903
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1428297954,11612903
+dimwishlist:item=3682803680&perks=4090651448,3142289711,1428297954,11612903
+dimwishlist:item=3682803680&perks=1467527085,679225683,1428297954,11612903
+dimwishlist:item=3682803680&perks=3250034553,679225683,1428297954,11612903
+dimwishlist:item=3682803680&perks=1482024992,679225683,1428297954,11612903
+dimwishlist:item=3682803680&perks=4090651448,679225683,1428297954,11612903
+dimwishlist:item=3682803680&perks=1467527085,3230963543,1428297954,11612903
+dimwishlist:item=3682803680&perks=3250034553,3230963543,1428297954,11612903
+dimwishlist:item=3682803680&perks=1482024992,3230963543,1428297954,11612903
+dimwishlist:item=3682803680&perks=4090651448,3230963543,1428297954,11612903
+
+// Shayura's Wrath (PvE backup roll)
+// Any barrel, Any mag, Perpetual Motion, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Stats are best in class - look to boost range a little, and reload speed never hurts. Perpetual Motion boosts stats up even more just by moving around, and Adrenaline Junkie provides a decent damage boost. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3682803680&perks=1428297954,11612903
+
+// Shayura's Wrath (Adept) (PvE first choice roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Accurized Rounds, Light Mag, Flared Magwell), Perpetual Motion, Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for soloing Lost Sectors. Stats are already best in class - look to boost range a little, and reload speed never hurts. Perpetual Motion boosts stats up even more just by moving around, and Golden Tricorn can boost damage by a huge 50% with a void ability kill. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4023807721&perks=1467527085,3142289711,1428297954,2610012052
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1428297954,2610012052
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1428297954,2610012052
+dimwishlist:item=4023807721&perks=4090651448,3142289711,1428297954,2610012052
+dimwishlist:item=4023807721&perks=1467527085,679225683,1428297954,2610012052
+dimwishlist:item=4023807721&perks=3250034553,679225683,1428297954,2610012052
+dimwishlist:item=4023807721&perks=1482024992,679225683,1428297954,2610012052
+dimwishlist:item=4023807721&perks=4090651448,679225683,1428297954,2610012052
+dimwishlist:item=4023807721&perks=1467527085,3230963543,1428297954,2610012052
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1428297954,2610012052
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1428297954,2610012052
+dimwishlist:item=4023807721&perks=4090651448,3230963543,1428297954,2610012052
+
+// Shayura's Wrath (Adept) (PvE backup roll)
+// Any barrel, Any mag, Perpetual Motion, Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Stats are best in class - and Perpetual Motion boosts stats up even more just by moving around, and Golden Tricorn can boost damage by a huge 50% with a void ability kill. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4023807721&perks=1428297954,2610012052
+
+// Shayura's Wrath (Adept) (PvE first choice roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Accurized Rounds, Light Mag, Flared Magwell), Perpetual Motion, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Stats are best in class - look to boost range a little, and reload speed never hurts. Perpetual Motion boosts stats up even more just by moving around, and Adrenaline Junkie provides a decent damage boost. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4023807721&perks=1467527085,3142289711,1428297954,11612903
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1428297954,11612903
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1428297954,11612903
+dimwishlist:item=4023807721&perks=4090651448,3142289711,1428297954,11612903
+dimwishlist:item=4023807721&perks=1467527085,679225683,1428297954,11612903
+dimwishlist:item=4023807721&perks=3250034553,679225683,1428297954,11612903
+dimwishlist:item=4023807721&perks=1482024992,679225683,1428297954,11612903
+dimwishlist:item=4023807721&perks=4090651448,679225683,1428297954,11612903
+dimwishlist:item=4023807721&perks=1467527085,3230963543,1428297954,11612903
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1428297954,11612903
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1428297954,11612903
+dimwishlist:item=4023807721&perks=4090651448,3230963543,1428297954,11612903
+
+// Shayura's Wrath (Adept) (PvE backup roll)
+// Any barrel, Any mag, Perpetual Motion, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Stats are best in class - look to boost range a little, and reload speed never hurts. Perpetual Motion boosts stats up even more just by moving around, and Adrenaline Junkie provides a decent damage boost. Recommended MW: Range or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4023807721&perks=1428297954,11612903
+
+// The Messenger (PvE first choice roll)
+// Arrowhead Brake, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3658188704&perks=839105230,247725512,4104185692
+dimwishlist:item=3658188704&perks=839105230,1428297954,4104185692
+
+// The Messenger (PvE backup roll)
+// Any barrel, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3658188704&perks=247725512,4104185692
+dimwishlist:item=3658188704&perks=1428297954,4104185692
+
+// The Messenger (PvE first choice roll)
+// Arrowhead Brake, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. The "All For All" combo of Stats For All and One For All work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3658188704&perks=839105230,1583705720,4049631843
+
+// The Messenger (PvE backup roll)
+// Any barrel, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod.  The "All For All" combo of Stats For All and One For All work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3658188704&perks=1583705720,4049631843
+
+// The Messenger (PvE first choice roll)
+// Arrowhead Brake, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3658188704&perks=839105230,247725512,1015611457
+dimwishlist:item=3658188704&perks=839105230,1168162263,1015611457
+dimwishlist:item=3658188704&perks=839105230,247725512,3047969693
+dimwishlist:item=3658188704&perks=839105230,1168162263,3047969693
+
+// The Messenger (PvE first choice roll)
+// Any barrel, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, , with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3658188704&perks=247725512,1015611457
+dimwishlist:item=3658188704&perks=1168162263,1015611457
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=1168162263,3047969693
+
+// The Messenger (Adept) (PvE first choice roll)
+// Arrowhead Brake, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1173780905&perks=839105230,247725512,4104185692
+dimwishlist:item=1173780905&perks=839105230,1428297954,4104185692
+
+// The Messenger (Adept) (PvE backup roll)
+// Any barrel, Any mag, (Rapid Hit, Perpetual Motion), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit or Perpetual Motion and Frenzy work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1173780905&perks=247725512,4104185692
+dimwishlist:item=1173780905&perks=1428297954,4104185692
+
+// The Messenger (Adept) (PvE first choice roll)
+// Arrowhead Brake, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. The "All For All" combo of Stats For All and One For All work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1173780905&perks=839105230,1583705720,4049631843
+
+// The Messenger (Adept) (PvE backup roll)
+// Any barrel, Any mag, Stats For All, One For All
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod.  The "All For All" combo of Stats For All and One For All work well for end-game content, improving weapon feel and passively boosting damage. Recommended MW: Handling or Reload Speed, with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1173780905&perks=1583705720,4049631843
+
+// The Messenger (Adept) (PvE first choice roll)
+// Arrowhead Brake, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1173780905&perks=839105230,247725512,1015611457
+dimwishlist:item=1173780905&perks=839105230,1168162263,1015611457
+dimwishlist:item=1173780905&perks=839105230,247725512,3047969693
+dimwishlist:item=1173780905&perks=839105230,1168162263,3047969693
+
+// The Messenger (Adept) (PvE first choice roll)
+// Any barrel, Any mag, (Rapid Hit, Outlaw), (Kill Clip, Desperado)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention - without Arrowhead Brake you may need a Counterbalance mod. Rapid Hit and Outlaw pair well with Kill Clip or Desperado to improve damage output after a kill. Recommended MW: Handling or Reload Speed, , with Counterbalance mod or, if you can handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=1173780905&perks=247725512,1015611457
+dimwishlist:item=1173780905&perks=1168162263,1015611457
+dimwishlist:item=1173780905&perks=247725512,3047969693
+dimwishlist:item=1173780905&perks=1168162263,3047969693
+
+// The Summoner (PvE first choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stabilit or Rangey, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,2610012052
+dimwishlist:item=1907698332&perks=839105230,1561002382,3643424744,2610012052
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,2610012052
+dimwishlist:item=1907698332&perks=839105230,3230963543,3643424744,2610012052
+dimwishlist:item=1907698332&perks=839105230,1968497646,1428297954,2610012052
+dimwishlist:item=1907698332&perks=839105230,1561002382,1428297954,2610012052
+dimwishlist:item=1907698332&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=1907698332&perks=839105230,3230963543,1428297954,2610012052
+
+// The Summoner (PvE backup roll)
+// Any barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1907698332&perks=1968497646,3643424744,2610012052
+dimwishlist:item=1907698332&perks=1561002382,3643424744,2610012052
+dimwishlist:item=1907698332&perks=1885400500,3643424744,2610012052
+dimwishlist:item=1907698332&perks=3230963543,3643424744,2610012052
+dimwishlist:item=1907698332&perks=1968497646,1428297954,2610012052
+dimwishlist:item=1907698332&perks=1561002382,1428297954,2610012052
+dimwishlist:item=1907698332&perks=1885400500,1428297954,2610012052
+dimwishlist:item=1907698332&perks=3230963543,1428297954,2610012052
+
+// The Summoner (PvE first choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,3551326236
+dimwishlist:item=1907698332&perks=839105230,1561002382,3643424744,3551326236
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,3551326236
+dimwishlist:item=1907698332&perks=839105230,3230963543,3643424744,3551326236
+dimwishlist:item=1907698332&perks=839105230,1968497646,1428297954,3551326236
+dimwishlist:item=1907698332&perks=839105230,1561002382,1428297954,3551326236
+dimwishlist:item=1907698332&perks=839105230,1885400500,1428297954,3551326236
+dimwishlist:item=1907698332&perks=839105230,3230963543,1428297954,3551326236
+dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,3592538738
+dimwishlist:item=1907698332&perks=839105230,1561002382,3643424744,3592538738
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,3592538738
+dimwishlist:item=1907698332&perks=839105230,3230963543,3643424744,3592538738
+dimwishlist:item=1907698332&perks=839105230,1968497646,1428297954,3592538738
+dimwishlist:item=1907698332&perks=839105230,1561002382,1428297954,3592538738
+dimwishlist:item=1907698332&perks=839105230,1885400500,1428297954,3592538738
+dimwishlist:item=1907698332&perks=839105230,3230963543,1428297954,3592538738
+dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,2458213969
+dimwishlist:item=1907698332&perks=839105230,1561002382,3643424744,2458213969
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,2458213969
+dimwishlist:item=1907698332&perks=839105230,3230963543,3643424744,2458213969
+dimwishlist:item=1907698332&perks=839105230,1968497646,1428297954,2458213969
+dimwishlist:item=1907698332&perks=839105230,1561002382,1428297954,2458213969
+dimwishlist:item=1907698332&perks=839105230,1885400500,1428297954,2458213969
+dimwishlist:item=1907698332&perks=839105230,3230963543,1428297954,2458213969
+dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,2896038713
+dimwishlist:item=1907698332&perks=839105230,1561002382,3643424744,2896038713
+dimwishlist:item=1907698332&perks=839105230,1885400500,3643424744,2896038713
+dimwishlist:item=1907698332&perks=839105230,3230963543,3643424744,2896038713
+dimwishlist:item=1907698332&perks=839105230,1968497646,1428297954,2896038713
+dimwishlist:item=1907698332&perks=839105230,1561002382,1428297954,2896038713
+dimwishlist:item=1907698332&perks=839105230,1885400500,1428297954,2896038713
+dimwishlist:item=1907698332&perks=839105230,3230963543,1428297954,2896038713
+
+// The Summoner (PvE backup roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1907698332&perks=1968497646,3643424744,3551326236
+dimwishlist:item=1907698332&perks=1561002382,3643424744,3551326236
+dimwishlist:item=1907698332&perks=1885400500,3643424744,3551326236
+dimwishlist:item=1907698332&perks=3230963543,3643424744,3551326236
+dimwishlist:item=1907698332&perks=1968497646,1428297954,3551326236
+dimwishlist:item=1907698332&perks=1561002382,1428297954,3551326236
+dimwishlist:item=1907698332&perks=1885400500,1428297954,3551326236
+dimwishlist:item=1907698332&perks=3230963543,1428297954,3551326236
+dimwishlist:item=1907698332&perks=1968497646,3643424744,3592538738
+dimwishlist:item=1907698332&perks=1561002382,3643424744,3592538738
+dimwishlist:item=1907698332&perks=1885400500,3643424744,3592538738
+dimwishlist:item=1907698332&perks=3230963543,3643424744,3592538738
+dimwishlist:item=1907698332&perks=1968497646,1428297954,3592538738
+dimwishlist:item=1907698332&perks=1561002382,1428297954,3592538738
+dimwishlist:item=1907698332&perks=1885400500,1428297954,3592538738
+dimwishlist:item=1907698332&perks=3230963543,1428297954,3592538738
+dimwishlist:item=1907698332&perks=1968497646,3643424744,2458213969
+dimwishlist:item=1907698332&perks=1561002382,3643424744,2458213969
+dimwishlist:item=1907698332&perks=1885400500,3643424744,2458213969
+dimwishlist:item=1907698332&perks=3230963543,3643424744,2458213969
+dimwishlist:item=1907698332&perks=1968497646,1428297954,2458213969
+dimwishlist:item=1907698332&perks=1561002382,1428297954,2458213969
+dimwishlist:item=1907698332&perks=1885400500,1428297954,2458213969
+dimwishlist:item=1907698332&perks=3230963543,1428297954,2458213969
+dimwishlist:item=1907698332&perks=1968497646,3643424744,2896038713
+dimwishlist:item=1907698332&perks=1561002382,3643424744,2896038713
+dimwishlist:item=1907698332&perks=1885400500,3643424744,2896038713
+dimwishlist:item=1907698332&perks=3230963543,3643424744,2896038713
+dimwishlist:item=1907698332&perks=1968497646,1428297954,2896038713
+dimwishlist:item=1907698332&perks=1561002382,1428297954,2896038713
+dimwishlist:item=1907698332&perks=1885400500,1428297954,2896038713
+dimwishlist:item=1907698332&perks=3230963543,1428297954,2896038713
+
+// The Summoner (Adept) (PvE first choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stabilit or Rangey, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3514144928&perks=839105230,1968497646,3643424744,2610012052
+dimwishlist:item=3514144928&perks=839105230,1561002382,3643424744,2610012052
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,2610012052
+dimwishlist:item=3514144928&perks=839105230,3230963543,3643424744,2610012052
+dimwishlist:item=3514144928&perks=839105230,1968497646,1428297954,2610012052
+dimwishlist:item=3514144928&perks=839105230,1561002382,1428297954,2610012052
+dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,2610012052
+
+// The Summoner (Adept) (PvE backup roll)
+// Any barrel, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3514144928&perks=1968497646,3643424744,2610012052
+dimwishlist:item=3514144928&perks=1561002382,3643424744,2610012052
+dimwishlist:item=3514144928&perks=1885400500,3643424744,2610012052
+dimwishlist:item=3514144928&perks=3230963543,3643424744,2610012052
+dimwishlist:item=3514144928&perks=1968497646,1428297954,2610012052
+dimwishlist:item=3514144928&perks=1561002382,1428297954,2610012052
+dimwishlist:item=3514144928&perks=1885400500,1428297954,2610012052
+dimwishlist:item=3514144928&perks=3230963543,1428297954,2610012052
+
+// The Summoner (Adept) (PvE first choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3514144928&perks=839105230,1968497646,3643424744,3551326236
+dimwishlist:item=3514144928&perks=839105230,1561002382,3643424744,3551326236
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,3551326236
+dimwishlist:item=3514144928&perks=839105230,3230963543,3643424744,3551326236
+dimwishlist:item=3514144928&perks=839105230,1968497646,1428297954,3551326236
+dimwishlist:item=3514144928&perks=839105230,1561002382,1428297954,3551326236
+dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,3551326236
+dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,3551326236
+dimwishlist:item=3514144928&perks=839105230,1968497646,3643424744,3592538738
+dimwishlist:item=3514144928&perks=839105230,1561002382,3643424744,3592538738
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,3592538738
+dimwishlist:item=3514144928&perks=839105230,3230963543,3643424744,3592538738
+dimwishlist:item=3514144928&perks=839105230,1968497646,1428297954,3592538738
+dimwishlist:item=3514144928&perks=839105230,1561002382,1428297954,3592538738
+dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,3592538738
+dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,3592538738
+dimwishlist:item=3514144928&perks=839105230,1968497646,3643424744,2458213969
+dimwishlist:item=3514144928&perks=839105230,1561002382,3643424744,2458213969
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,2458213969
+dimwishlist:item=3514144928&perks=839105230,3230963543,3643424744,2458213969
+dimwishlist:item=3514144928&perks=839105230,1968497646,1428297954,2458213969
+dimwishlist:item=3514144928&perks=839105230,1561002382,1428297954,2458213969
+dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,2458213969
+dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,2458213969
+dimwishlist:item=3514144928&perks=839105230,1968497646,3643424744,2896038713
+dimwishlist:item=3514144928&perks=839105230,1561002382,3643424744,2896038713
+dimwishlist:item=3514144928&perks=839105230,1885400500,3643424744,2896038713
+dimwishlist:item=3514144928&perks=839105230,3230963543,3643424744,2896038713
+dimwishlist:item=3514144928&perks=839105230,1968497646,1428297954,2896038713
+dimwishlist:item=3514144928&perks=839105230,1561002382,1428297954,2896038713
+dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,2896038713
+dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,2896038713
+
+// The Summoner (Adept) (PvE backup roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3514144928&perks=1968497646,3643424744,3551326236
+dimwishlist:item=3514144928&perks=1561002382,3643424744,3551326236
+dimwishlist:item=3514144928&perks=1885400500,3643424744,3551326236
+dimwishlist:item=3514144928&perks=3230963543,3643424744,3551326236
+dimwishlist:item=3514144928&perks=1968497646,1428297954,3551326236
+dimwishlist:item=3514144928&perks=1561002382,1428297954,3551326236
+dimwishlist:item=3514144928&perks=1885400500,1428297954,3551326236
+dimwishlist:item=3514144928&perks=3230963543,1428297954,3551326236
+dimwishlist:item=3514144928&perks=1968497646,3643424744,3592538738
+dimwishlist:item=3514144928&perks=1561002382,3643424744,3592538738
+dimwishlist:item=3514144928&perks=1885400500,3643424744,3592538738
+dimwishlist:item=3514144928&perks=3230963543,3643424744,3592538738
+dimwishlist:item=3514144928&perks=1968497646,1428297954,3592538738
+dimwishlist:item=3514144928&perks=1561002382,1428297954,3592538738
+dimwishlist:item=3514144928&perks=1885400500,1428297954,3592538738
+dimwishlist:item=3514144928&perks=3230963543,1428297954,3592538738
+dimwishlist:item=3514144928&perks=1968497646,3643424744,2458213969
+dimwishlist:item=3514144928&perks=1561002382,3643424744,2458213969
+dimwishlist:item=3514144928&perks=1885400500,3643424744,2458213969
+dimwishlist:item=3514144928&perks=3230963543,3643424744,2458213969
+dimwishlist:item=3514144928&perks=1968497646,1428297954,2458213969
+dimwishlist:item=3514144928&perks=1561002382,1428297954,2458213969
+dimwishlist:item=3514144928&perks=1885400500,1428297954,2458213969
+dimwishlist:item=3514144928&perks=3230963543,1428297954,2458213969
+dimwishlist:item=3514144928&perks=1968497646,3643424744,2896038713
+dimwishlist:item=3514144928&perks=1561002382,3643424744,2896038713
+dimwishlist:item=3514144928&perks=1885400500,3643424744,2896038713
+dimwishlist:item=3514144928&perks=3230963543,3643424744,2896038713
+dimwishlist:item=3514144928&perks=1968497646,1428297954,2896038713
+dimwishlist:item=3514144928&perks=1561002382,1428297954,2896038713
+dimwishlist:item=3514144928&perks=1885400500,1428297954,2896038713
+dimwishlist:item=3514144928&perks=3230963543,1428297954,2896038713
+
+// Aisha's Embrace (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Triple Tap, Focused Fury
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Handling could do with some attention, and then for you can't go far wrong with Triple Tap and Frenzy. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2638190703&perks=1840239774,1968497646,3400784728,2896038713
+dimwishlist:item=2638190703&perks=839105230,1968497646,3400784728,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1968497646,3400784728,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1561002382,3400784728,2896038713
+dimwishlist:item=2638190703&perks=839105230,1561002382,3400784728,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1561002382,3400784728,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1885400500,3400784728,2896038713
+dimwishlist:item=2638190703&perks=839105230,1885400500,3400784728,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1885400500,3400784728,2896038713
+dimwishlist:item=2638190703&perks=1840239774,3230963543,3400784728,2896038713
+dimwishlist:item=2638190703&perks=839105230,3230963543,3400784728,2896038713
+dimwishlist:item=2638190703&perks=4090651448,3230963543,3400784728,2896038713
+
+// Aisha's Embrace (PvE backup roll)
+// Any barrel, Any mag, Triple Tap, Focused Fury
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Your choice of barrel and mag, and then for you can't go far wrong with Triple Tap and Frenzy. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2638190703&perks=3400784728,2896038713
+
+// Aisha's Embrace (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Armor-Piercing Rounds, Triple Tap, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for barrier champions content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Handling could do with some attention, and then for when Scout anti-barrier mods are around you can't go far wrong with Armor-Piercing Rounds, Triple Tap and Vorpal Weapon. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2638190703&perks=1840239774,1968497646,3400784728,1546637391
+dimwishlist:item=2638190703&perks=839105230,1968497646,3400784728,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1968497646,3400784728,1546637391
+
+// Aisha's Embrace (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Shoot To Loot, Perpetual Motion, Stats For All), (Focused Fury, Turnabout, Vorpal Weapon, Adagio)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Your choice of barrel and mag, and then there are plenty of good PvE traits to choose from. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2638190703&perks=1840239774,1968497646,3700496672,2896038713
+dimwishlist:item=2638190703&perks=839105230,1968497646,3700496672,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1968497646,3700496672,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1561002382,3700496672,2896038713
+dimwishlist:item=2638190703&perks=839105230,1561002382,3700496672,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1561002382,3700496672,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1885400500,3700496672,2896038713
+dimwishlist:item=2638190703&perks=839105230,1885400500,3700496672,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1885400500,3700496672,2896038713
+dimwishlist:item=2638190703&perks=1840239774,3230963543,3700496672,2896038713
+dimwishlist:item=2638190703&perks=839105230,3230963543,3700496672,2896038713
+dimwishlist:item=2638190703&perks=4090651448,3230963543,3700496672,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1428297954,2896038713
+dimwishlist:item=2638190703&perks=839105230,1968497646,1428297954,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1428297954,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1428297954,2896038713
+dimwishlist:item=2638190703&perks=839105230,1561002382,1428297954,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1428297954,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1428297954,2896038713
+dimwishlist:item=2638190703&perks=839105230,1885400500,1428297954,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1428297954,2896038713
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1428297954,2896038713
+dimwishlist:item=2638190703&perks=839105230,3230963543,1428297954,2896038713
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1428297954,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1583705720,2896038713
+dimwishlist:item=2638190703&perks=839105230,1968497646,1583705720,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1583705720,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1583705720,2896038713
+dimwishlist:item=2638190703&perks=839105230,1561002382,1583705720,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1583705720,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1583705720,2896038713
+dimwishlist:item=2638190703&perks=839105230,1885400500,1583705720,2896038713
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1583705720,2896038713
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1583705720,2896038713
+dimwishlist:item=2638190703&perks=839105230,3230963543,1583705720,2896038713
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1583705720,2896038713
+dimwishlist:item=2638190703&perks=1840239774,1968497646,3700496672,2209918983
+dimwishlist:item=2638190703&perks=839105230,1968497646,3700496672,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1968497646,3700496672,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1561002382,3700496672,2209918983
+dimwishlist:item=2638190703&perks=839105230,1561002382,3700496672,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1561002382,3700496672,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1885400500,3700496672,2209918983
+dimwishlist:item=2638190703&perks=839105230,1885400500,3700496672,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1885400500,3700496672,2209918983
+dimwishlist:item=2638190703&perks=1840239774,3230963543,3700496672,2209918983
+dimwishlist:item=2638190703&perks=839105230,3230963543,3700496672,2209918983
+dimwishlist:item=2638190703&perks=4090651448,3230963543,3700496672,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1428297954,2209918983
+dimwishlist:item=2638190703&perks=839105230,1968497646,1428297954,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1428297954,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1428297954,2209918983
+dimwishlist:item=2638190703&perks=839105230,1561002382,1428297954,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1428297954,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1428297954,2209918983
+dimwishlist:item=2638190703&perks=839105230,1885400500,1428297954,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1428297954,2209918983
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1428297954,2209918983
+dimwishlist:item=2638190703&perks=839105230,3230963543,1428297954,2209918983
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1428297954,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1583705720,2209918983
+dimwishlist:item=2638190703&perks=839105230,1968497646,1583705720,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1583705720,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1583705720,2209918983
+dimwishlist:item=2638190703&perks=839105230,1561002382,1583705720,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1583705720,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1583705720,2209918983
+dimwishlist:item=2638190703&perks=839105230,1885400500,1583705720,2209918983
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1583705720,2209918983
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1583705720,2209918983
+dimwishlist:item=2638190703&perks=839105230,3230963543,1583705720,2209918983
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1583705720,2209918983
+dimwishlist:item=2638190703&perks=1840239774,1968497646,3700496672,1546637391
+dimwishlist:item=2638190703&perks=839105230,1968497646,3700496672,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1968497646,3700496672,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1561002382,3700496672,1546637391
+dimwishlist:item=2638190703&perks=839105230,1561002382,3700496672,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1561002382,3700496672,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1885400500,3700496672,1546637391
+dimwishlist:item=2638190703&perks=839105230,1885400500,3700496672,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1885400500,3700496672,1546637391
+dimwishlist:item=2638190703&perks=1840239774,3230963543,3700496672,1546637391
+dimwishlist:item=2638190703&perks=839105230,3230963543,3700496672,1546637391
+dimwishlist:item=2638190703&perks=4090651448,3230963543,3700496672,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1428297954,1546637391
+dimwishlist:item=2638190703&perks=839105230,1968497646,1428297954,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1428297954,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1428297954,1546637391
+dimwishlist:item=2638190703&perks=839105230,1561002382,1428297954,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1428297954,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1428297954,1546637391
+dimwishlist:item=2638190703&perks=839105230,1885400500,1428297954,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1428297954,1546637391
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1428297954,1546637391
+dimwishlist:item=2638190703&perks=839105230,3230963543,1428297954,1546637391
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1428297954,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1583705720,1546637391
+dimwishlist:item=2638190703&perks=839105230,1968497646,1583705720,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1583705720,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1583705720,1546637391
+dimwishlist:item=2638190703&perks=839105230,1561002382,1583705720,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1583705720,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1583705720,1546637391
+dimwishlist:item=2638190703&perks=839105230,1885400500,1583705720,1546637391
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1583705720,1546637391
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1583705720,1546637391
+dimwishlist:item=2638190703&perks=839105230,3230963543,1583705720,1546637391
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1583705720,1546637391
+dimwishlist:item=2638190703&perks=1840239774,1968497646,3700496672,3673922083
+dimwishlist:item=2638190703&perks=839105230,1968497646,3700496672,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1968497646,3700496672,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1561002382,3700496672,3673922083
+dimwishlist:item=2638190703&perks=839105230,1561002382,3700496672,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1561002382,3700496672,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1885400500,3700496672,3673922083
+dimwishlist:item=2638190703&perks=839105230,1885400500,3700496672,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1885400500,3700496672,3673922083
+dimwishlist:item=2638190703&perks=1840239774,3230963543,3700496672,3673922083
+dimwishlist:item=2638190703&perks=839105230,3230963543,3700496672,3673922083
+dimwishlist:item=2638190703&perks=4090651448,3230963543,3700496672,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1428297954,3673922083
+dimwishlist:item=2638190703&perks=839105230,1968497646,1428297954,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1428297954,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=839105230,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1428297954,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=839105230,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1428297954,3673922083
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1428297954,3673922083
+dimwishlist:item=2638190703&perks=839105230,3230963543,1428297954,3673922083
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1428297954,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1968497646,1583705720,3673922083
+dimwishlist:item=2638190703&perks=839105230,1968497646,1583705720,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1968497646,1583705720,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1561002382,1583705720,3673922083
+dimwishlist:item=2638190703&perks=839105230,1561002382,1583705720,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1561002382,1583705720,3673922083
+dimwishlist:item=2638190703&perks=1840239774,1885400500,1583705720,3673922083
+dimwishlist:item=2638190703&perks=839105230,1885400500,1583705720,3673922083
+dimwishlist:item=2638190703&perks=4090651448,1885400500,1583705720,3673922083
+dimwishlist:item=2638190703&perks=1840239774,3230963543,1583705720,3673922083
+dimwishlist:item=2638190703&perks=839105230,3230963543,1583705720,3673922083
+dimwishlist:item=2638190703&perks=4090651448,3230963543,1583705720,3673922083
+
+// Aisha's Embrace (Adept) (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Triple Tap, Focused Fury
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Handling could do with some attention, and then for you can't go far wrong with Triple Tap and Frenzy. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3245493570&perks=1840239774,1968497646,3400784728,2896038713
+dimwishlist:item=3245493570&perks=839105230,1968497646,3400784728,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1968497646,3400784728,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1561002382,3400784728,2896038713
+dimwishlist:item=3245493570&perks=839105230,1561002382,3400784728,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1561002382,3400784728,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1885400500,3400784728,2896038713
+dimwishlist:item=3245493570&perks=839105230,1885400500,3400784728,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1885400500,3400784728,2896038713
+dimwishlist:item=3245493570&perks=1840239774,3230963543,3400784728,2896038713
+dimwishlist:item=3245493570&perks=839105230,3230963543,3400784728,2896038713
+dimwishlist:item=3245493570&perks=4090651448,3230963543,3400784728,2896038713
+
+// Aisha's Embrace (Adept) (PvE backup roll)
+// Any barrel, Any mag, Triple Tap, Focused Fury
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Your choice of barrel and mag, and then for you can't go far wrong with Triple Tap and Frenzy. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3245493570&perks=3400784728,2896038713
+
+// Aisha's Embrace (Adept) (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Armor-Piercing Rounds, Triple Tap, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for barrier champions content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Handling could do with some attention, and then for when Scout anti-barrier mods are around you can't go far wrong with Armor-Piercing Rounds, Triple Tap and Vorpal Weapon. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3245493570&perks=1840239774,1968497646,3400784728,1546637391
+dimwishlist:item=3245493570&perks=839105230,1968497646,3400784728,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1968497646,3400784728,1546637391
+
+// Aisha's Embrace (Adept) (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Shoot To Loot, Perpetual Motion, Stats For All), (Focused Fury, Turnabout, Vorpal Weapon, Adagio)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Your choice of barrel and mag, and then there are plenty of good PvE traits to choose from. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
+dimwishlist:item=3245493570&perks=1840239774,1968497646,3700496672,2896038713
+dimwishlist:item=3245493570&perks=839105230,1968497646,3700496672,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1968497646,3700496672,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1561002382,3700496672,2896038713
+dimwishlist:item=3245493570&perks=839105230,1561002382,3700496672,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1561002382,3700496672,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1885400500,3700496672,2896038713
+dimwishlist:item=3245493570&perks=839105230,1885400500,3700496672,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1885400500,3700496672,2896038713
+dimwishlist:item=3245493570&perks=1840239774,3230963543,3700496672,2896038713
+dimwishlist:item=3245493570&perks=839105230,3230963543,3700496672,2896038713
+dimwishlist:item=3245493570&perks=4090651448,3230963543,3700496672,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1428297954,2896038713
+dimwishlist:item=3245493570&perks=839105230,1968497646,1428297954,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1428297954,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1428297954,2896038713
+dimwishlist:item=3245493570&perks=839105230,1561002382,1428297954,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1428297954,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1428297954,2896038713
+dimwishlist:item=3245493570&perks=839105230,1885400500,1428297954,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1428297954,2896038713
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1428297954,2896038713
+dimwishlist:item=3245493570&perks=839105230,3230963543,1428297954,2896038713
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1428297954,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1583705720,2896038713
+dimwishlist:item=3245493570&perks=839105230,1968497646,1583705720,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1583705720,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1583705720,2896038713
+dimwishlist:item=3245493570&perks=839105230,1561002382,1583705720,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1583705720,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1583705720,2896038713
+dimwishlist:item=3245493570&perks=839105230,1885400500,1583705720,2896038713
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1583705720,2896038713
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1583705720,2896038713
+dimwishlist:item=3245493570&perks=839105230,3230963543,1583705720,2896038713
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1583705720,2896038713
+dimwishlist:item=3245493570&perks=1840239774,1968497646,3700496672,2209918983
+dimwishlist:item=3245493570&perks=839105230,1968497646,3700496672,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1968497646,3700496672,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1561002382,3700496672,2209918983
+dimwishlist:item=3245493570&perks=839105230,1561002382,3700496672,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1561002382,3700496672,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1885400500,3700496672,2209918983
+dimwishlist:item=3245493570&perks=839105230,1885400500,3700496672,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1885400500,3700496672,2209918983
+dimwishlist:item=3245493570&perks=1840239774,3230963543,3700496672,2209918983
+dimwishlist:item=3245493570&perks=839105230,3230963543,3700496672,2209918983
+dimwishlist:item=3245493570&perks=4090651448,3230963543,3700496672,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1428297954,2209918983
+dimwishlist:item=3245493570&perks=839105230,1968497646,1428297954,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1428297954,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1428297954,2209918983
+dimwishlist:item=3245493570&perks=839105230,1561002382,1428297954,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1428297954,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1428297954,2209918983
+dimwishlist:item=3245493570&perks=839105230,1885400500,1428297954,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1428297954,2209918983
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1428297954,2209918983
+dimwishlist:item=3245493570&perks=839105230,3230963543,1428297954,2209918983
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1428297954,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1583705720,2209918983
+dimwishlist:item=3245493570&perks=839105230,1968497646,1583705720,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1583705720,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1583705720,2209918983
+dimwishlist:item=3245493570&perks=839105230,1561002382,1583705720,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1583705720,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1583705720,2209918983
+dimwishlist:item=3245493570&perks=839105230,1885400500,1583705720,2209918983
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1583705720,2209918983
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1583705720,2209918983
+dimwishlist:item=3245493570&perks=839105230,3230963543,1583705720,2209918983
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1583705720,2209918983
+dimwishlist:item=3245493570&perks=1840239774,1968497646,3700496672,1546637391
+dimwishlist:item=3245493570&perks=839105230,1968497646,3700496672,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1968497646,3700496672,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1561002382,3700496672,1546637391
+dimwishlist:item=3245493570&perks=839105230,1561002382,3700496672,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1561002382,3700496672,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1885400500,3700496672,1546637391
+dimwishlist:item=3245493570&perks=839105230,1885400500,3700496672,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1885400500,3700496672,1546637391
+dimwishlist:item=3245493570&perks=1840239774,3230963543,3700496672,1546637391
+dimwishlist:item=3245493570&perks=839105230,3230963543,3700496672,1546637391
+dimwishlist:item=3245493570&perks=4090651448,3230963543,3700496672,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1428297954,1546637391
+dimwishlist:item=3245493570&perks=839105230,1968497646,1428297954,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1428297954,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1428297954,1546637391
+dimwishlist:item=3245493570&perks=839105230,1561002382,1428297954,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1428297954,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1428297954,1546637391
+dimwishlist:item=3245493570&perks=839105230,1885400500,1428297954,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1428297954,1546637391
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1428297954,1546637391
+dimwishlist:item=3245493570&perks=839105230,3230963543,1428297954,1546637391
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1428297954,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1583705720,1546637391
+dimwishlist:item=3245493570&perks=839105230,1968497646,1583705720,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1583705720,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1583705720,1546637391
+dimwishlist:item=3245493570&perks=839105230,1561002382,1583705720,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1583705720,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1583705720,1546637391
+dimwishlist:item=3245493570&perks=839105230,1885400500,1583705720,1546637391
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1583705720,1546637391
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1583705720,1546637391
+dimwishlist:item=3245493570&perks=839105230,3230963543,1583705720,1546637391
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1583705720,1546637391
+dimwishlist:item=3245493570&perks=1840239774,1968497646,3700496672,3673922083
+dimwishlist:item=3245493570&perks=839105230,1968497646,3700496672,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1968497646,3700496672,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1561002382,3700496672,3673922083
+dimwishlist:item=3245493570&perks=839105230,1561002382,3700496672,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1561002382,3700496672,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1885400500,3700496672,3673922083
+dimwishlist:item=3245493570&perks=839105230,1885400500,3700496672,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1885400500,3700496672,3673922083
+dimwishlist:item=3245493570&perks=1840239774,3230963543,3700496672,3673922083
+dimwishlist:item=3245493570&perks=839105230,3230963543,3700496672,3673922083
+dimwishlist:item=3245493570&perks=4090651448,3230963543,3700496672,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1428297954,3673922083
+dimwishlist:item=3245493570&perks=839105230,1968497646,1428297954,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1428297954,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1428297954,3673922083
+dimwishlist:item=3245493570&perks=839105230,1561002382,1428297954,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1428297954,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1428297954,3673922083
+dimwishlist:item=3245493570&perks=839105230,1885400500,1428297954,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1428297954,3673922083
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1428297954,3673922083
+dimwishlist:item=3245493570&perks=839105230,3230963543,1428297954,3673922083
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1428297954,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1968497646,1583705720,3673922083
+dimwishlist:item=3245493570&perks=839105230,1968497646,1583705720,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1968497646,1583705720,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1561002382,1583705720,3673922083
+dimwishlist:item=3245493570&perks=839105230,1561002382,1583705720,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1561002382,1583705720,3673922083
+dimwishlist:item=3245493570&perks=1840239774,1885400500,1583705720,3673922083
+dimwishlist:item=3245493570&perks=839105230,1885400500,1583705720,3673922083
+dimwishlist:item=3245493570&perks=4090651448,1885400500,1583705720,3673922083
+dimwishlist:item=3245493570&perks=1840239774,3230963543,1583705720,3673922083
+dimwishlist:item=3245493570&perks=839105230,3230963543,1583705720,3673922083
+dimwishlist:item=3245493570&perks=4090651448,3230963543,1583705720,3673922083
+
+// Eye of Sol (PvE first choice roll)
+// Any barrel, Appended Mag, (No Distractions, Ensemble), (Vorpal Weapon, High-Impact Reserves)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. You can get seven in the mag with Appended Mag and a Backup Mag mod, but unfortunately, Eye of Sol lacks competitive traits for boss DPS. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=3164743584&perks=1087426260,2866798147,1546637391
+dimwishlist:item=3164743584&perks=1087426260,2621346526,1546637391
+dimwishlist:item=3164743584&perks=1087426260,2866798147,2213355989
+dimwishlist:item=3164743584&perks=1087426260,2621346526,2213355989
+
+// Eye of Sol (Adept) (PvE first choice roll)
+// Any barrel, Appended Mag, (No Distractions, Ensemble), (Vorpal Weapon, High-Impact Reserves)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. You can get seven in the mag with Appended Mag and a Backup Mag mod, but unfortunately, Eye of Sol lacks competitive traits for boss DPS. Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=3637570176&perks=1087426260,2866798147,1546637391
+dimwishlist:item=3637570176&perks=1087426260,2621346526,1546637391
+dimwishlist:item=3637570176&perks=1087426260,2866798147,2213355989
+dimwishlist:item=3637570176&perks=1087426260,2621346526,2213355989
