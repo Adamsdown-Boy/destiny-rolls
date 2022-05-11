@@ -434,7 +434,6 @@ dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,2896038713
 dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,2896038713
 
 // The Summoner (Adept) (PvE backup roll)
-// The Summoner (Adept) (PvE backup roll)
 // Any barrel, Any mag, (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
 dimwishlist:item=3514144928&perks=3643424744,3551326236
