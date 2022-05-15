@@ -337,18 +337,6 @@ dimwishlist:item=1907698332&perks=839105230,1561002382,1428297954,2896038713
 dimwishlist:item=1907698332&perks=839105230,1885400500,1428297954,2896038713
 dimwishlist:item=1907698332&perks=839105230,3230963543,1428297954,2896038713
 
-// The Summoner (PvE backup roll)
-// Any barrel, Any mag, (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
-dimwishlist:item=1907698332&perks=3643424744,3551326236
-dimwishlist:item=1907698332&perks=1428297954,3551326236
-dimwishlist:item=1907698332&perks=3643424744,3592538738
-dimwishlist:item=1907698332&perks=1428297954,3592538738
-dimwishlist:item=1907698332&perks=3643424744,2458213969
-dimwishlist:item=1907698332&perks=1428297954,2458213969
-dimwishlist:item=1907698332&perks=3643424744,2896038713
-dimwishlist:item=1907698332&perks=1428297954,2896038713
-
 // The Summoner (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Golden Tricorn
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Dynamic Sway Reduction can help with landing mid-range shots. Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
@@ -404,6 +392,25 @@ dimwishlist:item=1907698332&perks=1968497646,1359896290,2896038713
 dimwishlist:item=1907698332&perks=1561002382,1359896290,2896038713
 dimwishlist:item=1907698332&perks=1885400500,1359896290,2896038713
 dimwishlist:item=1907698332&perks=3230963543,1359896290,2896038713
+
+// The Summoner (PvE backup roll)
+// Any barrel, Any mag, (Overflow, Perpetual Motion, Dynamic Sway Reduction), (Golden Tricorn, Rampage, Wellspring, Multikill Clip, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion/Dynamic Sway Reduction boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1907698332&perks=3643424744,2610012052
+dimwishlist:item=1907698332&perks=1428297954,2610012052
+dimwishlist:item=1907698332&perks=1359896290,2610012052
+dimwishlist:item=1907698332&perks=3643424744,3551326236
+dimwishlist:item=1907698332&perks=1428297954,3551326236
+dimwishlist:item=1907698332&perks=1359896290,3551326236
+dimwishlist:item=1907698332&perks=3643424744,3592538738
+dimwishlist:item=1907698332&perks=1428297954,3592538738
+dimwishlist:item=1907698332&perks=1359896290,3592538738
+dimwishlist:item=1907698332&perks=3643424744,2458213969
+dimwishlist:item=1907698332&perks=1428297954,2458213969
+dimwishlist:item=1907698332&perks=1359896290,2458213969
+dimwishlist:item=1907698332&perks=3643424744,2896038713
+dimwishlist:item=1907698332&perks=1428297954,2896038713
+dimwishlist:item=1907698332&perks=1359896290,2896038713
 
 // The Summoner (Adept) (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Overflow, Perpetual Motion), Golden Tricorn
@@ -465,18 +472,6 @@ dimwishlist:item=3514144928&perks=839105230,1561002382,1428297954,2896038713
 dimwishlist:item=3514144928&perks=839105230,1885400500,1428297954,2896038713
 dimwishlist:item=3514144928&perks=839105230,3230963543,1428297954,2896038713
 
-// The Summoner (Adept) (PvE backup roll)
-// Any barrel, Any mag, (Overflow, Perpetual Motion), (Rampage, Wellspring, Multikill Clip, Focused Fury)
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Adept Big Ones or Taken Spec) mod.
-dimwishlist:item=3514144928&perks=3643424744,3551326236
-dimwishlist:item=3514144928&perks=1428297954,3551326236
-dimwishlist:item=3514144928&perks=3643424744,3592538738
-dimwishlist:item=3514144928&perks=1428297954,3592538738
-dimwishlist:item=3514144928&perks=3643424744,2458213969
-dimwishlist:item=3514144928&perks=1428297954,2458213969
-dimwishlist:item=3514144928&perks=3643424744,2896038713
-dimwishlist:item=3514144928&perks=1428297954,2896038713
-
 // The Summoner (Adept) (PvE first choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Golden Tricorn
 //notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which Arrowhead Brake sorts without the need for a Counterbalance mod. Dynamic Sway Reduction can help with landing mid-range shots. Golden Tricorn is just waiting for Solar 3.0 to drop. Recommended MW: Stability or Range, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
@@ -532,6 +527,25 @@ dimwishlist:item=3514144928&perks=1968497646,1359896290,2896038713
 dimwishlist:item=3514144928&perks=1561002382,1359896290,2896038713
 dimwishlist:item=3514144928&perks=1885400500,1359896290,2896038713
 dimwishlist:item=3514144928&perks=3230963543,1359896290,2896038713
+
+// The Summoner (Adept) (PvE backup roll)
+// Any barrel, Any mag, (Overflow, Perpetual Motion, Dynamic Sway Reduction), (Golden Tricorn, Rampage, Wellspring, Multikill Clip, Focused Fury)
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. The Alacrity trait is surprisingly useful for solo Lost Sectors. Recoil Direction needs attention, which you might need a Counterbalance mod to help control. Overflow keeps you shooting longer, or Perpetual Motion/Dynamic Sway Reduction boosts weapon stats, and a damage boosting or ability boosting perk rounds out the last column. Recommended MW: Stability or Range, with a Counterbalance mod or, if you're able to handle the wonky recoil, a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3514144928&perks=3643424744,2610012052
+dimwishlist:item=3514144928&perks=1428297954,2610012052
+dimwishlist:item=3514144928&perks=1359896290,2610012052
+dimwishlist:item=3514144928&perks=3643424744,3551326236
+dimwishlist:item=3514144928&perks=1428297954,3551326236
+dimwishlist:item=3514144928&perks=1359896290,3551326236
+dimwishlist:item=3514144928&perks=3643424744,3592538738
+dimwishlist:item=3514144928&perks=1428297954,3592538738
+dimwishlist:item=3514144928&perks=1359896290,3592538738
+dimwishlist:item=3514144928&perks=3643424744,2458213969
+dimwishlist:item=3514144928&perks=1428297954,2458213969
+dimwishlist:item=3514144928&perks=1359896290,2458213969
+dimwishlist:item=3514144928&perks=3643424744,2896038713
+dimwishlist:item=3514144928&perks=1428297954,2896038713
+dimwishlist:item=3514144928&perks=1359896290,2896038713
 
 // Aisha's Embrace (PvE first choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Triple Tap, Focused Fury
