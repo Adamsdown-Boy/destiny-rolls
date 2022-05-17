@@ -2,7 +2,7 @@
 
 // The Title (PvE first choice roll)
 // (Corkscrew Rifling. Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Light Mag, Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Appended Magazine), Stats For All, One For All
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Then the "All For All" combo of Stats For All and One For All help bump all the stats up to help with gun feel and a 35% damage boost. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. Unique foundry trait gives free Class ability energy on kills. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Then the "All For All" combo of Stats For All and One For All help bump all the stats up to help with gun feel and a 35% damage boost. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=294129361&perks=4090651448,3230963543,1583705720,4049631843
 dimwishlist:item=294129361&perks=1482024992,3230963543,1583705720,4049631843
 dimwishlist:item=294129361&perks=1840239774,3230963543,1583705720,4049631843
@@ -36,12 +36,12 @@ dimwishlist:item=294129361&perks=1392496348,1087426260,1583705720,4049631843
 
 // The Title (PvE backup roll)
 // Any barrel, Any mag, Stats For All, One For All
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Then the "All For All" combo of Stats For All and One For All help bump all the stats up to help with gun feel and a 35% damage boost. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. Unique foundry trait gives free Class ability energy on kills. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Then the "All For All" combo of Stats For All and One For All help bump all the stats up to help with gun feel and a 35% damage boost. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=294129361&perks=1583705720,4049631843
 
 // The Title (PvE first choice roll)
 // (Corkscrew Rifling. Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Light Mag, Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Appended Magazine), Threat Detector, Surrounded
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Threat Detector and Surrounded are natural partners. Recommended MW: Stability or Reload Speed, with a Surrounded Spec mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for end-game content. Unique foundry trait gives free Class ability energy on kills. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Threat Detector and Surrounded are natural partners. Recommended MW: Stability or Reload Speed, with a Surrounded Spec mod.
 dimwishlist:item=294129361&perks=4090651448,3230963543,4071163871,3708227201
 dimwishlist:item=294129361&perks=1482024992,3230963543,4071163871,3708227201
 dimwishlist:item=294129361&perks=1840239774,3230963543,4071163871,3708227201
@@ -75,12 +75,12 @@ dimwishlist:item=294129361&perks=1392496348,1087426260,4071163871,3708227201
 
 // The Title (PvE backup roll)
 // Any barrel, Any mag, Threat Detector, Surrounded
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Threat Detector and Surrounded are natural partners. Recommended MW: Stability or Reload Speed, with a Surrounded Spec mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for end-game content. Unique foundry trait gives free Class ability energy on kills. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Threat Detector and Surrounded are natural partners. Recommended MW: Stability or Reload Speed, with a Surrounded Spec mod.
 dimwishlist:item=294129361&perks=4071163871,3708227201
 
 // The Title (PvE first choice roll)
 // (Corkscrew Rifling. Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Light Mag, Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Appended Magazine), Grave Robber, Swashbuckler
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Grave Robber and Swashbuckler are natural partners. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE first-choice roll for general content. Unique foundry trait gives free Class ability energy on kills. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Grave Robber and Swashbuckler are natural partners. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=294129361&perks=4090651448,3230963543,1631667848,4082225868
 dimwishlist:item=294129361&perks=1482024992,3230963543,1631667848,4082225868
 dimwishlist:item=294129361&perks=1840239774,3230963543,1631667848,4082225868
@@ -114,7 +114,7 @@ dimwishlist:item=294129361&perks=1392496348,1087426260,1631667848,4082225868
 
 // The Title (PvE backup roll)
 // Any barrel, Any mag, Grave Robber, Swashbuckler
-//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. Unique foundry trait gives a free Thresh effect. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Grave Robber and Swashbuckler are natural partners. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+//notes:Inspired by DMB Player Versus Enemies Podcast 14. PvE backup roll for general content. Unique foundry trait gives free Class ability energy on kills. Choose a barrel and mag that help out with Handling, Stability, Range and Reload Speed. Grave Robber and Swashbuckler are natural partners. Recommended MW: Stability or Reload Speed, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
 dimwishlist:item=294129361&perks=1631667848,4082225868
 
 // Shayura's Wrath (PvE first choice roll)
