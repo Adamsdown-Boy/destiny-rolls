@@ -55,8 +55,8 @@ dimwishlist:item=232928045&perks=2801223209,3827198035,3523746922,3431277734
 // Under Your Skin (PvE first choice roll)
 // Elastic String, Straight Fletching, (Unrelenting, Unrelenting Enhanced), (Dragonfly, Dragonfly Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for general content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Pretty much a must-have weapon. Assuming you're rolling your own, you'll want to get your draw time down as much as possible with Elastic String, and then get back your lost accuracy with Straight Fletching. Never overlook Archer's Tempo on any bow, and then catch enough adds with Dragonfly to proc Unrelenting for a recovery boost. Recommended MW: Draw Time, with a Dragonfly Spec or damage-boosting (Minor, Major or Taken Spec) mod.
-dimwishlist:item=232928045&perks=2801223209,3827198035,3108830275,3865257976
-dimwishlist:item=232928045&perks=2801223209,3827198035,855168139,3865257976
+dimwishlist:item=232928045&perks=2801223209,3827198035,3108830275,2848615171
+dimwishlist:item=232928045&perks=2801223209,3827198035,855168139,2848615171
 dimwishlist:item=232928045&perks=2801223209,3827198035,3108830275,169755979
 dimwishlist:item=232928045&perks=2801223209,3827198035,855168139,169755979
 
