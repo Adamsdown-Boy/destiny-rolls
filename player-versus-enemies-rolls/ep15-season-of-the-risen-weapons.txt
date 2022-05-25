@@ -1,0 +1,185 @@
+@title:Season of the Risen weapons
+
+// Piece of Mind (PvE first choice roll)
+// Arrowhead Brake, High-Caliber Rounds, (Stats For All, Stats For All Enhanced, Overflow, Overflow Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced, Focused Fury, Focused Fury Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. In the same pulse rifle subtype as Jurassic Green, Darkest Before and Gridskipper, and it suffers by comparison a little. Assuming you're rolling your own, Arrowhead Brake is a must have to deal with the wonky recoil, and High-Caliber Rounds is useful for the additional flinch - with the highest zoom in class, stability is less of an issue when ADS. Stats for All or Overflow are the most useful for trait 1, and Adrenaline Junkie or Focused Fury (although it can be finicky to proc on a pulse rifle) are the best for trait 2. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2097055732&perks=839105230,1561002382,1583705720,11612903
+dimwishlist:item=2097055732&perks=839105230,1561002382,1409206216,11612903
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,11612903
+dimwishlist:item=2097055732&perks=839105230,1561002382,2682205016,11612903
+dimwishlist:item=2097055732&perks=839105230,1561002382,1583705720,2422968039
+dimwishlist:item=2097055732&perks=839105230,1561002382,1409206216,2422968039
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2422968039
+dimwishlist:item=2097055732&perks=839105230,1561002382,2682205016,2422968039
+dimwishlist:item=2097055732&perks=839105230,1561002382,1583705720,2896038713
+dimwishlist:item=2097055732&perks=839105230,1561002382,1409206216,2896038713
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2896038713
+dimwishlist:item=2097055732&perks=839105230,1561002382,2682205016,2896038713
+dimwishlist:item=2097055732&perks=839105230,1561002382,1583705720,2402480669
+dimwishlist:item=2097055732&perks=839105230,1561002382,1409206216,2402480669
+dimwishlist:item=2097055732&perks=839105230,1561002382,3643424744,2402480669
+dimwishlist:item=2097055732&perks=839105230,1561002382,2682205016,2402480669
+
+// Sweet Sorrow (PvE first choice roll)
+// Arrowhead Brake, Accurized Rounds, (Stats For All, Stats For All Enhanced), (One For All, One For All Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. The bad range is balanced by an extra point of zoom. Assuming you're rolling your own, Arrowhead Brake sorts the wonky recoil and Accurized Rounds pushes your effective range out by a couple of metres. All For is a great combination, and turns it into a red bar wrecking laser. Recommended MW: Range, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1248372789&perks=839105230,3142289711,1583705720,4049631843
+dimwishlist:item=1248372789&perks=839105230,3142289711,1409206216,4049631843
+dimwishlist:item=1248372789&perks=839105230,3142289711,1583705720,859780267
+dimwishlist:item=1248372789&perks=839105230,3142289711,1409206216,859780267
+
+// Sweet Sorrow (PvE first choice roll)
+// Arrowhead Brake, Accurized Rounds, (Triple Tap, Triple Tap Enhanced), (Focused Fury, Focused Fury Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. The bad range is balanced by an extra point of zoom. Assuming you're rolling your own, Arrowhead Brake sorts the wonky recoil and Accurized Rounds pushes your effective range out by a couple of metres. Triple Tap helps make the most of the damage boost from Focused Fury Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,2896038713
+dimwishlist:item=1248372789&perks=839105230,3142289711,573122728,2896038713
+dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,2402480669
+dimwishlist:item=1248372789&perks=839105230,3142289711,573122728,2402480669
+
+// Under Your Skin (PvE first choice roll)
+// Elastic String, Straight Fletching, (Archer's Tempo, Archer's Tempo Enhanced), (Explosive Head, Explosive Head Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Pretty much a must-have weapon. Assuming you're rolling your own, you'll want to get your draw time down as much as possible with Elastic String, and then get back your lost accuracy with Straight Fletching. Never overlook Archer's Tempo on any bow, and then Explosive Head adds flinch, damage and stuns Overload Champions faster when the bow mod's in town. Recommended MW: Draw Time or Accuracy, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,3365897133
+dimwishlist:item=232928045&perks=2801223209,3827198035,3523746922,3365897133
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,1551736345
+dimwishlist:item=232928045&perks=2801223209,3827198035,3523746922,1551736345
+
+// Under Your Skin (PvE first choice roll)
+// Elastic String, Straight Fletching, (Archer's Tempo, Archer's Tempo Enhanced), (Adaptive Munitions, Adaptive Munitions Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Pretty much a must-have weapon. Assuming you're rolling your own, you'll want to get your draw time down as much as possible with Elastic String, and then get back your lost accuracy with Straight Fletching. Never overlook Archer's Tempo on any bow, and then Adaptive Munitions helps with Match Game, and stuns Barrier Champions faster when the bow mod's in town. Recommended MW: Draw Time or Accuracy, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,1048183818
+dimwishlist:item=232928045&perks=2801223209,3827198035,3523746922,1048183818
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,3431277734
+dimwishlist:item=232928045&perks=2801223209,3827198035,3523746922,3431277734
+
+// Under Your Skin (PvE first choice roll)
+// Elastic String, Straight Fletching, (Unrelenting, Unrelenting Enhanced), (Dragonfly, Dragonfly Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for general content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Pretty much a must-have weapon. Assuming you're rolling your own, you'll want to get your draw time down as much as possible with Elastic String, and then get back your lost accuracy with Straight Fletching. Never overlook Archer's Tempo on any bow, and then catch enough adds with Dragonfly to proc Unrelenting for a recovery boost. Recommended MW: Draw Time, with a Dragonfly Spec or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=232928045&perks=2801223209,3827198035,3108830275,3865257976
+dimwishlist:item=232928045&perks=2801223209,3827198035,855168139,3865257976
+dimwishlist:item=232928045&perks=2801223209,3827198035,3108830275,169755979
+dimwishlist:item=232928045&perks=2801223209,3827198035,855168139,169755979
+
+// Thoughtless (PvE first choice roll)
+// Fluted Barrel, Appended Mag, (Overflow, Overflow Enhanced) (Firing Line, Firing Line Enhanced, Focused Fury, Focused Fury Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for sustained boss DPS. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Pretty much a must-have weapon. Assuming you're rolling your own, Handling and as many bullets in your mag as possible - you hit the max of seven with Appended Mag, so Extended Mag is a waste. Overflow instantly reloads and give you a nutty 14 in the mag, and Enhanced Overflow gets you to 16 for running over a special or power brick! Firing Line (fireteam) or Focused Fury (solo) ups your damage output further, while stasis builds that include Font of Might add 25% more. Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=4067556514&perks=1840239774,1087426260,3643424744,1771339417
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,1771339417
+dimwishlist:item=4067556514&perks=1840239774,1087426260,3643424744,395388285
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,395388285
+dimwishlist:item=4067556514&perks=1840239774,1087426260,3643424744,2896038713
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,2896038713
+dimwishlist:item=4067556514&perks=1840239774,1087426260,3643424744,2402480669
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,2402480669
+
+// Explosive Personality (PvE first choice roll)
+// Quick Launch, High-Velocity Rounds, (Auto-Loading Holster, Auto-Loading Holster Enhanced), (Frenzy, Frenzy Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Great solar wave-frame grenade launcher with interesting perk combinations. Assuming you're rolling your own, got for velocity with Quick Launch (which also helps Handling) and High Velocity Rounds (which also helps Reload Speed). Auto-Loading Holster means you'll always have one in the tube and Frenzy provides useful additional damage. Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,4104185692
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,3007133316
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,3007133316
+
+// Explosive Personality (PvE first choice roll)
+// Quick Launch, High-Velocity Rounds, (Stats For All, Stats For All Enhanced), (One For All, One For All Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Great solar wave-frame grenade launcher with interesting perk combinations. Assuming you're rolling your own, got for velocity with Quick Launch (which also helps Handling) and High Velocity Rounds (which also helps Reload Speed). Providing you can hit a mob of adds, "All For All" gives a useful stats boost and bonus damage. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4096943616&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=4096943616&perks=3525010810,2822142346,1409206216,4049631843
+dimwishlist:item=4096943616&perks=3525010810,2822142346,1583705720,859780267
+dimwishlist:item=4096943616&perks=3525010810,2822142346,1409206216,859780267
+
+// Explosive Personality (PvE first choice roll)
+// Quick Launch, High-Velocity Rounds, (Field Prep, Field Prep Enhanced, Auto-Loading Holster, Auto-Loading Holster Enhanced), (Golden Tricorn, Golden Tricorn Enhanced)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game content. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. Great solar wave-frame grenade launcher with interesting perk combinations. Assuming you're rolling your own, got for velocity with Quick Launch (which also helps Handling) and High Velocity Rounds (which also helps Reload Speed). Golden Tricorn is very interesting with Solar 3.0 grenades and melees, potentially adding 50% damage, and pairs well with both Field Prep and Auto-Loading Holster. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=4096943616&perks=3525010810,2822142346,2869569095,2610012052
+dimwishlist:item=4096943616&perks=3525010810,2822142346,2308090567,2610012052
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,2610012052
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,2610012052
+dimwishlist:item=4096943616&perks=3525010810,2822142346,2869569095,4290541820
+dimwishlist:item=4096943616&perks=3525010810,2822142346,2308090567,4290541820
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4290541820
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,4290541820
+
+// Recurrent Impact (PvE first choice roll)
+// Arrowhead Brake, (Tactical Mag, Appended Mag, Extended Mag), (Stats For All Enhanced, Stats For All), (One For All Enhanced, One For All)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for end-game use. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. As at Season 16, the only legendary stasis LMG. Assuming you're rolling your own, Arrowhead Brake sorts out the Recoil Direction, then add bullets into the mag - Tactical Mag is probably optimal overall, but Appended and even Extended Mag work well, with Reload Speed boosting traits. All For All makes this a breeze to use and ups your damage without needing a kill. Recommended MW: Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1572896086&perks=839105230,106909392,1409206216,859780267
+dimwishlist:item=1572896086&perks=839105230,1087426260,1409206216,859780267
+dimwishlist:item=1572896086&perks=839105230,2420895100,1409206216,859780267
+dimwishlist:item=1572896086&perks=839105230,106909392,1583705720,859780267
+dimwishlist:item=1572896086&perks=839105230,1087426260,1583705720,859780267
+dimwishlist:item=1572896086&perks=839105230,2420895100,1583705720,859780267
+dimwishlist:item=1572896086&perks=839105230,106909392,1409206216,4049631843
+dimwishlist:item=1572896086&perks=839105230,1087426260,1409206216,4049631843
+dimwishlist:item=1572896086&perks=839105230,2420895100,1409206216,4049631843
+dimwishlist:item=1572896086&perks=839105230,106909392,1583705720,4049631843
+dimwishlist:item=1572896086&perks=839105230,1087426260,1583705720,4049631843
+dimwishlist:item=1572896086&perks=839105230,2420895100,1583705720,4049631843
+
+// Recurrent Impact (PvE first choice roll)
+// Arrowhead Brake, (Tactical Mag, Appended Mag, Extended Mag), (Field Prep Enhanced, Field Prep, Subsistence Enhanced, Subsistence, Perpetual Motion Enhanced, Perpetual Motion), (Headstone Enhanced, Headstone)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for Stasis builds. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. As at Season 16, the only legendary stasis LMG. Assuming you're rolling your own, Arrowhead Brake sorts out the Recoil Direction, then add bullets into the mag - Tactical Mag is probably optimal overall, but Appended and even Extended Mag work well, with Reload Speed boosting traits. Field Prep, Subsistence and Perpetual Motion all work well  with Headstone generating Shards for use with Stasis builds. Recommended MW: Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1572896086&perks=839105230,106909392,2308090567,1171887445
+dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,1171887445
+dimwishlist:item=1572896086&perks=839105230,2420895100,2308090567,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,2869569095,1171887445
+dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,1171887445
+dimwishlist:item=1572896086&perks=839105230,2420895100,2869569095,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,4245865861,1171887445
+dimwishlist:item=1572896086&perks=839105230,1087426260,4245865861,1171887445
+dimwishlist:item=1572896086&perks=839105230,2420895100,4245865861,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,1171887445
+dimwishlist:item=1572896086&perks=839105230,1087426260,1820235745,1171887445
+dimwishlist:item=1572896086&perks=839105230,2420895100,1820235745,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,2014892510,1171887445
+dimwishlist:item=1572896086&perks=839105230,1087426260,2014892510,1171887445
+dimwishlist:item=1572896086&perks=839105230,2420895100,2014892510,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,1428297954,1171887445
+dimwishlist:item=1572896086&perks=839105230,1087426260,1428297954,1171887445
+dimwishlist:item=1572896086&perks=839105230,2420895100,1428297954,1171887445
+dimwishlist:item=1572896086&perks=839105230,106909392,2308090567,124408337
+dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,124408337
+dimwishlist:item=1572896086&perks=839105230,2420895100,2308090567,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,2869569095,124408337
+dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,124408337
+dimwishlist:item=1572896086&perks=839105230,2420895100,2869569095,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,4245865861,124408337
+dimwishlist:item=1572896086&perks=839105230,1087426260,4245865861,124408337
+dimwishlist:item=1572896086&perks=839105230,2420895100,4245865861,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,124408337
+dimwishlist:item=1572896086&perks=839105230,1087426260,1820235745,124408337
+dimwishlist:item=1572896086&perks=839105230,2420895100,1820235745,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,2014892510,124408337
+dimwishlist:item=1572896086&perks=839105230,1087426260,2014892510,124408337
+dimwishlist:item=1572896086&perks=839105230,2420895100,2014892510,124408337
+dimwishlist:item=1572896086&perks=839105230,106909392,1428297954,124408337
+dimwishlist:item=1572896086&perks=839105230,1087426260,1428297954,124408337
+dimwishlist:item=1572896086&perks=839105230,2420895100,1428297954,124408337
+
+// Recurrent Impact (PvE first choice roll)
+// Arrowhead Brake, (Tactical Mag, Appended Mag, Extended Mag), (Field Prep Enhanced, Field Prep), (Firing Line Enhanced, Firing Line, Frenzy Enhanced, Frenzy)
+//notes:Inspired by DMB Player Versus Enemies Podcast 15. PvE first-choice roll for sustained DPS. Shapeable. Land tank can be useful, stacking x3 for +10 Resilience and +5% damage resistance per stack. As at Season 16, the only legendary stasis LMG. Assuming you're rolling your own, Arrowhead Brake sorts out the Recoil Direction, then add bullets into the mag - Tactical Mag is probably optimal overall, but Appended and even Extended Mag work well, with Reload Speed boosting traits. Field Prep aids stats and improves inventory, while Firing Line (in a fireteam) or Frenzy (solo) boost damage. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=1572896086&perks=839105230,106909392,2308090567,395388285
+dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,395388285
+dimwishlist:item=1572896086&perks=839105230,2420895100,2308090567,395388285
+dimwishlist:item=1572896086&perks=839105230,106909392,2869569095,395388285
+dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,395388285
+dimwishlist:item=1572896086&perks=839105230,2420895100,2869569095,395388285
+dimwishlist:item=1572896086&perks=839105230,106909392,2308090567,1771339417
+dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,1771339417
+dimwishlist:item=1572896086&perks=839105230,2420895100,2308090567,1771339417
+dimwishlist:item=1572896086&perks=839105230,106909392,2869569095,1771339417
+dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,1771339417
+dimwishlist:item=1572896086&perks=839105230,2420895100,2869569095,1771339417
+dimwishlist:item=1572896086&perks=839105230,106909392,2308090567,3007133316
+dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,3007133316
+dimwishlist:item=1572896086&perks=839105230,2420895100,2308090567,3007133316
+dimwishlist:item=1572896086&perks=839105230,106909392,2869569095,3007133316
+dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,3007133316
+dimwishlist:item=1572896086&perks=839105230,2420895100,2869569095,3007133316
+dimwishlist:item=1572896086&perks=839105230,106909392,2308090567,4104185692
+dimwishlist:item=1572896086&perks=839105230,1087426260,2308090567,4104185692
+dimwishlist:item=1572896086&perks=839105230,2420895100,2308090567,4104185692
+dimwishlist:item=1572896086&perks=839105230,106909392,2869569095,4104185692
+dimwishlist:item=1572896086&perks=839105230,1087426260,2869569095,4104185692
+dimwishlist:item=1572896086&perks=839105230,2420895100,2869569095,4104185692
