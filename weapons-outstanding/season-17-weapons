@@ -8,10 +8,10 @@ dimwishlist:item=1234150730
 // Firefright
 dimwishlist:item=2778013407
 
-// Tears of Contrition
+// Tears of Contrition - Shapeable
 dimwishlist:item=1366394399
 
-// Nezarec's Whisper
+// Nezarec's Whisper - Shapeable
 dimwishlist:item=254636484&
 
 // Hollow Denial
@@ -20,7 +20,7 @@ dimwishlist:item=2323544076
 // Without Remorse
 dimwishlist:item=1478986057
 
-// Bump in the Night
+// Bump in the Night - Shapeable
 dimwishlist:item=1959650777
 
 @title:Trials of Osiris weapons
@@ -84,16 +84,16 @@ dimwishlist:item=1999697514
 dimwishlist:item=2488587246
 
 @title:Opulent weapons
-// Austringer
+// Austringer - Shapeable
 dimwishlist:item=3055790362
 
-// CALUS Mini-Tool
+// CALUS Mini-Tool - Shapeable
 dimwishlist:item=2490988246
 
-// Drang (Baroque)
+// Drang (Baroque) - Shapeable
 dimwishlist:item=502356570
 
-// Beloved
+// Beloved - Shapeable
 dimwishlist:item=3107853529
 
 @title:Duality Dungeon weapons
@@ -101,6 +101,13 @@ dimwishlist:item=3107853529
 
 // New Purpose
 
+// The Epicurean
+
 // Lingering Dread
 
 // Stormchaser
+
+// Fixed Odds
+
+// Heartshadow 
+
