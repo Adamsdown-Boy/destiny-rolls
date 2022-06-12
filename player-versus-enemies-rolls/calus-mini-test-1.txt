@@ -1,0 +1,63 @@
+// CALUS Mini-Tool (PvE first choice roll)
+// Any barrel, (Tactical Mag, Appended Mag), (Threat Detector Enhanced, Threat Detector), (Incandescent Enhanced, Incandescent)
+//notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE first-choice roll for end-game content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. If you're building your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Threat Detector helps with gun feel in CQC, and Incandescent synergises really well with Solar 3.0 builds. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2490988246&perks=106909392,494941759,2675184851
+dimwishlist:item=2490988246&perks=1087426260,494941759,2675184851
+dimwishlist:item=2490988246&perks=106909392,4071163871,2675184851
+dimwishlist:item=2490988246&perks=1087426260,4071163871,2675184851
+dimwishlist:item=2490988246&perks=106909392,494941759,4293542123
+dimwishlist:item=2490988246&perks=1087426260,494941759,4293542123
+dimwishlist:item=2490988246&perks=106909392,4071163871,4293542123
+dimwishlist:item=2490988246&perks=1087426260,4071163871,4293542123
+
+// CALUS Mini-Tool (PvE first choice roll)
+// Any barrel, (Tactical Mag, Appended Mag), (Threat Detector Enhanced, Threat Detector), (Surrounded Enhanced, Surrounded)
+//notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE first-choice roll for end-game content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. If you're building your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Threat Detector helps with gun feel in CQC, and Surrounded with a Surrounded Spec mod gives a huge boost to damage. Recommended MW: Stability, with a Surrounded Spec mod.
+dimwishlist:item=2490988246&perks=106909392,494941759,781192741
+dimwishlist:item=2490988246&perks=1087426260,494941759,781192741
+dimwishlist:item=2490988246&perks=106909392,4071163871,781192741
+dimwishlist:item=2490988246&perks=1087426260,4071163871,781192741
+dimwishlist:item=2490988246&perks=106909392,494941759,3708227201
+dimwishlist:item=2490988246&perks=1087426260,494941759,3708227201
+dimwishlist:item=2490988246&perks=106909392,4071163871,3708227201
+dimwishlist:item=2490988246&perks=1087426260,4071163871,3708227201
+
+// CALUS Mini-Tool (PvE backup roll)
+// Any barrel, (Tactical Mag, Appended Mag), (Unrelenting Enhanced, Unrelenting, Grave Robber Enhanced, Grace Robber), (Incandescent Enhanced, Incandescent)
+//notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE backup roll for general content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. While you're waiting to your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Unrelenting helps keep you in a fight or Grave Robber helps with keeping you reloaded, and Incandescent synergises really well with Solar 3.0. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2490988246&perks=106909392,855168139,2675184851
+dimwishlist:item=2490988246&perks=1087426260,855168139,2675184851
+dimwishlist:item=2490988246&perks=106909392,3108830275,2675184851
+dimwishlist:item=2490988246&perks=1087426260,3108830275,2675184851
+dimwishlist:item=2490988246&perks=106909392,402033656,2675184851
+dimwishlist:item=2490988246&perks=1087426260,402033656,2675184851
+dimwishlist:item=2490988246&perks=106909392,1631667848,2675184851
+dimwishlist:item=2490988246&perks=1087426260,1631667848,2675184851
+dimwishlist:item=2490988246&perks=106909392,855168139,4293542123
+dimwishlist:item=2490988246&perks=1087426260,855168139,4293542123
+dimwishlist:item=2490988246&perks=106909392,3108830275,4293542123
+dimwishlist:item=2490988246&perks=1087426260,3108830275,4293542123
+dimwishlist:item=2490988246&perks=106909392,402033656,4293542123
+dimwishlist:item=2490988246&perks=1087426260,402033656,4293542123
+dimwishlist:item=2490988246&perks=106909392,1631667848,4293542123
+dimwishlist:item=2490988246&perks=1087426260,1631667848,4293542123
+
+// CALUS Mini-Tool (PvE backup roll)
+// Any barrel, (Tactical Mag, Appended Mag), (Unrelenting Enhanced, Unrelenting, Grave Robber Enhanced, Grace Robber), (Surrounded Enhanced, Surrounded)
+//notes:Inspired by DMB Player Versus Enemies Podcast 18. PvE backup roll for general content. Shapeable. To Excess origin perk is most useful with Tier 4/5 supers with the shortest cooldown, but can add to melee/grenade builds. While you're waiting to build your own, dealer's choice for barrel - go for what you're comfortable with, and then Tactical Mag gives a range of boosts, or Appended Mag just increases the mag size. Unrelenting helps keep you in a fight or Grave Robber helps with keeping you reloaded, and Surrounded with a Surrounded Spec mod gives a huge boost to damage. Recommended MW: Stability, with a Surrounded Spec mod.
+dimwishlist:item=2490988246&perks=106909392,855168139,781192741
+dimwishlist:item=2490988246&perks=1087426260,855168139,781192741
+dimwishlist:item=2490988246&perks=106909392,3108830275,781192741
+dimwishlist:item=2490988246&perks=1087426260,3108830275,781192741
+dimwishlist:item=2490988246&perks=106909392,402033656,781192741
+dimwishlist:item=2490988246&perks=1087426260,402033656,781192741
+dimwishlist:item=2490988246&perks=106909392,1631667848,781192741
+dimwishlist:item=2490988246&perks=1087426260,1631667848,781192741
+dimwishlist:item=2490988246&perks=106909392,855168139,3708227201
+dimwishlist:item=2490988246&perks=1087426260,855168139,3708227201
+dimwishlist:item=2490988246&perks=106909392,3108830275,3708227201
+dimwishlist:item=2490988246&perks=1087426260,3108830275,3708227201
+dimwishlist:item=2490988246&perks=106909392,402033656,3708227201
+dimwishlist:item=2490988246&perks=1087426260,402033656,3708227201
+dimwishlist:item=2490988246&perks=106909392,1631667848,3708227201
+dimwishlist:item=2490988246&perks=1087426260,1631667848,3708227201
