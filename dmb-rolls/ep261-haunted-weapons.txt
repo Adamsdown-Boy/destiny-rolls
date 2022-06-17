@@ -1,0 +1,622 @@
+@title:Haunted weapons
+@description:Seasonal weapons from Season 17 (Haunted) with the Extrovert origin perk
+
+// Firefright (PvP first choice roll)
+// Hammer-Forged Rifling, Accurized Rounds, (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats, and then, in the trait slots, Hip-Fire grip improves usability close-up and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to double down on hip-fire, or an Icarus Grip mod gets the Airborne Effectiveness to 31, which makes Firefright a jack of all trades - usable in the air, as well as at mid-range while ADS or closer up while hip-firing.
+dimwishlist:item=2778013407&perks=3250034553,3142289711,3118144663,711234314
+dimwishlist:item=2778013407&perks=3250034553,3142289711,1866048759,711234314
+dimwishlist:item=2778013407&perks=3250034553,3142289711,3118144663,3511092054
+dimwishlist:item=2778013407&perks=3250034553,3142289711,1866048759,3511092054
+
+// Firefright (PvP backup roll)
+// Hammer-Forged Rifling, (High-Caliber Rounds, Armor-Piercing Rounds), (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP backup roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats - High-Caliber Rounds or Armor Piercing Rounds boost range as well as providing useful combat effects. Then in the trait slots, Hip-Fire grip improves usability close-up and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to double down on hip-fire, or an Icarus Grip mod gets the Airborne Effectiveness to 31, which makes Firefright a jack of all trades - usable in the air, as well as at mid-range while ADS or closer up while hip-firing.
+dimwishlist:item=2778013407&perks=3250034553,1561002382,3118144663,711234314
+dimwishlist:item=2778013407&perks=3250034553,1968497646,3118144663,711234314
+dimwishlist:item=2778013407&perks=3250034553,1561002382,1866048759,711234314
+dimwishlist:item=2778013407&perks=3250034553,1968497646,1866048759,711234314
+dimwishlist:item=2778013407&perks=3250034553,1561002382,3118144663,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1968497646,3118144663,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1561002382,1866048759,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1968497646,1866048759,3511092054
+
+// Firefright (PvP first choice roll)
+// Hammer-Forged Rifling, Accurized Rounds, (Air Assault Enhanced, Air Assault), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats in the barrel and mag. Then in the trait slots, Air Assault builds into an aerial playstyle and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with an Icarus Grip mod to get the base Airborne Effectiveness to 31.
+dimwishlist:item=2778013407&perks=3250034553,3142289711,2898218424,711234314
+dimwishlist:item=2778013407&perks=3250034553,3142289711,3722653512,711234314
+dimwishlist:item=2778013407&perks=3250034553,3142289711,2898218424,3511092054
+dimwishlist:item=2778013407&perks=3250034553,3142289711,3722653512,3511092054
+
+// Firefright (PvP backup roll)
+// Hammer-Forged Rifling, (High-Caliber Rounds, Armor-Piercing Rounds), (Air Assault Enhanced, Air Assault), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats in the barrel, and High-Caliber or Armor-Piercing Rounds add range and useful combat effects in the mag. Then in the trait slots, Air Assault builds into an aerial playstyle and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with an Icarus Grip mod to get the base Airborne Effectiveness to 31.
+dimwishlist:item=2778013407&perks=3250034553,1561002382,2898218424,711234314
+dimwishlist:item=2778013407&perks=3250034553,1968497646,2898218424,711234314
+dimwishlist:item=2778013407&perks=3250034553,1561002382,3722653512,711234314
+dimwishlist:item=2778013407&perks=3250034553,1968497646,3722653512,711234314
+dimwishlist:item=2778013407&perks=3250034553,1561002382,2898218424,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1968497646,2898218424,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1561002382,3722653512,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1968497646,3722653512,3511092054
+
+// Firefright (PvP first-choice roll)
+// Hammer-Forged Rifling, Accurized Rounds, (Fragile Focus Enhanced, Fragile Focus), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats in the barrel and mag. Then in the trait slots, Fragile Focus goes all-in to improving range and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to improve hip-fire or an Icarus Grip mod to get the base Airborne Effectiveness to 31.
+dimwishlist:item=2778013407&perks=3250034553,3142289711,1609056795,711234314
+dimwishlist:item=2778013407&perks=3250034553,3142289711,2451262963,711234314
+dimwishlist:item=2778013407&perks=3250034553,3142289711,1609056795,3511092054
+dimwishlist:item=2778013407&perks=3250034553,3142289711,2451262963,3511092054
+
+// Firefright (PvP backup roll)
+// Hammer-Forged Rifling, (High-Caliber Rounds, Armor-Piercing Rounds), (Fragile Focus Enhanced, Fragile Focus), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP backup roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats in the barrel, and High-Caliber or Armor-Piercing Rounds add range and useful combat effects in the mag. Then in the trait slots, Fragile Focus goes all-in to improving range and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to improve hip-fire or an Icarus Grip mod to get the base Airborne Effectiveness to 31.
+dimwishlist:item=2778013407&perks=3250034553,1561002382,1609056795,711234314
+dimwishlist:item=2778013407&perks=3250034553,1968497646,1609056795,711234314
+dimwishlist:item=2778013407&perks=3250034553,1561002382,2451262963,711234314
+dimwishlist:item=2778013407&perks=3250034553,1968497646,2451262963,711234314
+dimwishlist:item=2778013407&perks=3250034553,1561002382,1609056795,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1968497646,1609056795,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1561002382,2451262963,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1968497646,2451262963,3511092054
+
+// Firefright (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag), (Threat Detector Enhanced, Threat Detector), (Surrounded Enhanced, Surrounded)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Improving stability helps you group shots at middle distances, and improving reload speed, or adding a combat effect in the mag always helps. It's difficult to overlook Threat Detector and Surrounded as a pairing that proc on the same conditions - Enhanced Surrounded with the Surrounded Spec mod gives you a massive 47% boost to CQC damage! Recommended MW: Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=2778013407&perks=1392496348,1561002382,494941759,781192741
+dimwishlist:item=2778013407&perks=1482024992,1561002382,494941759,781192741
+dimwishlist:item=2778013407&perks=1840239774,1561002382,494941759,781192741
+dimwishlist:item=2778013407&perks=4090651448,1561002382,494941759,781192741
+dimwishlist:item=2778013407&perks=1392496348,1968497646,494941759,781192741
+dimwishlist:item=2778013407&perks=1482024992,1968497646,494941759,781192741
+dimwishlist:item=2778013407&perks=1840239774,1968497646,494941759,781192741
+dimwishlist:item=2778013407&perks=4090651448,1968497646,494941759,781192741
+dimwishlist:item=2778013407&perks=1392496348,3230963543,494941759,781192741
+dimwishlist:item=2778013407&perks=1482024992,3230963543,494941759,781192741
+dimwishlist:item=2778013407&perks=1840239774,3230963543,494941759,781192741
+dimwishlist:item=2778013407&perks=4090651448,3230963543,494941759,781192741
+dimwishlist:item=2778013407&perks=1392496348,679225683,494941759,781192741
+dimwishlist:item=2778013407&perks=1482024992,679225683,494941759,781192741
+dimwishlist:item=2778013407&perks=1840239774,679225683,494941759,781192741
+dimwishlist:item=2778013407&perks=4090651448,679225683,494941759,781192741
+dimwishlist:item=2778013407&perks=1392496348,1561002382,4071163871,781192741
+dimwishlist:item=2778013407&perks=1482024992,1561002382,4071163871,781192741
+dimwishlist:item=2778013407&perks=1840239774,1561002382,4071163871,781192741
+dimwishlist:item=2778013407&perks=4090651448,1561002382,4071163871,781192741
+dimwishlist:item=2778013407&perks=1392496348,1968497646,4071163871,781192741
+dimwishlist:item=2778013407&perks=1482024992,1968497646,4071163871,781192741
+dimwishlist:item=2778013407&perks=1840239774,1968497646,4071163871,781192741
+dimwishlist:item=2778013407&perks=4090651448,1968497646,4071163871,781192741
+dimwishlist:item=2778013407&perks=1392496348,3230963543,4071163871,781192741
+dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,781192741
+dimwishlist:item=2778013407&perks=1840239774,3230963543,4071163871,781192741
+dimwishlist:item=2778013407&perks=4090651448,3230963543,4071163871,781192741
+dimwishlist:item=2778013407&perks=1392496348,679225683,4071163871,781192741
+dimwishlist:item=2778013407&perks=1482024992,679225683,4071163871,781192741
+dimwishlist:item=2778013407&perks=1840239774,679225683,4071163871,781192741
+dimwishlist:item=2778013407&perks=4090651448,679225683,4071163871,781192741
+dimwishlist:item=2778013407&perks=1392496348,1561002382,494941759,3708227201
+dimwishlist:item=2778013407&perks=1482024992,1561002382,494941759,3708227201
+dimwishlist:item=2778013407&perks=1840239774,1561002382,494941759,3708227201
+dimwishlist:item=2778013407&perks=4090651448,1561002382,494941759,3708227201
+dimwishlist:item=2778013407&perks=1392496348,1968497646,494941759,3708227201
+dimwishlist:item=2778013407&perks=1482024992,1968497646,494941759,3708227201
+dimwishlist:item=2778013407&perks=1840239774,1968497646,494941759,3708227201
+dimwishlist:item=2778013407&perks=4090651448,1968497646,494941759,3708227201
+dimwishlist:item=2778013407&perks=1392496348,3230963543,494941759,3708227201
+dimwishlist:item=2778013407&perks=1482024992,3230963543,494941759,3708227201
+dimwishlist:item=2778013407&perks=1840239774,3230963543,494941759,3708227201
+dimwishlist:item=2778013407&perks=4090651448,3230963543,494941759,3708227201
+dimwishlist:item=2778013407&perks=1392496348,679225683,494941759,3708227201
+dimwishlist:item=2778013407&perks=1482024992,679225683,494941759,3708227201
+dimwishlist:item=2778013407&perks=1840239774,679225683,494941759,3708227201
+dimwishlist:item=2778013407&perks=4090651448,679225683,494941759,3708227201
+dimwishlist:item=2778013407&perks=1392496348,1561002382,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1482024992,1561002382,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1840239774,1561002382,4071163871,3708227201
+dimwishlist:item=2778013407&perks=4090651448,1561002382,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1392496348,1968497646,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1482024992,1968497646,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1840239774,1968497646,4071163871,3708227201
+dimwishlist:item=2778013407&perks=4090651448,1968497646,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1392496348,3230963543,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=2778013407&perks=4090651448,3230963543,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1392496348,679225683,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1482024992,679225683,4071163871,3708227201
+dimwishlist:item=2778013407&perks=1840239774,679225683,4071163871,3708227201
+dimwishlist:item=2778013407&perks=4090651448,679225683,4071163871,3708227201
+
+// Firefright (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Flared Magwell, Light Mag), (Threat Detector Enhanced, Threat Detector, Well-Rounded Enhanced, Well-Rounded), (Osmosis Enhanced, Osmosis)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for Match Game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Improving stability helps you group shots at middle distances, and improving reload speed, or adding a combat effect in the mag always helps. Well-Rounded can proc with Osmosis on a grenade throw, or Threat Detector helps with weapon feeling in CQC. An Osmosis-enhanced weapon works with both Elemental Ordinance and Font of Might to boost well production and use to boost damage output, as well as provided options in Match Game activities. Recommended MW: Reload Speed, with a Surrounded Spec mod.
+dimwishlist:item=2778013407&perks=1392496348,1561002382,494941759,777774560
+dimwishlist:item=2778013407&perks=1482024992,1561002382,494941759,777774560
+dimwishlist:item=2778013407&perks=1840239774,1561002382,494941759,777774560
+dimwishlist:item=2778013407&perks=4090651448,1561002382,494941759,777774560
+dimwishlist:item=2778013407&perks=1392496348,1968497646,494941759,777774560
+dimwishlist:item=2778013407&perks=1482024992,1968497646,494941759,777774560
+dimwishlist:item=2778013407&perks=1840239774,1968497646,494941759,777774560
+dimwishlist:item=2778013407&perks=4090651448,1968497646,494941759,777774560
+dimwishlist:item=2778013407&perks=1392496348,3230963543,494941759,777774560
+dimwishlist:item=2778013407&perks=1482024992,3230963543,494941759,777774560
+dimwishlist:item=2778013407&perks=1840239774,3230963543,494941759,777774560
+dimwishlist:item=2778013407&perks=4090651448,3230963543,494941759,777774560
+dimwishlist:item=2778013407&perks=1392496348,679225683,494941759,777774560
+dimwishlist:item=2778013407&perks=1482024992,679225683,494941759,777774560
+dimwishlist:item=2778013407&perks=1840239774,679225683,494941759,777774560
+dimwishlist:item=2778013407&perks=4090651448,679225683,494941759,777774560
+dimwishlist:item=2778013407&perks=1392496348,1561002382,4071163871,777774560
+dimwishlist:item=2778013407&perks=1482024992,1561002382,4071163871,777774560
+dimwishlist:item=2778013407&perks=1840239774,1561002382,4071163871,777774560
+dimwishlist:item=2778013407&perks=4090651448,1561002382,4071163871,777774560
+dimwishlist:item=2778013407&perks=1392496348,1968497646,4071163871,777774560
+dimwishlist:item=2778013407&perks=1482024992,1968497646,4071163871,777774560
+dimwishlist:item=2778013407&perks=1840239774,1968497646,4071163871,777774560
+dimwishlist:item=2778013407&perks=4090651448,1968497646,4071163871,777774560
+dimwishlist:item=2778013407&perks=1392496348,3230963543,4071163871,777774560
+dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,777774560
+dimwishlist:item=2778013407&perks=1840239774,3230963543,4071163871,777774560
+dimwishlist:item=2778013407&perks=4090651448,3230963543,4071163871,777774560
+dimwishlist:item=2778013407&perks=1392496348,679225683,4071163871,777774560
+dimwishlist:item=2778013407&perks=1482024992,679225683,4071163871,777774560
+dimwishlist:item=2778013407&perks=1840239774,679225683,4071163871,777774560
+dimwishlist:item=2778013407&perks=4090651448,679225683,4071163871,777774560
+dimwishlist:item=2778013407&perks=1392496348,1561002382,2139363611,777774560
+dimwishlist:item=2778013407&perks=1482024992,1561002382,2139363611,777774560
+dimwishlist:item=2778013407&perks=1840239774,1561002382,2139363611,777774560
+dimwishlist:item=2778013407&perks=4090651448,1561002382,2139363611,777774560
+dimwishlist:item=2778013407&perks=1392496348,1968497646,2139363611,777774560
+dimwishlist:item=2778013407&perks=1482024992,1968497646,2139363611,777774560
+dimwishlist:item=2778013407&perks=1840239774,1968497646,2139363611,777774560
+dimwishlist:item=2778013407&perks=4090651448,1968497646,2139363611,777774560
+dimwishlist:item=2778013407&perks=1392496348,3230963543,2139363611,777774560
+dimwishlist:item=2778013407&perks=1482024992,3230963543,2139363611,777774560
+dimwishlist:item=2778013407&perks=1840239774,3230963543,2139363611,777774560
+dimwishlist:item=2778013407&perks=4090651448,3230963543,2139363611,777774560
+dimwishlist:item=2778013407&perks=1392496348,679225683,2139363611,777774560
+dimwishlist:item=2778013407&perks=1482024992,679225683,2139363611,777774560
+dimwishlist:item=2778013407&perks=1840239774,679225683,2139363611,777774560
+dimwishlist:item=2778013407&perks=4090651448,679225683,2139363611,777774560
+dimwishlist:item=2778013407&perks=1392496348,1561002382,744594675,777774560
+dimwishlist:item=2778013407&perks=1482024992,1561002382,744594675,777774560
+dimwishlist:item=2778013407&perks=1840239774,1561002382,744594675,777774560
+dimwishlist:item=2778013407&perks=4090651448,1561002382,744594675,777774560
+dimwishlist:item=2778013407&perks=1392496348,1968497646,744594675,777774560
+dimwishlist:item=2778013407&perks=1482024992,1968497646,744594675,777774560
+dimwishlist:item=2778013407&perks=1840239774,1968497646,744594675,777774560
+dimwishlist:item=2778013407&perks=4090651448,1968497646,744594675,777774560
+dimwishlist:item=2778013407&perks=1392496348,3230963543,744594675,777774560
+dimwishlist:item=2778013407&perks=1482024992,3230963543,744594675,777774560
+dimwishlist:item=2778013407&perks=1840239774,3230963543,744594675,777774560
+dimwishlist:item=2778013407&perks=4090651448,3230963543,744594675,777774560
+dimwishlist:item=2778013407&perks=1392496348,679225683,744594675,777774560
+dimwishlist:item=2778013407&perks=1482024992,679225683,744594675,777774560
+dimwishlist:item=2778013407&perks=1840239774,679225683,744594675,777774560
+dimwishlist:item=2778013407&perks=4090651448,679225683,744594675,777774560
+dimwishlist:item=2778013407&perks=1392496348,1561002382,494941759,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1561002382,494941759,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1561002382,494941759,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1561002382,494941759,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1968497646,494941759,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1968497646,494941759,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1968497646,494941759,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1968497646,494941759,1774574192
+dimwishlist:item=2778013407&perks=1392496348,3230963543,494941759,1774574192
+dimwishlist:item=2778013407&perks=1482024992,3230963543,494941759,1774574192
+dimwishlist:item=2778013407&perks=1840239774,3230963543,494941759,1774574192
+dimwishlist:item=2778013407&perks=4090651448,3230963543,494941759,1774574192
+dimwishlist:item=2778013407&perks=1392496348,679225683,494941759,1774574192
+dimwishlist:item=2778013407&perks=1482024992,679225683,494941759,1774574192
+dimwishlist:item=2778013407&perks=1840239774,679225683,494941759,1774574192
+dimwishlist:item=2778013407&perks=4090651448,679225683,494941759,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1561002382,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1561002382,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1561002382,4071163871,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1561002382,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1968497646,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1968497646,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1968497646,4071163871,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1968497646,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1392496348,3230963543,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1482024992,3230963543,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1840239774,3230963543,4071163871,1774574192
+dimwishlist:item=2778013407&perks=4090651448,3230963543,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1392496348,679225683,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1482024992,679225683,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1840239774,679225683,4071163871,1774574192
+dimwishlist:item=2778013407&perks=4090651448,679225683,4071163871,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1561002382,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1561002382,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1561002382,2139363611,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1561002382,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1968497646,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1968497646,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1968497646,2139363611,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1968497646,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1392496348,3230963543,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1482024992,3230963543,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1840239774,3230963543,2139363611,1774574192
+dimwishlist:item=2778013407&perks=4090651448,3230963543,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1392496348,679225683,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1482024992,679225683,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1840239774,679225683,2139363611,1774574192
+dimwishlist:item=2778013407&perks=4090651448,679225683,2139363611,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1561002382,744594675,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1561002382,744594675,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1561002382,744594675,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1561002382,744594675,1774574192
+dimwishlist:item=2778013407&perks=1392496348,1968497646,744594675,1774574192
+dimwishlist:item=2778013407&perks=1482024992,1968497646,744594675,1774574192
+dimwishlist:item=2778013407&perks=1840239774,1968497646,744594675,1774574192
+dimwishlist:item=2778013407&perks=4090651448,1968497646,744594675,1774574192
+dimwishlist:item=2778013407&perks=1392496348,3230963543,744594675,1774574192
+dimwishlist:item=2778013407&perks=1482024992,3230963543,744594675,1774574192
+dimwishlist:item=2778013407&perks=1840239774,3230963543,744594675,1774574192
+dimwishlist:item=2778013407&perks=4090651448,3230963543,744594675,1774574192
+dimwishlist:item=2778013407&perks=1392496348,679225683,744594675,1774574192
+dimwishlist:item=2778013407&perks=1482024992,679225683,744594675,1774574192
+dimwishlist:item=2778013407&perks=1840239774,679225683,744594675,1774574192
+dimwishlist:item=2778013407&perks=4090651448,679225683,744594675,1774574192
+
+// Tears of Contrition (PvP first choice roll)
+// Fluted Barrel, Tactical Mag, (Perpetual Motion Enhanced, Perpetual Motion), (Explosive Payload Enhanced, Explosive Payload)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), which makes it a bit pointless on a scout rifle. Precision frame, so you don't need to worry about recoil direction. Difficult to recommend this subclass as at Season 17 (Haunted). Only tuck one away in your Vault if you don't already have a decent PvP-rolled precision scout rifle, in case they ever get a little love. Recommended MW: Reload Speed or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1366394399&perks=1840239774,106909392,2014892510,64866129
+dimwishlist:item=1366394399&perks=1840239774,106909392,1428297954,64866129
+dimwishlist:item=1366394399&perks=1840239774,106909392,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1840239774,106909392,1428297954,3038247973
+
+// Tears of Contrition (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell) (Triple Tap Enhanced, Triple Tap, Perpetual Motion Enhanced, Perpetual Motion), (Explosive Payload Enhanced, Explosive Payload)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), which makes it a bit pointless on a scout rifle. Precision frame, so you don't need to worry about recoil direction. Difficult to recommend this unless you need a scout rifle for when an anti-champion mod is in town. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1366394399&perks=1392496348,106909392,573122728,64866129
+dimwishlist:item=1366394399&perks=1482024992,106909392,573122728,64866129
+dimwishlist:item=1366394399&perks=1840239774,106909392,573122728,64866129
+dimwishlist:item=1366394399&perks=4090651448,106909392,573122728,64866129
+dimwishlist:item=1366394399&perks=1392496348,3230963543,573122728,64866129
+dimwishlist:item=1366394399&perks=1482024992,3230963543,573122728,64866129
+dimwishlist:item=1366394399&perks=1840239774,3230963543,573122728,64866129
+dimwishlist:item=1366394399&perks=4090651448,3230963543,573122728,64866129
+dimwishlist:item=1366394399&perks=1392496348,106909392,3400784728,64866129
+dimwishlist:item=1366394399&perks=1482024992,106909392,3400784728,64866129
+dimwishlist:item=1366394399&perks=1840239774,106909392,3400784728,64866129
+dimwishlist:item=1366394399&perks=4090651448,106909392,3400784728,64866129
+dimwishlist:item=1366394399&perks=1392496348,3230963543,3400784728,64866129
+dimwishlist:item=1366394399&perks=1482024992,3230963543,3400784728,64866129
+dimwishlist:item=1366394399&perks=1840239774,3230963543,3400784728,64866129
+dimwishlist:item=1366394399&perks=4090651448,3230963543,3400784728,64866129
+dimwishlist:item=1366394399&perks=1392496348,106909392,2014892510,64866129
+dimwishlist:item=1366394399&perks=1482024992,106909392,2014892510,64866129
+dimwishlist:item=1366394399&perks=1840239774,106909392,2014892510,64866129
+dimwishlist:item=1366394399&perks=4090651448,106909392,2014892510,64866129
+dimwishlist:item=1366394399&perks=1392496348,3230963543,2014892510,64866129
+dimwishlist:item=1366394399&perks=1482024992,3230963543,2014892510,64866129
+dimwishlist:item=1366394399&perks=1840239774,3230963543,2014892510,64866129
+dimwishlist:item=1366394399&perks=4090651448,3230963543,2014892510,64866129
+dimwishlist:item=1366394399&perks=1392496348,106909392,1428297954,64866129
+dimwishlist:item=1366394399&perks=1482024992,106909392,1428297954,64866129
+dimwishlist:item=1366394399&perks=1840239774,106909392,1428297954,64866129
+dimwishlist:item=1366394399&perks=4090651448,106909392,1428297954,64866129
+dimwishlist:item=1366394399&perks=1392496348,3230963543,1428297954,64866129
+dimwishlist:item=1366394399&perks=1482024992,3230963543,1428297954,64866129
+dimwishlist:item=1366394399&perks=1840239774,3230963543,1428297954,64866129
+dimwishlist:item=1366394399&perks=4090651448,3230963543,1428297954,64866129
+dimwishlist:item=1366394399&perks=1392496348,106909392,573122728,3038247973
+dimwishlist:item=1366394399&perks=1482024992,106909392,573122728,3038247973
+dimwishlist:item=1366394399&perks=1840239774,106909392,573122728,3038247973
+dimwishlist:item=1366394399&perks=4090651448,106909392,573122728,3038247973
+dimwishlist:item=1366394399&perks=1392496348,3230963543,573122728,3038247973
+dimwishlist:item=1366394399&perks=1482024992,3230963543,573122728,3038247973
+dimwishlist:item=1366394399&perks=1840239774,3230963543,573122728,3038247973
+dimwishlist:item=1366394399&perks=4090651448,3230963543,573122728,3038247973
+dimwishlist:item=1366394399&perks=1392496348,106909392,3400784728,3038247973
+dimwishlist:item=1366394399&perks=1482024992,106909392,3400784728,3038247973
+dimwishlist:item=1366394399&perks=1840239774,106909392,3400784728,3038247973
+dimwishlist:item=1366394399&perks=4090651448,106909392,3400784728,3038247973
+dimwishlist:item=1366394399&perks=1392496348,3230963543,3400784728,3038247973
+dimwishlist:item=1366394399&perks=1482024992,3230963543,3400784728,3038247973
+dimwishlist:item=1366394399&perks=1840239774,3230963543,3400784728,3038247973
+dimwishlist:item=1366394399&perks=4090651448,3230963543,3400784728,3038247973
+dimwishlist:item=1366394399&perks=1392496348,106909392,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1482024992,106909392,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1840239774,106909392,2014892510,3038247973
+dimwishlist:item=1366394399&perks=4090651448,106909392,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1392496348,3230963543,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1482024992,3230963543,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1840239774,3230963543,2014892510,3038247973
+dimwishlist:item=1366394399&perks=4090651448,3230963543,2014892510,3038247973
+dimwishlist:item=1366394399&perks=1392496348,106909392,1428297954,3038247973
+dimwishlist:item=1366394399&perks=1482024992,106909392,1428297954,3038247973
+dimwishlist:item=1366394399&perks=1840239774,106909392,1428297954,3038247973
+dimwishlist:item=1366394399&perks=4090651448,106909392,1428297954,3038247973
+dimwishlist:item=1366394399&perks=1392496348,3230963543,1428297954,3038247973
+dimwishlist:item=1366394399&perks=1482024992,3230963543,1428297954,3038247973
+dimwishlist:item=1366394399&perks=1840239774,3230963543,1428297954,3038247973
+dimwishlist:item=1366394399&perks=4090651448,3230963543,1428297954,3038247973
+
+// Hollow Denial (PvP first choice roll)
+// Fluted Barrel, Tactical Battery (Well-Rounded Enhanced, Well-Rounded), (Repulsor Brace Enhanced, Repulsor Brace)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for void subclasses. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Difficult to recommend this in PvP as at Season 17, with the special ammo economy as it is. If you want to tuck one away, Well-Rounded gives decent boosts to weapon-feel stats, and Repulsor Brace could be interesting in granting void overshields without a Titan around. Recommended MW: Reload Speed or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=2323544076&perks=1840239774,732557052,2139363611,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,744594675,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,2139363611,776531651
+dimwishlist:item=2323544076&perks=1840239774,732557052,744594675,776531651
+
+// Hollow Denial (PvE first choice roll)
+// Fluted Barrel, Tactical Battery (Adaptive Munitions Enhanced, Adaptive Munitions), (Repulsor Brace Enhanced, Repulsor Brace)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for void subclasses in Match Game end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Adaptive Munitions should rip through shields in Match Game, and Repulsor Brace could be interesting in granting void overshields without a Titan around. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,776531651
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,776531651
+
+// Hollow Denial (PvE first choice roll)
+// Fluted Barrel, Tactical Battery (Lead From Gold Enhanced, Lead From Gold), (Repulsor Brace Enhanced, Repulsor Brace)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for void subclasses in general content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Lead From Gold saves a scavenger mod, and Repulsor Brace could be interesting in granting void overshields without a Titan around. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,2541826827
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,2541826827
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,776531651
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,776531651
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,776531651
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,776531651
+
+// Hollow Denial (PvE backup roll)
+// Fluted Barrel, Tactical Battery (Surplus Enhanced, Surplus), (Repulsor Brace Enhanced, Repulsor Brace)
+//notes:Inspired by DMB Podcast 261. PvE backup roll for void subclasses in general content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Surplus helps overall weapon feel, and Repulsor Brace could be interesting in granting void overshields without a Titan around. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,2541826827
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,2541826827
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,2541826827
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,776531651
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,776531651
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,776531651
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,776531651
+
+// Hollow Denial (PvE backup roll)
+// Fluted Barrel, Tactical Battery (Lead From Gold Enhanced, Lead From Gold, Surplus Enhanced, Surplus), (Swashbuckler Enhanced, Swashbuckler, Wellspring Enhanced, Wellspring, Dragonfly Enhanced, Dragonfly)
+//notes:Inspired by DMB Podcast 261. PvE backup roll for general content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Lead From Gold saves a scavenger mod or Surplus helps overall weapon feel. Wellspring pairs well with Surplus, or Swashbuckler/Dragonfly add damage-boosting options. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3431277734,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1048183818,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3431277734,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1048183818,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,1161469972
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,1161469972
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,2675361166
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3431277734,2675361166
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,2675361166
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1048183818,2675361166
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,2675361166
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,2675361166
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,2675361166
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,2675361166
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,2675361166
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,2675361166
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,2675361166
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,2675361166
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,3592538738
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3431277734,3592538738
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,3592538738
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1048183818,3592538738
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,3592538738
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,3592538738
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,3592538738
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,3592538738
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,3592538738
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,3592538738
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,3592538738
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,3592538738
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,169755979
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3431277734,169755979
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,169755979
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1048183818,169755979
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,169755979
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,169755979
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,169755979
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,169755979
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,169755979
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,169755979
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,169755979
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,169755979
+dimwishlist:item=2323544076&perks=1840239774,732557052,3431277734,2848615171
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3431277734,2848615171
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,2848615171
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1048183818,2848615171
+dimwishlist:item=2323544076&perks=1840239774,732557052,3442762221,2848615171
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,2848615171
+dimwishlist:item=2323544076&perks=1840239774,732557052,1556840489,2848615171
+dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,2848615171
+dimwishlist:item=2323544076&perks=1840239774,732557052,2658083589,2848615171
+dimwishlist:item=2323544076&perks=1840239774,2749775325,2658083589,2848615171
+dimwishlist:item=2323544076&perks=1840239774,732557052,3436462433,2848615171
+dimwishlist:item=2323544076&perks=1840239774,2749775325,3436462433,2848615171
+
+// Nezarec's Whisper (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, (Impulse Amplifier Enhanced, Impulse Amplifier), (Unstoppable Force Enhanced, Unstoppable Force)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Get the projectile speed as fast as possible through getting the range as high as possible (85, including Masterwork), and then add Impulse Amplifier on top. Landing a shot will give you enough of a shield to tank any return fire when you follow up. There's nothing much useful in the second trait column, so Unstoppable Force at least gives you an opportunity for bonus damage. Plus you're a ninja with a poleaxe! Recommended MW: Range, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=1263609309,3142289711,951095735,2224838837
+dimwishlist:item=254636484&perks=1263609309,3142289711,951095735,3102670337
+dimwishlist:item=254636484&perks=1263609309,3142289711,3878366039,2224838837
+dimwishlist:item=254636484&perks=1263609309,3142289711,3878366039,3102670337
+
+// Nezarec's Whisper (PvE first-choice roll)
+// Auxiliary Reserves, Light Mag, (Demolitionist Enhanced, Demolitionist), (Adrenaline Junkie Enhanced, Adrenaline Junkie)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for Arc subclasses in end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Get ready for Arc 3.0 with a Demolitionist and Adrenaline Junkie roll. Without Impulse Amplifier, you'll need to be up close to land shots, so improve the shield and reload with the haft and mag. Recommended MW: Reload Speed or Range, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,2422968039
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,2422968039
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,11612903
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,11612903
+
+// Nezarec's Whisper (PvE first-choice roll)
+// Auxiliary Reserves, Light Mag, (Demolitionist Enhanced, Demolitionist), (Unstoppable Force Enhanced, Unstoppable Force)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for Arc subclasses in end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Demolitionist is always useful for better grenade regeneration, and Unstoppable Force gets bonus damage just for blocking. You'll need to be up close, so improve the shield with Auxiliary Reserves in the haft and reload (and a bit of range) with Light Mag. Recommended MW: Reload Speed or Range, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,3102670337
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,3102670337
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,2224838837
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,2224838837
+
+// Nezarec's Whisper (PvE backup roll)
+// Auxiliary Reserves, Light Mag, (Demolitionist Enhanced, Demolitionist), (Frenzy Enhanced, Frenzy, Vorpal Weapon Enhanced, Vorpal Weapon)
+//notes:Inspired by DMB Podcast 261. PvE backup roll for end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Demolitionist is always useful for better grenade regeneration, and Frenzy or Vorpal Weapon give decent damage boosts. You'll need to be up close, so improve the shield with Auxiliary Reserves in the haft and reload (and a bit of range) with Light Mag. Recommended MW: Reload Speed or Range, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,3007133316
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,3007133316
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,4104185692
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,4104185692
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,3418165135
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,3418165135
+dimwishlist:item=254636484&perks=580685494,679225683,1906147653,1546637391
+dimwishlist:item=254636484&perks=580685494,679225683,3523296417,1546637391
+
+// Nezarec's Whisper (PvE first-choice roll)
+// Auxiliary Reserves, Light Mag, (Impulse Amplifier Enhanced, Impulse Amplifier), (Unstoppable Force Enhanced, Unstoppable Force)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). You'll need to be pretty close, so improve the shield with Auxiliary Reserves in the haft and reload (and a bit of range) with Light Mag. Impulse Amplifier helps a lot with projectile speed, and Unstoppable Force gives you bonus damage for tanking shots. Recommended MW: Reload Speed or Range, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3102670337
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3102670337
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,2224838837
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,2224838837
+
+// Nezarec's Whisper (PvE backup roll)
+// Auxiliary Reserves, Light Mag, (Impulse Amplifier Enhanced, Impulse Amplifier), (Frenzy Enhanced, Frenzy, Vorpal Weapon Enhanced, Vorpal Weapon)
+//notes:Inspired by DMB Podcast 261. PvE backup roll for end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). You'll need to be pretty close, so improve the shield with Auxiliary Reserves in the haft and reload (and a bit of range) with Light Mag. Impulse Amplifier helps a lot with projectile speed, and Frenzy or Vorpal Weapon give decent damage boosts. Recommended MW: Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3007133316
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3007133316
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,4104185692
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,4104185692
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3418165135
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3418165135
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,1546637391
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,1546637391
+
+// Nezarec's Whisper (PvE backup roll)
+// Auxiliary Reserves, Light Mag, (Impulse Amplifier Enhanced, Impulse Amplifier), (Adaptive Munitions Enhanced, Adaptive Munitions)
+//notes:Inspired by DMB Podcast 261. PvE backup roll for end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). You'll need to be pretty close, so improve the shield with Auxiliary Reserves in the haft and reload (and a bit of range) with Light Mag. Impulse Amplifier helps a lot with projectile speed, and while in Season 17 Adaptive Munitions is bugged, it might be worth keeping one, just in case. Recommended MW: Reload Speed or Range, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3431277734
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,3431277734
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,1048183818
+dimwishlist:item=254636484&perks=580685494,679225683,3878366039,1048183818
+
+// Without Remorse (PvP first-choice roll)
+// Rifled Barrel, Accurized Rounds (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for Arc classes. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). There's no benefit to ADS now, so hip-fire use is king. Boost Range as far as you can, add Hip-Fire Grip and arc Elemental Capacitor to get to 99 Handling (100 with Elemental Capacitor Enhanced). Recommended MW: Range, with a Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1478986057&perks=1332244541,3142289711,3118144663,711234314
+dimwishlist:item=1478986057&perks=1332244541,3142289711,1866048759,711234314
+dimwishlist:item=1478986057&perks=1332244541,3142289711,3118144663,3511092054
+dimwishlist:item=1478986057&perks=1332244541,3142289711,1866048759,3511092054
+
+// Without Remorse (PvP first-choice roll)
+// Rifled Barrel, Accurized Rounds (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Fragile Focus Enhanced, Fragile Focus)
+//notes:Inspired by DMB Podcast 261. PvP first-choice roll for non-Arc classes. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). There's no benefit to ADS now, so hip-fire use is king. Corkscrew rifling gives a little bit of everything good, and Accurized Rounds boosts range, then add Hip-Fire Grip, and finally Fragile Focus to boost range while undamaged. Recommended MW: Range or Handling, with a Freehand Grip, Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1478986057&perks=1332244541,3142289711,3118144663,1609056795
+dimwishlist:item=1478986057&perks=1332244541,3142289711,1866048759,1609056795
+dimwishlist:item=1478986057&perks=1332244541,3142289711,3118144663,2451262963
+dimwishlist:item=1478986057&perks=1332244541,3142289711,1866048759,2451262963
+
+// Without Remorse (PvE first-choice roll)
+// Barrel Shroud, (Tactical Mag, Assault Mag), (Threat Detector Enhanced, Threat Detector, Field Prep Enhanced, Field Prep), (Incandescent Enhanced, Incandescent, One-Two Punch Enhanced, One-Two Punch)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll end-game content. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Barrel Shroud helps handling (and stability), and either Assault Mag for the improved rate-of-fire or Tactical Mag for an extra shot and faster reload are probably your best choices for barrel and mag. You should be proccing Threat Detector a lot with a shotgun, or Field Prep helps with reserves and reload speed. Incandescent synergises with Solar 3.0 builds otherwise, this is the first solar One-Two Punch shotgun (as at Season 17). Recommended MW: Reload Speed or Handling, with a backup mag or damage-boosting (Major, Boss or Taken spec) mod.
+dimwishlist:item=1478986057&perks=1300023272,106909392,494941759,2675184851
+dimwishlist:item=1478986057&perks=1300023272,791862061,494941759,2675184851
+dimwishlist:item=1478986057&perks=1300023272,106909392,4071163871,2675184851
+dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,2675184851
+dimwishlist:item=1478986057&perks=1300023272,106909392,2308090567,2675184851
+dimwishlist:item=1478986057&perks=1300023272,791862061,2308090567,2675184851
+dimwishlist:item=1478986057&perks=1300023272,106909392,2869569095,2675184851
+dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,2675184851
+dimwishlist:item=1478986057&perks=1300023272,106909392,494941759,4293542123
+dimwishlist:item=1478986057&perks=1300023272,791862061,494941759,4293542123
+dimwishlist:item=1478986057&perks=1300023272,106909392,4071163871,4293542123
+dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,4293542123
+dimwishlist:item=1478986057&perks=1300023272,106909392,2308090567,4293542123
+dimwishlist:item=1478986057&perks=1300023272,791862061,2308090567,4293542123
+dimwishlist:item=1478986057&perks=1300023272,106909392,2869569095,4293542123
+dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,4293542123
+dimwishlist:item=1478986057&perks=1300023272,106909392,494941759,788178929
+dimwishlist:item=1478986057&perks=1300023272,791862061,494941759,788178929
+dimwishlist:item=1478986057&perks=1300023272,106909392,4071163871,788178929
+dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,788178929
+dimwishlist:item=1478986057&perks=1300023272,106909392,2308090567,788178929
+dimwishlist:item=1478986057&perks=1300023272,791862061,2308090567,788178929
+dimwishlist:item=1478986057&perks=1300023272,106909392,2869569095,788178929
+dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,788178929
+dimwishlist:item=1478986057&perks=1300023272,106909392,494941759,2679249093
+dimwishlist:item=1478986057&perks=1300023272,791862061,494941759,2679249093
+dimwishlist:item=1478986057&perks=1300023272,106909392,4071163871,2679249093
+dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,2679249093
+dimwishlist:item=1478986057&perks=1300023272,106909392,2308090567,2679249093
+dimwishlist:item=1478986057&perks=1300023272,791862061,2308090567,2679249093
+dimwishlist:item=1478986057&perks=1300023272,106909392,2869569095,2679249093
+dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,2679249093
+
+// Bump in the Night (PvP backup roll)
+// Volatile Launch, Black Powder, (Tracking Module Enhanced, Tracking Module), (Chain Reaction Enhanced, Chain Reaction)
+//notes:Inspired by DMB Podcast 261. PvE backup roll. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), so probably not going to be that useful on a Rocket Launcher. Not the best subtype for PvP, but if you must use it, boost the Blast Radius as high as possible with barrel, mag and Masterwork, add Tracking, so you have a chance of hitting something while you're in the air, and Chain Reaction may get you an extra kill if they are tickled and are finished off by a team-mate exploding Recommended MW: Blast Radius, with a Quick Access Sling or Sprint Grip mod.
+dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,598607952
+dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,598607952
+dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,2396489472
+dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,2396489472
+
+// Bump in the Night (PvE first choice roll)
+// (Quick Launch, Smart Drift Control, Linear Compensator), Impact Casing, (Auto-Loading Holster Enhanced, Auto-Loading Holster), (Frenzy Enhanced, Frenzy, Vorpal Weapon Enhanced, Vorpal Weapon)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), so probably not going to be that useful on a Rocket Launcher. Intrinsically offers 20% more damage over Precision Rocket Launchers, and the small blast radius may actually be useful with closer bosses (like the Caretaker). Increase the velocity with the barrel, add damage with Impact Casing, add Auto-Loading Holster so you can swap to continue damage with a sniper or slug shottie, and then Frenzy or Vorpal Weapon adds more damage on top. Recommended MW: Velocity, with a damage-boosting (Major, Boss or Taken spec) mod.
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,3007133316
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3528046508,3007133316
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,3007133316
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,3007133316
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3300816228,3007133316
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3300816228,3007133316
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,4104185692
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3528046508,4104185692
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,4104185692
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,4104185692
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3300816228,4104185692
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3300816228,4104185692
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,3418165135
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3528046508,3418165135
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,3418165135
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,3418165135
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3300816228,3418165135
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3300816228,3418165135
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,1546637391
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3528046508,1546637391
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,1546637391
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,1546637391
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3300816228,1546637391
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3300816228,1546637391
+
+// Bump in the Night (PvE first choice roll)
+// (Quick Launch, Smart Drift Control, Linear Compensator), Impact Casing, (Auto-Loading Holster Enhanced, Auto-Loading Holster), (Chill Clip Enhanced, Chill Clip)
+//notes:Inspired by DMB Podcast 261. PvE first-choice roll for end-game content, for now! Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), so probably not going to be that useful on a Rocket Launcher. Intrinsically offers 20% more damage over Precision Rocket Launchers, and the small blast radius may actually be useful with closer bosses (like the Caretaker). Increase the velocity with the barrel, add damage with Impact Casing, add Auto-Loading Holster so you can swap to continue damage with a sniper or slug shottie, and then as at Season 17, Chill Clip seems to be bugged to add extra damage when someone on the fireteam is using a Gjallerhorn. Recommended MW: Velocity, with a damage-boosting (Major, Boss or Taken spec) mod.
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,344235611
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3528046508,344235611
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,344235611
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,344235611
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3300816228,344235611
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3300816228,344235611
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,2978966579
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3528046508,2978966579
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,2978966579
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,2978966579
+dimwishlist:item=1959650777&perks=1441682018,3796465595,3300816228,2978966579
+dimwishlist:item=1959650777&perks=3798852852,3796465595,3300816228,2978966579
