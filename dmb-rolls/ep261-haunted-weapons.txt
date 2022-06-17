@@ -2,12 +2,12 @@
 @description:Seasonal weapons from Season 17 (Haunted) with the Extrovert origin perk
 
 // Firefright (PvP first choice roll)
-// Hammer-Forged Rifling, Accurized Rounds, (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
+// Hammer-Forged Rifling, Ricochet Rounds, (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
 //notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats, and then, in the trait slots, Hip-Fire grip improves usability close-up and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to double down on hip-fire, or an Icarus Grip mod gets the Airborne Effectiveness to 31, which makes Firefright a jack of all trades - usable in the air, as well as at mid-range while ADS or closer up while hip-firing.
-dimwishlist:item=2778013407&perks=3250034553,3142289711,3118144663,711234314
-dimwishlist:item=2778013407&perks=3250034553,3142289711,1866048759,711234314
-dimwishlist:item=2778013407&perks=3250034553,3142289711,3118144663,3511092054
-dimwishlist:item=2778013407&perks=3250034553,3142289711,1866048759,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1885400500,3118144663,711234314
+dimwishlist:item=2778013407&perks=3250034553,1885400500,1866048759,711234314
+dimwishlist:item=2778013407&perks=3250034553,1885400500,3118144663,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1885400500,1866048759,3511092054
 
 // Firefright (PvP backup roll)
 // Hammer-Forged Rifling, (High-Caliber Rounds, Armor-Piercing Rounds), (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
@@ -22,12 +22,12 @@ dimwishlist:item=2778013407&perks=3250034553,1561002382,1866048759,3511092054
 dimwishlist:item=2778013407&perks=3250034553,1968497646,1866048759,3511092054
 
 // Firefright (PvP first choice roll)
-// Hammer-Forged Rifling, Accurized Rounds, (Air Assault Enhanced, Air Assault), (Elemental Capacitor Enhanced, Elemental Capacitor)
+// Hammer-Forged Rifling, Ricochet Rounds, (Air Assault Enhanced, Air Assault), (Elemental Capacitor Enhanced, Elemental Capacitor)
 //notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats in the barrel and mag. Then in the trait slots, Air Assault builds into an aerial playstyle and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with an Icarus Grip mod to get the base Airborne Effectiveness to 31.
-dimwishlist:item=2778013407&perks=3250034553,3142289711,2898218424,711234314
-dimwishlist:item=2778013407&perks=3250034553,3142289711,3722653512,711234314
-dimwishlist:item=2778013407&perks=3250034553,3142289711,2898218424,3511092054
-dimwishlist:item=2778013407&perks=3250034553,3142289711,3722653512,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1885400500,2898218424,711234314
+dimwishlist:item=2778013407&perks=3250034553,1885400500,3722653512,711234314
+dimwishlist:item=2778013407&perks=3250034553,1885400500,2898218424,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1885400500,3722653512,3511092054
 
 // Firefright (PvP backup roll)
 // Hammer-Forged Rifling, (High-Caliber Rounds, Armor-Piercing Rounds), (Air Assault Enhanced, Air Assault), (Elemental Capacitor Enhanced, Elemental Capacitor)
@@ -42,12 +42,12 @@ dimwishlist:item=2778013407&perks=3250034553,1561002382,3722653512,3511092054
 dimwishlist:item=2778013407&perks=3250034553,1968497646,3722653512,3511092054
 
 // Firefright (PvP first-choice roll)
-// Hammer-Forged Rifling, Accurized Rounds, (Fragile Focus Enhanced, Fragile Focus), (Elemental Capacitor Enhanced, Elemental Capacitor)
+// Hammer-Forged Rifling, Ricochet Rounds, (Fragile Focus Enhanced, Fragile Focus), (Elemental Capacitor Enhanced, Elemental Capacitor)
 //notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats in the barrel and mag. Then in the trait slots, Fragile Focus goes all-in to improving range and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to improve hip-fire or an Icarus Grip mod to get the base Airborne Effectiveness to 31.
-dimwishlist:item=2778013407&perks=3250034553,3142289711,1609056795,711234314
-dimwishlist:item=2778013407&perks=3250034553,3142289711,2451262963,711234314
-dimwishlist:item=2778013407&perks=3250034553,3142289711,1609056795,3511092054
-dimwishlist:item=2778013407&perks=3250034553,3142289711,2451262963,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1885400500,1609056795,711234314
+dimwishlist:item=2778013407&perks=3250034553,1885400500,2451262963,711234314
+dimwishlist:item=2778013407&perks=3250034553,1885400500,1609056795,3511092054
+dimwishlist:item=2778013407&perks=3250034553,1885400500,2451262963,3511092054
 
 // Firefright (PvP backup roll)
 // Hammer-Forged Rifling, (High-Caliber Rounds, Armor-Piercing Rounds), (Fragile Focus Enhanced, Fragile Focus), (Elemental Capacitor Enhanced, Elemental Capacitor)
