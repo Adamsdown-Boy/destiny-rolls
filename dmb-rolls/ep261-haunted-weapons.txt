@@ -571,7 +571,7 @@ dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,2679249093
 
 // Bump in the Night (PvP backup roll)
 // Volatile Launch, Black Powder, (Tracking Module Enhanced, Tracking Module), (Chain Reaction Enhanced, Chain Reaction)
-//notes:Inspired by DMB Podcast 261. PvE backup roll. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), so probably not going to be that useful on a Rocket Launcher. Not the best subtype for PvP, but if you must use it, boost the Blast Radius as high as possible with barrel, mag and Masterwork, add Tracking, so you have a chance of hitting something while you're in the air, and Chain Reaction may get you an extra kill if they are tickled and are finished off by a team-mate exploding Recommended MW: Blast Radius, with a Quick Access Sling or Sprint Grip mod.
+//notes:Inspired by DMB Podcast 261. PvE backup roll. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m), so probably not going to be that useful on a Rocket Launcher. Not the best subtype for PvP, but if you must use it, boost the Blast Radius as high as possible with barrel, mag and Masterwork, add Tracking, so you have a chance of hitting something while you're in the air, and Chain Reaction may get you an extra kill if someone's are tickled and then finished off by a team-mate exploding. Recommended MW: Blast Radius, with a Quick Access Sling or Sprint Grip mod.
 dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,2396489472
