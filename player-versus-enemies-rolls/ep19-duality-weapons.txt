@@ -1,0 +1,216 @@
+@title:Duality Dungeon weapons
+@description:New Duality weapons with the Bitterspite origin perk
+
+// New Purpose (PvE first choice roll)
+// (Arrowhead Brake, Fluted Barrel), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), (Feeding Frenzy, Perpetual Motion), Headstone
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for Stasis builds in end-game content. Bitterspite origin trait is excellent - faster reload speed is always useful. A direct competitor to the Messenger, albeit with slightly worse stats in most attributes, but still decent. Arrowhead Brake sorts out the wonky recoil direction and adds Handling, or Fluted Barrel helps with Handling and Stability. Choose your favourite combat effect mag and then Feeding Frenzy or Perpetual Motion plus Headstone gives you stasis shards to play around with, with a Stasis class. Recommended MW: Handling, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=1780464822&perks=839105230,1968497646,2779035018,124408337
+dimwishlist:item=1780464822&perks=1840239774,1968497646,2779035018,124408337
+dimwishlist:item=1780464822&perks=839105230,1561002382,2779035018,124408337
+dimwishlist:item=1780464822&perks=1840239774,1561002382,2779035018,124408337
+dimwishlist:item=1780464822&perks=839105230,1885400500,2779035018,124408337
+dimwishlist:item=1780464822&perks=1840239774,1885400500,2779035018,124408337
+dimwishlist:item=1780464822&perks=839105230,1968497646,1428297954,124408337
+dimwishlist:item=1780464822&perks=1840239774,1968497646,1428297954,124408337
+dimwishlist:item=1780464822&perks=839105230,1561002382,1428297954,124408337
+dimwishlist:item=1780464822&perks=1840239774,1561002382,1428297954,124408337
+dimwishlist:item=1780464822&perks=839105230,1885400500,1428297954,124408337
+dimwishlist:item=1780464822&perks=1840239774,1885400500,1428297954,124408337
+
+// New Purpose (PvE first choice roll)
+// (Arrowhead Brake, Fluted Barrel), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), (Perpetual Motion, Tunnel Vision, Heating Up), Desperado
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for general content. Bitterspite origin trait is excellent - faster reload speed is always useful. A direct competitor to the Messenger, albeit with slightly worse stats in most attributes, but still decent. Arrowhead Brake sorts out the wonky recoil direction and adds Handling, or Fluted Barrel helps with Handling and Stability. Choose your favourite combat effect mag and then Perpetual Motion, Tunnel Vision or Heating Up (which also helps recoil direction) plus Desperado gives you stasis shards to play around with, with a Stasis class. Recommended MW: Handling, with a Full Auto Retrofit mod to take full advantage of Desperado, when procced.
+dimwishlist:item=1780464822&perks=839105230,1968497646,1428297954,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1968497646,1428297954,3047969693
+dimwishlist:item=1780464822&perks=839105230,1561002382,1428297954,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1561002382,1428297954,3047969693
+dimwishlist:item=1780464822&perks=839105230,1885400500,1428297954,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1885400500,1428297954,3047969693
+dimwishlist:item=1780464822&perks=839105230,1968497646,2946784966,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1968497646,2946784966,3047969693
+dimwishlist:item=1780464822&perks=839105230,1561002382,2946784966,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1561002382,2946784966,3047969693
+dimwishlist:item=1780464822&perks=839105230,1885400500,2946784966,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1885400500,2946784966,3047969693
+dimwishlist:item=1780464822&perks=839105230,1968497646,1570042021,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1968497646,1570042021,3047969693
+dimwishlist:item=1780464822&perks=839105230,1561002382,1570042021,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1561002382,1570042021,3047969693
+dimwishlist:item=1780464822&perks=839105230,1885400500,1570042021,3047969693
+dimwishlist:item=1780464822&perks=1840239774,1885400500,1570042021,3047969693
+
+// Unforgiven (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds), (Demolitionist, Feeding Frenzy), Golden Tricorn
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for Void subclasses in end-game content. Bitterspite origin trait is excellent - faster reload is always useful. Needs some help with stability in the barrel and mag (although combat effects are good too). Golden Tricorn can provide a huge 50% damage buff, and pairs well with Demolitionist or Feeding Frenzy. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3000847393&perks=1392496348,1885400500,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1482024992,1885400500,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1840239774,1885400500,3523296417,2610012052
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1392496348,3230963543,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,2610012052
+dimwishlist:item=3000847393&perks=4090651448,3230963543,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1392496348,1968497646,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1482024992,1968497646,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1840239774,1968497646,3523296417,2610012052
+dimwishlist:item=3000847393&perks=4090651448,1968497646,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1392496348,1561002382,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1482024992,1561002382,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,2610012052
+dimwishlist:item=3000847393&perks=4090651448,1561002382,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1392496348,1885400500,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1482024992,1885400500,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1840239774,1885400500,2779035018,2610012052
+dimwishlist:item=3000847393&perks=4090651448,1885400500,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1392496348,3230963543,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1482024992,3230963543,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1840239774,3230963543,2779035018,2610012052
+dimwishlist:item=3000847393&perks=4090651448,3230963543,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1392496348,1968497646,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1482024992,1968497646,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1840239774,1968497646,2779035018,2610012052
+dimwishlist:item=3000847393&perks=4090651448,1968497646,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1392496348,1561002382,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1482024992,1561002382,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1840239774,1561002382,2779035018,2610012052
+dimwishlist:item=3000847393&perks=4090651448,1561002382,2779035018,2610012052
+
+// Unforgiven (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for Void subclasses in end-game content. Bitterspite origin trait is excellent - faster reload is always useful. Needs some help with stability in the barrel and mag (although combat effects are good too). Demolitionist and Adrenaline Junkie are an excellent, natural pairing. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3000847393&perks=1392496348,1885400500,3523296417,11612903
+dimwishlist:item=3000847393&perks=1482024992,1885400500,3523296417,11612903
+dimwishlist:item=3000847393&perks=1840239774,1885400500,3523296417,11612903
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,11612903
+dimwishlist:item=3000847393&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3000847393&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=3000847393&perks=1392496348,1968497646,3523296417,11612903
+dimwishlist:item=3000847393&perks=1482024992,1968497646,3523296417,11612903
+dimwishlist:item=3000847393&perks=1840239774,1968497646,3523296417,11612903
+dimwishlist:item=3000847393&perks=4090651448,1968497646,3523296417,11612903
+dimwishlist:item=3000847393&perks=1392496348,1561002382,3523296417,11612903
+dimwishlist:item=3000847393&perks=1482024992,1561002382,3523296417,11612903
+dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,11612903
+dimwishlist:item=3000847393&perks=4090651448,1561002382,3523296417,11612903
+
+// Unforgiven (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds), Demolitionist, Repulsor Brace
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for Void subclasses in end-game content. Bitterspite origin trait is excellent - faster reload is always useful. Needs some help with stability in the barrel and mag (although combat effects are good too). Demolitionist and Repulsor Brace are an excellent, natural pairing. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3000847393&perks=1392496348,1885400500,3523296417,776531651
+dimwishlist:item=3000847393&perks=1482024992,1885400500,3523296417,776531651
+dimwishlist:item=3000847393&perks=1840239774,1885400500,3523296417,776531651
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,776531651
+dimwishlist:item=3000847393&perks=1392496348,3230963543,3523296417,776531651
+dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,776531651
+dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,776531651
+dimwishlist:item=3000847393&perks=4090651448,3230963543,3523296417,776531651
+dimwishlist:item=3000847393&perks=1392496348,1968497646,3523296417,776531651
+dimwishlist:item=3000847393&perks=1482024992,1968497646,3523296417,776531651
+dimwishlist:item=3000847393&perks=1840239774,1968497646,3523296417,776531651
+dimwishlist:item=3000847393&perks=4090651448,1968497646,3523296417,776531651
+dimwishlist:item=3000847393&perks=1392496348,1561002382,3523296417,776531651
+dimwishlist:item=3000847393&perks=1482024992,1561002382,3523296417,776531651
+dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,776531651
+dimwishlist:item=3000847393&perks=4090651448,1561002382,3523296417,776531651
+
+// Unforgiven (PvE first choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds), (Demolitionist, Feeding Frenzy, Tunnel Vision), Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for end-game content. Bitterspite origin trait is excellent - faster reload is always useful. Needs some help with stability in the barrel and mag (although combat effects are good too). Demolitionist, Feeding Frenzy and Tunnel Vision (as a faux stability boost) all have their merits, and Frenzy is a reliable 15% damage boost. Recommended MW: Stability, with a Backup Mag mod or damage-boosting (Minor, Major or Taken Spec) mod.
+dimwishlist:item=3000847393&perks=1392496348,1885400500,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1885400500,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1885400500,3523296417,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1392496348,3230963543,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,4104185692
+dimwishlist:item=3000847393&perks=4090651448,3230963543,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1968497646,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1968497646,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1968497646,3523296417,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1968497646,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1561002382,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1561002382,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1561002382,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1885400500,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1885400500,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1885400500,2779035018,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1885400500,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1392496348,3230963543,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1482024992,3230963543,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1840239774,3230963543,2779035018,4104185692
+dimwishlist:item=3000847393&perks=4090651448,3230963543,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1968497646,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1968497646,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1968497646,2779035018,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1968497646,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1561002382,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1561002382,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1561002382,2779035018,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1561002382,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1885400500,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1885400500,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1885400500,2946784966,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1885400500,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1392496348,3230963543,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1482024992,3230963543,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1840239774,3230963543,2946784966,4104185692
+dimwishlist:item=3000847393&perks=4090651448,3230963543,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1968497646,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1968497646,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1968497646,2946784966,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1968497646,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1392496348,1561002382,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1482024992,1561002382,2946784966,4104185692
+dimwishlist:item=3000847393&perks=1840239774,1561002382,2946784966,4104185692
+dimwishlist:item=3000847393&perks=4090651448,1561002382,2946784966,4104185692
+
+// Lingering Dread (PvE first choice roll)
+// Quick Launch, Spike Grenades, Ambitious Assassin, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for yellow bar burst damage. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon. Quick Launch is best in the barrel, and Spike Grenades boosts single target damage. Ambitious Assassin gives you two in the tube for burst damage and Vorpal Weapon adds a flat 15% damage boost. Recommended MW: Velocity or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2026087437&perks=3525010810,3301904089,2010801679,1546637391
+
+// Lingering Dread (PvE first choice roll)
+// Quick Launch, Spike Grenades, Auto-Loading Holster, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for solo yellow bar burst damage. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon. Quick Launch is the best barrel choice, and Spike Grenades boosts single target damage. Auto-Loading Holster lets you swap and continue damage with a primary while reloading and Vorpal Weapon adds a flat 15% damage boost. Recommended MW: Handling or Velocity, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,1546637391
+
+// Lingering Dread (PvE first choice roll)
+// Quick Launch, Blinding Grenades, Auto-Loading Holster, Chill Clip
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first-choice roll for crowd control. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon, offering a unique combination of crowd control perks in Blinding Grenades and Chill Clip, so you're able to debuff everything from red bars to Ultras. Quick Launch is the best barrel perk, and Auto-Loading Holster lets you swap to another weapon to sort out whatever's blinded and showed in front of you. Recommended MW: Handling or Velocity, with a Quick Access Sling mod to help with weapon swapping.
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
+
+// Lingering Dread (PvE backup roll)
+// Smart Drift Control, Spike Grenades, Ambitious Assassin, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE backup roll for yellow bar burst damage. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon. Smart Drift Control helps a bit with handling and velocity, and Spike Grenades boosts single target damage. Ambitious Assassin gives you two in the tube for burst damage and Vorpal Weapon adds a flat 15% damage boost. Recommended MW: Velocity or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2026087437&perks=3798852852,3301904089,2010801679,1546637391
+
+// Lingering Dread (PvE backupe roll)
+// Smart Drift Control, Spike Grenades, Auto-Loading Holster, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE backup roll for solo yellow bar burst damage. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon. Smart Drift Control helps a bit with handling and velocity, and Spike Grenades boosts single target damage. Auto-Loading Holster lets you swap and continue damage with a primary while reloading and Vorpal Weapon adds a flat 15% damage boost. Recommended MW: Handling or Velocity, with a damage-boosting (Major, Boss or Taken Spec) mod.
+dimwishlist:item=2026087437&perks=3798852852,3301904089,3300816228,1546637391
+
+// Lingering Dread (PvE backup roll)
+// Smart Drift Control, Blinding Grenades, Auto-Loading Holster, Chill Clip
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE backup roll for crowd control. Bitterspite origin trait is excellent - faster reload is always useful. The first breech-loading Stasis Grenade Launcher is a great utility weapon, offering a unique combination of crowd control perks in Blinding Grenades and Chill Clip, so you're able to debuff everything from red bars to Ultras. Smart Drift Control helps a bit with handling and velocity, and Auto-Loading Holster lets you swap to another weapon to sort out whatever's blinded and showed in front of you. Recommended MW: Handling or Velocity, with a Quick Access Sling mod to help with weapon swapping.
+dimwishlist:item=2026087437&perks=3798852852,3032599245,3300816228,2978966579
+
+// Stormchaser (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake), Enhanced Battery, Clown Cartridge, Firing Line
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first choice roll for boss damage in a fireteam. Bitterspite origin trait is excellent - faster reload is always useful. This is our first aggressive frame linear fusion rifle, is a fantastic legendary boss damage weapon. You can use Fluted Barrel to boost Handling and Stability or Arrowhead Brake to straight up the Recoil Direction. Enhanced Battery gives you seven shots, boosted by up to 50% with Clown Cartridge, and then Firing Line boosts damage when you're close to the other fire members. Recommended MW: Reload Speed or Stability, with a Backup Mag mod to boost the magazine size to 8 - a possible 12 with Clown Cartridge.
+dimwishlist:item=3652506829&perks=1840239774,2680121939,2284787283,1771339417
+dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,1771339417
+
+// Stormchaser (PvE first choice roll)
+// (Fluted Barrel, Arrowhead Brake), Enhanced Battery, Clown Cartridge, Frenzy
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE first choice roll for boss damage while solo. Bitterspite origin trait is excellent - faster reload is always useful. This is our first aggressive frame linear fusion rifle, is a fantastic legendary boss damage weapon. You can use Fluted Barrel to boost Handling and Stability or Arrowhead Brake to straight up the Recoil Direction. Enhanced Battery gives you seven shots, boosted by up to 50% with Clown Cartridge, and then Frenzy gives you a reliable 15% damage boost. Recommended MW: Reload Speed or Stability, with a Backup Mag mod to boost the magazine size to 8 - a possible 12 with Clown Cartridge.
+dimwishlist:item=3652506829&perks=1840239774,2680121939,2284787283,4104185692
+dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,4104185692
+
+// Stormchaser (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake), Enhanced Battery, Clown Cartridge, Vorpal Weapon
+//notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE backup roll for boss damage. Bitterspite origin trait is excellent - faster reload is always useful. This is our first aggressive frame linear fusion rifle, is a fantastic legendary boss damage weapon. You can use Fluted Barrel to boost Handling and Stability or Arrowhead Brake to straight up the Recoil Direction. Enhanced Battery gives you seven shots, boosted by up to 50% with Clown Cartridge, and then Vorpal Weapon gives a flat 10% damage boost. Recommended MW: Reload Speed or Stability, with a Backup Mag mod to boost the magazine size to 8 - a possible 12 with Clown Cartridge.
+dimwishlist:item=3652506829&perks=1840239774,2680121939,2284787283,4104185692
+dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,4104185692
