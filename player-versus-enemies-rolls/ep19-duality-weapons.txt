@@ -212,5 +212,5 @@ dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,4104185692
 // Stormchaser (PvE backup roll)
 // (Fluted Barrel, Arrowhead Brake), Enhanced Battery, Clown Cartridge, Vorpal Weapon
 //notes:Inspired by DMB Player Versus Enemies Podcast 19. PvE backup roll for boss damage. Bitterspite origin trait is excellent - faster reload is always useful. This is our first aggressive frame linear fusion rifle, is a fantastic legendary boss damage weapon. You can use Fluted Barrel to boost Handling and Stability or Arrowhead Brake to straight up the Recoil Direction. Enhanced Battery gives you seven shots, boosted by up to 50% with Clown Cartridge, and then Vorpal Weapon gives a flat 10% damage boost. Recommended MW: Reload Speed or Stability, with a Backup Mag mod to boost the magazine size to 8 - a possible 12 with Clown Cartridge.
-dimwishlist:item=3652506829&perks=1840239774,2680121939,2284787283,4104185692
-dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,4104185692
+dimwishlist:item=3652506829&perks=1840239774,2680121939,2284787283,1546637391
+dimwishlist:item=3652506829&perks=839105230,2680121939,2284787283,1546637391
