@@ -96,6 +96,19 @@ dimwishlist:item=3355385170&perks=3250034553,1561002382,957782887,588594999
 dimwishlist:item=3355385170&perks=1482024992,1561002382,957782887,588594999
 dimwishlist:item=3355385170&perks=4090651448,1561002382,957782887,588594999
 
+// Silicon Neuroma (Adept) (PvP first choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High Caliber Rounds), Snapshot Sights, Opening Round
+//notes:Inspired by DMB Podcast 262. PvP first-choice S-Tier roll for duelling. The lowest zoom scope on an aggressive frame sniper, but the origin trait's not really any use in PvP, unfortunately. Look for range with barrel and mag, without damaging other stats. Snapshot Sights is still useful to be first to ADS and is essential with the low handling, while Opening Shot maximises range and boosts aim assist when active. Recommended MW: Handling or Stability (to help a little with flinch), with a Targeting Adjuster mod if you're more passive or Quick Access Sling mod if you're more aggressive. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=1387987271&perks=3250034553,1885400500,957782887,588594999
+dimwishlist:item=1387987271&perks=1482024992,1885400500,957782887,588594999
+dimwishlist:item=1387987271&perks=4090651448,1885400500,957782887,588594999
+dimwishlist:item=1387987271&perks=3250034553,1968497646,957782887,588594999
+dimwishlist:item=1387987271&perks=1482024992,1968497646,957782887,588594999
+dimwishlist:item=1387987271&perks=4090651448,1968497646,957782887,588594999
+dimwishlist:item=1387987271&perks=3250034553,1561002382,957782887,588594999
+dimwishlist:item=1387987271&perks=1482024992,1561002382,957782887,588594999
+dimwishlist:item=1387987271&perks=4090651448,1561002382,957782887,588594999
+
 // 1000 Yard Stare (PvP first choice roll)
 // Hammer-Forged Rifling, Accurized Rounds, Firmly Planted, Snapshot Sights
 //notes:Inspired by DMB Podcast 262. PvP first-choice S-Tier roll for duelling. Decent across-the-board stats and a mid-strength zoom, but the origin trait's not really any use in PvP, unfortunately. Look for range with barrel and mag, without damaging other stats. Firmly Planted improves utility hugely if you can adapt to crouching or sliding into ADS, while Snapshot Sights is still useful to be first to ADS. Recommended MW: Range, with a Targeting Adjuster mod if you're more passive or Quick Access Sling mod if you're more aggressive. Tags: pvp, pvp-god, pvp-duel
