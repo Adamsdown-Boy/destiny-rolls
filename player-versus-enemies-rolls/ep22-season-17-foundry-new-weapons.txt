@@ -80,12 +80,12 @@ dimwishlist:item=4019668921&perks=1482024992,1087426260,3400784728,4293542123
 // Staccato-46 (PvE first-choice roll)
 // (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag),Shoot to Loot, Explosive Payload
 //notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game add clear. You probably won't get much use out of the Suros origin trait in PvE, but this is a surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Shoot to Loot gives valuable ammo pickup from cover, and Explosive Payload adds flinch, damage, stunning overload champions and slightly extends the ammo pickup area when shooting near bricks. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-champion, controller
-dimwishlist:item=4019668921&perks=1840239774,106909392,3700496672,4293542123
-dimwishlist:item=4019668921&perks=1482024992,106909392,3700496672,4293542123
-dimwishlist:item=4019668921&perks=1840239774,3230963543,3700496672,4293542123
-dimwishlist:item=4019668921&perks=1482024992,3230963543,3700496672,4293542123
-dimwishlist:item=4019668921&perks=1840239774,1087426260,3700496672,4293542123
-dimwishlist:item=4019668921&perks=1482024992,1087426260,3700496672,4293542123
+dimwishlist:item=4019668921&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,1087426260,3700496672,3038247973
 
 // Staccato-46 (PvE first-choice roll)
 // (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Outlaw, Incandescent
