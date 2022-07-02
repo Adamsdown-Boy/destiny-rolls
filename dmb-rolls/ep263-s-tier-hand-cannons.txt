@@ -117,9 +117,9 @@ dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,124408337
 // Eyasluna (PvP first-choice roll)
 // Fastdraw HCS, Ricochet Rounds, (Perpetual Motion, Rangefinder, Rapid Hit), Moving Target
 //notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion, Rangefinder and Rapid Hit all improve gunfeel in different ways, and Moving Target pushes your aim assist to 95. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-god, pvp-duel
-dimwishlist:item=235827225&perks=235827225,1885400500,1428297954,588594999
-dimwishlist:item=235827225&perks=235827225,1885400500,2846385770,588594999
-dimwishlist:item=235827225&perks=235827225,1885400500,247725512,588594999
+dimwishlist:item=235827225&perks=1926090094,1885400500,1428297954,588594999
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,588594999
 
 // Eyasluna (PvP backup roll)
 // (Steadyhand HCS, Truesight HCS, Hitmark HCS), Ricochet Rounds, (Perpetual Motion, Rangefinder, Rapid Hit), Moving Target
