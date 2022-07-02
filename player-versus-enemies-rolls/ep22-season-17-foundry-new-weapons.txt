@@ -87,9 +87,9 @@ dimwishlist:item=4019668921&perks=1482024992,3230963543,3700496672,3038247973
 dimwishlist:item=4019668921&perks=1840239774,1087426260,3700496672,3038247973
 dimwishlist:item=4019668921&perks=1482024992,1087426260,3700496672,3038247973
 
-// Staccato-46 (PvE first-choice roll)
+// Staccato-46 (PvE backup roll)
 // (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Outlaw, Incandescent
-//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for general add clear. You probably won't get much use out of the Suros origin trait in PvE, but this is a surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Pair Outlaw's faster reloads after crit kills with Incandescent's spreading of scorch stacks to nearby adds for synergy with Solar 3.0 builds. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, controller
+//notes:Inspired by DMB PvE Podcast 22. PvE backup roll for general add clear. You probably won't get much use out of the Suros origin trait in PvE, but this is a surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Pair Outlaw's faster reloads after crit kills with Incandescent's spreading of scorch stacks to nearby adds for synergy with Solar 3.0 builds. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor, controller
 dimwishlist:item=4019668921&perks=1840239774,106909392,1168162263,4293542123
 dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,4293542123
 dimwishlist:item=4019668921&perks=1840239774,3230963543,1168162263,4293542123
