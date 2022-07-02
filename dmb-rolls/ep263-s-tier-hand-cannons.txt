@@ -1,0 +1,219 @@
+@title:S-Tier Hand Cannons and rolls recommended by @illPhysics
+@description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
+
+// Dire Promise (PvP first-choice roll)
+// (Steadyhand HCS, Fastdraw HCS, Hitmark HCS), Ricochet Rounds, Snapshot Sights, Rangefinder
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Originally a 150 Lightweight subtype that was rolled into the 140 Adaptive subtype, and suffers a little from being the only 13 Zoom HC in the sandbox. Stats make it very consistent feel - aim for stability and handling, to improve gunfeel, rather than range in barrel and mag. Snapshot Sights still (at S17) gets you into ADS in an engagement faster, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,2846385770
+
+// Dire Promise (PvP first-choice roll)
+// (Steadyhand HCS, Fastdraw HCS, Hitmark HCS), Ricochet Rounds, Opening Shot, Rangefinder
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling/blinting. Originally a 150 Lightweight subtype that was rolled into the 140 Adaptive subtype, and suffers a little from being the only 13 Zoom HC in the sandbox. Stats make it very consistent feel - aim for stability and handling, to improve gunfeel, rather than solely range in barrel and mag. Opening Shot give you an ideal blinting HC, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive or Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1885400500,47981717,2846385770
+
+// Dire Promise (PvP first-choice roll)
+// (Steadyhand HCS, Fastdraw HCS, Hitmark HCS), Ricochet Rounds, Snapshot Sights, Elemental Capacitor
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling/blinting. Originally a 150 Lightweight subtype that was rolled into the 140 Adaptive subtype, and suffers a little from being the only 13 Zoom HC in the sandbox. Stats make it very consistent feel - aim for stability and handling, to improve gunfeel, rather than solely range in barrel and mag. Snapshot Sights still (at S17) gets you into ADS in an engagement faster, and Elemental Capacitor gives you a huge stat boost of your choice, depending on subclass. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive or Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,3511092054
+dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,3511092054
+dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,3511092054
+
+// Crisis Inverted (PvP first-choice roll)
+// Fluted Barrel, Ricochet Rounds, Rapid Hit, Rangefinder
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Big perk pool, so reset your Crucible rank a few times to give additional options in the first and second trait slots, to improve your odds. Pretty average stats except for a very good Recoil Direction, and Airborne Effectiveness - this is probably your best legendary in-air option as of S17. Rapid Hit crit hits will play well with the Omolon origin trail, to add stability as the magazine empties, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with an Icarus Grip mod to boost AE to over 30. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,2846385770
+
+// Crisis Inverted (PvP first-choice roll)
+// Fluted Barrel, Ricochet Rounds, Opening Shot, Rangefinder
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling/blinting. Big perk pool, so reset your Crucible rank a few times to give additional options in the first and second trait slots, to improve your odds. Pretty average stats except for a very good Recoil Direction, and Airborne Effectiveness - this is probably your best legendary in-air option as of S17. Rapid Hit crit hits will play well with the Omolon origin trail, to add stability as the magazine empties, and Opening Shot gives you a great blinting HC. Recommended MW: Handling, with an Icarus Grip mod to boost AE to over 30. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,47981717
+
+// Crisis Inverted (PvP backup roll)
+// (Fluted Barrel, Smallbore, Hammer-Forged Rifling), Ricochet Rounds, (Rapid Hit, Moving Target), (Rangefinder, Snapshot Sights, Opening Shot, Elemental Capacitor, Vorpal Weapon, Focused Fury)
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. Big perk pool, so reset your Crucible rank a few times to give additional options in the first and second trait slots, to improve your odds. Pretty average stats except for a very good Recoil Direction, and Airborne Effectiveness - this is probably your best legendary in-air option as of S17. There are some great combinations in both columns for PvP, depending on your play style. Recommended MW: Handling, with an Icarus Grip mod to boost AE to over 30. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,2846385770
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,2846385770
+dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,957782887
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,957782887
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,957782887
+dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,957782887
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,957782887
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,957782887
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,47981717
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,47981717
+dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,47981717
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,47981717
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,47981717
+dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,3511092054
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,3511092054
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,3511092054
+dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,3511092054
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,3511092054
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,3511092054
+dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,1546637391
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,1546637391
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,1546637391
+dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,1546637391
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,1546637391
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,1546637391
+dimwishlist:item=2888266564&perks=1840239774,1885400500,247725512,2896038713
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,2896038713
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,2896038713
+dimwishlist:item=2888266564&perks=1840239774,1885400500,588594999,2896038713
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,2896038713
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,2896038713
+
+// Eyasluna (PvP first-choice roll)
+// Fastdraw HCS, Ricochet Rounds, Perpetual Motion, Harmony
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for aggressive duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion boosts those stats even further, just by moving around, and pair this with a Harmony Shotgun, like Matador 64, for your highly aggressive playstyle swapping between primary and special, each boosting the other's damage after kills. Recommended MW: Handling, with a Sprint Grip/Quick Access Sling mod. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=235827225&perks=1926090094,1885400500,1428297954,438098033
+
+// Eyasluna (PvP backup roll)
+// (Steadyhand HCS, Truesight HCS, Hitmark HCS), Ricochet Rounds, Perpetual Motion, Harmony
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion boosts those stats even further, just by moving around, and pair this with a Harmony Shotgun, like Matador 64, for your highly aggressive playstyle swapping between primary and special, each boosting the other's damage after kills. Recommended MW: Handling, with with a Sprint Grip/Quick Access Sling mod. Tags: pvp, pvp-duel
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,1885400500,1428297954,438098033
+
+// Eyasluna (PvP first-choice roll)
+// Fastdraw HCS, Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes: (???  ???): Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Snapshot Sights still (at S17) gets you into ADS in an engagement faster, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with with a Sprint Grip/Quick Access Sling mod. Tags: pvp, pvo-god, pvp-duel
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
+
+// Eyasluna (PvP backup roll)
+// (Steadyhand HCS, Truesight HCS, Hitmark HCS), Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Snapshot Sights still (at S17) gets you into ADS in an engagement faster, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with with a Sprint Grip/Quick Access Sling mod. Tags: pvp, pvp-duel
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,957782887
+
+// Eyasluna (PvP first choice roll)
+// Fastdraw HCS, Ricochet Rounds, (Perpetual Motion, Rangefinder, Rapid Hit), Headstone
+//notes: Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling in Trials. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion, Rangefinder and Rapid Hit all improve gunfeel in different ways, and Headstone kills prevent revives in Trials of Osiris. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=235827225&perks=1926090094,1885400500,1428297954,124408337
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,124408337
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,124408337
+
+// Eyasluna (PvP backup roll)
+// (Steadyhand HCS, Truesight HCS, Hitmark HCS), Ricochet Rounds, (Perpetual Motion, Rangefinder, Rapid Hit), Headstone
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling in Trials. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion, Rangefinder and Rapid Hit all improve gunfeel in different ways, and Headstone kills prevent revives in Trials of Osiris. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-duel
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,1428297954,124408337
+dimwishlist:item=235827225&perks=1926090093,1885400500,1428297954,124408337
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,124408337
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,124408337
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,124408337
+
+// Eyasluna (PvP first-choice roll)
+// Fastdraw HCS, Ricochet Rounds, (Perpetual Motion, Rangefinder, Rapid Hit), Moving Target
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion, Rangefinder and Rapid Hit all improve gunfeel in different ways, and Moving Target pushes your aim assist to 95. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=235827225&perks=235827225,1885400500,1428297954,588594999
+
+// Eyasluna (PvP backup roll)
+// (Steadyhand HCS, Truesight HCS, Hitmark HCS), Ricochet Rounds, (Perpetual Motion, Rangefinder, Rapid Hit), Moving Target
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. Arguably the one of the best PvP hand-cannons as at S17, if you're not mainly in the air, anyway - almost feels like you have an additional perk boost in the base stats, and has the highest base stability of any legendary HC. Boost Handling and Stability with our sight and mag. Perpetual Motion, Rangefinder and Rapid Hit all improve gunfeel in different ways, and Moving Target pushes your aim assist to 95. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-duel
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,588594999
+dimwishlist:item=235827225&perks=1926090092,1885400500,1428297954,588594999
+dimwishlist:item=235827225&perks=1926090093,1885400500,1428297954,588594999
+dimwishlist:item=235827225&perks=235827225,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=235827225,1885400500,247725512,588594999
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,588594999
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,588594999
+dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,588594999
+
+// Austringer (PvP first-choice roll)
+// Fluted Barrel, Ricochet Rounds, Snapshot Sights, Rangefinder
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Shapeable. Mid-range stats, but you can roll your own top-tier adaptive hand-cannon, rather than rely on RNG. Round out Handling, Stability and Range with your barrel and mag. Snapshot Sights still (at S17) gets you into ADS in an engagement faster, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3055790362&perks=1840239774,1885400500,957782887,2846385770
+
+// Austringer (PvP backup roll)
+// (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Ricochet Rounds, Snapshot Sights, Rangefinder
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. Shapeable. Mid-range stats, but you can roll your own top-tier adaptive hand-cannon, rather than rely on RNG. Round out Handling, Stability and Range with your barrel and mag. Snapshot Sights still (at S17) gets you into ADS in an engagement faster, and Rangefinder improves both your damage and aim assist dropoffs. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-duel
+dimwishlist:item=3055790362&perks=4090651448,1885400500,957782887,2846385770
+dimwishlist:item=3055790362&perks=1482024992,1885400500,957782887,2846385770
+dimwishlist:item=3055790362&perks=3250034553,1885400500,957782887,2846385770
+
+// Austringer (PvP first-choice roll)
+// Fluted Barrel, Ricochet Rounds, Eye of the Storm, Opening Shot
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling. Shapeable. Mid-range stats, but you can roll your own top-tier adaptive hand-cannon, rather than rely on RNG. Round out Handling, Stability and Range with your barrel and mag. Opening Shot should give the edge with your first shot and the, as the duel progresses, Eye of the Storm should kick in to improve gunfeel as you take damage. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3055790362&perks=1840239774,1885400500,699525795,47981717
+
+// Austringer (PvP backup roll)
+// (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Ricochet Rounds, Eye of the Storm, Opening Shot
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. Shapeable. Mid-range stats, but you can roll your own top-tier adaptive hand-cannon, rather than rely on RNG. Round out Handling, Stability and Range with your barrel and mag. Opening Shot should give the edge with your first shot and the, as the duel progresses, Eye of the Storm should kick in to improve gunfeel as you take damage. Recommended MW: Handling, with a Targeting Adjuster mod if you're more passive, Sprint Grip/Quick Access Sling mod if you're more aggressive, or even give Rader Tuner mod a spin. Tags: pvp, pvp-duel
+dimwishlist:item=3055790362&perks=4090651448,1885400500,699525795,47981717
+dimwishlist:item=3055790362&perks=1482024992,1885400500,699525795,47981717
+dimwishlist:item=3055790362&perks=3250034553,1885400500,699525795,47981717
+
+// Austringer (PvP first-choice roll)
+// Fluted Barrel, Ricochet Rounds, Air Assault, Opening Shot
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP first-choice S-Tier roll for duelling in the air. Shapeable. Mid-range stats, but you can roll your own top-tier adaptive hand-cannon, rather than rely on RNG. Round out Handling, Stability and Range with your barrel and mag. Opening Shot should give the edge with your first shot and then, as the duel progresses, Air Assault should kick in to improve aerial gunfeel as you take damage. Recommended MW: Handling, with an Icarus Grip mod. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3055790362&perks=1840239774,1885400500,3722653512,47981717
+
+// Austringer (PvP backup roll)
+// (Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Ricochet Rounds, Air Assault, Opening Shot
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling in the air. Shapeable. Mid-range stats, but you can roll your own top-tier adaptive hand-cannon, rather than rely on RNG. Round out Handling, Stability and Range with your barrel and mag. Opening Shot should give the edge with your first shot and then, as the duel progresses, Air Assault should kick in to improve aerial gunfeel as you take damage. Recommended MW: Handling, with an Icarus Grip mod. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3055790362&perks=4090651448,1885400500,3722653512,47981717
+dimwishlist:item=3055790362&perks=1482024992,1885400500,3722653512,47981717
+dimwishlist:item=3055790362&perks=3250034553,1885400500,3722653512,47981717
+
+// Hawkmoon (PvP first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Alloy Mag, Rangefinder, (Smooth Grip, Polymer Grip)
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. For Hand Cannon connoisseurs - you'll need to keep hitting crits and keep a count of how many stacks you have for the last round in the mag. Seven will delete anything in PvP. Six will one tap anyone not in a super, and five will two tap any resilience. Balance out boosts to Handling, Stability and Range using the barrel and Grip. Then Rangefinder improves both your damage and aim assist dropoffs. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3856705927&perks=1840239774,3856705927,2846385770,3326204863
+dimwishlist:item=3856705927&perks=4090651448,3856705927,2846385770,3326204863
+dimwishlist:item=3856705927&perks=1482024992,3856705927,2846385770,3326204863
+dimwishlist:item=3856705927&perks=3250034553,3856705927,2846385770,3326204863
+dimwishlist:item=3856705927&perks=1840239774,3856705927,2846385770,862848869
+dimwishlist:item=3856705927&perks=4090651448,3856705927,2846385770,862848869
+dimwishlist:item=3856705927&perks=1482024992,3856705927,2846385770,862848869
+dimwishlist:item=3856705927&perks=3250034553,3856705927,2846385770,862848869
+
+// Hawkmoon (PvP first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Alloy Mag, Moving Target, (Smooth Grip, Polymer Grip)
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. For Hand Cannon connoisseurs - you'll need to keep hitting crits and keep a count of how many stacks you have for the last round in the mag. Seven will delete anything in PvP. Six will one tap anyone not in a super, and five will two tap any resilience. Balance out boosts to Handling, Stability and Range using the barrel and Grip. Then Moving Target makes headshots easier to get. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3856705927&perks=1840239774,3856705927,588594999,3326204863
+dimwishlist:item=3856705927&perks=4090651448,3856705927,588594999,3326204863
+dimwishlist:item=3856705927&perks=1482024992,3856705927,588594999,3326204863
+dimwishlist:item=3856705927&perks=3250034553,3856705927,588594999,3326204863
+dimwishlist:item=3856705927&perks=1840239774,3856705927,588594999,862848869
+dimwishlist:item=3856705927&perks=4090651448,3856705927,588594999,862848869
+dimwishlist:item=3856705927&perks=1482024992,3856705927,588594999,862848869
+dimwishlist:item=3856705927&perks=3250034553,3856705927,588594999,862848869
+
+// Hawkmoon (PvP first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Alloy Mag, Eye of the Storm, (Smooth Grip, Polymer Grip)
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for duelling. For Hand Cannon connoisseurs - you'll need to keep hitting crits and keep a count of how many stacks you have for the last round in the mag. Seven will delete anything in PvP. Six will one tap anyone not in a super, and five will two tap any resilience. Balance out boosts to Handling, Stability and Range using the barrel and Grip. Then Eye of the Storm improves gunfeel in a duel, whether you're on the ground or in the air. Tags: pvp, pvp-god, pvp-duel
+dimwishlist:item=3856705927&perks=1840239774,3856705927,699525795,3326204863
+dimwishlist:item=3856705927&perks=4090651448,3856705927,699525795,3326204863
+dimwishlist:item=3856705927&perks=1482024992,3856705927,699525795,3326204863
+dimwishlist:item=3856705927&perks=3250034553,3856705927,699525795,3326204863
+dimwishlist:item=3856705927&perks=1840239774,3856705927,699525795,862848869
+dimwishlist:item=3856705927&perks=4090651448,3856705927,699525795,862848869
+dimwishlist:item=3856705927&perks=1482024992,3856705927,699525795,862848869
+dimwishlist:item=3856705927&perks=3250034553,3856705927,699525795,862848869
+
+// Hawkmoon (PvP first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Alloy Mag, Killing Wind, (Smooth Grip, Polymer Grip)
+//notes:Inspired by DMB Podcast 263 conversation with @illPhysics. PvP backup S-Tier roll for kill-chaining. For Hand Cannon connoisseurs - you'll need to keep hitting crits and keep a count of how many stacks you have for the last round in the mag. Seven will delete anything in PvP. Six will one tap anyone not in a super, and five will two tap any resilience. Balance out boosts to Handling, Stability and Range using the barrel and Grip. Then Killing Wing helps you chain kills once you've dropped your first target. Tags: pvp, pvp-god, pvp-chaining
+dimwishlist:item=3856705927&perks=1840239774,3856705927,2450788523,3326204863
+dimwishlist:item=3856705927&perks=4090651448,3856705927,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1482024992,3856705927,2450788523,3326204863
+dimwishlist:item=3856705927&perks=3250034553,3856705927,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1840239774,3856705927,2450788523,862848869
+dimwishlist:item=3856705927&perks=4090651448,3856705927,2450788523,862848869
+dimwishlist:item=3856705927&perks=1482024992,3856705927,2450788523,862848869
+dimwishlist:item=3856705927&perks=3250034553,3856705927,2450788523,862848869
