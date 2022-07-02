@@ -1,0 +1,109 @@
+@title:Season 17 Foundry weapons
+@description:Season of the Haunted Foundries New weapons
+
+// Lunulata-4b (PvE first choice roll)
+// Elastic String, (Straight Fletching, Fiberglass Arrow Shaft), (Rangefinder, Shoot to Loot, No Distractions), Headstone
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for Stasis subclasses in general add clear. The Veist origin trait can occasionally help with faster draw time and, although it has the best-in-slot stats in the Lightweight bow subtype (but it's still a Lightweight, so meh), it lacks Archer's Tempo as a trait. As ever, look for the fastest draw time with Elastic String and then recover the accuracy with Straight Fletching or Fiberglass Arrow Shaft. Headstone is always a useful perk for Stasis subclasses, and Rangefinder (for better accuracy), Shoot to Loot, or No Distractions are probably your best pairings. Recommended MW: Draw Time, Accuracy or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor
+dimwishlist:item=2513965917&perks=2801223209,3827198035,2846385770,124408337
+dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337
+dimwishlist:item=2513965917&perks=2801223209,3827198035,2866798147,124408337
+dimwishlist:item=2513965917&perks=2801223209,3429800428,2866798147,124408337
+dimwishlist:item=2513965917&perks=2801223209,3827198035,3700496672,124408337
+dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,124408337
+
+// Lunulata-4b (PvE backup roll)
+// Elastic String, (Straight Fletching, Fiberglass Arrow Shaft), (Rangefinder, Shoot to Loot, No Distractions), Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 22. PvE backup roll for end-game add clear. The Veist origin trait can occasionally help with faster draw time and, although it has the best-in-slot stats in the Lightweight bow subtype (but it's still a Lightweight, so meh), it lacks Archer's Tempo as a trait. As ever, look for the fastest draw time with Elastic String and then recover the accuracy with Straight Fletching or Fiberglass Arrow Shaft. Golden Tricorn is more difficult to proc with Stasis grenades or melees, but can give you a 50% damage boost once you do, and Rangefinder (for better accuracy), Shoot to Loot, or No Distractions are probably your best pairings. Recommended MW: Draw Time, Accuracy or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor
+dimwishlist:item=2513965917&perks=2801223209,3827198035,2846385770,2610012052
+dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,2610012052
+dimwishlist:item=2513965917&perks=2801223209,3827198035,2866798147,2610012052
+dimwishlist:item=2513965917&perks=2801223209,3429800428,2866798147,2610012052
+dimwishlist:item=2513965917&perks=2801223209,3827198035,3700496672,2610012052
+dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,2610012052
+
+// Lunulata-4b (PvE backup roll)
+// Elastic String, (Straight Fletching, Fiberglass Arrow Shaft), (Rangefinder, Shoot to Loot, No Distractions), Adrenaline Junkie
+//notes:Inspired by DMB PvE Podcast 22. PvE backup roll for general add clear. The Veist origin trait can occasionally help with faster draw time and, although it has the best-in-slot stats in the Lightweight bow subtype (but it's still a Lightweight, so meh), it lacks Archer's Tempo as a trait. As ever, look for the fastest draw time with Elastic String and then recover the accuracy with Straight Fletching or Fiberglass Arrow Shaft. Adrenaline Junkie is more difficult to proc with Stasis grenades or melees, but can give you a decent damage boost once you do, and Rangefinder (for better accuracy), Shoot to Loot, or No Distractions are probably your best pairings. Recommended MW: Draw Time, Accuracy or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor
+dimwishlist:item=2513965917&perks=2801223209,3827198035,2846385770,11612903
+dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,11612903
+dimwishlist:item=2513965917&perks=2801223209,3827198035,2866798147,11612903
+dimwishlist:item=2513965917&perks=2801223209,3429800428,2866798147,11612903
+dimwishlist:item=2513965917&perks=2801223209,3827198035,3700496672,11612903
+dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,11612903
+
+// Enyo-D (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell), Feeding Frenzy, Surrounded
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game add clear. Hakke origin trait can be handy against vehicles and constructs, and base stats make it competitive in slot. Improve Handling and Stability with your barrel and mag. The perks are mainly PvP orientated, but Surrounded, particularly with the Spec mod, adds a hefty 40% bonus CQC damage, and Feeding Frenzy helps with keeping the perk active. Recommended MW: Stability, Handling or Reload Speed, with a Surrounded Spec mod. Tags: pve, pve-endgame, pve-minor
+dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,3708227201
+dimwishlist:item=1601177201&perks=1482024992,106909392,2779035018,3708227201
+dimwishlist:item=1601177201&perks=1840239774,3230963543,2779035018,3708227201
+dimwishlist:item=1601177201&perks=1482024992,3230963543,2779035018,3708227201
+
+// Enyo-D (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell), Feeding Frenzy, Rampage
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for general add clear. Hakke origin trait can be handy against vehicles and constructs, and base stats make it competitive in slot. Improve Handling and Stability with your barrel and mag. The perks are mainly PvP orientated, but the old-school Feeding Frenzy/ Rampage combination should help keep trash mob adds under control. Recommended MW: Stability, Handling or Reload Speed, with a Rampage Spec, Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor
+dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,3425386926
+dimwishlist:item=1601177201&perks=1482024992,106909392,2779035018,3425386926
+dimwishlist:item=1601177201&perks=1840239774,3230963543,2779035018,3425386926
+dimwishlist:item=1601177201&perks=1482024992,3230963543,2779035018,3425386926
+
+// Staccato-46 (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Triple Tap, Explosive Payload
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game add clear and champions. You probably won't get much use out of the Suros origin trait in PvE, but this is surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Triple Tap extends your mag, and Explosive Payload is great for added flinch, damage and stunning overload champions, when there's an anti-champion mod in the season. Recommended MW: Stability, Handling or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-champion
+dimwishlist:item=4019668921&perks=1840239774,106909392,3400784728,3038247973
+dimwishlist:item=4019668921&perks=1482024992,106909392,3400784728,3038247973
+dimwishlist:item=4019668921&perks=1840239774,3230963543,3400784728,3038247973
+dimwishlist:item=4019668921&perks=1482024992,3230963543,3400784728,3038247973
+dimwishlist:item=4019668921&perks=1840239774,1087426260,3400784728,3038247973
+dimwishlist:item=4019668921&perks=1482024992,1087426260,3400784728,3038247973
+
+// Staccato-46 (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Triple Tap, Adaptive Munitions
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game add clear and champions. You probably won't get much use out of the Suros origin trait in PvE, but this is surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Triple Tap extends your mag, and Adaptive Munitions is great for forcing shields (particularly when there's an Acute Solar Burn modifier), and piercing barrier champions when there's an anti-champion mod in the season. Recommended MW: Stability, Handling or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-champion
+dimwishlist:item=4019668921&perks=1840239774,106909392,3400784728,1048183818
+dimwishlist:item=4019668921&perks=1482024992,106909392,3400784728,1048183818
+dimwishlist:item=4019668921&perks=1840239774,3230963543,3400784728,1048183818
+dimwishlist:item=4019668921&perks=1482024992,3230963543,3400784728,1048183818
+dimwishlist:item=4019668921&perks=1840239774,1087426260,3400784728,1048183818
+dimwishlist:item=4019668921&perks=1482024992,1087426260,3400784728,1048183818
+
+// Staccato-46 (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Triple Tap, Incandescent
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game add clear. You probably won't get much use out of the Suros origin trait in PvE, but this is surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Triple Tap extends your mag, and Incandescent pairs well with Solar 3.0 builds to add and spread scorch stacks. Recommended MW: Stability, Handling or Reload Speed, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor
+dimwishlist:item=4019668921&perks=1840239774,106909392,3400784728,4293542123
+dimwishlist:item=4019668921&perks=1482024992,106909392,3400784728,4293542123
+dimwishlist:item=4019668921&perks=1840239774,3230963543,3400784728,4293542123
+dimwishlist:item=4019668921&perks=1482024992,3230963543,3400784728,4293542123
+dimwishlist:item=4019668921&perks=1840239774,1087426260,3400784728,4293542123
+dimwishlist:item=4019668921&perks=1482024992,1087426260,3400784728,4293542123
+
+// Staccato-46 (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag),Shoot to Loot, Explosive Payload
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game add clear. You probably won't get much use out of the Suros origin trait in PvE, but this is surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Shoot to Loot gives valuable ammo pickup from cover, and Explosive Payload adds flinch, damage, stunning overload champions and slightly extends the ammo pickup area when shooting near bricks. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-champion
+dimwishlist:item=4019668921&perks=1840239774,106909392,3700496672,4293542123
+dimwishlist:item=4019668921&perks=1482024992,106909392,3700496672,4293542123
+dimwishlist:item=4019668921&perks=1840239774,3230963543,3700496672,4293542123
+dimwishlist:item=4019668921&perks=1482024992,3230963543,3700496672,4293542123
+dimwishlist:item=4019668921&perks=1840239774,1087426260,3700496672,4293542123
+dimwishlist:item=4019668921&perks=1482024992,1087426260,3700496672,4293542123
+
+// Staccato-46 (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Outlaw, Incandescent
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for general add clear. You probably won't get much use out of the Suros origin trait in PvE, but this is surprisingly competitive choice for the energy slot as at season 17. Improve Handling and Stability with your barrel and mag. Pair Outlaw's faster reloads after crit kills with Incandescent's spreading of scorch stacks to nearby adds for synergy with Solar 3.0 builds. Recommended MW: Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor
+dimwishlist:item=4019668921&perks=1840239774,106909392,1168162263,4293542123
+dimwishlist:item=4019668921&perks=1482024992,106909392,1168162263,4293542123
+dimwishlist:item=4019668921&perks=1840239774,3230963543,1168162263,4293542123
+dimwishlist:item=4019668921&perks=1482024992,3230963543,1168162263,4293542123
+dimwishlist:item=4019668921&perks=1840239774,1087426260,1168162263,4293542123
+dimwishlist:item=4019668921&perks=1482024992,1087426260,1168162263,4293542123
+
+// Gallu RR3 (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), Appended Mag, Overflow, Focused Fury
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game major (burst) damage. There are much better sniper rifles out there (TBH, you should really just go and buy Adored from the Tower Exotic Kiosk), But if you're pushed, then you can make this a decent choice for short damage windows against majors. Improve Handling/Stability with the barrel, and maximise the magazine size to seven with appended mag and a Backup Mag mod. Overflow doubles this to 14 when you pick up ammo. You'll proc Focused Fury after a few crits, and then have 20% bonus damage on the rest of the magazine. Recommended MW: Stability or Handling, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-major
+dimwishlist:item=617501162&perks=1840239774,1087426260,3643424744,2896038713
+dimwishlist:item=617501162&perks=1482024992,1087426260,3643424744,2896038713
+
+// Gallu RR3 (PvE first-choice roll)
+//notes:Inspired by DMB PvE Podcast 22. PvE first-choice roll for end-game major damage. There are much better sniper rifles out there (TBH, you should really just go and buy Adored from the Tower Exotic Kiosk), But if you're pushed, then you can make this a decent choice for short damage windows against majors. Improve Handling/Stability with the barrel, and maximise the magazine size to seven with appended mag and a Backup Mag mod. Overflow doubles this to 14 when you pick up ammo. If you can get a pick against an add, followed by an arc ability kill (hopefully easier with Arc 3.0), you'll get a 50% damage boost with Golden Tricorn for 10s against a major or boss, although there are a lot of moving parts to get to align. Recommended MW: Stability or Handling, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-major
+dimwishlist:item=617501162&perks=1840239774,1087426260,3643424744,2610012052
+dimwishlist:item=617501162&perks=1482024992,1087426260,3643424744,2610012052
