@@ -1,3 +1,17 @@
+// Wishlistnotes tags 
+
+Roll types
+pve pvp
+
+Roll quality (first-choice)
+pve-god pvp-god
+
+Use cases
+pve-endgame pve-minor pve-major (incl burst damage) pve-boss (incl sustained damage) pve-champion (good perk combinations) pve-solo pvp-duel pvp-chain
+ 
+Input type
+mkb controller
+
 // Barrel groupings:
 
 Range Barrels (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling)
@@ -133,6 +147,33 @@ Highlighting Scopes/Sights (Signal MS5, Flash HS3)
 194952921 1409978311
 
 
+// Rocket Launcher/Grenade Launcher Barrels groupings
+
+Blast Radius Barrels (Volatile Launch, Confined Launch, Linear Compensator)
+1478423395 1844523823 1441682018
+
+Blast Radius Barrels without downsides (Linear Compensator)
+1441682018
+
+Velocity Barrels (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control)
+981914802 3525010810 1441682018 3798852852
+
+Velocity Barrels without downsides (Linear Compensator, Smart Drift Control)
+1441682018 3798852852
+
+Handling Barrels (Quick Launch, Smart Drift Countrol, Countermass)
+3525010810 3798852852 3809316345
+
+Stability Barrels (Confined Launch, Smarth Drift Control, Countermass, Linear Compensator)
+1844523823 3798852852 3809316345 1441682018
+
+Stability Barrels without drawbacks (Smarth Drift Control, Countermass, Linear Compensator)
+3798852852 3809316345 1441682018
+
+Recoil Direction Barrels (Countermass, Smart Drift Control)
+3809316345 3798852852 
+
+
 // Combat Bow Bowstrings groupings:
 
 Accuracy Strings (High Tension String, Tactile String, Natural String, Polymer String)
@@ -151,25 +192,19 @@ Draw Time/ Charge (charged shots = optimum accuracy/damage) Strings (Elastic Str
 2801223209 4067834857 852209214
 
 
-// Combat Bow Arrows groupings:
+// Haft groupings
 
-Accuracy Arrows (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching)
-3429800428 3827198035 3311977193
+Range Hafts (Ballistic Tuning, Supercooled Accelerator)
+1263609309 1934171651
 
-Accuracy Arrows without downsides (Straight Fletching, Helical Fletching)
-3827198035 3311977193
+Reload Hafts (Lightweight Emitter, Low-Impedance Windings)
+594346985 580685494
 
-Stability (stabilty = draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
-1500996326 2154191829 3311977193
+Handling Hafts (Tempered Truss Rod, Lightweight Emitter)
+5699512 594346985
 
-Stability (draw hold time) without downsides Arrows (Carbon Arrow Shaft, Helical Fletching)
-2154191829 3311977193
-
-Handling Arrows (Compact Arrow Shaft)
-16392701
-
-Reload Speed Arrows (Compact Arrow Shaft)
-16392701
+Shield Hafts (Auxiliary Reserves, Low-Impedance Windings)
+580685494 
 
 
 // Magazine groupings:
@@ -192,8 +227,9 @@ Mag Size Magazines (Extended Mag, Appended Mag, Tactical Mag)
 Mag Size Magazines without downsides (Appended Mag, Tactical Mag)
 1087426260 106909392
 
-Combat Effect Magazines (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds)
-1968497646 1561002382 1885400500
+Combat Effect Magazines (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Swap Mag)
+1968497646 1561002382 1885400500 3721627275
+
 
 // Battery groupings:
 Range batteries (Projection Fuse, Tactical Battery)
@@ -219,3 +255,73 @@ Impact Batteries (Liquid Coils)
 
 Charge Time Batteries (Accelerated Coils)
 689005463
+
+
+// Rocket Launcher Magazine groupings
+Blast Radius Magazines (Black Powder)
+1996142143
+
+Blast Radius Reducation Magazines (Implosion Rounds)
+3492396210
+
+Velocity Magazines (High-Velocity Rounds, Implosion Rounds)
+2822142346 3492396210
+
+Reload Magazines (Alloy Casing, High-Velocity Rounds)
+2985827016 2822142346
+
+Stability Magazines (Implosion Rounds, Impact Casing)
+3492396210 3796465595
+
+Damage Magazines (Impact Casing)
+3796465595
+
+
+// Grenade Launcher Magazine groupings
+Blast Radius Magazine (High-Explosive Ordnance)
+1380253176 
+
+Velocity Magazines (High-Velocity Rounds, Thermoplastic Granades, High-Explosive Ordnance)
+2822142346 2870095399 1380253176
+
+Velocity Magazines without downsides (High-Velocity Rounds, Thermoplastic Granades)
+2822142346 2870095399 
+
+Stability Magazines (Spike Grenades, Thermoplastic Grenades)
+3301904089 2870095399 
+
+Reload Magazines (Alloy Casing, High-Velocity Rounds, Mini Frags)
+2822142346 2822142346 332133599
+
+Reload Magazines witout downsides (High-Velocity Rounds)
+2822142346
+
+Mag Size Magazines (Augmented Drum, Mini Frags)
+1771897777 332133599
+
+Damage Magazines (Spike Grenades)
+3301904089 
+
+Combat Effect Magazines (Proximity Grenades, Sticky Grenades)
+409831596 3373736292
+
+
+// Combat Bow Arrows groupings:
+
+Accuracy Arrows (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching)
+3429800428 3827198035 3311977193
+
+Accuracy Arrows without downsides (Straight Fletching, Helical Fletching)
+3827198035 3311977193
+
+Stability (stabilty = draw hold time) Arrows (Natural Fletching, Carbon Arrow Shaft, Helical Fletching)
+1500996326 2154191829 3311977193
+
+Stability (draw hold time) without downsides Arrows (Carbon Arrow Shaft, Helical Fletching)
+2154191829 3311977193
+
+Handling Arrows (Compact Arrow Shaft)
+16392701
+
+Reload Speed Arrows (Compact Arrow Shaft)
+16392701
