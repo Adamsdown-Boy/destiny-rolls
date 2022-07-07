@@ -34,16 +34,16 @@ dimwishlist:item=3682803680&perks=1482024992,3142289711,1570042021,438098033
 // Shayura's Wrath (PvP first-choice roll)
 // (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Dynamic Sway Reducation, Tap the Trigger
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Tap the Trigger on initial trigger pull and Dynamic Sway Reduction as you keep firing should make it easy to land shots consistently. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god pvp-duel, controller
-dimwishlist:item=3682803680&perks=202670084,3142289711,1359896290,1523649716
-dimwishlist:item=3682803680&perks=3250034553,3142289711,1359896290,1523649716
-dimwishlist:item=3682803680&perks=1482024992,3142289711,1359896290,1523649716
+dimwishlist:item=3682803680&perks=202670084,3142289711,1359896290,1890422124
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1359896290,1890422124
 
 // Shayura's Wrath (PvP backup roll)
 // (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Moving Target, Tap the Trigger
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Moving Target and Tap the Trigger are both good passive perks that should help win that first gunfight. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-duel, controller
-dimwishlist:item=3682803680&perks=202670084,3142289711,588594999,1523649716
-dimwishlist:item=3682803680&perks=3250034553,3142289711,588594999,1523649716
-dimwishlist:item=3682803680&perks=1482024992,3142289711,588594999,1523649716
+dimwishlist:item=3682803680&perks=202670084,3142289711,588594999,1890422124
+dimwishlist:item=3682803680&perks=3250034553,3142289711,588594999,1890422124
+dimwishlist:item=3682803680&perks=1482024992,3142289711,588594999,1890422124
 
 // Shayura's Wrath (Adept) (PvP first-choice roll)
 // Full Bore, Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
@@ -78,16 +78,16 @@ dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,438098033
 // Shayura's Wrath (Adept) (PvP first-choice roll)
 // (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Dynamic Sway Reducation, Tap the Trigger
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Tap the Trigger on initial trigger pull and Dynamic Sway Reduction as you keep firing should make it easy to land shots consistently. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god pvp-duel, controller
-dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1523649716
-dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1523649716
-dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1523649716
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1890422124
 
 // Shayura's Wrath (Adept) (PvP backup roll)
 // (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Moving Target, Tap the Trigger
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Moving Target and Tap the Trigger are both good passive perks that should help win that first gunfight. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-duel, controller
-dimwishlist:item=4023807721&perks=202670084,3142289711,588594999,1523649716
-dimwishlist:item=4023807721&perks=3250034553,3142289711,588594999,1523649716
-dimwishlist:item=4023807721&perks=1482024992,3142289711,588594999,1523649716
+dimwishlist:item=4023807721&perks=202670084,3142289711,588594999,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,588594999,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,588594999,1890422124
 
 // Borrowed Time (PvP first-choice roll)
 // Full Bore, Ricochet Rounds, Rangefinder, (Rampage, Swashbuckler)
