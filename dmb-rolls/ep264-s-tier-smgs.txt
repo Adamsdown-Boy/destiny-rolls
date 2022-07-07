@@ -1,0 +1,211 @@
+@title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
+@description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
+
+// Shayura's Wrath (PvP first-choice roll)
+// Full Bore, Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can, even to the detriment of stability with barrel, mag and masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Killing Wind adds a host of boosts including more range or Tunnel Vision adds bonus Aim Assist after a kill, at which point Kill Clip reduces both optimal and body shot TTK by 25%. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=3682803680&perks=202670084,3142289711,2450788523,1015611457
+dimwishlist:item=3682803680&perks=202670084,3142289711,2946784966,1015611457
+
+// Shayura's Wrath (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork, mixing in only as much stability as you need to feel comfortable  - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Killing Wind adds a host of boosts including more range or Tunnel Vision adds bonus Aim Assist after a kill, at which point Kill Clip reduces both optimal and body shot TTK by 25%. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=3682803680&perks=3250034553,3142289711,2450788523,1015611457
+dimwishlist:item=3682803680&perks=1482024992,3142289711,2450788523,1015611457
+dimwishlist:item=3682803680&perks=3250034553,3142289711,2946784966,1015611457
+dimwishlist:item=3682803680&perks=1482024992,3142289711,2946784966,1015611457
+
+// Shayura's Wrath (PvP backup roll)
+// Full Bore, Accurized Rounds, Perpetual Motion, (Kill Clip, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Perpetual Motion will help controller players with additional Stability, and everyone with Handling and Reload Speed. Pair Harmony with another Harmony weapon in your kinetic slot for an aggressive playstyle or Kill Clip reduces both optimal and body shot TTK by 25% when you reload after a kill, to keep the damage chain going. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-chain, controller, mkb
+dimwishlist:item=3682803680&perks=202670084,3142289711,1428297954,1015611457
+dimwishlist:item=3682803680&perks=202670084,3142289711,1428297954,438098033
+
+// Shayura's Wrath (PvP backup roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Heating Up, (Kill Clip, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Heating up provides a boost to stability for controller players and to Aim Assist for everyone with kills. Pair Harmony with another Harmony weapon in your kinetic slot for an aggressive playstyle or Kill Clip reduces both optimal and body shot TTK by 25% when you reload after a kill, to keep the damage chain going. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-chain, controller, mkb
+dimwishlist:item=3682803680&perks=202670084,3142289711,1570042021,1015611457
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1570042021,1015611457
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1570042021,1015611457
+dimwishlist:item=3682803680&perks=202670084,3142289711,1570042021,438098033
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1570042021,438098033
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1570042021,438098033
+
+// Shayura's Wrath (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Dynamic Sway Reducation, Tap the Trigger
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Tap the Trigger on initial trigger pull and Dynamic Sway Reduction as you keep firing should make it easy to land shots consistently. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god pvp-duel, controller
+dimwishlist:item=3682803680&perks=202670084,3142289711,1359896290,1523649716
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1359896290,1523649716
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1359896290,1523649716
+
+// Shayura's Wrath (PvP backup roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Moving Target, Tap the Trigger
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Moving Target and Tap the Trigger are both good passive perks that should help win that first gunfight. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-duel, controller
+dimwishlist:item=3682803680&perks=202670084,3142289711,588594999,1523649716
+dimwishlist:item=3682803680&perks=3250034553,3142289711,588594999,1523649716
+dimwishlist:item=3682803680&perks=1482024992,3142289711,588594999,1523649716
+
+// Shayura's Wrath (Adept) (PvP first-choice roll)
+// Full Bore, Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can, even to the detriment of stability with barrel, mag and masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Killing Wind adds a host of boosts including more range or Tunnel Vision adds bonus Aim Assist after a kill, at which point Kill Clip reduces both optimal and body shot TTK by 25%. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=4023807721&perks=202670084,3142289711,2450788523,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,2946784966,1015611457
+
+// Shayura's Wrath (Adept) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork, mixing in only as much stability as you need to feel comfortable  - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Killing Wind adds a host of boosts including more range or Tunnel Vision adds bonus Aim Assist after a kill, at which point Kill Clip reduces both optimal and body shot TTK by 25%. Masterwork: Range or Stability, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457
+
+// Shayura's Wrath (Adept) (PvP backup roll)
+// Full Bore, Accurized Rounds, Perpetual Motion, (Kill Clip, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Perpetual Motion will help controller players with additional Stability, and everyone with Handling and Reload Speed. Pair Harmony with another Harmony weapon in your kinetic slot for an aggressive playstyle or Kill Clip reduces both optimal and body shot TTK by 25% when you reload after a kill, to keep the damage chain going. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-chain, controller, mkb
+dimwishlist:item=4023807721&perks=202670084,3142289711,1428297954,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,1428297954,438098033
+
+// Shayura's Wrath (Adept) (PvP backup roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Heating Up, (Kill Clip, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Heating up provides a boost to stability for controller players and to Aim Assist for everyone with kills. Pair Harmony with another Harmony weapon in your kinetic slot for an aggressive playstyle or Kill Clip reduces both optimal and body shot TTK by 25% when you reload after a kill, to keep the damage chain going. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-chain, controller, mkb
+dimwishlist:item=4023807721&perks=202670084,3142289711,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,1570042021,438098033
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1570042021,438098033
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,438098033
+
+// Shayura's Wrath (Adept) (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Dynamic Sway Reducation, Tap the Trigger
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Tap the Trigger on initial trigger pull and Dynamic Sway Reduction as you keep firing should make it easy to land shots consistently. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god pvp-duel, controller
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1523649716
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1523649716
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1523649716
+
+// Shayura's Wrath (Adept) (PvP backup roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Accurized Rounds, Moving Target, Tap the Trigger
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP backup S-Tier roll for duelling. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can with barrel, mag and Masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. The combination of Moving Target and Tap the Trigger are both good passive perks that should help win that first gunfight. Masterwork: Range, with an Adept Range mod to push range out to 100, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-duel, controller
+dimwishlist:item=4023807721&perks=202670084,3142289711,588594999,1523649716
+dimwishlist:item=4023807721&perks=3250034553,3142289711,588594999,1523649716
+dimwishlist:item=4023807721&perks=1482024992,3142289711,588594999,1523649716
+
+// Borrowed Time (PvP first-choice roll)
+// Full Bore, Ricochet Rounds, Rangefinder, (Rampage, Swashbuckler)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options. Push out the range as far as you can with barrel, mag and Masterwork. Rangefinder is the best trait to both push range out further, and constrain bullet spread. A damage-boosting trait in the last column helps with chaining in 6s. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,3425386926
+dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,4082225868
+
+// Borrowed Time (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Rangefinder, (Rampage, Swashbuckler)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Rangefinder is the best trait to both push range out further, and constrain bullet spread. A damage-boosting trait in the last column helps with chaining in 6s. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=875848769&perks=3250034553,1885400500,2846385770,3425386926
+dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,3425386926
+dimwishlist:item=875848769&perks=3250034553,1885400500,2846385770,4082225868
+dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,4082225868
+
+// Borrowed Time (PvP first-choice roll)
+// Full Bore, Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options. Push out the range as far as you can with barrel, mag and Masterwork. Rangefinder is the best trait to both push range out further, and constrain bullet spread. Snapshot Sights get you into ADS faster to help get the first shots of an engagement off. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,957782887
+
+// Borrowed Time (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Rangefinder is the best trait to both push range out further, and constrain bullet spread. Snapshot Sights get you into ADS faster to help get the first shots of an engagement off. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=875848769&perks=3250034553,1885400500,2846385770,957782887
+dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,957782887
+
+// Borrowed Time (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Rangefinder, Tap the Trigger
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for duelling. Big Gambit perk pool, so it's worth using double Infamy reputation weeks to reset your rank a few times, and get the extra trait slot options. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Rangefinder is the best trait to both push range out further, and constrain bullet spread. Tap the Trigger helps out with extra stability and aim assist at the start of engagement, which is usually where a duel is won or lost. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,1890422124
+dimwishlist:item=875848769&perks=3250034553,1885400500,2846385770,1890422124
+dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,1890422124
+
+// Submission (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=3886416794&perks=202670084,3142289711,3643424744,438098033
+dimwishlist:item=3886416794&perks=202670084,3142289711,3643424744,4082225868
+
+// Submission (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=3886416794&perks=3250034553,3142289711,3643424744,438098033
+dimwishlist:item=3886416794&perks=1482024992,3142289711,3643424744,438098033
+dimwishlist:item=3886416794&perks=3250034553,3142289711,3643424744,4082225868
+dimwishlist:item=3886416794&perks=1482024992,3142289711,3643424744,4082225868
+
+// Submission (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=3886416794&perks=202670084,3142289711,1428297954,438098033
+dimwishlist:item=3886416794&perks=202670084,3142289711,1428297954,4082225868
+
+// Submission (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=3886416794&perks=3250034553,3142289711,1428297954,438098033
+dimwishlist:item=3886416794&perks=1482024992,3142289711,1428297954,438098033
+dimwishlist:item=3886416794&perks=3250034553,3142289711,1428297954,4082225868
+dimwishlist:item=3886416794&perks=1482024992,3142289711,1428297954,4082225868
+
+// Submission (Adept) (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1941816543&perks=202670084,3142289711,3643424744,438098033
+dimwishlist:item=1941816543&perks=202670084,3142289711,3643424744,4082225868
+
+// Submission (Adept) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Overflow, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Overflow is great for kill-chaining, especially with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills. Masterwork: Range or Stability, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1941816543&perks=3250034553,3142289711,3643424744,438098033
+dimwishlist:item=1941816543&perks=1482024992,3142289711,3643424744,438098033
+dimwishlist:item=1941816543&perks=3250034553,3142289711,3643424744,4082225868
+dimwishlist:item=1941816543&perks=1482024992,3142289711,3643424744,4082225868
+
+// Submission (Adept) (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=1941816543&perks=202670084,3142289711,1428297954,438098033
+dimwishlist:item=1941816543&perks=202670084,3142289711,1428297954,4082225868
+
+// Submission (Adept) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Perpetual Motion, (Swashbuckler, Harmony)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Shapeable. Excellent base Aerial Effectiveness and the Lightweight frame helps your mobility stat, but could do with a bit more range. Push out the range as far as you can with barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Perpetual Motion adds gunfeel boosts which pair well with with a damage-boosting trait like Swashbuckler, or pair with another Harmony weapon in your energy slot to feed off each other's kills, for chaining. Masterwork: Range or Stability, with an Adept Range mod to push range out further, a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Adept Icarus Grip mod to build on the already good Aerial Effectiveness stat, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=1941816543&perks=3250034553,3142289711,1428297954,438098033
+dimwishlist:item=1941816543&perks=1482024992,3142289711,1428297954,438098033
+dimwishlist:item=1941816543&perks=3250034553,3142289711,1428297954,4082225868
+dimwishlist:item=1941816543&perks=1482024992,3142289711,1428297954,4082225868
+
+// Multimach CCX (PvP first-choice roll)
+// Model 8 Red, Accurized Ronds, Killing Wind, Iron Reach
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf it's still very good. Push out range and zoom as far as you can with your sight, mag and Masterwork. Killing Wind adds useful stat boosts (including range) after a kill and Iron Reach passively extends the range still further, albeit at the expense of stability. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, mkb
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007
+
+// Multimach CCX (PvP first-choice roll)
+// Model 8 Red, Accurized Ronds, (Dynamic Sway Reducation, Threat Detector), Iron Reach
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf it's still very good. Push out range and zoom as far as you can with your sight, mag and Masterwork. Dynamic Sway Reduction or Threat Detector helps keep your shots steady and Iron Reach passively extends the range still further, albeit at the expense of stability. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,591790007
+dimwishlist:item=3717177717&perks=663495154,3142289711,4071163871,591790007
+
+// Multimach CCX (PvP first-choice roll)
+// Model 8 Red, Accurized Ronds, Killing Wind, Kill Clip
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf it's still very good. Push out range and zoom as far as you can with your sight, mag and Masterwork. Killing Wind adds useful stat boosts (including range) after a kill, and Kill Clip makes chaining easier. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457
+
+// Multimach CCX (PvP first-choice roll)
+// Model 8 Red, Accurized Ronds, Threat Detector, Kill Clip
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Push out range and zoom as far as you can with your sight, mag and Masterwork. Threat Detector helps with both stability and reload speed in CQC, and Kill Clip makes chaining easier. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=3717177717&perks=663495154,3142289711,4071163871,1015611457
+
+// Friction Fire (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Killing Wind, Rampage
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 16 Zoom constrains bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork. Killing Wind adds useful stat boosts after a kill, and Rampage is probably the most useful second trait, to help out with chaining kills. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1513993763&perks=202670084,3142289711,2450788523,3425386926
+
+// Friction Fire (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Killing Wind, Rampage
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not obtainable as at S17, unfortunately, but even after the Zoom nerf, it's still very good. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 16 Zoom constrains bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Killing Wind adds useful stat boosts after a kill, and Rampage is probably the most useful second trait, to help out with chaining kills. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1513993763&perks=3250034553,3142289711,2450788523,3425386926
+dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
+
