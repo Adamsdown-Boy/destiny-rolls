@@ -215,3 +215,29 @@ dimwishlist:item=1513993763&perks=1482024992,3142289711,2450788523,3425386926
 dimwishlist:item=1513993763&perks=202670084,3142289711,4071163871,3425386926
 dimwishlist:item=1513993763&perks=3250034553,3142289711,4071163871,3425386926
 dimwishlist:item=1513993763&perks=1482024992,3142289711,4071163871,3425386926
+
+// Enyo-D (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Fragile Focus, (Rampage, Multikill Clip)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 15 Zoom helps constrain bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork. Fragile Focus can help boost initial range in an engagement, until you take damage, and Rampage or Multikill Clip are solid damage boosts for damage chaining. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1601177201&perks=202670084,3142289711,2451262963,3425386926
+dimwishlist:item=1601177201&perks=202670084,3142289711,2451262963,2458213969
+
+// Enyo-D (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Fragile Focus, (Rampage, Multikill Clip)
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for kill-chaining. Precision frame, so recoil control is easier as the direction is pretty much vertical, and the 15 Zoom helps constrain bullet spread too. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Fragile Focus can help boost initial range in an engagement, until you take damage, and Rampage or Multikill Clip are solid damage boosts for damage chaining. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-chain, controller
+dimwishlist:item=1601177201&perks=3250034553,3142289711,2451262963,3425386926
+dimwishlist:item=1601177201&perks=1482024992,3142289711,2451262963,3425386926
+dimwishlist:item=1601177201&perks=3250034553,3142289711,2451262963,2458213969
+dimwishlist:item=1601177201&perks=1482024992,3142289711,2451262963,2458213969
+
+// The Hero's Burden (PvP first-choice roll)
+// Full Bore, Ricochet Rounds, Fragile Focus, Iron Reach
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for duelling. The reprised version rolls with barrels rather than sights, which limits your maximum range, but this has new perks than can help make that back up. Push out range and zoom as far as you can with your barrel, mag and Masterwork. Fragile Focus can help boost initial range in an engagement, until you take damage, and Iron Reach provides a big range boost, albeit at the cost of stability. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, mkb
+dimwishlist:item=2488587246&perks=202670084,1885400500,2451262963,591790007
+
+// The Hero's Burden (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Fragile Focus, Eye of the Storm
+//notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice A-Tier roll for duelling. The reprised version rolls with barrels rather than sights, which limits your maximum range, but this has new perks than can help make that back up. Push out range and zoom as far as you can with your barrel, mag and Masterwork, mixing in stability if you need help to control the recoil. Fragile Focus can help boost initial range in an engagement, until you take damage, and Eye of the Storm will kick in as you take damage to improve accuracy. Masterwork: Range or Stability, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, or a Targeting Adjustor for more passive playstyles. Tags: pvp, pvp-god, pvp-duel, controller
+dimwishlist:item=2488587246&perks=202670084,1885400500,2451262963,699525795
+dimwishlist:item=2488587246&perks=3250034553,1885400500,2451262963,699525795
+dimwishlist:item=2488587246&perks=1482024992,1885400500,2451262963,699525795
