@@ -1,0 +1,68 @@
+@title:Glaive roll recommendations with @legoleflash
+@description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
+
+// The Enigma (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Impulse Amplifier, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2595497736&perks=1263609309,3142289711,951095735,2224838837
+
+// The Enigma (PvP first-choice roll)
+// Supercooled Accelerator, Accurized Rounds, Impulse Amplifier, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Handling, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2595497736&perks=1934171651,3142289711,951095735,2224838837
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2534546147&perks=1263609309,3142289711,2450788523,3708227201
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=2534546147&perks=1263609309,3142289711,2450788523,4082225868
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
+dimwishlist:item=2534546147&perks=1263609309,3142289711,2172504645,3708227201
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=2534546147&perks=1263609309,3142289711,2172504645,4082225868
+
+// Lubrae's Ruin (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Immovable Object, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=2534546147&perks=1263609309,3142289711,3800201097,2224838837
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=1466006054&perks=1263609309,3142289711,2450788523,3708227201
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Killing Wind, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1466006054&perks=1263609309,3142289711,2450788523,4082225868
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Surrounded
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
+dimwishlist:item=1466006054&perks=1263609309,3142289711,2172504645,3708227201
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Sleight of Hand, Swashbuckler
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+dimwishlist:item=1466006054&perks=1263609309,3142289711,2172504645,4082225868
+
+// Lubrae's Ruin (Adept) (PvP first-choice roll)
+// Ballistic Tuning, Accurized Rounds, Immovable Object, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=1466006054&perks=1263609309,3142289711,3800201097,2224838837
+
+// Nezarec's Whisper (PvP first-choice roll)
+// (Ballistic Tuning, Supercooled Accelerator), Accurized Rounds, Impulse Amplifier, Unstoppable Force
+//notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80-85 with Haft. Mag and Masterwork, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. Tags: pvp, pvp-god, pvp-duel, controller, mkb
+dimwishlist:item=254636484&perks=1263609309,3142289711,951095735,2224838837
+dimwishlist:item=254636484&perks=1934171651,3142289711,951095735,2224838837
