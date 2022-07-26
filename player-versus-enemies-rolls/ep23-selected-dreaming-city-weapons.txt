@@ -1,0 +1,321 @@
+@title:Selected Dreaming City weapons
+@description:Selected weapons from Dreaming City destinations and activities as at Destiny Update 4.1.5
+
+// Vouchsafe (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, Rapid Hit, Explosive Payload
+//notes:Inspired by DMB PvE Podcast 23. PvE first-choice roll for endgame content and anti-Champion mods. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, so Arrowhead Brake is your top choice, and Tactical Mag gives an extra shot, stability and reload speed. For endgame and anti-Champion use (particularly Overloads), Rapid Hit and Explosive Payload are your top choices. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, controller, mkb
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,3038247973
+
+// Vouchsafe (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, Fourth Time's the Charm, Explosive Payload
+//notes:Inspired by DMB PvE Podcast 23. PvE first-choice roll for endgame content and anti-Champion mods. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, so Arrowhead Brake is your top choice, and Tactical Mag gives an extra shot, stability and reload speed. For endgame and anti-Champion use (particularly Overloads), Fourth Time's the Charm and Explosive Payload are your top choices for the two trait slots on mouse and keyboard. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, mkb
+dimwishlist:item=3242168339&perks=839105230,106909392,1354429876,3038247973
+
+// Vouchsafe (PvE backup roll)
+// (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Flared Magwell, Appended Mag), Rapid Hit, Explosive Payload
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for endgame content and anti-Champion mods. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, or stability to keep the shots on target as much as possible from barrel and mag. For endgame and anti-Champion use (particularly Overloads), Rapid Hit and Explosive Payload are your top choices for the two trait slots. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, pve-minor, pve-endgame, pve-champion, controller, mkb
+dimwishlist:item=3242168339&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=839105230,3230963543,247725512,3038247973
+dimwishlist:item=3242168339&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=3242168339&perks=839105230,1087426260,247725512,3038247973
+dimwishlist:item=3242168339&perks=3661387068,1087426260,247725512,3038247973
+
+// Vouchsafe (PvE backup roll)
+// (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Flared Magwell, Appended Mag), Fourth Time's the Charm, Explosive Payload
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for endgame content and anti-Champion mods. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, or stability to keep the shots on target as much as possible from barrel and mag. For endgame and anti-Champion use (particularly Overloads), Fourth Time's the Charm and Explosive Payload are your top choices for the two trait slots on mouse and keyboard. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, pve-minor, pve-endgame, pve-champion, mkb
+dimwishlist:item=3242168339&perks=3661387068,106909392,1354429876,3038247973
+dimwishlist:item=3242168339&perks=839105230,3230963543,1354429876,3038247973
+dimwishlist:item=3242168339&perks=3661387068,3230963543,1354429876,3038247973
+dimwishlist:item=3242168339&perks=839105230,1087426260,1354429876,3038247973
+dimwishlist:item=3242168339&perks=3661387068,1087426260,1354429876,3038247973
+
+// Vouchsafe (PvE backup roll)
+// (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Flared Magwell, Appended Mag), Rapid Hit, Vorpal Weapon
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for endgame content and anti-Champion mods. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, or stability to keep the shots on target as much as possible from barrel and mag. For endgame and anti-Champion use (particularly Overloads), Rapid Hit helps with stability and reload, and Vorpal Weapon adds a useful passive 20% damage buff against majors (including champions) and bosses. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, pve-endgame, pve-major, pve-champion, controller, mkb
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,1546637391
+dimwishlist:item=3242168339&perks=3661387068,106909392,247725512,1546637391
+dimwishlist:item=3242168339&perks=839105230,3230963543,247725512,1546637391
+dimwishlist:item=3242168339&perks=3661387068,3230963543,247725512,1546637391
+dimwishlist:item=3242168339&perks=839105230,1087426260,247725512,1546637391
+dimwishlist:item=3242168339&perks=3661387068,1087426260,247725512,1546637391
+
+// Vouchsafe (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Flared Magwell, Appended Mag), Fourth Time's the Charm, Vorpal Weapon
+//notes:Inspired by DMB PvE Podcast 23. PvE first-choice roll for endgame content and anti-Champion mods. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, or stability to keep the shots on target as much as possible from barrel and mag. For endgame and anti-Champion use (particularly Overloads), Fourth Time's the Charm helps with damage output and Vorpal Weapon adds a useful passive 20% damage buff against majors (including champions) and bosses. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, pve-endgame, pve-major, pve-champion, mkb
+dimwishlist:item=3242168339&perks=839105230,106909392,1354429876,1546637391
+dimwishlist:item=3242168339&perks=3661387068,106909392,1354429876,1546637391
+dimwishlist:item=3242168339&perks=839105230,3230963543,1354429876,1546637391
+dimwishlist:item=3242168339&perks=3661387068,3230963543,1354429876,1546637391
+dimwishlist:item=3242168339&perks=839105230,1087426260,1354429876,1546637391
+dimwishlist:item=3242168339&perks=3661387068,1087426260,1354429876,1546637391
+
+// Vouchsafe (PvE backup roll)
+// (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Flared Magwell, Appended Mag), Rapid Hit, Dragonfly
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for general content. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, or stability to keep the shots on target as much as possible from barrel and mag. For endgame and anti-Champion use (particularly Overloads), Rapid Hit helps with stability and reload and Dragonfly is always fun to proc. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, controller, mkb
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,2848615171
+dimwishlist:item=3242168339&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=3242168339&perks=839105230,3230963543,247725512,2848615171
+dimwishlist:item=3242168339&perks=3661387068,3230963543,247725512,2848615171
+dimwishlist:item=3242168339&perks=839105230,1087426260,247725512,2848615171
+dimwishlist:item=3242168339&perks=3661387068,1087426260,247725512,2848615171
+
+// Vouchsafe (PvE backup roll)
+// (Arrowhead Brake, Chambered Compensator), (Tactical Mag, Flared Magwell, Appended Mag), Fourth Time's the Charm, Dragonfly
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for general content. Still worth looking at, even without an origin perk, for void burn activities. The Recoil Direction needs some love, or stability to keep the shots on target as much as possible from barrel and mag. For endgame and anti-Champion use (particularly Overloads), Fourth Time's the Charm helps with damage output and Dragonfly is always fun to proc. Recommended MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod or a Full Auto Retrofit, to save your trigger finger. Tags: pve, mkb
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,2848615171
+dimwishlist:item=3242168339&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=3242168339&perks=839105230,3230963543,247725512,2848615171
+dimwishlist:item=3242168339&perks=3661387068,3230963543,247725512,2848615171
+dimwishlist:item=3242168339&perks=839105230,1087426260,247725512,2848615171
+dimwishlist:item=3242168339&perks=3661387068,1087426260,247725512,2848615171
+
+// Retold Tale (PvE first-choice roll)
+// Full Choke, (Tactical Mag, Assault Mag), Slideshot, One-Two Punch
+//notes:Inspired by DMB PvE Podcast 23. PvE first-choice roll for end-game content. Still worth looking at, even without an origin perk, with the update 4.1.5 buff to pellet shotguns. For boss damage, Full Choke keeps pellets together, Tactical Mag maximises magazine size with some additional useful buffs too, or Assault Mag allows for a quicker follow up shot if you miss a pellet with your first. The Slideshot gets you reloads on the fly and One-Two Punch is still good for major and boss damage - if you can get close enough!  Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-major, pve-boss, pve-champion, controller, mkb
+dimwishlist:item=346136302&perks=1047830412,106909392,3161816588,2679249093
+dimwishlist:item=346136302&perks=1047830412,791862061,3161816588,2679249093
+
+// Retold Tale (PvE backup roll)
+// Full Choke, (Appended Mag, Extended Mag), Slideshot, One-Two Punch
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for end-game content. Still worth looking at, even without an origin perk, with the update 4.1.5 buff to pellet shotguns. For boss damage, Full Choke keeps pellets together; Appended or Extended Mag only give the same mag sized as Tactical Mag, but Slideshot gets you reloads on the fly and One-Two Punch is still good for major and boss damage - if you can get close enough!  Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-major, pve-boss, pve-champion, controller, mkb
+dimwishlist:item=346136302&perks=1047830412,1087426260,3161816588,2679249093
+dimwishlist:item=346136302&perks=1047830412,2420895100,3161816588,2679249093
+
+// Retold Tale (PvE backup roll)
+// (Full Choke, Barrel Shroud, Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Assault Mag, Appended Mag, Extended Mag), (Slideshot, Field Prep, Lead From Gold), One-Two Punch
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for end-game content. Still worth looking at, even without an origin perk, with the update 4.1.5 buff to pellet shotguns. For boss damage, Full Choke keeps pellets together. Assault Mag helps with a follow-up shot if you miss a pellet, or Tactical Mag, Appended or Extended Mag all give the same +1 to mag size. Slideshot gets you reloads on the fly, Field Prep helps with both inventory or reloads, or Lead From Gold saves you running a finder/scavenger perk. One-Two Punch is still good for major and boss damage - if you can get close enough!  Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-endgame, pve-major, pve-boss, pve-champion, controller, mkb
+dimwishlist:item=346136302&perks=1300023272,791862061,3161816588,2679249093
+dimwishlist:item=346136302&perks=1840239774,791862061,3161816588,2679249093
+dimwishlist:item=346136302&perks=1482024992,791862061,3161816588,2679249093
+dimwishlist:item=346136302&perks=4090651448,791862061,3161816588,2679249093
+dimwishlist:item=346136302&perks=1300023272,106909392,3161816588,2679249093
+dimwishlist:item=346136302&perks=1840239774,106909392,3161816588,2679249093
+dimwishlist:item=346136302&perks=1482024992,106909392,3161816588,2679249093
+dimwishlist:item=346136302&perks=4090651448,106909392,3161816588,2679249093
+dimwishlist:item=346136302&perks=1300023272,1087426260,3161816588,2679249093
+dimwishlist:item=346136302&perks=1840239774,1087426260,3161816588,2679249093
+dimwishlist:item=346136302&perks=1482024992,1087426260,3161816588,2679249093
+dimwishlist:item=346136302&perks=4090651448,1087426260,3161816588,2679249093
+dimwishlist:item=346136302&perks=1300023272,2420895100,3161816588,2679249093
+dimwishlist:item=346136302&perks=1840239774,2420895100,3161816588,2679249093
+dimwishlist:item=346136302&perks=1482024992,2420895100,3161816588,2679249093
+dimwishlist:item=346136302&perks=4090651448,2420895100,3161816588,2679249093
+dimwishlist:item=346136302&perks=1047830412,791862061,2869569095,2679249093
+dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,2679249093
+dimwishlist:item=346136302&perks=1840239774,791862061,2869569095,2679249093
+dimwishlist:item=346136302&perks=1482024992,791862061,2869569095,2679249093
+dimwishlist:item=346136302&perks=4090651448,791862061,2869569095,2679249093
+dimwishlist:item=346136302&perks=1047830412,106909392,2869569095,2679249093
+dimwishlist:item=346136302&perks=1300023272,106909392,2869569095,2679249093
+dimwishlist:item=346136302&perks=1840239774,106909392,2869569095,2679249093
+dimwishlist:item=346136302&perks=1482024992,106909392,2869569095,2679249093
+dimwishlist:item=346136302&perks=4090651448,106909392,2869569095,2679249093
+dimwishlist:item=346136302&perks=1047830412,1087426260,2869569095,2679249093
+dimwishlist:item=346136302&perks=1300023272,1087426260,2869569095,2679249093
+dimwishlist:item=346136302&perks=1840239774,1087426260,2869569095,2679249093
+dimwishlist:item=346136302&perks=1482024992,1087426260,2869569095,2679249093
+dimwishlist:item=346136302&perks=4090651448,1087426260,2869569095,2679249093
+dimwishlist:item=346136302&perks=1047830412,2420895100,2869569095,2679249093
+dimwishlist:item=346136302&perks=1300023272,2420895100,2869569095,2679249093
+dimwishlist:item=346136302&perks=1840239774,2420895100,2869569095,2679249093
+dimwishlist:item=346136302&perks=1482024992,2420895100,2869569095,2679249093
+dimwishlist:item=346136302&perks=4090651448,2420895100,2869569095,2679249093
+dimwishlist:item=346136302&perks=1047830412,791862061,1556840489,2679249093
+dimwishlist:item=346136302&perks=1300023272,791862061,1556840489,2679249093
+dimwishlist:item=346136302&perks=1840239774,791862061,1556840489,2679249093
+dimwishlist:item=346136302&perks=1482024992,791862061,1556840489,2679249093
+dimwishlist:item=346136302&perks=4090651448,791862061,1556840489,2679249093
+dimwishlist:item=346136302&perks=1047830412,106909392,1556840489,2679249093
+dimwishlist:item=346136302&perks=1300023272,106909392,1556840489,2679249093
+dimwishlist:item=346136302&perks=1840239774,106909392,1556840489,2679249093
+dimwishlist:item=346136302&perks=1482024992,106909392,1556840489,2679249093
+dimwishlist:item=346136302&perks=4090651448,106909392,1556840489,2679249093
+dimwishlist:item=346136302&perks=1047830412,1087426260,1556840489,2679249093
+dimwishlist:item=346136302&perks=1300023272,1087426260,1556840489,2679249093
+dimwishlist:item=346136302&perks=1840239774,1087426260,1556840489,2679249093
+dimwishlist:item=346136302&perks=1482024992,1087426260,1556840489,2679249093
+dimwishlist:item=346136302&perks=4090651448,1087426260,1556840489,2679249093
+dimwishlist:item=346136302&perks=1047830412,2420895100,1556840489,2679249093
+dimwishlist:item=346136302&perks=1300023272,2420895100,1556840489,2679249093
+dimwishlist:item=346136302&perks=1840239774,2420895100,1556840489,2679249093
+dimwishlist:item=346136302&perks=1482024992,2420895100,1556840489,2679249093
+dimwishlist:item=346136302&perks=4090651448,2420895100,1556840489,2679249093
+
+// Retold Tale (PvE backup roll)
+// (Barrel Shroud, Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Assault Mag, Appended Mag, Extended Mag), (Slideshot, Field Prep, Lead From Gold), Vorpal Weapon
+//notes:Inspired by DMB PvE Podcast 23. PvE backup roll for general content. Still worth looking at, even without an origin perk, with the update 4.1.5 buff to pellet shotguns. For boss damage, Full Choke keeps pellets together. Assault Mag helps with a follow-up shot if you miss a pellet, or Tactical Mag, Appended or Extended Mag all give the same +1 to mag size. Slideshot gets you reloads on the fly, Field Prep helps with both inventory or reloads, or Lead From Gold saves you running a finder/scavenger perk. Vorpal Weapon adds a passive 15% damage buff to major and boss damage - if you can get close enough! Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-endgame, pve-major, pve-boss, pve-champion, controller, mkb
+dimwishlist:item=346136302&perks=1300023272,791862061,3161816588,1546637391
+dimwishlist:item=346136302&perks=1840239774,791862061,3161816588,1546637391
+dimwishlist:item=346136302&perks=1482024992,791862061,3161816588,1546637391
+dimwishlist:item=346136302&perks=4090651448,791862061,3161816588,1546637391
+dimwishlist:item=346136302&perks=1300023272,106909392,3161816588,1546637391
+dimwishlist:item=346136302&perks=1840239774,106909392,3161816588,1546637391
+dimwishlist:item=346136302&perks=1482024992,106909392,3161816588,1546637391
+dimwishlist:item=346136302&perks=4090651448,106909392,3161816588,1546637391
+dimwishlist:item=346136302&perks=1300023272,1087426260,3161816588,1546637391
+dimwishlist:item=346136302&perks=1840239774,1087426260,3161816588,1546637391
+dimwishlist:item=346136302&perks=1482024992,1087426260,3161816588,1546637391
+dimwishlist:item=346136302&perks=4090651448,1087426260,3161816588,1546637391
+dimwishlist:item=346136302&perks=1300023272,2420895100,3161816588,1546637391
+dimwishlist:item=346136302&perks=1840239774,2420895100,3161816588,1546637391
+dimwishlist:item=346136302&perks=1482024992,2420895100,3161816588,1546637391
+dimwishlist:item=346136302&perks=4090651448,2420895100,3161816588,1546637391
+dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,1546637391
+dimwishlist:item=346136302&perks=1840239774,791862061,2869569095,1546637391
+dimwishlist:item=346136302&perks=1482024992,791862061,2869569095,1546637391
+dimwishlist:item=346136302&perks=4090651448,791862061,2869569095,1546637391
+dimwishlist:item=346136302&perks=1300023272,106909392,2869569095,1546637391
+dimwishlist:item=346136302&perks=1840239774,106909392,2869569095,1546637391
+dimwishlist:item=346136302&perks=1482024992,106909392,2869569095,1546637391
+dimwishlist:item=346136302&perks=4090651448,106909392,2869569095,1546637391
+dimwishlist:item=346136302&perks=1300023272,1087426260,2869569095,1546637391
+dimwishlist:item=346136302&perks=1840239774,1087426260,2869569095,1546637391
+dimwishlist:item=346136302&perks=1482024992,1087426260,2869569095,1546637391
+dimwishlist:item=346136302&perks=4090651448,1087426260,2869569095,1546637391
+dimwishlist:item=346136302&perks=1300023272,2420895100,2869569095,1546637391
+dimwishlist:item=346136302&perks=1840239774,2420895100,2869569095,1546637391
+dimwishlist:item=346136302&perks=1482024992,2420895100,2869569095,1546637391
+dimwishlist:item=346136302&perks=4090651448,2420895100,2869569095,1546637391
+dimwishlist:item=346136302&perks=1300023272,791862061,1556840489,1546637391
+dimwishlist:item=346136302&perks=1840239774,791862061,1556840489,1546637391
+dimwishlist:item=346136302&perks=1482024992,791862061,1556840489,1546637391
+dimwishlist:item=346136302&perks=4090651448,791862061,1556840489,1546637391
+dimwishlist:item=346136302&perks=1300023272,106909392,1556840489,1546637391
+dimwishlist:item=346136302&perks=1840239774,106909392,1556840489,1546637391
+dimwishlist:item=346136302&perks=1482024992,106909392,1556840489,1546637391
+dimwishlist:item=346136302&perks=4090651448,106909392,1556840489,1546637391
+dimwishlist:item=346136302&perks=1300023272,1087426260,1556840489,1546637391
+dimwishlist:item=346136302&perks=1840239774,1087426260,1556840489,1546637391
+dimwishlist:item=346136302&perks=1482024992,1087426260,1556840489,1546637391
+dimwishlist:item=346136302&perks=4090651448,1087426260,1556840489,1546637391
+dimwishlist:item=346136302&perks=1300023272,2420895100,1556840489,1546637391
+dimwishlist:item=346136302&perks=1840239774,2420895100,1556840489,1546637391
+dimwishlist:item=346136302&perks=1482024992,2420895100,1556840489,1546637391
+dimwishlist:item=346136302&perks=4090651448,2420895100,1556840489,1546637391
+
+// Retold Tale (PvE first-choice roll)
+// (Barrel Shroud, Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Assault Mag, Appended Mag, Extended Mag), (Slideshot, Field Prep, Lead From Gold), Surrounded
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for general content. Still worth looking at, even without an origin perk, with the update 4.1.5 buff to pellet shotguns. For boss damage, Full Choke keeps pellets together. Assault Mag helps with a follow-up shot if you miss a pellet, or Tactical Mag, Appended or Extended Mag all give the same +1 to mag size. Slideshot gets you reloads on the fly, Field Prep helps with both inventory or reloads, or Lead From Gold saves you running a finder/scavenger perk. Surrounded and the Spec mod gives a 40% CQC damage boost in a crowd. Recommended MW: Handling, with a Surrounded Spec mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-major, controller, mkb
+dimwishlist:item=346136302&perks=1300023272,791862061,3161816588,3708227201
+dimwishlist:item=346136302&perks=1840239774,791862061,3161816588,3708227201
+dimwishlist:item=346136302&perks=1482024992,791862061,3161816588,3708227201
+dimwishlist:item=346136302&perks=4090651448,791862061,3161816588,3708227201
+dimwishlist:item=346136302&perks=1300023272,106909392,3161816588,3708227201
+dimwishlist:item=346136302&perks=1840239774,106909392,3161816588,3708227201
+dimwishlist:item=346136302&perks=1482024992,106909392,3161816588,3708227201
+dimwishlist:item=346136302&perks=4090651448,106909392,3161816588,3708227201
+dimwishlist:item=346136302&perks=1300023272,1087426260,3161816588,3708227201
+dimwishlist:item=346136302&perks=1840239774,1087426260,3161816588,3708227201
+dimwishlist:item=346136302&perks=1482024992,1087426260,3161816588,3708227201
+dimwishlist:item=346136302&perks=4090651448,1087426260,3161816588,3708227201
+dimwishlist:item=346136302&perks=1300023272,2420895100,3161816588,3708227201
+dimwishlist:item=346136302&perks=1840239774,2420895100,3161816588,3708227201
+dimwishlist:item=346136302&perks=1482024992,2420895100,3161816588,3708227201
+dimwishlist:item=346136302&perks=4090651448,2420895100,3161816588,3708227201
+dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,3708227201
+dimwishlist:item=346136302&perks=1840239774,791862061,2869569095,3708227201
+dimwishlist:item=346136302&perks=1482024992,791862061,2869569095,3708227201
+dimwishlist:item=346136302&perks=4090651448,791862061,2869569095,3708227201
+dimwishlist:item=346136302&perks=1300023272,106909392,2869569095,3708227201
+dimwishlist:item=346136302&perks=1840239774,106909392,2869569095,3708227201
+dimwishlist:item=346136302&perks=1482024992,106909392,2869569095,3708227201
+dimwishlist:item=346136302&perks=4090651448,106909392,2869569095,3708227201
+dimwishlist:item=346136302&perks=1300023272,1087426260,2869569095,3708227201
+dimwishlist:item=346136302&perks=1840239774,1087426260,2869569095,3708227201
+dimwishlist:item=346136302&perks=1482024992,1087426260,2869569095,3708227201
+dimwishlist:item=346136302&perks=4090651448,1087426260,2869569095,3708227201
+dimwishlist:item=346136302&perks=1300023272,2420895100,2869569095,3708227201
+dimwishlist:item=346136302&perks=1840239774,2420895100,2869569095,3708227201
+dimwishlist:item=346136302&perks=1482024992,2420895100,2869569095,3708227201
+dimwishlist:item=346136302&perks=4090651448,2420895100,2869569095,3708227201
+dimwishlist:item=346136302&perks=1300023272,791862061,1556840489,3708227201
+dimwishlist:item=346136302&perks=1840239774,791862061,1556840489,3708227201
+dimwishlist:item=346136302&perks=1482024992,791862061,1556840489,3708227201
+dimwishlist:item=346136302&perks=4090651448,791862061,1556840489,3708227201
+dimwishlist:item=346136302&perks=1300023272,106909392,1556840489,3708227201
+dimwishlist:item=346136302&perks=1840239774,106909392,1556840489,3708227201
+dimwishlist:item=346136302&perks=1482024992,106909392,1556840489,3708227201
+dimwishlist:item=346136302&perks=4090651448,106909392,1556840489,3708227201
+dimwishlist:item=346136302&perks=1300023272,1087426260,1556840489,3708227201
+dimwishlist:item=346136302&perks=1840239774,1087426260,1556840489,3708227201
+dimwishlist:item=346136302&perks=1482024992,1087426260,1556840489,3708227201
+dimwishlist:item=346136302&perks=4090651448,1087426260,1556840489,3708227201
+dimwishlist:item=346136302&perks=1300023272,2420895100,1556840489,3708227201
+dimwishlist:item=346136302&perks=1840239774,2420895100,1556840489,3708227201
+dimwishlist:item=346136302&perks=1482024992,2420895100,1556840489,3708227201
+dimwishlist:item=346136302&perks=4090651448,2420895100,1556840489,3708227201
+
+// Sleepless (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Alloy Casing, Field Prep, Demolitionist
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for general content. Middle of the road for raw damage, so not optimal for endgame activities. If you're using for single-weapon sustained damage against Bosses, you'll want to get as many rockets out as possible within a damage phase. Quick Launch or Smart Drift Control help both velocity and handling, Alloy Casing speeds up reloads, as does Field Prep (which gives you an extra rocket in reserves too), and Demolitionist gives you a second quick initial shot when you throw a grenade to reload. Recommended MW: Reload Speed, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-major, pve-boss, controller, mkb
+dimwishlist:item=3740842661&perks=3525010810,2985827016,2869569095,3523296417
+dimwishlist:item=3740842661&perks=3798852852,2985827016,2869569095,3523296417
+
+// Sleepless (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Impact Casing, Auto-Loading Holster, (Demolitionist, Vorpal Weapon)
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for general content. Middle of the road for raw damage, so not optimal for endgame activities. If you're using for sustained damage against Bosses with a special weapon, you'll want be able to swap quickly to continue damage while Auto-Loading Holster kicks in. Quick Launch or Smart Drift Control help both velocity and handling, Impact Casing boosts damage, Auto-Loading Holster does it's job while you're continuing damage, and then either Demolitionist gives you a second quick initial shot when you throw a grenade to reload or Vorpal Weapon gives a flat 10% damage boost. Recommended MW: Velocity or Handling, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-major, pve-boss, controller, mkb
+dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,3523296417
+dimwishlist:item=3740842661&perks=3798852852,3796465595,3300816228,3523296417
+dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,1546637391
+dimwishlist:item=3740842661&perks=3798852852,3796465595,3300816228,1546637391
+
+// Sleepless (PvE first-choice roll)
+// Confined Launch, Impact Casing, Tracking Module, (Demolitionist, Vorpal Weapon)
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for general content. Middle of the road for raw damage, so not optimal for endgame activities. If you're using for burst damage against a single target, using Tracking Module, you'll want the rocket to travel as slowly as possible, to be able to correct for any jinking or teleporting. Impact Casing boosts damage and then either Demolitionist gives you a second quick initial shot when you throw a grenade to reload or Vorpal Weapon gives a flat 10% damage boost. Recommended MW: Reload Speed, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-major, pve-major, controller, mkb
+dimwishlist:item=3740842661&perks=1844523823,3796465595,3977735242,3523296417
+dimwishlist:item=3740842661&perks=1844523823,3796465595,3977735242,1546637391
+
+// Sleepless (PvE first-choice roll)
+// Linear Compensator, Black Powder, (Auto-Loading Holster, Field Prep), Chain Reaction
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. Middle of the road for raw damage, but the largest blast radius of any subtype. Maximise the blast radius with barrel and mag, and then Field Prep helps with reloads and inventory or Auto-Loading Holster lets you put the launcher away to focus on other enemies. Chain Reaction can help clear beefier adds in a crowd with minors. Recommended MW: Velocity, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-major, controller, mkb
+dimwishlist:item=3740842661&perks=1441682018,1996142143,3977735242,2396489472
+dimwishlist:item=3740842661&perks=1441682018,1996142143,2869569095,2396489472
+
+// Sleepless (PvE first-choice roll)
+// Volatile Launch, High-Velocity Rounds, (Auto-Loading Holster, Field Prep), Chain Reaction
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. Middle of the road for raw damage, but the largest blast radius of any subtype. Maximise the blast radius with barrel and mag, and then Field Prep helps with reloads and inventory or Auto-Loading Holster lets you put the launcher away to focus on other enemies. Chain Reaction can help clear beefier adds in a crowd with minors. Recommended MW: Velocity, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-major, controller, mkb
+dimwishlist:item=3740842661&perks=1478423395,2822142346,3977735242,2396489472
+dimwishlist:item=3740842661&perks=1478423395,2822142346,2869569095,2396489472
+
+// Nation of Beasts (PvE first-choice roll)
+// Full Bore, Light Mag, Outlaw, Dragonfly
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for general content. The curated roll is the old "Fakebringer", pairing Outlaw and Dragonfly for fun in general content. Recommended MW: Stability or Handling, with a Backup Mag or damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, controller, mkb
+dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171
+
+// Nation of Beasts (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore), Tactical Mag, (Outlaw, Ambitious Assassin), Explosive Payload
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. Round out the stats with barrel and mag. Both Ambitious Assassin and Outlaw have their place in the first trait column, and then Explosive Rounds adds damage and flinch, and helps with anti-Champion mods. Recommended MW: Stability or Handling, with a Backup Mag or damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, pve-champion, controller, mkb
+dimwishlist:item=654370424&perks=1840239774,106909392,2010801679,3038247973
+dimwishlist:item=654370424&perks=4090651448,106909392,2010801679,3038247973
+dimwishlist:item=654370424&perks=1482024992,106909392,2010801679,3038247973
+dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,3038247973
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3038247973
+
+// Nation of Beasts (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore), Tactical Mag, (Outlaw, Ambitious Assassin), Rampage
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for general content. Round out the stats with barrel and mag. Both Ambitious Assassin and Outlaw have their place in the first trait column, and then Rampage is a reliable damage boost in non-endgame content. Recommended MW: Stability or Handling, with Rampage Spec, Backup Mag or a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, controller, mkb
+dimwishlist:item=654370424&perks=1840239774,106909392,2010801679,3425386926
+dimwishlist:item=654370424&perks=4090651448,106909392,2010801679,3425386926
+dimwishlist:item=654370424&perks=1482024992,106909392,2010801679,3425386926
+dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3425386926
+
+// Tyranny of Heaven (PvE first-choice roll)
+// Elastic String, Compact Arrow Shaft, Archer's Tempo, Explosive Head
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. Although suffering by comparison with the Precision bow subtype, if you've got a good roll, it's maybe worth hanging onto in case they ever get a bit of love. Your aim is to maximise damage output by getting as many arrows into opponents as possible, so get the Reload and Draw Speed down as far as possible with your bowstring and arrow. Archer's Tempo helps further speed up your RPM and Explosive Head boosts damage, adds flinch and helps with anti-champion mods. Recommended MW: Reload or Draw Time, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-minor, pve-champion, controller, mkb
+dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133
+
+// Apex Predator (PvE first-choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Ambitious Assassin, Kill CLip
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. The highest damage subtype. Improve the Velocity with the barrel and damage with Impact Casing. Then, if you can get a kill before you need burst damage against a major or champion, you can reload for two shots with +33% damage with the Ambitious Assassin and Kill Clip combination. Recommended MW: Reload, with a damage boosting (Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-major, pve-champion, controller, mkb
+dimwishlist:item=2545083870&perks=981914802,3796465595,2010801679,1015611457
+dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,1015611457
+dimwishlist:item=2545083870&perks=1441682018,3796465595,2010801679,1015611457
+dimwishlist:item=2545083870&perks=3798852852,3796465595,2010801679,1015611457
+
+// Apex Predator (PvE first-choice roll)
+// Confined Launch, Impact Casing, Tracking Module, Auto-Loading Holster
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. The highest damage subtype. Reduce the velocity with the barrel to improve the performance of Tracking Module, and improve damage with Impact Casing in the mag. Then pair with a boss damage special weapon, and let Auto-Loading Holster do its job after firing while you continue with a sustained damage phase. Recommended MW: Handling, with a damage boosting (Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-boss, controller, mkb
+dimwishlist:item=2545083870&perks=1844523823,3796465595,3977735242,3300816228
