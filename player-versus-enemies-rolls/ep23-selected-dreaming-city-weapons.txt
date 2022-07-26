@@ -317,5 +317,5 @@ dimwishlist:item=2545083870&perks=3798852852,3796465595,2010801679,1015611457
 
 // Apex Predator (PvE first-choice roll)
 // Confined Launch, Impact Casing, Tracking Module, Auto-Loading Holster
-//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. The highest damage subtype. Reduce the velocity with the barrel to improve the performance of Tracking Module, and improve damage with Impact Casing in the mag. Then pair with a boss damage special weapon, and let Auto-Loading Holster do its job after firing while you continue with a sustained damage phase. Recommended MW: Handling, with a damage boosting (Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-boss, controller, mkb
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. The highest damage subtype. Reduce the velocity with the barrel to improve the performance of Tracking Module, and improve damage with Impact Casing in the mag. Then pair with a boss damage special weapon, and let Auto-Loading Holster do its job after firing while you continue with a sustained damage phase. Recommended MW: Handling, with a damage boosting (Boss or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-boss, controller, mkb
 dimwishlist:item=2545083870&perks=1844523823,3796465595,3977735242,3300816228
