@@ -309,7 +309,7 @@ dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133
 
 // Apex Predator (PvE first-choice roll)
 // (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), Impact Casing, Ambitious Assassin, Kill CLip
-//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. The highest damage subtype. Improve the Velocity with the barrel and damage with Impact Casing. Then, if you can get a kill before you need burst damage against a major or champion, you can reload for two shots with +33% damage with the Ambitious Assassin and Kill Clip combination. Recommended MW: Reload, with a damage boosting (Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-major, pve-champion, controller, mkb
+//notes:Inspired by DMB PvE Podcast 23. PvE first choice roll for endgame content. The highest damage subtype. Improve the Velocity with the barrel, and damage with Impact Casing. Then, if you can get a kill before you need burst damage against a major or champion, you can reload for two shots with +33% damage with the Ambitious Assassin and Kill Clip combination. Recommended MW: Reload, with a damage boosting (Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-god, pve-major, pve-champion, controller, mkb
 dimwishlist:item=2545083870&perks=981914802,3796465595,2010801679,1015611457
 dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,1015611457
 dimwishlist:item=2545083870&perks=1441682018,3796465595,2010801679,1015611457
