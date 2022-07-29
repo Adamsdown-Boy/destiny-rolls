@@ -38,12 +38,12 @@ dimwishlist:item=1856262127&perks=1840239774,1087426260,2779035018,3523296417
 // Something New (PvE backup roll)
 // Fluted Barrel, (Flared Magwell, Light Mag, Appended Mag), Wellspring, (Demolitionist, Thresh)
 //notes:Inspired by DMB PvE Podcast 24. PvE backup roll for general content. Use the barrel and mag to help out with the poor Handling, and Reload Speed. In general use, you can maximise ability regeneration with Wellspring and either Demolitionist or Thresh. Recommended MW: Reload Speed or Handling, with a Backup Mag mod. Tags: pve, pve-minor, controller, mkb
-dimwishlist:item=1856262127&perks=1840239774,3230963543,2621346526,3523296417
-dimwishlist:item=1856262127&perks=1840239774,679225683,2621346526,3523296417
-dimwishlist:item=1856262127&perks=1840239774,1087426260,2621346526,3523296417
-dimwishlist:item=1856262127&perks=1840239774,3230963543,2621346526,2726471870
-dimwishlist:item=1856262127&perks=1840239774,679225683,2621346526,2726471870
-dimwishlist:item=1856262127&perks=1840239774,1087426260,2621346526,2726471870
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,679225683,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,2726471870
+dimwishlist:item=1856262127&perks=1840239774,679225683,3592538738,2726471870
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,2726471870
 
 // Compass Rose (PvE first choice roll)
 // (Smallbore, Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Lead From Gold, Golden Tricorn
