@@ -3,14 +3,14 @@
 
 // The Last Breath (PvE first-choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), Demolitionist, Osmosis
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-solo, pve-minor, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2. In the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-solo, pve-minor, controller, mkb
 dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,1774574192
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,1774574192
 
 // The Last Breath (PvE backup roll)
 // (Polygonal Riling, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), Demolitionist, Osmosis
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate with the barrel, and one of the Combat Effect magazines adds a little range and a utility effect. For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Range, Stability or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-solo, pve-minor, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2. In the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate with the barrel, and one of the Combat Effect magazines adds a little range and a utility effect. For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Range, Stability or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-solo, pve-minor, controller, mkb
 dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=1482024992,1968497646,3523296417,1774574192
 dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,1774574192
@@ -26,29 +26,29 @@ dimwishlist:item=507038823&perks=3250034553,1885400500,3523296417,1774574192
 
 // The Last Breath (PvE first-choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), Demolitionist, Adrenaline Junkie
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
-dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,2422968039
-dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,2422968039
-dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,2422968039
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2. In the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,11612903
+dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,11612903
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903
 
 // The Last Breath (PvE backup roll)
-//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor, controller, mkb
-dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,2422968039
-dimwishlist:item=507038823&perks=1482024992,1968497646,3523296417,2422968039
-dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,2422968039
-dimwishlist:item=507038823&perks=3250034553,1968497646,3523296417,2422968039
-dimwishlist:item=507038823&perks=1392496348,1561002382,3523296417,2422968039
-dimwishlist:item=507038823&perks=1482024992,1561002382,3523296417,2422968039
-dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,2422968039
-dimwishlist:item=507038823&perks=3250034553,1561002382,3523296417,2422968039
-dimwishlist:item=507038823&perks=1392496348,1885400500,3523296417,2422968039
-dimwishlist:item=507038823&perks=1482024992,1885400500,3523296417,2422968039
-dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,2422968039
-dimwishlist:item=507038823&perks=3250034553,1885400500,3523296417,2422968039
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2. In the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,11612903
+dimwishlist:item=507038823&perks=1482024992,1968497646,3523296417,11612903
+dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,11612903
+dimwishlist:item=507038823&perks=3250034553,1968497646,3523296417,11612903
+dimwishlist:item=507038823&perks=1392496348,1561002382,3523296417,11612903
+dimwishlist:item=507038823&perks=1482024992,1561002382,3523296417,11612903
+dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,11612903
+dimwishlist:item=507038823&perks=3250034553,1561002382,3523296417,11612903
+dimwishlist:item=507038823&perks=1392496348,1885400500,3523296417,11612903
+dimwishlist:item=507038823&perks=1482024992,1885400500,3523296417,11612903
+dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,11612903
+dimwishlist:item=507038823&perks=3250034553,1885400500,3523296417,11612903
 
 // The Last Breath (PvE first-choice roll)
 // Arrowhead Brake, (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Ensemble, Subsistence), (One For All, Frenzy)
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Ensemble works well to assist reloads in a fireteam, or Subsistence helps top up your mag if you're isolated. Frenzy or One For All are good passive damage boosts. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2. In the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Ensemble works well to assist reloads in a fireteam, or Subsistence helps top up your mag if you're isolated. Frenzy or One For All are good passive damage boosts. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
 dimwishlist:item=507038823&perks=839105230,1968497646,2621346526,4049631843
 dimwishlist:item=507038823&perks=839105230,1561002382,2621346526,4049631843
 dimwishlist:item=507038823&perks=839105230,1885400500,2621346526,4049631843
@@ -64,7 +64,7 @@ dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4104185692
 
 // The Last Breath (PvE backup roll)
 // (Polygonal Riling, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Ensemble, Subsistence), (One For All, Frenzy)
-//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Ensemble works well to assist reloads in a fireteam, or Subsistence helps top up your mag if you're isolated. Frenzy or One For All are good passive damage boosts. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2. In the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Ensemble works well to assist reloads in a fireteam, or Subsistence helps top up your mag if you're isolated. Frenzy or One For All are good passive damage boosts. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor, controller, mkb
 dimwishlist:item=507038823&perks=1392496348,1968497646,2621346526,4049631843
 dimwishlist:item=507038823&perks=1482024992,1968497646,2621346526,4049631843
 dimwishlist:item=507038823&perks=4090651448,1968497646,2621346526,4049631843
@@ -164,7 +164,7 @@ dimwishlist:item=1476654960&perks=1926090093,1087426260,2621346526,1954620775
 
 // A Swift Verdict (PvE first-choice roll)
 // (QuickDot SAS, Control SAS, Shortspec SAS), (Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Threat Detector, Surrounded
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Sidearms are a... brave choice for endgame content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. If you're going to embrace CQC, then Threat Detector and Surrounded (with the Spec mod for +40% damage) are your obvious choices. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: pve, pve-god, pve-minor, pve-endgame, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Sidearms are a... brave choice of Primary for endgame content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. If you're going to embrace CQC, then Threat Detector and Surrounded (with the Spec mod for +40% damage) are your obvious choices. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: pve, pve-god, pve-minor, pve-endgame, controller, mkb
 dimwishlist:item=1626503676&perks=445755706,3230963543,4071163871,3708227201
 dimwishlist:item=1626503676&perks=445755707,3230963543,4071163871,3708227201
 dimwishlist:item=1626503676&perks=445755705,3230963543,4071163871,3708227201
@@ -180,7 +180,7 @@ dimwishlist:item=1626503676&perks=445755705,1885400500,4071163871,3708227201
 
 // A Swift Verdict (PvE first-choice roll)
 // (QuickDot SAS, Control SAS, Shortspec SAS), Armor-Piercing Rounds, (Threat Detector, Surplus), Disruption Break
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Sidearms are a... brave choice for endgame content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. This does drop with the combination of Armor-Piercing Rounds and Disruption Break, which makes it a strong choice for Barrier Champions, when the corresponding mod is in play. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Major Spec mod. Tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Sidearms are a... brave choice of Primary for endgame content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. This does drop with the combination of Armor-Piercing Rounds and Disruption Break, which makes it a strong choice for Barrier Champions, when the corresponding mod is in play. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Major Spec mod. Tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, controller, mkb
 dimwishlist:item=1626503676&perks=445755706,1968497646,4071163871,1683379515
 dimwishlist:item=1626503676&perks=445755707,1968497646,4071163871,1683379515
 dimwishlist:item=1626503676&perks=445755705,1968497646,4071163871,1683379515
@@ -372,15 +372,13 @@ dimwishlist:item=3326850591&perks=1840239774,1087426260,2621346526,1771339417
 dimwishlist:item=3326850591&perks=4090651448,1087426260,2621346526,1771339417
 
 // The Long Walk (PvE backup roll)
-// (Polygoal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Overflow, Firing Line
+// (Polygoal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Appended Mag, Extended Mag), Overflow, Firing Line
 //notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Rapid Fire Snipers are, as at S17 v4.1.5.2, the best DPS option, but aggressive frames still put out decent damage. Keep shots on target with a stability barrel, then Appended/Extended Mag gets you to the max mag size. Overflow bypasses Extended Mag's slow reload, and Firing Line gives +20% damage when you're in a fireteam. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
 dimwishlist:item=3326850591&perks=1392496348,1087426260,3643424744,1771339417
 dimwishlist:item=3326850591&perks=1482024992,1087426260,3643424744,1771339417
 dimwishlist:item=3326850591&perks=1840239774,1087426260,3643424744,1771339417
 dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,1771339417
-dimwishlist:item=3326850591&perks=1392496348,3643424744,3643424744,1771339417
-dimwishlist:item=3326850591&perks=1482024992,3643424744,3643424744,1771339417
-dimwishlist:item=3326850591&perks=1840239774,3643424744,3643424744,1771339417
-dimwishlist:item=3326850591&perks=4090651448,3643424744,3643424744,1771339417
-
-
+dimwishlist:item=3326850591&perks=1392496348,2420895100,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1482024992,2420895100,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1840239774,2420895100,3643424744,1771339417
+dimwishlist:item=3326850591&perks=4090651448,2420895100,3643424744,1771339417
