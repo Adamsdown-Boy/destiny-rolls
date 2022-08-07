@@ -1,0 +1,386 @@
+@title:Prophecy weapons
+@description:Reprised Trials of the Nine weapons dropping from the Prophecy dungeon
+
+// The Last Breath (PvE first-choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), Demolitionist, Osmosis
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-solo, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,1774574192
+dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,1774574192
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,1774574192
+
+// The Last Breath (PvE backup roll)
+// (Polygonal Riling, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), Demolitionist, Osmosis
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate with the barrel, and one of the Combat Effect magazines adds a little range and a utility effect. For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Range, Stability or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-solo, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,1774574192
+dimwishlist:item=507038823&perks=1482024992,1968497646,3523296417,1774574192
+dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,1774574192
+dimwishlist:item=507038823&perks=3250034553,1968497646,3523296417,1774574192
+dimwishlist:item=507038823&perks=1392496348,1561002382,3523296417,1774574192
+dimwishlist:item=507038823&perks=1482024992,1561002382,3523296417,1774574192
+dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,1774574192
+dimwishlist:item=507038823&perks=3250034553,1561002382,3523296417,1774574192
+dimwishlist:item=507038823&perks=1392496348,1885400500,3523296417,1774574192
+dimwishlist:item=507038823&perks=1482024992,1885400500,3523296417,1774574192
+dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,1774574192
+dimwishlist:item=507038823&perks=3250034553,1885400500,3523296417,1774574192
+
+// The Last Breath (PvE first-choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,2422968039
+dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,2422968039
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,2422968039
+
+// The Last Breath (PvE backup roll)
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=1392496348,1968497646,3523296417,2422968039
+dimwishlist:item=507038823&perks=1482024992,1968497646,3523296417,2422968039
+dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,2422968039
+dimwishlist:item=507038823&perks=3250034553,1968497646,3523296417,2422968039
+dimwishlist:item=507038823&perks=1392496348,1561002382,3523296417,2422968039
+dimwishlist:item=507038823&perks=1482024992,1561002382,3523296417,2422968039
+dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,2422968039
+dimwishlist:item=507038823&perks=3250034553,1561002382,3523296417,2422968039
+dimwishlist:item=507038823&perks=1392496348,1885400500,3523296417,2422968039
+dimwishlist:item=507038823&perks=1482024992,1885400500,3523296417,2422968039
+dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,2422968039
+dimwishlist:item=507038823&perks=3250034553,1885400500,3523296417,2422968039
+
+// The Last Breath (PvE first-choice roll)
+// Arrowhead Brake, (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Ensemble, Subsistence), (One For All, Frenzy)
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Ensemble works well to assist reloads in a fireteam, or Subsistence helps top up your mag if you're isolated. Frenzy or One For All are good passive damage boosts. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=839105230,1968497646,2621346526,4049631843
+dimwishlist:item=507038823&perks=839105230,1561002382,2621346526,4049631843
+dimwishlist:item=507038823&perks=839105230,1885400500,2621346526,4049631843
+dimwishlist:item=507038823&perks=839105230,1968497646,1820235745,4049631843
+dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,4049631843
+dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4049631843
+dimwishlist:item=507038823&perks=839105230,1968497646,2621346526,4104185692
+dimwishlist:item=507038823&perks=839105230,1561002382,2621346526,4104185692
+dimwishlist:item=507038823&perks=839105230,1885400500,2621346526,4104185692
+dimwishlist:item=507038823&perks=839105230,1968497646,1820235745,4104185692
+dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,4104185692
+dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4104185692
+
+// The Last Breath (PvE backup roll)
+// (Polygonal Riling, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Ensemble, Subsistence), (One For All, Frenzy)
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Adaptive auto-rifles are still pretty competitive as at S17 v4.1.5.2, and in the same slot as Duty Bound or Scathelocke, which both have better Zoom, so you might need a touch of either range or stability, depending on preference, to compensate. Arrowhead Brake helps tidy up the wonky recoil and one of the Combat Effect magazines adds a little range and some utility effect. For end-game content, Ensemble works well to assist reloads in a fireteam, or Subsistence helps top up your mag if you're isolated. Frenzy or One For All are good passive damage boosts. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability, Range or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=507038823&perks=1392496348,1968497646,2621346526,4049631843
+dimwishlist:item=507038823&perks=1482024992,1968497646,2621346526,4049631843
+dimwishlist:item=507038823&perks=4090651448,1968497646,2621346526,4049631843
+dimwishlist:item=507038823&perks=3250034553,1968497646,2621346526,4049631843
+dimwishlist:item=507038823&perks=1392496348,1561002382,2621346526,4049631843
+dimwishlist:item=507038823&perks=1482024992,1561002382,2621346526,4049631843
+dimwishlist:item=507038823&perks=4090651448,1561002382,2621346526,4049631843
+dimwishlist:item=507038823&perks=3250034553,1561002382,2621346526,4049631843
+dimwishlist:item=507038823&perks=1392496348,1885400500,2621346526,4049631843
+dimwishlist:item=507038823&perks=1482024992,1885400500,2621346526,4049631843
+dimwishlist:item=507038823&perks=4090651448,1885400500,2621346526,4049631843
+dimwishlist:item=507038823&perks=3250034553,1885400500,2621346526,4049631843
+dimwishlist:item=507038823&perks=1392496348,1968497646,1820235745,4049631843
+dimwishlist:item=507038823&perks=1482024992,1968497646,1820235745,4049631843
+dimwishlist:item=507038823&perks=4090651448,1968497646,1820235745,4049631843
+dimwishlist:item=507038823&perks=3250034553,1968497646,1820235745,4049631843
+dimwishlist:item=507038823&perks=1392496348,1561002382,1820235745,4049631843
+dimwishlist:item=507038823&perks=1482024992,1561002382,1820235745,4049631843
+dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,4049631843
+dimwishlist:item=507038823&perks=3250034553,1561002382,1820235745,4049631843
+dimwishlist:item=507038823&perks=1392496348,1885400500,1820235745,4049631843
+dimwishlist:item=507038823&perks=1482024992,1885400500,1820235745,4049631843
+dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,4049631843
+dimwishlist:item=507038823&perks=3250034553,1885400500,1820235745,4049631843
+dimwishlist:item=507038823&perks=1392496348,1968497646,2621346526,4104185692
+dimwishlist:item=507038823&perks=1482024992,1968497646,2621346526,4104185692
+dimwishlist:item=507038823&perks=4090651448,1968497646,2621346526,4104185692
+dimwishlist:item=507038823&perks=3250034553,1968497646,2621346526,4104185692
+dimwishlist:item=507038823&perks=1392496348,1561002382,2621346526,4104185692
+dimwishlist:item=507038823&perks=1482024992,1561002382,2621346526,4104185692
+dimwishlist:item=507038823&perks=4090651448,1561002382,2621346526,4104185692
+dimwishlist:item=507038823&perks=3250034553,1561002382,2621346526,4104185692
+dimwishlist:item=507038823&perks=1392496348,1885400500,2621346526,4104185692
+dimwishlist:item=507038823&perks=1482024992,1885400500,2621346526,4104185692
+dimwishlist:item=507038823&perks=4090651448,1885400500,2621346526,4104185692
+dimwishlist:item=507038823&perks=3250034553,1885400500,2621346526,4104185692
+dimwishlist:item=507038823&perks=1392496348,1968497646,1820235745,4104185692
+dimwishlist:item=507038823&perks=1482024992,1968497646,1820235745,4104185692
+dimwishlist:item=507038823&perks=4090651448,1968497646,1820235745,4104185692
+dimwishlist:item=507038823&perks=3250034553,1968497646,1820235745,4104185692
+dimwishlist:item=507038823&perks=1392496348,1561002382,1820235745,4104185692
+dimwishlist:item=507038823&perks=1482024992,1561002382,1820235745,4104185692
+dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,4104185692
+dimwishlist:item=507038823&perks=3250034553,1561002382,1820235745,4104185692
+dimwishlist:item=507038823&perks=1392496348,1885400500,1820235745,4104185692
+dimwishlist:item=507038823&perks=1482024992,1885400500,1820235745,4104185692
+dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,4104185692
+dimwishlist:item=507038823&perks=3250034553,1885400500,1820235745,4104185692
+
+// Judgment (PvE first-choice roll)
+// Fastdraw HCS, (Tactical Mag, Appended Mag), Demolitionist, Osmosis
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, pve-endgame, pve-solo, controller, mkb
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090094,1087426260,3523296417,1774574192
+
+// Judgment (PvE backup roll)
+// (SteadyHand HCS, TrueSight HCS, Hitmark HCS), (Tactical Mag, Appended Mag), Demolitionist, Osmosis
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game, particularly solo, content, it's difficult to top Demolitionist and Osmosis to give you an additional element to help break shields. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor, pve-endgame, pve-solo, controller, mkb
+dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090092,106909392,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090093,106909392,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090095,1087426260,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090092,1087426260,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090093,1087426260,3523296417,1774574192
+
+// Judgment (PvE first-choice roll)
+// Fastdraw HCS, (Tactical Mag, Appended Mag), Demolitionist, 
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, pve-endgame, controller, mkb
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903
+dimwishlist:item=1476654960&perks=1926090094,1087426260,3523296417,11612903
+
+// Judgment (PvE backup roll)
+// (SteadyHand HCS, TrueSight HCS, Hitmark HCS), (Tactical Mag, Appended Mag), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game content, Demolitionist and Adrenaline Junkie is a natural pairing, for grenade-based builds. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor, pve-endgame, controller, mkb
+dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,11612903
+dimwishlist:item=1476654960&perks=1926090092,106909392,3523296417,11612903
+dimwishlist:item=1476654960&perks=1926090093,106909392,3523296417,11612903
+dimwishlist:item=1476654960&perks=1926090095,1087426260,3523296417,11612903
+dimwishlist:item=1476654960&perks=1926090092,1087426260,3523296417,11612903
+dimwishlist:item=1476654960&perks=1926090093,1087426260,3523296417,11612903
+
+// Judgment (PvE first-choice roll)
+// Fastdraw HCS, (Tactical Mag, Appended Mag), 
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game content, Ensemble helps speed reloads and Timed Payload adds damage, helps with Overload stuns and can proc Explosive Wellmaker. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, controller, mkb
+dimwishlist:item=1476654960&perks=1926090094,106909392,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090094,1087426260,2621346526,1954620775
+
+// Judgment (PvE backup roll)
+// (SteadyHand HCS, TrueSight HCS, Hitmark HCS), (Tactical Mag, Appended Mag), Ensemble, Timed Payload
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Very stiff competition in-slot from Fatebringer, Eyasluna and DFA, but there are a few trait combinations that help claim a spot in your Vault. Look to boost Handling and Stability with sight and mag, to help gunfeel (or maybe add a bullet or two). For end-game content, Ensemble helps speed reloads and Timed Payload adds damage, helps with Overload stuns and can proc Explosive Wellmaker. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor, pve-endgame, pve-champion, controller, mkb
+dimwishlist:item=1476654960&perks=1926090095,106909392,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090092,106909392,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090093,106909392,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090095,1087426260,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090092,1087426260,2621346526,1954620775
+dimwishlist:item=1476654960&perks=1926090093,1087426260,2621346526,1954620775
+
+// A Swift Verdict (PvE first-choice roll)
+// (QuickDot SAS, Control SAS, Shortspec SAS), (Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Threat Detector, Surrounded
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Sidearms are a... brave choice for endgame content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. If you're going to embrace CQC, then Threat Detector and Surrounded (with the Spec mod for +40% damage) are your obvious choices. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: pve, pve-god, pve-minor, pve-endgame, controller, mkb
+dimwishlist:item=1626503676&perks=445755706,3230963543,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755707,3230963543,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755705,3230963543,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755706,1968497646,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755707,1968497646,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755705,1968497646,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755706,1561002382,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755707,1561002382,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755705,1561002382,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755706,1885400500,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755707,1885400500,4071163871,3708227201
+dimwishlist:item=1626503676&perks=445755705,1885400500,4071163871,3708227201
+
+// A Swift Verdict (PvE first-choice roll)
+// (QuickDot SAS, Control SAS, Shortspec SAS), Armor-Piercing Rounds, (Threat Detector, Surplus), Disruption Break
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Sidearms are a... brave choice for endgame content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. This does drop with the combination of Armor-Piercing Rounds and Disruption Break, which makes it a strong choice for Barrier Champions, when the corresponding mod is in play. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Major Spec mod. Tags: pve, pve-god, pve-minor, pve-endgame, pve-champion, controller, mkb
+dimwishlist:item=1626503676&perks=445755706,1968497646,4071163871,1683379515
+dimwishlist:item=1626503676&perks=445755707,1968497646,4071163871,1683379515
+dimwishlist:item=1626503676&perks=445755705,1968497646,4071163871,1683379515
+dimwishlist:item=1626503676&perks=445755706,1968497646,3436462433,1683379515
+dimwishlist:item=1626503676&perks=445755707,1968497646,3436462433,1683379515
+dimwishlist:item=1626503676&perks=445755705,1968497646,3436462433,1683379515
+
+// A Swift Verdict (PvE first-choice roll)
+// (QuickDot SAS, Control SAS, Shortspec SAS), (Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Surplus, AWellspring
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for general content. Handling and Stability could both do with some help from sight and mag, or the Combat Effect mags are always useful. Surplus and Wellspring is an obvious pairing for boosting ability use. Drops from the second (Hexahedron Room) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, controller, mkb
+dimwishlist:item=1626503676&perks=445755706,3230963543,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755707,3230963543,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755705,3230963543,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755706,1968497646,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755707,1968497646,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755705,1968497646,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755706,1561002382,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755707,1561002382,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755705,1561002382,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755706,1885400500,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755707,1885400500,3436462433,3592538738
+dimwishlist:item=1626503676&perks=445755705,1885400500,3436462433,3592538738
+
+// Darkest Before (PvE first-choice roll)
+// Arrowhead Brake, (Alloy Mag, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), (Overflow, Surplus), One For All
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. In the same slot as Horror's Least, so there's some competition for your love. Help out the wonky Recoil Direction with Arrowhead Brake, and then you can either build into the Rapid-fire intrinsic perk with Alloy Mag, or just use a Combat Effect mag. Overflow or Surplus and One for All are the only really end-game content choices. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, controller, mkb
+dimwishlist:item=2481758391&perks=839105230,1431678320,3643424744,4049631843
+dimwishlist:item=2481758391&perks=839105230,1968497646,3643424744,4049631843
+dimwishlist:item=2481758391&perks=839105230,1561002382,3643424744,4049631843
+dimwishlist:item=2481758391&perks=839105230,1885400500,3643424744,4049631843
+dimwishlist:item=2481758391&perks=839105230,1431678320,3436462433,4049631843
+dimwishlist:item=2481758391&perks=839105230,1968497646,3436462433,4049631843
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4049631843
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,4049631843
+
+// Darkest Before (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Alloy Mag, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), (Overflow, Surplus), One For All
+//notes:Inspired by DMB PvE Podcast 25 PvE backup roll for end-game content. In the same slot as Horror's Least, so there's some competition for your love. Constrain the recoil with a Stability barrel, and then you can either build into the Rapid-fire intrinsic perk with Alloy Mag, or just use a Combat Effect mag. Overflow or Surplus and One for All are the only really end-game content choices. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-minor, pve-endgame, controller, mkb
+dimwishlist:item=2481758391&perks=1392496348,1431678320,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1431678320,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1431678320,3643424744,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1431678320,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1968497646,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1968497646,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1968497646,3643424744,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1968497646,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1561002382,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1561002382,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1561002382,3643424744,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1561002382,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1885400500,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1885400500,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1885400500,3643424744,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1431678320,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1431678320,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1431678320,3436462433,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1431678320,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1968497646,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1968497646,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1968497646,3436462433,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1968497646,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1561002382,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1561002382,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1561002382,3436462433,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1561002382,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1392496348,1885400500,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1482024992,1885400500,3436462433,4049631843
+dimwishlist:item=2481758391&perks=1840239774,1885400500,3436462433,4049631843
+dimwishlist:item=2481758391&perks=4090651448,1885400500,3436462433,4049631843
+
+// Darkest Before (PvE first-choice roll)
+// Arrowhead Brake, (Alloy Mag, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, Rampage
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for general content. In the same slot as Horror's Least, so there's some competition for your love. Help out the wonky Recoil Direction with Arrowhead Brake, and then you can either build into the Rapid-fire intrinsic perk with Alloy Mag, or just use a Combat Effect mag. For mowing through low-level minors in general content, Subsistence and Rampage are a great combination. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a Rampage Spec mod. Tags: pve, pve-god, pve-minor, controller, mkb|tags:1392496348 1482024992 1840239774 4090651448
+dimwishlist:item=2481758391&perks=839105230,1431678320,1820235745,3425386926
+dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
+dimwishlist:item=2481758391&perks=839105230,1561002382,1820235745,3425386926
+dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745,3425386926
+
+// Darkest Before (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Alloy Mag, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, Rampage
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for general content. In the same slot as Horror's Least, so there's some competition for your love. Constrain the recoil with a Stability barrel, and then you can either build into the Rapid-fire intrinsic perk with Alloy Mag, or just use a Combat Effect mag. For mowing through low-level minors in general content, Subsistence and Rampage are a great combination. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a Rampage Spec mod. Tags: pve, pve-minor, controller, mkb
+dimwishlist:item=2481758391&perks=1392496348,1431678320,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1482024992,1431678320,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1840239774,1431678320,1820235745,3425386926
+dimwishlist:item=2481758391&perks=4090651448,1431678320,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1392496348,1968497646,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1482024992,1968497646,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1840239774,1968497646,1820235745,3425386926
+dimwishlist:item=2481758391&perks=4090651448,1968497646,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1392496348,1561002382,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1482024992,1561002382,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1840239774,1561002382,1820235745,3425386926
+dimwishlist:item=2481758391&perks=4090651448,1561002382,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1392496348,1885400500,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1482024992,1885400500,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1840239774,1885400500,1820235745,3425386926
+dimwishlist:item=2481758391&perks=4090651448,1885400500,1820235745,3425386926
+
+// A Sudden Death (PvE first-choice roll)
+// Full Choke, Tactical Mag, Slideshot, One-Two Punch
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Stiff competition in the slot from Found Verdict, and suffers by comparison from having no adept version. If you're looking for a good One-Two Punch shotgun for use against Majors and Bosses, Full Choke keeps the pellet spread tight, Tactical Mag increases mag size to maximum, and Slideshot gives you an instant reload between shots and punches/ slaps/ knifings. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-major, pve-boss, pve-endgame, controller, mkb
+dimwishlist:item=2855157553&perks=1047830412,106909392,3161816588,2679249093
+
+// A Sudden Death (PvE backup roll)
+// (Full Choke, Barrel Shroud, Smallbore, Corkscrew Rifling), Tactical Mag, Slideshot, One-Two Punch
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Stiff competition in the slot from Found Verdict, and suffers by comparison from having no adept version. If you're looking for a good One-Two Punch shotgun for use against Majors and Bosses, choose a barrel that helps with handling or stability, then Tactical Mag or Appended Mag increases mag size to maximum, and Slideshot gives you an instant reload between shots and punches/ slaps/ knifings. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-major, pve-boss, pve-endgame, controller, mkb
+dimwishlist:item=2855157553&perks=1300023272,106909392,3161816588,2679249093
+dimwishlist:item=2855157553&perks=1482024992,106909392,3161816588,2679249093
+dimwishlist:item=2855157553&perks=4090651448,106909392,3161816588,2679249093
+dimwishlist:item=2855157553&perks=1047830412,1087426260,3161816588,2679249093
+dimwishlist:item=2855157553&perks=1300023272,1087426260,3161816588,2679249093
+dimwishlist:item=2855157553&perks=1482024992,1087426260,3161816588,2679249093
+dimwishlist:item=2855157553&perks=4090651448,1087426260,3161816588,2679249093
+
+// A Sudden Death (PvE first-choice roll)
+// (Barrel Shroud, Smallbore, Corkscrew Rifling), (Tactical Mag, Assault Mag), (Threat Detector, Slideshot Field Prep, Grave Robber), Surrounded
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Stiff competition in the slot from Found Verdict, and suffers by comparison from having no adept version. For clearing heftier minors or groups of majors, choose a barrel that helps with handling or stability, then Assault Mag increases firing rate, or Tactical Mag/ Appended Mag increases mag size to maximum. Then Threat Detector, Grave Robber, Field Prep or Slideshot help to keep you shooting, and Surrounded with the Spec mod adds +40% damage in CQC. Worth pairing with the Heavy Handed Charged With Light Mod for free ammo regeneration on CQC kills. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: pve, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=2855157553&perks=1300023272,106909392,4071163871,3708227201
+dimwishlist:item=2855157553&perks=1482024992,106909392,4071163871,3708227201
+dimwishlist:item=2855157553&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=2855157553&perks=1300023272,1087426260,4071163871,3708227201
+dimwishlist:item=2855157553&perks=1482024992,1087426260,4071163871,3708227201
+dimwishlist:item=2855157553&perks=4090651448,1087426260,4071163871,3708227201
+dimwishlist:item=2855157553&perks=1300023272,106909392,2869569095,3708227201
+dimwishlist:item=2855157553&perks=1482024992,106909392,2869569095,3708227201
+dimwishlist:item=2855157553&perks=4090651448,106909392,2869569095,3708227201
+dimwishlist:item=2855157553&perks=1300023272,1087426260,2869569095,3708227201
+dimwishlist:item=2855157553&perks=1482024992,1087426260,2869569095,3708227201
+dimwishlist:item=2855157553&perks=4090651448,1087426260,2869569095,3708227201
+dimwishlist:item=2855157553&perks=1300023272,106909392,3161816588,3708227201
+dimwishlist:item=2855157553&perks=1482024992,106909392,3161816588,3708227201
+dimwishlist:item=2855157553&perks=4090651448,106909392,3161816588,3708227201
+dimwishlist:item=2855157553&perks=1300023272,1087426260,3161816588,3708227201
+dimwishlist:item=2855157553&perks=1482024992,1087426260,3161816588,3708227201
+dimwishlist:item=2855157553&perks=4090651448,1087426260,3161816588,3708227201
+dimwishlist:item=2855157553&perks=1300023272,106909392,1631667848,3708227201
+dimwishlist:item=2855157553&perks=1482024992,106909392,1631667848,3708227201
+dimwishlist:item=2855157553&perks=4090651448,106909392,1631667848,3708227201
+dimwishlist:item=2855157553&perks=1300023272,1087426260,1631667848,3708227201
+dimwishlist:item=2855157553&perks=1482024992,1087426260,1631667848,3708227201
+dimwishlist:item=2855157553&perks=4090651448,1087426260,1631667848,3708227201
+
+// A Sudden Death (PvE first-choice roll)
+// (Barrel Shroud, Smallbore, Corkscrew Rifling), (Tactical Mag, Assault Mag), (Threat Detector, Slideshot Field Prep, Grave Robber), Frenzy
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Stiff competition in the slot from Found Verdict, and suffers by comparison from having no adept version. For clearing heftier minors or groups of majors, choose a barrel that helps with handling or stability, then Assault Mag increases firing rate, or Tactical Mag/ Appended Mag increases mag size to maximum. Then Threat Detector, Grave Robber, Field Prep or Slideshot help to keep you shooting, and Frenzy provides a solid damage boost when in combat. Worth pairing with the Heavy Handed Charged With Light Mod for free ammo regeneration on CQC kills. Drops from the final (Emissary) chest if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=2855157553&perks=1300023272,106909392,4071163871,4104185692
+dimwishlist:item=2855157553&perks=1482024992,106909392,4071163871,4104185692
+dimwishlist:item=2855157553&perks=4090651448,106909392,4071163871,4104185692
+dimwishlist:item=2855157553&perks=1300023272,1087426260,4071163871,4104185692
+dimwishlist:item=2855157553&perks=1482024992,1087426260,4071163871,4104185692
+dimwishlist:item=2855157553&perks=4090651448,1087426260,4071163871,4104185692
+dimwishlist:item=2855157553&perks=1300023272,106909392,2869569095,4104185692
+dimwishlist:item=2855157553&perks=1482024992,106909392,2869569095,4104185692
+dimwishlist:item=2855157553&perks=4090651448,106909392,2869569095,4104185692
+dimwishlist:item=2855157553&perks=1300023272,1087426260,2869569095,4104185692
+dimwishlist:item=2855157553&perks=1482024992,1087426260,2869569095,4104185692
+dimwishlist:item=2855157553&perks=4090651448,1087426260,2869569095,4104185692
+dimwishlist:item=2855157553&perks=1300023272,106909392,3161816588,4104185692
+dimwishlist:item=2855157553&perks=1482024992,106909392,3161816588,4104185692
+dimwishlist:item=2855157553&perks=4090651448,106909392,3161816588,4104185692
+dimwishlist:item=2855157553&perks=1300023272,1087426260,3161816588,4104185692
+dimwishlist:item=2855157553&perks=1482024992,1087426260,3161816588,4104185692
+dimwishlist:item=2855157553&perks=4090651448,1087426260,3161816588,4104185692
+dimwishlist:item=2855157553&perks=1300023272,106909392,1631667848,4104185692
+dimwishlist:item=2855157553&perks=1482024992,106909392,1631667848,4104185692
+dimwishlist:item=2855157553&perks=4090651448,106909392,1631667848,4104185692
+dimwishlist:item=2855157553&perks=1300023272,1087426260,1631667848,4104185692
+dimwishlist:item=2855157553&perks=1482024992,1087426260,1631667848,4104185692
+dimwishlist:item=2855157553&perks=4090651448,1087426260,1631667848,4104185692
+
+// The Long Walk (PvE first-choice roll)
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for end-game content. Rapid Fire Snipers are, as at S17 v4.1.5.2, the best DPS option, but aggressive frames still put out decent damage. Keep shots on target with a stability barrel, then Appended Mag gets you to the max mag size, Clown Cartridge and Firing Line are the best way to get damage out as fast as possible in a fireteam. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=3326850591&perks=1392496348,1087426260,2284787283,1771339417
+
+// The Long Walk (PvE backup roll)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Clown Cartridge, Firing Line
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Rapid Fire Snipers are, as at S17 v4.1.5.2, the best DPS option, but aggressive frames still put out decent damage. Keep shots on target with a stability barrel, then Appended Mag gets you to the max mag size, Clown Cartridge and Firing Line are the best way to get damage out as fast as possible in a fireteam. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=3326850591&perks=1482024992,1087426260,2284787283,1771339417
+dimwishlist:item=3326850591&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=3326850591&perks=4090651448,1087426260,2284787283,1771339417
+
+// The Long Walk (PvE backup roll)
+// (Polygoal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Ensemble, Firing Line
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Rapid Fire Snipers are, as at S17 v4.1.5.2, the best DPS option, but aggressive frames still put out decent damage. Keep shots on target with a stability barrel, then Appended Mag gets you to the max mag size, Ensemble helps with your reloads and Firing Line gives +20% damage when you're in a fireteam. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=3326850591&perks=1392496348,1087426260,2621346526,1771339417
+dimwishlist:item=3326850591&perks=1482024992,1087426260,2621346526,1771339417
+dimwishlist:item=3326850591&perks=1840239774,1087426260,2621346526,1771339417
+dimwishlist:item=3326850591&perks=4090651448,1087426260,2621346526,1771339417
+
+// The Long Walk (PvE backup roll)
+// (Polygoal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Overflow, Firing Line
+//notes:Inspired by DMB PvE Podcast 25. PvE backup roll for end-game content. Rapid Fire Snipers are, as at S17 v4.1.5.2, the best DPS option, but aggressive frames still put out decent damage. Keep shots on target with a stability barrel, then Appended/Extended Mag gets you to the max mag size. Overflow bypasses Extended Mag's slow reload, and Firing Line gives +20% damage when you're in a fireteam. Drops from the first (Phalanx Echo) encounter if you're looking to farm it. Recommended MW: Stability or Handling, with a damage-boosting (Major, Boss or Taken spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=3326850591&perks=1392496348,1087426260,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1482024992,1087426260,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1840239774,1087426260,3643424744,1771339417
+dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1392496348,3643424744,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1482024992,3643424744,3643424744,1771339417
+dimwishlist:item=3326850591&perks=1840239774,3643424744,3643424744,1771339417
+dimwishlist:item=3326850591&perks=4090651448,3643424744,3643424744,1771339417
+
+
