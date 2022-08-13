@@ -59,7 +59,7 @@ dimwishlist:item=2591241074&perks=2801223209,3429800428,201365942,2652708987
 
 // Strident Whistle (PvP backup roll)
 // (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching), Archer's Tempo, Successful Warm-Up
-//notes:Inspired by DMB Podcast 267 conversation with @StadiaTime. PvP backup roll for chaining kills - use if you're planning to main the bow, rather use for swap kills. Use the bowstring and arrow to reduce draw time and recovering any lost accuracy. If you proc both Archer's Tempo and Successful Warm-Up you can get Hush-like speeds for TTK. For aggressive playstyles where you can take advantage of the need for crits to keep shot speed up. Recommended MW: Reload or Draw Time, with a Quick Access Sling mod. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+//notes:Inspired by DMB Podcast 267 conversation with @StadiaTime. PvP backup roll for chaining kills - use if you're planning to main the bow, rather use for swap kills. Use the bowstring and arrow to reduce draw time and recovering any lost accuracy. If you proc both Archer's Tempo and Successful Warm-Up you can get Hush-like speeds for TTK. For aggressive playstyles where you can take advantage of the need for crits to keep shot speed up. Recommended MW: Reload or Draw Time, with a Sprint Grip or Targeting Adjustor mod. Tags: pvp, pvp-god, pvp-chain, controller, mkb
 dimwishlist:item=2591241074&perks=4067834857,3429800428,201365942,2652708987
 dimwishlist:item=2591241074&perks=852209214,3429800428,201365942,2652708987
 dimwishlist:item=2591241074&perks=2801223209,3827198035,201365942,2652708987
@@ -71,6 +71,6 @@ dimwishlist:item=2591241074&perks=852209214,3311977193,201365942,2652708987
 
 // Under Your Skin (PvP first-choice roll)
 // Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Successful Warm-Up
-//notes:Inspired by DMB Podcast 267 conversation with @StadiaTime. PvP first-choice roll for chaining kills - use if you're planning to main the bow, rather use for swap kills. Shapeable - use Elastic String to reduce draw time and recover lost accuracy with Fiberglass Arrow Shaft. If you proc both Archer's Tempo and Successful Warm-Up you can get Hush-like speeds for TTK. For aggressive playstyles where you can take advantage of the need for crits to keep shot speed up. Recommended MW: Reload or Draw Time, with a Quick Access Sling mod. Tags: pvp, pvp-god, pvp-chain, controller, mkb
+//notes:Inspired by DMB Podcast 267 conversation with @StadiaTime. PvP first-choice roll for chaining kills - use if you're planning to main the bow, rather use for swap kills. Shapeable - use Elastic String to reduce draw time and recover lost accuracy with Fiberglass Arrow Shaft. If you proc both Archer's Tempo and Successful Warm-Up you can get Hush-like speeds for TTK. For aggressive playstyles where you can take advantage of the need for crits to keep shot speed up. Recommended MW: Reload or Draw Time, with a Sprint Grip or Targeting Adjustor mod. Tags: pvp, pvp-god, pvp-chain, controller, mkb
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,2652708987
 
