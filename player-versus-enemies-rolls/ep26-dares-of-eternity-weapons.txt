@@ -1,5 +1,5 @@
-@title:Prophecy weapons
-@description:Reprised Trials of the Nine weapons dropping from the Prophecy dungeon
+@title:Dares of Eternity weapons
+@description:Weapons dropping from 30th Anniversary "Dares of Eternity" activity 
 
 // Wastelander M5 (PvE first-choice roll)
 // Full Choke, (Tactical Mag, Assault Mag), Slideshot, One-Two Punch
