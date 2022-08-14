@@ -288,9 +288,14 @@ dimwishlist:item=3257091166&perks=938542991,269888150,1749209109,2077819806
 
 // The Other Half (PvE first-choice roll)
 // (Jagged Edge, Tempered Edge), Swordmaster's Guard, Eager Edge, (Whirlwind Strikes, Frenzy)
-//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for general content. Boost damage with the Blade and Swordmaster's Guard boosts the charge rate for heavy attacks. Eager Edge is the unique Dares park that helps you with movement between attacks, and Whirlwind Strikes or Frenzy boosts weapon damage. Recommended MW: Impact, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-minor, pve-endgame, controller, mkb
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for general content. Boost damage with the Blade and Swordmaster's Guard boosts the charge rate for heavy attacks. Eager Edge is the unique Dares park that helps you with movement between attacks, and Whirlwind Strikes, Frenzy or Surrounded boosts weapon damage. Recommended MW: Impact, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
 dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,3913600130
 dimwishlist:item=3257091167&perks=938542991,269888150,2077819806,3913600130
 dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,4104185692
 dimwishlist:item=3257091167&perks=938542991,269888150,2077819806,4104185692
 
+// The Other Half (PvE first-choice roll)
+// (Jagged Edge, Tempered Edge), Swordmaster's Guard, Eager Edge, Surrounded
+//notes:Inspired by DMB PvE Podcast 25. PvE first-choice roll for general content. Boost damage with the Blade and Swordmaster's Guard boosts the charge rate for heavy attacks. Eager Edge is the unique Dares park that helps you with movement between attacks, and Whirlwind Strikes, Frenzy or Surrounded boosts weapon damage. Recommended MW: Impact, with a Surrounded Spec mod. Tags: pve, pve-god, pve-major, pve-endgame, controller, mkb
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,3708227201
+dimwishlist:item=3257091167&perks=938542991,269888150,2077819806,3708227201
