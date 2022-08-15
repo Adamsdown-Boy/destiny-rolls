@@ -1,0 +1,33 @@
+// Wishlistnotes tags 
+
+Roll types 
+
+Mandatory roll types tags (one of these must be used)
+* pve - rolls suggested for PvE content
+* pvp - rolls suggested for PvP content
+
+Optional roll types tags - these are judgements made against each individual weapon, not whether that subtype is considered S-Tier for that activity
+* pve-god - best combination of perks for a particular use case in PvE. Absence is implied pve-good and indicates traits are first-choice but barrel/mag perks not optimal, or that while the roll is good, there are better traits available)
+* pvp-god - best combination of perks for a particular use case in PvP. Absence is implied pvp-good and  indicates traits are first-choice but barrel/mag perks not optimal, or that while the roll is good, there are better traits available)
+
+
+Use cases
+
+Mandatory PvE use case tags (at least one of these must be used)
+* pve-minor - perks aimed at enemies covered by Minor Spec mod description. Usually Primary red-bar add clear.
+* pve-major (incl burst damage) - perks aimed at enemies covered by Major Spec mod description. Ususally Special or Power weapons for quick burst DPS against a target, but can also include Primary weapons
+* pve-boss (incl sustained damage) - perks aimed at enemies covered by Boss Spec mod description. Usually Special or Power weapons for sustained DPS in a damage phase either on their own or in combination with another weapon in the loadout.
+
+Optional PvE use case tags 
+* pve-endgame - suggested perks for use in end-game (primarily power-capped) activities. Perks generally don't need a weapon kill to proc. Absence  is implied pve-general and indicates traits good for general content, but generally require a kill to activate.
+* pve-champion (good perk combinations) - specific perk combinations for stunning anti-Barrier, anti-Overload, or anti-Unstoppable champions
+* pve-solo - combination of perks that are useful for solo activities such as Lost Sectors or solo runs through activities for seasonal triumphs
+
+Mandatory PvP use case tags (one of these must be used)
+* pvp-duel - combinations of perks that help win an initial encounter. Mainly for 3v3 game modes, and for less proficient PvP players
+* pvp-chain - combinations of perks that help with subsequent kills. Mainly for 6v6 game modes.
+
+
+Input type (mandatory)
+* mkb - suitable for use on mouse and keyboard
+* controller - suitable for use on controller
