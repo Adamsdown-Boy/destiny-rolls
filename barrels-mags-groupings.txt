@@ -1,16 +1,38 @@
 // Wishlistnotes tags 
 
-Roll types
-pve pvp
+Roll types 
 
-Roll quality (first-choice)
-pve-god pvp-god
+Mandatory roll types tags (one of these must be used)
+* pve - rolls suggested for PvE content
+* pvp - rolls suggested for PvP content
+
+Optional roll types tags - these are judgements made against each individual weapon, not whether that subtype is considered S-Tier for that activity
+* pve-god - best combination of perks for a particular use case in PvE. Absence is implied pve-good and indicates traits are first-choice but barrel/mag perks not optimal, or that while the roll is good, there are better traits available)
+* pvp-god - best combination of perks for a particular use case in PvP. Absence is implied pvp-good and  indicates traits are first-choice but barrel/mag perks not optimal, or that while the roll is good, there are better traits available)
+
 
 Use cases
-pve-endgame pve-minor pve-major (incl burst damage) pve-boss (incl sustained damage) pve-champion (good perk combinations) pve-solo pvp-duel pvp-chain
- 
-Input type
-mkb controller
+
+Mandatory PvE use case tags (at least one of these must be used)
+* pve-minor - perks aimed at enemies covered by Minor Spec mod description. Usually Primary red-bar add clear.
+* pve-major (incl burst damage) - perks aimed at enemies covered by Major Spec mod description. Ususally Special or Power weapons for quick burst DPS against a target, but can also include Primary weapons
+* pve-boss (incl sustained damage) - perks aimed at enemies covered by Boss Spec mod description. Usually Special or Power weapons for sustained DPS in a damage phase either on their own or in combination with another weapon in the loadout.
+
+Optional PvE use case tags 
+* pve-endgame - suggested perks for use in end-game (primarily power-capped) activities. Perks generally don't need a weapon kill to proc. Absence  is implied pve-general and indicates traits good for general content, but generally require a kill to activate.
+* pve-champion (good perk combinations) - specific perk combinations for stunning anti-Barrier, anti-Overload, or anti-Unstoppable champions
+* pve-solo - combination of perks that are useful for solo activities such as Lost Sectors or solo runs through activities for seasonal triumphs
+
+Mandatory PvP use case tags (one of these must be used)
+* pvp-duel - combinations of perks that help win an initial encounter. Mainly for 3v3 game modes, and for less proficient PvP players
+* pvp-chain - combinations of perks that help with subsequent kills. Mainly for 6v6 game modes.
+
+
+Input type (mandatory)
+* mkb - suitable for use on mouse and keyboard
+* controller - suitable for use on controller
+
+
 
 // Barrel groupings:
 
@@ -198,13 +220,13 @@ Range Hafts (Ballistic Tuning, Supercooled Accelerator)
 1263609309 1934171651
 
 Reload Hafts (Lightweight Emitter, Low-Impedance Windings)
-594346985 580685494
+594346985 2713678205
 
 Handling Hafts (Tempered Truss Rod, Lightweight Emitter)
 5699512 594346985
 
 Shield Hafts (Auxiliary Reserves, Low-Impedance Windings)
-580685494 
+580685494 2713678205 
 
 
 // Magazine groupings:
@@ -229,6 +251,9 @@ Mag Size Magazines without downsides (Appended Mag, Tactical Mag)
 
 Combat Effect Magazines (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Swap Mag)
 1968497646 1561002382 1885400500 3721627275
+
+Airborne Effectiveness Magazines (Extended Mag, Steady Rounds)
+2420895100 3177308360
 
 
 // Battery groupings:
@@ -325,3 +350,5 @@ Handling Arrows (Compact Arrow Shaft)
 
 Reload Speed Arrows (Compact Arrow Shaft)
 16392701
+
+
