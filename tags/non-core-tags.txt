@@ -1,0 +1,34 @@
+= Non-Core tags =
+
+Adamsdown_Boy will continue to use the following tags for DMB and PvE podcast weapon breakdowns. They are NOT part of the core set, and will NOT be used by YeezyGT or PandaPaxxy.
+
+== Optional Non-Core Roll Type Tag ==
+PvP-God - a subset of perks on a PvP weapon that are deemed the best-possible option(s) in each perk column - these are judgements made against each individual weapon, not whether that subtype is considered S-Tier for that use-case.
+
+
+== Mandatory Non-Core Pve Use Case Tags ==
+Adamsdown_Boy will use one of these for any weapon tagged as PvE. Weapons tagged as PvE-Boss will be further categorised as burst or sustained damage.
+
+PvE-MinorSpec - perks on a PvE weapon that are deemed strong against enemies covered by the Minor Spec mod description, for add-clear.
+
+PvE-MajorSpec - perks on a PvE weapon that are deemed strong against enemies covered by the Major Spec mod description, that can be used for quick burst DPS against a target on its own.
+
+PvE-BossSpec - perks on a PvE weapon that are deemed strong against enemies covered by the Boss Spec mod description, that can be used for sustained DPS in a damage phase either on their own or in combination with another weapon in the loadout.
+
+
+== Optional Non-Core Pve Use Case Tags ==
+Adamsdown_Boy can optionally use one of these as an additional tag to categorise weapons tagged as PvE.
+
+PvE-Endgame - perks on a PvE weapon for use in end-game (primarily underlevelled and/or power-capped) activities. Perks generally don't need a weapon kill to proc. 
+
+PvE-Champion - specific perk combinations on a PvE weapon that aid piercing anti-Barrier, disrupting anti-Overload, or stunning anti-Unstoppable champions, when the relevant weapon mod is available on the Seasonal Artifact.
+
+PvE-Solo - specific perk combinations on a PvE weapon that are useful for solo activities such as Lost Sectors or solo runs through activities for seasonal triumphs
+
+
+== Mandatory Non-Core Pvp Use Case Tags ==
+Adamsdown_Boy will use one of these for any weapon tagged as PvP.
+
+PvP-Duelling - combinations of perks that help win an initial gunfight. Mainly for 3v3 game modes, and helpful for less proficient PvP players
+
+PvP-KillChain - combinations of perks that help with kills subsequent to the first kill. Mainly for 6v6 game modes.
