@@ -1,31 +1,4 @@
-// Wishlistnotes core tags 
-
-These tags will be used by YeezyGT, PandaPaxxy and Adamsdown_Boy as follows:
-
-= Core Tags =
-Tags will be typed as CamelCase to prevent ambiguity.
-
-== Mandatory Core Roll Types ==
-All weapon rolls must be identified as either PvE or PvP. 
-
-PvE - weapon rolls recommended by that list-maker for use in PvE activities
-
-PvP - weapon rolls recommended by that list-maker for use in PvP activities
-
-=== Optional additional core PvE tags ===
-These tags may be used optionally for PvE weapons, in addition to the Mandatory Core Roll Type, at the discretion of the list-maker.
-
-PvE-Boss - a subset of perks on a PvE weapon, selected by that list-maker as strong for Major and/or Boss (as defined by the relevant Spec mod description) damage
-
-PvE-God - a subset of perks on a PvE weapon that are deemed the best-possible option(s) in each perk column by that list-maker. This is a judgement made against each individual weapon, not whether the weapn itself is considered S-Tier.
-
-== Mandatory Core Input Methods ==
-All weapon rolls must be identified as suitable for Controller and/or Mouse and Keyboard input device. If an input device is not specified, the default value is Controller.
-
-Controller - weapon roll considered suitable for use with controller
-
-MKB - weapon roll considered suitable for use with mouse and keyboard
-
+// Wishlistnotes non-core tags 
 
 = Non-Core tags =
 
