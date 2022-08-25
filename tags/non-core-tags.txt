@@ -1,3 +1,32 @@
+// Wishlistnotes core tags 
+
+These tags will be used by YeezyGT, PandaPaxxy and Adamsdown_Boy as follows:
+
+= Core Tags =
+Tags will be typed as CamelCase to prevent ambiguity.
+
+== Mandatory Core Roll Types ==
+All weapon rolls must be identified as either PvE or PvP. 
+
+PvE - weapon rolls recommended by that list-maker for use in PvE activities
+
+PvP - weapon rolls recommended by that list-maker for use in PvP activities
+
+=== Optional additional core PvE tags ===
+These tags may be used optionally for PvE weapons, in addition to the Mandatory Core Roll Type, at the discretion of the list-maker.
+
+PvE-Boss - a subset of perks on a PvE weapon, selected by that list-maker as strong for Major and/or Boss (as defined by the relevant Spec mod description) damage
+
+PvE-God - a subset of perks on a PvE weapon that are deemed the best-possible option(s) in each perk column by that list-maker. This is a judgement made against each individual weapon, not whether the weapn itself is considered S-Tier.
+
+== Mandatory Core Input Methods ==
+All weapon rolls must be identified as suitable for Controller and/or Mouse and Keyboard input device. If an input device is not specified, the default value is Controller.
+
+Controller - weapon roll considered suitable for use with controller
+
+MKB - weapon roll considered suitable for use with mouse and keyboard
+
+
 = Non-Core tags =
 
 Adamsdown_Boy will continue to use the following tags for DMB and PvE podcast weapon breakdowns. They are NOT part of the core set, and will NOT be used by YeezyGT or PandaPaxxy.
@@ -29,6 +58,6 @@ PvE-Solo - specific perk combinations on a PvE weapon that are useful for solo a
 == Mandatory Non-Core Pvp Use Case Tags ==
 Adamsdown_Boy will use one of these for any weapon tagged as PvP.
 
-PvP-Duelling - combinations of perks that help win an initial gunfight. Mainly for 3v3 game modes, and helpful for less proficient PvP players
+PvP-Duelling - combinations of perks that help win an initial gunfight. Mainly for 3v3 game modes, and helpful for less proficient PvP players. Functionally equivalent to PandaPaxxy's use of "consistency"
 
-PvP-KillChain - combinations of perks that help with kills subsequent to the first kill. Mainly for 6v6 game modes.
+PvP-KillChain - combinations of perks that help with kills subsequent to the first kill. Mainly for 6v6 game modes. Functionally equivalent to PandaPaxxy's use of "lethality"
