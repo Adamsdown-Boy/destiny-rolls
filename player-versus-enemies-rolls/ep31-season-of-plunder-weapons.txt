@@ -1,0 +1,326 @@
+@title:Season of Plunder weapons
+@description:Season 18 weapons with Right Hook origin trait
+
+// Brigand's Law (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), Appended Mag, (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for end-game content (assuming you're brave!). The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Appended Mag gets you to the maximum base size of 18, with no penalties. Threat Detector or Perpetual Motion both add to useful stats (Threat Detector, in particular, works with the Origin Trait's CQC focus), and in the final trait column, Surrounded gives a huge passive boost to CQC damage. Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1298815317&perks=3661387068,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=839105230,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=1467527085,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=3661387068,1087426260,1428297954,3558172203
+dimwishlist:item=1298815317&perks=839105230,1087426260,1428297954,3558172203
+dimwishlist:item=1298815317&perks=1467527085,1087426260,1428297954,3558172203
+
+// Brigand's Law (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for end-game content (assuming you're brave!). The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Appended Mag gets you to the maximum base size of 18, with no penalties. Threat Detector or Perpetual Motion both add to useful stats (Threat Detector, in particular, works with the Origin Trait's CQC focus), and in the final trait column, Surrounded gives a huge boost to CQC damage. Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1298815317&perks=1392496348,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=1482024992,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=1840239774,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=4090651448,1087426260,4071163871,3558172203
+dimwishlist:item=1298815317&perks=1392496348,1087426260,1428297954,3558172203
+dimwishlist:item=1298815317&perks=1482024992,1087426260,1428297954,3558172203
+dimwishlist:item=1298815317&perks=1840239774,1087426260,1428297954,3558172203
+dimwishlist:item=1298815317&perks=4090651448,1087426260,1428297954,3558172203
+
+// Brigand's Law (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), Appended Mag, (Threat Detector, Perpetual Motion, Pugilist), Voltshot
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for Arc 3.0 in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Appended Mag gets you to the maximum base size of 18, with no penalties. Threat Detector or Perpetual Motion both add to useful stats (Threat Detector, in particular, works with the Origin Trait's CQC focus), or Pugilist works for melee-heavy builds, and in the final trait column, Voltshot lets you build into Arc 3.0. Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1298815317&perks=3661387068,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=839105230,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=1467527085,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=3661387068,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=839105230,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=1467527085,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=3661387068,1087426260,691659142,2173046394
+dimwishlist:item=1298815317&perks=839105230,1087426260,691659142,2173046394
+dimwishlist:item=1298815317&perks=1467527085,1087426260,691659142,2173046394
+
+// Brigand's Law (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, (Threat Detector, Perpetual Motion, Pugilist), Voltshot
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for Arc 3.0 in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Appended Mag gets you to the maximum base size of 18, with no penalties. Threat Detector or Perpetual Motion both add to useful stats (Threat Detector, in particular, works with the Origin Trait's CQC focus), or Pugilist works for melee-heavy builds, and in the final trait column, Voltshot lets you build into Arc 3.0. Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1298815317&perks=1392496348,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=1482024992,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=1840239774,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=4090651448,1087426260,4071163871,2173046394
+dimwishlist:item=1298815317&perks=1392496348,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=1482024992,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=1840239774,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=4090651448,1087426260,1428297954,2173046394
+dimwishlist:item=1298815317&perks=1392496348,1087426260,691659142,2173046394
+dimwishlist:item=1298815317&perks=1482024992,1087426260,691659142,2173046394
+dimwishlist:item=1298815317&perks=1840239774,1087426260,691659142,2173046394
+dimwishlist:item=1298815317&perks=4090651448,1087426260,691659142,2173046394
+
+// Brigand's Law (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), Appended Mag, Pugilist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Appended Mag gets you to the maximum base size of 18, with no penalties. For melee builds, Puglist and Swashbuckler are your first choices  Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1298815317&perks=3661387068,1087426260,691659142,4082225868
+dimwishlist:item=1298815317&perks=839105230,1087426260,691659142,4082225868
+dimwishlist:item=1298815317&perks=1467527085,1087426260,691659142,4082225868
+
+// Brigand's Law (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Appended Mag, Pugilist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Appended Mag gets you to the maximum base size of 18, with no penalties. For melee builds, Puglist and Swashbuckler are your first choices  Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1298815317&perks=1392496348,1087426260,691659142,4082225868
+dimwishlist:item=1298815317&perks=1482024992,1087426260,691659142,4082225868
+dimwishlist:item=1298815317&perks=1840239774,1087426260,691659142,4082225868
+dimwishlist:item=1298815317&perks=4090651448,1087426260,691659142,4082225868
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), (Tactical Mag, Flared Magwell), (Ensemble, Ambitious Assassin), Frenzy
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for end-game content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Tactical Mag or Flared Magwell add Stability and Reload Speed. Ensemble adds to useful stats or Ambitious Assassin doubles magazine size just for picking up ammo, and in the final trait column, Frenzy adds a useful passive damage boost. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1509167284&perks=3661387068,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=839105230,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1467527085,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=3661387068,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=839105230,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1467527085,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=3661387068,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=839105230,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1467527085,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=3661387068,3230963543,2010801679,4104185692
+dimwishlist:item=1509167284&perks=839105230,3230963543,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1467527085,3230963543,2010801679,4104185692
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), Accurized Rounds, (Ensemble, Ambitious Assassin), Frenzy
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for end-game content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Accurized Rounds pushes range out by a metre or so. Ensemble adds to useful stats or Ambitious Assassin doubles magazine size just for picking up ammo, and in the final trait column, Frenzy adds a useful passive damage boost. Recommended MW: Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, MKB
+dimwishlist:item=1509167284&perks=3661387068,3142289711,2621346526,4104185692
+dimwishlist:item=1509167284&perks=839105230,3142289711,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1467527085,3142289711,2621346526,4104185692
+dimwishlist:item=1509167284&perks=3661387068,3142289711,2010801679,4104185692
+dimwishlist:item=1509167284&perks=839105230,3142289711,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1467527085,3142289711,2010801679,4104185692
+
+// Blood Feud (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Ensemble, Ambitious Assassin), Frenzy
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for end-game content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Tactical Mag or Flared Magwell add Stability and Reload Speed. Ensemble adds to useful stats or Ambitious Assassin doubles magazine size just for picking up ammo, and in the final trait column, Frenzy adds a useful passive damage boost. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1509167284&perks=1392496348,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1482024992,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1840239774,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=4090651448,106909392,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1392496348,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1482024992,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1840239774,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=4090651448,3230963543,2621346526,4104185692
+dimwishlist:item=1509167284&perks=1392496348,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1482024992,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1840239774,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=4090651448,106909392,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1392496348,3230963543,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1482024992,3230963543,2010801679,4104185692
+dimwishlist:item=1509167284&perks=1840239774,3230963543,2010801679,4104185692
+dimwishlist:item=1509167284&perks=4090651448,3230963543,2010801679,4104185692
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), (Tactical Mag, Flared Magwell), (Pugilist, Grave Robber), Swashbuckler
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Tactical Mag or Flared Magwell add Stability and Reload Speed. For melee builds, Pugilist and Grave Robber both have their place, and Swashbuckler provides a hefty damage boost. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1509167284&perks=3661387068,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=839105230,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1467527085,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=3661387068,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=839105230,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1467527085,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=3661387068,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=839105230,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=1467527085,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=3661387068,3230963543,691659142,4082225868
+dimwishlist:item=1509167284&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=1509167284&perks=1467527085,3230963543,691659142,4082225868
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), Accurized Rounds, (Pugilist, Grave Robber), Swashbuckler
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and  Accurized Rounds pushes range out by a metre or so. For melee builds, Pugilist and Grave Robber both have their place, and Swashbuckler provides a hefty damage boost. Recommended MW: Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, MKB
+dimwishlist:item=1509167284&perks=3661387068,3142289711,1631667848,4082225868
+dimwishlist:item=1509167284&perks=839105230,3142289711,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1467527085,3142289711,1631667848,4082225868
+dimwishlist:item=1509167284&perks=3661387068,3142289711,691659142,4082225868
+dimwishlist:item=1509167284&perks=839105230,3142289711,691659142,4082225868
+dimwishlist:item=1509167284&perks=1467527085,3142289711,691659142,4082225868
+
+// Blood Feud (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Pugilist, Grave Robber), Swashbuckler
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Tactical Mag or Flared Magwell add Stability and Reload Speed. For melee builds, Pugilist and Grave Robber both have their place, and Swashbuckler provides a hefty damage boost. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1509167284&perks=1392496348,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1482024992,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=4090651448,106909392,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1392496348,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1482024992,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1840239774,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=4090651448,3230963543,1631667848,4082225868
+dimwishlist:item=1509167284&perks=1392496348,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=1482024992,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=1509167284&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=1509167284&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=1509167284&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=1509167284&perks=4090651448,3230963543,691659142,4082225868
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), (Tactical Mag, Flared Magwell), Ambitious Assassin, Headstone
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for Stasis subclasses in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Tactical Mag or Flared Magwell add Stability and Reload Speed. Ambitious Assassin boosts magazine size for creating stasis crystals with Headstone. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1509167284&perks=3661387068,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=839105230,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=1467527085,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=3661387068,3230963543,2010801679,124408337
+dimwishlist:item=1509167284&perks=839105230,3230963543,2010801679,124408337
+dimwishlist:item=1509167284&perks=1467527085,3230963543,2010801679,124408337
+
+// Blood Feud (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Accurized Rounds, Ambitious Assassin, Headstone
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for Stasis subclasses in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Accurized Rounds pushes range out by a metre or so. Ambitious Assassin boosts magazine size for creating stasis crystals with Headstone. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, MKB
+dimwishlist:item=1509167284&perks=1392496348,3142289711,2010801679,124408337
+dimwishlist:item=1509167284&perks=1482024992,3142289711,2010801679,124408337
+dimwishlist:item=1509167284&perks=1840239774,3142289711,2010801679,124408337
+dimwishlist:item=1509167284&perks=4090651448,3142289711,2010801679,124408337
+
+// Blood Feud (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Ambitious Assassin, Headstone
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for Stasis subclasses in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Tactical Mag or Flared Magwell add Stability and Reload Speed. Ambitious Assassin boosts magazine size for creating stasis crystals with Headstone. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1509167284&perks=1392496348,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=1482024992,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=1840239774,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=4090651448,106909392,2010801679,124408337
+dimwishlist:item=1509167284&perks=1392496348,3230963543,2010801679,124408337
+dimwishlist:item=1509167284&perks=1482024992,3230963543,2010801679,124408337
+dimwishlist:item=1509167284&perks=1840239774,3230963543,2010801679,124408337
+dimwishlist:item=1509167284&perks=4090651448,3230963543,2010801679,124408337
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), (Tactical Mag, Flared Magwell), Pugilist, Wellspring
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Tactical Mag or Flared Magwell add Stability and Reload Speed. A combination of Pugilist and Wellspring gets your melee energy back as soon as is possible. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1509167284&perks=3661387068,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=839105230,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=1467527085,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=3661387068,3230963543,691659142,3592538738
+dimwishlist:item=1509167284&perks=839105230,3230963543,691659142,3592538738
+dimwishlist:item=1509167284&perks=1467527085,3230963543,691659142,3592538738
+
+// Blood Feud (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake, Extended Barrel), Accurized Rounds, Pugilist, Wellspring
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Any of the recoil direction barrels will get you to the maximum 100, and Accurized Rounds pushes range out by a metre or so. A combination of Pugilist and Wellspring gets your melee energy back as soon as is possible. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, MKB
+dimwishlist:item=1509167284&perks=3661387068,3142289711,691659142,3592538738
+dimwishlist:item=1509167284&perks=839105230,3142289711,691659142,3592538738
+dimwishlist:item=1509167284&perks=1467527085,3142289711,691659142,3592538738
+
+// Blood Feud (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Pugilist, Wellspring
+//notes:Inspired by DMB PvE Podcast 31. PvE backup roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. Increasing stability will make the recoil easier to control, and Tactical Mag or Flared Magwell add Stability and Reload Speed. A combination of Pugilist and Wellspring gets your melee energy back as soon as is possible. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1509167284&perks=1392496348,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=1482024992,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=1840239774,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=4090651448,106909392,691659142,3592538738
+dimwishlist:item=1509167284&perks=1392496348,3230963543,691659142,3592538738
+dimwishlist:item=1509167284&perks=1482024992,3230963543,691659142,3592538738
+dimwishlist:item=1509167284&perks=1840239774,3230963543,691659142,3592538738
+dimwishlist:item=1509167284&perks=4090651448,3230963543,691659142,3592538738
+
+// Tarnished Mettle (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Fourth Time's The Charm, Rapid Hit), Explosive Payload
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for end-game content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles, so that's not very useful for a Scout Rifle. Arrowhead Brake cleans up the recoil direction, and either Tactical Mag or Flared Magwell help with both stability and Reload Speed. For endgame, both Fourth Time's The Charm and Rapid Hit help keep the bullets coming, and Explosive Payload helps with damage, flinch and disrupting Overload Champions when the mods around. Recommended MW: Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE=EndGame, PvE-Champion, Controller, MKB
+dimwishlist:item=2218569744&perks=839105230,106909392,1354429876,3038247973
+dimwishlist:item=2218569744&perks=839105230,3230963543,1354429876,3038247973
+dimwishlist:item=2218569744&perks=839105230,106909392,247725512,3038247973
+dimwishlist:item=2218569744&perks=839105230,3230963543,247725512,3038247973
+
+// Tarnished Mettle (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Demolitionist, Fourth Time's The Charm, Rapid Hit), Voltshot
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for Arc 3.0 builds in general content. The Origin Perk works well in CQC, so isn't very useful for a Scout Rifle. Arrowhead Brake cleans up the recoil direction, and either Tactical Mag or Flared Magwell help with both stability and Reload Speed. You can use demolitionist to help ability regen or Fourth Time's The Charm and Rapid Hit help keep the bullets coming, and Voltshot is the new hotness for Arc 3.0 builds as of Season 18. Recommended MW: Stability or Reload Speed, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=2218569744&perks=839105230,106909392,3523296417,2173046394
+dimwishlist:item=2218569744&perks=839105230,3230963543,3523296417,2173046394
+dimwishlist:item=2218569744&perks=839105230,106909392,1354429876,2173046394
+dimwishlist:item=2218569744&perks=839105230,3230963543,1354429876,2173046394
+dimwishlist:item=2218569744&perks=839105230,106909392,247725512,2173046394
+dimwishlist:item=2218569744&perks=839105230,3230963543,247725512,2173046394
+
+// Tarnished Mettle (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Fourth Time's The Charm, Rapid Hit), Dragonfly
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for general content. The Origin Perk works well in CQC, so isn't very useful for a Scout Rifle. Arrowhead Brake cleans up the recoil direction, and either Tactical Mag or Flared Magwell help with both stability and Reload Speed. Fourth Time's The Charm and Rapid Hit help keep the bullets coming, and Dragonfly helps with add clear on crit kills. Recommended MW: Stability or Reload Speed, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=2218569744&perks=839105230,106909392,1354429876,2173046394
+dimwishlist:item=2218569744&perks=839105230,3230963543,1354429876,2173046394
+dimwishlist:item=2218569744&perks=839105230,106909392,247725512,2173046394
+dimwishlist:item=2218569744&perks=839105230,3230963543,247725512,2173046394
+
+// No Reprieve (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Assault Mag, Tactical Mag), Pugilist, (Swashbuckler, Wellspring)
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for melee builds in general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. High-ish stats make this fairly competitive in slot (if you don't look too closely at Heritage, anyway). You can never go wrong with a bit more range from your barrel, and faster fire rate, or an extra round in the mag and better reload speed. You can turn this into a great melee support option with Pugilist and Wellspring (for ability regen) or Swashbuckler (for damage output). Recommended MW: Reload Speed, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=2531963421&perks=3250034553,791862061,691659142,4082225868
+dimwishlist:item=2531963421&perks=1482024992,791862061,691659142,4082225868
+dimwishlist:item=2531963421&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=2531963421&perks=3250034553,106909392,691659142,4082225868
+dimwishlist:item=2531963421&perks=1482024992,106909392,691659142,4082225868
+dimwishlist:item=2531963421&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=2531963421&perks=3250034553,791862061,691659142,3592538738
+dimwishlist:item=2531963421&perks=1482024992,791862061,691659142,3592538738
+dimwishlist:item=2531963421&perks=4090651448,791862061,691659142,3592538738
+dimwishlist:item=2531963421&perks=3250034553,106909392,691659142,3592538738
+dimwishlist:item=2531963421&perks=1482024992,106909392,691659142,3592538738
+dimwishlist:item=2531963421&perks=4090651448,106909392,691659142,3592538738
+
+// No Reprieve (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Assault Mag, Tactical Mag), Triple Tap, Surrounded
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for endgame content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. High-ish stats make this fairly competitive in slot (if you don't look too closely at Heritage, anyway). You can never go wrong with a bit more range from your barrel, and faster fire rate, or an extra round in the mag and better reload speed. For endgame content, Triple Tap keeps the bullets coming, and Surrounded provides a huge boost to CQC damage, complimenting the origin perk, and will help with damage against champions when the mod is in town. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-EndGame, PvE-MajorSpec, PvE-Champion, Controller, MKB
+dimwishlist:item=2531963421&perks=3250034553,791862061,3400784728,3708227201
+dimwishlist:item=2531963421&perks=1482024992,791862061,3400784728,3708227201
+dimwishlist:item=2531963421&perks=4090651448,791862061,3400784728,3708227201
+dimwishlist:item=2531963421&perks=3250034553,106909392,3400784728,3708227201
+dimwishlist:item=2531963421&perks=1482024992,106909392,3400784728,3708227201
+dimwishlist:item=2531963421&perks=4090651448,106909392,3400784728,3708227201
+
+// No Reprieve (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Assault Mag, Tactical Mag), Outlaw, Surrounded
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for general content. The Origin Perk works well in CQC, and in particular for melee-heavy playstyles. High-ish stats make this fairly competitive in slot (if you don't look too closely at Heritage, anyway). You can never go wrong with a bit more range from your barrel, and faster fire rate, or an extra round in the mag and better reload speed. For endgame content, Outlaw keeps the bullets coming, and Surrounded provides a huge boost to CQC damage, complimenting the origin perk, and will help with damage against champions when the mod is in town. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-Champion, Controller, MKB
+dimwishlist:item=2531963421&perks=3250034553,791862061,3400784728,3708227201
+dimwishlist:item=2531963421&perks=1482024992,791862061,3400784728,3708227201
+dimwishlist:item=2531963421&perks=4090651448,791862061,3400784728,3708227201
+dimwishlist:item=2531963421&perks=3250034553,106909392,3400784728,3708227201
+dimwishlist:item=2531963421&perks=1482024992,106909392,3400784728,3708227201
+dimwishlist:item=2531963421&perks=4090651448,106909392,3400784728,3708227201
+
+// Sailspy Pitchglass (PvE first-choice roll)
+// Arrowhead Brake, Extended Battery, Clown Cartridge, Focused Fury
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for endgame content. The Origin Perk works well in CQC, so won't be much use for a LFR. Struggles in a field dominated by Stormchaser, but it is better than Tarantula, if you're looking to replace a roll. Arrowhead Brake should help with landing repeated crit shots, and Enhanced Battery is the only real choice in your second column. For Boss damage, Clown Cartridge and Focused Fury are you best sustained damage combination - get three crits, and then the rest of the magazine does 20% bonus damage. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-EndGame, PvE-BossSpec, Controller, MKB
+dimwishlist:item=1184309824&perks=839105230,2680121939,2284787283,2896038713
+
+// Sailspy Pitchglass (PvE first-choice roll)
+// Arrowhead Brake, Extended Battery, Rapid Hit, (Frenzy, Vorpal Weapon)
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for endgame content. The Origin Perk works well in CQC, so won't be much use for a LFR. Struggles in a field dominated by Stormchaser, but it is better than Tarantula, if you're looking to replace a roll. Fluted Barrel should help with ADS speed and landing repeated crit shots, and Enhanced Battery is the only real choice in your second column. For Major damage, Rapid Hit helps with Stability to keep on target and reload speed, and either Frenzy or Vorpal Weapon increase damage over a short timeframe. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-EndGame, PvE-MajorSpec, Controller, MKB
+dimwishlist:item=1184309824&perks=1840239774,2680121939,247725512,4104185692
+dimwishlist:item=1184309824&perks=1840239774,2680121939,247725512,1546637391
+
+// Planck's Stride (PvE first-choice roll)
+// Arrowhead Brake, Extended Magazine, (Killing Wind, Perpetual Motion), (One For All, Swashbuckler)
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for endgame content. The Origin Perk works well in CQC, so you might find it some use if you're lucky. Arrowhead Brake helps tidy up the recoil direction, and Extended Magazine keeps you firing for as long as possible, even with a reload penalty. Then Killing Wind helps with a bit of Range and mobility, or Perpetual Motion adds useful gunfeel stats, and One For All or Swashbuckler improve your damage output for beefier add clear.  Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-Boss, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=820890091&perks=839105230,2420895100,2450788523,4049631843
+dimwishlist:item=820890091&perks=839105230,2420895100,1428297954,4049631843
+dimwishlist:item=820890091&perks=839105230,2420895100,2450788523,4082225868
+dimwishlist:item=820890091&perks=839105230,2420895100,1428297954,4082225868
+
+// Planck's Stride (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Extended Magazine, Heating Up, (One For All, Swashbuckler)
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for endgame content. The Origin Perk works well in CQC, so you might find it some use if you're lucky. A Stability barrel will help control recoil, and Extended Magazine keeps you firing for as long as possible, even with a reload penalty. Then Heating Up corrects for Recoil Direction and adds more stability, and One For All or Swashbuckler improve your damage output for beefier add clear.  Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-Boss, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=820890091&perks=1392496348,2420895100,1570042021,4049631843
+dimwishlist:item=820890091&perks=1482024992,2420895100,1570042021,4049631843
+dimwishlist:item=820890091&perks=1840239774,2420895100,1570042021,4049631843
+dimwishlist:item=820890091&perks=4090651448,2420895100,1570042021,4049631843
+dimwishlist:item=820890091&perks=1392496348,2420895100,1570042021,4082225868
+dimwishlist:item=820890091&perks=1482024992,2420895100,1570042021,4082225868
+dimwishlist:item=820890091&perks=1840239774,2420895100,1570042021,4082225868
+dimwishlist:item=820890091&perks=4090651448,2420895100,1570042021,4082225868
+
+// Planck's Stride (PvE first-choice roll)
+// Arrowhead Brake, Extended Magazine, (Killing Wind, Perpetual Motion), Thresh
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for general content. The Origin Perk works well in CQC, so you might find it some use if you're lucky. A Stability barrel will help control recoil, and Extended Magazine keeps you firing for as long as possible, even with a reload penalty. Then Heating Up corrects for Recoil Direction and adds more stability, and who doesn't love extra Super energy through Thresh.  Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-Boss, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=820890091&perks=839105230,2420895100,2450788523,2726471870
+dimwishlist:item=820890091&perks=839105230,2420895100,1428297954,2726471870
+
+// Planck's Stride (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Extended Magazine, Heating Up, Thresh
+//notes:Inspired by DMB PvE Podcast 31. PvE first-choice roll for general content. The Origin Perk works well in CQC, so you might find it some use if you're lucky. A Stability barrel will help control recoil, and Extended Magazine keeps you firing for as long as possible, even with a reload penalty. Then Heating Up corrects for Recoil Direction and adds more stability, and who doesn't love extra Super energy through Thresh.  Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-Boss, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=820890091&perks=1392496348,2420895100,1570042021,2726471870
+dimwishlist:item=820890091&perks=1482024992,2420895100,1570042021,2726471870
+dimwishlist:item=820890091&perks=1840239774,2420895100,1570042021,2726471870
+dimwishlist:item=820890091&perks=4090651448,2420895100,1570042021,2726471870
