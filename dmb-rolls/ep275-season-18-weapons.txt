@@ -1,0 +1,82 @@
+@title:Season of Plunder PvP weapon picks with Gleaux
+@description:Season 18 weapons with Right Hook origin perk - no selections for Planck's Stride or Sailspy Pitchglass
+
+// Tarnished Mettle (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling), Steady Rounds, Moving Target, (Eye of the Storm, Explosive Rounds)
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. Not a great TTK as at v6.2.0.6, and the Origin Perk is really aimed at CQC, so won't be much use. In-band stats except for the high Airborne Effectiveness (if you wanted to jump shoot with a Scout!). The lethality perks are difficult to proc to a level where they make any meaningful difference, so aim to shape yourself something close a legendary MIDA for duelling. You can either help sort out the wonky Recoil Direction with Arrowhead Brake, or look to add stability with your barrel. You don't really need to worry about range, so Steady Rounds gives you even more stability and increases AE to 25. A Targeting mod or two on your helmet and Enhanced Moving Target can get you close to 100 Aim Assistance. Finally Enhanced Eye of the Storm just makes landing crits in combat easier or Explosive Round crits at 200RPM can seriously mess with an opponent's day.  Recommended MW: Stability or Handling, with a Sprint Grip, Quick Access Sling, Freehand Grip (or Icarus Grip if you're serious about aerial use) mod depending on your preference. Tags: PvP, PvP-God, PvP-Duel, Controller, MKB
+dimwishlist:item=2218569744&perks=839105230,3177308360,588594999,699525795
+dimwishlist:item=2218569744&perks=1392496348,3177308360,588594999,699525795
+dimwishlist:item=2218569744&perks=1482024992,3177308360,588594999,699525795
+dimwishlist:item=2218569744&perks=1840239774,3177308360,588594999,699525795
+dimwishlist:item=2218569744&perks=4090651448,3177308360,588594999,699525795
+dimwishlist:item=2218569744&perks=839105230,3177308360,588594999,3038247973
+dimwishlist:item=2218569744&perks=1392496348,3177308360,588594999,3038247973
+dimwishlist:item=2218569744&perks=1482024992,3177308360,588594999,3038247973
+dimwishlist:item=2218569744&perks=1840239774,3177308360,588594999,3038247973
+dimwishlist:item=2218569744&perks=4090651448,3177308360,588594999,3038247973
+
+// Blood Feud (PvP first-choice roll)
+// Hammer-Forged Rifling, Accurized Rounds, Dynamic Sway Reducation, Elemental Capacitor
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is really aimed at CQC, so should be useful here, and the accuracy-adjusted time to kill is competitive, but this is difficult to recommend over Ikelos or Borrowed Time which both have better base stats. If you are going to shape one for duelling, to tuck away just in case, you might as well add to range with barrel and mag, and then make it more controllable with Dynamic Sway Reduction and Elemental Capacitor with a Void subclass. Recommended MW: Stability or Range, with a Freehand Grip, Quick Access Sling, or Sprint Grip mod depending on your preference. Tags: PvP, PvP-God, PvP-Duel, Controller, MKB
+dimwishlist:item=1509167284&perks=3250034553,3142289711,1359896290,3511092054
+
+// Blood Feud (PvP first-choice roll)
+// Polygonal Rifling, Steady Rounds, Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is really aimed at CQC, so should be useful here, and the accuracy-adjusted time to kill is competitive, but this is difficult to recommend over Ikelos or Borrowed Time which both have better base stats. If you are going to shape one for kill-chaining, to tuck away just in case, just lean into CQC and add as much stability as you can with barrel and mag and then take advantage of the synergy between Pugilist and Swashbuckler - this could work well on Stasis classes using abilities to freeze and then melee an opponent (also proccing the origin trait) to go on a tear with fully-procced Swashbuckler, and additionally building into Font of Might on your armour mods for even more damage. Recommended MW: Stability, with a Freehand Grip, Quick Access Sling, or Sprint Grip mod depending on your preference. Tags: PvP, PvP-God, PvP-Chain, Controller, MKB
+dimwishlist:item=1509167284&perks=3250034553,3142289711,1359896290,3511092054
+
+// Brigand's Law (PvP first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Hammer-Forged Rifling), Accurized Rounds, (Hip-Fire Grip, Threat Detector, Perpetual Motion), (Swashbuckler, Surrounded)
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Rapid-fire sidearms have competitive TTK as at v6.2.0.6, and the stats compare well in the slot but it's hard to look past Drang if you're thinking about energy sidearms. Range is really constrained in sidearms, so you could add an extra 0.75m or boost handling or stability with your barrel. With the traits, lean into an aggressive playstyle and shape a kill-chaining weapon with Hip-Fire Grip to improve hip-fire performance, or Threat Detector or Perpetual Motion to add to your gunfeel stats in the first trait column, and your choice of Swashbuckler or Surrounded, both of which can reduce your TTK dramatically when fully procced in the second. Recommended MW: Stability, with a Freehand Grip mod. Tags: PvP, PvP-God, PvP-Chain, Controller, MKB
+dimwishlist:item=1298815317&perks=4090651448,3142289711,1866048759,4082225868
+dimwishlist:item=1298815317&perks=1840239774,3142289711,1866048759,4082225868
+dimwishlist:item=1298815317&perks=1482024992,3142289711,1866048759,4082225868
+dimwishlist:item=1298815317&perks=3250034553,3142289711,1866048759,4082225868
+dimwishlist:item=1298815317&perks=4090651448,3142289711,4071163871,4082225868
+dimwishlist:item=1298815317&perks=1840239774,3142289711,4071163871,4082225868
+dimwishlist:item=1298815317&perks=1482024992,3142289711,4071163871,4082225868
+dimwishlist:item=1298815317&perks=3250034553,3142289711,4071163871,4082225868
+dimwishlist:item=1298815317&perks=4090651448,3142289711,1428297954,4082225868
+dimwishlist:item=1298815317&perks=1840239774,3142289711,1428297954,4082225868
+dimwishlist:item=1298815317&perks=1482024992,3142289711,1428297954,4082225868
+dimwishlist:item=1298815317&perks=3250034553,3142289711,1428297954,4082225868
+dimwishlist:item=1298815317&perks=4090651448,3142289711,1866048759,3708227201
+dimwishlist:item=1298815317&perks=1840239774,3142289711,1866048759,3708227201
+dimwishlist:item=1298815317&perks=1482024992,3142289711,1866048759,3708227201
+dimwishlist:item=1298815317&perks=3250034553,3142289711,1866048759,3708227201
+dimwishlist:item=1298815317&perks=4090651448,3142289711,4071163871,3708227201
+dimwishlist:item=1298815317&perks=1840239774,3142289711,4071163871,3708227201
+dimwishlist:item=1298815317&perks=1482024992,3142289711,4071163871,3708227201
+dimwishlist:item=1298815317&perks=3250034553,3142289711,4071163871,3708227201
+dimwishlist:item=1298815317&perks=4090651448,3142289711,1428297954,3708227201
+dimwishlist:item=1298815317&perks=1840239774,3142289711,1428297954,3708227201
+dimwishlist:item=1298815317&perks=1482024992,3142289711,1428297954,3708227201
+dimwishlist:item=1298815317&perks=3250034553,3142289711,1428297954,3708227201
+
+// No Reprieve (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Accurized Rounds, Pugilist, Headstone
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Excellent slug-shottie, particularly for Stasis subclasses who can use an Aspect to create Stasis shards and Fragments to use those to regain melee and grenade energy or for Damage Reduction. Go for range with your barrel and mag. Then, as this is a CQC weapon, Pugilist is the best option for the first trait column, and  Headstone gives you all the stasis good stuff in the second and, as a bonus in Comp or Trials, prevents revives while the crystal persists. Recommended MW: Range, with a Freehand Grip or Targeting Adjustor mod. Tags: PvP, PvP-God, PvP-Chain, Controller, MKB
+dimwishlist:item=2531963421&perks=202670084,3142289711,691659142,124408337
+dimwishlist:item=2531963421&perks=3250034553,3142289711,691659142,124408337
+
+// No Reprieve (PvP backup roll)
+// (Full Bore, Hammer-Forged Rifling), Light Mag, Pugilist, Headstone
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Excellent slug-shottie, particularly for kill-chaining with Stasis subclasses who can use an Aspect to create Stasis shards and Fragments to use those to regain melee and grenade energy or for Damage Reduction. Go for range with your barrel and mag. Then, as this is a CQC weapon, Pugilist is the best option for the first trait column, and  Headstone gives you all the stasis good stuff in the second and, as a bonus in Comp or Trials, prevents revives while the crystal persists. Recommended MW: Range, with a Freehand Grip or Targeting Adjustor mod. Tags: PvP, PvP-PvP-Chain, Controller, MKB
+dimwishlist:item=2531963421&perks=202670084,679225683,691659142,124408337
+dimwishlist:item=2531963421&perks=3250034553,679225683,691659142,124408337
+
+// No Reprieve (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Accurized Rounds, Pugilist, (Swashbuckler, Surrounded)
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Good choice for a slug-shottie, and the perks can make this into a kill-chaining monster if you can find the ammo. Go for range with your barrel and mag. Then, as this is a CQC weapon, Pugilist is the best option for the first train column, and then a fully-procced Swashbuckler or Enhanced Surrounded (when Bungie rolls the boost from the mod into the perk) in the second column brings the damage up to one-shot body levels. Recommended MW: Range, with a Freehand Grip or Targeting Adjustor mod. Tags: PvP, PvP-God, PvP-Chain, Controller, MKB
+dimwishlist:item=2531963421&perks=202670084,3142289711,691659142,4082225868
+dimwishlist:item=2531963421&perks=3250034553,3142289711,691659142,4082225868
+dimwishlist:item=2531963421&perks=202670084,3142289711,691659142,3708227201
+dimwishlist:item=2531963421&perks=3250034553,3142289711,691659142,3708227201
+
+// No Reprieve (PvP backup roll)
+// (Full Bore, Hammer-Forged Rifling), Light Mag, Pugilist, (Swashbuckler, Surrounded)
+//notes:Inspired by DMB Podcast 275 conversation with Gleaux. The Origin Perk is aimed at CQC, so should be useful here. Good choice for a slug-shottie, and the perks can make this into a kill-chaining monster if you can find the ammo. Go for range with your barrel and mag. Then, as this is a CQC weapon, Pugilist is the best option for the first train column, and then a fully-procced Swashbuckler or Enhanced Surrounded (when Bungie rolls the boost from the mod into the perk) in the second column brings the damage up to one-shot body levels. Recommended MW: Range, with a Freehand Grip or Targeting Adjustor mod. Tags: PvP, PvP-Chain, Controller, MKB
+dimwishlist:item=2531963421&perks=202670084,679225683,691659142,4082225868
+dimwishlist:item=2531963421&perks=3250034553,679225683,691659142,4082225868
+dimwishlist:item=2531963421&perks=202670084,679225683,691659142,3708227201
+dimwishlist:item=2531963421&perks=3250034553,679225683,691659142,3708227201
