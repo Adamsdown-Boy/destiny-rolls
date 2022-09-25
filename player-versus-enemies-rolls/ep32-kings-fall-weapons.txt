@@ -101,6 +101,106 @@ dimwishlist:item=2221264583&perks=4090651448,3230963543,3523296417,11612903
 dimwishlist:item=2221264583&perks=3250034553,3230963543,3523296417,11612903
 dimwishlist:item=2221264583&perks=1482024992,3230963543,3523296417,11612903
 
+// Smite of Merain (Harrowed) (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Stats For All, One For All
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Excellent in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Arrowhead Brake will straighten up the recoil direction, but to be honest you could go with boosts to stability or handling instead. Tactical Mag or Flared Magwell help with stability and reload speed. For endgame content, you'll have plenty of bullets to proc a SOFA (Stats for All/One for All) roll for boosts to gunfeel stats and a chunky damage bonus. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3407395594&perks=839105230,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=3661387068,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1482024992,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1840239774,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=4090651448,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=3250034553,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1482024992,106909392,1583705720,4049631843
+dimwishlist:item=3407395594&perks=839105230,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=3661387068,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1482024992,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=3250034553,3230963543,1583705720,4049631843
+dimwishlist:item=3407395594&perks=1482024992,3230963543,1583705720,4049631843
+
+// Smite of Merain (Harrowed) (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Focused Fury, Dragonfly
+//notes:Inspired by DMB PvE Podcast 32.  PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Excellent in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Arrowhead Brake will straighten up the recoil direction, but to be honest you could go with boosts to stability or handling instead. Tactical Mag or Flared Magwell help with stability and reload speed. For endgame content, it's unusual to be able to have two damage perks on a weapon, but Focused Fury can pair well with Firefly for dealing with groups of Minor adds and the occasional Major. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3407395594&perks=839105230,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1392496348,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=3661387068,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1482024992,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1840239774,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=4090651448,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=3250034553,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1482024992,106909392,2896038713,3824105627
+dimwishlist:item=3407395594&perks=839105230,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1392496348,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=3661387068,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1482024992,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1840239774,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=4090651448,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=3250034553,3230963543,2896038713,3824105627
+dimwishlist:item=3407395594&perks=1482024992,3230963543,2896038713,3824105627
+
+// Smite of Merain (Harrowed) (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Focused Fury, Vorpal Weapon
+//notes:Inspired by DMB PvE Podcast 32.  PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Excellent in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Arrowhead Brake will straighten up the recoil direction, but to be honest you could go with boosts to stability or handling instead. Tactical Mag or Flared Magwell help with stability and reload speed. For endgame content, it's unusual to be able to have two damage perks on a weapon, but Focused Fury can pair well with Vorpal Weapon for dealing with chunkier Minors, the occasional Major, and with Champions, when there's a matching mod around. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MajorSpec, PvE-Champion, PvE-EndGame, Controller, MKB
+dimwishlist:item=3407395594&perks=839105230,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1392496348,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=3661387068,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1482024992,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1840239774,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=4090651448,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=3250034553,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1482024992,106909392,2896038713,1546637391
+dimwishlist:item=3407395594&perks=839105230,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1392496348,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=3661387068,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1482024992,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1840239774,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=4090651448,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=3250034553,3230963543,2896038713,1546637391
+dimwishlist:item=3407395594&perks=1482024992,3230963543,2896038713,1546637391
+
+// Smite of Merain (Harrowed) (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Pugilist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for melee builds in general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Excellent in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Arrowhead Brake will straighten up the recoil direction, but to be honest you could go with boosts to stability or handling instead. Tactical Mag or Flared Magwell help with stability and reload speed. For melee-focused builds, the combination of Pugilist and Swashbuckler are the obvious matching traits to choose. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=3407395594&perks=839105230,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=1392496348,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=3661387068,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=1482024992,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=3250034553,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=1482024992,106909392,691659142,4082225868
+dimwishlist:item=3407395594&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=3661387068,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=3250034553,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=1482024992,3230963543,691659142,4082225868
+
+// Smite of Merain (Harrowed) (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Extended Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for grenade builds in general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Excellent in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Arrowhead Brake will straighten up the recoil direction, but to be honest you could go with boosts to stability or handling instead. Tactical Mag or Flared Magwell help with stability and reload speed. For grenade-focused builds, the combination of Demolitionist and Adrenaline Junkie are the obvious matching traits to choose. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=3407395594&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=1392496348,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=3661387068,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=3407395594&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=3661387068,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=3250034553,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=1482024992,3230963543,3523296417,11612903
+
 // Doom of Chelchis (PvE first-choice roll)
 // (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Stats For All, One For All
 //notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! With a Precision Frame, you won't need to worry too much about recoil direction, and you already have tonnes of range, so focus on Stability and Handling, with Tactical Mag or Flared Magwell to help further with stability and reload speed. Although less useful with precision weapons (alth reloading in a fireteam with the origin perk should give you plenty of shots to proc and use), your SOFA (Stats For/One For All) roll is a good as ever for gunfeel stat and damage boosts. Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
@@ -192,6 +292,98 @@ dimwishlist:item=1937552980&perks=1392496348,3230963543,3038247973,776531651
 dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973,776531651
 dimwishlist:item=1937552980&perks=1840239774,3230963543,3038247973,776531651
 dimwishlist:item=1937552980&perks=4090651448,3230963543,3038247973,776531651
+
+// Doom of Chelchis (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Stats For All, One For All
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! With a Precision Frame, you won't need to worry too much about recoil direction, and you already have tonnes of range, so focus on Stability and Handling, with Tactical Mag or Flared Magwell to help further with stability and reload speed. Although less useful with precision weapons (alth reloading in a fireteam with the origin perk should give you plenty of shots to proc and use), your SOFA (Stats For/One For All) roll is a good as ever for gunfeel stat and damage boosts. Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1184692845&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=1184692845&perks=1482024992,106909392,1583705720,4049631843
+dimwishlist:item=1184692845&perks=1840239774,106909392,1583705720,4049631843
+dimwishlist:item=1184692845&perks=4090651448,106909392,1583705720,4049631843
+dimwishlist:item=1184692845&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=1184692845&perks=1482024992,3230963543,1583705720,4049631843
+dimwishlist:item=1184692845&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=1184692845&perks=4090651448,3230963543,1583705720,4049631843
+
+// Doom of Chelchis (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Adaptive Munitions, (Frenzy, Focused Fury)
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! With a Precision Frame, you won't need to worry too much about recoil direction, and you already have tonnes of range, so focus on Stability and Handling, with Tactical Mag or Flared Magwell to help further with stability and reload speed. Adaptive Munitions is S-Tier in endgame, match game, content and when paired with a damage-boosting trait like Frenzy or Focused Fury, you have everything you need for enemies (shileded or not) in end-game content. Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1184692845&perks=1392496348,106909392,1048183818,4104185692
+dimwishlist:item=1184692845&perks=1482024992,106909392,1048183818,4104185692
+dimwishlist:item=1184692845&perks=1840239774,106909392,1048183818,4104185692
+dimwishlist:item=1184692845&perks=4090651448,106909392,1048183818,4104185692
+dimwishlist:item=1184692845&perks=1392496348,3230963543,1048183818,4104185692
+dimwishlist:item=1184692845&perks=1482024992,3230963543,1048183818,4104185692
+dimwishlist:item=1184692845&perks=1840239774,3230963543,1048183818,4104185692
+dimwishlist:item=1184692845&perks=4090651448,3230963543,1048183818,4104185692
+dimwishlist:item=1184692845&perks=1392496348,106909392,1048183818,2896038713
+dimwishlist:item=1184692845&perks=1482024992,106909392,1048183818,2896038713
+dimwishlist:item=1184692845&perks=1840239774,106909392,1048183818,2896038713
+dimwishlist:item=1184692845&perks=4090651448,106909392,1048183818,2896038713
+dimwishlist:item=1184692845&perks=1392496348,3230963543,1048183818,2896038713
+dimwishlist:item=1184692845&perks=1482024992,3230963543,1048183818,2896038713
+dimwishlist:item=1184692845&perks=1840239774,3230963543,1048183818,2896038713
+dimwishlist:item=1184692845&perks=4090651448,3230963543,1048183818,2896038713
+
+// Doom of Chelchis (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Explosive Payload, Vorpal Weapon), (Frenzy, Focused Fury)
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! With a Precision Frame, you won't need to worry too much about recoil direction, and you already have tonnes of range, so focus on Stability and Handling, with Tactical Mag or Flared Magwell to help further with stability and reload speed. It's rare to be able to roll two damage perks so if you're looking for something that you can use against Minor adds, the occasional Major or Champion, then Explosive Payload or Vorpal Weapon, in combination with Frenzy or Focused Fury should give you pretty much permanent additional damage uptime.  Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-Champion, Controller, MKB
+dimwishlist:item=1184692845&perks=1392496348,106909392,3038247973,4104185692
+dimwishlist:item=1184692845&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=1184692845&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=1184692845&perks=4090651448,106909392,3038247973,4104185692
+dimwishlist:item=1184692845&perks=1392496348,3230963543,3038247973,4104185692
+dimwishlist:item=1184692845&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=1184692845&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=1184692845&perks=4090651448,3230963543,3038247973,4104185692
+dimwishlist:item=1184692845&perks=1392496348,106909392,1546637391,4104185692
+dimwishlist:item=1184692845&perks=1482024992,106909392,1546637391,4104185692
+dimwishlist:item=1184692845&perks=1840239774,106909392,1546637391,4104185692
+dimwishlist:item=1184692845&perks=4090651448,106909392,1546637391,4104185692
+dimwishlist:item=1184692845&perks=1392496348,3230963543,1546637391,4104185692
+dimwishlist:item=1184692845&perks=1482024992,3230963543,1546637391,4104185692
+dimwishlist:item=1184692845&perks=1840239774,3230963543,1546637391,4104185692
+dimwishlist:item=1184692845&perks=4090651448,3230963543,1546637391,4104185692
+dimwishlist:item=1184692845&perks=1392496348,106909392,3038247973,2896038713
+dimwishlist:item=1184692845&perks=1482024992,106909392,3038247973,2896038713
+dimwishlist:item=1184692845&perks=1840239774,106909392,3038247973,2896038713
+dimwishlist:item=1184692845&perks=4090651448,106909392,3038247973,2896038713
+dimwishlist:item=1184692845&perks=1392496348,3230963543,3038247973,2896038713
+dimwishlist:item=1184692845&perks=1482024992,3230963543,3038247973,2896038713
+dimwishlist:item=1184692845&perks=1840239774,3230963543,3038247973,2896038713
+dimwishlist:item=1184692845&perks=4090651448,3230963543,3038247973,2896038713
+dimwishlist:item=1184692845&perks=1392496348,106909392,1546637391,2896038713
+dimwishlist:item=1184692845&perks=1482024992,106909392,1546637391,2896038713
+dimwishlist:item=1184692845&perks=1840239774,106909392,1546637391,2896038713
+dimwishlist:item=1184692845&perks=4090651448,106909392,1546637391,2896038713
+dimwishlist:item=1184692845&perks=1392496348,3230963543,1546637391,2896038713
+dimwishlist:item=1184692845&perks=1482024992,3230963543,1546637391,2896038713
+dimwishlist:item=1184692845&perks=1840239774,3230963543,1546637391,2896038713
+dimwishlist:item=1184692845&perks=4090651448,3230963543,1546637391,2896038713
+
+// Doom of Chelchis (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Firefly, Dragonfly
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! With a Precision Frame, you won't need to worry too much about recoil direction, and you already have tonnes of range, so focus on Stability and Handling, with Tactical Mag or Flared Magwell to help further with stability and reload speed. For meme-worthy Minor add-clearing, what's better than a combination of Firefly and Dragonfly for all the crit explosions? Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1184692845&perks=1392496348,106909392,3824105627,2848615171
+dimwishlist:item=1184692845&perks=1482024992,106909392,3824105627,2848615171
+dimwishlist:item=1184692845&perks=1840239774,106909392,3824105627,2848615171
+dimwishlist:item=1184692845&perks=4090651448,106909392,3824105627,2848615171
+dimwishlist:item=1184692845&perks=1392496348,3230963543,3824105627,2848615171
+dimwishlist:item=1184692845&perks=1482024992,3230963543,3824105627,2848615171
+dimwishlist:item=1184692845&perks=1840239774,3230963543,3824105627,2848615171
+dimwishlist:item=1184692845&perks=4090651448,3230963543,3824105627,2848615171
+
+// Doom of Chelchis (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell), Explosive Payload, Repulsor Brace
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for void subclasses in general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! With a Precision Frame, you won't need to worry too much about recoil direction, and you already have tonnes of range, so focus on Stability and Handling, with Tactical Mag or Flared Magwell to help further with stability and reload speed. Then for Void subclasses, apply your void debuff to a target, use the additional damage from Explosive Payload to kill them, and Repulsor Brace to gain an Overshield. Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=1184692845&perks=1392496348,106909392,3038247973,776531651
+dimwishlist:item=1184692845&perks=1482024992,106909392,3038247973,776531651
+dimwishlist:item=1184692845&perks=1840239774,106909392,3038247973,776531651
+dimwishlist:item=1184692845&perks=4090651448,106909392,3038247973,776531651
+dimwishlist:item=1184692845&perks=1392496348,3230963543,3038247973,776531651
+dimwishlist:item=1184692845&perks=1482024992,3230963543,3038247973,776531651
+dimwishlist:item=1184692845&perks=1840239774,3230963543,3038247973,776531651
+dimwishlist:item=1184692845&perks=4090651448,3230963543,3038247973,776531651
 
 // Zaouli's Bane (PvE first-choice roll)
 // (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), Extended Mag, Ensemble, (One For All, Focused Fury)
@@ -296,6 +488,109 @@ dimwishlist:item=431721920&perks=3250034553,1087426260,691659142,3523296417
 dimwishlist:item=431721920&perks=1482024992,1087426260,691659142,3523296417
 dimwishlist:item=431721920&perks=4090651448,1087426260,691659142,3523296417
 
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), Extended Mag, Ensemble, (One For All, Focused Fury)
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for endgame content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with Extended Mag (using a trait to help with the reload penalty), to help with the origin trait boost. For end-game content with a fireteam, Ensemble helps with your reloads and handling, and One For All or Focused Fury are your reliable damage boost sources. Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=291092617&perks=1840239774,2420895100,2621346526,4049631843
+dimwishlist:item=291092617&perks=1392496348,2420895100,2621346526,4049631843
+dimwishlist:item=291092617&perks=3250034553,2420895100,2621346526,4049631843
+dimwishlist:item=291092617&perks=1482024992,2420895100,2621346526,4049631843
+dimwishlist:item=291092617&perks=4090651448,2420895100,2621346526,4049631843
+dimwishlist:item=291092617&perks=1840239774,2420895100,2621346526,2896038713
+dimwishlist:item=291092617&perks=1392496348,2420895100,2621346526,2896038713
+dimwishlist:item=291092617&perks=3250034553,2420895100,2621346526,2896038713
+dimwishlist:item=291092617&perks=1482024992,2420895100,2621346526,2896038713
+dimwishlist:item=291092617&perks=4090651448,2420895100,2621346526,2896038713
+
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag), Explosive Payload, (One For All, Focused Fury)
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for endgame content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with either Tactical Mag or Appended Mag plus a Backup Mag mod, to help with the origin trait boost. For end-game content with a fireteam, Explosive Payload adds flinch and damage (and is useful to disrupt Overload Champions with a matching mod), and One For All or Focused Fury are your reliable damage boost sources. Recommended MW: Reload Speed, Handling or Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, PvE-Champion, Controller, MKB|tags:2420895100
+dimwishlist:item=291092617&perks=1840239774,106909392,3038247973,4049631843
+dimwishlist:item=291092617&perks=1392496348,106909392,3038247973,4049631843
+dimwishlist:item=291092617&perks=3250034553,106909392,3038247973,4049631843
+dimwishlist:item=291092617&perks=1482024992,106909392,3038247973,4049631843
+dimwishlist:item=291092617&perks=4090651448,106909392,3038247973,4049631843
+dimwishlist:item=291092617&perks=1840239774,1087426260,3038247973,4049631843
+dimwishlist:item=291092617&perks=1392496348,1087426260,3038247973,4049631843
+dimwishlist:item=291092617&perks=3250034553,1087426260,3038247973,4049631843
+dimwishlist:item=291092617&perks=1482024992,1087426260,3038247973,4049631843
+dimwishlist:item=291092617&perks=4090651448,1087426260,3038247973,4049631843
+dimwishlist:item=291092617&perks=1840239774,106909392,3038247973,2896038713
+dimwishlist:item=291092617&perks=1392496348,106909392,3038247973,2896038713
+dimwishlist:item=291092617&perks=3250034553,106909392,3038247973,2896038713
+dimwishlist:item=291092617&perks=1482024992,106909392,3038247973,2896038713
+dimwishlist:item=291092617&perks=4090651448,106909392,3038247973,2896038713
+dimwishlist:item=291092617&perks=1840239774,1087426260,3038247973,2896038713
+dimwishlist:item=291092617&perks=1392496348,1087426260,3038247973,2896038713
+dimwishlist:item=291092617&perks=3250034553,1087426260,3038247973,2896038713
+dimwishlist:item=291092617&perks=1482024992,1087426260,3038247973,2896038713
+dimwishlist:item=291092617&perks=4090651448,1087426260,3038247973,2896038713
+
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag), Explosive Payload, Firefly
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with Tactical Mag or Appended Mag plus the Backup Mag mod, to help with the origin trait boost. Then shape your own solar Fatebringer with Explosive Payload in the first trait slot which, adds flinch and damage, and is useful to disrupt Overload Champions with a matching mod, and Firefly (which should have the spec mod effects rolled in soon by Bungie) in the second. Recommended MW: Reload Speed, Handling or Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-Champion, Controller, MKB|tags:2420895100
+dimwishlist:item=291092617&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=291092617&perks=1392496348,106909392,3038247973,3824105627
+dimwishlist:item=291092617&perks=3250034553,106909392,3038247973,3824105627
+dimwishlist:item=291092617&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=291092617&perks=4090651448,106909392,3038247973,3824105627
+dimwishlist:item=291092617&perks=1840239774,1087426260,3038247973,3824105627
+dimwishlist:item=291092617&perks=1392496348,1087426260,3038247973,3824105627
+dimwishlist:item=291092617&perks=3250034553,1087426260,3038247973,3824105627
+dimwishlist:item=291092617&perks=1482024992,1087426260,3038247973,3824105627
+dimwishlist:item=291092617&perks=4090651448,1087426260,3038247973,3824105627
+
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), Extended Mag, Ensemble, Incandescent
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Solar subclasses in general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with Extended Mag (using a trait to help with the reload penalty, to help with the origin trait boost. Then, to synergise with Solar subclasses, you can craft a mini-Sunshot by taking Ensemble for the faster reload and handling in a fireteam, together with Incandescent for your scorch and ignite explosion chaining. Recommended MW: Reload Speed, Handling or Stability, with a damage-boosting (Minor, Adept Big Ones, or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, PvE-Champion, Controller, MKB
+dimwishlist:item=291092617&perks=1840239774,2420895100,2621346526,4293542123
+dimwishlist:item=291092617&perks=1392496348,2420895100,2621346526,4293542123
+dimwishlist:item=291092617&perks=3250034553,2420895100,2621346526,4293542123
+dimwishlist:item=291092617&perks=1482024992,2420895100,2621346526,4293542123
+dimwishlist:item=291092617&perks=4090651448,2420895100,2621346526,4293542123
+
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag), (Explosive Payload, Ensemble), Incandescent
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Solar subclasses in general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with Tactical Mag or Appended Mag plus the Backup Mag mod, to help with the origin trait boost. Then, to synergise with Solar subclasses, you can craft a mini-Sunshot by taking Explosive Payload for additional flinch, damage and utility against Overload Champions, together with Incandescent for your scorch and ignite explosion chaining. Recommended MW: Reload Speed, Handling or Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=291092617&perks=1840239774,106909392,3038247973,4293542123
+dimwishlist:item=291092617&perks=1392496348,106909392,3038247973,4293542123
+dimwishlist:item=291092617&perks=3250034553,106909392,3038247973,4293542123
+dimwishlist:item=291092617&perks=1482024992,106909392,3038247973,4293542123
+dimwishlist:item=291092617&perks=4090651448,106909392,3038247973,4293542123
+dimwishlist:item=291092617&perks=1840239774,1087426260,3038247973,4293542123
+dimwishlist:item=291092617&perks=1392496348,1087426260,3038247973,4293542123
+dimwishlist:item=291092617&perks=3250034553,1087426260,3038247973,4293542123
+dimwishlist:item=291092617&perks=1482024992,1087426260,3038247973,4293542123
+dimwishlist:item=291092617&perks=4090651448,1087426260,3038247973,4293542123
+
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag), (Explosive Payload, Ensemble), Incandescent
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Solar subclasses in general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with Tactical Mag or Appended Mag plus the Backup Mag mod, to help with the origin trait boost. Then, to synergise with Solar subclasses, you can craft a mini-Sunshot by taking Ensemble for the faster reload and handling in a fireteam, building into the origin trait, together with Incandescent for your scorch and ignite explosion chaining. Recommended MW: Reload Speed, Handling or Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=291092617&perks=1840239774,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=1392496348,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=3250034553,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=1482024992,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=4090651448,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=1840239774,1087426260,2621346526,4293542123
+dimwishlist:item=291092617&perks=1392496348,1087426260,2621346526,4293542123
+dimwishlist:item=291092617&perks=3250034553,1087426260,2621346526,4293542123
+dimwishlist:item=291092617&perks=1482024992,1087426260,2621346526,4293542123
+dimwishlist:item=291092617&perks=4090651448,1087426260,2621346526,4293542123
+
+// Zaouli's Bane (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag), Pugilist, Demolitionist
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats and a great perk pool will give probably give you crafting headaches to shape and level all the rolls you might want! Use the barrel to round out your preferred Range/ Stability/ Handling stat, and then you want as many bullets in the mag as possible with Tactical Mag or Appended Mag plus the Backup Mag mod, to help with the origin trait boost. It's not common to get Pugilist and Demolitionist on the same weapon, so take advantage to melee everything and throw all the grenades. Recommended MW: Reload Speed, Handling or Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=291092617&perks=1840239774,106909392,691659142,3523296417
+dimwishlist:item=291092617&perks=1392496348,106909392,691659142,3523296417
+dimwishlist:item=291092617&perks=3250034553,106909392,691659142,3523296417
+dimwishlist:item=291092617&perks=1482024992,106909392,691659142,3523296417
+dimwishlist:item=291092617&perks=4090651448,106909392,691659142,3523296417
+dimwishlist:item=291092617&perks=1840239774,1087426260,691659142,3523296417
+dimwishlist:item=291092617&perks=1392496348,1087426260,691659142,3523296417
+dimwishlist:item=291092617&perks=3250034553,1087426260,691659142,3523296417
+dimwishlist:item=291092617&perks=1482024992,1087426260,691659142,3523296417
+dimwishlist:item=291092617&perks=4090651448,1087426260,691659142,3523296417
+
 // Defiance of Yasmin (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Barrel, Ensemble, Firing Line
 //notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats, plus the lowest Zoom in class. Add Handling with the barrel, and then maximise your mag size with Extended Mag and Backup Mag together. Ensemble builds into the Origin Perk, which gives you up to 14 in the mag with a fireteam of six, and also offsets the Reload Speed penalty, and then Firing Line adds 20% crit damage in a fireteam (see all that synergy!) for sustained Boss damage. Recommended MW: Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-BossSpec, PvE-EndGame, Controller, MKB
@@ -312,6 +607,23 @@ dimwishlist:item=3228096719&perks=4090651448,2420895100,1556840489,1546637391
 dimwishlist:item=3228096719&perks=1840239774,2420895100,1556840489,1771339417
 dimwishlist:item=3228096719&perks=839105230,2420895100,1556840489,1771339417
 dimwishlist:item=3228096719&perks=4090651448,2420895100,1556840489,1771339417
+
+// Defiance of Yasmin (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Barrel, Ensemble, Firing Line
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats, plus the lowest Zoom in class. Add Handling with the barrel, and then maximise your mag size with Extended Mag and Backup Mag together. Ensemble builds into the Origin Perk, which gives you up to 14 in the mag with a fireteam of six, and also offsets the Reload Speed penalty, and then Firing Line adds 20% crit damage in a fireteam (see all that synergy!) for sustained Boss damage. Recommended MW: Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-BossSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3503019618&perks=1840239774,2420895100,2621346526,1771339417
+dimwishlist:item=3503019618&perks=839105230,2420895100,2621346526,1771339417
+dimwishlist:item=3503019618&perks=4090651448,2420895100,2621346526,1771339417
+
+// Defiance of Yasmin (Harrowed) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Extended Barrel, Lead From Gold, (Firing Line, Vorpal Weapon)
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Good in-slot stats, plus the lowest Zoom in class. Add Handling with the barrel, and then maximise your mag size with Extended Mag and Backup Mag together. Lead From Gold means you only have to run Power Ammo finders and scavengers so you'll have plenty of ammo for use against Majors and Champions, with the added damage from Firing Line or Vorpal Weapon. Recommended MW: Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MajorSpec, PvE-EndGame, PvE-Champion, Controller, MKB
+dimwishlist:item=3503019618&perks=1840239774,2420895100,1556840489,1546637391
+dimwishlist:item=3503019618&perks=839105230,2420895100,1556840489,1546637391
+dimwishlist:item=3503019618&perks=4090651448,2420895100,1556840489,1546637391
+dimwishlist:item=3503019618&perks=1840239774,2420895100,1556840489,1771339417
+dimwishlist:item=3503019618&perks=839105230,2420895100,1556840489,1771339417
+dimwishlist:item=3503019618&perks=4090651448,2420895100,1556840489,1771339417
 
 // Midha's Reckoning (PvE first-choice roll)
 // (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, (Field Prep, Unrelenting), Reservoir Burst
@@ -358,6 +670,52 @@ dimwishlist:item=3969066556&perks=1482024992,689005463,1799762209,2610012052
 dimwishlist:item=3969066556&perks=1840239774,689005463,1799762209,2610012052
 dimwishlist:item=3969066556&perks=4090651448,689005463,1799762209,2610012052
 dimwishlist:item=3969066556&perks=839105230,689005463,1799762209,2610012052
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, (Field Prep, Unrelenting), Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery can push you up to 10 shots (8+2) with the origin trait. You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. RB procs on any overflowed charges from the origin trait, giving you up to three shots with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1482024992,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1840239774,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=4090651448,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=839105230,1483536627,2869569095,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, Field Prep, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to 10 shots (8+2) with the origin trait and any shots from this will melt Minor adds, so why not take advantage of a shorter charge time from Accelerated Coils? You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve), or look for health regeneration with Unrelenting, and use in combination with Reservoir Burst. RB procs on any overflowed charges from the origin trait, giving you up to three shots with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,2869569095,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Accelerated Coils, (Cornered, Field Prep, Unrelenting), Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to 10 shots (8+2) with the origin trait and any shots from this will melt Minor adds, so why not take advantage of a shorter charge time from Accelerated Coils?  Further build into the faster charge time with Cornered, add ammo reserves and faster reloads with Field Prep, or trigger health regeneration on kills with Unrelenting in the first trait column. Reservoir Burst procs on any overflowed charges from the origin trait, giving you up to three shots with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=3250034553,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=3250034553,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,3108830275,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Accelerated Coils, Cornered, Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Arc 3.0 builds in end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to 10 shots (8+2) with the origin trait and any shots from this will melt Minor adds, so why not take advantage of a shorter charge time from Accelerated Coils?  Further build into the faster charge time for burst damage against Majors with Cornered, in the first trait column. Fully triggered Golden Tricorn boosts damage by 50% for 10s to melt Majors and the occasional Boss (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=1482024992,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=1840239774,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=4090651448,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=839105230,689005463,1799762209,2610012052
 
 // Qullim's Terminus (PvE first-choice roll)
 // (Polygonal Rifling, Chambered Compensator, Fluted Barrel), (Tactical Mag, Flared Magwell), (Stats For All, Heating Up, Unrelenting), Headstone
@@ -409,3 +767,54 @@ dimwishlist:item=1321506184&perks=1840239774,3230963543,3108830275,3824105627
 dimwishlist:item=1321506184&perks=1392496348,2420895100,1583705720,557221067
 dimwishlist:item=1321506184&perks=3661387068,2420895100,1583705720,557221067
 dimwishlist:item=1321506184&perks=1840239774,2420895100,1583705720,557221067
+
+// Qullim's Terminus (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Fluted Barrel), (Tactical Mag, Flared Magwell), (Stats For All, Heating Up, Unrelenting), Headstone
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Stasis builds in end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! The only High-Impact LMG available as at v6.2.0.6, but comparing to other HIs, the stats are a mixed bunch. It's slow-firing, so you should be able to control the recoil with extra stability from the barrel choice. Tactical Mag and Flared Magwell are both good choices in the mag slot. Treat this as a heavy Scout Rifle for dealing with beefier adds and choose your traits accordingly - Stats For All or Heating Up add significant gunfeel boosts, or Unrelenting helps with health regeneration. For Stasis classes, Headstone provides a starting point for boosting abilities, crowd control or gaining damage reduction. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3248429089&perks=1392496348,106909392,1583705720,124408337
+dimwishlist:item=3248429089&perks=3661387068,106909392,1583705720,124408337
+dimwishlist:item=3248429089&perks=1840239774,106909392,1583705720,124408337
+dimwishlist:item=3248429089&perks=1392496348,3230963543,1583705720,124408337
+dimwishlist:item=3248429089&perks=3661387068,3230963543,1583705720,124408337
+dimwishlist:item=3248429089&perks=1840239774,3230963543,1583705720,124408337
+dimwishlist:item=3248429089&perks=1392496348,106909392,1570042021,124408337
+dimwishlist:item=3248429089&perks=3661387068,106909392,1570042021,124408337
+dimwishlist:item=3248429089&perks=1840239774,106909392,1570042021,124408337
+dimwishlist:item=3248429089&perks=1392496348,3230963543,1570042021,124408337
+dimwishlist:item=3248429089&perks=3661387068,3230963543,1570042021,124408337
+dimwishlist:item=3248429089&perks=1840239774,3230963543,1570042021,124408337
+dimwishlist:item=3248429089&perks=1392496348,106909392,3108830275,124408337
+dimwishlist:item=3248429089&perks=3661387068,106909392,3108830275,124408337
+dimwishlist:item=3248429089&perks=1840239774,106909392,3108830275,124408337
+dimwishlist:item=3248429089&perks=1392496348,3230963543,3108830275,124408337
+dimwishlist:item=3248429089&perks=3661387068,3230963543,3108830275,124408337
+dimwishlist:item=3248429089&perks=1840239774,3230963543,3108830275,124408337
+
+// Qullim's Terminus (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Fluted Barrel), (Tactical Mag, Flared Magwell), (Stats For All, Heating Up, Unrelenting), Firefly
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! The only High-Impact LMG available as at v6.2.0.6, but comparing to other HIs, the stats are a mixed bunch. It's slow-firing, so you should be able to control the recoil with extra stability from the barrel choice. Tactical Mag and Flared Magwell are both good choices in the mag slot. Treat this as a heavy Scout Rifle for dealing with beefier adds and choose your traits accordingly - Stats For All or Heating Up add significant gunfeel boosts, or Unrelenting helps with health regeneration. To boost Minor add-clear potential, Firefly should be proccing a lot on headshots to thin out crowds. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3248429089&perks=1392496348,106909392,1583705720,3824105627
+dimwishlist:item=3248429089&perks=3661387068,106909392,1583705720,3824105627
+dimwishlist:item=3248429089&perks=1840239774,106909392,1583705720,3824105627
+dimwishlist:item=3248429089&perks=1392496348,3230963543,1583705720,3824105627
+dimwishlist:item=3248429089&perks=3661387068,3230963543,1583705720,3824105627
+dimwishlist:item=3248429089&perks=1840239774,3230963543,1583705720,3824105627
+dimwishlist:item=3248429089&perks=1392496348,106909392,1570042021,3824105627
+dimwishlist:item=3248429089&perks=3661387068,106909392,1570042021,3824105627
+dimwishlist:item=3248429089&perks=1840239774,106909392,1570042021,3824105627
+dimwishlist:item=3248429089&perks=1392496348,3230963543,1570042021,3824105627
+dimwishlist:item=3248429089&perks=3661387068,3230963543,1570042021,3824105627
+dimwishlist:item=3248429089&perks=1840239774,3230963543,1570042021,3824105627
+dimwishlist:item=3248429089&perks=1392496348,106909392,3108830275,3824105627
+dimwishlist:item=3248429089&perks=3661387068,106909392,3108830275,3824105627
+dimwishlist:item=3248429089&perks=1840239774,106909392,3108830275,3824105627
+dimwishlist:item=3248429089&perks=1392496348,3230963543,3108830275,3824105627
+dimwishlist:item=3248429089&perks=3661387068,3230963543,3108830275,3824105627
+dimwishlist:item=3248429089&perks=1840239774,3230963543,3108830275,3824105627
+
+// Qullim's Terminus (Harrowed) (PvE first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Fluted Barrel), Extended Mag, Stats For All, Killing Tally
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for in end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be! The only High-Impact LMG available as at v6.2.0.6, but comparing to other HIs, the stats are a mixed bunch. It's slow-firing, so you should be able to control the recoil with extra stability from the barrel choice. Go all-in for mag size with Extended Mag to boost the benefits from the origin perk to get you close to 100 shots without reloading. Stats for All helps with gunfell and for when you finally do need to reload, but the real joy is in the Swiss-Army knife benefits of Killing Tally - three kills gets you a 30% damage buff with no time limit for the rest of the (huge) magazine - better than either Firing Line or Focused Fury can offer - good for ripping through Minor adds, burst damage against Majors or even sustained damage against Bosses. Recommended MW: Stability, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3248429089&perks=1392496348,2420895100,1583705720,557221067
+dimwishlist:item=3248429089&perks=3661387068,2420895100,1583705720,557221067
+dimwishlist:item=3248429089&perks=1840239774,2420895100,1583705720,557221067
