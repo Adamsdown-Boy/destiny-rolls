@@ -1,0 +1,127 @@
+@title:Season 18 (Season of Plunder) weapons
+@description:New and reprised weapons
+
+@title:Season of Plunder activity weapons with Right Hook origin trait
+// Tarnished Mettle
+dimwishlist:item=2218569744
+
+// Blood Feud
+dimwishlist:item=1509167284
+
+// Brigand's Law
+dimwishlist:item=1298815317
+
+// No Reprieve
+dimwishlist:item=2531963421
+
+// Planck's Stride
+dimwishlist:item=820890091
+
+// Sailspy Pitchglass
+dimwishlist:item=1184309824
+
+@title:Bungie 30th Anniversary weapon refresh with Hot Swap origin trait
+// BxR-55 Battler
+dimwishlist:item=2708806099
+
+// Wastelander M5
+dimwishlist:item=1679868061
+
+// Retraced Path
+dimwishlist:item=548958835
+
+// Pardon Our Dust
+dimwishlist:item=3849810018
+
+// Half-Truths
+dimwishlist:item=3257091166
+
+// The Other Half
+dimwishlist:item=3257091167
+
+@title:King's Fall Raid weapons with Runneth Over origin trait
+// Smite of Merain
+dimwishlist:item=2221264583
+
+// Smite of Merain (Harrowed)
+dimwishlist:item=3407395594
+
+// Doom of Chelchis
+dimwishlist:item=1937552980
+
+// Doom of Chelchis (Harrowed)
+dimwishlist:item=1184692845
+
+// Zaouli's Bane
+dimwishlist:item=431721920
+
+// Zaouli's Bane (Harrowed)
+dimwishlist:item=291092617
+
+// Defiance of Yasmin
+dimwishlist:item=3228096719
+
+// Defiance of Yasmin (Harrowed)
+dimwishlist:item=3503019618
+
+// Midha's Reckoning
+dimwishlist:item=3969066556
+
+// Midha's Reckoning (Harrowed)
+dimwishlist:item=3904516037
+
+// Qullim's Terminus
+dimwishlist:item=1321506184
+
+// Qullim's Terminus (Harrowed)
+dimwishlist:item=3248429089
+
+@title:World loot pool weapons with foundary traits
+// Boudica-C
+dimwishlist:item=1916287826
+
+// Ammit AR2
+dimwishlist:item=2119346509
+
+// Pizzicato-22
+dimwishlist:item=4100775158
+
+// Taipan-4fr
+dimwishlist:item=1911060537
+
+@title:Playlist weapons from Vanguard, Gambit and Crucible activities
+// Pure Poetry
+dimwishlist:item=2671639706
+
+// Yesteryear
+dimwishlist:item=1141927949
+
+// Out of Bounds
+dimwishlist:item=2988121501
+
+@title:Reprised Nightfall weapons
+// The Militia's Birthright
+dimwishlist:item=40394833
+
+// Mindbender's Ambition
+dimwishlist:item=1094005544
+
+@title:New Trials of Osiris weapons 
+// Whistler's Whim
+dimwishlist:item=1574601402
+
+// Whistler's Whim (Adept)
+dimwishlist:item=711889599
+
+// The Inquisitor
+dimwishlist:item=2185327324
+
+// The Inquisitor (Adept)
+dimwishlist:item=2307365
+
+@title:New and reprised Iron Banner weapons
+// Allied Demand
+dimwishlist:item=1532276803
+
+// Roar of the Bear
+dimwishlist:item=4009352833
