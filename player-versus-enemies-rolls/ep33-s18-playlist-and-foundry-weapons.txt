@@ -8,23 +8,73 @@ dimwishlist:item=2671639706&perks=1840239774,1087426260,2621346526,4104185692
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1428297954,4104185692
 
 // Pure Poetry (PvE backup roll)
-// Fluted Barrel, Appended Mag, Fourth Time's The Charm, Frenzy
-//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important - add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. For your end-game needs, Fourth Times The Charm boosts the magazine provided you can hit crits and Frenzy reliably adds 15% damage. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), (Ensemble, Perpetual Motion), Frenzy
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important - add Handling with your barrel, and reload speed with the mag perk. For your end-game needs, Ensemble or Perpetual Motion and Frenzy in combination will passively boost gunfeel stats and add 15% damage. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,3230963543,2621346526,4104185692
+dimwishlist:item=2671639706&perks=839105230,3230963543,2621346526,4104185692
+dimwishlist:item=2671639706&perks=4090651448,3230963543,2621346526,4104185692
+dimwishlist:item=2671639706&perks=1840239774,679225683,2621346526,4104185692
+dimwishlist:item=2671639706&perks=839105230,679225683,2621346526,4104185692
+dimwishlist:item=2671639706&perks=4090651448,679225683,2621346526,4104185692
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,4104185692
+dimwishlist:item=2671639706&perks=839105230,3230963543,1428297954,4104185692
+dimwishlist:item=2671639706&perks=4090651448,3230963543,1428297954,4104185692
+dimwishlist:item=2671639706&perks=1840239774,679225683,1428297954,4104185692
+dimwishlist:item=2671639706&perks=839105230,679225683,1428297954,4104185692
+dimwishlist:item=2671639706&perks=4090651448,679225683,1428297954,4104185692
+
+// Pure Poetry (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, Fourth Time's The Charm, Frenzy
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important - add Handling with your barrel and add a few extra bullets with Appended Mag. For your end-game needs, Fourth Times The Charm boosts the magazine provided you can hit crits and Frenzy reliably adds 15% damage. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1354429876,4104185692
+dimwishlist:item=2671639706&perks=839105230,1087426260,1354429876,4104185692
+dimwishlist:item=2671639706&perks=4090651448,1087426260,1354429876,4104185692
 
 // Pure Poetry (PvE first-choice roll)
 // Fluted Barrel, Appended Mag, (Perpetual Motion, Fourth Time's The Charm), Osmosis
-//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. If you haven't already got an Osmosis hand cannon, they can be useful in end-game content, particularly when solo, to boost your elemental weapon options. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. If you haven't already got an Osmosis hand cannon, they can be useful in end-game content, particularly when solo, to boost your elemental weapon options. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-GodRoll, PvE-EndGame, Controller, MKB
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1428297954,1774574192
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1354429876,1774574192
 
+// Pure Poetry (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), (Ensemble, Perpetual Motion), Osmosis
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with your barrel and reload speed with the mag perk. If you haven't already got an Osmosis hand cannon, they can be useful in end-game content, particularly when solo, to boost your elemental weapon options. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,3230963543,2621346526,1774574192
+dimwishlist:item=2671639706&perks=839105230,3230963543,2621346526,1774574192
+dimwishlist:item=2671639706&perks=4090651448,3230963543,2621346526,1774574192
+dimwishlist:item=2671639706&perks=1840239774,679225683,2621346526,1774574192
+dimwishlist:item=2671639706&perks=839105230,679225683,2621346526,1774574192
+dimwishlist:item=2671639706&perks=4090651448,679225683,2621346526,1774574192
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,1774574192
+dimwishlist:item=2671639706&perks=839105230,3230963543,1428297954,1774574192
+dimwishlist:item=2671639706&perks=4090651448,3230963543,1428297954,1774574192
+dimwishlist:item=2671639706&perks=1840239774,679225683,1428297954,1774574192
+dimwishlist:item=2671639706&perks=839105230,679225683,1428297954,1774574192
+dimwishlist:item=2671639706&perks=4090651448,679225683,1428297954,1774574192
+
 // Pure Poetry (PvE first-choice roll)
 // Fluted Barrel, Appended Mag, (Perpetual Motion, Ensemble, Fourth Time's the Charm, Outlaw), Rampage
-//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. Rampage is a reliable damage boost in the second trait column in general, at-level content, paired with a first column trait to boost reload or to keep the shots coming, should keep the kil stream going. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. Rampage is a reliable damage boost in the second trait column in general, at-level content, paired with a first column trait to boost reload or to keep the shots coming, should keep the kil streak going. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1428297954,3425386926
 dimwishlist:item=2671639706&perks=1840239774,1087426260,2621346526,3425386926
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1354429876,3425386926
 dimwishlist:item=2671639706&perks=1840239774,1087426260,1168162263,3425386926
+
+// Pure Poetry (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), (Ensemble, Perpetual Motion), Rampage
+//notes:Inspired by DMB PvE Podcast 32. Inspired by DMB PvE Podcast 32. PvE backup roll for general content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with your barrel and reload speed with the mag perk. Rampage is a reliable damage boost in the second trait column in general, at-level content, paired with a first column trait to boost reload or to keep the shots coming, should keep the kil streak going. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,3230963543,2621346526,3425386926
+dimwishlist:item=2671639706&perks=839105230,3230963543,2621346526,3425386926
+dimwishlist:item=2671639706&perks=4090651448,3230963543,2621346526,3425386926
+dimwishlist:item=2671639706&perks=1840239774,679225683,2621346526,3425386926
+dimwishlist:item=2671639706&perks=839105230,679225683,2621346526,3425386926
+dimwishlist:item=2671639706&perks=4090651448,679225683,2621346526,3425386926
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,3425386926
+dimwishlist:item=2671639706&perks=839105230,3230963543,1428297954,3425386926
+dimwishlist:item=2671639706&perks=4090651448,3230963543,1428297954,3425386926
+dimwishlist:item=2671639706&perks=1840239774,679225683,1428297954,3425386926
+dimwishlist:item=2671639706&perks=839105230,679225683,1428297954,3425386926
+dimwishlist:item=2671639706&perks=4090651448,679225683,1428297954,3425386926
 
 // Yesteryear (PvE first-choice roll)
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), (Ambitious Assassin, Subsistence), Golden Tricorn
