@@ -1,0 +1,552 @@
+@title:Season 18 Playlist and Foundry weapons
+@description:New Vanguard, Gambit and Crucible playlist, and Hakke, Suros, Omolon and Veist weapons
+
+// Pure Poetry (PvE first-choice roll)
+// Fluted Barrel, Appended Mag, (Ensemble, Perpetual Motion), Frenzy
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important - add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. For your end-game needs, Ensemble or Perpetual Motion and Frenzy in combination will passively boost gunfeel stats and add 15% damage. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,1087426260,2621346526,4104185692
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1428297954,4104185692
+
+// Pure Poetry (PvE backup roll)
+// Fluted Barrel, Appended Mag, Fourth Time's The Charm, Frenzy
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important - add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. For your end-game needs, Fourth Times The Charm boosts the magazine provided you can hit crits and Frenzy reliably adds 15% damage. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1354429876,4104185692
+
+// Pure Poetry (PvE first-choice roll)
+// Fluted Barrel, Appended Mag, (Perpetual Motion, Fourth Time's The Charm), Osmosis
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. If you haven't already got an Osmosis hand cannon, they can be useful in end-game content, particularly when solo, to boost your elemental weapon options. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major, or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1428297954,1774574192
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1354429876,1774574192
+
+// Pure Poetry (PvE first-choice roll)
+// Fluted Barrel, Appended Mag, (Perpetual Motion, Ensemble, Fourth Time's the Charm, Outlaw), Rampage
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. Drops from Vanguard activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Maybe not meta as at S18 v6.2.0.6, but Aggressive Frame HCs are always handy for bounties or patrols that call for crit kills, anyway. Good stats overall, slow firing, so stability is less important, so add Handling with Fluted Barrel and add a few extra bullets with Appended Mag. Rampage is a reliable damage boost in the second trait column in general, at-level content, paired with a first column trait to boost reload or to keep the shots coming, should keep the kil stream going. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1428297954,3425386926
+dimwishlist:item=2671639706&perks=1840239774,1087426260,2621346526,3425386926
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1354429876,3425386926
+dimwishlist:item=2671639706&perks=1840239774,1087426260,1168162263,3425386926
+
+// Yesteryear (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), (Ambitious Assassin, Subsistence), Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Drops from Gambit activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Awful Recoil Direction stat, so a barrel that helps can be useful, or add Stability to reduce its effect. In the mag slot, you can go with pretty much anything except Alloy Mag or Extended Mag, depending on your preference. With great void grenade and melee options, Golden Tricorn's x2 50% damage bonus will help rip through adds, Majors and Champions. Recommended MW: Stability or Handling, with a Counterbalance mod or, if can manage without, a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1141927949&perks=839105230,1968497646,2010801679,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1968497646,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1968497646,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1968497646,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1968497646,2010801679,2610012052
+dimwishlist:item=1141927949&perks=839105230,1561002382,2010801679,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1561002382,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1561002382,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1561002382,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1561002382,2010801679,2610012052
+dimwishlist:item=1141927949&perks=839105230,1885400500,2010801679,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1885400500,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1885400500,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1885400500,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1885400500,2010801679,2610012052
+dimwishlist:item=1141927949&perks=839105230,3230963543,2010801679,2610012052
+dimwishlist:item=1141927949&perks=3661387068,3230963543,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1467527085,3230963543,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1482024992,3230963543,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1840239774,3230963543,2010801679,2610012052
+dimwishlist:item=1141927949&perks=839105230,679225683,2010801679,2610012052
+dimwishlist:item=1141927949&perks=3661387068,679225683,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1467527085,679225683,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1482024992,679225683,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1840239774,679225683,2010801679,2610012052
+dimwishlist:item=1141927949&perks=839105230,1087426260,2010801679,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1087426260,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1087426260,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1087426260,2010801679,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1087426260,2010801679,2610012052
+dimwishlist:item=1141927949&perks=839105230,1968497646,1820235745,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1968497646,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1968497646,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1968497646,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1968497646,1820235745,2610012052
+dimwishlist:item=1141927949&perks=839105230,1561002382,1820235745,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1561002382,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1561002382,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1561002382,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1561002382,1820235745,2610012052
+dimwishlist:item=1141927949&perks=839105230,1885400500,1820235745,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1885400500,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1820235745,2610012052
+dimwishlist:item=1141927949&perks=839105230,3230963543,1820235745,2610012052
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1467527085,3230963543,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1820235745,2610012052
+dimwishlist:item=1141927949&perks=839105230,679225683,1820235745,2610012052
+dimwishlist:item=1141927949&perks=3661387068,679225683,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1467527085,679225683,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1482024992,679225683,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1840239774,679225683,1820235745,2610012052
+dimwishlist:item=1141927949&perks=839105230,1087426260,1820235745,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1087426260,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1467527085,1087426260,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1087426260,1820235745,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1087426260,1820235745,2610012052
+
+// Yesteryear (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), Outlaw, Desperado
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. Drops from Gambit activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Awful Recoil Direction stat, so a barrel that helps can be useful, or add Stability to reduce its effect. In the mag slot, you can go with pretty much anything except Alloy Mag or Extended Mag, depending on your preference. This is the first Pulse Rifle that's not a High Impact frame that can roll with Desperado - pair it with Outlaw to keep the bullets coming. Recommended MW: Stability or Handling, with a Counterbalance mod or, if can manage without, a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1141927949&perks=839105230,1968497646,1168162263,3047969693
+dimwishlist:item=1141927949&perks=3661387068,1968497646,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1467527085,1968497646,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1482024992,1968497646,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1840239774,1968497646,1168162263,3047969693
+dimwishlist:item=1141927949&perks=839105230,1561002382,1168162263,3047969693
+dimwishlist:item=1141927949&perks=3661387068,1561002382,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1467527085,1561002382,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1482024992,1561002382,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1840239774,1561002382,1168162263,3047969693
+dimwishlist:item=1141927949&perks=839105230,1885400500,1168162263,3047969693
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1467527085,1885400500,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1168162263,3047969693
+dimwishlist:item=1141927949&perks=839105230,3230963543,1168162263,3047969693
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1467527085,3230963543,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1168162263,3047969693
+dimwishlist:item=1141927949&perks=839105230,679225683,1168162263,3047969693
+dimwishlist:item=1141927949&perks=3661387068,679225683,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1467527085,679225683,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1482024992,679225683,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1840239774,679225683,1168162263,3047969693
+dimwishlist:item=1141927949&perks=839105230,1087426260,1168162263,3047969693
+dimwishlist:item=1141927949&perks=3661387068,1087426260,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1467527085,1087426260,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1482024992,1087426260,1168162263,3047969693
+dimwishlist:item=1141927949&perks=1840239774,1087426260,1168162263,3047969693
+
+// Yesteryear (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), Perpetual Motion, Repulsor Brace
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Void subclasses in general content. Drops from Gambit activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Awful Recoil Direction stat, so a barrel that helps can be useful, or add Stability to reduce its effect. In the mag slot, you can go with pretty much anything except Alloy Mag or Extended Mag, depending on your preference. Perpetual Motion boosts gunfeel stats in the first trait column. Then apply your chosen Void debuff to a target and then kill to gain your free void overshield with Repulsor Brace in the second. Recommended MW: Stability or Handling, with a Counterbalance mod or, if can manage without, a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1141927949&perks=839105230,1968497646,1428297954,776531651
+dimwishlist:item=1141927949&perks=3661387068,1968497646,1428297954,776531651
+dimwishlist:item=1141927949&perks=1467527085,1968497646,1428297954,776531651
+dimwishlist:item=1141927949&perks=1482024992,1968497646,1428297954,776531651
+dimwishlist:item=1141927949&perks=1840239774,1968497646,1428297954,776531651
+dimwishlist:item=1141927949&perks=839105230,1561002382,1428297954,776531651
+dimwishlist:item=1141927949&perks=3661387068,1561002382,1428297954,776531651
+dimwishlist:item=1141927949&perks=1467527085,1561002382,1428297954,776531651
+dimwishlist:item=1141927949&perks=1482024992,1561002382,1428297954,776531651
+dimwishlist:item=1141927949&perks=1840239774,1561002382,1428297954,776531651
+dimwishlist:item=1141927949&perks=839105230,1885400500,1428297954,776531651
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1428297954,776531651
+dimwishlist:item=1141927949&perks=1467527085,1885400500,1428297954,776531651
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1428297954,776531651
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1428297954,776531651
+dimwishlist:item=1141927949&perks=839105230,3230963543,1428297954,776531651
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1428297954,776531651
+dimwishlist:item=1141927949&perks=1467527085,3230963543,1428297954,776531651
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1428297954,776531651
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1428297954,776531651
+dimwishlist:item=1141927949&perks=839105230,679225683,1428297954,776531651
+dimwishlist:item=1141927949&perks=3661387068,679225683,1428297954,776531651
+dimwishlist:item=1141927949&perks=1467527085,679225683,1428297954,776531651
+dimwishlist:item=1141927949&perks=1482024992,679225683,1428297954,776531651
+dimwishlist:item=1141927949&perks=1840239774,679225683,1428297954,776531651
+dimwishlist:item=1141927949&perks=839105230,1087426260,1428297954,776531651
+dimwishlist:item=1141927949&perks=3661387068,1087426260,1428297954,776531651
+dimwishlist:item=1141927949&perks=1467527085,1087426260,1428297954,776531651
+dimwishlist:item=1141927949&perks=1482024992,1087426260,1428297954,776531651
+dimwishlist:item=1141927949&perks=1840239774,1087426260,1428297954,776531651
+
+// Out of Bounds (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (High-Calibre Rounds, Armor-Piercing Rounds, Ricochet Rounds), Threat Detector, Surrounded
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Drops from Crucible activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Stability is helpful with the bullet output, but a little extra Range or Handling is useful too. For end-game content, and you're likely to be in CQC, so Threat Detector and Surrounded boost gunfeel stats and Surrounded provides a hefty 46% damage boots with the spec mod (once that's rolled in to the perk by Bungie, go for a damage-boosting mod or Backup Mag). Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=2988121501&perks=1392496348,1561002382,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1482024992,1561002382,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1840239774,1561002382,4071163871,3708227201
+dimwishlist:item=2988121501&perks=4090651448,1561002382,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1392496348,1968497646,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1482024992,1968497646,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1840239774,1968497646,4071163871,3708227201
+dimwishlist:item=2988121501&perks=4090651448,1968497646,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1392496348,1885400500,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=2988121501&perks=1840239774,1885400500,4071163871,3708227201
+dimwishlist:item=2988121501&perks=4090651448,1885400500,4071163871,3708227201
+
+// Out of Bounds (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (High-Calibre Rounds, Armor-Piercing Rounds, Ricochet Rounds), Demolitionist, (Golden Tricorn, Adrenaline Junkie)
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Arc subclasses in end-game content. Drops from Crucible activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Stability is helpful with the bullet output, but a little extra Range or Handling is useful too. For end-game content with Arc subclasses Demolitionist with either Golden Tricorn or Adrenaline Junkie makes the most of your grenade options with hefty damage boosts, with the kills recharging grenade energy. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=2988121501&perks=1392496348,1561002382,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1482024992,1561002382,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1840239774,1561002382,3523296417,2610012052
+dimwishlist:item=2988121501&perks=4090651448,1561002382,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1392496348,1968497646,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1482024992,1968497646,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1840239774,1968497646,3523296417,2610012052
+dimwishlist:item=2988121501&perks=4090651448,1968497646,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1392496348,1885400500,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1482024992,1885400500,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1840239774,1885400500,3523296417,2610012052
+dimwishlist:item=2988121501&perks=4090651448,1885400500,3523296417,2610012052
+dimwishlist:item=2988121501&perks=1392496348,1561002382,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1482024992,1561002382,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1840239774,1561002382,3523296417,3703856239
+dimwishlist:item=2988121501&perks=4090651448,1561002382,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1392496348,1968497646,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1482024992,1968497646,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1840239774,1968497646,3523296417,3703856239
+dimwishlist:item=2988121501&perks=4090651448,1968497646,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1392496348,1885400500,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1482024992,1885400500,3523296417,3703856239
+dimwishlist:item=2988121501&perks=1840239774,1885400500,3523296417,3703856239
+dimwishlist:item=2988121501&perks=4090651448,1885400500,3523296417,3703856239
+
+// Out of Bounds (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (High-Calibre Rounds, Armor-Piercing Rounds, Ricochet Rounds), Grave Robber, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Arc subclasses in general content. Drops from Crucible activities, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. Stability is helpful with the bullet output, but a little extra Range or Handling is useful too. For general content with Arc subclasses Grave Robber with Swashbuckler makes the most of your melee options with a hefty damage boost and magazine reload. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=2988121501&perks=1392496348,1561002382,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1482024992,1561002382,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1840239774,1561002382,1631667848,4082225868
+dimwishlist:item=2988121501&perks=4090651448,1561002382,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1392496348,1968497646,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1482024992,1968497646,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1840239774,1968497646,1631667848,4082225868
+dimwishlist:item=2988121501&perks=4090651448,1968497646,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1482024992,1885400500,1631667848,4082225868
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1631667848,4082225868
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1631667848,4082225868
+
+// Boudica-C (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Threat Detector, Surrounded
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for endgame content. Sidearms aren't first choice for end-game activities but, if you're forced to use one there because of an anti-Champion mod, the you do have some options here. Range is highly constrained (maximising it only gets you another 0.7m when ADS), so you'll get more value out of Handling or Stability from your barrel, and any of the combat effect mods (Armor-Piercing, High Caliber or Riochet Rounds) will work. For end-game stuff, you'll have to get close up, so use that to your advantage with Threat Detector and then Surrounded provides a hefty 46% damage boots with the spec mod (once that's rolled in to the perk by Bungie, go for a damage-boosting mod or Backup Mag). Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1916287826&perks=1392496348,1885400500,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1840239774,1885400500,4071163871,3708227201
+dimwishlist:item=1916287826&perks=4090651448,1885400500,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1392496348,1968497646,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1482024992,1968497646,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1840239774,1968497646,4071163871,3708227201
+dimwishlist:item=1916287826&perks=4090651448,1968497646,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1392496348,1561002382,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1482024992,1561002382,4071163871,3708227201
+dimwishlist:item=1916287826&perks=1840239774,1561002382,4071163871,3708227201
+dimwishlist:item=1916287826&perks=4090651448,1561002382,4071163871,3708227201
+
+// Boudica-C (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Pugilist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for endgame content. Sidearms aren't first choice for end-game activities but, if you're forced to use one there because of an anti-Champion mod, the you do have some options here. Range is highly constrained (maximising it only gets you another 0.7m when ADS), so you'll get more value out of Handling or Stability from your barrel, and any of the combat effect mods (Armor-Piercing, High Caliber or Riochet Rounds) will work. Pugilist is a natural pairing with Swashbucker to boost damage with a melee kill and recover melee energy using the 33% damage boost on adds. Recommended MW: Stability or Handling, with a Surrounded Spec mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1916287826&perks=1392496348,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=1392496348,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=1392496348,1561002382,691659142,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1561002382,691659142,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1561002382,691659142,4082225868
+
+// Boudica-C (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Threat Detector, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for endgame content. Sidearms aren't first choice for end-game activities but, if you're forced to use one there because of an anti-Champion mod, the you do have some options here. Range is highly constrained (maximising it only gets you another 0.7m when ADS), so you'll get more value out of Handling or Stability from your barrel, and any of the combat effect mods (Armor-Piercing, High Caliber or Riochet Rounds) will work. Threat Detector Works with a CQC weapon like a sidearm for gunfeel boosts, including reloads, helping uptime with  Swashbucker's 33% damage boost after a melee kill. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1916287826&perks=1392496348,1885400500,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1885400500,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1885400500,4071163871,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1885400500,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1392496348,1968497646,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1968497646,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1968497646,4071163871,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1968497646,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1392496348,1561002382,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1561002382,4071163871,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1561002382,4071163871,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1561002382,4071163871,4082225868
+
+// Boudica-C (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Appended Mag, Flared Magwell, Light Mag), Stats For All, One For All
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for endgame content. Sidearms aren't first choice for end-game activities but, if you're forced to use one there because of an anti-Champion mod, the you do have some options here. Range is highly constrained (maximising it only gets you another 0.7m when ADS), so you'll get more value out of Handling or Stability from your barrel. Looking at using a SOFA (Stats/One For All) roll, you might want to prioritise the number of bullets or reload speed with your mag, with SOFA taking 3 shots (or 25% of your magazine) to proc, so Appended Mag, Flared Magwell or Light Mag would help keep the bullets coming. Stats For All boosts your gunfeel stats, and One For All adds a useful 35% damage boost just for hitting three different targets. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1916287826&perks=1392496348,1087426260,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1482024992,1087426260,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1840239774,1087426260,1583705720,4049631843
+dimwishlist:item=1916287826&perks=4090651448,1087426260,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1482024992,3230963543,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=1916287826&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1392496348,679225683,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1482024992,679225683,1583705720,4049631843
+dimwishlist:item=1916287826&perks=1840239774,679225683,1583705720,4049631843
+dimwishlist:item=1916287826&perks=4090651448,679225683,1583705720,4049631843
+
+// Boudica-C (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Threat Detector, Osmosis
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Sidearms aren't first choice for end-game activities but, if you're forced to use one there because of an anti-Champion mod, the you do have some options here. Range is highly constrained (maximising it only gets you another 0.7m when ADS), so you'll get more value out of Handling or Stability from your barrel, and any of the combat effect mods (Armor-Piercing, High Caliber or Riochet Rounds) will work. If you need an Osmosis sidearm (you only really need one in your Vault, so check first) then, as you'll be in CQC range, use Threat Detector to pair with Osmosis to give you another option for weapon energy type, which can be useful in solo endgame content. Recommended MW: Stability or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-Solo, PvE-God, Controller, MKB
+dimwishlist:item=1916287826&perks=1392496348,1087426260,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1482024992,1087426260,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1840239774,1087426260,4071163871,1774574192
+dimwishlist:item=1916287826&perks=4090651448,1087426260,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1392496348,3230963543,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1482024992,3230963543,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1840239774,3230963543,4071163871,1774574192
+dimwishlist:item=1916287826&perks=4090651448,3230963543,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1392496348,679225683,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1482024992,679225683,4071163871,1774574192
+dimwishlist:item=1916287826&perks=1840239774,679225683,4071163871,1774574192
+dimwishlist:item=1916287826&perks=4090651448,679225683,4071163871,1774574192
+
+// Pizzicato-22 (PvE first-choice roll)
+// Extended Barrel, Ricochel Rounds, (Perpetual Motion, Ensemble), Multikill Clip
+//notes:PvE first-choice roll for general content. Good overall stats, but has 1 less point of Zoom than its competitors, so you might need to add a little extra range to make up for that with the barrel and mag choices - Extended Barrel does this and take the Recoil Direction to a maximum 100. Ricochet Rounds then pushes Range out by a total of about 1.25m, and smooths things with a dab of Stability too. To make the most of Multikill Clip, you need to spend as little time reloading as possible - Perpetual Motion (anywhere) or Ensemble (in a fireteam) both help with this. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+dimwishlist:item=4100775158&perks=1467527085,1885400500,1428297954,2458213969
+dimwishlist:item=4100775158&perks=1467527085,1885400500,2621346526,2458213969
+
+// Pizzicato-22 (PvE backup roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochel Rounds, Armor-Piercing Rounds, High-Calibre Rounds), (Perpetual Motion, Ensemble), Multikill Clip
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for general content. Good overall stats, but has 1 less point of Zoom than its competitors, so you might need to add a little extra range to make up for that with the barrel and mag choices. To make the most of Multikill Clip, you need to spend as little time reloading as possible - Perpetual Motion (anywhere) or Ensemble (in a fireteam) both help with this. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2458213969
+dimwishlist:item=4100775158&perks=1482024992,1885400500,1428297954,2458213969
+dimwishlist:item=4100775158&perks=4090651448,1885400500,1428297954,2458213969
+dimwishlist:item=4100775158&perks=1467527085,1968497646,1428297954,2458213969
+dimwishlist:item=4100775158&perks=3250034553,1968497646,1428297954,2458213969
+dimwishlist:item=4100775158&perks=1482024992,1968497646,1428297954,2458213969
+dimwishlist:item=4100775158&perks=4090651448,1968497646,1428297954,2458213969
+dimwishlist:item=4100775158&perks=1467527085,1561002382,1428297954,2458213969
+dimwishlist:item=4100775158&perks=3250034553,1561002382,1428297954,2458213969
+dimwishlist:item=4100775158&perks=1482024992,1561002382,1428297954,2458213969
+dimwishlist:item=4100775158&perks=4090651448,1561002382,1428297954,2458213969
+dimwishlist:item=4100775158&perks=3250034553,1885400500,2621346526,2458213969
+dimwishlist:item=4100775158&perks=1482024992,1885400500,2621346526,2458213969
+dimwishlist:item=4100775158&perks=4090651448,1885400500,2621346526,2458213969
+dimwishlist:item=4100775158&perks=1467527085,1968497646,2621346526,2458213969
+dimwishlist:item=4100775158&perks=3250034553,1968497646,2621346526,2458213969
+dimwishlist:item=4100775158&perks=1482024992,1968497646,2621346526,2458213969
+dimwishlist:item=4100775158&perks=4090651448,1968497646,2621346526,2458213969
+dimwishlist:item=4100775158&perks=1467527085,1561002382,2621346526,2458213969
+dimwishlist:item=4100775158&perks=3250034553,1561002382,2621346526,2458213969
+dimwishlist:item=4100775158&perks=1482024992,1561002382,2621346526,2458213969
+dimwishlist:item=4100775158&perks=4090651448,1561002382,2621346526,2458213969
+
+// Pizzicato-22 (PvE first-choice roll)
+// Extended Barrel, Ricochel Rounds, (Perpetual Motion, Ensemble), Osmosis
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Good overall stats, but has 1 less point of Zoom than its competitors, so you might need to add a little extra range to make up for that with the barrel and mag choices - Extended Barrel does this and take the Recoil Direction to a maximum 100. Ricochet Rounds then pushes Range out by a total of about 1.25m, and smooths things with a dab of Stability too. Perpetual Motion (anywhere) or Ensemble (in a fireteam) both help with gunfeel stats and, if you haven't already got an Osmosis SMG (you really only need one in your Vault), it'll give you another option for weapon energy type, which can be useful in solo endgame content. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, PvE-Solo, Controller, MKB
+dimwishlist:item=4100775158&perks=1467527085,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1885400500,2621346526,1774574192
+
+// Pizzicato-22 (PvE backup roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochel Rounds, Armor-Piercing Rounds, High-Calibre Rounds), (Perpetual Motion, Ensemble), Osmosis
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content. Good overall stats, but has 1 less point of Zoom than its competitors, so you might need to add a little extra range to make up for that with the barrel and mag choices. Perpetual Motion (anywhere) or Ensemble (in a fireteam) both help with gunfeel stats and, if you haven't already got an Osmosis SMG (you really only need one in your Vault), it'll give you another option for weapon energy type, which can be useful in solo endgame content.  Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-Solo, Controller, MKB
+dimwishlist:item=4100775158&perks=1467527085,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1561002382,2621346526,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1561002382,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1561002382,2621346526,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1561002382,2621346526,1774574192
+
+// Pizzicato-22 (PvE first-choice roll)
+// Extended Barrel, Ricochel Rounds, Ambitious Assassin, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for general content. Good overall stats, but has 1 less point of Zoom than its competitors, so you might need to add a little extra range to make up for that with the barrel and mag choices - Extended Barrel does this and take the Recoil Direction to a maximum 100. Ricochet Rounds then pushes Range out by a total of about 1.25m, and smooths things with a dab of Stability too.  To make the most of Swashbuckler, you need to spend as little time reloading as possible - Ambitious Assassin adds up to 50% to magazine capacity so will make the most use of your damage buff. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+dimwishlist:item=4100775158&perks=1467527085,1885400500,2010801679,1774574192
+
+// Pizzicato-22 (PvE backup roll)
+// (Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochel Rounds, Armor-Piercing Rounds, High-Calibre Rounds), (Ambitious Assassin, Perpetual Motion, Ensemble), Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for general content. Good overall stats, but has 1 less point of Zoom than its competitors, so you might need to add a little extra range to make up for that with the barrel and mag choices. To make the most of Swashbuckler, you need to spend as little time reloading as possible - Ambitious Assassin or Perpetual Motion (anywhere), or Ensemble (in a fireteam) all help with this. Recommended MW: Range or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, MKB
+dimwishlist:item=4100775158&perks=1467527085,1885400500,2010801679,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1885400500,2010801679,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1885400500,2010801679,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1885400500,2010801679,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1968497646,2010801679,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1968497646,2010801679,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1968497646,2010801679,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1968497646,2010801679,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1561002382,2010801679,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1561002382,2010801679,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1561002382,2010801679,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1561002382,2010801679,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1885400500,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1968497646,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1561002382,1428297954,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1885400500,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1968497646,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1467527085,1561002382,2621346526,1774574192
+dimwishlist:item=4100775158&perks=3250034553,1561002382,2621346526,1774574192
+dimwishlist:item=4100775158&perks=1482024992,1561002382,2621346526,1774574192
+dimwishlist:item=4100775158&perks=4090651448,1561002382,2621346526,1774574192
+
+// Ammit AR2 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), Stats For All, One For All
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content, particularly with a solar burn. Shapeable. Good stats by comparison with other energy Precision frame ARs. Focus on Handling or Stability in the barrel, and any mag perk will do depending on your preferences, except maybe Alloy Mag and Extended Mag. For end-game content, a SOFA (Stats/One For All) boosts gunfeel stats and adds 35% damage for the cost of a three shots from your 32 shot magazine. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+dimwishlist:item=2119346509&perks=1392496348,1968497646,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1482024992,1968497646,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1840239774,1968497646,1583705720,4049631843
+dimwishlist:item=2119346509&perks=4090651448,1968497646,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1392496348,1561002382,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1482024992,1561002382,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1840239774,1561002382,1583705720,4049631843
+dimwishlist:item=2119346509&perks=4090651448,1561002382,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1392496348,1885400500,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1482024992,1885400500,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1840239774,1885400500,1583705720,4049631843
+dimwishlist:item=2119346509&perks=4090651448,1885400500,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1482024992,3230963543,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=2119346509&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1392496348,679225683,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1482024992,679225683,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1840239774,679225683,1583705720,4049631843
+dimwishlist:item=2119346509&perks=4090651448,679225683,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1392496348,1087426260,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1482024992,1087426260,1583705720,4049631843
+dimwishlist:item=2119346509&perks=1840239774,1087426260,1583705720,4049631843
+dimwishlist:item=2119346509&perks=4090651448,1087426260,1583705720,4049631843
+
+// Ammit AR2 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Armor-Piercing Rounds, Turnabout, Adaptive Munitions
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content, particularly for Barrier Champions or solar burn activities. Shapeable. Good stats by comparison with other energy Precision frame ARs. Focus on Handling or Stability in the barrel, and Armor-Piercing Rounds adds 5% damage against shields. For end-game content, especially when the relevant anti-Barrier Champion mod's around or in solar burn activities, Adaptive Munitions will quickly take down barriers and shields, and Turnabout gives you an overshield. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-Champion, PvE-Solo, Controller, MKB
+dimwishlist:item=2119346509&perks=1392496348,1968497646,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1482024992,1968497646,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1840239774,1968497646,2209918983,1048183818
+dimwishlist:item=2119346509&perks=4090651448,1968497646,2209918983,1048183818
+
+// Ammit AR2 (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), Turnabout, Adaptive Munitions
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for end-game content, particularly for Barrier Champions or solar burn activities. Shapeable. Good stats by comparison with other energy Precision frame ARs. Focus on Handling or Stability in the barrel, and virtually any other magazine (except perhaps Alloy Mag or Extended Mag) will work fine. For end-game content, especially when the relevant anti-Barrier Champion mod's around or in solar burn activities, Adaptive Munitions will quickly take down barriers and shields, and Turnabout gives you an overshield. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, Controller, MKB
+dimwishlist:item=2119346509&perks=1392496348,1561002382,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1482024992,1561002382,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1840239774,1561002382,2209918983,1048183818
+dimwishlist:item=2119346509&perks=4090651448,1561002382,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1392496348,1885400500,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1482024992,1885400500,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1840239774,1885400500,2209918983,1048183818
+dimwishlist:item=2119346509&perks=4090651448,1885400500,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1392496348,3230963543,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1482024992,3230963543,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1840239774,3230963543,2209918983,1048183818
+dimwishlist:item=2119346509&perks=4090651448,3230963543,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1392496348,679225683,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1482024992,679225683,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1840239774,679225683,2209918983,1048183818
+dimwishlist:item=2119346509&perks=4090651448,679225683,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1392496348,1087426260,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1482024992,1087426260,2209918983,1048183818
+dimwishlist:item=2119346509&perks=1840239774,1087426260,2209918983,1048183818
+dimwishlist:item=2119346509&perks=4090651448,1087426260,2209918983,1048183818
+
+// Ammit AR2 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell, Light Mag, Appended Mag), (Ambitious Assassin, Triple Tap), Incandescent
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for general content, particularly for solar subclasses. Shapeable. Good stats by comparison with other energy Precision frame ARs. Focus on Handling or Stability in the barrel, and virtually any other magazine (except perhaps Alloy Mag or Extended Mag) will work fine. For solar subclasses using Incandescent for scorch and ignite and Triple Tap or Ambitious Assassin will make the most of the magazine. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-Champion, Controller, MKB
+dimwishlist:item=2119346509&perks=1392496348,1968497646,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1968497646,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1968497646,2010801679,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1968497646,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1561002382,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1561002382,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1561002382,2010801679,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1561002382,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1885400500,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1885400500,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1885400500,2010801679,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1885400500,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1392496348,3230963543,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1482024992,3230963543,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1840239774,3230963543,2010801679,4293542123
+dimwishlist:item=2119346509&perks=4090651448,3230963543,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1392496348,679225683,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1482024992,679225683,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1840239774,679225683,2010801679,4293542123
+dimwishlist:item=2119346509&perks=4090651448,679225683,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1087426260,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1087426260,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1087426260,2010801679,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1087426260,2010801679,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1968497646,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1968497646,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1968497646,3400784728,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1968497646,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1561002382,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1561002382,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1561002382,3400784728,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1561002382,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1885400500,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1885400500,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1885400500,3400784728,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1885400500,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1392496348,3230963543,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1482024992,3230963543,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1840239774,3230963543,3400784728,4293542123
+dimwishlist:item=2119346509&perks=4090651448,3230963543,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1392496348,679225683,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1482024992,679225683,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1840239774,679225683,3400784728,4293542123
+dimwishlist:item=2119346509&perks=4090651448,679225683,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1392496348,1087426260,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1482024992,1087426260,3400784728,4293542123
+dimwishlist:item=2119346509&perks=1840239774,1087426260,3400784728,4293542123
+dimwishlist:item=2119346509&perks=4090651448,1087426260,3400784728,4293542123
+
+// Taipan-4fr (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Enhanced Battery, (Clown Cartridge, Triple Tap, Field Prep), Frenzy
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for burst damage against majors and Champions in end-game content. Shapeable. An end-game LFR that you don't need to complete a Raid, Dungeon or Trials for, which works for both burst and sustained damage, especially with the Veist Stinger origin trait throwing in extra shots for free at random. A Handling barrel just makes using it snappier, and Enhanced Battery adds a shot with no downsides, to give the origin trait an extra chance to proc. For solo or against more mobile bosses, take your choice of Clown Cartridge, Triple Tap or Field Prep with Frenzy, so you don't need to worry about how close your are to the rest of your fireteam. Recommended MW: Handling or Charge Time, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, PvE-Champion, Controller, MKB
+dimwishlist:item=1911060537&perks=1840239774,2680121939,2284787283,4104185692
+dimwishlist:item=1911060537&perks=839105230,2680121939,2284787283,4104185692
+dimwishlist:item=1911060537&perks=4090651448,2680121939,2284787283,4104185692
+dimwishlist:item=1911060537&perks=1840239774,2680121939,3400784728,4104185692
+dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,4104185692
+dimwishlist:item=1911060537&perks=4090651448,2680121939,3400784728,4104185692
+dimwishlist:item=1911060537&perks=1840239774,2680121939,2869569095,4104185692
+dimwishlist:item=1911060537&perks=839105230,2680121939,2869569095,4104185692
+dimwishlist:item=1911060537&perks=4090651448,2680121939,2869569095,4104185692
+
+// Taipan-4fr (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Enhanced Battery, Triple Tap, Firing Line
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for sustained damage against bosses in end-game content. Shapeable. An end-game LFR that you don't need to complete a Raid, Dungeon or Trials for, which works for both burst and sustained damage, especially with the Veist Stinger origin trait throwing in extra shots for free at random. A Handling barrel just makes using it snappier, and Enhanced Battery with Backup Mag gets you to the magic seven shots in your battery, to give the origin trait ten shots with Triple Tap to proc if you hit crits. For Raid bosses or static bosses, where you'll be in a fireteam as a group, Firing Line adds a solid 20% bonus damage. Recommended MW: Handling or Charge Time, with a Backup Mag mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1911060537&perks=1840239774,2680121939,3400784728,1771339417
+dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,1771339417
+dimwishlist:item=1911060537&perks=4090651448,2680121939,3400784728,1771339417
+
+// Taipan-4fr (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Enhanced Battery, (Clown Cartridge, Field Prep), Firing Line
+//notes:Inspired by DMB PvE Podcast 32. PvE backup roll for burst damage against bosses and Champions in end-game content. Shapeable. An end-game LFR that you don't need to complete a Raid, Dungeon or Trials for, which works for both burst and sustained damage, especially with the Veist Stinger origin trait throwing in extra shots for free at random. A Handling barrel just makes using it snappier, and Enhanced Battery with Backup Mag gets you to the seven shots in your battery, to give the origin trait more chances to proc, especially with the extra shots from Clown Cartridge. Alternatively, Field Prep gives you extra reserves and faster reloads for sustained damage. For Raid bosses or static bosses, where you'll be in a fireteam as a group, Firing Line adds a solid 20% bonus damage. Recommended MW: Handling or Charge Time, with a Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1911060537&perks=1840239774,2680121939,2284787283,1771339417
+dimwishlist:item=1911060537&perks=839105230,2680121939,2284787283,1771339417
+dimwishlist:item=1911060537&perks=4090651448,2680121939,2284787283,1771339417
+dimwishlist:item=1911060537&perks=1840239774,2680121939,2869569095,1771339417
+dimwishlist:item=1911060537&perks=839105230,2680121939,2869569095,1771339417
+dimwishlist:item=1911060537&perks=4090651448,2680121939,2869569095,1771339417
