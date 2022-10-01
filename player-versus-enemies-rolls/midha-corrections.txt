@@ -1,0 +1,101 @@
+// Midha's Reckoning (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), (Ionised Battery, Enhanced Battery), Field Prep, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag (with Enhanced RB you only need Enhanced Battery). You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3969066556&perks=3250034553,1483536627,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1482024992,1483536627,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1840239774,1483536627,2869569095,1427256713
+dimwishlist:item=3969066556&perks=4090651448,1483536627,2869569095,1427256713
+dimwishlist:item=3969066556&perks=839105230,1483536627,2869569095,1427256713
+dimwishlist:item=3969066556&perks=3250034553,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1482024992,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1840239774,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=4090651448,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=839105230,2680121939,2869569095,1427256713
+
+// Midha's Reckoning (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), (Ionised Battery, Enhanced Battery), Unrelenting, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag (with Enhanced RB you only need Enhanced Battery). You should be getting plenty of kills with Reservoir Burst, so you can use Unrelenting to recover your health while in combat. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3969066556&perks=3250034553,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1482024992,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1840239774,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=4090651448,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=839105230,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=3250034553,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1482024992,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1840239774,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=4090651448,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=839105230,2680121939,3108830275,1427256713
+
+// Midha's Reckoning (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Accelerated Coils, (Cornered, Field Prep, Unrelenting), Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to eight shots in the battery, so why not take advantage of a shorter charge time from Accelerated Coils? Further build into the faster charge time with Cornered, add ammo reserves and faster reloads with Field Prep, or trigger health regeneration on kills with Unrelenting in the first trait column. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. Reservoir Burst procs on any overflowed charges from the origin trait, giving you a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3969066556&perks=3250034553,689005463,1799762209,1427256713
+dimwishlist:item=3969066556&perks=1482024992,689005463,1799762209,1427256713
+dimwishlist:item=3969066556&perks=1840239774,689005463,1799762209,1427256713
+dimwishlist:item=3969066556&perks=4090651448,689005463,1799762209,1427256713
+dimwishlist:item=3969066556&perks=839105230,689005463,1799762209,1427256713
+dimwishlist:item=3969066556&perks=3250034553,689005463,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1482024992,689005463,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1840239774,689005463,2869569095,1427256713
+dimwishlist:item=3969066556&perks=4090651448,689005463,2869569095,1427256713
+dimwishlist:item=3969066556&perks=839105230,689005463,2869569095,1427256713
+dimwishlist:item=3969066556&perks=3250034553,689005463,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1482024992,689005463,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1840239774,689005463,3108830275,1427256713
+dimwishlist:item=3969066556&perks=4090651448,689005463,3108830275,1427256713
+dimwishlist:item=3969066556&perks=839105230,689005463,3108830275,1427256713
+
+// Midha's Reckoning (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Accelerated Coils, Cornered, Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Arc 3.0 builds in end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to eight shots in the battery, so why not take advantage of a shorter charge time from Accelerated Coils? Further build into the faster charge time for burst damage against Majors with Cornered, in the first trait column. With a battery size of eight, you'll get up to 13 shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. Golden Tricorn x2 boosts damage by 50% for 10s, to melt Majors and the occasional Boss (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3969066556&perks=3250034553,689005463,1799762209,2610012052
+dimwishlist:item=3969066556&perks=1482024992,689005463,1799762209,2610012052
+dimwishlist:item=3969066556&perks=1840239774,689005463,1799762209,2610012052
+dimwishlist:item=3969066556&perks=4090651448,689005463,1799762209,2610012052
+dimwishlist:item=3969066556&perks=839105230,689005463,1799762209,2610012052
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, Field Prep, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag. You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1482024992,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1840239774,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=4090651448,1483536627,2869569095,1427256713
+dimwishlist:item=3904516037&perks=839105230,1483536627,2869569095,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, Unrelenting, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag. You should be getting plenty of kills with Reservoir Burst, so you can use Unrelenting to recover your health while in combat. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1482024992,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1840239774,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=4090651448,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=839105230,1483536627,3108830275,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Accelerated Coils, (Cornered, Field Prep, Unrelenting), Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to eight shots in the battery, so why not take advantage of a shorter charge time from Accelerated Coils? Further build into the faster charge time with Cornered, add ammo reserves and faster reloads with Field Prep, or trigger health regeneration on kills with Unrelenting in the first trait column. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. Reservoir Burst procs on any overflowed charges from the origin trait, giving you a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,1799762209,1427256713
+dimwishlist:item=3904516037&perks=3250034553,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,2869569095,1427256713
+dimwishlist:item=3904516037&perks=3250034553,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1482024992,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1840239774,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=4090651448,689005463,3108830275,1427256713
+dimwishlist:item=3904516037&perks=839105230,689005463,3108830275,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Accelerated Coils, Cornered, Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for Arc 3.0 builds in end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Any Battery with Backup Mag pushes you up to eight shots in the battery, so why not take advantage of a shorter charge time from Accelerated Coils? Further build into the faster charge time for burst damage against Majors with Cornered, in the first trait column. With a battery size of eight, you'll get up to 13 shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. Golden Tricorn x2 boosts damage by 50% for 10s, to melt Majors and the occasional Boss (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a Backup Mag mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=1482024992,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=1840239774,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=4090651448,689005463,1799762209,2610012052
+dimwishlist:item=3904516037&perks=839105230,689005463,1799762209,2610012052
