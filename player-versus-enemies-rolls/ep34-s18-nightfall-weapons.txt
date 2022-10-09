@@ -1,0 +1,142 @@
+@title:Season 18 Nightfall weapons
+@description:Newly reprised weapons dropping from Season of Plunder Nightfalls
+
+// The Militia's Birthright (PvE first-choice roll)
+// Quick Launch, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Quick Launch delivers both. Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=40394833&perks=3525010810,3032599245,706527188,3300816228
+dimwishlist:item=40394833&perks=3525010810,3032599245,1556840489,3300816228
+
+// The Militia's Birthright (PvE backup roll)
+// Smart Drift Control, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
+//notes:Inspired by DMB PvE Podcast 34. PvE backup roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=40394833&perks=3798852852,3032599245,706527188,3300816228
+dimwishlist:item=40394833&perks=3798852852,3032599245,1556840489,3300816228
+
+// The Militia's Birthright (PvE first-choice roll)
+// Smart Drift Control, Spike Grenades, (Slideways, Ambitious Assassin), (Frenzy, One For All)
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and stunned Champions in end-game content. Probably only necessary if you've not already got a good Spike Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Quick Launch delivers both. Spike Grenades adds damage for direct hits, and there's a case for both Slideways for reloading and a Handling boost, or Ambitious Assassin to improve damage output in your first trait column, and Frenzy or One For All in the second. Recommended MW: Velocity or Handling, with a damage-boosting (Major or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=40394833&perks=3525010810,3301904089,706527188,4104185692
+dimwishlist:item=40394833&perks=3525010810,3301904089,1556840489,4104185692
+dimwishlist:item=40394833&perks=3525010810,3301904089,706527188,4049631843
+dimwishlist:item=40394833&perks=3525010810,3301904089,1556840489,4049631843
+
+// The Militia's Birthright (PvE backup roll)
+// Smart Drift Control, Spike Grenades, (Slideways, Ambitious Assassin), (Frenzy, One For All)
+//notes:Inspired by DMB PvE Podcast 34. PvE backupe roll for burst damage against Majors and stunned Champions in end-game content. Probably only necessary if you've not already got a good Spike Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Spike Grenades adds damage for direct hits. There's a case for both Slideways for reloading and a Handling boost, or Ambitious Assassin to improve damage output in your first trait column, and Frenzy or One For All in the second. Recommended MW: Velocity or Handling, with a damage-boosting (Major or Taken Spec) mod. |tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=40394833&perks=3798852852,3301904089,706527188,4104185692
+dimwishlist:item=40394833&perks=3798852852,3301904089,1556840489,4104185692
+dimwishlist:item=40394833&perks=3798852852,3301904089,706527188,4049631843
+dimwishlist:item=40394833&perks=3798852852,3301904089,1556840489,4049631843
+
+// The Militia's Birthright (Adept) (PvE first-choice roll)
+// Quick Launch, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Quick Launch delivers both. Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2378101424&perks=3525010810,3032599245,706527188,3300816228
+dimwishlist:item=2378101424&perks=3525010810,3032599245,1556840489,3300816228
+
+// The Militia's Birthright (Adept) (PvE backup roll)
+// Smart Drift Control, Blinding Grenades, (Quickdraw, Lead From Gold), Auto-Loading Holster
+//notes:Inspired by DMB PvE Podcast 34. PvE backup roll for minor add control in end-game content. Probably only necessary if you've not already got a Blinding Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Blinding Grenades is always great for easier add control, particularly in crowds, and there's a case for both Quickdraw or Lead From Gold in your first trait column, paired with Auto-Loading Holster in the second so that you always have a shot ready. Recommended MW: Velocity or Handling - there's really nothing much a mod can add directly as you're not aiming for kills, so maybe Backup Mag mod's increase ammo reserves is the best option, but feel free to plug in what works for you. |tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2378101424&perks=3798852852,3032599245,706527188,3300816228
+dimwishlist:item=2378101424&perks=3798852852,3032599245,1556840489,3300816228
+
+// The Militia's Birthright (Adept) (PvE first-choice roll)
+// Smart Drift Control, Spike Grenades, (Slideways, Ambitious Assassin), (Frenzy, One For All)
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and stunned Champions in end-game content. Probably only necessary if you've not already got a good Spike Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Quick Launch delivers both. Spike Grenades adds damage for direct hits, and there's a case for both Slideways for reloading and a Handling boost, or Ambitious Assassin to improve damage output in your first trait column, and Frenzy or One For All in the second. Recommended MW: Velocity or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,4104185692
+dimwishlist:item=2378101424&perks=3525010810,3301904089,1556840489,4104185692
+dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,4049631843
+dimwishlist:item=2378101424&perks=3525010810,3301904089,1556840489,4049631843
+
+// The Militia's Birthright (Adept) (PvE backup roll)
+// Smart Drift Control, Spike Grenades, (Slideways, Ambitious Assassin), (Frenzy, One For All)
+//notes:Inspired by DMB PvE Podcast 34. PvE backupe roll for burst damage against Majors and stunned Champions in end-game content. Probably only necessary if you've not already got a good Spike Grenade roll on an Ignition Code or Pardon Our Dust. Handling and Velocity are what you need in your barrel, and Spike Grenades adds damage for direct hits. There's a case for both Slideways for reloading and a Handling boost, or Ambitious Assassin to improve damage output in your first trait column, and Frenzy or One For All in the second. Recommended MW: Velocity or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. |tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=2378101424&perks=3798852852,3301904089,706527188,4104185692
+dimwishlist:item=2378101424&perks=3798852852,3301904089,1556840489,4104185692
+dimwishlist:item=2378101424&perks=3798852852,3301904089,706527188,4049631843
+dimwishlist:item=2378101424&perks=3798852852,3301904089,1556840489,4049631843
+
+// Mindbender's Ambition (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag), Puglist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and stunned Champions in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. There's a few barrel perk options - Corkscrew Rifling or Barrel Shroud for more handling, or Smallbore for a bit more range. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns Puglist is hard to ignore for melee builds and pairs with Swashbuckler for your bonus damage against beefier enemies. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1094005544&perks=1300023272,791862061,691659142,4082225868
+dimwishlist:item=1094005544&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=1094005544&perks=1482024992,791862061,691659142,4082225868
+dimwishlist:item=1094005544&perks=1300023272,106909392,691659142,4082225868
+dimwishlist:item=1094005544&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=1094005544&perks=1482024992,106909392,691659142,4082225868
+
+// Mindbender's Ambition (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag), (Threat Detector, Lead From Gold, Auto-Loading Holster), Incandescent
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for solar subclasses in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. There's a few barrel perk options - Corkscrew Rifling or Barrel Shroud for more handling, or Smallbore for a bit more range. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns You could use Threat Detector, Lead From Gold or Auto-Loading Holster to pair with Incandescent to use scorch and ignition to clear groups of adds or help with damage to Majors. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1094005544&perks=1300023272,791862061,4071163871,4293542123
+dimwishlist:item=1094005544&perks=4090651448,791862061,4071163871,4293542123
+dimwishlist:item=1094005544&perks=1482024992,791862061,4071163871,4293542123
+dimwishlist:item=1094005544&perks=1300023272,106909392,4071163871,4293542123
+dimwishlist:item=1094005544&perks=4090651448,106909392,4071163871,4293542123
+dimwishlist:item=1094005544&perks=1482024992,106909392,4071163871,4293542123
+dimwishlist:item=1094005544&perks=1300023272,791862061,1556840489,4293542123
+dimwishlist:item=1094005544&perks=4090651448,791862061,1556840489,4293542123
+dimwishlist:item=1094005544&perks=1482024992,791862061,1556840489,4293542123
+dimwishlist:item=1094005544&perks=1300023272,106909392,1556840489,4293542123
+dimwishlist:item=1094005544&perks=4090651448,106909392,1556840489,4293542123
+dimwishlist:item=1094005544&perks=1482024992,106909392,1556840489,4293542123
+dimwishlist:item=1094005544&perks=1300023272,791862061,3300816228,4293542123
+dimwishlist:item=1094005544&perks=4090651448,791862061,3300816228,4293542123
+dimwishlist:item=1094005544&perks=1482024992,791862061,3300816228,4293542123
+dimwishlist:item=1094005544&perks=1300023272,106909392,3300816228,4293542123
+dimwishlist:item=1094005544&perks=4090651448,106909392,3300816228,4293542123
+dimwishlist:item=1094005544&perks=1482024992,106909392,3300816228,4293542123
+
+// Mindbender's Ambition (PvE first-choice roll)
+// Full Choke, (Assault Mag, Tactical Mag), (Slideways, Lead From Gold, Auto-Loading Holster), One-Two Punch
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and Champions in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. We're building into One-Two Punch, so you need to hit all of your pellets - Full Choke should help with that. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns You could use Slideways, Lead From Gold or Auto-Loading Holster to pair with One-Two Punch for big Burst damage against Majors and stunned Champions. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=1094005544&perks=1047830412,791862061,3300816228,2679249093
+dimwishlist:item=1094005544&perks=1047830412,106909392,3300816228,2679249093
+dimwishlist:item=1094005544&perks=1047830412,791862061,1556840489,2679249093
+dimwishlist:item=1094005544&perks=1047830412,106909392,1556840489,2679249093
+dimwishlist:item=1094005544&perks=1047830412,791862061,3300816228,2679249093
+dimwishlist:item=1094005544&perks=1047830412,106909392,3300816228,2679249093
+
+// Mindbender's Ambition (Adept) (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag), Puglist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and stunned Champions in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. There's a few barrel perk options - Corkscrew Rifling or Barrel Shroud for more handling, or Smallbore for a bit more range. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns Puglist is hard to ignore for melee builds and pairs with Swashbuckler for your bonus damage against beefier enemies. Recommended MW: Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=912150785&perks=1300023272,791862061,691659142,4082225868
+dimwishlist:item=912150785&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=912150785&perks=1482024992,791862061,691659142,4082225868
+dimwishlist:item=912150785&perks=1300023272,106909392,691659142,4082225868
+dimwishlist:item=912150785&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=912150785&perks=1482024992,106909392,691659142,4082225868
+
+// Mindbender's Ambition (Adept) (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag), (Threat Detector, Lead From Gold, Auto-Loading Holster), Incandescent
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for solar subclasses in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. There's a few barrel perk options - Corkscrew Rifling or Barrel Shroud for more handling, or Smallbore for a bit more range. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns You could use Threat Detector, Lead From Gold or Auto-Loading Holster to pair with Incandescent to use scorch and ignition to clear groups of adds or help with damage to Majors. Recommended MW: Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=912150785&perks=1300023272,791862061,4071163871,4293542123
+dimwishlist:item=912150785&perks=4090651448,791862061,4071163871,4293542123
+dimwishlist:item=912150785&perks=1482024992,791862061,4071163871,4293542123
+dimwishlist:item=912150785&perks=1300023272,106909392,4071163871,4293542123
+dimwishlist:item=912150785&perks=4090651448,106909392,4071163871,4293542123
+dimwishlist:item=912150785&perks=1482024992,106909392,4071163871,4293542123
+dimwishlist:item=912150785&perks=1300023272,791862061,1556840489,4293542123
+dimwishlist:item=912150785&perks=4090651448,791862061,1556840489,4293542123
+dimwishlist:item=912150785&perks=1482024992,791862061,1556840489,4293542123
+dimwishlist:item=912150785&perks=1300023272,106909392,1556840489,4293542123
+dimwishlist:item=912150785&perks=4090651448,106909392,1556840489,4293542123
+dimwishlist:item=912150785&perks=1482024992,106909392,1556840489,4293542123
+dimwishlist:item=912150785&perks=1300023272,791862061,3300816228,4293542123
+dimwishlist:item=912150785&perks=4090651448,791862061,3300816228,4293542123
+dimwishlist:item=912150785&perks=1482024992,791862061,3300816228,4293542123
+dimwishlist:item=912150785&perks=1300023272,106909392,3300816228,4293542123
+dimwishlist:item=912150785&perks=4090651448,106909392,3300816228,4293542123
+dimwishlist:item=912150785&perks=1482024992,106909392,3300816228,4293542123
+
+// Mindbender's Ambition (Adept) (PvE first-choice roll)
+// Full Choke, (Assault Mag, Tactical Mag), (Slideways, Lead From Gold, Auto-Loading Holster), One-Two Punch
+//notes:Inspired by DMB PvE Podcast 34. PvE first-choice roll for burst damage against Majors and Champions in end-game content. Probably only necessary if you've not already got a good solar shotgun that does the same job. We're building into One-Two Punch, so you need to hit all of your pellets - Full Choke should help with that. In the mag, Assault Mag or Tactical Mag are two solid choices. Then, in the trait columns You could use Slideways, Lead From Gold or Auto-Loading Holster to pair with One-Two Punch for big Burst damage against Majors and stunned Champions. Recommended MW: Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. |tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=912150785&perks=1047830412,791862061,3300816228,2679249093
+dimwishlist:item=912150785&perks=1047830412,106909392,3300816228,2679249093
+dimwishlist:item=912150785&perks=1047830412,791862061,1556840489,2679249093
+dimwishlist:item=912150785&perks=1047830412,106909392,1556840489,2679249093
+dimwishlist:item=912150785&perks=1047830412,791862061,3300816228,2679249093
+dimwishlist:item=912150785&perks=1047830412,106909392,3300816228,2679249093
