@@ -1,0 +1,250 @@
+@title:King's Fall Raid PvP weapon picks with illPhysics
+@description:Reprised King's Fall weapons with Runneth Over origin trait
+
+// Doom of Chelchis (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, Explosive Payload, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable.  First-choice PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1937552980&perks=1840239774,3230963543,64866129,699525795
+
+// Doom of Chelchis (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Explosive Payload, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. Backup PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1937552980&perks=839105230,3230963543,64866129,699525795
+dimwishlist:item=1937552980&perks=4090651448,3230963543,64866129,699525795
+dimwishlist:item=1937552980&perks=1840239774,106909392,64866129,699525795
+dimwishlist:item=1937552980&perks=839105230,106909392,64866129,699525795
+dimwishlist:item=1937552980&perks=4090651448,106909392,64866129,699525795
+
+// Doom of Chelchis (Harrowed) (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, Explosive Payload, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable.  First-choice PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1184692845&perks=1840239774,3230963543,64866129,699525795
+
+// Doom of Chelchis (Harrowed) (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Explosive Payload, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. Backup PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1184692845&perks=839105230,3230963543,64866129,699525795
+dimwishlist:item=1184692845&perks=4090651448,3230963543,64866129,699525795
+dimwishlist:item=1184692845&perks=1840239774,106909392,64866129,699525795
+dimwishlist:item=1184692845&perks=839105230,106909392,64866129,699525795
+dimwishlist:item=1184692845&perks=4090651448,106909392,64866129,699525795
+
+// Smite of Merain (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Moving Target, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for duelling. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel in Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for duelling Moving Target and Eye Of The Storm make hitting those crits easier in a gunfight. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2221264583&perks=839105230,3230963543,588594999,699525795
+dimwishlist:item=2221264583&perks=839105230,106909392,588594999,699525795
+
+// Smite of Merain (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for kill-chaining. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel in Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for kill-chaining, Swashbuckler x5 will provide an easy 2-burst kill of 4 crits and 2 body shots in 0.6s, while Pugilist boosts melee energy. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=2221264583&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=2221264583&perks=839105230,106909392,691659142,4082225868
+
+// Smite of Merain (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for kill-chaining. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel in Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for kill-chaining, Adrenaline Junkie x5 will provide an easy 2-burst kill of 4 crits and 2 body shots in 0.6s, while Demolitionist boosts grenade energy. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2221264583&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=2221264583&perks=839105230,106909392,3523296417,11612903
+
+// Smite of Merain (Harrowed) (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Moving Target, Eye Of The Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for duelling. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel in Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for duelling Moving Target and Eye Of The Storm make hitting those crits easier in a gunfight. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=3407395594&perks=839105230,3230963543,588594999,699525795
+dimwishlist:item=3407395594&perks=839105230,106909392,588594999,699525795
+
+// Smite of Merain (Harrowed) (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for kill-chaining. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel in Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for kill-chaining, Swashbuckler x5 will provide an easy 2-burst kill of 4 crits and 2 body shots in 0.6s, while Pugilist boosts melee energy. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3407395594&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=3407395594&perks=839105230,106909392,691659142,4082225868
+
+// Smite of Merain (Harrowed) (PvP first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Demolitionist, Adrenaline Junkie
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. First-choice PvP pick for kill-chaining. Average stats compared to its competition in-slt, apart from a higher Aerial Effectiveness stat, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve an on-paper 2-burst, 6-crit kill in 0.6s against any resilience, as at v6.2.0.7. The lower zoom of 17 means you have a more open sight picture than other adaptive pulse rifles, but also means the recoil is less constrained too, so first choice in the barrel in Arrowhead Brake, which brings Recoil Direction to 100, and improves Handling. Flared Magwell or Tactical Mag adds some Stability and Reload Speed, and then for kill-chaining, Adrenaline Junkie x5 will provide an easy 2-burst kill of 4 crits and 2 body shots in 0.6s, while Demolitionist boosts grenade energy. Recommended MW: Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=3407395594&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=3407395594&perks=839105230,106909392,3523296417,11612903
+
+// Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), (Opening Shot, Explosive Payload), Eye Of the Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for duelling. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. Opening Shot or Explosive Payload are great choices in the first trait column, with Eye Of The Storm give you an edge in duels.  Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1482024992,3230963543,47981717,699525795
+dimwishlist:item=431721920&perks=1482024992,106909392,47981717,699525795
+dimwishlist:item=431721920&perks=1482024992,3230963543,3038247973,699525795
+dimwishlist:item=431721920&perks=1482024992,106909392,3038247973,699525795
+
+// Zaouli's Bane (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), (Opening Shot, Explosive Payload), Eye Of the Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Backup PvP pick for duelling. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. Opening Shot or Explosive Payload are great choices in the first trait column, with Eye Of The Storm give you an edge in duels.  Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=431721920&perks=1840239774,3230963543,47981717,699525795
+dimwishlist:item=431721920&perks=4090651448,3230963543,47981717,699525795
+dimwishlist:item=431721920&perks=1392496348,3230963543,47981717,699525795
+dimwishlist:item=431721920&perks=3250034553,3230963543,47981717,699525795
+dimwishlist:item=431721920&perks=1840239774,106909392,47981717,699525795
+dimwishlist:item=431721920&perks=4090651448,106909392,47981717,699525795
+dimwishlist:item=431721920&perks=1392496348,106909392,47981717,699525795
+dimwishlist:item=431721920&perks=3250034553,106909392,47981717,699525795
+dimwishlist:item=431721920&perks=1840239774,3230963543,3038247973,699525795
+dimwishlist:item=431721920&perks=4090651448,3230963543,3038247973,699525795
+dimwishlist:item=431721920&perks=1392496348,3230963543,3038247973,699525795
+dimwishlist:item=431721920&perks=3250034553,3230963543,3038247973,699525795
+dimwishlist:item=431721920&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=431721920&perks=4090651448,106909392,3038247973,699525795
+dimwishlist:item=431721920&perks=1392496348,106909392,3038247973,699525795
+dimwishlist:item=431721920&perks=3250034553,106909392,3038247973,699525795
+
+// Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Firefly
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Firefly weakening opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1482024992,3230963543,2621346526,3824105627
+dimwishlist:item=431721920&perks=1482024992,106909392,2621346526,3824105627
+
+// Zaouli's Bane (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), (Opening Shot, Ensemble, Firefly
+//notes:Inspired by DMB Podcast 277 with @illPhysics. (???  ???): Backup PvP pick for kill-chaining. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Firefly weakening opponents near your kill for a follow-up shot and bumping Reload Speed even more. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, MKB, Controller
+dimwishlist:item=431721920&perks=1840239774,3230963543,2621346526,3824105627
+dimwishlist:item=431721920&perks=4090651448,3230963543,2621346526,3824105627
+dimwishlist:item=431721920&perks=1392496348,3230963543,2621346526,3824105627
+dimwishlist:item=431721920&perks=3250034553,3230963543,2621346526,3824105627
+dimwishlist:item=431721920&perks=1840239774,106909392,2621346526,3824105627
+dimwishlist:item=431721920&perks=4090651448,106909392,2621346526,3824105627
+dimwishlist:item=431721920&perks=1392496348,106909392,2621346526,3824105627
+dimwishlist:item=431721920&perks=3250034553,106909392,2621346526,3824105627
+
+// Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Incandescent
+//notes:Inspired by DMB Podcast 277 with @illPhysics. (???  ???): First-choice PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1482024992,3230963543,2621346526,4293542123
+dimwishlist:item=431721920&perks=1482024992,106909392,2621346526,4293542123
+
+// Zaouli's Bane (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), (Opening Shot, Ensemble, Incandescent
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Backup PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, MKB, Controller
+dimwishlist:item=431721920&perks=1840239774,3230963543,2621346526,4293542123
+dimwishlist:item=431721920&perks=4090651448,3230963543,2621346526,4293542123
+dimwishlist:item=431721920&perks=1392496348,3230963543,2621346526,4293542123
+dimwishlist:item=431721920&perks=3250034553,3230963543,2621346526,4293542123
+dimwishlist:item=431721920&perks=1840239774,106909392,2621346526,4293542123
+dimwishlist:item=431721920&perks=4090651448,106909392,2621346526,4293542123
+dimwishlist:item=431721920&perks=1392496348,106909392,2621346526,4293542123
+dimwishlist:item=431721920&perks=3250034553,106909392,2621346526,4293542123
+
+// Zaouli's Bane (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Gutshot Straight, Focused Fury
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining for memes. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent, and extra shots in the mag to make the perk combination work. With Gutshot Straight and Focussed Fury, if you can get to the maximum mag size of 14, and can hit 7 crits without reloading (not as easy with the Aim Assist penalty), then you can 3-body shot kill any resilience - your seven remaining shots should provide two very easy kills. Recommended MW: Range, Handling or Stability, with a Backup Mag mod. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=431721920&perks=1482024992,106909392,1365187766,2896038713
+
+// Zaouli's Bane (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), Gutshot Straight, Focused Fury
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Backup PvP pick for kill-chaining for memes. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent, and extra shots in the mag to make the perk combination work. With Gutshot Straight and Focussed Fury, if you can get to the maximum mag size of 14, and can hit 7 crits without reloading (not as easy with the Aim Assist penalty), then you can 3-body shot kill any resilience - your seven remaining shots should provide two very easy kills. Recommended MW: Range, Handling or Stability, with a Backup Mag mod. Tags: PvP, PvP-Chain, MKB, Controller
+dimwishlist:item=431721920&perks=1840239774,106909392,1365187766,2896038713
+dimwishlist:item=431721920&perks=4090651448,106909392,1365187766,2896038713
+dimwishlist:item=431721920&perks=1392496348,106909392,1365187766,2896038713
+dimwishlist:item=431721920&perks=3250034553,106909392,1365187766,2896038713
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), (Opening Shot, Explosive Payload), Eye Of the Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for duelling. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. Opening Shot or Explosive Payload are great choices in the first trait column, with Eye Of The Storm give you an edge in duels.  Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1482024992,3230963543,47981717,699525795
+dimwishlist:item=291092617&perks=1482024992,106909392,47981717,699525795
+dimwishlist:item=291092617&perks=1482024992,3230963543,3038247973,699525795
+dimwishlist:item=291092617&perks=1482024992,106909392,3038247973,699525795
+
+// Zaouli's Bane (Harrowed) (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), (Opening Shot, Explosive Payload), Eye Of the Storm
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Backup PvP pick for duelling. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. Opening Shot or Explosive Payload are great choices in the first trait column, with Eye Of The Storm give you an edge in duels.  Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=291092617&perks=1840239774,3230963543,47981717,699525795
+dimwishlist:item=291092617&perks=4090651448,3230963543,47981717,699525795
+dimwishlist:item=291092617&perks=1392496348,3230963543,47981717,699525795
+dimwishlist:item=291092617&perks=3250034553,3230963543,47981717,699525795
+dimwishlist:item=291092617&perks=1840239774,106909392,47981717,699525795
+dimwishlist:item=291092617&perks=4090651448,106909392,47981717,699525795
+dimwishlist:item=291092617&perks=1392496348,106909392,47981717,699525795
+dimwishlist:item=291092617&perks=3250034553,106909392,47981717,699525795
+dimwishlist:item=291092617&perks=1840239774,3230963543,3038247973,699525795
+dimwishlist:item=291092617&perks=4090651448,3230963543,3038247973,699525795
+dimwishlist:item=291092617&perks=1392496348,3230963543,3038247973,699525795
+dimwishlist:item=291092617&perks=3250034553,3230963543,3038247973,699525795
+dimwishlist:item=291092617&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=291092617&perks=4090651448,106909392,3038247973,699525795
+dimwishlist:item=291092617&perks=1392496348,106909392,3038247973,699525795
+dimwishlist:item=291092617&perks=3250034553,106909392,3038247973,699525795
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Firefly
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Firefly weakening opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1482024992,3230963543,2621346526,3824105627
+dimwishlist:item=291092617&perks=1482024992,106909392,2621346526,3824105627
+
+// Zaouli's Bane (Harrowed) (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), (Opening Shot, Ensemble, Firefly
+//notes:Inspired by DMB Podcast 277 with @illPhysics. (???  ???): Backup PvP pick for kill-chaining. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Firefly weakening opponents near your kill for a follow-up shot and bumping Reload Speed even more. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, MKB, Controller
+dimwishlist:item=291092617&perks=1840239774,3230963543,2621346526,3824105627
+dimwishlist:item=291092617&perks=4090651448,3230963543,2621346526,3824105627
+dimwishlist:item=291092617&perks=1392496348,3230963543,2621346526,3824105627
+dimwishlist:item=291092617&perks=3250034553,3230963543,2621346526,3824105627
+dimwishlist:item=291092617&perks=1840239774,106909392,2621346526,3824105627
+dimwishlist:item=291092617&perks=4090651448,106909392,2621346526,3824105627
+dimwishlist:item=291092617&perks=1392496348,106909392,2621346526,3824105627
+dimwishlist:item=291092617&perks=3250034553,106909392,2621346526,3824105627
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Ensemble, Incandescent
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1482024992,3230963543,2621346526,4293542123
+dimwishlist:item=291092617&perks=1482024992,106909392,2621346526,4293542123
+
+// Zaouli's Bane (Harrowed) (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), (Opening Shot, Ensemble, Incandescent
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Backup PvP pick for kill-chaining with Solar 3.0 subclasses. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent. In 6v6 game modes, where you're more likely to be near a team-mate, Ensemble provides a hefty Handling and Reload Speed bump, with Incandescent spreading scorch stacks to opponents near your kill for a follow-up shot. Recommended MW: Range, Handling or Stability, with a Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Chain, MKB, Controller
+dimwishlist:item=291092617&perks=1840239774,3230963543,2621346526,4293542123
+dimwishlist:item=291092617&perks=4090651448,3230963543,2621346526,4293542123
+dimwishlist:item=291092617&perks=1392496348,3230963543,2621346526,4293542123
+dimwishlist:item=291092617&perks=3250034553,3230963543,2621346526,4293542123
+dimwishlist:item=291092617&perks=1840239774,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=4090651448,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=1392496348,106909392,2621346526,4293542123
+dimwishlist:item=291092617&perks=3250034553,106909392,2621346526,4293542123
+
+// Zaouli's Bane (Harrowed) (PvP first-choice roll)
+// Smallbore, (Flared Magwell, Tactical Mag), Gutshot Straight, Focused Fury
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for kill-chaining for memes. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent, and extra shots in the mag to make the perk combination work. With Gutshot Straight and Focussed Fury, if you can get to the maximum mag size of 14, and can hit 7 crits without reloading (not as easy with the Aim Assist penalty), then you can 3-body shot kill any resilience - your seven remaining shots should provide two very easy kills. Recommended MW: Range, Handling or Stability, with a Backup Mag mod. Tags: PvP, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=291092617&perks=1482024992,106909392,1365187766,2896038713
+
+// Zaouli's Bane (Harrowed) (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Tactical Mag), Gutshot Straight, Focused Fury
+//notes:Inspired by DMB Podcast 277 with @illPhysics. Backup PvP pick for kill-chaining for memes. Shapeable. Average stats apart from 19 Airborne Effectiveness, but then remember that's skewed by the Palindrome which is a stat monster. TTK is 0.67s with a 3-crits as at v6.2.0.7, with any damage buff make that a more achievable 2-crit, 1-body. You can eke out a little more range, but you'll never match the Palindrome, unfortunately so you might be better off looking for a little extra stability to make hitting headshots a bit more consistent, and extra shots in the mag to make the perk combination work. With Gutshot Straight and Focussed Fury, if you can get to the maximum mag size of 14, and can hit 7 crits without reloading (not as easy with the Aim Assist penalty), then you can 3-body shot kill any resilience - your seven remaining shots should provide two very easy kills. Recommended MW: Range, Handling or Stability, with a Backup Mag mod. Tags: PvP, PvP-Chain, MKB, Controller
+dimwishlist:item=291092617&perks=1840239774,106909392,1365187766,2896038713
+dimwishlist:item=291092617&perks=4090651448,106909392,1365187766,2896038713
+dimwishlist:item=291092617&perks=1392496348,106909392,1365187766,2896038713
+dimwishlist:item=291092617&perks=3250034553,106909392,1365187766,2896038713
+
+// Midha's Reckoning (PvP first-choice roll)
+// (Hammer-Forged Rifling, Extended Barrel, Full Bore), (Projection Fuse, Accelerated Coils), Backup Plan, Successful Warm-Up
+//notes:Inspired by DMB Podcast 277 with @illPhysics (and thanks to @Legoleflash). First-choice PvP pick - one of those rare weapons that works for both duelling and kill-chaining. Shapeable. Definitely not meta out of the box as at v6.2.0.7 with a base TTK of 1.09s with four bolts, but there's a perk combination that helps with that. Most stats are okayish, with Aim Assistance a standout highest in class - add in some targeting mods on the weapon and helmet if you want to build into this weapon. You're only firing five bolts, so you can spec into range with your barrel, as controlling the recoil should be easier. With the battery perk, you might be tempted by Accelerated Coils for an even faster charge time, but you'll probably get more use from Projection Fuse's extra range for consistency. The real fun is in the two trait columns - Backup Plan gets you to 100 Handling on swapping, and brings the TTK for your first shot down to 0.81s. After your first kill, Successful Warm-Up kicks into reduce it still further to 0.73s. You still need to hit 4 out of 5 bolts, but the targeting mods make that much easier to achieve, and the TTK is faster than an out-of-the-box Rapid Fire Fusion Rifle. Recommended MW: Range, with a Targeting Adjustor mod. Tags: PvP, PvP-Duel, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3969066556&perks=3250034553,2969185026,1600092898,2652708987
+dimwishlist:item=3969066556&perks=1467527085,2969185026,1600092898,2652708987
+dimwishlist:item=3969066556&perks=202670084,2969185026,1600092898,2652708987
+dimwishlist:item=3969066556&perks=3250034553,689005463,1600092898,2652708987
+dimwishlist:item=3969066556&perks=1467527085,689005463,1600092898,2652708987
+dimwishlist:item=3969066556&perks=202670084,689005463,1600092898,2652708987
+
+// Midha's Reckoning (Harrowed) (PvP first-choice roll)
+// (Hammer-Forged Rifling, Extended Barrel, Full Bore), (Projection Fuse, Accelerated Coils), Backup Plan, Successful Warm-Up
+//notes:Inspired by DMB Podcast 277 with @illPhysics (and thanks to @Legoleflash). First-choice PvP pick - one of those rare weapons that works for both duelling and kill-chaining. Shapeable. Definitely not meta out of the box as at v6.2.0.7 with a base TTK of 1.09s with four bolts, but there's a perk combination that helps with that. Most stats are okayish, with Aim Assistance a standout highest in class - add in some targeting mods on the weapon and helmet if you want to build into this weapon. You're only firing five bolts, so you can spec into range with your barrel, as controlling the recoil should be easier. With the battery perk, you might be tempted by Accelerated Coils for an even faster charge time, but you'll probably get more use from Projection Fuse's extra range for consistency. The real fun is in the two trait columns - Backup Plan gets you to 100 Handling on swapping, and brings the TTK for your first shot down to 0.81s. After your first kill, Successful Warm-Up kicks into reduce it still further to 0.73s. You still need to hit 4 out of 5 bolts, but the targeting mods make that much easier to achieve, and the TTK is faster than an out-of-the-box Rapid Fire Fusion Rifle. Recommended MW: Range, with a Targeting Adjustor mod. Tags: PvP, PvP-Duel, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3904516037&perks=3250034553,2969185026,1600092898,2652708987
+dimwishlist:item=3904516037&perks=1467527085,2969185026,1600092898,2652708987
+dimwishlist:item=3904516037&perks=202670084,2969185026,1600092898,2652708987
+dimwishlist:item=3904516037&perks=3250034553,689005463,1600092898,2652708987
+dimwishlist:item=3904516037&perks=1467527085,689005463,1600092898,2652708987
+dimwishlist:item=3904516037&perks=202670084,689005463,1600092898,2652708987
+
+// Defiance of Yasmin (PvP first-choice roll)
+// Fluted Barrel, Accurized Rounds, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for duelling. Shapeable. Decent stats and a very open 40 Zoom sight - you could almost imagine you're firing a Scout Rifle. As with most snipers, you're looking for snappy handling and as much crit stickiness as possible - Fluted Barrel and Accurized Rounds, and then Snapshot Sights (even after the nerf) and Opening Shot tick all the boxes. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3228096719&perks=1840239774,3142289711,957782887,47981717
+
+// Defiance of Yasmin (PvP first-choice roll)
+// Fluted Barrel, Accurized Rounds, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 277 with @illPhysics. First-choice PvP pick for duelling. Shapeable. Decent stats and a very open 40 Zoom sight - you could almost imagine you're firing a Scout Rifle. As with most snipers, you're looking for snappy handling and as much crit stickiness as possible - Fluted Barrel and Accurized Rounds, and then Snapshot Sights (even after the nerf) and Opening Shot tick all the boxes. Recommended MW: Handling, with an Adapt Handling, Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-Chain, PvP-God, MKB, Controller
+dimwishlist:item=3503019618&perks=1840239774,3142289711,957782887,47981717
