@@ -4,30 +4,30 @@
 // Doom of Chelchis (PvP first-choice roll)
 // Fluted Barrel, Flared Magwell, Explosive Payload, Eye Of The Storm
 //notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable.  First-choice PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
-dimwishlist:item=1937552980&perks=1840239774,3230963543,64866129,699525795
+dimwishlist:item=1937552980&perks=1840239774,3230963543,3038247973,699525795
 
 // Doom of Chelchis (PvP backup roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Explosive Payload, Eye Of The Storm
 //notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. Backup PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
-dimwishlist:item=1937552980&perks=839105230,3230963543,64866129,699525795
-dimwishlist:item=1937552980&perks=4090651448,3230963543,64866129,699525795
-dimwishlist:item=1937552980&perks=1840239774,106909392,64866129,699525795
-dimwishlist:item=1937552980&perks=839105230,106909392,64866129,699525795
-dimwishlist:item=1937552980&perks=4090651448,106909392,64866129,699525795
+dimwishlist:item=1937552980&perks=839105230,3230963543,3038247973,699525795
+dimwishlist:item=1937552980&perks=4090651448,3230963543,3038247973,699525795
+dimwishlist:item=1937552980&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,699525795
+dimwishlist:item=1937552980&perks=4090651448,106909392,3038247973,699525795
 
 // Doom of Chelchis (Harrowed) (PvP first-choice roll)
 // Fluted Barrel, Flared Magwell, Explosive Payload, Eye Of The Storm
 //notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable.  First-choice PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
-dimwishlist:item=1184692845&perks=1840239774,3230963543,64866129,699525795
+dimwishlist:item=1184692845&perks=1840239774,3230963543,3038247973,699525795
 
 // Doom of Chelchis (Harrowed) (PvP backup roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Explosive Payload, Eye Of The Storm
 //notes:Inspired by DMB Podcast 277 with @illPhysics. Shapeable. Backup PvP pick for duelling on larger maps. Not that great as a subfamily in PvP, in un-perked form, but very responsive to any damage buff - Radiant, Empowering Rift and High Energy Fire mean you can achieve a 3-crit kill in 0.67s against any resilience, as at v6.2.0.7. Doom has lower stability and zoom than comparators - this helps with your sight picture, but means the recoil isn't constrained quite as much. It should still be fairly easily controllable, so you can spec into Handling, and maybe a little bit of reload in your barrel and mag. For duelling, Explosive Payload (at 180 RPM) and Eye of the Storm has the potential to really irritate opponents at the same time as making crit shots easier to hit in a firefight. Recommended MW: Handling or Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
-dimwishlist:item=1184692845&perks=839105230,3230963543,64866129,699525795
-dimwishlist:item=1184692845&perks=4090651448,3230963543,64866129,699525795
-dimwishlist:item=1184692845&perks=1840239774,106909392,64866129,699525795
-dimwishlist:item=1184692845&perks=839105230,106909392,64866129,699525795
-dimwishlist:item=1184692845&perks=4090651448,106909392,64866129,699525795
+dimwishlist:item=1184692845&perks=839105230,3230963543,3038247973,699525795
+dimwishlist:item=1184692845&perks=4090651448,3230963543,3038247973,699525795
+dimwishlist:item=1184692845&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=1184692845&perks=839105230,106909392,3038247973,699525795
+dimwishlist:item=1184692845&perks=4090651448,106909392,3038247973,699525795
 
 // Smite of Merain (PvP first-choice roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag), Moving Target, Eye Of The Storm
