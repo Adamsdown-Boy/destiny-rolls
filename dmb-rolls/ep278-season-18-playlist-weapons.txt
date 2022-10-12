@@ -1,0 +1,230 @@
+@title:Season 18 Playlist weapson with @Critbuff
+@description:Season of Plunder New Vanguard, Gambit and Crucible playlist weapons
+
+// Pure Poetry (PvP first-choice roll)
+// Fluted Barrel, (Ricochet Rounds, Flared Magwell), (Well-Rounded, Ensemble, Perpetual Motion), Eye of the Storm
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. Out of the box TTK  of 1s with 2 crits and 1 body - the subfamily's low stability makes a third crit more difficult. Stats are average, so this won't replace a well-rolled Palindrome or Eyasluna. If you are duelling, then round out the stats with Fluted Barrel and Ricochet Rounds or Flared Magwell. Then, for duelling, Well-Rounded or Perpetual Motion fill out the stats nicely, and Eye of the Storm makes hitting your third shot in a gunfight easier. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2671639706&perks=1840239774,1885400500,744594675,699525795
+dimwishlist:item=2671639706&perks=1840239774,3230963543,744594675,699525795
+dimwishlist:item=2671639706&perks=1840239774,1885400500,2621346526,699525795
+dimwishlist:item=2671639706&perks=1840239774,3230963543,2621346526,699525795
+dimwishlist:item=2671639706&perks=1840239774,1885400500,1428297954,699525795
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,699525795
+
+/// Pure Poetry (PvP first-choice roll)
+// Fluted Barrel, (Ricochet Rounds, Flared Magwell), (Well-Rounded, Ensemble, Perpetual Motion), Elemental Capacitor
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling with arc or void builds. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. Out of the box TTK  of 1s with 2 crits and 1 body - the subfamily's low stability makes a third crit more difficult. Stats are average, so this won't replace a well-rolled Palindrome or Eyasluna. If you are kill-chaining, then round out the stats with Fluted Barrel and Ricochet Rounds or Flared Magwell. Then, for duelling, Well-Rounded, Ensemble or Perpetual Motion fill out the stats nicely, and using Elemental Capacitor with either an Arc subclass for Handling to make this super snappy, or Void to boost Stability for landing the third shot. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2671639706&perks=1840239774,1885400500,744594675,3511092054
+dimwishlist:item=2671639706&perks=1840239774,3230963543,744594675,3511092054
+dimwishlist:item=2671639706&perks=1840239774,1885400500,2621346526,3511092054
+dimwishlist:item=2671639706&perks=1840239774,3230963543,2621346526,3511092054
+dimwishlist:item=2671639706&perks=1840239774,1885400500,1428297954,3511092054
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,3511092054
+
+/ Pure Poetry (PvP first-choice roll)
+// Fluted Barrel, (Ricochet Rounds, Flared Magwell), (Well-Rounded, Ensemble, Perpetual Motion), Swashbuckler
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for kill-chaining with melee builds. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. Out of the box TTK  of 1s with 2 crits and 1 body - the subfamily's low stability makes a third crit more difficult. Stats are average, so this won't replace a well-rolled Palindrome or Eyasluna. If you are kill-chaining, then round out the stats with Fluted Barrel and Ricochet Rounds or Flared Magwell. Then, for kill-chaining, Well-Rounded, Ensemble or Perpetual Motion fill out the stats nicely, and using a melee build - Shadowbinder Warlock or Striker Titan, say - to proc Swashbuckler x5 will get you to a TTK with two crits. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2671639706&perks=1840239774,1885400500,744594675,4082225868
+dimwishlist:item=2671639706&perks=1840239774,3230963543,744594675,4082225868
+dimwishlist:item=2671639706&perks=1840239774,1885400500,2621346526,4082225868
+dimwishlist:item=2671639706&perks=1840239774,3230963543,2621346526,4082225868
+dimwishlist:item=2671639706&perks=1840239774,1885400500,1428297954,4082225868
+dimwishlist:item=2671639706&perks=1840239774,3230963543,1428297954,4082225868
+
+// Yesteryear (PvP first-choice roll)
+// Arrowhead Brake, (Ricochet Rounds, Flared Magwell), Perpetual Motion, Eye of the Storm
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. You have access to the best PvP Origin Perk in Suros Synergy in a solid Pulse Rifle subfamily, needing only the smallest of damage buffs to go from a TTK of 0.93s with the first bullet of a third burst (6 crits, 1 body), to a 0.6s six crit kill. Stats are on the low side, including a truly terrible Recoil Direction of 50, so you will need a Counterbalance mod even with Arrowhead Brake, but you'll also benefit from its reduction of 30 bounce intensity, so it's still the best barrel park. For the mag, Ricochet Rounds or Flared Magwell round out the stats, adding some needed Stability. For a duelling roll, look for Perpetual Motion and Eye of the Storm to keep your reticule on target and make your crits easier to hit in a gunfight. Recommended MW: Stability, with a Counterbalance mod. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1141927949&perks=839105230,1885400500,1428297954,699525795
+dimwishlist:item=1141927949&perks=839105230,3230963543,1428297954,699525795
+
+// Yesteryear (PvP backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel), (Ricochet Rounds, Flared Magwell), Perpetual Motion, Eye of the Storm
+//notes:Inspired by DMB Podcast 278 with @Critbuff. Backup PvP pick for duelling. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. You have access to the best PvP Origin Perk in Suros Synergy in a solid Pulse Rifle subfamily, needing only the smallest of damage buffs to go from a TTK of 0.93s with the first bullet of a third burst (6 crits, 1 body), to a 0.6s six crit kill. Stats are on the low side, including a truly terrible Recoil Direction of 50, so you will need a Counterbalance mod whatever arrel you get, but you can also try to control by adding as much stability as you can. For the mag, Ricochet Rounds or Flared Magwell round out the stats, adding more Stability. For a duelling roll, look for Perpetual Motion and Eye of the Storm to keep your reticule on target and make your crits easier to hit in a gunfight. Recommended MW: Stability, with a Counterbalance mod. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1141927949&perks=1392496348,1885400500,1428297954,699525795
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1428297954,699525795
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1428297954,699525795
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1428297954,699525795
+dimwishlist:item=1141927949&perks=1392496348,3230963543,1428297954,699525795
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1428297954,699525795
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1428297954,699525795
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1428297954,699525795
+
+// Yesteryear (PvP first-choice roll)
+// Arrowhead Brake, (Ricochet Rounds, Flared Magwell), Heating Up, Golden Tricorn
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for kill-chaining. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. You have access to the best PvP Origin Perk in Suros Synergy in a solid Pulse Rifle subfamily, needing only the smallest of damage buffs to go from a TTK of 0.93s with the first bullet of a third burst (6 crits, 1 body), to a 0.6s six crit kill. Stats are on the low side, including a truly terrible Recoil Direction of 50, so you will need a Counterbalance mod even with Arrowhead Brake, but you'll also benefit from its reduction of 30 bounce intensity, so it's still the best barrel park. For the mag, Ricochet Rounds or Flared Magwell round out the stats, adding some needed Stability. For a kill-chaining roll, Heating Up will help after your first kill with both stability to keep your reticule on target and reducing accuracy cone degredation to make crit shots easier. Then Golden Tricorn is the standout damage perk - one stack is all you need for the two-burst kill, or two stacks reduce TTK to 0.53s with just 4 crits and 1 body shot. Recommended MW: Stability, with a Counterbalance mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,2610012052
+dimwishlist:item=1141927949&perks=839105230,3230963543,1570042021,2610012052
+
+// Yesteryear (PvP backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel), (Ricochet Rounds, Flared Magwell), (Ricochet Rounds, Flared Magwell), Heating Up, Golden Tricorn
+//notes:Inspired by DMB Podcast 278 with @Critbuff. Backup PvP pick for kill-chaining. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. You have access to the best PvP Origin Perk in Suros Synergy in a solid Pulse Rifle subfamily, needing only the smallest of damage buffs to go from a TTK of 0.93s with the first bullet of a third burst (6 crits, 1 body), to a 0.6s six crit kill. Stats are on the low side, including a truly terrible Recoil Direction of 50, so you will need a Counterbalance mod whatever arrel you get, but you can also try to control by adding as much stability as you can. For the mag, Ricochet Rounds or Flared Magwell round out the stats, adding some needed Stability. For a kill-chaining roll, Heating Up will help after your first kill with both stability to keep your reticule on target and reducing accuracy cone degredation to make crit shots easier. Then Golden Tricorn is the standout damage perk - one stack is all you need for the two-burst kill, or two stacks reduce TTK to 0.53s with just 4 crits and 1 body shot. Recommended MW: Stability, with a Counterbalance mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1141927949&perks=1392496348,1885400500,1570042021,2610012052
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1570042021,2610012052
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1570042021,2610012052
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1570042021,2610012052
+dimwishlist:item=1141927949&perks=1392496348,3230963543,1570042021,2610012052
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1570042021,2610012052
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1570042021,2610012052
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1570042021,2610012052
+
+// Yesteryear (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel), (Ricochet Rounds, Flared Magwell), (Ricochet Rounds, Flared Magwell), Heating Up, (Rampage, Multikill Clip)
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for kill-chaining. As with all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork. You have access to the best PvP Origin Perk in Suros Synergy in a solid Pulse Rifle subfamily, needing only the smallest of damage buffs to go from a TTK of 0.93s with the first bullet of a third burst (6 crits, 1 body), to a 0.6s six crit kill. Stats are on the low side, including a truly terrible Recoil Direction of 50, so you will need a Counterbalance mod even with Arrowhead Brake, but you'll also benefit from its reduction of 30 bounce intensity, or you can also try to control by adding as much stability as you can. For the mag, Ricochet Rounds or Flared Magwell round out the stats, adding some needed Stability. For a kill-chaining roll, Heating Up will help after your first kill with both stability to keep your reticule on target and reducing accuracy cone degredation to make crit shots easier. Then one stack of Rampage or Kill Clip is all you need for the two-burst kill, or Rampage x3 or Muiltikill Clip x2 will reduce TTK to 0.53s with just 4 crits and 1 body shot. Recommended MW: Stability, with a Counterbalance mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,3425386926
+dimwishlist:item=1141927949&perks=1392496348,1885400500,1570042021,3425386926
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1570042021,3425386926
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1570042021,3425386926
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1570042021,3425386926
+dimwishlist:item=1141927949&perks=839105230,3230963543,1570042021,3425386926
+dimwishlist:item=1141927949&perks=1392496348,3230963543,1570042021,3425386926
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1570042021,3425386926
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1570042021,3425386926
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1570042021,3425386926
+dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,2458213969
+dimwishlist:item=1141927949&perks=1392496348,1885400500,1570042021,2458213969
+dimwishlist:item=1141927949&perks=3661387068,1885400500,1570042021,2458213969
+dimwishlist:item=1141927949&perks=1482024992,1885400500,1570042021,2458213969
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1570042021,2458213969
+dimwishlist:item=1141927949&perks=839105230,3230963543,1570042021,2458213969
+dimwishlist:item=1141927949&perks=1392496348,3230963543,1570042021,2458213969
+dimwishlist:item=1141927949&perks=3661387068,3230963543,1570042021,2458213969
+dimwishlist:item=1141927949&perks=1482024992,3230963543,1570042021,2458213969
+dimwishlist:item=1141927949&perks=1840239774,3230963543,1570042021,2458213969
+
+// Out of Bounds (PvP first-choice roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Dynamic Sway Reducation, Tap the Trigger
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. For a duelling roll, it's not really necessary to look further than Dynamic Sway Reduction in the first trait column - pair this with the Omolon origin trait and Tap the Trigger and you'll end up with a precision bullet hose no matter where you are in the magazine. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1359896290,1890422124
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1359896290,1890422124
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1359896290,1890422124
+
+// Out of Bounds (PvP first-choice roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Threat Detector, Tap the Trigger
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you  can with barrel and mag so you can keep the reticule on target for crits. For a duelling roll, Threat Detector adds in more stability, and acts as a reminder that someone's in range. If you can keep the action in the top half of the magazine, the Omolon origin trait and Tap the Trigger together should keep everything on target. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2988121501&perks=1392496348,1885400500,4071163871,1890422124
+dimwishlist:item=2988121501&perks=1840239774,1885400500,4071163871,1890422124
+dimwishlist:item=2988121501&perks=4090651448,1885400500,4071163871,1890422124
+dimwishlist:item=2988121501&perks=1392496348,3230963543,4071163871,1890422124
+dimwishlist:item=2988121501&perks=1840239774,3230963543,4071163871,1890422124
+dimwishlist:item=2988121501&perks=4090651448,3230963543,4071163871,1890422124
+
+// Out of Bounds (PvP first-choice roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Dynamic Sway Reduction, Golden Tricorn
+//notes:Inspired by DMB Podcast 278 with @Critbuff. First-choice PvP pick for kill chaining. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. It's not really necessary to look further than Dynamic Sway Reduction in the first trait column, which pairs with the Omolon origin trait to keep your bullets on target through the magazine, and Golden Tricorn is the best damage perk - one stack gets you to the 0.6s TTK and two stacks to 0.47s with 6 crits and 2 body shots. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1359896290,2610012052
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1359896290,2610012052
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,2610012052
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1359896290,2610012052
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1359896290,2610012052
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1359896290,2610012052
+
+// Out of Bounds (PvP backup roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), (Moving Target, Perpetual Motion), Tap the Trigger
+//notes:Inspired by DMB Podcast 278 with @Critbuff. Backup PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. For a duelling roll, Moving Target and Perpetual Motion will both help, in different way, with crits. If you can keep the action in the top half of the magazine, the Omolon origin trait and Tap the Trigger together should keep everything on target. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=2988121501&perks=1392496348,1885400500,588594999,1890422124
+dimwishlist:item=2988121501&perks=1840239774,1885400500,588594999,1890422124
+dimwishlist:item=2988121501&perks=4090651448,1885400500,588594999,1890422124
+dimwishlist:item=2988121501&perks=1392496348,3230963543,588594999,1890422124
+dimwishlist:item=2988121501&perks=1840239774,3230963543,588594999,1890422124
+dimwishlist:item=2988121501&perks=4090651448,3230963543,588594999,1890422124
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1428297954,1890422124
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1428297954,1890422124
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1428297954,1890422124
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1428297954,1890422124
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1428297954,1890422124
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1428297954,1890422124
+
+// Out of Bounds (PvP backup roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), Dynamic Sway Reduction, (Kill Clip, Swashbuckler, Adrenaline Junkie, Harmony)
+//notes:Inspired by DMB Podcast 278 with @Critbuff. Backup PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. For a kill-chaining roll, Dynamic Sway Reducation and the Omolon origin trait together should keep everything on target. One stack of any damage perk will then get you to the 0.6s TTK. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1359896290,1015611457
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1359896290,1015611457
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,1015611457
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1359896290,1015611457
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1359896290,1015611457
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1359896290,1015611457
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1359896290,4082225868
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1359896290,4082225868
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,4082225868
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1359896290,4082225868
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1359896290,4082225868
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1359896290,4082225868
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1359896290,11612903
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1359896290,11612903
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,11612903
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1359896290,11612903
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1359896290,11612903
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1359896290,11612903
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1359896290,438098033
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1359896290,438098033
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,438098033
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1359896290,438098033
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1359896290,438098033
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1359896290,438098033
+
+// Out of Bounds (PvP backup roll)
+// (Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Ricochet Rounds, Flared Magwell), (Heating Up, Killing Wind), (Golden Tricorn, Kill Clip, Swashbuckler, Adrenaline Junkie, Harmony)
+//notes:Inspired by DMB Podcast 278 with @Critbuff. Backup PvP pick for duelling. As will all playlist weapons, the more reputation resets you can get, the more trait options you'll get to play with, otherwise you've only got a 1/144 chance of any pair of traits dropping, before you even look at barrel, mag and masterwork, although at least 50% of them are good PvP traits, which makes getting a usable roll a little easier. You have access to an excellent PvP origin perk for SMGs in Omolon Fluid Dynamics, in a solid SMG subfamily, needing only the smallest of damage buffs to go from a TTK of 0.67s with 11 crits and 1 body, to a 0.6s 8 crit, 2 body kill. Stats are on the low side, and with a Zoom of only 14, you'll never compete with a range specced Multimach or Shayura's, so focus on making this as good a CQC SMG as you're likely to meet. Add as much Handling and Stability as you can with barrel and mag so you can keep the reticule on target for crits. For a kill-chaining roll, Heating Up or Killing Wind will help with follow-up kills. If you can keep the action in the top half of the magazine, the Omolon origin trait should help keep everything on target. One stack of any damage perk will then get you to the 0.6s TTK. Recommended MW: Stability or Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1570042021,2610012052
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1570042021,2610012052
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1570042021,2610012052
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1570042021,2610012052
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1570042021,2610012052
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1570042021,2610012052
+dimwishlist:item=2988121501&perks=1392496348,1885400500,2450788523,2610012052
+dimwishlist:item=2988121501&perks=1840239774,1885400500,2450788523,2610012052
+dimwishlist:item=2988121501&perks=4090651448,1885400500,2450788523,2610012052
+dimwishlist:item=2988121501&perks=1392496348,3230963543,2450788523,2610012052
+dimwishlist:item=2988121501&perks=1840239774,3230963543,2450788523,2610012052
+dimwishlist:item=2988121501&perks=4090651448,3230963543,2450788523,2610012052
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1570042021,1015611457
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1570042021,1015611457
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1570042021,1015611457
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1570042021,1015611457
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1570042021,1015611457
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1570042021,1015611457
+dimwishlist:item=2988121501&perks=1392496348,1885400500,2450788523,1015611457
+dimwishlist:item=2988121501&perks=1840239774,1885400500,2450788523,1015611457
+dimwishlist:item=2988121501&perks=4090651448,1885400500,2450788523,1015611457
+dimwishlist:item=2988121501&perks=1392496348,3230963543,2450788523,1015611457
+dimwishlist:item=2988121501&perks=1840239774,3230963543,2450788523,1015611457
+dimwishlist:item=2988121501&perks=4090651448,3230963543,2450788523,1015611457
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1570042021,4082225868
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1570042021,4082225868
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1570042021,4082225868
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1570042021,4082225868
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1570042021,4082225868
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1570042021,4082225868
+dimwishlist:item=2988121501&perks=1392496348,1885400500,2450788523,4082225868
+dimwishlist:item=2988121501&perks=1840239774,1885400500,2450788523,4082225868
+dimwishlist:item=2988121501&perks=4090651448,1885400500,2450788523,4082225868
+dimwishlist:item=2988121501&perks=1392496348,3230963543,2450788523,4082225868
+dimwishlist:item=2988121501&perks=1840239774,3230963543,2450788523,4082225868
+dimwishlist:item=2988121501&perks=4090651448,3230963543,2450788523,4082225868
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1570042021,11612903
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1570042021,11612903
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1570042021,11612903
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1570042021,11612903
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1570042021,11612903
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1570042021,11612903
+dimwishlist:item=2988121501&perks=1392496348,1885400500,2450788523,11612903
+dimwishlist:item=2988121501&perks=1840239774,1885400500,2450788523,11612903
+dimwishlist:item=2988121501&perks=4090651448,1885400500,2450788523,11612903
+dimwishlist:item=2988121501&perks=1392496348,3230963543,2450788523,11612903
+dimwishlist:item=2988121501&perks=1840239774,3230963543,2450788523,11612903
+dimwishlist:item=2988121501&perks=4090651448,3230963543,2450788523,11612903
+dimwishlist:item=2988121501&perks=1392496348,1885400500,1570042021,438098033
+dimwishlist:item=2988121501&perks=1840239774,1885400500,1570042021,438098033
+dimwishlist:item=2988121501&perks=4090651448,1885400500,1570042021,438098033
+dimwishlist:item=2988121501&perks=1392496348,3230963543,1570042021,438098033
+dimwishlist:item=2988121501&perks=1840239774,3230963543,1570042021,438098033
+dimwishlist:item=2988121501&perks=4090651448,3230963543,1570042021,438098033
+dimwishlist:item=2988121501&perks=1392496348,1885400500,2450788523,438098033
+dimwishlist:item=2988121501&perks=1840239774,1885400500,2450788523,438098033
+dimwishlist:item=2988121501&perks=4090651448,1885400500,2450788523,438098033
+dimwishlist:item=2988121501&perks=1392496348,3230963543,2450788523,438098033
+dimwishlist:item=2988121501&perks=1840239774,3230963543,2450788523,438098033
+dimwishlist:item=2988121501&perks=4090651448,3230963543,2450788523,438098033
