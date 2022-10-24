@@ -4,72 +4,72 @@
 // BrayTech Werewolf (PvP first-choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
 //notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For duelling, you don't really need to look further than Dynamic Sway Reduction and Tap the Trigger which together add stability and accuracy through your volley. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
-dimwishlist:item=528834068&perks=1392496348,1885400500,1359896290,1890422124
-dimwishlist:item=528834068&perks=3661387068,1885400500,1359896290,1890422124
-dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1890422124
-dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,1890422124
-dimwishlist:item=528834068&perks=4090651448,1885400500,1359896290,1890422124
-dimwishlist:item=528834068&perks=3250034553,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,1885400500,1359896290,1890422124
 
 // BrayTech Werewolf (PvP backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), (Ricochet Rounds, Flared Magwell, Light Mag), (Dynamic Sway Reduction, Under Pressure), Tap the Trigger
 //notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel and mag perks to fill in your favoured stats - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. For duelling, Dynamic Sway Reduction is always great although, if you have the discipline to use the bottom half of a magazine, rather than continually reloading, Under Pressure offers great stability and accuracy boosts too. Finally, in the second trait column, Tap the Trigger which adds stability and accuracy when you need it, on initial trigger pull. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
-dimwishlist:item=528834068&perks=1392496348,3230963543,1359896290,1890422124
-dimwishlist:item=528834068&perks=3661387068,3230963543,1359896290,1890422124
-dimwishlist:item=528834068&perks=1482024992,3230963543,1359896290,1890422124
-dimwishlist:item=528834068&perks=1840239774,3230963543,1359896290,1890422124
-dimwishlist:item=528834068&perks=4090651448,3230963543,1359896290,1890422124
-dimwishlist:item=528834068&perks=3250034553,3230963543,1359896290,1890422124
-dimwishlist:item=528834068&perks=1392496348,679225683,1359896290,1890422124
-dimwishlist:item=528834068&perks=3661387068,679225683,1359896290,1890422124
-dimwishlist:item=528834068&perks=1482024992,679225683,1359896290,1890422124
-dimwishlist:item=528834068&perks=1840239774,679225683,1359896290,1890422124
-dimwishlist:item=528834068&perks=4090651448,679225683,1359896290,1890422124
-dimwishlist:item=528834068&perks=3250034553,679225683,1359896290,1890422124
-dimwishlist:item=528834068&perks=1392496348,1885400500,1645158859,1890422124
-dimwishlist:item=528834068&perks=3661387068,1885400500,1645158859,1890422124
-dimwishlist:item=528834068&perks=1482024992,1885400500,1645158859,1890422124
-dimwishlist:item=528834068&perks=1840239774,1885400500,1645158859,1890422124
-dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,1890422124
-dimwishlist:item=528834068&perks=3250034553,1885400500,1645158859,1890422124
-dimwishlist:item=528834068&perks=1392496348,3230963543,1645158859,1890422124
-dimwishlist:item=528834068&perks=3661387068,3230963543,1645158859,1890422124
-dimwishlist:item=528834068&perks=1482024992,3230963543,1645158859,1890422124
-dimwishlist:item=528834068&perks=1840239774,3230963543,1645158859,1890422124
-dimwishlist:item=528834068&perks=4090651448,3230963543,1645158859,1890422124
-dimwishlist:item=528834068&perks=3250034553,3230963543,1645158859,1890422124
-dimwishlist:item=528834068&perks=1392496348,679225683,1645158859,1890422124
-dimwishlist:item=528834068&perks=3661387068,679225683,1645158859,1890422124
-dimwishlist:item=528834068&perks=1482024992,679225683,1645158859,1890422124
-dimwishlist:item=528834068&perks=1840239774,679225683,1645158859,1890422124
-dimwishlist:item=528834068&perks=4090651448,679225683,1645158859,1890422124
-dimwishlist:item=528834068&perks=3250034553,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1392496348,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1392496348,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1392496348,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3661387068,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1482024992,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3250034553,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1392496348,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3661387068,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1482024992,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1840239774,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=4090651448,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3250034553,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1392496348,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3661387068,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1482024992,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1840239774,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=4090651448,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3250034553,679225683,1645158859,1890422124
 
 // BrayTech Werewolf (PvP first-choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
 //notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For kill-chaining, Swashbuckler x5 after a melee kill reduces TTK to 0.67 (4c, 2b), with Pugilist then recovering melee ability energy to repeat the cycle. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
-dimwishlist:item=528834068&perks=1392496348,1885400500,691659142,4082225868
-dimwishlist:item=528834068&perks=3661387068,1885400500,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,1885400500,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,1885400500,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,1885400500,691659142,4082225868
-dimwishlist:item=528834068&perks=3250034553,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=3661387068,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=3250034553,1885400500,691659142,4082225868
 
 // BrayTech Werewolf (PvP backup roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), (Ricochet Rounds, Flared Magwell, Light Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel and mag perks to fill in your favoured stats - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. For duelling, Dynamic Sway Reduction is always great although, if you have the discipline to use the bottom half of a magazine, rather than continually reloading, Under Pressure offers great stability and accuracy boosts too. Finally, in the second trait column, Tap the Trigger which adds stability and accuracy when you need it, on initial trigger pull. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
-dimwishlist:item=528834068&perks=1392496348,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=3661387068,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=3250034553,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=3661387068,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=3250034553,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=3661387068,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=3250034553,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=3661387068,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=3250034553,679225683,691659142,4082225868
 
 // Jurassic Green (PvP first-choice roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel), Ricochet Rounds, Perpetual Motion, Golden Tricorn
