@@ -1,0 +1,355 @@
+@title:Season 18 (Season of Plunder) Festival of the Lost reprised, and 30th Anniversary primary and power weapons with @ImpetusAlways
+@description:Speacial weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
+
+// BrayTech Werewolf (PvP first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For duelling, you don't really need to look further than Dynamic Sway Reduction and Tap the Trigger which together add stability and accuracy through your volley. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=528834068&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=3661387068,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=3250034553,1885400500,1359896290,1890422124
+
+// BrayTech Werewolf (PvP backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), (Ricochet Rounds, Flared Magwell, Light Mag), (Dynamic Sway Reduction, Under Pressure), Tap the Trigger
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel and mag perks to fill in your favoured stats - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. For duelling, Dynamic Sway Reduction is always great although, if you have the discipline to use the bottom half of a magazine, rather than continually reloading, Under Pressure offers great stability and accuracy boosts too. Finally, in the second trait column, Tap the Trigger which adds stability and accuracy when you need it, on initial trigger pull. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=528834068&perks=1392496348,3230963543,1359896290,1890422124
+dimwishlist:item=528834068&perks=3661387068,3230963543,1359896290,1890422124
+dimwishlist:item=528834068&perks=1482024992,3230963543,1359896290,1890422124
+dimwishlist:item=528834068&perks=1840239774,3230963543,1359896290,1890422124
+dimwishlist:item=528834068&perks=4090651448,3230963543,1359896290,1890422124
+dimwishlist:item=528834068&perks=3250034553,3230963543,1359896290,1890422124
+dimwishlist:item=528834068&perks=1392496348,679225683,1359896290,1890422124
+dimwishlist:item=528834068&perks=3661387068,679225683,1359896290,1890422124
+dimwishlist:item=528834068&perks=1482024992,679225683,1359896290,1890422124
+dimwishlist:item=528834068&perks=1840239774,679225683,1359896290,1890422124
+dimwishlist:item=528834068&perks=4090651448,679225683,1359896290,1890422124
+dimwishlist:item=528834068&perks=3250034553,679225683,1359896290,1890422124
+dimwishlist:item=528834068&perks=1392496348,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=3661387068,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=1482024992,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=1840239774,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=3250034553,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=1392496348,3230963543,1645158859,1890422124
+dimwishlist:item=528834068&perks=3661387068,3230963543,1645158859,1890422124
+dimwishlist:item=528834068&perks=1482024992,3230963543,1645158859,1890422124
+dimwishlist:item=528834068&perks=1840239774,3230963543,1645158859,1890422124
+dimwishlist:item=528834068&perks=4090651448,3230963543,1645158859,1890422124
+dimwishlist:item=528834068&perks=3250034553,3230963543,1645158859,1890422124
+dimwishlist:item=528834068&perks=1392496348,679225683,1645158859,1890422124
+dimwishlist:item=528834068&perks=3661387068,679225683,1645158859,1890422124
+dimwishlist:item=528834068&perks=1482024992,679225683,1645158859,1890422124
+dimwishlist:item=528834068&perks=1840239774,679225683,1645158859,1890422124
+dimwishlist:item=528834068&perks=4090651448,679225683,1645158859,1890422124
+dimwishlist:item=528834068&perks=3250034553,679225683,1645158859,1890422124
+
+// BrayTech Werewolf (PvP first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For kill-chaining, Swashbuckler x5 after a melee kill reduces TTK to 0.67 (4c, 2b), with Pugilist then recovering melee ability energy to repeat the cycle. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=528834068&perks=1392496348,1885400500,691659142,4082225868
+dimwishlist:item=528834068&perks=3661387068,1885400500,691659142,4082225868
+dimwishlist:item=528834068&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=528834068&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=528834068&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=528834068&perks=3250034553,1885400500,691659142,4082225868
+
+// BrayTech Werewolf (PvP backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), (Ricochet Rounds, Flared Magwell, Light Mag), Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel and mag perks to fill in your favoured stats - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. For duelling, Dynamic Sway Reduction is always great although, if you have the discipline to use the bottom half of a magazine, rather than continually reloading, Under Pressure offers great stability and accuracy boosts too. Finally, in the second trait column, Tap the Trigger which adds stability and accuracy when you need it, on initial trigger pull. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=528834068&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=528834068&perks=3661387068,3230963543,691659142,4082225868
+dimwishlist:item=528834068&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=528834068&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=528834068&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=528834068&perks=3250034553,3230963543,691659142,4082225868
+dimwishlist:item=528834068&perks=1392496348,679225683,691659142,4082225868
+dimwishlist:item=528834068&perks=3661387068,679225683,691659142,4082225868
+dimwishlist:item=528834068&perks=1482024992,679225683,691659142,4082225868
+dimwishlist:item=528834068&perks=1840239774,679225683,691659142,4082225868
+dimwishlist:item=528834068&perks=4090651448,679225683,691659142,4082225868
+dimwishlist:item=528834068&perks=3250034553,679225683,691659142,4082225868
+
+// Jurassic Green (PvP first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel), Ricochet Rounds, Perpetual Motion, Golden Tricorn
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for solar subclasses. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. Reasonably competitive out of the box with a subfamily TTK of 0.8s with 8 crits and 1 body shot), and an accuracy-adjusted TTK of 1.00s (7c, 3b) which only needs the smallest of damage boosts to improve as at v6.2.5. Unfortunately, stats are pretty weak across the board - the 50 Recoil Direction and joint lowest zoom means that, even with a recoil direction-correcting or stability barrel, you'll will still probably find a Counterbalance mod necessary. You really need both more range and more stability, once you've sorted the recoil direction, so Ricochet Rounds are your best mag perk. In the first trait column, Perpetual Motion passively boosts your stability and handling. The second trait column is a bit short on PvP picks, but Golden Tricorn is the most reliable damage perk. One stack after a kill drops TTK down to 0.73s (7c, 1b) and accuracy-adjusted TTK to 0.8s (5c, 4b). If you manage to proc both stacks, this drops further to a lightning-fast TTK of 0.47s (6c) or an accuracy-adjusted TTK of 0.67s (4c, 3b). Recommended MW: Range or Stability, with a Counterbalance mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=3661387068,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1392496348,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,1428297954,2610012052
+
+// Jurassic Green (PvP first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel), Ricochet Rounds, Rangefinder, Golden Tricorn
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for solar subclasses. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. Reasonably competitive out of the box with a subfamily TTK of 0.8s with 8 crits and 1 body shot), and an accuracy-adjusted TTK of 1.00s (7c, 3b) which only needs the smallest of damage boosts to improve as at v6.2.5. Unfortunately, stats are pretty weak across the board - the 50 Recoil Direction and joint lowest zoom means that, even with a recoil direction-correcting or stability barrel, you'll will still probably find a Counterbalance mod necessary. You really need both more range and more stability, once you've sorted the recoil direction, so Ricochet Rounds are your best mag perk. In the first trait column, Rangefinder will help push out range with an extra point of zoom. The second trait column is a bit short on PvP picks, but Golden Tricorn is the most reliable damage perk. One stack after a kill drops TTK down to 0.73s (7c, 1b) and accuracy-adjusted TTK to 0.8s (5c, 4b). If you manage to proc both stacks, this drops further to a lightning-fast TTK of 0.47s (6c) or an accuracy-adjusted TTK of 0.67s (4c, 3b). Recommended MW: Stability, with a Counterbalance mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=3661387068,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1392496348,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2846385770,2610012052
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. For most people Snapshot Sights and Opening Shot is the best trait combination, getting you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,1431678320,957782887,47981717
+
+// Mechabre (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake), (Alloy Mag, Flared Magwell), Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag helps with reloads, and Flared Magwell does that too, and improves stability to help a bit with flinch. For most people Snapshot Sights and Opening Shot is the best trait combination, getting you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,1431678320,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,47981717
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, No Distractions, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for lane control while duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. In the first trait column, No Distractions gives you flinch reduction, so you can hold a lane against primary fire more easily, and Opening Shot in the second gives you 20 Aim Assistance, and accuracy boosts. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,1431678320,2866798147,47981717
+
+// Mechabre (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake), (Alloy Mag, Flared Magwell), No Distractions, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for lane control while duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag helps with reloads, and Flared Magwell does that too, and improves stability to help a bit with flinch. In the first trait column, No Distractions gives you flinch reduction, so you can hold a lane against primary fire more easily, and Opening Shot in the second gives you 20 Aim Assistance, and accuracy boosts. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,1431678320,2866798147,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,2866798147,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,2866798147,47981717
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, Snapshot Sights, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. For kill-chaining Snapshot Sights gets you into the very reasonable ADS zoom of 45 quickly, and if you can proc Swashbuckler x5, you can one-shot body at any resilience, so keep going for as long as you've got ammo. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,1431678320,957782887,4082225868
+
+// Mechabre (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake), (Alloy Mag, Flared Magwell), Snapshot Sights, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag helps with reloads, and Flared Magwell does that too, and improves stability to help a bit with flinch. For kill-chaining Snapshot Sights gets you into the very reasonable ADS zoom of 45 quickly, and if you can proc Swashbuckler x5, you can one-shot body at any resilience, so keep going for as long as you've got ammo.  Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,1431678320,957782887,4082225868
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,4082225868
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,4082225868
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Extended Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, and Snapshot Sights and Opening Shot together gets you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,2420895100,957782887,47981717
+
+// Mechabre (PvP backup roll)
+// Arrowhead Brake, Extended Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, and Snapshot Sights and Opening Shot together gets you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,2420895100,957782887,47981717
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Extended Mag, Auto-Loading Holster, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, Auto-Loading Holster bypasses the reload speed penalty and Opening Shot adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,2420895100,3300816228,47981717
+
+// Mechabre (PvP backup roll)
+// Arrowhead Brake, Extended Mag, Auto-Loading Holster, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, Auto-Loading Holster bypasses the reload speed penalty and Opening Shot adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,2420895100,3300816228,47981717
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and Ricochet Rounds is your optimum magazine perk. Then, for duelling, Rangefinder pushes out your range to near pulse rifle distances, and Snapshot Sights halves your ADS time to get the crucial first shot in an engagement. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell), Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. Boost Handling, Range and Stability with sights and mag. Then, for duelling, Rangefinder pushes out your range to near pulse rifle distances, and Snapshot Sights halves your ADS time to get the crucial first shot in an engagement. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090095,3230963543,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,3230963543,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,3230963543,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,3230963543,2846385770,957782887
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell), Rangefinder, Moving Target
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. Boost Handling, Range and Stability with sights and mag. Then, for duelling, Rangefinder pushes out your range to near pulse rifle distances, and Moving Target adds 10 Aim Assistance to help with your crits. Recommended MW: Range or Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,3230963543,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,3230963543,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,3230963543,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,3230963543,2846385770,588594999
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, (Rapid Hit, Outlaw), Kill Clip
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and  Ricochet Rounds is your optimum magazine perk. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Kill Clip, which makes the three-tap much easier, just needing 1 crit and 2 body shots. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,1885400500,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,1015611457
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell),  (Rapid Hit, Outlaw), Kill Clip
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. Boost Handling, Range and Stability with sights and mag. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Kill Clip, which makes the three-tap much easier, just needing 1 crit and 2 body shots. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,1885400500,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,1885400500,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090095,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090093,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090095,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090093,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090095,3230963543,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,3230963543,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090093,3230963543,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,3230963543,1168162263,1015611457
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, (Rapid Hit, Outlaw), Headstone
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for Stasis subclasses. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and  Ricochet Rounds is your optimum magazine perk. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Headstone - either break the crystal for AoE damage in 6s or leave the crystals to prevent revives in Trials and Survival (and Rift) giving your team a numberical advantage. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,1885400500,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell),  (Rapid Hit, Outlaw), Headstone
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining, particularly for Stasis subclasses. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. Boost Handling, Range and Stability with sights and mag. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Headstone - either break the crystal for AoE damage in 6s or leave the crystals to prevent revives in Trials and Survival (and Rift) giving your team a numberical advantage. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1885400500,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090095,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090093,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090095,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090093,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090095,3230963543,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,3230963543,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090093,3230963543,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,3230963543,1168162263,124408337
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, Perpetual Motion, Harmony
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3 s with 2 crits, 2 body shots. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and Ricochet Rounds is your optimum magazine perk. Then for kill-chaining, you can proc Perpetual Motion on a stowed weapon to improve Handling for a faster swap after a special or power weapon kill, and Harmony will make your three-tap easier, needing just two crits and a body to kill at any resilience. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,1885400500,1428297954,438098033
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell), Perpetual Motion, Harmony
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots. Boost Handling, Range and Stability with sights and mag. Then for kill-chaining, you can proc Perpetual Motion on a stowed weapon to improve Handling for a faster swap after a special or power weapon kill, and Harmony will make your three-tap easier, needing just two crits and a body to kill at any resilience.  Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090095,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090095,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090095,3230963543,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,3230963543,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,3230963543,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,3230963543,1428297954,438098033
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, Perpetual Motion, Eye of the Storm
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b). It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. Then, for duelling, Perpetual Motion boosts your gunfeel stats and Eye of the Storm makes crits easier to hit in a firefight. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,699525795
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Outlaw, Perpetual Motion), Kill Clip
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b). It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For kill-chaining, Killing Wind, Outlaw and Perpetual Motion all provide boosts so that you can take advantage of Kill Clip after your first kill, reducing TTK to 0.53s with (6c), and an accuracy-adjusted TTK of 0.8s (4c, 3b). Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=1392496348,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=1482024992,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=4090651448,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=839105230,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,1015611457
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for solar subclasses. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b). It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For kill-chaining, Killing Wind or Perpetual Motion all provide boosts so that you can take advantage of the scorch spread by an ignition kill. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=1392496348,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=1482024992,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=4090651448,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,4293542123
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for melee builds. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b). It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For melee builds, Pugilist and Blunt Execution Rounds provide a fun play loop - charged or uncharged melee hits (ones that don't need a spring or slide, sorry Titans) on opponents within 15m proc Blunt Execution Rounds, which makes killing the damaged opponent very easy with the hipfire perk, which procs Pugilist to repeat the process. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1392496348,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1482024992,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1840239774,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=4090651448,1885400500,691659142,454085387
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, Pugilist, Blunt Execution Rounds
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for melee builds. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b). It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For melee builds, Pugilist and Blunt Execution Rounds provide a fun play loop - charged or uncharged melee hits (ones that don't need a spring or slide, sorry Titans) on opponents within 15m proc Blunt Execution Rounds, which makes killing the damaged opponent very easy with the hipfire perk, which procs Pugilist to repeat the process. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1392496348,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1482024992,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1840239774,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=4090651448,1885400500,691659142,454085387
+
