@@ -353,3 +353,13 @@ dimwishlist:item=2708806099&perks=1482024992,1885400500,691659142,454085387
 dimwishlist:item=2708806099&perks=1840239774,1885400500,691659142,454085387
 dimwishlist:item=2708806099&perks=4090651448,1885400500,691659142,454085387
 
+// Half-Truths (PvP first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Tireless Blade, Duelist's Trance), Eager Edge
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Shapeable. Swords aren't necessarily a top choice for PvP, as at v6.2.5, but this does come with a very useful perk in Eager Edge to close the gap unexpectedly on an opponent. Jagged Edge adds damage, and Swordmaster's Guard gets your power attack as quickly as possible. Tireless Blade, or maybe Duelist's Trance might be useful in the first trait column and Eager Edge is your must have in the second. Recommended MW: Impact, with a Quick Access Sling mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=3257091166&perks=3666208348,269888150,2590710093,2077819806
+dimwishlist:item=3257091166&perks=3666208348,269888150,3705817207,2077819806
+
+// The Other Half (PvP first-choice roll)
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Shapeable. Swords aren't necessarily a top choice for PvP, as at v6.2.5, but this does come with a very useful perk in Eager Edge to close the gap unexpectedly on an opponent. Jagged Edge adds damage, and Swordmaster's Guard gets your power attack as quickly as possible. Eager Edge is your must have in the first trait column and Vorpal Weapon is the best of a very PvE orientated set of traits in the second. Recommended MW: Impact, with a Quick Access Sling mod. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,1546637391
+
