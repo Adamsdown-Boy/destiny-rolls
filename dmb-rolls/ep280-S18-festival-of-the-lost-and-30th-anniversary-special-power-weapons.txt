@@ -1,5 +1,5 @@
 @title:Season 18 (Season of Plunder) Festival of the Lost reprised, and 30th Anniversary primary and power weapons with @ImpetusAlways
-@description:Speacial weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
+@description:Festival of the Lost reprised weapons with the Search Party Origin trait, and primary and power weapons dropping from Dares of Eternity and the Grasp of Averice dungeon
 
 // BrayTech Werewolf (PvP first-choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
