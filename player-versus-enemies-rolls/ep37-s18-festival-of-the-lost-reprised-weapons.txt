@@ -56,8 +56,8 @@ dimwishlist:item=1280894514&perks=1840239774,3230963543,1428297954,2173046394
 dimwishlist:item=1280894514&perks=1840239774,106909392,1428297954,2173046394
 
 // Mechabre (PvE backup roll)
-/// (Arrowhead Brake, Corkscrew Rifling), , (Flared Magwell, Tactical Mag), Perpetual Motion, Voltshot
-/notes:Inspired by DMB PvE Podcast 37. PvE backup roll for building into Arc 3.0 subclasses. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Direct competitor to Occluded Finality, but with a much more reasonable 45 Zoom. You don't really need to worry about range, so look to boost Handling with the barrel. You want to make your reloads as fast as possible, so Flared Magwell or Tactical Mag are you mag choices. In the first trait column, Perpetual Motion boosts Reload Speed even more so that when you get your first add kill, you can reload as fast as possible to proc Jolt with Voltshot in the second column for additional damage against a Major or Boss and add clear of any Minors nearby. This is as close as you'll get to a legendary Cloudstrike. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, Controller, MKB
+// (Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Perpetual Motion, Voltshot
+//notes:Inspired by DMB PvE Podcast 37. PvE backup roll for building into Arc 3.0 subclasses. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Direct competitor to Occluded Finality, but with a much more reasonable 45 Zoom. You don't really need to worry about range, so look to boost Handling with the barrel. You want to make your reloads as fast as possible, so Flared Magwell or Tactical Mag are you mag choices. In the first trait column, Perpetual Motion boosts Reload Speed even more so that when you get your first add kill, you can reload as fast as possible to proc Jolt with Voltshot in the second column for additional damage against a Major or Boss and add clear of any Minors nearby. This is as close as you'll get to a legendary Cloudstrike. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, Controller, MKB
 dimwishlist:item=1280894514&perks=839105230,3230963543,1428297954,2173046394
 dimwishlist:item=1280894514&perks=4090651448,3230963543,1428297954,2173046394
 dimwishlist:item=1280894514&perks=839105230,106909392,1428297954,2173046394
@@ -66,78 +66,78 @@ dimwishlist:item=1280894514&perks=4090651448,106909392,1428297954,2173046394
 // BrayTech Werewolf (PvE first-choice roll)
 // Fluted Barrel, (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for add clear in non-endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Swashbuckler in the second to boost your damage. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
-dimwishlist:item=528834068&perks=1840239774,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,1561002382,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=1840239774,1087426260,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1087426260,691659142,4082225868
 
 // BrayTech Werewolf (PvE backup roll)
 // (Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Swashbuckler
 //notes:Inspired by DMB PvE Podcast 37. PvE backup roll for add clear in non-endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Swashbuckler in the second to boost your damage. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
-dimwishlist:item=528834068&perks=1482024992,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,1968497646,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,1561002382,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,1561002382,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,1561002382,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,3230963543,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,679225683,691659142,4082225868
-dimwishlist:item=528834068&perks=1482024992,1087426260,691659142,4082225868
-dimwishlist:item=528834068&perks=4090651448,1087426260,691659142,4082225868
-dimwishlist:item=528834068&perks=1392496348,1087426260,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,1968497646,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,1561002382,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1561002382,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,1561002382,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,1087426260,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1087426260,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,1087426260,691659142,4082225868
 
 // BrayTech Werewolf (PvE first-choice roll)
 // Fluted Barrel, Armor-Piercing Rounds, Pugilist, Vorpal Weapon
 //notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for Barrier Champions, when the mod's around. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with your barrel. Armor-Piercing Rounds adds 5% damage against shields and barriers, and Vorpal Weapon in the second trait column boosts damage against Majors (including Champions), Bosses and vehicles by 20%. There's noting much that helps in the first trait column, so just take Pugilist to turn this into a Legendary mini-Monte Carlo. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvE-Champion, Controller, MKB
-dimwishlist:item=528834068&perks=1840239774,1968497646,691659142,1546637391
+dimwishlist:item=2869466318&perks=1840239774,1968497646,691659142,1546637391
 
 // BrayTech Werewolf (PvE backup roll)
 // (Corkscrew Rifling, Smallbore, Polygonal Rifling), Armor-Piercing Rounds, Pugilist, Vorpal Weapon
 //notes:Inspired by DMB PvE Podcast 37. PvE backup roll for Barrier Champions, when the mod's around. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with your barrel. Armor-Piercing Rounds adds 5% damage against shields and barriers, and Vorpal Weapon in the second trait column boosts damage against Majors (including Champions), Bosses and vehicles by 20%. There's noting much that helps in the first trait column, so just take Pugilist to turn this into a Legendary mini-Monte Carlo. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, Controller, MKB
-dimwishlist:item=528834068&perks=4090651448,1968497646,691659142,1546637391
-dimwishlist:item=528834068&perks=1392496348,1968497646,691659142,1546637391
-dimwishlist:item=528834068&perks=1840239774,1968497646,691659142,1546637391
+dimwishlist:item=2869466318&perks=4090651448,1968497646,691659142,1546637391
+dimwishlist:item=2869466318&perks=1392496348,1968497646,691659142,1546637391
+dimwishlist:item=2869466318&perks=1840239774,1968497646,691659142,1546637391
 
 // BrayTech Werewolf (PvE first-choice roll)
 // Fluted Barrel, (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Osmosis
 //notes:Inspired by DMB PvE Podcast 37. PvE first-choice utility roll for endgame content, particularly soloing. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with your barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Osmosis in the second for an additional primary energy weapon option when you use your grenade - useful as a utility roll, and for soloing activities in particular. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, PvE-Solo, Controller, MKB
-dimwishlist:item=528834068&perks=1840239774,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=1840239774,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=1840239774,1561002382,691659142,1774574192
-dimwishlist:item=528834068&perks=1840239774,3230963543,691659142,1774574192
-dimwishlist:item=528834068&perks=1840239774,679225683,691659142,1774574192
-dimwishlist:item=528834068&perks=1840239774,1087426260,691659142,1774574192
+dimwishlist:item=2869466318&perks=1840239774,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=1840239774,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=1840239774,1561002382,691659142,1774574192
+dimwishlist:item=2869466318&perks=1840239774,3230963543,691659142,1774574192
+dimwishlist:item=2869466318&perks=1840239774,679225683,691659142,1774574192
+dimwishlist:item=2869466318&perks=1840239774,1087426260,691659142,1774574192
 
 // BrayTech Werewolf (PvE backup roll)
 // (Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Light Mag, Appended Mag), Pugilist, Osmosis
 //notes:Inspired by DMB PvE Podcast 37. PvE backup utility roll for endgame content, particularly soloing. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Excellent, pretty much best-in-class stats, and the precision frame means you don't really have to worry about Recoil Direction, so boost your gunfeel stats with your barrel and mag. You can turn this into a Legendary mini-Monte Carlo with Pugilist in the first trait column and pair this with Osmosis in the second for an additional primary energy weapon option when you use your grenade - useful as a utility roll, and for soloing activities in particular. Recommended MW: Handling, Stability or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, Controller, MKB|tags:1840239774
-dimwishlist:item=528834068&perks=1482024992,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=4090651448,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=1392496348,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=1482024992,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=4090651448,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=1392496348,1968497646,691659142,1774574192
-dimwishlist:item=528834068&perks=1482024992,1561002382,691659142,1774574192
-dimwishlist:item=528834068&perks=4090651448,1561002382,691659142,1774574192
-dimwishlist:item=528834068&perks=1392496348,1561002382,691659142,1774574192
-dimwishlist:item=528834068&perks=1482024992,3230963543,691659142,1774574192
-dimwishlist:item=528834068&perks=4090651448,3230963543,691659142,1774574192
-dimwishlist:item=528834068&perks=1392496348,3230963543,691659142,1774574192
-dimwishlist:item=528834068&perks=1482024992,679225683,691659142,1774574192
-dimwishlist:item=528834068&perks=4090651448,679225683,691659142,1774574192
-dimwishlist:item=528834068&perks=1392496348,679225683,691659142,1774574192
-dimwishlist:item=528834068&perks=1482024992,1087426260,691659142,1774574192
-dimwishlist:item=528834068&perks=4090651448,1087426260,691659142,1774574192
-dimwishlist:item=528834068&perks=1392496348,1087426260,691659142,1774574192
+dimwishlist:item=2869466318&perks=1482024992,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=4090651448,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=1392496348,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=1482024992,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=4090651448,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=1392496348,1968497646,691659142,1774574192
+dimwishlist:item=2869466318&perks=1482024992,1561002382,691659142,1774574192
+dimwishlist:item=2869466318&perks=4090651448,1561002382,691659142,1774574192
+dimwishlist:item=2869466318&perks=1392496348,1561002382,691659142,1774574192
+dimwishlist:item=2869466318&perks=1482024992,3230963543,691659142,1774574192
+dimwishlist:item=2869466318&perks=4090651448,3230963543,691659142,1774574192
+dimwishlist:item=2869466318&perks=1392496348,3230963543,691659142,1774574192
+dimwishlist:item=2869466318&perks=1482024992,679225683,691659142,1774574192
+dimwishlist:item=2869466318&perks=4090651448,679225683,691659142,1774574192
+dimwishlist:item=2869466318&perks=1392496348,679225683,691659142,1774574192
+dimwishlist:item=2869466318&perks=1482024992,1087426260,691659142,1774574192
+dimwishlist:item=2869466318&perks=4090651448,1087426260,691659142,1774574192
+dimwishlist:item=2869466318&perks=1392496348,1087426260,691659142,1774574192
 
 // Jurassic Green (PvE first-choice roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Perpetual Motion, Frenzy
