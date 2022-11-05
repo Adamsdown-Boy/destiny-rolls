@@ -1,0 +1,92 @@
+@title:Season 18 (Season of Plunder) World Drop weapons with @CourtProjects
+@description:Season 18 World Weapon drops
+
+// Boudica-C (PvP first-choice roll)
+// Hammer-Forged Rifling, Ricochet Rounds, (Moving Target, Hip-Fire Grip), (Swashbuckler, Multikill Clip)
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for kill-chaining, maybe as a holdout weapon, paired with something that covers mid-long ranges. Stats pretty much the same as other Precision Sidearms, except a standout 22 Airborne Effectiveness and a decent range stat. Optimal TTK of 0.7s with 3 crits and 1 body, and an accuracy adjusted TTK of 0.9s with 5 body shots. The smallest of damage buffs will make the optimum easier to achieve, and if you can get above 20% with damage buffs, the optimal TTK drops to 0.47s with 3 crits - higher buffs make this easier to get. Pair with Surprise Attack and Swiftcharge Charged with Light mods in your build for additional lethality. Push the range out as far as you can with the Barrel and Mag Perks. In the first trait column, Moving Target or Hip-fire Grip both work, depending on whether you ADS or not. For classes specced into melee, Swashbuckler is the way to go, or Multikill Clip if not. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1916287826&perks=3250034553,1885400500,588594999,4082225868
+dimwishlist:item=1916287826&perks=3250034553,1885400500,1866048759,4082225868
+dimwishlist:item=1916287826&perks=3250034553,1885400500,588594999,2458213969
+dimwishlist:item=1916287826&perks=3250034553,1885400500,1866048759,2458213969
+
+// Boudica-C (PvP backup roll)
+// (Smallbore, Fluted Barrel), Ricochet Rounds, (Moving Target, Hip-Fire Grip), (Swashbuckler, Multikill Clip)
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. Backup PvP pick for kill-chaining, maybe as a holdout weapon, paired with something that covers mid-long ranges. Stats pretty much the same as other Precision Sidearms, except a standout 22 Airborne Effectiveness and a decent range stat. Optimal TTK of 0.7s with 3 crits and 1 body, and an accuracy adjusted TTK of 0.9s with 5 body shots. The smallest of damage buffs will make the optimum easier to achieve, and if you can get above 20% with damage buffs, the optimal TTK drops to 0.47s with 3 crits - higher buffs make this easier to get. Pair with Surprise Attack and Swiftcharge Charged with Light mods in your build for additional lethality. Use the Barrel and Mag Perks to add a little Range, Stability and/or Handling. In the first trait column, Moving Target or Hip-fire Grip both work, depending on whether you ADS or not. For classes specced into melee, Swashbuckler is the way to go, or Multikill Clip if not. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1482024992&perks=3250034553,1885400500,588594999,4082225868
+dimwishlist:item=1482024992&perks=1840239774,1885400500,588594999,4082225868
+dimwishlist:item=1482024992&perks=3250034553,1885400500,1866048759,4082225868
+dimwishlist:item=1482024992&perks=1840239774,1885400500,1866048759,4082225868
+dimwishlist:item=1482024992&perks=3250034553,1885400500,588594999,2458213969
+dimwishlist:item=1482024992&perks=1840239774,1885400500,588594999,2458213969
+dimwishlist:item=1482024992&perks=3250034553,1885400500,1866048759,2458213969
+dimwishlist:item=1482024992&perks=1840239774,1885400500,1866048759,2458213969
+
+// Boudica-C (PvP first-choice roll)
+// Hammer-Forged Rifling, Ricochet Rounds, Slickdraw, Gutshot Straight
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for kill-chaining, maybe as a holdout weapon, paired with something that covers mid-long ranges. Stats pretty much the same as other Precision Sidearms, except a standout 22 Airborne Effectiveness and a decent range stat. Optimal TTK of 0.7s with 3 crits and 1 body, and an accuracy adjusted TTK of 0.9s with 5 body shots. Pair with Surprise Attack and Swiftcharge Charged with Light mods in your build for additional lethality. Use the Barrel and Mag Perks to add Range. In the first trait column, Moving Target or Hip-fire Grip both work, depending on whether you ADS or not. If you focus more on body shot damage, then Slickdraw means you can ignore Handling as a stat, and Gutshot Straight makes the optimal TTK easier with only 2 crits and 2 bodies. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1482024992&perks=1916287826,1885400500,1821614984,1365187766
+
+// Boudica-C (PvP backup roll)
+// Smallbore, Ricochet Rounds, Slickdraw, Gutshot Straight
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. Backup PvP pick for kill-chaining, maybe as a holdout weapon, paired with something that covers mid-long ranges. Stats pretty much the same as other Precision Sidearms, except a standout 22 Airborne Effectiveness and a decent range stat. Optimal TTK of 0.7s with 3 crits and 1 body, and an accuracy adjusted TTK of 0.9s with 5 body shots. Pair with Surprise Attack and Swiftcharge Charged with Light mods in your build for additional lethality. Use the Barrel and Mag Perks to add Range and Stability. In the first trait column, Moving Target or Hip-fire Grip both work, depending on whether you ADS or not. If you focus more on body shot damage, then Slickdraw means you can ignore Handling as a stat, and Gutshot Straight makes the optimal TTK easier with only 2 crits and 2 bodies. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1482024992&perks=3250034553,1885400500,1821614984,1365187766
+
+// Boudica-C (PvP first-choice roll)
+// Hammer-Forged Rifling, Ricochet Rounds, Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for kill-chaining, maybe as a holdout weapon for a melee build, paired with something that covers mid-long ranges. Stats pretty much the same as other Precision Sidearms, except a standout 22 Airborne Effectiveness and a decent range stat. Optimal TTK of 0.7s with 3 crits and 1 body, and an accuracy adjusted TTK of 0.9s with 5 body shots. Pair with Surprise Attack and Swiftcharge Charged with Light mods in your build for additional lethality. Use the Barrel and Mag Perks to add Range. If you're running a melee build, Pugilist keeps your melee charged, to proc Swashbuckler x5 for an optimal/accuracy adjusted TTK of 0.47s with 2 crits and a body TTK of 0.7s with 4 body shots. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1482024992&perks=1916287826,1885400500,691659142,4082225868
+
+// Boudica-C (PvP backup roll)
+// Smallbore, Ricochet Rounds, Slickdraw, Gutshot Straight
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. Backup PvP pick for kill-chaining, maybe as a holdout weapon for a melee build, paired with something that covers mid-long ranges. Stats pretty much the same as other Precision Sidearms, except a standout 22 Airborne Effectiveness and a decent range stat. Optimal TTK of 0.7s with 3 crits and 1 body, and an accuracy adjusted TTK of 0.9s with 5 body shots. Pair with Surprise Attack and Swiftcharge Charged with Light mods in your build for additional lethality. Use the Barrel and Mag Perks to add a little Range, Stability and/or Handling. If you're running a melee build, Pugilist keeps your melee charged, to proc Swashbuckler x5 for an optimal/accuracy adjusted TTK of 0.47s with 2 crits and a body TTK of 0.7s with 4 body shots.  Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1482024992&perks=3250034553,1885400500,691659142,4082225868
+
+// Pizzicato-22 (PvP first-choice roll)
+// (Smallbore, Hammer-Forged Rifling), Ricochet Rounds, Perpetual Motion, Rangefinder
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling - but only to tuck away in case Adaptive SMGs ever get a bit of love. The Origin Trait is one of the best for PvP, and the base stats are solid, but as at v6.2.5.2, they do the worst crit damage of any SMG subfamily. Add Range and Stability with the Barrel and Mag perks. For duelling, Perpetual Motion and Rangefinder is probably your best combination, adding gunfeel stat boosts and pushing the range out to 20m. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=4100775158&perks=1482024992,1885400500,1428297954,2846385770
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
+
+// Pizzicato-22 (PvP first-choice roll)
+// (Hammer-Forged Rifling, Full Bore), Ricochet Rounds, Hip-Fire Grip, Threat Detector
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling - but only to tuck away in case Adaptive SMGs ever get a bit of love. The Origin Trait is one of the best for PvP, and the base stats are solid, but as at v6.2.5.2, they do the worst crit damage of any SMG subfamily. Add Range (and a bit of Stability) with the Barrel and Mag perks. For duelling while hipfiring, you can't really go wrong wit Hip-Fire Grip and Threat Detector, which procs at pretty much the hip-fire range to bump up Stability and Handling. Recommended MW: Range, with a Freehand Grip mod. If you're a Titan, you can build into SMGs even more by throwing on a pair of Peacekeepers. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
+dimwishlist:item=4100775158&perks=202670084,1885400500,1428297954,2846385770
+
+// Ammit AR2 (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling. Shapeable. Precision Auto Rifles have an optimal TTK of 0.8s with 7 crits and 2 bodies, and an accuracy-adjusted TTK of 0.9s (4c, 6b), out of the box. The Omolon Origin Trait is one of the best for PvP, boosting stability in the top half of the magazine, which is hopefully where you should be getting your kills. With this in mind, you can use your barrel and mag perks to push out the range as far as you can, even at the cost of penalising Stability, as using the combination of Dynamic Sway Reduction and Tap the Trigger should make this one of the easiest auto-rifles to use, regardless. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2119346509&perks=202670084,1885400500,1359896290,1890422124
+dimwishlist:item=2119346509&perks=3250034553,1885400500,1359896290,1890422124
+
+// Ammit AR2 (PvP first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Gutshot Straight
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling. Shapeable. Precision Auto Rifles have an optimal TTK of 0.8s with 6 crits and 1 body shot, and an accuracy-adjusted TTK of 0.93s (4c, 4b), out of the box. The Omolon Origin Trait is one of the best for PvP, boosting stability in the top half of the magazine, which is hopefully where you should be getting your kills. With this in mind, you can use your barrel and mag perks to push out the range as far as you can, even at the cost of penalising Stability, as using the combination of the Omolon trait and Dynamic Sway Reduction should make this easy to control. Gutshot Straight doesn't reduce the TTK, but it makes it easier to achieve the accuracy adjusted TTK with 3 crits and 5 body shots. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2119346509&perks=202670084,1885400500,1359896290,1365187766
+dimwishlist:item=2119346509&perks=3250034553,1885400500,1359896290,1365187766
+
+// Taipan-4fr (PvP first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Projection Fuse, Fragile Focus, Opening Shot
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling. Shapeable. Maybe not the first choice for using power ammo, but it's always worth tucking one away, just in case. On the plus side, any 15% damage boost (like an empowering rift) will body up to 5 resilience. Look for more handling and range from your barrel and mag. there's literally nothing else in the first trait column that helps with PvP other than Fragile Focus and then, in the second, Opening Shot adds 20 Aim Assist, and even more accuracy and range. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1911060537&perks=1840239774,3868766766,2451262963,47981717
+dimwishlist:item=1911060537&perks=839105230,3868766766,2451262963,47981717
+dimwishlist:item=1911060537&perks=4090651448,3868766766,2451262963,47981717
+
+// Taipan-4fr (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Projection Fuse, Fragile Focus, Snapshot Sights
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. Backup PvP pick for duelling. Shapeable. Maybe not the first choice for using power ammo, but it's always worth tucking one away, just in case. On the plus side, any 15% damage boost (like an empowering rift) will body up to 5 resilience. Look for more handling and range from your barrel and mag. there's literally nothing else in the first trait column that helps with PvP other than Fragile Focus and then, in the second, Snapshot Sights gets you ADSed fast - so you can get your shot off that bit faster. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1911060537&perks=1840239774,3868766766,2451262963,957782887
+dimwishlist:item=1911060537&perks=839105230,3868766766,2451262963,957782887
+dimwishlist:item=1911060537&perks=4090651448,3868766766,2451262963,957782887
+
+// Taipan-4fr (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Liquid Coils, Fragile Focus, (Opening Shot, Snapshot Sights)
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. (???  ???): Backup PvP pick for duelling. Shapeable. Maybe not the first choice for using power ammo, but it's always worth tucking one away, just in case. On the plus side, Liquid Coils plus any 15% damage boost (like an empowering rift) will body up to 7 resilience. Look for more handling from your barrel, together with the Liquid Coils mag. there's literally nothing else in the first trait column that helps with PvP other than Fragile Focus and then, in the second, Opening Shot adds 20 Aim Assist, accuracy and Range, or Snapshot Sights gets you ADSed fast so you can get your shot off that bit faster. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1911060537&perks=1840239774,1687452232,2451262963,47981717
+dimwishlist:item=1911060537&perks=839105230,1687452232,2451262963,47981717
+dimwishlist:item=1911060537&perks=4090651448,1687452232,2451262963,47981717
+dimwishlist:item=1911060537&perks=1840239774,1687452232,2451262963,957782887
+dimwishlist:item=1911060537&perks=839105230,1687452232,2451262963,957782887
+dimwishlist:item=1911060537&perks=4090651448,1687452232,2451262963,957782887
+
+
