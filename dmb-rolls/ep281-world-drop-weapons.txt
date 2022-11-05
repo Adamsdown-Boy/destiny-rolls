@@ -49,7 +49,7 @@ dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
 
 // Pizzicato-22 (PvP first-choice roll)
 // (Hammer-Forged Rifling, Full Bore), Ricochet Rounds, Hip-Fire Grip, Threat Detector
-//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling - but only to tuck away in case Adaptive SMGs ever get a bit of love. The Origin Trait is one of the best for PvP, and the base stats are solid, but as at v6.2.5.2, they do the worst crit damage of any SMG subfamily. Add Range (and a bit of Stability) with the Barrel and Mag perks. For duelling while hipfiring, you can't really go wrong wit Hip-Fire Grip and Threat Detector, which procs at pretty much the hip-fire range to bump up Stability and Handling. Recommended MW: Range, with a Freehand Grip mod. If you're a Titan, you can build into SMGs even more by throwing on a pair of Peacekeepers. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. First-choice PvP pick for duelling - but only to tuck away in case Adaptive SMGs ever get a bit of love. The Origin Trait is one of the best for PvP, and the base stats are solid, but as at v6.2.5.2, they do the worst crit damage of any SMG subfamily. Add Range (and a bit of Stability) with the Barrel and Mag perks. For duelling while hipfiring, you can't really go wrong with Hip-Fire Grip and Threat Detector, which procs at pretty much the hip-fire range, to bump up Stability and Handling. Recommended MW: Range, with a Freehand Grip mod. If you're a Titan, you can build into SMGs even more by throwing on a pair of Peacekeepers. Tags: PvP, PvP-Duel, PvP-God, MKB, Controller
 dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
 dimwishlist:item=4100775158&perks=202670084,1885400500,1428297954,2846385770
 
@@ -81,12 +81,11 @@ dimwishlist:item=1911060537&perks=4090651448,3868766766,2451262963,957782887
 
 // Taipan-4fr (PvP backup roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Liquid Coils, Fragile Focus, (Opening Shot, Snapshot Sights)
-//notes:Inspired by DMB Podcast 281 with @CourtProjects. (???  ???): Backup PvP pick for duelling. Shapeable. Maybe not the first choice for using power ammo, but it's always worth tucking one away, just in case. On the plus side, Liquid Coils plus any 15% damage boost (like an empowering rift) will body up to 7 resilience. Look for more handling from your barrel, together with the Liquid Coils mag. there's literally nothing else in the first trait column that helps with PvP other than Fragile Focus and then, in the second, Opening Shot adds 20 Aim Assist, accuracy and Range, or Snapshot Sights gets you ADSed fast so you can get your shot off that bit faster. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
+//notes:Inspired by DMB Podcast 281 with @CourtProjects. Backup PvP pick for duelling. Shapeable. Maybe not the first choice for using power ammo, but it's always worth tucking one away, just in case. On the plus side, Liquid Coils plus any 15% damage boost (like an empowering rift) will body up to 7 resilience. Look for more handling from your barrel, together with the Liquid Coils mag. there's literally nothing else in the first trait column that helps with PvP other than Fragile Focus and then, in the second, Opening Shot adds 20 Aim Assist, accuracy and Range, or Snapshot Sights gets you ADSed fast so you can get your shot off that bit faster. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, MKB, Controller
 dimwishlist:item=1911060537&perks=1840239774,1687452232,2451262963,47981717
 dimwishlist:item=1911060537&perks=839105230,1687452232,2451262963,47981717
 dimwishlist:item=1911060537&perks=4090651448,1687452232,2451262963,47981717
 dimwishlist:item=1911060537&perks=1840239774,1687452232,2451262963,957782887
 dimwishlist:item=1911060537&perks=839105230,1687452232,2451262963,957782887
 dimwishlist:item=1911060537&perks=4090651448,1687452232,2451262963,957782887
-
 
