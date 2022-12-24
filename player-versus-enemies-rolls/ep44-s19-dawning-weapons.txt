@@ -32,6 +32,7 @@ dimwishlist:item=2814093983&perks=1840239774,3230963543,1428297954,4104185692
 dimwishlist:item=2814093983&perks=1482024992,3230963543,1428297954,4104185692
 
 // Cold Front (PvE first-choice roll)
+// (Full Bore, Hammer Forged Rifling), (Tactical Mag, Flared Magwell, Appended Mag), Perpetual Motion, Frenzy
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for end-game Minor clearing. The only easily available Aggressive SMG in the game (other than Xur selling an Extraordinary Rendition - you have a good one, you probably won't need a Cold Front). Option of Hakke Breach Armaments or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Very poor stability, but that's not so important for mouse and keyboard so you can go all in for range with the barrel with Full Bore or Hammer Forged Rifling, together with Tactical Mag or Flared Magwell for the boost to reload, or Appended Mag for the extra shots. For end-game add clear, Perpetual Motion passively boosts Stability, Handling and Reload, and Frenzy is a reliable 15% damage boost just for being in combat. Recommended MW: Range or Handling, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvE-EndGame, MKB
 dimwishlist:item=2814093983&perks=202670084,106909392,1428297954,4104185692
 dimwishlist:item=2814093983&perks=3250034553,106909392,1428297954,4104185692
@@ -41,22 +42,42 @@ dimwishlist:item=2814093983&perks=202670084,1087426260,1428297954,4104185692
 dimwishlist:item=2814093983&perks=3250034553,1087426260,1428297954,4104185692
 
 // Cold Front (PvE first-choice roll)
+// (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell),(Perpetual Motion, Subsistence), Rampage
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. The only easily available Aggressive SMG in the game (other than Xur selling an Extraordinary Rendition - you have a good one, you probably won't need a Cold Front). Option of Hakke Breach Armaments or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Very poor stability, so for controller Polygonal Rifling, Fluted Barrel or Smallbore is a must, together with Tactical Mag or Flared Magwell to get it as high as possible. For general add clear, Perpetual Motion passively boosts Stability, Handling and Reload, or Subsistence tops up your magazine on a kill, and old reliable Rampage helps tear through groups of at-level adds. Recommended MW: Stability, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, Controller, MKB
-dimwishlist:item=2814093983&perks=1392496348,106909392,1428297954,4104185692
-dimwishlist:item=2814093983&perks=1840239774,106909392,1428297954,4104185692
-dimwishlist:item=2814093983&perks=1482024992,106909392,1428297954,4104185692
-dimwishlist:item=2814093983&perks=1392496348,3230963543,1428297954,4104185692
-dimwishlist:item=2814093983&perks=1840239774,3230963543,1428297954,4104185692
-dimwishlist:item=2814093983&perks=1482024992,3230963543,1428297954,4104185692
+dimwishlist:item=2814093983&perks=1392496348,106909392,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1840239774,106909392,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1482024992,106909392,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1392496348,3230963543,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1840239774,3230963543,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1482024992,3230963543,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1392496348,1087426260,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1840239774,1087426260,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1482024992,1087426260,1428297954,3425386926
+dimwishlist:item=2814093983&perks=1392496348,106909392,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1840239774,106909392,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1482024992,106909392,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1392496348,3230963543,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1840239774,3230963543,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1482024992,3230963543,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1392496348,1087426260,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1840239774,1087426260,1820235745,3425386926
+dimwishlist:item=2814093983&perks=1482024992,1087426260,1820235745,3425386926
 
 // Cold Front (PvE first-choice roll)
+// (Full Bore, Hammer Forged Rifling), (Tactical Mag, Flared Magwell, Appended Mag),(Perpetual Motion, Subsistence), Rampage
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. The only easily available Aggressive SMG in the game (other than Xur selling an Extraordinary Rendition - you have a good one, you probably won't need a Cold Front). Option of Hakke Breach Armaments or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Very poor stability, but that's not so important for mouse and keyboard so you can go all in for range with the barrel with Full Bore or Hammer Forged Rifling, together with Tactical Mag or Flared Magwell for the boost to reload, or Appended Mag for the extra shots. For general add clear, Perpetual Motion passively boosts Stability, Handling and Reload, or Subsistence tops up your magazine on a kill, and old reliable Rampage helps tear through groups of at-level adds. Recommended MW: Range or Handling, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, Controller, MKB
-dimwishlist:item=2814093983&perks=202670084,106909392,1428297954,4104185692
-dimwishlist:item=2814093983&perks=3250034553,106909392,1428297954,4104185692
-dimwishlist:item=2814093983&perks=202670084,3230963543,1428297954,4104185692
-dimwishlist:item=2814093983&perks=3250034553,3230963543,1428297954,4104185692
-dimwishlist:item=2814093983&perks=202670084,1087426260,1428297954,4104185692
-dimwishlist:item=2814093983&perks=3250034553,1087426260,1428297954,4104185692
+dimwishlist:item=2814093983&perks=202670084,106909392,1428297954,3425386926
+dimwishlist:item=2814093983&perks=3250034553,106909392,1428297954,3425386926
+dimwishlist:item=2814093983&perks=202670084,3230963543,1428297954,3425386926
+dimwishlist:item=2814093983&perks=3250034553,3230963543,1428297954,3425386926
+dimwishlist:item=2814093983&perks=202670084,1087426260,1428297954,3425386926
+dimwishlist:item=2814093983&perks=3250034553,1087426260,1428297954,3425386926
+dimwishlist:item=2814093983&perks=202670084,106909392,1820235745,3425386926
+dimwishlist:item=2814093983&perks=3250034553,106909392,1820235745,3425386926
+dimwishlist:item=2814093983&perks=202670084,3230963543,1820235745,3425386926
+dimwishlist:item=2814093983&perks=3250034553,3230963543,1820235745,3425386926
+dimwishlist:item=2814093983&perks=202670084,1087426260,1820235745,3425386926
+dimwishlist:item=2814093983&perks=3250034553,1087426260,1820235745,3425386926
 
 // Stay Frosty (PvE first-choice roll)
 // Arrowhead Brake, Armor-Piercing Rounds, Thresh, Adaptive Munitions
@@ -79,21 +100,21 @@ dimwishlist:item=2812100428&perks=839105230,3230963543,2726471870,124408337
 
 // Stay Frosty (PvE first-choice roll)
 // Arrowhead Brake, (High-Caliber Rounds, Armor-Piercing Rounds, Flared Magwell), Well-Rounded, Golden Tricorn
-//notes:Inspired by DMB PvE Podcast 44. (???  ???): PvE first-choice roll for general Minor clearing. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake, and then any of the Combat Effect Mags, or Flared Magwell will serve you well. Well Rounded is an easy way to boost gunfeel stats, and while the second stack of Golden Tricorn is tougher to proc with Stasis abilities, the first stack is a reliable 15% damage boost on a kill. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake, and then any of the Combat Effect Mags, or Flared Magwell will serve you well. Well Rounded is an easy way to boost gunfeel stats, and while the second stack of Golden Tricorn is tougher to proc with Stasis abilities, the first stack is a reliable 15% damage boost on a kill. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
 dimwishlist:item=2812100428&perks=839105230,1561002382,744594675,2610012052
 dimwishlist:item=2812100428&perks=839105230,1968497646,744594675,2610012052
 dimwishlist:item=2812100428&perks=839105230,1885400500,744594675,2610012052
 dimwishlist:item=2812100428&perks=839105230,3230963543,744594675,2610012052
 
 // Stay Frosty (PvE first-choice roll)
-// Arrowhead Brake, Flared Magwell, (Encore, Runnel Vision), Golden Tricorn
-//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement, and the first to roll with Desperado. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake. To make the most out of Desperado, use Flared Magwell to boost reload speed, and then either Encore or Tunnel Vision work well with the trait to boost damage output after a kill. Recommended MW: Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+// Arrowhead Brake, Flared Magwell, (Encore, Runnel Vision), Desperado
+//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement, and the first to roll with Desperado. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake then, to make the most out of Desperado, use Flared Magwell to boost reload speed, and then either Encore or Tunnel Vision work well with the trait to boost damage output after a kill. Recommended MW: Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
 dimwishlist:item=2812100428&perks=839105230,3230963543,1195158366,3047969693
 dimwishlist:item=2812100428&perks=839105230,3230963543,2946784966,3047969693
 
 // Glacioclasm (PvE first-choice roll)
 // (Fluted Barrel, Smallbore), (Particle Repeater, Accelerated Coils), (Subsistence, Slideshot), Reservoir Burst
-//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for crowd clearing. Option of Omolon Fluid Dynamics for the faster top=up reloads or the Dawning Surprise origin trait which helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. There are no real holes in the stats, but Fluted Barrel or Smallbore provide nice boosts in the barrel. In the battery, Particle Repeater helps keep the burst tight, or if you're a little impatient, Accelerated Coils reduces charge time. The big draw here is Reservoir Burst with either Subsistence or Slideshot to keep the magazine full. Recommended MW: Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for crowd clearing. Option of Omolon Fluid Dynamics for the faster top-up reloads or the Dawning Surprise origin trait which helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. There are no real holes in the stats, but Fluted Barrel or Smallbore provide nice boosts in the barrel. In the battery, Particle Repeater helps keep the burst tight, or if you're a little impatient, Accelerated Coils reduces charge time. The big draw here is Reservoir Burst with either Subsistence or Slideshot to keep the magazine full. Recommended MW: Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
 dimwishlist:item=3573686365&perks=1840239774,3868766766,1820235745,1427256713
 dimwishlist:item=3573686365&perks=1482024992,3868766766,1820235745,1427256713
 dimwishlist:item=3573686365&perks=1840239774,689005463,1820235745,1427256713
@@ -115,7 +136,7 @@ dimwishlist:item=3573686365&perks=1482024992,689005463,776531651,2610012052
 
 // Glacioclasm (PvE backup roll)
 // (Fluted Barrel, Smallbore), (Enhanced Battery, Particle Repeater, Accelerated Coils), (Subsistence, Slideshot), Golden Tricorn
-//notes:Inspired by DMB PvE Podcast 44. (???  ???): PvE backup roll for Void subclass in endgame content. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. There are no real holes in the stats, but Fluted Barrel or Smallbore provide nice boosts in the barrel. In the battery, Enhanced Battery gets you more shots, Particle Repeater helps keep the burst tight, or if you're a little impatient, Accelerated Coils reduces charge time. For Void subclasses, the second stack of Golden Tricorn should be easy to proc with the melee and grenade toolkit, and Subsistence or Slideshot keeps you putting out damage. Recommended MW: Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 44. PvE backup roll for Void subclass in endgame content. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. There are no real holes in the stats, but Fluted Barrel or Smallbore provide nice boosts in the barrel. In the battery, Enhanced Battery gets you more shots, Particle Repeater helps keep the burst tight, or if you're a little impatient, Accelerated Coils reduces charge time. For Void subclasses, the second stack of Golden Tricorn should be easy to proc with the melee and grenade toolkit, and Subsistence or Slideshot keeps you putting out damage. Recommended MW: Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, Controller, MKB
 dimwishlist:item=3573686365&perks=1840239774,2680121939,1820235745,2610012052
 dimwishlist:item=3573686365&perks=1482024992,2680121939,1820235745,2610012052
 dimwishlist:item=3573686365&perks=1840239774,3868766766,1820235745,2610012052
@@ -213,7 +234,7 @@ dimwishlist:item=495940989&perks=839105230,679225683,1820235745,4082225868
 
 // Avalanche (PvE first-choice roll)
 (Polygonal Rifling, Chambered Compensator, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling, Extended Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Light Mag), Subsistence, (Adrenaline Junkie, Swashbuckler)
-//notes:Inspired by DMB PvE Podcast 44. (???  ???): PvE first-choice roll for chunkier Minors with a Solar subclass in endgame content. Option of Suros Synergy or the Dawning Surprise origin trait which can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Balanced stats, so you can use any Stability or Range boosting barrel (except Full Bore) with any combat effect or reload speed-boosting mag to round out to your preference. Even in end-game content, you should be getting add kills regularly to proc Subsistence, and the solar ability kit has plenty of options to trigger five stacks of wither Adrenaline Junkie or Swashbuckler for a 33% damage boost. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for chunkier Minors with a Solar subclass in endgame content. Option of Suros Synergy or the Dawning Surprise origin trait which can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Balanced stats, so you can use any Stability or Range boosting barrel (except Full Bore) with any combat effect or reload speed-boosting mag to round out to your preference. Even in end-game content, you should be getting add kills regularly to proc Subsistence, and the solar ability kit has plenty of options to trigger five stacks of wither Adrenaline Junkie or Swashbuckler for a 33% damage boost. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
 dimwishlist:item=495940989&perks=1392496348,1561002382,1820235745,11612903
 dimwishlist:item=495940989&perks=3661387068,1561002382,1820235745,11612903
 dimwishlist:item=495940989&perks=1482024992,1561002382,1820235745,11612903
@@ -300,7 +321,7 @@ dimwishlist:item=495940989&perks=1482024992,1087426260,2010801679,4082225868
 dimwishlist:item=495940989&perks=4090651448,1087426260,2010801679,4082225868
 
 // Avalanche (PvE first-choice roll)
-//notes:Inspired by DMB PvE Podcast 44. (???  ???): PvE first-choice roll for chunkier Minors with a Solar subclass in endgame content. Option of Suros Synergy or the Dawning Surprise origin trait which can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Balanced stats, so you can use Arrowhead Brake to get straight recoil, or Fluted Barrel for extra Handling and Stability with any combat effect or reload speed-boosting mag to round out to your preference. Auto-Loading Holster gives you thr confidence that you're ready to roll every time you get your LMG out - particularly for solo play - with your choice of damage-boosting second column traits. Recommended MW: Handling, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+//notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for chunkier Minors with a Solar subclass in endgame content. Option of Suros Synergy or the Dawning Surprise origin trait which can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. Balanced stats, so you can use Arrowhead Brake to get straight recoil, or Fluted Barrel for extra Handling and Stability with any combat effect or reload speed-boosting mag to round out to your preference. Auto-Loading Holster gives you thr confidence that you're ready to roll every time you get your LMG out - particularly for solo play - with your choice of damage-boosting second column traits. Recommended MW: Handling, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
 dimwishlist:item=495940989&perks=1840239774,1561002382,3300816228,4293542123
 dimwishlist:item=495940989&perks=839105230,1561002382,3300816228,4293542123
 dimwishlist:item=495940989&perks=1840239774,1968497646,3300816228,4293542123
