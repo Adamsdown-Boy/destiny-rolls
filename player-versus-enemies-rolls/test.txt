@@ -1,0 +1,95 @@
+// IKELOS_SG_v1.0.3 (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Pugilist, Threat Detector), Trench Barrel
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game Major and Champion kills. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. Either Pugilist's additional handling on a melee hit or Threat Detector's bonus stability, handling and reload speed for being in CQC pair well with Trench Barrel's 50% bonus burst damage, handlng and reload speed for three shots after a melee hit. Ideal against Majors and for finishing off stunned Champions. Recommended  MW: Handling or Reload Spped, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1168625549&perks=1300023272,10690939,691659142,2360754333
+dimwishlist:item=1168625549&perks=4090651448,10690939,691659142,2360754333
+dimwishlist:item=1168625549&perks=1482024992,10690939,691659142,2360754333
+dimwishlist:item=1168625549&perks=1047830412,10690939,691659142,2360754333
+dimwishlist:item=1168625549&perks=1300023272,791862061,691659142,2360754333
+dimwishlist:item=1168625549&perks=4090651448,791862061,691659142,2360754333
+dimwishlist:item=1168625549&perks=1482024992,791862061,691659142,2360754333
+dimwishlist:item=1168625549&perks=1047830412,791862061,691659142,2360754333
+dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,2360754333
+dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1300023272,791862061,4071163871,2360754333
+dimwishlist:item=1168625549&perks=4090651448,791862061,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1482024992,791862061,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1047830412,791862061,4071163871,2360754333
+
+// IKELOS_SG_v1.0.3 (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Threat Detector, Subsistence), (Surrounded, Swashbuckler)
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. For chunky add clearing, Threat Detector's bonus stability, handling and reload speed for being in CQC or Subsistence magazine refresh on a kill will help you keep the damage bonus from Surrounded or Swashbuckler in play. Recommended  MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Minor, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,3708227201
+dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1300023272,791862061,4071163871,3708227201
+dimwishlist:item=1168625549&perks=4090651448,791862061,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1482024992,791862061,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1047830412,791862061,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1300023272,10690939,1820235745,3708227201
+dimwishlist:item=1168625549&perks=4090651448,10690939,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1482024992,10690939,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1047830412,10690939,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1300023272,791862061,1820235745,3708227201
+dimwishlist:item=1168625549&perks=4090651448,791862061,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1482024992,791862061,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1047830412,791862061,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,4082225868
+dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1300023272,791862061,4071163871,4082225868
+dimwishlist:item=1168625549&perks=4090651448,791862061,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1482024992,791862061,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1047830412,791862061,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1300023272,10690939,1820235745,4082225868
+dimwishlist:item=1168625549&perks=4090651448,10690939,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1482024992,10690939,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1047830412,10690939,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1300023272,791862061,1820235745,4082225868
+dimwishlist:item=1168625549&perks=4090651448,791862061,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1482024992,791862061,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1047830412,791862061,1820235745,4082225868
+
+// IKELOS_SG_v1.0.3 (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Threat Detector, Subsistence), Incandescent
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear with a solar subclass. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. For solar subclasses, Threat Detector's bonus stability, handling and reload speed for being in CQC or Subsistence magazine refresh on a kill will help keep your Incandescent shots landing for scorch stacks and ignites. Recommended  MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Minor, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,4293542123
+dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1300023272,791862061,4071163871,4293542123
+dimwishlist:item=1168625549&perks=4090651448,791862061,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1482024992,791862061,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1047830412,791862061,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1300023272,10690939,1820235745,4293542123
+dimwishlist:item=1168625549&perks=4090651448,10690939,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1482024992,10690939,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1047830412,10690939,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1300023272,791862061,1820235745,4293542123
+dimwishlist:item=1168625549&perks=4090651448,791862061,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1482024992,791862061,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1047830412,791862061,1820235745,4293542123
+
+// IKELOS_SG_v1.0.3 (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Pugilist, Grave Robber), Swashbuckler
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear with a melee build. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. Both Pugilist and Grave Robber proc on melees, so Swashbuckler is a natural pairing to create a play loop for either. Recommended  MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Minor, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1168625549&perks=1300023272,10690939,691659142,4082225868
+dimwishlist:item=1168625549&perks=4090651448,10690939,691659142,4082225868
+dimwishlist:item=1168625549&perks=1482024992,10690939,691659142,4082225868
+dimwishlist:item=1168625549&perks=1047830412,10690939,691659142,4082225868
+dimwishlist:item=1168625549&perks=1300023272,791862061,691659142,4082225868
+dimwishlist:item=1168625549&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=1168625549&perks=1482024992,791862061,691659142,4082225868
+dimwishlist:item=1168625549&perks=1047830412,791862061,691659142,4082225868
+dimwishlist:item=1168625549&perks=1300023272,10690939,1631667848,4082225868
+dimwishlist:item=1168625549&perks=4090651448,10690939,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1482024992,10690939,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1047830412,10690939,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1300023272,791862061,1631667848,4082225868
+dimwishlist:item=1168625549&perks=4090651448,791862061,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1482024992,791862061,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1047830412,791862061,1631667848,4082225868
