@@ -6,71 +6,71 @@
 //notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for synergy with Stasis subclasses. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, but Hakke Breach Armaments, with the additional damage against stasis crystals is the choice to break crystals for a dragonfly-like burst of damage. This is the only current(as at v6.3.0.2) me aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll. Correct the wonky recoil direction with Arrowhead Brake, or Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. To match up with Headstone, Rapid Hit and Outlaw both proc on the same condition to reward consistent crits. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
 dimwishlist:item=1751893422&perks=1840239774,3230963543,247725512,124408337
 dimwishlist:item=1751893422&perks=839105230,3230963543,247725512,124408337
-dimwishlist:item=1751893422&perks=1840239774,10690939,247725512,124408337
-dimwishlist:item=1751893422&perks=839105230,10690939,247725512,124408337
+dimwishlist:item=1751893422&perks=1840239774,106909392,247725512,124408337
+dimwishlist:item=1751893422&perks=839105230,106909392,247725512,124408337
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1168162263,124408337
 dimwishlist:item=1751893422&perks=839105230,3230963543,1168162263,124408337
-dimwishlist:item=1751893422&perks=1840239774,10690939,1168162263,124408337
-dimwishlist:item=1751893422&perks=839105230,10690939,1168162263,124408337
+dimwishlist:item=1751893422&perks=1840239774,106909392,1168162263,124408337
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,124408337
 
 // Disparity (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), (Rapid Hit, Outlaw), (Frenzy, One For All, Swashbuckler, Desperado)
 //notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for endgame content. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, or use Hakke Breach Armaments if you're going to face vehicles, turrets or constructs. This is the only current(as at v6.3.0.2) me aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll.  Correct the wonky recoil direction with Arrowhead Brake, or Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. Rapid Hit and Outlaw both proc on the on crits, and then match this with your choice of the range of damage output-increasing traits. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE=EndGame, Controller, M+KB
 dimwishlist:item=1751893422&perks=1840239774,3230963543,247725512,4104185692
 dimwishlist:item=1751893422&perks=839105230,3230963543,247725512,4104185692
-dimwishlist:item=1751893422&perks=1840239774,10690939,247725512,4104185692
-dimwishlist:item=1751893422&perks=839105230,10690939,247725512,4104185692
+dimwishlist:item=1751893422&perks=1840239774,106909392,247725512,4104185692
+dimwishlist:item=1751893422&perks=839105230,106909392,247725512,4104185692
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1168162263,4104185692
 dimwishlist:item=1751893422&perks=839105230,3230963543,1168162263,4104185692
-dimwishlist:item=1751893422&perks=1840239774,10690939,1168162263,4104185692
-dimwishlist:item=1751893422&perks=839105230,10690939,1168162263,4104185692
+dimwishlist:item=1751893422&perks=1840239774,106909392,1168162263,4104185692
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,4104185692
 dimwishlist:item=1751893422&perks=1840239774,3230963543,247725512,4049631843
 dimwishlist:item=1751893422&perks=839105230,3230963543,247725512,4049631843
-dimwishlist:item=1751893422&perks=1840239774,10690939,247725512,4049631843
-dimwishlist:item=1751893422&perks=839105230,10690939,247725512,4049631843
+dimwishlist:item=1751893422&perks=1840239774,106909392,247725512,4049631843
+dimwishlist:item=1751893422&perks=839105230,106909392,247725512,4049631843
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1168162263,4049631843
 dimwishlist:item=1751893422&perks=839105230,3230963543,1168162263,4049631843
-dimwishlist:item=1751893422&perks=1840239774,10690939,1168162263,4049631843
-dimwishlist:item=1751893422&perks=839105230,10690939,1168162263,4049631843
+dimwishlist:item=1751893422&perks=1840239774,106909392,1168162263,4049631843
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,4049631843
 dimwishlist:item=1751893422&perks=1840239774,3230963543,247725512,4082225868
 dimwishlist:item=1751893422&perks=839105230,3230963543,247725512,4082225868
-dimwishlist:item=1751893422&perks=1840239774,10690939,247725512,4082225868
-dimwishlist:item=1751893422&perks=839105230,10690939,247725512,4082225868
+dimwishlist:item=1751893422&perks=1840239774,106909392,247725512,4082225868
+dimwishlist:item=1751893422&perks=839105230,106909392,247725512,4082225868
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1168162263,4082225868
 dimwishlist:item=1751893422&perks=839105230,3230963543,1168162263,4082225868
-dimwishlist:item=1751893422&perks=1840239774,10690939,1168162263,4082225868
-dimwishlist:item=1751893422&perks=839105230,10690939,1168162263,4082225868
+dimwishlist:item=1751893422&perks=1840239774,106909392,1168162263,4082225868
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,4082225868
 dimwishlist:item=1751893422&perks=1840239774,3230963543,247725512,3047969693
 dimwishlist:item=1751893422&perks=839105230,3230963543,247725512,3047969693
-dimwishlist:item=1751893422&perks=1840239774,10690939,247725512,3047969693
-dimwishlist:item=1751893422&perks=839105230,10690939,247725512,3047969693
+dimwishlist:item=1751893422&perks=1840239774,106909392,247725512,3047969693
+dimwishlist:item=1751893422&perks=839105230,106909392,247725512,3047969693
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1168162263,3047969693
 dimwishlist:item=1751893422&perks=839105230,3230963543,1168162263,3047969693
-dimwishlist:item=1751893422&perks=1840239774,10690939,1168162263,3047969693
-dimwishlist:item=1751893422&perks=839105230,10690939,1168162263,3047969693
+dimwishlist:item=1751893422&perks=1840239774,106909392,1168162263,3047969693
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,3047969693
 
 // Disparity (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), Pugilist (Swashbuckler, Frenzy)
 //notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for melee builds. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, or use Hakke Breach Armaments if you're going to face vehicles, turrets or constructs. This is the only current(as at v6.3.0.2) me aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll. Correct the wonky recoil direction with Arrowhead Brake, or Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. Pugilist and Swashbuckler are the obvious choices for melee builds, but Frenzy has its place too to regenerate melee energy. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
 dimwishlist:item=1751893422&perks=1840239774,3230963543,691659142,4082225868
 dimwishlist:item=1751893422&perks=839105230,3230963543,691659142,4082225868
-dimwishlist:item=1751893422&perks=1840239774,10690939,691659142,4082225868
-dimwishlist:item=1751893422&perks=839105230,10690939,691659142,4082225868
+dimwishlist:item=1751893422&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=1751893422&perks=839105230,106909392,691659142,4082225868
 dimwishlist:item=1751893422&perks=1840239774,3230963543,691659142,4104185692
 dimwishlist:item=1751893422&perks=839105230,3230963543,691659142,4104185692
-dimwishlist:item=1751893422&perks=1840239774,10690939,691659142,4104185692
-dimwishlist:item=1751893422&perks=839105230,10690939,691659142,4104185692
+dimwishlist:item=1751893422&perks=1840239774,106909392,691659142,4104185692
+dimwishlist:item=1751893422&perks=839105230,106909392,691659142,4104185692
 
 // Disparity (PvE backup roll)
 //notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for general content. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, or use Hakke Breach Armaments if you're going to face vehicles, turrets or constructs. This is the only current non-endgame aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll. Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. If you're having trouble controlling the recoil, Heating Up will help correct the recoil direction on kills, and then match this with your choice of the range of damage output-increasing traits. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1570042021,4104185692
-dimwishlist:item=1751893422&perks=1840239774,10690939,1570042021,4104185692
+dimwishlist:item=1751893422&perks=1840239774,106909392,1570042021,4104185692
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1570042021,4049631843
-dimwishlist:item=1751893422&perks=1840239774,10690939,1570042021,4049631843
+dimwishlist:item=1751893422&perks=1840239774,106909392,1570042021,4049631843
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1570042021,4082225868
-dimwishlist:item=1751893422&perks=1840239774,10690939,1570042021,4082225868
+dimwishlist:item=1751893422&perks=1840239774,106909392,1570042021,4082225868
 dimwishlist:item=1751893422&perks=1840239774,3230963543,1570042021,3047969693
-dimwishlist:item=1751893422&perks=1840239774,10690939,1570042021,3047969693
+dimwishlist:item=1751893422&perks=1840239774,106909392,1570042021,3047969693
 
 // Tripwire Canary (PvE first-choice roll)
 // Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Explosive Head
@@ -666,7 +666,7 @@ dimwishlist:item=2149683300&perks=1392496348,1140096971,1428297954,3708227201
 dimwishlist:item=2149683300&perks=1840239774,1140096971,1428297954,3708227201
 
 // IKELOS_SMG_v1.0.3 (PvE first-choice roll)
-// (Polygonal Rifling, Fluted Barrel), Seraph Rounds, (Threat Detector, Perpetual Motion), Surrounded
+// (Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell), (Threat Detector, Perpetual Motion), Surrounded
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. It's already an S-Tier stat monster and the Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Stability is the play for controller, to help keep your barrel pointed at what you're shooting at, Tactical Mag and Flared Magwell both help out with that, and reload speed too. If you're looking at end-game add-clearing, Threat Detector will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit and Surrounded boosts damage by 36.5% and the enhanced version by 47%. But, even though this is a great roll, you'll still know in your heart that you really wanted Voltshot... Recommended  MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
 dimwishlist:item=2149683300&perks=1392496348,3230963543,4071163871,3708227201
 dimwishlist:item=2149683300&perks=1840239774,3230963543,4071163871,3708227201
@@ -686,7 +686,7 @@ dimwishlist:item=2149683300&perks=202670084,1140096971,1428297954,3708227201
 dimwishlist:item=2149683300&perks=3250034553,1140096971,1428297954,3708227201
 
 // IKELOS_SMG_v1.0.3 (PvE backup roll)
-// (Full Bore, Hammer-Forged Rifling), Seraph Rounds, (Threat Detector, Perpetual Motion), Surrounded
+// (Full Bore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), (Threat Detector, Perpetual Motion), Surrounded
 //notes:Inspired by DMB PvE Podcast 44. Backup PvE roll for end-game add clear. Shapeable. It's already an S-Tier stat monster and the Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Not having to worry about stability as much, you might as well push out the range as far as you can for M&KB, and if you're in CQC you want your reload to be as fast as possible - Tactical Mag and Flared Magwell both help out. If you're looking at end-game add-clearing, Threat Detector will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit and Surrounded boosts damage by 36.5% and the enhanced version by 47%. But, even though this is a great roll, you'll still know in your heart that you really wanted Voltshot... Recommended  MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB
 dimwishlist:item=2149683300&perks=202670084,3230963543,4071163871,3708227201
 dimwishlist:item=2149683300&perks=3250034553,3230963543,4071163871,3708227201
@@ -740,18 +740,18 @@ dimwishlist:item=2302346155&perks=839105230,3142289711,1354429876,2896038713
 // IKELOS_SG_v1.0.3 (PvE first-choice roll)
 // (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Pugilist, Threat Detector), Trench Barrel
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game Major and Champion kills. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. Either Pugilist's additional handling on a melee hit or Threat Detector's bonus stability, handling and reload speed for being in CQC pair well with Trench Barrel's 50% bonus burst damage, handlng and reload speed for three shots after a melee hit. Ideal against Majors and for finishing off stunned Champions. Recommended  MW: Handling or Reload Spped, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1168625549&perks=1300023272,10690939,691659142,2360754333
-dimwishlist:item=1168625549&perks=4090651448,10690939,691659142,2360754333
-dimwishlist:item=1168625549&perks=1482024992,10690939,691659142,2360754333
-dimwishlist:item=1168625549&perks=1047830412,10690939,691659142,2360754333
+dimwishlist:item=1168625549&perks=1300023272,106909392,691659142,2360754333
+dimwishlist:item=1168625549&perks=4090651448,106909392,691659142,2360754333
+dimwishlist:item=1168625549&perks=1482024992,106909392,691659142,2360754333
+dimwishlist:item=1168625549&perks=1047830412,106909392,691659142,2360754333
 dimwishlist:item=1168625549&perks=1300023272,1087426260,691659142,2360754333
 dimwishlist:item=1168625549&perks=4090651448,1087426260,691659142,2360754333
 dimwishlist:item=1168625549&perks=1482024992,1087426260,691659142,2360754333
 dimwishlist:item=1168625549&perks=1047830412,1087426260,691659142,2360754333
-dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,2360754333
-dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,2360754333
-dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,2360754333
-dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,2360754333
+dimwishlist:item=1168625549&perks=4090651448,106909392,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1482024992,106909392,4071163871,2360754333
+dimwishlist:item=1168625549&perks=1047830412,106909392,4071163871,2360754333
 dimwishlist:item=1168625549&perks=1300023272,1087426260,4071163871,2360754333
 dimwishlist:item=1168625549&perks=4090651448,1087426260,4071163871,2360754333
 dimwishlist:item=1168625549&perks=1482024992,1087426260,4071163871,2360754333
@@ -760,34 +760,34 @@ dimwishlist:item=1168625549&perks=1047830412,1087426260,4071163871,2360754333
 // IKELOS_SG_v1.0.3 (PvE first-choice roll)
 // (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Threat Detector, Subsistence), (Surrounded, Swashbuckler)
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. For chunky add clearing, Threat Detector's bonus stability, handling and reload speed for being in CQC or Subsistence magazine refresh on a kill will help you keep the damage bonus from Surrounded or Swashbuckler in play. Recommended  MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Minor, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,3708227201
-dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,3708227201
-dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,3708227201
-dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,3708227201
+dimwishlist:item=1168625549&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1482024992,106909392,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1047830412,106909392,4071163871,3708227201
 dimwishlist:item=1168625549&perks=1300023272,1087426260,4071163871,3708227201
 dimwishlist:item=1168625549&perks=4090651448,1087426260,4071163871,3708227201
 dimwishlist:item=1168625549&perks=1482024992,1087426260,4071163871,3708227201
 dimwishlist:item=1168625549&perks=1047830412,1087426260,4071163871,3708227201
-dimwishlist:item=1168625549&perks=1300023272,10690939,1820235745,3708227201
-dimwishlist:item=1168625549&perks=4090651448,10690939,1820235745,3708227201
-dimwishlist:item=1168625549&perks=1482024992,10690939,1820235745,3708227201
-dimwishlist:item=1168625549&perks=1047830412,10690939,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1300023272,106909392,1820235745,3708227201
+dimwishlist:item=1168625549&perks=4090651448,106909392,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1482024992,106909392,1820235745,3708227201
+dimwishlist:item=1168625549&perks=1047830412,106909392,1820235745,3708227201
 dimwishlist:item=1168625549&perks=1300023272,1087426260,1820235745,3708227201
 dimwishlist:item=1168625549&perks=4090651448,1087426260,1820235745,3708227201
 dimwishlist:item=1168625549&perks=1482024992,1087426260,1820235745,3708227201
 dimwishlist:item=1168625549&perks=1047830412,1087426260,1820235745,3708227201
-dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,4082225868
-dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,4082225868
-dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,4082225868
-dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,4082225868
+dimwishlist:item=1168625549&perks=4090651448,106909392,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1482024992,106909392,4071163871,4082225868
+dimwishlist:item=1168625549&perks=1047830412,106909392,4071163871,4082225868
 dimwishlist:item=1168625549&perks=1300023272,1087426260,4071163871,4082225868
 dimwishlist:item=1168625549&perks=4090651448,1087426260,4071163871,4082225868
 dimwishlist:item=1168625549&perks=1482024992,1087426260,4071163871,4082225868
 dimwishlist:item=1168625549&perks=1047830412,1087426260,4071163871,4082225868
-dimwishlist:item=1168625549&perks=1300023272,10690939,1820235745,4082225868
-dimwishlist:item=1168625549&perks=4090651448,10690939,1820235745,4082225868
-dimwishlist:item=1168625549&perks=1482024992,10690939,1820235745,4082225868
-dimwishlist:item=1168625549&perks=1047830412,10690939,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1300023272,106909392,1820235745,4082225868
+dimwishlist:item=1168625549&perks=4090651448,106909392,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1482024992,106909392,1820235745,4082225868
+dimwishlist:item=1168625549&perks=1047830412,106909392,1820235745,4082225868
 dimwishlist:item=1168625549&perks=1300023272,1087426260,1820235745,4082225868
 dimwishlist:item=1168625549&perks=4090651448,1087426260,1820235745,4082225868
 dimwishlist:item=1168625549&perks=1482024992,1087426260,1820235745,4082225868
@@ -796,18 +796,18 @@ dimwishlist:item=1168625549&perks=1047830412,1087426260,1820235745,4082225868
 // IKELOS_SG_v1.0.3 (PvE first-choice roll)
 // (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Threat Detector, Subsistence), Incandescent
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear with a solar subclass. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. For solar subclasses, Threat Detector's bonus stability, handling and reload speed for being in CQC or Subsistence magazine refresh on a kill will help keep your Incandescent shots landing for scorch stacks and ignites. Recommended  MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Minor, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1168625549&perks=1300023272,10690939,4071163871,4293542123
-dimwishlist:item=1168625549&perks=4090651448,10690939,4071163871,4293542123
-dimwishlist:item=1168625549&perks=1482024992,10690939,4071163871,4293542123
-dimwishlist:item=1168625549&perks=1047830412,10690939,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,4293542123
+dimwishlist:item=1168625549&perks=4090651448,106909392,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1482024992,106909392,4071163871,4293542123
+dimwishlist:item=1168625549&perks=1047830412,106909392,4071163871,4293542123
 dimwishlist:item=1168625549&perks=1300023272,1087426260,4071163871,4293542123
 dimwishlist:item=1168625549&perks=4090651448,1087426260,4071163871,4293542123
 dimwishlist:item=1168625549&perks=1482024992,1087426260,4071163871,4293542123
 dimwishlist:item=1168625549&perks=1047830412,1087426260,4071163871,4293542123
-dimwishlist:item=1168625549&perks=1300023272,10690939,1820235745,4293542123
-dimwishlist:item=1168625549&perks=4090651448,10690939,1820235745,4293542123
-dimwishlist:item=1168625549&perks=1482024992,10690939,1820235745,4293542123
-dimwishlist:item=1168625549&perks=1047830412,10690939,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1300023272,106909392,1820235745,4293542123
+dimwishlist:item=1168625549&perks=4090651448,106909392,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1482024992,106909392,1820235745,4293542123
+dimwishlist:item=1168625549&perks=1047830412,106909392,1820235745,4293542123
 dimwishlist:item=1168625549&perks=1300023272,1087426260,1820235745,4293542123
 dimwishlist:item=1168625549&perks=4090651448,1087426260,1820235745,4293542123
 dimwishlist:item=1168625549&perks=1482024992,1087426260,1820235745,4293542123
@@ -816,18 +816,18 @@ dimwishlist:item=1168625549&perks=1047830412,1087426260,1820235745,4293542123
 // IKELOS_SG_v1.0.3 (PvE first-choice roll)
 // (Barrel Shroud, Corkscrew Rifling, Smallbore, Full Choke), (Tactical Mag, Appended Mag), (Pugilist, Grave Robber), Swashbuckler
 //notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear with a melee build. Shapeable. Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. There aren't any other solar rapid-fire shotguns currently, as at Season 19 v6.3.0.2, for a direct comparison, but this has pretty much best-in-subtype stats across the board, and a range of fun perk combinations to play with. The barrel options offer better handling, stability (useful on rapid-fire shotguns), or pellet spread, while the usual magazine options of Tactical Mag for better mag size, reload and stability, or just Appended mag for the extra shot are your best choices. Both Pugilist and Grave Robber proc on melees, so Swashbuckler is a natural pairing to create a play loop for either. Recommended  MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-Minor, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1168625549&perks=1300023272,10690939,691659142,4082225868
-dimwishlist:item=1168625549&perks=4090651448,10690939,691659142,4082225868
-dimwishlist:item=1168625549&perks=1482024992,10690939,691659142,4082225868
-dimwishlist:item=1168625549&perks=1047830412,10690939,691659142,4082225868
+dimwishlist:item=1168625549&perks=1300023272,106909392,691659142,4082225868
+dimwishlist:item=1168625549&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=1168625549&perks=1482024992,106909392,691659142,4082225868
+dimwishlist:item=1168625549&perks=1047830412,106909392,691659142,4082225868
 dimwishlist:item=1168625549&perks=1300023272,1087426260,691659142,4082225868
 dimwishlist:item=1168625549&perks=4090651448,1087426260,691659142,4082225868
 dimwishlist:item=1168625549&perks=1482024992,1087426260,691659142,4082225868
 dimwishlist:item=1168625549&perks=1047830412,1087426260,691659142,4082225868
-dimwishlist:item=1168625549&perks=1300023272,10690939,1631667848,4082225868
-dimwishlist:item=1168625549&perks=4090651448,10690939,1631667848,4082225868
-dimwishlist:item=1168625549&perks=1482024992,10690939,1631667848,4082225868
-dimwishlist:item=1168625549&perks=1047830412,10690939,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,4082225868
+dimwishlist:item=1168625549&perks=4090651448,106909392,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1482024992,106909392,1631667848,4082225868
+dimwishlist:item=1168625549&perks=1047830412,106909392,1631667848,4082225868
 dimwishlist:item=1168625549&perks=1300023272,1087426260,1631667848,4082225868
 dimwishlist:item=1168625549&perks=4090651448,1087426260,1631667848,4082225868
 dimwishlist:item=1168625549&perks=1482024992,1087426260,1631667848,4082225868
