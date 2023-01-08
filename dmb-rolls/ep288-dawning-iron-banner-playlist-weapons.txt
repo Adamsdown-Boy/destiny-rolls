@@ -21,7 +21,7 @@ Aggressive Frame with lowish stats by comparison with in-slot competitors, inclu
 
 // Barrel and mag options
 Hammer Forged Rifling, Accurized Rounds
-Use your barrel, mag and masterwork to push out your range as far as you can without damaging any other stats  Hammer-Forged Rifling and Accurized Rounds.
+Use your barrel, mag and masterwork to push out your range as far as you can without damaging any other stats. Hammer-Forged Rifling and Accurized Rounds are your best options for this.
 
 // Trait options
 Tap the Trigger, Cascade Point
