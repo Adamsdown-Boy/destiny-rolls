@@ -1,5 +1,5 @@
 //// Stay Frosty
-Lightweight frame, which provides a passive +20 mobility and a bonus +6.25% to movement speed. The stats are pretty much in-range with its peers, but effective range suffers from only having 18 zoom. Optimal TTK of 0.87s with 7 crits and a body, and an accuracy-adjusted TTK of 0.93s (6c, 3b).
+Lightweight frame, which provides a passive +20 mobility and a bonus +6.25% to movement speed. The Omolon origin trait is great at the top of a magazine, where you should be getting your kills. The stats are pretty much in-range with its peers, but effective range suffers from only having 18 zoom. Optimal TTK of 0.87s with 7 crits and a body, and an accuracy-adjusted TTK of 0.93s (6c, 3b).
 
 // Barrel and mag options
 Arrowhead Brake, (High Caliber Rounds, Flared Magwell)
