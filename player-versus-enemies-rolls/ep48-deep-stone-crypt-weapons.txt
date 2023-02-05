@@ -1,0 +1,306 @@
+@title:Season 19 Deep Stone Crypt raid weapons
+@description:Reprised DSC Raid weapons with the Bray Inheritance origin perk
+
+// Posterity (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, Voltshot, Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for arc synergy and end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Who would have thought that the hottest property from DSC would be a precision hand cannon? Stats are good be comparison with competitors. Fluted Barrel makes it feel snappier and Tactical Mag adds couple of extra bullets and stability. Unusually, Voltshot rolls in the first trait column and is the runaway best option for add clear, and using Frenzy as a second damage perk also boosts handling and reload to 100 so you can proc Voltshot's jolt as fast as possible after a kill, which will also stun Overload champions from Lightfall (Season 20) onwards. Just chef's kiss good. Recommended MW: Range, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=3281285075&perks=1840239774,106909392,2173046394,4104185692
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Incandescent
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for solar synergy and end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). Rapid Hit or Perpetual Motion layers more stability and reload speed - stability is good to help stay on a crit spot. Incandescent is great for add clear and hits your solar verbs. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=1392919471&perks=839105230,106909392,247725512,4293542123
+dimwishlist:item=1392919471&perks=839105230,3230963543,247725512,4293542123
+dimwishlist:item=1392919471&perks=839105230,106909392,1428297954,4293542123
+dimwishlist:item=1392919471&perks=839105230,3230963543,1428297954,4293542123
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Puglist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for melee builds. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). For melee builds, Pugilist and Swashbuckler are the natural choice - get a melee kill for a refreshable 33% damage boost, and then each hit regenerates a little melee energy from the origin trait, while each kill regenerates a full 10%. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1392919471&perks=839105230,106909392,691659142,4082225868
+dimwishlist:item=1392919471&perks=839105230,3230963543,691659142,4082225868
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Reconstruction, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). For end-game use, Reconstruction overfills your magazine by 100%, so if you hit 9 crits, you have 11 seconds (12s when enhanced) to use the 27 remaining shots with Focused Fury's 20% damage boost. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,2896038713
+dimwishlist:item=1392919471&perks=839105230,3230963543,1523832109,2896038713
+
+// Succession (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Extended Mag, Alloy Mag, Tactical Mag), Reconstruction, (Firing Line, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Pretty much best in-subfamily stats, but any kinetic sniper has to offer a lot to stand out from the crowd. If you decide this is for you, the best rolls are more for burst damage against majors and stunned Champions. Fluted Barrel adds handling and stability, or go all-in to stability with Polygonal Rifling. You can use Tactical Mag to add stability and reload speed, Alloy Mag to help with reloads on an empty mag, or maximise your magazine size with Extended Mag. For Majors, Reconstruction will double your magazine size (so you can get up to 10 in the mag with Extended Mag and a Backup Mag mod). If you're in a group, Firing Line provides a passive 20% bonus crit damage in a fireteam or, if you're running solo, Focused Fury can proc after three crit his, so your remaining shots have 20% bonus damage. Recommended MW: Handling or stability, with a Backup Mag, or damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,1771339417
+dimwishlist:item=2990047042&perks=1392496348,2420895100,1523832109,1771339417
+dimwishlist:item=2990047042&perks=1840239774,1431678320,1523832109,1771339417
+dimwishlist:item=2990047042&perks=1392496348,1431678320,1523832109,1771339417
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1771339417
+dimwishlist:item=2990047042&perks=1392496348,106909392,1523832109,1771339417
+dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,2896038713
+dimwishlist:item=2990047042&perks=1392496348,2420895100,1523832109,2896038713
+dimwishlist:item=2990047042&perks=1840239774,1431678320,1523832109,2896038713
+dimwishlist:item=2990047042&perks=1392496348,1431678320,1523832109,2896038713
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,2896038713
+dimwishlist:item=2990047042&perks=1392496348,106909392,1523832109,2896038713
+
+// Heritage (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Assault Mag, Tactical Mag), Reconstruction, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for Majors in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Great kinetic slug shotgun - good stats across the board. While they're no longer the pillar for majors and boss damage they once were, they still work well as a weapon to swap to for burst or sustained damage. Fluted Barrel or Smallbore are your barrel choices for extra stability with a side order of handling or range depending on your preference. Assault Mag's increased fire rate is effectively a 7.7% boost to DPS, or Tactical Mag lets you get to the maximum of 8 in the mag with a Backup Mag mod. Reconstruction overfills your magazine to double size which means you only need to hit three or four crits, depending on how close you get to the magazine limit, for 11s (12s with the Enhanced Perk) for a 20% damage boost for the remainder of the magazine with Focused Fury. Recommended MW: Handling or Range, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,2896038713
+dimwishlist:item=4248569242&perks=1482024992,791862061,1523832109,2896038713
+dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,2896038713
+dimwishlist:item=4248569242&perks=1482024992,106909392,1523832109,2896038713
+
+// Heritage (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Assault Mag, Tactical Mag), Pugilist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for melee builds in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Great kinetic slug shotgun - good stats across the board. While they're no longer the pillar for majors and boss damage they once were, they still work well as a weapon to swap to for burst or sustained damage. Fluted Barrel or Smallbore are your barrel choices for extra stability with a side order of handling or range depending on your preference. Assault Mag's increased fire rate is effectively a 7.7% boost to DPS, or Tactical Mag lets you get to the maximum of 8 in the mag with a Backup Mag mod. or melee builds, Pugilist and Swashbuckler are the natural choice - get a melee kill for a refreshable 33% damage boost, and then each hit regenerates a little melee energy from the origin trait, while each kill regenerates a full 20%.  Recommended MW: Handling or Range, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4248569242&perks=1840239774,791862061,691659142,4082225868
+dimwishlist:item=4248569242&perks=1482024992,791862061,691659142,4082225868
+dimwishlist:item=4248569242&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=4248569242&perks=1482024992,106909392,691659142,4082225868
+
+// Commemoration (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag), Subsistence, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Tactical, Appended or Extended Mag. Killing Tally is the easiest to proc damage boosting perk if you're killing adds - 3 kills equals 30% bonus damage until you stow or reload, which you won't have to do much with Subsistence refreshing your magazine, so you could keep firing until you're empty. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=839105230,106909392,1820235745,557221067
+dimwishlist:item=4230965989&perks=3661387068,106909392,1820235745,557221067
+dimwishlist:item=4230965989&perks=1467527085,106909392,1820235745,557221067
+dimwishlist:item=4230965989&perks=1840239774,106909392,1820235745,557221067
+dimwishlist:item=4230965989&perks=1392496348,106909392,1820235745,557221067
+dimwishlist:item=4230965989&perks=839105230,1087426260,1820235745,557221067
+dimwishlist:item=4230965989&perks=3661387068,1087426260,1820235745,557221067
+dimwishlist:item=4230965989&perks=1467527085,1087426260,1820235745,557221067
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1820235745,557221067
+dimwishlist:item=4230965989&perks=1392496348,1087426260,1820235745,557221067
+dimwishlist:item=4230965989&perks=839105230,3177308360,1820235745,557221067
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1820235745,557221067
+dimwishlist:item=4230965989&perks=1467527085,3177308360,1820235745,557221067
+dimwishlist:item=4230965989&perks=1840239774,3177308360,1820235745,557221067
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1820235745,557221067
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), (Reconstruction, Fourth Time's the Charm), Firing Line
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for burst or sustained majors or boss damage in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. If you're focusing on one target for damage, Reconstruction overflows your mag to doble size, or Fourth Time's the Charm can keep you topped up against a big boss crit, while Firing Line boosts damage by 20% when you're in a fireteam. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=839105230,106909392,1354429876,1771339417
+dimwishlist:item=4230965989&perks=3661387068,106909392,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1467527085,106909392,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1840239774,106909392,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1392496348,106909392,1354429876,1771339417
+dimwishlist:item=4230965989&perks=839105230,1087426260,1354429876,1771339417
+dimwishlist:item=4230965989&perks=3661387068,1087426260,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1467527085,1087426260,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1392496348,1087426260,1354429876,1771339417
+dimwishlist:item=4230965989&perks=839105230,3177308360,1354429876,1771339417
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1467527085,3177308360,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1840239774,3177308360,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1354429876,1771339417
+dimwishlist:item=4230965989&perks=839105230,1431678320,1354429876,1771339417
+dimwishlist:item=4230965989&perks=3661387068,1431678320,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1467527085,1431678320,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1840239774,1431678320,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1392496348,1431678320,1354429876,1771339417
+dimwishlist:item=4230965989&perks=839105230,3230963543,1354429876,1771339417
+dimwishlist:item=4230965989&perks=3661387068,3230963543,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1467527085,3230963543,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1354429876,1771339417
+dimwishlist:item=4230965989&perks=1392496348,3230963543,1354429876,1771339417
+dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,1771339417
+dimwishlist:item=4230965989&perks=3661387068,106909392,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1467527085,106909392,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,1771339417
+dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,1771339417
+dimwishlist:item=4230965989&perks=3661387068,1087426260,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1467527085,1087426260,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1392496348,1087426260,1523832109,1771339417
+dimwishlist:item=4230965989&perks=839105230,3177308360,1523832109,1771339417
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1467527085,3177308360,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1840239774,3177308360,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1523832109,1771339417
+dimwishlist:item=4230965989&perks=839105230,1431678320,1523832109,1771339417
+dimwishlist:item=4230965989&perks=3661387068,1431678320,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1467527085,1431678320,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1840239774,1431678320,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1392496348,1431678320,1523832109,1771339417
+dimwishlist:item=4230965989&perks=839105230,3230963543,1523832109,1771339417
+dimwishlist:item=4230965989&perks=3661387068,3230963543,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1467527085,3230963543,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1523832109,1771339417
+dimwishlist:item=4230965989&perks=1392496348,3230963543,1523832109,1771339417
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), (Subsistence, Fourth Times The Charm, Reconstruction, Rapid Hit, Feeding Frenzy), Rampage
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. For add clear, you need a reload perk or mag extending perk in your first trait column - Subsistence, Fourth Times The Charm, Reconstruction, Rapid Hit or Feeding Frenzy all work with good old Rampage to boost damage by up to 33%. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=839105230,106909392,1820235745,3425386926
+dimwishlist:item=4230965989&perks=3661387068,106909392,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1467527085,106909392,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1840239774,106909392,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1392496348,106909392,1820235745,3425386926
+dimwishlist:item=4230965989&perks=839105230,1087426260,1820235745,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1087426260,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1087426260,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1087426260,1820235745,3425386926
+dimwishlist:item=4230965989&perks=839105230,3177308360,1820235745,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3177308360,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3177308360,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1820235745,3425386926
+dimwishlist:item=4230965989&perks=839105230,1431678320,1820235745,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1431678320,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1431678320,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1431678320,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1431678320,1820235745,3425386926
+dimwishlist:item=4230965989&perks=839105230,3230963543,1820235745,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3230963543,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3230963543,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1820235745,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3230963543,1820235745,3425386926
+dimwishlist:item=4230965989&perks=839105230,106909392,1354429876,3425386926
+dimwishlist:item=4230965989&perks=3661387068,106909392,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1467527085,106909392,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1840239774,106909392,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1392496348,106909392,1354429876,3425386926
+dimwishlist:item=4230965989&perks=839105230,1087426260,1354429876,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1087426260,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1087426260,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1087426260,1354429876,3425386926
+dimwishlist:item=4230965989&perks=839105230,3177308360,1354429876,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3177308360,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3177308360,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1354429876,3425386926
+dimwishlist:item=4230965989&perks=839105230,1431678320,1354429876,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1431678320,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1431678320,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1431678320,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1431678320,1354429876,3425386926
+dimwishlist:item=4230965989&perks=839105230,3230963543,1354429876,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3230963543,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3230963543,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1354429876,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3230963543,1354429876,3425386926
+dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,3425386926
+dimwishlist:item=4230965989&perks=3661387068,106909392,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1467527085,106909392,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,3425386926
+dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1087426260,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1087426260,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1087426260,1523832109,3425386926
+dimwishlist:item=4230965989&perks=839105230,3177308360,1523832109,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3177308360,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3177308360,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3177308360,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3177308360,1523832109,3425386926
+dimwishlist:item=4230965989&perks=839105230,1431678320,1523832109,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1431678320,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1431678320,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1431678320,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1431678320,1523832109,3425386926
+dimwishlist:item=4230965989&perks=839105230,3230963543,1523832109,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3230963543,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3230963543,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3230963543,1523832109,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3230963543,1523832109,3425386926
+dimwishlist:item=4230965989&perks=839105230,106909392,247725512,3425386926
+dimwishlist:item=4230965989&perks=3661387068,106909392,247725512,3425386926
+dimwishlist:item=4230965989&perks=1467527085,106909392,247725512,3425386926
+dimwishlist:item=4230965989&perks=1840239774,106909392,247725512,3425386926
+dimwishlist:item=4230965989&perks=1392496348,106909392,247725512,3425386926
+dimwishlist:item=4230965989&perks=839105230,1087426260,247725512,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1087426260,247725512,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1087426260,247725512,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1087426260,247725512,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1087426260,247725512,3425386926
+dimwishlist:item=4230965989&perks=839105230,3177308360,247725512,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3177308360,247725512,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3177308360,247725512,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3177308360,247725512,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3177308360,247725512,3425386926
+dimwishlist:item=4230965989&perks=839105230,1431678320,247725512,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1431678320,247725512,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1431678320,247725512,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1431678320,247725512,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1431678320,247725512,3425386926
+dimwishlist:item=4230965989&perks=839105230,3230963543,247725512,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3230963543,247725512,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3230963543,247725512,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3230963543,247725512,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3230963543,247725512,3425386926
+dimwishlist:item=4230965989&perks=839105230,106909392,2779035018,3425386926
+dimwishlist:item=4230965989&perks=3661387068,106909392,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1467527085,106909392,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1840239774,106909392,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1392496348,106909392,2779035018,3425386926
+dimwishlist:item=4230965989&perks=839105230,1087426260,2779035018,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1087426260,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1087426260,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1087426260,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1087426260,2779035018,3425386926
+dimwishlist:item=4230965989&perks=839105230,3177308360,2779035018,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3177308360,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3177308360,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3177308360,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3177308360,2779035018,3425386926
+dimwishlist:item=4230965989&perks=839105230,1431678320,2779035018,3425386926
+dimwishlist:item=4230965989&perks=3661387068,1431678320,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1467527085,1431678320,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1840239774,1431678320,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1392496348,1431678320,2779035018,3425386926
+dimwishlist:item=4230965989&perks=839105230,3230963543,2779035018,3425386926
+dimwishlist:item=4230965989&perks=3661387068,3230963543,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1467527085,3230963543,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1840239774,3230963543,2779035018,3425386926
+dimwishlist:item=4230965989&perks=1392496348,3230963543,2779035018,3425386926
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), Dragonfly, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. For a fun add-clear option in crowds, pair Dragonfly with Killing Tally. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=839105230,106909392,2848615171,557221067
+dimwishlist:item=4230965989&perks=3661387068,106909392,2848615171,557221067
+dimwishlist:item=4230965989&perks=1467527085,106909392,2848615171,557221067
+dimwishlist:item=4230965989&perks=1840239774,106909392,2848615171,557221067
+dimwishlist:item=4230965989&perks=1392496348,106909392,2848615171,557221067
+dimwishlist:item=4230965989&perks=839105230,1087426260,2848615171,557221067
+dimwishlist:item=4230965989&perks=3661387068,1087426260,2848615171,557221067
+dimwishlist:item=4230965989&perks=1467527085,1087426260,2848615171,557221067
+dimwishlist:item=4230965989&perks=1840239774,1087426260,2848615171,557221067
+dimwishlist:item=4230965989&perks=1392496348,1087426260,2848615171,557221067
+dimwishlist:item=4230965989&perks=839105230,3177308360,2848615171,557221067
+dimwishlist:item=4230965989&perks=3661387068,3177308360,2848615171,557221067
+dimwishlist:item=4230965989&perks=1467527085,3177308360,2848615171,557221067
+dimwishlist:item=4230965989&perks=1840239774,3177308360,2848615171,557221067
+dimwishlist:item=4230965989&perks=1392496348,3177308360,2848615171,557221067
+dimwishlist:item=4230965989&perks=839105230,1431678320,2848615171,557221067
+dimwishlist:item=4230965989&perks=3661387068,1431678320,2848615171,557221067
+dimwishlist:item=4230965989&perks=1467527085,1431678320,2848615171,557221067
+dimwishlist:item=4230965989&perks=1840239774,1431678320,2848615171,557221067
+dimwishlist:item=4230965989&perks=1392496348,1431678320,2848615171,557221067
+dimwishlist:item=4230965989&perks=839105230,3230963543,2848615171,557221067
+dimwishlist:item=4230965989&perks=3661387068,3230963543,2848615171,557221067
+dimwishlist:item=4230965989&perks=1467527085,3230963543,2848615171,557221067
+dimwishlist:item=4230965989&perks=1840239774,3230963543,2848615171,557221067
+dimwishlist:item=4230965989&perks=1392496348,3230963543,2848615171,557221067
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Unrelenting, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. For add clear, Unrelenting keeps your health up while Chain Reaction helps clear crowds, with kills counting towards Unrelenting too. Recommended MW: Impact, with a Backup Mag, or damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=3666208348,269888150,3108830275,2396489472
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for major or boss damage in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. For major or boss damage in a crowd - think Duality - Relentless Strikes returns ammo for every three hits, and Surrounded boosts damage by 36.5% (47% for the Enhanced Park. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Thresh, Unrelenting), Demolitionist
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE roll for melee or grenade builds. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. You can build into the origin perk benefits - 2% to all abilities on a hit, with either Thresh or Wellspring in the first trait column and Demolitionist in the second. Recommended MW: Impact, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=3666208348,269888150,2726471870,3523296417
+dimwishlist:item=3366545721&perks=3666208348,269888150,3592538738,3523296417
