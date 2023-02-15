@@ -62,14 +62,14 @@ dimwishlist:item=2349907931&perks=1840239774,1561002382,2416023159,2458213969
 // Fioritura-59 (PvP first-choice roll)
 // (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Zen Moment, Killing Wind), Golden Tricorn
 //notes:Inspired by @DestinyMBP Podcast 291 with @illPhysics and @Legoleflash. First-choice PvP pick for kill-chaining. Shapeable. Suros Synergy is one of the most useful PvP perks, boosting handling and reducing flinch after a reload. Rapid-fire sidearms have a competitive out-of-the-box TTK of 0.6s (6c, 1b) and an Accuracy-Adjusted TTK of 0.8s (3c, 4b) within their range. In-band stats, but with a standout Airborne Effectiveness of 23. Sidearm ranges are highly compressed, so boost stability with your barrel and mag instead to make crits easier. In the first trait column, Zen Moment can help keep your reticule on target or Killing Wind adds handling and mobility after a kill. In the second column, Kill Clip is tempting - reducing TTK to 0.53s (4c, 1b) for 5s when reloading after a kill, but Golden Tricorn x1 is the same TTK (albeit with 5c), and is easier to proc, as it doesn't need a reload. Throw on a Surprise Attack mod, and Mechaneers Tricksleeves for a Hunter and in the right circumstances you can get down to a 0.27s TTK with three crits. Recommended MW: Stability, with an Icarus Grip, if you're leaning into an aerial playstyle, or Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, M+KB, Controller
-dimwishlist:item=2566006935&perks=1392496348,1885400500,1866048759,2416023159
-dimwishlist:item=2566006935&perks=1482024992,1885400500,1866048759,2416023159
-dimwishlist:item=2566006935&perks=1840239774,1885400500,1866048759,2416023159
-dimwishlist:item=2566006935&perks=4090651448,1885400500,1866048759,2416023159
-dimwishlist:item=2566006935&perks=1392496348,1885400500,2450788523,2416023159
-dimwishlist:item=2566006935&perks=1482024992,1885400500,2450788523,2416023159
-dimwishlist:item=2566006935&perks=1840239774,1885400500,2450788523,2416023159
-dimwishlist:item=2566006935&perks=4090651448,1885400500,2450788523,2416023159
+dimwishlist:item=2566006935&perks=1392496348,1885400500,2387244414,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1885400500,2387244414,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1885400500,2387244414,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1885400500,2387244414,2610012052
+dimwishlist:item=2566006935&perks=1392496348,1885400500,2450788523,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1885400500,2450788523,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1885400500,2450788523,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1885400500,2450788523,2610012052
 
 // Fioritura-59 (PvP first-choice roll)
 // (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, Hipfire Grip, Offhand Strike
