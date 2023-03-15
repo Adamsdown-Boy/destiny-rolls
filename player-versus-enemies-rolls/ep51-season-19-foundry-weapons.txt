@@ -1,0 +1,245 @@
+@title:Season 19 Foundry weapons
+@description:New world drop weapons from weapon foundries
+
+// Aurvandil FR6 (PvE first-choice roll)
+// Fluted Barrel, (Ionized Battery, Enhanced Battery), Reconstruction, Chill Clip
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction then doubles your mag size, and bypasses any reload penalty and means that the top 3/4 of your magazine will now proc Chill Clip. The oversized magazine means you should also benefit from the Omolon origin perk stability boost. Recommended MW: Handling, Stability or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MajorSpec, PvE-EndGame, PvE-God, Controller, M+KB|tags:1820235745
+dimwishlist:item=963710795&perks=1840239774,1483536627,1523832109,2978966579
+dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2978966579
+
+// Aurvandil FR6 (PvE backup roll)
+// (Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Reconstruction, Chill Clip
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction then doubles your mag size, and bypasses any reload penalty and means that the top 3/4 of your magazine will now proc Chill Clip. By consistently topping up the magazine you should also benefit from the Omolon origin perk stability boost. Recommended MW: Handling, Stability or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MajorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2978966579
+dimwishlist:item=963710795&perks=4090651448,1483536627,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579
+dimwishlist:item=963710795&perks=4090651448,2680121939,1523832109,2978966579
+
+// Aurvandil FR6 (PvE backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), (Subsistence, Slideways), Chill Clip
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. A full burst of a high-impact fusion will likely kill any red-bar even in end-game content so Subsistence should keep the magazine topped up, or Slideways can bypass any reload speed penalty, to proc Chill Clip. By consistently topping up the magazine you should also benefit from the Omolon origin perk stability boost. Recommended MW: Handling, Stability or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MajorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=963710795&perks=1840239774,1483536627,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,2978966579
+dimwishlist:item=963710795&perks=4090651448,1483536627,1820235745,2978966579
+dimwishlist:item=963710795&perks=1840239774,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=4090651448,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=1840239774,1483536627,2039302152,2978966579
+dimwishlist:item=963710795&perks=839105230,1483536627,2039302152,2978966579
+dimwishlist:item=963710795&perks=4090651448,1483536627,2039302152,2978966579
+dimwishlist:item=963710795&perks=1840239774,2680121939,2039302152,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,2039302152,2978966579
+dimwishlist:item=963710795&perks=4090651448,2680121939,2039302152,2978966579
+
+// Aurvandil FR6 (PvE first-choice roll)
+// Fluted Barrel, (Ionized Battery, Enhanced Battery), Stats For All, One For All
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. If you spray with your first shot, then the SOFA (Stats/One For All) roll will more than offset any reload penalty, along with other gunfeel boosts, as well as increasing damage by a chunky 35%. The Omolon origin trait is useful in the top half of the mag, to help with reloads and a touch of extra stability too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MajorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=963710795&perks=1840239774,1483536627,1583705720,4049631843
+dimwishlist:item=963710795&perks=1840239774,2680121939,1583705720,4049631843
+
+// Aurvandil FR6 (PvE backup roll)
+// (Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Stats For All, One For All
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. If you spray with your first shot, then the SOFA (Stats/One For All) roll will more than offset any reload penalty, along with other gunfeel boosts, as well as increasing damage by a chunky 35%. The Omolon origin trait is useful in the top half of the mag, to help with reloads too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MajorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=963710795&perks=839105230,1483536627,1583705720,4049631843
+dimwishlist:item=963710795&perks=4090651448,1483536627,1583705720,4049631843
+dimwishlist:item=963710795&perks=839105230,2680121939,1583705720,4049631843
+dimwishlist:item=963710795&perks=4090651448,2680121939,1583705720,4049631843
+
+// Aurvandil FR6 (PvE first-choice roll)
+// Fluted Barrel, (Ionized Battery, Enhanced Battery), (Reconstruction, Subsistence, Slideways), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction, Subsistence or Slideways all help you keep your magazine topped up so you can take advantage of the damage boost from Golden Tricorn. With this being a stasis weapon, the second stack is tough to proc, but the 15% extra damage from one stack is reliable and refreshable. The Omolon origin trait is useful in the top half of the mag, to help with reloads and a bit of extra stability too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=963710795&perks=1840239774,1483536627,1523832109,2610012052
+dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2610012052
+dimwishlist:item=963710795&perks=1840239774,1483536627,1820235745,2610012052
+dimwishlist:item=963710795&perks=1840239774,2680121939,1820235745,2610012052
+dimwishlist:item=963710795&perks=1840239774,1483536627,2039302152,2610012052
+dimwishlist:item=963710795&perks=1840239774,2680121939,2039302152,2610012052
+
+// Aurvandil FR6 (PvE backup roll)
+// (Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), (Reconstruction, Subsistence, Slideways), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. Backup PvE roll for stasis synergy and end-game content. The first kinetic slot high-impact fusion rifle - it needs handling and stability to improve gunfeel, but it might be worth hanging onto in case the archetype gets a little love. Fusion Rifle range is very constrained, so look for handling with your barrel, and Ionized or Enhanced Battery adds extra shots. Reconstruction, Subsistence or Slideways all help you keep your magazine topped up so you can take advantage of the damage boost from Golden Tricorn. With this being a stasis weapon, the second stack is tough to proc, but the 15% extra damage from one stack is reliable and refreshable. The Omolon origin trait is useful in the top half of the mag, to help with reloads and a bit of extra stability too. Recommended MW: Handling, Stability, Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2610012052
+dimwishlist:item=963710795&perks=4090651448,1483536627,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2610012052
+dimwishlist:item=963710795&perks=4090651448,2680121939,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,2610012052
+dimwishlist:item=963710795&perks=4090651448,1483536627,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,2610012052
+dimwishlist:item=963710795&perks=4090651448,2680121939,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,1483536627,2039302152,2610012052
+dimwishlist:item=963710795&perks=4090651448,1483536627,2039302152,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,2039302152,2610012052
+dimwishlist:item=963710795&perks=4090651448,2680121939,2039302152,2610012052
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Pugilist, Repulsor Brace
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for void subclasses in general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. Pugilist can help recharge your melee to add a void verb to your target to proc Repulsor Brace on a kill and generate a void overshield to help tank damage in a crowd. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2566006935&perks=1392496348,1561002382,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,1561002382,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,1561002382,691659142,776531651
+dimwishlist:item=2566006935&perks=4090651448,1561002382,691659142,776531651
+dimwishlist:item=2566006935&perks=1392496348,1968497646,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,1968497646,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,1968497646,691659142,776531651
+dimwishlist:item=2566006935&perks=4090651448,1968497646,691659142,776531651
+dimwishlist:item=2566006935&perks=1392496348,1885400500,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,1885400500,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,1885400500,691659142,776531651
+dimwishlist:item=2566006935&perks=4090651448,1885400500,691659142,776531651
+dimwishlist:item=2566006935&perks=1392496348,3230963543,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,3230963543,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,3230963543,691659142,776531651
+dimwishlist:item=2566006935&perks=4090651448,3230963543,691659142,776531651
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Pugilist, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for void subclasses in endgame content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. Pugilist can help recharge your melee for Golden Tricorn - you get a solid 15% extra damage for one stack after a kill or a hefty 50% bonus with an ability kill while the first stack is procced. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2566006935&perks=1392496348,1561002382,691659142,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1561002382,691659142,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1561002382,691659142,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1561002382,691659142,2610012052
+dimwishlist:item=2566006935&perks=1392496348,1968497646,691659142,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1968497646,691659142,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1968497646,691659142,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1968497646,691659142,2610012052
+dimwishlist:item=2566006935&perks=1392496348,1885400500,691659142,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1885400500,691659142,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1885400500,691659142,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1885400500,691659142,2610012052
+dimwishlist:item=2566006935&perks=1392496348,3230963543,691659142,2610012052
+dimwishlist:item=2566006935&perks=1482024992,3230963543,691659142,2610012052
+dimwishlist:item=2566006935&perks=1840239774,3230963543,691659142,2610012052
+dimwishlist:item=2566006935&perks=4090651448,3230963543,691659142,2610012052
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Pugilist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for void subclasses in general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. Pugilist and Swashbuckler form a natural pairing - get your melee kill to proc 33% bonus damage, and then recover your melee energy with the easy kills that result. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2566006935&perks=1392496348,1561002382,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1561002382,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=2566006935&perks=4090651448,1561002382,691659142,4082225868
+dimwishlist:item=2566006935&perks=1392496348,1968497646,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=2566006935&perks=4090651448,1968497646,691659142,4082225868
+dimwishlist:item=2566006935&perks=1392496348,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=2566006935&perks=4090651448,3230963543,691659142,4082225868
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Threat Detector, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Void subclasses and end-game content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. As you're likely to be in CQC, Threat Detector should be proccing to provide extra gunfeel stats. In the second trait column, Golden Tricorn is the pick of the additional damage bunch with 15% bonus damage for one stack or 50% for two, which should be easy to proc with the strength of void abilities. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB|tags:1015611457 4082225868
+dimwishlist:item=2566006935&perks=1392496348,1561002382,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1561002382,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1561002382,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1392496348,1968497646,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1968497646,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1968497646,4071163871,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1968497646,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1392496348,1885400500,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1840239774,1885400500,4071163871,2610012052
+dimwishlist:item=2566006935&perks=4090651448,1885400500,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1392496348,3230963543,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1482024992,3230963543,4071163871,2610012052
+dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,2610012052
+dimwishlist:item=2566006935&perks=4090651448,3230963543,4071163871,2610012052
+
+// Fioritura-59 (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Threat Detector, Repulsor Brace
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Void subclasses and general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. As you're likely to be in CQC, Threat Detector should be proccing to provide extra gunfeel stats. In the second trait column for void subclasses, Repulsor Brace's void overshield can be useful to tank damage in a mob. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB|tags:1015611457 4082225868 2610012052
+dimwishlist:item=2566006935&perks=1392496348,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=4090651448,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=1392496348,1968497646,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,1968497646,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,1968497646,4071163871,776531651
+dimwishlist:item=2566006935&perks=4090651448,1968497646,4071163871,776531651
+dimwishlist:item=2566006935&perks=1392496348,1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=4090651448,1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=1392496348,3230963543,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,3230963543,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,776531651
+dimwishlist:item=2566006935&perks=4090651448,3230963543,4071163871,776531651
+
+// Fioritura-59 (PvE backup roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), Threat Detector, (swashbuckler, Kill Clip)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. Backup PvE roll for general content. Decent stats by comparison with its peers but, at the end of the day, this is still a sidearm looking for an in-game role. Spec into stability with your barrel, and High-Cal Rounds for extra flinch, or Armor-Piercing Rounds (you're likely to be in a crowd in CQC, so APR can be useful to damage more than one enemy at a time), or Ricochet Rounds or Flared Magwell will add additional stability to help control the recoil. As you're likely to be in CQC, Threat Detector should be proccing to provide extra gunfeel stats. In the second trait column, Swashbuckler or Kill Clip are reliable sources of extra damage to keep kill streaks going. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2566006935&perks=1392496348,1561002382,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1482024992,1561002382,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,1015611457
+dimwishlist:item=2566006935&perks=4090651448,1561002382,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1392496348,1968497646,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1482024992,1968497646,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1840239774,1968497646,4071163871,1015611457
+dimwishlist:item=2566006935&perks=4090651448,1968497646,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1392496348,1885400500,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1840239774,1885400500,4071163871,1015611457
+dimwishlist:item=2566006935&perks=4090651448,1885400500,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1392496348,3230963543,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1482024992,3230963543,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,1015611457
+dimwishlist:item=2566006935&perks=4090651448,3230963543,4071163871,1015611457
+dimwishlist:item=2566006935&perks=1392496348,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=4090651448,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1392496348,1968497646,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1968497646,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1968497646,4071163871,4082225868
+dimwishlist:item=2566006935&perks=4090651448,1968497646,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1392496348,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=4090651448,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1392496348,3230963543,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,3230963543,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,4082225868
+dimwishlist:item=2566006935&perks=4090651448,3230963543,4071163871,4082225868
+
+// Jararaca-3sr (PvE first-choice roll)
+// Arrowhead Brake, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), (Rapid Hit, Perpetual Motion), Headstone
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis subclasses in end-game content. Even nerfed, the Veist Stinger origin trait will still be useful occasionally. Jararaca has poor stats, unfortunately, by comparison with other rapid-fire and Veist rapid-fire scout rifles, but it does offer Stasis synergy. You'll need Arrowhead Brake to sort out the recoil direction. Any of the combat effect rounds will help - if you keep firing until the end of the magazine, the frame perk will help reloads, so you can live without a reload speed-boosting magazine perk, especially with Rapid Hit or Perpetual Motion in the first trait column. Finally, for Stasis synergy, in the second trait column Headstone's crystals work with your aspects and fragments. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=1851521408&perks=839105230,1561002382,247725512,124408337
+dimwishlist:item=1851521408&perks=839105230,1885400500,247725512,124408337
+dimwishlist:item=1851521408&perks=839105230,1968497646,247725512,124408337
+dimwishlist:item=1851521408&perks=839105230,1561002382,1428297954,124408337
+dimwishlist:item=1851521408&perks=839105230,1885400500,1428297954,124408337
+dimwishlist:item=1851521408&perks=839105230,1968497646,1428297954,124408337
+
+// Jararaca-3sr (PvE first-choice roll)
+// Arrowhead Brake, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), Fourth Time's the Charm, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for end-game content. Even nerfed, the Veist Stinger origin trait will still be useful occasionally. Jararaca has poor stats, unfortunately, by comparison with other rapid-fire and Veist rapid-fire scout rifles, but it does offer Stasis synergy. You'll need Arrowhead Brake to sort out the recoil direction. Any of the combat effect rounds will help - if you keep firing until the end of the magazine, the frame perk will help with reloads. A combination of Fourth Time's the Charm to extend the mag together with Focused Fury, to add 20% bonus damage for hitting nine crits (assuming a mag size of 17) until you reload again should serve you well in end-game activities. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=1851521408&perks=839105230,1561002382,1354429876,2896038713
+dimwishlist:item=1851521408&perks=839105230,1885400500,1354429876,2896038713
+dimwishlist:item=1851521408&perks=839105230,1968497646,1354429876,2896038713
+
+// Lodbrok-C (PvE first-choice roll)
+// Smallbore, (Extended Mag, Appended Mag), Fourth Time's The Charm, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for end-game content. Pretty decent, in-bands stats, so Smallbore offers a little extra range and stability, both of which are useful boosts. To take full advantage of Target Lock, to burst down beefier minors, look for as large a magazine as you can and combine with Fourth Time's the Charm. This could be a little niche, but this roll with Lodbrok could be a useful tool to have in your loadout if you're facing constructs and vehicles, with the Hakke Breach Armaments' 15% damage boost on top of Target Lock. Recommended MW: Stability or Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1354429876,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,1354429876,365154968
+
+// Lodbrok-C (PvE first-choice roll)
+// Smallbore, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), Osmosis, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for end-game content. Pretty decent, in-bands stats, so Smallbore offers a little extra range and stability, both of which are useful boosts. Any of the combat effect magazines can help you - High-Caliber Rounds, Armor-Piercing or Ricochet Rounds - so that's down to your preference. Even though match game is less of an issue from Season 20, you can take advantage of any ability verbs from the grenade you throw - so, for example, a void grenade can proc Volatile Rounds which your now void energy Lodbrok will apply. Unfortunately Demolitionist rolls in the same trait column, but Adrenaline Junkie will trigger on a grenade kill for 33% boost to damage on top in the second column instead. Recommended MW: Stability or Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2328531378&perks=1482024992,1561002382,1774574192,11612903
+dimwishlist:item=2328531378&perks=1482024992,1968497646,1774574192,11612903
+dimwishlist:item=2328531378&perks=1482024992,1885400500,1774574192,11612903
+
+// Lodbrok-C (PvE first-choice roll)
+// Smallbore, (High-Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 51 with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for end-game content. Pretty decent, in-bands stats, so Smallbore offers a little extra range and stability, both of which are useful boosts. Any of the combat effect magazines can help you - High-Caliber Rounds, Armor-Piercing or Ricochet Rounds - so that's down to your preference. Demolitionist with Adrenaline Junkie is a natural pairing - get the grenade kill to proc 33% extra damage and then clean up to regenerate your grenade energy to keep the loop going. Recommended MW: Stability or Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2328531378&perks=1482024992,1561002382,3523296417,11612903
+dimwishlist:item=2328531378&perks=1482024992,1968497646,3523296417,11612903
+dimwishlist:item=2328531378&perks=1482024992,1885400500,3523296417,11612903
