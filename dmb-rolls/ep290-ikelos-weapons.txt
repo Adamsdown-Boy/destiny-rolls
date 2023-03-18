@@ -1,0 +1,83 @@
+@title:IKELOS Weapons
+@description:Season 19's (Season of the Seraph) reprised IKELOS weapons with the Rasputin's Arsenal origin trait
+
+// IKELOS_HC_v1.0.3 (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Accurized Rounds, Subsistence, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for kill-chaining. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Precision hand cannons have an uncompetitive, if easy to achieve TTK of 1.0s with 2 crits and 2 bodies. Pretty poor stats across the board - even maxing range will not make this play well, but if you're going to use it, that's the play with your barrel, mag and masterwork. If you are able to resist reloading though, with the high fire rate and aim assistance, you could use Focused Fury as your second trait column perk - five crits reduces your TTK to 0.67s (3c) - pair that with Subsistence in the first trait column, and you should be able to keep three tapping for the whole 11s. Otherwise, Frenzy or one stack of Golden Tricorn will do the same, but are a little more difficult use - Frenzy is easy to lose the buff if you go in to cover to recover, and Golden Tricorn x1 lasts for 7s. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, M+KB, Controller
+dimwishlist:item=1731355324&perks=3250034553,3142289711,1820235745,2896038713
+dimwishlist:item=1731355324&perks=1482024992,3142289711,1820235745,2896038713
+dimwishlist:item=1731355324&perks=3250034553,3142289711,1820235745,2896038713
+dimwishlist:item=1731355324&perks=1482024992,3142289711,1820235745,2896038713
+dimwishlist:item=1731355324&perks=3250034553,3142289711,1820235745,2896038713
+dimwishlist:item=1731355324&perks=1482024992,3142289711,1820235745,2896038713
+
+// IKELOS_HC_v1.0.3 (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Extended Mag, Air Assault, (Golden Tricorn, Frenzy, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for in-air duelling. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Precision hand cannons have an uncompetitive, if easy to achieve TTK of 1.0s with 2 crits and 2 bodies. Pretty poor stats across the board - even maxing range will not make this play well, but if you're going to use it, that's the play with your barrel and masterwork. You can make this a contender for aerial use with Extended Mag and Air Assault, and proccing Golden Tricorn, Frenzy or Focused Fury, will reduce the TTK to 0.67 (3c). Recommended MW: Range, with an Icarus Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
+dimwishlist:item=1731355324&perks=3250034553,2420895100,3722653512,2610012052
+dimwishlist:item=1731355324&perks=1482024992,2420895100,3722653512,2610012052
+dimwishlist:item=1731355324&perks=3250034553,2420895100,3722653512,4104185692
+dimwishlist:item=1731355324&perks=1482024992,2420895100,3722653512,4104185692
+dimwishlist:item=1731355324&perks=3250034553,2420895100,3722653512,2896038713
+dimwishlist:item=1731355324&perks=1482024992,2420895100,3722653512,2896038713
+
+// IKELOS_HC_v1.0.3 (PvP first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Extended Mag, Air Assault, Repulsor Brace
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for Hunter Gyrfalcon in-air duelling. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Precision hand cannons have an uncompetitive, if easy to achieve TTK of 1.0s with 2 crits and 2 bodies. Pretty poor stats across the board - even maxing range will not make this play well, but if you're going to use it, that's the play with your barrel and masterwork. You can make this a contender for aerial use with Extended Mag and Air Assault and, for Gyrfalcon users, you can get yourself a void overshield after every kill by using Repulsor Brace. Recommended MW: Range, with an Icarus Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
+dimwishlist:item=1731355324&perks=3250034553,2420895100,3722653512,776531651
+dimwishlist:item=1731355324&perks=1482024992,2420895100,3722653512,776531651
+
+// IKELOS_SG_v1.0.3 (PvP first-choice roll)
+// (Smooth Bore, Corkscrew Rifling), Accurized Rounds, (Pugilist, Grave Robber, Subsistence), Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for kill-chaining. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Rapid-fire shotguns suffer from having the same two shots as other shotguns, but a worse effective range, limiting their utility. Decent stats which means you can improve the range by 1.2m with the right perks - Smoothbore is the barrel of choice as at v6.3.0.5, with the pellet spread changes, but Corkscrew Rifling is a decent alternative, with Accurized Rounds in the mag and a range masterwork. Use this with a melee build, and Pugilist (returning 20% melee energy on a kill) with Swashbuckler (which extends the useful range when procced) is a natural pairing, but Grave Robber or Subsistence can also work well, depending on whether you're finishing or leading with your melee. Recommended MW: Range, with an Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, M+KB, Controller
+dimwishlist:item=1168625549&perks=66087222,3142289711,691659142,4082225868
+dimwishlist:item=1168625549&perks=4090651448,3142289711,691659142,4082225868
+dimwishlist:item=1168625549&perks=66087222,3142289711,1631667848,4082225868
+dimwishlist:item=1168625549&perks=4090651448,3142289711,1631667848,4082225868
+dimwishlist:item=1168625549&perks=66087222,3142289711,1820235745,4082225868
+dimwishlist:item=1168625549&perks=4090651448,3142289711,1820235745,4082225868
+dimwishlist:item=1168625549&perks=66087222,3142289711,2416023159,4082225868
+dimwishlist:item=1168625549&perks=4090651448,3142289711,2416023159,4082225868
+
+// IKELOS_SG_v1.0.3 (PvP first-choice roll)
+// (Smooth Bore, Corkscrew Rifling), Accurized Rounds, Offhand Strike, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for kill-chaining. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Rapid-fire shotguns suffer from having the same two shots as other shotguns, but a worse effective range, limiting their utility. Decent stats which means you can improve the range by 1.2m with the right perks - Smoothbore is the barrel of choice as at v6.3.0.5, with the pellet spread changes, but Corkscrew Rifling is a decent alternative, with Accurized Rounds in the mag and a range masterwork. If you fire from the hip - there's no reason not to as your range isn't any better than when ADSed, Offhand Strike and Swashbuckler can dramatically increase your effective range after a kill. Recommended MW: Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, M+KB, Controller
+dimwishlist:item=1168625549&perks=66087222,3142289711,2416023159,4082225868
+dimwishlist:item=1168625549&perks=4090651448,3142289711,2416023159,4082225868
+
+// IKELOS_SG_v1.0.3 (PvP first-choice roll)
+// (Smooth Bore, Corkscrew Rifling), Accurized Rounds, Threat Detector, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for kill-chaining. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Rapid-fire shotguns suffer from having the same two shots as other shotguns, but a worse effective range, limiting their utility. Decent stats which means you can improve the range by 1.2m with the right perks - Smoothbore is the barrel of choice as at v6.3.0.5, with the pellet spread changes, but Corkscrew Rifling is a decent alternative, with Accurized Rounds in the mag and a range masterwork. With a shotgun, you'll always be in CQC when you're using it, so Threat Det4ector's gunfeel boosts will be in play, and Swashbuckler will increase your effective range after a kill. Recommended MW: Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-KillChain, PvP-God, M+KB, Controller
+dimwishlist:item=1168625549&perks=66087222,3142289711,4071163871,4082225868
+dimwishlist:item=1168625549&perks=4090651448,3142289711,4071163871,4082225868
+
+// IKELOS_SR_v1.0.3 (PvP first-choice roll)
+// Full Bore, Accurized Rounds, Fragile Focus, Elemental Capacitor
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for duelling with an Arc subclass. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Rapid-fire sniper rifles are in a difficult place for PvP - they don't do enough body shot damage for blinting and they won't always OHK a super. This has decent stats, but to be usable you'll need extra range - Full Bore, Accurized Rounds and a range masterwork together with Fragile Focus can get your range to 85 for a stickier reticule at range, and then Elemental Capacitor with an arc subclass brings Handling to 100 for snappiness. Recommended MW: Range, with a Targeting Adjuster or Quick Access Sling mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
+dimwishlist:item=2302346155&perks=202670084,3142289711,2451262963,3511092054
+
+// IKELOS_SR_v1.0.3 (PvP first-choice roll)
+// Fluted Barrel, Accurized Rounds, (Surplus, Perpetual Motion, Moving Target, No Distractions), Box Breathing
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for duelling with an Arc subclass. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. Rapid-fire sniper rifles are in a difficult place for PvP - they don't do enough body shot damage for blinting and they won't always OHK a super. This has decent stats, but like all sniper rifles you'll want a combination of range and handling. Fluted Barrel, Accurized Rounds and a range masterwork are a good base. The in your traits, Surplus can get your handling to 100 with three stacks, Perpetual Motion gets it to 97 with two stacks, Moving Target improves your Aim Assistance or, if you're planning to lock down a lane, No Distractions reduces your flinch and then Box Breathing boosts your range (and crit damage, which improves effective range) for the cost of 1.5s of ADS. Recommended MW: Range, with a Targeting Adjuster or Quick Access Sling mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
+dimwishlist:item=2302346155&perks=1840239774,3142289711,3436462433,2551157718
+dimwishlist:item=2302346155&perks=1840239774,3142289711,1428297954,2551157718
+dimwishlist:item=2302346155&perks=1840239774,3142289711,588594999,2551157718
+dimwishlist:item=2302346155&perks=1840239774,3142289711,2866798147,2551157718
+
+// IKELOS_SMG_v1.0.3 (PvP first-choice roll)
+// Full Bore, (Accurized Rounds, Seraph Rounds), Dynamic Sway Reducation, Rangefinder
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for duelling with an Arc subclass. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. One of the most competitive SMGs in PvP as at v6.3.0.5 - great stats across the board, although the Zoom is one point less than most at 14. For M+KB users, just push out the range as far as it will go with Full Bore and Accurized Rounds, although Seraph Rounds are also S-Tier, combining Armor-Piercing, High-Caliber and Ricochet Rounds with a boost to range and stability. For duelling Dynamic Sway Reduction provides a host of accuracy boosts while Rangefinder makes up to the 1 point of zoom. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB
+dimwishlist:item=2149683300&perks=202670084,3142289711,1359896290,2846385770
+dimwishlist:item=2149683300&perks=202670084,1140096971,1359896290,2846385770
+
+// IKELOS_SMG_v1.0.3 (PvP first-choice roll)
+// Full Bore, (Accurized Rounds, Seraph Rounds), Killing Wind, Rangefinder
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for kill-chaining with an Arc subclass. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. One of the most competitive SMGs in PvP as at v6.3.0.5 - great stats across the board, although the Zoom is one point less than most at 14. For M+KB users, just push out the range as far as it will go with Full Bore and Accurized Rounds, although Seraph Rounds are also S-Tier, combining Armor-Piercing, High-Caliber and Ricochet Rounds with a boost to range and stability. For kill-chaining, Killing Wind provides movement, range and handling boosts after a kill, while Rangefinder makes up to the 1 point of zoom. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB
+dimwishlist:item=2149683300&perks=202670084,3142289711,2450788523,2846385770
+dimwishlist:item=2149683300&perks=202670084,1140096971,2450788523,2846385770
+
+// IKELOS_SMG_v1.0.3 (PvP first-choice roll)
+// Hammer-Forged Rifling, (Accurized Rounds, Seraph Rounds), Dynamic Sway Reducation, Rangefinder
+//notes:Inspired by @DestinyMBP Podcast 290 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/6zujbQ3jq1QXNWXAljFS2U?si=5d5e2e8d00974c49). . First-choice PvP pick for kill-chaining with an Arc subclass. Shapeable. The Rasputin's Arsenal origin trait is more useful with a kill-chaining than a duelling roll, but topping up your magazine after a shield break is always useful. One of the most competitive SMGs in PvP as at v6.3.0.5 - great stats across the board, although the Zoom is one point less than most at 14. For M+KB users, just push out the range with Hammer-Forged Rifling and Accurized Rounds, although Seraph Rounds are also S-Tier, combining Armor-Piercing, High-Caliber and Ricochet Rounds with a boost to range and stability. For duelling Dynamic Sway Reduction provides a host of accuracy boosts while Rangefinder makes up to the 1 point of zoom. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
+dimwishlist:item=2149683300&perks=3250034553,3142289711,1359896290,2846385770
+dimwishlist:item=2149683300&perks=3250034553,1140096971,1359896290,2846385770
