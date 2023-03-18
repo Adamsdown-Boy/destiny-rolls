@@ -1,7 +1,7 @@
 // Stay Frosty
 // Barrel and mag options
 //Arrowhead Brake, (High Caliber Rounds, Flared Magwell)
-Arrowhead Brake takes the Recoil Direction to a controllable 85 and, with the high rate of fire, High-Caliber Rounds can put out some significant flinch as well as adding some range or, to pair with traits that require a reload to proc, Flared Magwell give the biggest boost to reload speed.
+// Arrowhead Brake takes the Recoil Direction to a controllable 85 and, with the high rate of fire, High-Caliber Rounds can put out some significant flinch as well as adding some range or, to pair with traits that require a reload to proc, Flared Magwell give the biggest boost to reload speed.
 
 // Trait options
 // (Tunnel Vision, Killing Wind, Encore), Desperado
