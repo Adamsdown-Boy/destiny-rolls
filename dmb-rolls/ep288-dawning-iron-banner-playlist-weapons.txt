@@ -35,7 +35,7 @@
 // One stack of Rampage will reduce your TTK to 0.67s and make it easier to hit (6c 3b), while either Tap the Trigger or Perpetual Motion will help control your recoil to hit your crits and also, for Perpetual Motion, add handling and reload speed. Recommended MW: Range, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
 
 
-//// Glacioclasm
+// Glacioclasm
 // Aggressive Frame with the highest range and zoom, but the lowest aim assist and, with no Rangefinder, this can still be outranged by a Precision Frame with the perk. Unfortunately, you probably won't get much value out of either Origin trait unless you can pick up extra ammo in combat. You'll need to practice pre-charging as this is very slow firing - the TTK is 1.09s with four bolts - a rapid fire can get two shots off in the same time, and most primaries will kill you if you're charging out in the open. 
 
 // Barrel and mag options
@@ -85,7 +85,7 @@
 
 
 // Gunnora's Axe
-Pretty decent stats for a slug shotgun except Aim Assistance, where it's pretty much similar to its peers in the energy slot - Bonechiller being the standout (and Heritage, obviously, in the kinetic slot). The Iron Banner origin trait can be very useful to keep you alive, post-gunfight if you're using this as a holdout weapon. 
+// Pretty decent stats for a slug shotgun except Aim Assistance, where it's pretty much similar to its peers in the energy slot - Bonechiller being the standout (and Heritage, obviously, in the kinetic slot). The Iron Banner origin trait can be very useful to keep you alive, post-gunfight if you're using this as a holdout weapon. 
 
 // Build options
 // Fluted Barrel, Accurized Rounds, Moving Target, Opening Shot
