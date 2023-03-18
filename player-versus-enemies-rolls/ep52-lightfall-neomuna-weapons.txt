@@ -1,0 +1,202 @@
+@title:Season 20 Neomuna weapons
+@description:Lightfall weapons with the Nanotech Tracer Rockets origin trait
+
+// Round Robin (PvE first-choice roll)
+// Fluted Barrel, (Armor-Piercing Rounds, High-Caliber ROunds, Ricochet Rounds), (Stay Away, Subsistence), Hatchling
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand synergy in general content. Shapeable. Our first Strand Hand Cannon. Middling stats by comparison with other Aggressive Frames - prioritise handling and stability with your barrel and mag to improve gunfeel. You should be engaging enemies at a decent range so Keep Away boosts range, accuracy and reload speed, or Subsistence will keep your mag topped up. In the second trait column Hatchling spawns a Threadling on crit kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2034215657&perks=1840239774,1968497646,3619207468,831391274
+dimwishlist:item=2034215657&perks=1840239774,1561002382,3619207468,831391274
+dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,831391274
+dimwishlist:item=2034215657&perks=1840239774,1968497646,1820235745,831391274
+dimwishlist:item=2034215657&perks=1840239774,1561002382,1820235745,831391274
+dimwishlist:item=2034215657&perks=1840239774,1885400500,1820235745,831391274
+
+// Synchronic Roulette (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Envious Assassin, Hatchling
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand synergy in general content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column - Envious Assassin is much better on a Special or Power weapon, but it's worth it for the occasional overfilled mag. In the second trait column Hatchling spawns a Threadling on rapid kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=811403305&perks=1840239774,1561002382,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,1561002382,968510818,831391274
+dimwishlist:item=811403305&perks=1840239774,1968497646,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,1968497646,968510818,831391274
+dimwishlist:item=811403305&perks=1840239774,1885400500,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,1885400500,968510818,831391274
+dimwishlist:item=811403305&perks=1840239774,3230963543,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,3230963543,968510818,831391274
+
+// Synchronic Roulette (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Pulse Monitor, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for end-game content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column but Pulse Monitor could be useful if you're out of cover to use Target Lock and are taking damage, to reload you magazine to keep your damage output up, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=811403305&perks=1840239774,1561002382,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,1561002382,972757866,365154968
+dimwishlist:item=811403305&perks=1840239774,1968497646,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,1968497646,972757866,365154968
+dimwishlist:item=811403305&perks=1840239774,1885400500,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,1885400500,972757866,365154968
+dimwishlist:item=811403305&perks=1840239774,3230963543,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,3230963543,972757866,365154968
+
+// Phyllotactic Spiral (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Flared Magwell, Light Mag), Compulsive Reloader, Voltshot
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for general content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (but you can never go wrong with additional handling and stability). With one eye to Voltshot in the final column, you want reload speed as high as possible so Flared Magwell or Light Mag, and Compulsive Reloader or Keep Away with a Reload Speed Masterwork should get Voltshot procced and ready to use as quickly as possible after a kill. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3635821806&perks=1840239774,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=839105230,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=4090651448,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=1482024992,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=1840239774,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=839105230,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=4090651448,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=1482024992,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=1840239774,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=839105230,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=4090651448,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=1482024992,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=1840239774,679225683,3619207468,2173046394
+dimwishlist:item=3635821806&perks=839105230,679225683,3619207468,2173046394
+dimwishlist:item=3635821806&perks=4090651448,679225683,3619207468,2173046394
+dimwishlist:item=3635821806&perks=1482024992,679225683,3619207468,2173046394
+
+// Phyllotactic Spiral (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Keep Away, Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for end-game content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (but you can never go wrong with additional handling and stability). Any of the combat effect rounds add utility in the mag and then for end-game activities you'll likely be staying as far away from all the hurty stuff as possible, so should be proccing Keep Away and then Frenzy provides gunfeel and a solid 15% damage boosts. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3635821806&perks=1840239774,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=839105230,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=4090651448,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1482024992,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1840239774,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=839105230,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=4090651448,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1482024992,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1840239774,1885400500,3619207468,4104185692
+dimwishlist:item=3635821806&perks=839105230,1885400500,3619207468,4104185692
+dimwishlist:item=3635821806&perks=4090651448,1885400500,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1482024992,1885400500,3619207468,4104185692
+
+// Basso Ostinato (PvE first-choice roll)
+// (Barrel Shround, Corkscrew Rifling, Smallbore), Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for void synergy. We've seen rapid-fire shotguns a lot - maybe not the play for end-game activities where you're probably in trouble if you're close enough to use it, but useful for bursting down a major or champion once stunned. The ranges on shotguns are compressed, to look for a handling or stability barrel, and Tactical Mag is easily the best of the mag perks. Envious Assassin should provide an easy route to an overfilled magazine but as alternatives, Lead from Gold and Perpetual Motion are decent too. In the last column, Destabilizing Rounds spreads volatility to surrounding adds on a kill to synergise with Void subclass verbs. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2573900604&perks=4090651448,106909392,1556840489,2048641572
+dimwishlist:item=2573900604&perks=1300023272,106909392,1556840489,2048641572
+dimwishlist:item=2573900604&perks=1482024992,106909392,1556840489,2048641572
+dimwishlist:item=2573900604&perks=4090651448,106909392,968510818,2048641572
+dimwishlist:item=2573900604&perks=1300023272,106909392,968510818,2048641572
+dimwishlist:item=2573900604&perks=1482024992,106909392,968510818,2048641572
+dimwishlist:item=2573900604&perks=4090651448,106909392,1428297954,2048641572
+dimwishlist:item=2573900604&perks=1300023272,106909392,1428297954,2048641572
+dimwishlist:item=2573900604&perks=1482024992,106909392,1428297954,2048641572
+
+// Basso Ostinato (PvE first-choice roll)
+// (Barrel Shround, Corkscrew Rifling, Smallbore), Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), Trench Barrel
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for burst damage. We've seen rapid-fire shotguns a lot - you'll need to be careful to to be in a vulnerable position when using one, but they're useful for bursting down a major or champion once stunned. The ranges on shotguns are compressed, to look for a handling or stability barrel, and Tactical Mag is easily the best of the mag perks. Envious Assassin should provide an easy route to an overfilled magazine but as alternatives, Lead from Gold and Perpetual Motion are decent too. In the last column, Trench Barrel is reliable for fast burst damage in CQC and works well on a rapid-fire frame. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE although you'll probably not be seeing them often on a Boss-damaging weapon. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2573900604&perks=4090651448,106909392,1556840489,2360754333
+dimwishlist:item=2573900604&perks=1300023272,106909392,1556840489,2360754333
+dimwishlist:item=2573900604&perks=1482024992,106909392,1556840489,2360754333
+dimwishlist:item=2573900604&perks=4090651448,106909392,968510818,2360754333
+dimwishlist:item=2573900604&perks=1300023272,106909392,968510818,2360754333
+dimwishlist:item=2573900604&perks=1482024992,106909392,968510818,2360754333
+dimwishlist:item=2573900604&perks=4090651448,106909392,1428297954,2360754333
+dimwishlist:item=2573900604&perks=1300023272,106909392,1428297954,2360754333
+dimwishlist:item=2573900604&perks=1482024992,106909392,1428297954,2360754333
+
+// Basso Ostinato (PvE first-choice roll)
+// Full Choke, Tactical Mag, Grave Robber, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Lethal Current/Liar's Handshake Hunters and burst damage. We've seen rapid-fire shotguns a lot - you'll need to be careful to to be in a vulnerable position when using one, but they're useful for bursting down a major or champion once stunned. With one eye on One-Two Punch in the second trait column, Full Choke gives you the best chance of hitting your target with every pellet, and Tactical Mag is easily the best of the mag perks. You should be getting melee kills as you're rolling around and punching so Grave Robber should keep your mag filled, and One-Two Punch adds additional multiplicative melee damage (even if it's been nerfed somewhat). On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE although you'll probably not be seeing them often on a Boss-damaging weapon. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2573900604&perks=1047830412,106909392,1631667848,2679249093
+
+// Basso Ostinato (PvE first-choice roll)
+// Full Choke, Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for burst damage. We've seen rapid-fire shotguns a lot - you'll need to be careful to to be in a vulnerable position when using one, but they're useful for bursting down a major or champion once stunned. With one eye on One-Two Punch in the second trait column, Full Choke gives you the best chance of hitting your target with every pellet, and Tactical Mag is easily the best of the mag perks. Envious Assassin should provide an easy route to an overfilled magazine but as alternatives, Lead from Gold and Perpetual Motion are decent too, and One-Two Punch adds additional multiplicative melee damage (even if it's been nerfed somewhat) to burst down a boss. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE although you'll probably not be seeing them often on a Boss-damaging weapon. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2573900604&perks=1047830412,106909392,1556840489,2679249093
+dimwishlist:item=2573900604&perks=1047830412,106909392,968510818,2679249093
+dimwishlist:item=2573900604&perks=1047830412,106909392,1428297954,2679249093
+
+// Iterative Loop (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Polygonal Rifling), (Particle Repeater, Accelerated Coils), Compulsive Reloader, Voltshot
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Arc synergy and burst damage. Seeing as fusion rifles apply the highest Jolt tick damage of any special weapon, it would be rude not to pick or shape a roll. Rapid fire fusions need a fair bit of control with nine bolts being fired, so Arrowhead Break takes the recoil direction to 77, or up the stability through Fluted Barrel or Polygonal Rifling. In the battery, there's nothing to help speed up reloading, so Particle Repeater adds more stability, or Accelerated Coils speeds up charge time. Compulsive Reloader and a Reload Speed Masterwork boosts reload to 100 at the top half of the mag, so your reloads after a kill to proc Voltshot should be as snappy as it's possible to get. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with rapid kills - really fun for PvE. Recommended MW: Reload Speed or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1289796511&perks=839105230,3868766766,671806388,2173046394
+dimwishlist:item=1289796511&perks=1840239774,3868766766,671806388,2173046394
+dimwishlist:item=1289796511&perks=1392496348,3868766766,671806388,2173046394
+dimwishlist:item=1289796511&perks=839105230,689005463,671806388,2173046394
+dimwishlist:item=1289796511&perks=1840239774,689005463,671806388,2173046394
+dimwishlist:item=1289796511&perks=1392496348,689005463,671806388,2173046394
+
+// Volta Bracket (PvE first-choice roll)
+// Fluted Barrel, Extended Mag, Envious Assassin, (Explosive Payload, Firing Line)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column, Explosive Payload adds a flat 15% bonus damage or, in a fireteam, Firing Line adds 20% crit damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,3038247973
+dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,1771339417
+
+// Volta Bracket (PvE backup roll)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. Backup PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. While you're waiting to shape one, Fluted Barrel makes it snappier, and Appended Mag adds an extra shot. If you're not proccing Keep Away to boost reload speed, accuracy, and range while using a sniper rifle, then you really do need a word with yourself. In the second trait column, Explosive Payload adds a flat 15% bonus damage or, in a fireteam, Firing Line adds 20% crit damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, Controller, M+KB
+dimwishlist:item=3920310144&perks=1840239774,1087426260,3619207468,3038247973
+dimwishlist:item=3920310144&perks=1840239774,1087426260,3619207468,1771339417
+
+// Volta Bracket (PvE first-choice roll)
+// Fluted Barrel, Extended Mag, Envious Assassin, Cascade Point
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column on mouse and keyboard where stability isn't so much of an issue, so Cascade Point can use the kills that boosted your mag to dump them into a target in short order into a target for speedy burst damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, M+KB
+dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,3751912585
+
+// Dimensional Hypotrochoid (PvE first-choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Envious Assassin, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. There's an abundance of options for PvE in the first trait column, but the best option is Envious Assassin, passively overflowing the magazine as you get primary and special weapon kills, and then in the second, as this is primarily for add clear, Chain Reaction turns every kill into a stasis explosion, extending the damage radius and adding chunk damage against beefier enemies nearby. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1311684613&perks=981914802,2822142346,968510818,2396489472
+dimwishlist:item=1311684613&perks=3525010810,2822142346,968510818,2396489472
+dimwishlist:item=1311684613&perks=3798852852,2822142346,968510818,2396489472
+dimwishlist:item=1311684613&perks=1441682018,2822142346,968510818,2396489472
+
+// Dimensional Hypotrochoid (PvE backup roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, (Field Prep, Unrelenting, Threat Detector), Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. Backup PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. There's an abundance of options for PvE in the first trait column - Field Prep for extra reserves and reload speed, Unrelenting for health regeneration or Threat Detector for extra reload speed in CQC. Then in the second, as this is primarily for add clear, Chain Reaction turns every kill into a stasis explosion, extending the damage radius and adding chunk damage against beefier enemies nearby. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, M+KB
+dimwishlist:item=1311684613&perks=981914802,2822142346,2869569095,2396489472
+dimwishlist:item=1311684613&perks=3525010810,2822142346,2869569095,2396489472
+dimwishlist:item=1311684613&perks=3798852852,2822142346,2869569095,2396489472
+dimwishlist:item=1311684613&perks=1441682018,2822142346,2869569095,2396489472
+dimwishlist:item=1311684613&perks=981914802,2822142346,3108830275,2396489472
+dimwishlist:item=1311684613&perks=3525010810,2822142346,3108830275,2396489472
+dimwishlist:item=1311684613&perks=3798852852,2822142346,3108830275,2396489472
+dimwishlist:item=1311684613&perks=1441682018,2822142346,3108830275,2396489472
+dimwishlist:item=1311684613&perks=981914802,2822142346,4071163871,2396489472
+dimwishlist:item=1311684613&perks=3525010810,2822142346,4071163871,2396489472
+dimwishlist:item=1311684613&perks=3798852852,2822142346,4071163871,2396489472
+dimwishlist:item=1311684613&perks=1441682018,2822142346,4071163871,2396489472
+
+// Dimensional Hypotrochoid (PvE backup roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Stats for All, One for All
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. Backup PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. While you're add clearing, you're always likely to be clearing out multiple minors, so a SOFA (Stats/One For All) will layer on tonnes of gunfeel stat bosts and 35% bonus damage to help with beefier minors and the occasional major enemies. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, Controller, M+KB
+dimwishlist:item=1311684613&perks=981914802,2822142346,1583705720,4049631843
+dimwishlist:item=1311684613&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=1311684613&perks=3798852852,2822142346,1583705720,4049631843
+dimwishlist:item=1311684613&perks=1441682018,2822142346,1583705720,4049631843
+
+// Circular Logic (PvE backup roll)
+// Chambered Compensator, (Extended Mag, Appended Mag), Envious Assassin, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained damage against bosses in end-game activities. The first Strand flavoured LMG as at v7.0.0.3 but unfortunately stats are low by comparison with other adaptive frames - but there's still a choice of very usable rolls. Chambered Compensator takes the recoil direction to a controllable 90 and adds some extra stability. For sustained damage in boss DPS phases, you're looking for a combination of Extended or Appended Mag, together with Envious Assassin to then overfill the magazine with primary and special weapon kills as you lead up to the damage phase, and Target Lock to rack up to 40% additional damage against a single target. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Stability/Handling, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2187717691&perks=3661387068,2420895100,968510818,365154968
+dimwishlist:item=2187717691&perks=3661387068,1087426260,968510818,365154968
+
+// Circular Logic (PvE first-choice roll)
+// Chambered Compensator, (Armor-Piercing Rounds, High-Calibre Rounds), (Feeding Frenzy, Keep Away, Pulse Monitor, Envious Assassin), (Hatchling, Golden Tricorn)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for add clear in end-game activities. The first Strand flavoured LMG as at v7.0.0.3 but unfortunately stats are low by comparison with other adaptive frames - but there's still a choice of very usable rolls. Chambered Compensator takes the recoil direction to a controllable 90 and adds some extra stability. If you're using this for add clear, any one of the combat effect rounds (High-Caliber, Armor-Piercing or Ricochet Rounds) will work in the mag, then a reload park like Feeding Frenzy, maybe Keep Away if you're not up to your neck in CQC adds, Pulse Monitor to refill the magazine when your shield's broken, or Envious Assassin to over fill the magazine before you start, should work nicely. In the second trait column, Hatchling should add additional damage through Threadline creation, or the first stack of Golden Tricorn will be a reliable 15% damage boost - you might have a little more work to do getting Strand ability kills but when you do, 50% bonus damage for 10s should rip through even the beefiest minors and occasional major. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Stability/Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2187717691&perks=3661387068,1968497646,2779035018,831391274
+dimwishlist:item=2187717691&perks=3661387068,1561002382,2779035018,831391274
+dimwishlist:item=2187717691&perks=3661387068,1885400500,2779035018,831391274
+dimwishlist:item=2187717691&perks=3661387068,1968497646,3619207468,831391274
+dimwishlist:item=2187717691&perks=3661387068,1561002382,3619207468,831391274
+dimwishlist:item=2187717691&perks=3661387068,1885400500,3619207468,831391274
+dimwishlist:item=2187717691&perks=3661387068,1968497646,972757866,831391274
+dimwishlist:item=2187717691&perks=3661387068,1561002382,972757866,831391274
+dimwishlist:item=2187717691&perks=3661387068,1885400500,972757866,831391274
+dimwishlist:item=2187717691&perks=3661387068,1968497646,968510818,831391274
+dimwishlist:item=2187717691&perks=3661387068,1561002382,968510818,831391274
+dimwishlist:item=2187717691&perks=3661387068,1885400500,968510818,831391274
+dimwishlist:item=2187717691&perks=3661387068,1968497646,2779035018,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1561002382,2779035018,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1885400500,2779035018,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1968497646,3619207468,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1561002382,3619207468,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1885400500,3619207468,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1968497646,972757866,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1561002382,972757866,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1885400500,972757866,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1968497646,968510818,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1561002382,968510818,2610012052
+dimwishlist:item=2187717691&perks=3661387068,1885400500,968510818,2610012052
