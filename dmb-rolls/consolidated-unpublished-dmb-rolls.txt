@@ -302,3 +302,112 @@ dimwishlist:item=3920882229&perks=1482024992,10690939,2450788523,1195158366
 dimwishlist:item=3920882229&perks=1840239774,3230963543,2450788523,1195158366
 dimwishlist:item=3920882229&perks=1482024992,3230963543,2450788523,1195158366
 
+// Stay Frosty
+// Barrel and mag options
+//Arrowhead Brake, (High Caliber Rounds, Flared Magwell)
+// Arrowhead Brake takes the Recoil Direction to a controllable 85 and, with the high rate of fire, High-Caliber Rounds can put out some significant flinch as well as adding some range or, to pair with traits that require a reload to proc, Flared Magwell give the biggest boost to reload speed.
+// Trait options
+// (Tunnel Vision, Killing Wind, Encore), Desperado
+// Desperado's increase in fire rate drops the optimal TTK to 0.73s (7c, 1b) and accuracy adjusted TTK to 0.8s (6c, 3b). You'll need to hit your headshots which Tunnel Vision helps with - also procced on reload. Alternatively, Encore or Killing Wind can both help with hitting your headshots for kill-chaining. Recommended MW: Reload Speed, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+// (Killing Wind, Encore, Tunnel Vision), Headstone
+// Headstone is a bit of a sleeper trait for Trials and PvP modes with revives, as the Stasis Crystal generated from a crit kill prevents accessing an orb, giving you a numberical advantage for longer, or you can break the crystals if anyone is nearby for Dragonfly-like AOE damage. Killing Wind and Encore proc on a kill to make hitting follow-up crits easier, for kill chaining. Recommended MW: Range, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+// (Tunnel Vision, Killing Wind, Encore), Kill Clip
+// Kill Clip on its own will allow you to two burst up to 4 resilience in 0.53s (5c 1b), or if you have any other damage boost triggered, like Radiant, will two burst up to 10 resilience. You'll need to hit your headshots which Tunnel Vision helps with - also procced on reload. Alternatively, Encore or Killing Wind can both help with hitting your headshots for kill-chaining. Recommended MW: Reload Speed, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+
+// Cold Front
+// Aggressive Frame with lowish stats by comparison with in-slot competitors, including a Zoom of 14 - one lower than its peers. If you already have a decently rolled Extraordinary Rendition, then you probably don't need to worry too much about saving a good roll. The Hakke origin perk can be useful in breaking Titan Barricades, you're finding them annoying! Optimal TTK of 0.77s with 8 crits and 2 bodies. 
+// Barrel and mag options
+// Hammer Forged Rifling, Accurized Rounds
+// Use your barrel, mag and masterwork to push out your range as far as you can without damaging any other stats. Hammer-Forged Rifling and Accurized Rounds are your best options for this.
+// Trait options
+// Tap the Trigger, Cascade Point
+// Cascade Point is a Desperado-like trait procced like Harmony. It has a short window to use but reduces your optimal TTK to 0.5s (8c 2b) for kill-chaining. You still need to hit crit shots, and Tap the Trigger assists with controlling the poor stability. Recommended MW: Range, with a Quick Access Sling mod.
+// (Tap the Trigger, Perpetual Motion), Rangefinder
+// For duelling, use consistency traits in your firet column to help control the recoil, and Rangefinder to push your range and aim assist out as far as it will go. Recommended MW: Reload Speed, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+// (Tap the Trigger, Perpetual Motion), Rampage
+// One stack of Rampage will reduce your TTK to 0.67s (8c 1b), while either Tap the Trigger or Perpetual Motion will help control your recoil to hit your crits and also, for Perpetual Motion, add handling and reload speed. Recommended MW: Range, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+// (Tap the Trigger, Perpetual Motion), Frenzy
+// One stack of Rampage will reduce your TTK to 0.67s and make it easier to hit (6c 3b), while either Tap the Trigger or Perpetual Motion will help control your recoil to hit your crits and also, for Perpetual Motion, add handling and reload speed. Recommended MW: Range, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod.
+
+// Glacioclasm
+// Aggressive Frame with the highest range and zoom, but the lowest aim assist and, with no Rangefinder, this can still be outranged by a Precision Frame with the perk. Unfortunately, you probably won't get much value out of either Origin trait unless you can pick up extra ammo in combat. You'll need to practice pre-charging as this is very slow firing - the TTK is 1.09s with four bolts - a rapid fire can get two shots off in the same time, and most primaries will kill you if you're charging out in the open. 
+// Barrel and mag options
+// Extended Barrel, Projection Fuse
+// With High-Impacts only shooting five bolts you have less recoil to compensate for and can invest into range with your barrel, battery and Masterwork - Extended Barrel takes your recoil direction to 88 as well.
+// Trait options
+// Under Pressure, High-Impact Reserves
+// You'll rarely have more than two shots you spawn with, so both Under Pressure, improving your stability and accuracy, and High-Impact Reserves, improves consistency by reducing the number of bolts to kill to three, will be pretty much permanently procced, for duelling. Recommended MW: Range, with a Targeting Adjuster mod.
+// Slideshot, Kickstart
+// If you can master sliding while precharging (and that's a big if) with Slideshot and Kickstart, you can offset the sliding penalty to stability and boost your range, and reduce your charge time and boost damage by 20%, your TTK drops to 0.87s with three bolts. You only have the narrowest of windows to co-ordinate all those moving parts, though. Recommended MW: Range, with a Sprint Grip or Targeting Adjuster mod.
+// Under Pressure, Eye of the Storm
+// You'll rarely have more than two shots you spawn with, so both Under Pressure, improving your stability and accuracy will be pretty much permanently procced, for duelling. And chances are that, once you step out while you're precharging, you'll start taking damage which means all the accuracy bonuses from Eye of the Storm will mean your bolts will have a much better chance of connext. Recommended MW: Range, with a Targeting Adjuster mod.
+
+// Avalanche
+// Arrowhead Brake, Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
+// LMGs aren't in any way meta as at Season 19. The optimal TTK is 0.53s with 5 crits and accuracy-adjusted TTK is 0.67s (2c, 4b), out of the box. If you've got a decent Commemoration, Corrective Measure or Unwavering Duty tucked away, you don't need to worry about keeping a PvP roll of this, although the Aim Assist of 90 is very attractive! If you don't, sort out the recoil direction with Arrowhead Brake, and add range and stability wth Ricochet Rounds. With a limited number of rounds, you'll need to make the most of them so consistency perks like Dynamic Sway Reduction and Tap the Trigger will help with hitting headshots while duelling. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+
+// Zephyr
+// Jagged Edge, Swordmaster's Guard, Duellist's Trance, Assassin's Blade
+// Swords are not in any way meta as at Season 19, and are pretty much have all the same stats (except Bequest from the DSC Raid, or Quickfang). If you must use one, Jagged Edge gives you the greatest damage, Swordmaster's Guard maximises your heavy attack charge time, and Duellest's Trance and Assassin's Blade are the most PvP oriented traits for kill-chaining, improving its charge rate, efficiency, defence, movement speed, damage and lunge distance after your first kill. Reccomended MW: Impact with a Quick Access Sling mod.
+
+//// Dark Decider
+// Rapid-fire frame with in-band stats by comparison with other energy-slot peers. The Iron Banner origin trait can be very useful to keep you alive, post-gunfight as, with auto rifles you'll always likely be taking damage in a duel, or Veist Stinger adds ADS movement speed and the occasional magazine refresh - your choice. Optimal TTK of 0.77s with 10 crits, and an accuracy-adjusted TTK of 0.93s (6c 6b) at base.
+// Barrel and mag options
+// Arrowhead Brake, Accurized Rounds
+// With the high rate of fire, you'll need both Arrowhead Brake and a Counterbalance Stock mod to get the recoil direction to 88. Accurized Rounds adds 1.5m range and aim assist falloff.
+// Trait options
+// Dynamic Sway Reduction, Rangefinder
+// For duelling, pick consistency traits in the first and second column - Dynamic Sway Reduction adds 10 stability and increases your accuracy as you fire, while Rangefinder adds 1 Zoom, and an additional 2.5m of range. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+// (Dynamic Sway Reduction Subsistence), Golden Tricorn
+// For kill-chaining, Golden Tricorn x1 reduces optimal TTK to 0.67s (8c, 1b) and accuracy-adjusted TTK to 0.77s (6c, 4b) and, being an arc weapon, you have a halfway decent chance of proccing two stacks with a matching ability kill. This takes your TTK down to a ridiculous 0.5s (6c, 1b) and accuracy adjusted TTK to 0.67s (5c, 4b). Dynamic Sway Reduction adds 10 stability and increases your accuracy as you fire or, if you're on a real tear, Subsistence will prevent the need to stop and reload to make the most of your damage boost. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+// Dynamic Sway Reduction, Dragonfly
+// Dragonfly can make kill-chaining easier by proccing AOE damage on nearby opponents on a crit kill, and you have a combination of a big magazine and Dynamic Sway Reduction for clean-ups. Recommended MW: Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+// Flared Magwell, Dynamic Sway Reduction, Voltshot
+// Maybe not the obvious choice for PvP but, for kill-chaining, get a kill, use Flared Magwell and a Reload Speed Masterwork to reload as fast as possible, and then prepare for some memeable clips in sixes with Voltshot, using your big magazine and Dyamic Sway Reduction to clean up anyone caught in the blast. Recommended MW: Reload Speed, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+
+
+// Gunnora's Axe
+// Pretty decent stats for a slug shotgun except Aim Assistance, where it's pretty much similar to its peers in the energy slot - Bonechiller being the standout (and Heritage, obviously, in the kinetic slot). The Iron Banner origin trait can be very useful to keep you alive, post-gunfight if you're using this as a holdout weapon. 
+// Build options
+// Fluted Barrel, Accurized Rounds, Moving Target, Opening Shot
+// If you're planning to ADS, Fluted Barrel increases your handling for snappier swap and ADS speed, Accurized Rounds pushes your range out, and a combination of Moving Target and Opening Shot adds 30 aim assistance, to nudge it towards a competitive stat total. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+// Fluted Barrel, Accurized Rounds, Hip-Fire Grip, Opening Shot
+// If you're planning to hip fire - the range is compressed whether you're ADSed or not - Fluted Barrel increases your handling for snappier swap speed, Accurized Rounds pushes your range out, and a combination of Hip-Fire Grip and Opening Shot adds aim assistance, to nudge it towards a competitive stat total. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling or Targeting Adjuster mod.
+
+// Albruna-D
+// As with all playlist weapons in season, try to reset your reputation as many times as you can before you cash in your engrams, to get as many rolls with double trait options and maximise your chances of the roll you're looking for. Aggressive Frame snipers can obviously one crit anything in PvP - this has lowish stats with a reasonable 45 zoom, but some interesting perk combinations to compensate. The Iron Banner origin trait can be very useful to keep you alive, post-gunfight if you've taken damage. 
+// Barrel and mag options
+// Fluted Barrel, Accurized Rounds
+// Fluted Barrel increases your handing for faster equip and ADS speed, and Accurized Rounds pushes out your aim assist a little.
+// Trait options
+// (Elemental Capacitor - Arc, Surplus, Perpetual Motion), Harmony
+// In the first trait column you can get lots of gunfeel bonus perks depending on your playstyle, but we're specifically looking for more handling for the fastest swap speed possible - Elemental Capacitor with an Arc subclass gives you an always on handling bonus of 50, Surplus or Perpetual Motion bonuses depend on how actively you use abilities and keep moving. The playloop would be to use Harmony to get a kill with your primary weapon and then swap for the 20% damage bonus. On it's own that will body shot up to 4/5 resilience and with any additional damage bonus - say, Radiant - you can one shot to the body at any resilience. Recommended MW: Handling, with a Quick Access Sling or Targeting Adjuster mod.
+// (Elemental Capacitor - Arc, Surplus, Moving Target, Perpetual Motion), (Snapshot Sights, Opening Shot)
+// For a duelling roll, you can get lots of gunfeel bonus perks in the first trait column depending on your playstyle - Elemental Capacitor with an Arc subclass gives you an always on handling bonus of 50, Surplus or Perpetual Motion bonuses depend on how actively you use abilities and keep moving. In the second trait column, Snapshot Sights will help ADS speed further, or Opening Shot adds 20 Aim Assist and range - you preference as to what you prefer. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod.
+// No Distractions, (Opening Shot, Eye of the Storm)
+// For holding down a lane No Distractions if helpful to resist flinch, and Opening Shot adds 20 Aim Assist and range, or Eye of the Storm boosts your accuracy if you take damage. Recommended MW: Range, with a Targeting Adjuster mod.
+
+// Hung Jury SR4 (PvP first-choice roll) - also Adept rolls
+// Build options
+// Fluted Barrel, Steady Roads, Rapid Hit, Box Breathing
+// Inspired by @DestinyMBP Podcast 275 conversation with @DefyFly. First-choice PvP roll for duelling. The Omolon origin trait is great at the top of a magazine, where you should be getting your kills. Out of the box, optomal TTK is a slow 1.0s with 3 crits and a body or accuracy-adjusted TTK of 1.33s (1c, 4b). The main draw for Hung Jury as at v6.2.0.6 is Box Breathing in the second trait column, which means you can three tap any resilience (0.67s TTK - 2c, 1b) and two tap tap crit up to 8 resilience in 0.33s, as at Season 19 v6.3.0.2. To proc it though, you need to almost treat the weapon like it needs pre-charging by ADS-ing before an ancounter, for your first shot. It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Rapid Hit in the first trait column helps further with Stability (as well as a Reload Speed boost). Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+
+// Hung Jury SR4 (PvP backup roll)
+// (Fluted Barrel, Corkscrew Rifling, Arrowhead Brake), (Steady Roads, Tactical Mag, Flared Magwell), (Rapid Hit, Surplus), Box Breathing
+// Inspired by @DestinyMBP Podcast 275 conversation with @DefyFly. Backup PvP roll for duelling. The Omolon origin trait is great at the top of a magazine, where you should be getting your kills. Out of the box, optomal TTK is a slow 1.0s with 3 crits and a body or accuracy-adjusted TTK of 1.33s (1c, 4b). The main draw for Hung Jury as at v6.2.0.6 is Box Breathing in the second trait column, which means you can three tap any resilience (0.67s TTK - 2c, 1b) and two tap tap crit up to 8 resilience in 0.33s, as at Season 19 v6.3.0.2. To proc it though, you need to almost treat the weapon like it needs pre-charging by ADS-ing before an ancounter, for your first shot. It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Rapid Hit in the first trait column helps further with Stability (as well as a Reload Speed boost), or Surplus adds gunfeel boosts as long as you hang on to your abilities. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference. Tags: PvP, PvP-Duelling, MKB, Controller
+
+// Hung Jury (PvP first choice roll)
+// (Polygonal Rifling, Smallbore, Corkscrew Rifling), Steady Rounds, (Rapid Hit, Surplus), Explosive Payload
+Inspired by @DestinyMBP Podcast 222. PvP first choice roll for dualling. The Omolon origin trait is great at the top of a magazine, where you should be getting your kills. Out of the box, optomal TTK is a slow 1.0s with 3 crits and a body or accuracy-adjusted TTK of 1.33s (1c, 4b), so this is probably one to tuck away in case scout rifles ever get a buff. It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and stability with your barrel and mag. Rapid Hit helps further with Stability (as well as a Reload Speed boost), or Surplus adds gunfeel boosts as long as you hang on to your abilities. Explosive Payload adds flinch and visual flinch to help with your duels. Recommended MW: Handling with a Quick Access Sling or Sprint Grip or Targeting Adjuster mod. Tags: PvP, PvP-Duelling, MKB, Controller
+
+// Hung Jury (PvP backup roll)
+// (Polygonal Rifling, Smallbore, Corkscrew Rifling), Steady Rounds, (Rapid Hit, Surplus), Adagio
+Inspired by @DestinyMBP Podcast 222. Backup roll for kill-chaining. The Omolon origin trait is great at the top of a magazine, where you should be getting your kills. Out of the box, optomal TTK is a slow 1.0s with 3 crits and a body or accuracy-adjusted TTK of 1.33s (1c, 4b), so this is probably one to tuck away in case scout rifles ever get a buff. It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and stability with your barrel and mag. Rapid Hit helps further with Stability (as well as a Reload Speed boost), or Surplus adds gunfeel boosts as long as you hang on to your abilities. Adagio, once procced, drops your TTK to 0.78s (2c, 1b). Recommended MW: Handling with a Quick Access Sling or Sprint Grip or Targeting Adjuster mod. Tags: PvP, PvP-KillChain, MKB, Controller
+
+// Hung Jury (PvP backup roll)
+// (Polygonal Rifling, Smallbore, Corkscrew Rifling), Steady Rounds, (Rapid Hit, Surplus), Firefly
+Inspired by @DestinyMBP Podcast 222. PvP backup roll for kill-chaining. The Omolon origin trait is great at the top of a magazine, where you should be getting your kills. Out of the box, optomal TTK is a slow 1.0s with 3 crits and a body or accuracy-adjusted TTK of 1.33s (1c, 4b), so this is probably one to tuck away in case scout rifles ever get a buff. It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and stability with your barrel and mag. Rapid Hit helps further with Stability (as well as a Reload Speed boost), or Surplus adds gunfeel boosts as long as you hang on to your abilities. Dragonfly procs on crit kills will give you a group of damaged opponents nearby, ready for cleanup kill-chaining. Recommended MW: Handling with a Quick Access Sling or Sprint Grip or Targeting Adjuster mod. Tags: PvP, PvP-KillChain, MKB, Controller
+
+// Wendigo - also Adept rolls
+// (Volatile Launch, Quick Launch), (High-Explosive Ordnance, High-Velocity Rounds, Proximity Grenades), (Impulse Amplifier, Chain Reaction), Golden Tricorn
+// PvP first-choice roll for kill-chaining. Unfortunately, none of the origin traits are particularly helpful in PvP - Vanguard's Vindication is the least worst of the bunch. You want your grenades to get to the target as fast as possible with as large a blast radius as possible, so take your choice of barrels, mags and Masterwork as far as your own preference is concerned, or for a slightly easier life, you can always go for Proximity Grenades. In your first trait column, Impulse Amplifier boosts velocity by 35% or Chain Reaction makes the most of your kills to damage anyone nearby, while Golden Tricorn gives a 15% damage boost after a kill, with no need to reload, extending the effective blast radius.
