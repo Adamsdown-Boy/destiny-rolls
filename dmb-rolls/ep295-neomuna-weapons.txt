@@ -81,7 +81,7 @@ dimwishlist:item=811403305&perks=202670084,1885400500,972757866,3751912585
 // Iterative Loop (PvP first-choice roll)
 // Arrowhead Brake, Projection Fuse, Under Pressure, Kickstart
 //notes:Inspired by @DestinyMBP Podcast 295 with @Legoleflash and @illPhysics (https://open.spotify.com/episode/5R8QyPNo18IjGX4iukcE3k). First-choice PvP pick for duelling. Shapeable. Rapid Frame Fusion Rifles have a TTK of 0.77s, with 7 bolts at any resilience. Overall decent stats, but with 1 less zoom than Cartesian Coordinate but good range to compensate. Using Arrowhead Brake and a Counterbalance mod takes the Recoil Direction to a far more controllable 92 and bumps up Handling to 62, while a combination of Projection Fuse and a Range Masterwork pushes range out to 16.2m while ADS-ed. In the first trait column as your support perk, Under Pressure should be procced constantly which will add 30 stability to make the recoil easier to control and add accuracy to the bolts, and then as your second column signature perk, Kickstart reduces the TTK to 0.63s by applying a 0.8 scalar to charge time. Any additional damage boost (such as Radiant) will drop to TTK to 0.6s with only six bolts needed to kill at 10 Resilience. You need to hit with three shots to proc the Nanotech Tracer Rockets origin trait so, unfortunately you're unlikely to see it often. Recommended MW: Range, with a Counterbalance mod. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
-dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,175471482
+dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,1754714824
 
 // Iterative Loop (PvP first-choice roll)
 // Arrowhead Brake, Projection Fuse, Under Pressure, Elemental Capacitor
