@@ -1,0 +1,146 @@
+@title:Season 20 Guardian Games weapons
+@description:Lightfall Guardian Games weapons with Classy Contender origin trait
+
+// The Title (PvE first-choice roll)
+// Full Bore, Ricochet Rounds, Threat Detector, Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE pick for minor add clear in endgame activities. Unfortunately, this doesn't have great stats or any unique perk options by comparison with other aggressive frame SMGs, but drops will rain down during Guardian Games, so that's not unexpected (maybe it's just Hakke's unfamiliarity with energy weapons). Season 20 has lost the Stats/One for All combination. If you want to tuck one away, Push out the range with your barrel and magazine, even at the cost of stability or handling, as we'll be getting that back with the traits, and the Recoil Direction of 85 is pretty much vertical. Full Bore and Ricochet Rounds add a few metres of useful range. In the first trait column as your support perk, if you're not proccing Threat Detector's bonus Stability, Handling and Reload Speed, you're just doing it work. Similarly with Surrounded as your second column signature perk - although it's not the Enhanced version, you'll still have 40% bonus damage when procced in CQC. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, if you're up against vehicles and constructs, Hakke Breach Armaments will help burst them down. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3559361670&perks=202670084,1885400500,4071163871,3708227201
+
+// The Title (PvE backup roll)
+// (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds), (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. Backup PvE pick for minor add clear in endgame activities. Unfortunately, this doesn't have great stats or any unique perk options by comparison with other aggressive frame SMGs, but drops will rain down during Guardian Games, so that's not unexpected (maybe it's just Hakke's unfamiliarity with energy weapons). Season 20 has lost the Stats/One for All combination. If you want to tuck one away, Push out the range with your barrel and magazine, even at the cost of stability or handling, as we'll be getting that back with the traits, and the Recoil Direction of 85 is pretty much vertical. In the first trait column as your support perk, if you're not proccing Threat Detector's bonus Stability, Handling and Reload Speed, you're just doing it work or Perpetual Motion provides useful, if smaller, boosts as an alternative choice. Similarly with Surrounded as your second column signature perk - although it's not the Enhanced version, you'll still have 40% bonus damage when procced in CQC. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, if you're up against vehicles and constructs, Hakke Breach Armaments will help burst them down. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3559361670&perks=1467527085,1885400500,4071163871,3708227201
+dimwishlist:item=3559361670&perks=3250034553,1885400500,4071163871,3708227201
+dimwishlist:item=3559361670&perks=1482024992,1885400500,4071163871,3708227201
+dimwishlist:item=3559361670&perks=4090651448,1885400500,4071163871,3708227201
+dimwishlist:item=3559361670&perks=202670084,1968497646,4071163871,3708227201
+dimwishlist:item=3559361670&perks=1467527085,1968497646,4071163871,3708227201
+dimwishlist:item=3559361670&perks=3250034553,1968497646,4071163871,3708227201
+dimwishlist:item=3559361670&perks=1482024992,1968497646,4071163871,3708227201
+dimwishlist:item=3559361670&perks=4090651448,1968497646,4071163871,3708227201
+dimwishlist:item=3559361670&perks=202670084,1561002382,4071163871,3708227201
+dimwishlist:item=3559361670&perks=1467527085,1561002382,4071163871,3708227201
+dimwishlist:item=3559361670&perks=3250034553,1561002382,4071163871,3708227201
+dimwishlist:item=3559361670&perks=1482024992,1561002382,4071163871,3708227201
+dimwishlist:item=3559361670&perks=4090651448,1561002382,4071163871,3708227201
+dimwishlist:item=3559361670&perks=202670084,1885400500,1428297954,3708227201
+dimwishlist:item=3559361670&perks=1467527085,1885400500,1428297954,3708227201
+dimwishlist:item=3559361670&perks=3250034553,1885400500,1428297954,3708227201
+dimwishlist:item=3559361670&perks=1482024992,1885400500,1428297954,3708227201
+dimwishlist:item=3559361670&perks=4090651448,1885400500,1428297954,3708227201
+dimwishlist:item=3559361670&perks=202670084,1968497646,1428297954,3708227201
+dimwishlist:item=3559361670&perks=1467527085,1968497646,1428297954,3708227201
+dimwishlist:item=3559361670&perks=3250034553,1968497646,1428297954,3708227201
+dimwishlist:item=3559361670&perks=1482024992,1968497646,1428297954,3708227201
+dimwishlist:item=3559361670&perks=4090651448,1968497646,1428297954,3708227201
+dimwishlist:item=3559361670&perks=202670084,1561002382,1428297954,3708227201
+dimwishlist:item=3559361670&perks=1467527085,1561002382,1428297954,3708227201
+dimwishlist:item=3559361670&perks=3250034553,1561002382,1428297954,3708227201
+dimwishlist:item=3559361670&perks=1482024992,1561002382,1428297954,3708227201
+dimwishlist:item=3559361670&perks=4090651448,1561002382,1428297954,3708227201
+
+@title:Season 20 Guardian Games weapons
+@description:Lightfall Guardian Games weapons with Classy Contender origin trait
+
+// The Title (PvE first-choice roll)
+// Full Bore, Ricochet Rounds, Threat Detector, Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE pick for void synergy minor add clear in general activities. Unfortunately, this doesn't have great stats or any unique perk options by comparison with other aggressive frame SMGs, but drops will rain down during Guardian Games, so that's not unexpected (maybe it's just Hakke's unfamiliarity with energy weapons). Season 20 has lost the Stats/One for All combination. If you want to tuck one away, Push out the range with your barrel and magazine, even at the cost of stability or handling, as we'll be getting that back with the traits, and the Recoil Direction of 85 is pretty much vertical. Full Bore and Ricochet Rounds add a few metres of useful range. In the first trait column as your support perk, if you're not proccing Threat Detector's bonus Stability, Handling and Reload Speed, you're just doing it work. For void synergy, in the second column signature perk slot, Repulsor Brace provides a void overshield on void debuffed enemy kills - very useful for keeping you alive in CQC. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, if you're up against vehicles and constructs, Hakke Breach Armaments will help burst them down. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3559361670&perks=202670084,1885400500,4071163871,776531651
+
+// The Title (PvE backup roll)
+// (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds), (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. Backup PvE pick for void synergy minor add clear in general activities. Unfortunately, this doesn't have great stats or any unique perk options by comparison with other aggressive frame SMGs, but drops will rain down during Guardian Games, so that's not unexpected (maybe it's just Hakke's unfamiliarity with energy weapons). Season 20 has lost the Stats/One for All combination. If you want to tuck one away, Push out the range with your barrel and magazine, even at the cost of stability or handling, as we'll be getting that back with the traits, and the Recoil Direction of 85 is pretty much vertical. In the first trait column as your support perk, if you're not proccing Threat Detector's bonus Stability, Handling and Reload Speed, you're just doing it work or Perpetual Motion provides useful, if smaller, boosts as an alternative choice. For void synergy, in the second column signature perk slot, Repulsor Brace provides a void overshield on void debuffed enemy kills - very useful for keeping you alive in CQC. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, if you're up against vehicles and constructs, Hakke Breach Armaments will help burst them down. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3559361670&perks=1467527085,1885400500,4071163871,776531651
+dimwishlist:item=3559361670&perks=3250034553,1885400500,4071163871,776531651
+dimwishlist:item=3559361670&perks=1482024992,1885400500,4071163871,776531651
+dimwishlist:item=3559361670&perks=4090651448,1885400500,4071163871,776531651
+dimwishlist:item=3559361670&perks=202670084,1968497646,4071163871,776531651
+dimwishlist:item=3559361670&perks=1467527085,1968497646,4071163871,776531651
+dimwishlist:item=3559361670&perks=3250034553,1968497646,4071163871,776531651
+dimwishlist:item=3559361670&perks=1482024992,1968497646,4071163871,776531651
+dimwishlist:item=3559361670&perks=4090651448,1968497646,4071163871,776531651
+dimwishlist:item=3559361670&perks=202670084,1561002382,4071163871,776531651
+dimwishlist:item=3559361670&perks=1467527085,1561002382,4071163871,776531651
+dimwishlist:item=3559361670&perks=3250034553,1561002382,4071163871,776531651
+dimwishlist:item=3559361670&perks=1482024992,1561002382,4071163871,776531651
+dimwishlist:item=3559361670&perks=4090651448,1561002382,4071163871,776531651
+dimwishlist:item=3559361670&perks=202670084,1885400500,1428297954,776531651
+dimwishlist:item=3559361670&perks=1467527085,1885400500,1428297954,776531651
+dimwishlist:item=3559361670&perks=3250034553,1885400500,1428297954,776531651
+dimwishlist:item=3559361670&perks=1482024992,1885400500,1428297954,776531651
+dimwishlist:item=3559361670&perks=4090651448,1885400500,1428297954,776531651
+dimwishlist:item=3559361670&perks=202670084,1968497646,1428297954,776531651
+dimwishlist:item=3559361670&perks=1467527085,1968497646,1428297954,776531651
+dimwishlist:item=3559361670&perks=3250034553,1968497646,1428297954,776531651
+dimwishlist:item=3559361670&perks=1482024992,1968497646,1428297954,776531651
+dimwishlist:item=3559361670&perks=4090651448,1968497646,1428297954,776531651
+dimwishlist:item=3559361670&perks=202670084,1561002382,1428297954,776531651
+dimwishlist:item=3559361670&perks=1467527085,1561002382,1428297954,776531651
+dimwishlist:item=3559361670&perks=3250034553,1561002382,1428297954,776531651
+dimwishlist:item=3559361670&perks=1482024992,1561002382,1428297954,776531651
+dimwishlist:item=3559361670&perks=4090651448,1561002382,1428297954,776531651
+
+// The Title (PvE first-choice roll)
+// Full Bore, Ricochet Rounds, Threat Detector, Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE pick for minor add clear in general activities for melee builds. Unfortunately, this doesn't have great stats or any unique perk options by comparison with other aggressive frame SMGs, but drops will rain down during Guardian Games, so that's not unexpected (maybe it's just Hakke's unfamiliarity with energy weapons). Season 20 has lost the Stats/One for All combination. If you want to tuck one away, Push out the range with your barrel and magazine, even at the cost of stability or handling, as we'll be getting that back with the traits, and the Recoil Direction of 85 is pretty much vertical. Full Bore and Ricochet Rounds add a few metres of useful range. Then, the tried and true combination of Pugilist in the first trait column as the support perk and Swashbuckler in the second as the signature perk is great for melee builds. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, if you're up against vehicles and constructs, Hakke Breach Armaments will help burst them down. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3559361670&perks=202670084,1885400500,691659142,4082225868
+
+// The Title (PvE backup roll)
+// (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds), (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. Backup PvE pick for minor add clear in general activities for melee builds. Unfortunately, this doesn't have great stats or any unique perk options by comparison with other aggressive frame SMGs, but drops will rain down during Guardian Games, so that's not unexpected (maybe it's just Hakke's unfamiliarity with energy weapons). Season 20 has lost the Stats/One for All combination. If you want to tuck one away, Push out the range with your barrel and magazine, even at the cost of stability or handling, as we'll be getting that back with the traits, and the Recoil Direction of 85 is pretty much vertical. Then, the tried and true combination of Pugilist in the first trait column as the support perk and Swashbuckler in the second as the signature perk is great for melee builds. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, if you're up against vehicles and constructs, Hakke Breach Armaments will help burst them down. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3559361670&perks=1467527085,1885400500,691659142,4082225868
+dimwishlist:item=3559361670&perks=3250034553,1885400500,691659142,4082225868
+dimwishlist:item=3559361670&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=3559361670&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=3559361670&perks=202670084,1968497646,691659142,4082225868
+dimwishlist:item=3559361670&perks=1467527085,1968497646,691659142,4082225868
+dimwishlist:item=3559361670&perks=3250034553,1968497646,691659142,4082225868
+dimwishlist:item=3559361670&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=3559361670&perks=4090651448,1968497646,691659142,4082225868
+dimwishlist:item=3559361670&perks=202670084,1561002382,691659142,4082225868
+dimwishlist:item=3559361670&perks=1467527085,1561002382,691659142,4082225868
+dimwishlist:item=3559361670&perks=3250034553,1561002382,691659142,4082225868
+dimwishlist:item=3559361670&perks=1482024992,1561002382,691659142,4082225868
+dimwishlist:item=3559361670&perks=4090651448,1561002382,691659142,4082225868
+
+// Taraxippos (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Fourth Time's The Charm, Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE pick for minor add clear in endgame activities. Named after a ghost that frightened horses at a particular spot on the Olympia race course during ancient games there. Our first Lightweight Strand scout rifle has only one direct kinetic slot competitor in Night Watch, and is pretty comparable in stats, although will do 10% less damage, as a non-kinetic weapon. For min-maxxers, the +30 Mobility from the intrinsic perk can help to flesh out builds. Taraxippos is fast-firing, so you will need to tidy up the 54 Recoil Direction. Arrowhead Brake in the barrel takes it to a manageable 84. In the magazine, Tactical Mag and Flared Magwell both offer useful boosts to stability and reload speed (and an extra shot for Tac Mag). Fourth Time's The Charm in the first trait column as your support perk is always welcome to extend your mag size, while Explosive Payload in the second column as the signature perk adds 30% damage with no falloff, and is useful when Scouts are the seasonal anti-Overload Champion mod, only needing two shots to disrupt. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, Omolon Fluid Dynamics adds stability and reload speed to the top half of your mag. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1389546626&perks=839105230,106909392,1354429876,3038247973
+dimwishlist:item=1389546626&perks=839105230,3230963543,1354429876,3038247973
+
+// Taraxippos (PvE backup roll)
+// (Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell), (Zen Moment, Fourth Time's The Charm), Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. Backup PvE pick for minor add clear in endgame activities. Named after a ghost that frightened horses at a particular spot on the Olympia race course during ancient games there. Our first Lightweight Strand scout rifle has only one direct kinetic slot competitor in Night Watch, and is pretty comparable in stats, although will do 10% less damage, as a non-kinetic weapon. For min-maxxers, the +30 Mobility from the intrinsic perk can help to flesh out builds. Taraxippos is fast-firing, so you will need to tidy up the 54 Recoil Direction. Chambered Compensator or Extended Barrel will get you to a slightly better 64. In the magazine, Tactical Mag and Flared Magwell both offer useful boosts to stability and reload speed (and an extra shot for Tac Mag). If you're still finding the recoil difficult, you can proc all 5 stacks of Zen Moment with just three hits, in the first trait column as your support perk. If you're not finding it a problem, than Fourth Time's The Charm is always welcome to extend your mag size, while Explosive Payload in the second column as the signature perk adds 30% damage with no falloff, and is useful when Scouts are the seasonal anti-Overload Champion mod, only needing two shots to disrupt. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, Omolon Fluid Dynamics adds stability and reload speed to the top half of your mag. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1389546626&perks=3661387068,106909392,2387244414,3038247973
+dimwishlist:item=1389546626&perks=1467527085,106909392,2387244414,3038247973
+dimwishlist:item=1389546626&perks=3661387068,3230963543,2387244414,3038247973
+dimwishlist:item=1389546626&perks=1467527085,3230963543,2387244414,3038247973
+dimwishlist:item=1389546626&perks=3661387068,106909392,1354429876,3038247973
+dimwishlist:item=1389546626&perks=1467527085,106909392,1354429876,3038247973
+dimwishlist:item=1389546626&perks=3661387068,3230963543,1354429876,3038247973
+dimwishlist:item=1389546626&perks=1467527085,3230963543,1354429876,3038247973
+
+// Taraxippos (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Fourth Time's The Charm, Outlaw), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE pick for Strand synergy minor add clear in endgame activities. Named after a ghost that frightened horses at a particular spot on the Olympia race course during ancient games there. Our first Lightweight Strand scout rifle has only one direct kinetic slot competitor in Night Watch, and is pretty comparable in stats, although will do 10% less damage, as a non-kinetic weapon. For min-maxxers, the +30 Mobility from the intrinsic perk can help to flesh out builds. Taraxippos is fast-firing, so you will need to tidy up the 54 Recoil Direction. Chambered Compensator or Extended Barrel will get you to a slightly better 64. In the magazine, Tactical Mag and Flared Magwell both offer useful boosts to stability and reload speed (and an extra shot for Tac Mag). Fourth Time's The Charm in the first trait column as your support perk is always welcome to extend your mag size, or Outlaw works well for a snappy reload after a crit kill. Then Hatchling in the second column as the signature perk builds into the Strand toolkit - just come to peace that they're likely to be spawned too far away to join you, if you're a Warlock. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, Omolon Fluid Dynamics adds stability and reload speed to the top half of your mag. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1389546626&perks=839105230,106909392,1354429876,831391274
+dimwishlist:item=1389546626&perks=839105230,3230963543,1354429876,831391274
+dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,831391274
+dimwishlist:item=1389546626&perks=839105230,3230963543,1168162263,831391274
+
+// Taraxippos (PvE backup roll)
+// (Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell), (Zen Moment, Fourth Time's The Charm. Outlaw), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/35xKd0TwFvvOyymsE9Wp5H) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. Backup PvE pick for Strand synergy minor add clear in endgame activities. Named after a ghost that frightened horses at a particular spot on the Olympia race course during ancient games there. Our first Lightweight Strand scout rifle has only one direct kinetic slot competitor in Night Watch, and is pretty comparable in stats, although will do 10% less damage, as a non-kinetic weapon. For min-maxxers, the +30 Mobility from the intrinsic perk can help to flesh out builds. Taraxippos is fast-firing, so you will need to tidy up the 54 Recoil Direction. Chambered Compensator or Extended Barrel will get you to a slightly better 64. In the magazine, Tactical Mag and Flared Magwell both offer useful boosts to stability and reload speed (and an extra shot for Tac Mag). If you're still finding the recoil difficult, you can proc all 5 stacks of Zen Moment with just three hits, in the first trait column as your support perk. If you're not finding it a problem, than Fourth Time's The Charm is always welcome to extend your mag size, or Outlaw works well for a snappy reload after a crit kill. Then Hatchling in the second column as the signature perk builds into the Strand toolkit - just come to peace that they're likely to be spawned too far away to join you, if you're a Warlock. The Classy Contender Origin Perk is useful - who would say no to extra class ability energy? Or, Omolon Fluid Dynamics adds stability and reload speed to the top half of your mag. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1389546626&perks=3661387068,106909392,2387244414,831391274
+dimwishlist:item=1389546626&perks=1467527085,106909392,2387244414,831391274
+dimwishlist:item=1389546626&perks=3661387068,3230963543,2387244414,831391274
+dimwishlist:item=1389546626&perks=1467527085,3230963543,2387244414,831391274
+dimwishlist:item=1389546626&perks=3661387068,106909392,1354429876,831391274
+dimwishlist:item=1389546626&perks=1467527085,106909392,1354429876,831391274
+dimwishlist:item=1389546626&perks=3661387068,3230963543,1354429876,831391274
+dimwishlist:item=1389546626&perks=1467527085,3230963543,1354429876,831391274
+dimwishlist:item=1389546626&perks=3661387068,106909392,1168162263,831391274
+dimwishlist:item=1389546626&perks=1467527085,106909392,1168162263,831391274
+dimwishlist:item=1389546626&perks=3661387068,3230963543,1168162263,831391274
+dimwishlist:item=1389546626&perks=1467527085,3230963543,1168162263,831391274
