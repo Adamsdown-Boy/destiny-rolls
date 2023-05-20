@@ -1,5 +1,5 @@
-@title:Season 20 Queensguard weapons
-@description:Season of Defiance craftable weapons with Noble Deeds origin trait, and Imperial Decree
+@title:Season 20 War Table weapons
+@description:Season of Defiance Queensguard craftable weapons with Noble Deeds origin trait, and Imperial Decree
 
 // Perpetualis (PvP first-choice roll
 // Arrowhead Brake, Accurized Rounds, (Elemental Capacitor, Zen Moment), Eye of the Storm
