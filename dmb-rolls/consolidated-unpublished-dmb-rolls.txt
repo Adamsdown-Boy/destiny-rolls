@@ -1,4 +1,4 @@
-@title:Season 19 (Season of Seraph) Rose and Exalted Truth
+@title:Ep 287: Season 19 (Season of Seraph) Rose and Exalted Truth
 @description:Early thoughts on new S-Tier Hand Cannons
 
 // Rose (PvP first choice roll)
@@ -302,6 +302,7 @@ dimwishlist:item=3920882229&perks=1482024992,10690939,2450788523,1195158366
 dimwishlist:item=3920882229&perks=1840239774,3230963543,2450788523,1195158366
 dimwishlist:item=3920882229&perks=1482024992,3230963543,2450788523,1195158366
 
+@title: Ep288: Season of the Dawning IB weapons
 // Stay Frosty
 // Barrel and mag options
 //Arrowhead Brake, (High Caliber Rounds, Flared Magwell)
@@ -412,7 +413,7 @@ Inspired by @DestinyMBP Podcast 222. PvP backup roll for kill-chaining. The Omol
 // (Volatile Launch, Quick Launch), (High-Explosive Ordnance, High-Velocity Rounds, Proximity Grenades), (Impulse Amplifier, Chain Reaction), Golden Tricorn
 // PvP first-choice roll for kill-chaining. Unfortunately, none of the origin traits are particularly helpful in PvP - Vanguard's Vindication is the least worst of the bunch. You want your grenades to get to the target as fast as possible with as large a blast radius as possible, so take your choice of barrels, mags and Masterwork as far as your own preference is concerned, or for a slightly easier life, you can always go for Proximity Grenades. In your first trait column, Impulse Amplifier boosts velocity by 35% or Chain Reaction makes the most of your kills to damage anyone nearby, while Golden Tricorn gives a 15% damage boost after a kill, with no need to reload, extending the effective blast radius.
 
-@title:Seraph Weapons
+@title:Ep 289: Seraph Weapons
 @description:Season 19's Season of the Seraph weapons
 
 // Fire and Forget (PvP first-choice roll)
@@ -547,7 +548,7 @@ dimwishlist:item=3103325054&perks=3250034553,3142289711,2869569095,2610012052
 dimwishlist:item=3103325054&perks=1482024992,3142289711,2387244414,2610012052
 dimwishlist:item=3103325054&perks=3250034553,3142289711,2387244414,2610012052
 
-@title:IKELOS Weapons
+@title:Ep 290: IKELOS Weapons
 @description:Season 19's (Season of the Seraph) reprised IKELOS weapons with the Rasputin's Arsenal origin trait
 
 // IKELOS_HC_v1.0.3 (PvP first-choice roll)
@@ -631,7 +632,7 @@ dimwishlist:item=2149683300&perks=202670084,1140096971,2450788523,2846385770
 dimwishlist:item=2149683300&perks=3250034553,3142289711,1359896290,2846385770
 dimwishlist:item=2149683300&perks=3250034553,1140096971,1359896290,2846385770
 
-@title:Season of the Seraph World Drop Weapons
+@title:Ep 291: Season of the Seraph World Drop Weapons
 @description:Season of the Seraph (Season 19) world drop weapons
 
 // Lodbrok-C (PvP first-choice roll)
@@ -712,7 +713,7 @@ dimwishlist:item=2566006935&perks=1482024992,1885400500,1866048759,2416023159
 dimwishlist:item=2566006935&perks=1840239774,1885400500,1866048759,2416023159
 dimwishlist:item=2566006935&perks=4090651448,1885400500,1866048759,2416023159
 
-@title:Spire of the Watcher Weapons
+@title:Ep 292: Spire of the Watcher Weapons
 @description:Spire of the Watcher dungeon weapons with Rasputin's Arsenal origin perk
 
 // Seventh Seraph Officer Revolver (PvP first-choice roll)
@@ -803,7 +804,7 @@ dimwishlist:item=3138208275&perks=1840239774,1885400500,2946784966,1015611457
 dimwishlist:item=3138208275&perks=1840239774,1885400500,4071163871,3708227201
 dimwishlist:item=3138208275&perks=1840239774,1885400500,4071163871,4082225868
 
-@title:Season 20 Trials of Osiris and Iron Banner Weapons
+@title:Ep 294: Season 20 Trials of Osiris and Iron Banner Weapons
 @description:Season of Defiance new and reprosed Trials and IB weapons
 
 // The Immortal (PvP first-choice roll)
@@ -945,7 +946,7 @@ dimwishlist:item=62937067&perks=839105230,1885400500,1195158366,2610012052
 //notes:Inspired by @DestinyMBP Podcast 292 with @illPhysics and @Legoleflash (https://open.spotify.com/episode/58kKJos3G7nO4MmMS0ScpA). First-choice PvP pick for kill-chaining. Jorum's Claw, like other adaptive pulse rifles, has an abysmal TTK of 0.93s out of the box, with 6 crits and 1 body shot, and an Accuracy-Adjusted TTK of 1.00s (4c, 4b), but is very sensitive to even the smallest of damage buffs - Radiant, for example, drops the TTK down to 0.6s (6c). The stats are a bit of a mixed bag, with the low Zoom of 17 being useful for closer-range engagements at the cost of limiting the range and damage drop-off. Arrowhead Brake in the barrel slot tidies up the Recoil Direction, and adds a useful bump to Handling too, and Ricochet Rounds rounds out Range and Stability. For kill-chaining, the old and trusted combination of Outlaw and Kill Clip as support and signature perks in the first and second trait columns drops the TTK to 0.6s (4c, 2b) - Radiant or Burning Steps x1 procced at the same time drops it still further to 0.53s (4c, 1b) as the damage stacks. Recommended MW: Range, Stability of Handling depending on preference, with a Targeting Adjuster mod. Tags: PvP, PvP-KillCHain, PvP-God, M+KB, Controller
 dimwishlist:item=62937067&perks=839105230,1885400500,1168162263,1015611457
 
-@title:Season 20 Neomuna weapons
+@title:Ep 295: Season 20 Neomuna weapons
 @description:Season of Defiance Neomuna weapons with Nanotech Tracer Rockets origin trait
 
 // Round Robin (PvP first-choice roll)
@@ -1095,7 +1096,7 @@ dimwishlist:item=2187717691&perks=1482024992,2420895100,3619207468,699525795
 dimwishlist:item=2187717691&perks=1482024992,2420895100,2416023159,2610012052
 dimwishlist:item=2187717691&perks=1482024992,2420895100,2416023159,831391274
 
-@title:Season 20 War Table weapons
+@title:Ep 295: Season 20 War Table weapons
 @description:Season of Defiance Queensguard craftable weapons with Noble Deeds origin trait, and Imperial Decree
 
 // Perpetualis (PvP first-choice roll
@@ -1163,7 +1164,7 @@ dimwishlist:item=318443586&perks=1047830412,3142289711,3161816588,47981717
 //notes:Inspired by @DestinyMBP Podcast 296 with @Legoleflash and @illPhysics (https://open.spotify.com/episode/23ibFKKShmXHAuphKQLgXz). First-choice PvP pick for holdout weapon duelling. Shapeable. The To Excess origin trait can work well in PvP for a grenade and melee energy regeneration boost after a kill. This is the Astral Horizon we've got at home for those who don't want to dip their toes into Trials. There's no Adept mods, but we do have Enhanced Perks instead, so it's a close contest between the two overall. As there's no option for Elemental Capacitor, Imperial Decree is going to feel heavier without additional help from perks, so go all into range and consistency with barrel and mag - Full Choke keeps the pellet spread tighter, and then the combination of Accurized Rounds, a Range Masterwork and Opening Shot as the second trait column signature perk gets the range to 74 - you'll be lethal out to around 6.5m with 10 out of 12 pellets. To use as a holdout weapon, Threat Detector as the support perk in the first trait column boosts Handling to 58 with one stack or 100 with two, for snappy ready, ADS and stow speed. Recommended MW: Range, with a Freehand Grip mod. Tags: PvP, PvP-Duel, PvP-God, M+KB, Controller
 dimwishlist:item=318443586&perks=1047830412,3142289711,4071163871,47981717
 
-@title:Season 20 World drop and Guardian Games weapons
+@title:Ep 296: Season 20 World drop and Guardian Games weapons
 @description:Season of Defiance World World drop and Guardian Games weapons
 
 // The Title (PvP first-choice roll)
