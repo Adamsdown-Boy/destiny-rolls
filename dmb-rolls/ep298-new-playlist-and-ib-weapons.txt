@@ -1,5 +1,5 @@
-@title:Season 21 new playlist and Iron Banner weapons
-@description:Season of the Deep Vanguare, Crucuble and Gambit playlist and new IB weapons
+@title:Season 21 playlist and new Iron Banner weapons
+@description:Season of the Deep Vanguard, Crucible and Gambit playlist and new IB weapons
 
 // Randy's Throwing Knife (PvP first-choice roll)
 // (Smallbore, Arrowhead Brake), Ricochet Rounds, Zen Moment, Box Breathing
