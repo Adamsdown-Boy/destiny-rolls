@@ -1,0 +1,357 @@
+@title:Season 21 Taken and reprised Reckoning weapons
+@description:Season of the Deep weapons with Unsated Hunger or Disaster Plan origin trait
+
+// Rapacious Appetite (PvE first-choice roll)
+// (Chambered Compensator, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Perpetual Motion, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two statsis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. You'll need stability on a controller, so start with a stability barrel and a Stability masterwork. In the mag, the Combat Effect perks all provide utility. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk, and Frenzy in the second column as your signature perk. When everything's active, you'll be near 50 for stability, 100 Handling and Reload Speed, and have a 15% damage boost, which should make for a good kinetic slot SMG option if you need one. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1081724548&perks=3661387068,1885400500,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1482024992,1885400500,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1392496348,1885400500,2014892510,3007133316
+dimwishlist:item=1081724548&perks=3661387068,1561002382,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1482024992,1561002382,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1392496348,1561002382,2014892510,3007133316
+dimwishlist:item=1081724548&perks=3661387068,1968497646,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1482024992,1968497646,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1392496348,1968497646,2014892510,3007133316
+
+// Rapacious Appetite (PvE first-choice roll)
+// (Fluted Barrel, Chambered Compensator, Smallbore, Polygonal Rifling), (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Perpetual Motion, Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Stasis Synergy minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two statsis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. You'll need stability on a controller, so start with a stability barrel and a Stability masterwork. In the mag, Flared Magwell or the Combat Effect perks all provide utility. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk and then, to synergise with Stasis subclasses, Headstone in the second column as the signature perk, of you don't already have a Headstone Blood Feud SMG, provides a Stasis crystal on crit kills to use with Aspects and Fragments. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1081724548&perks=1840239774,,3230963543,1428297954,124408337
+dimwishlist:item=1081724548&perks=3661387068,3230963543,1428297954,124408337
+dimwishlist:item=1081724548&perks=1482024992,3230963543,1428297954,124408337
+dimwishlist:item=1081724548&perks=1392496348,3230963543,1428297954,124408337
+dimwishlist:item=1081724548&perks=1840239774,,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=3661387068,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=1482024992,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=1392496348,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=1840239774,,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=3661387068,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=1482024992,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=1392496348,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=1840239774,,1968497646,1428297954,124408337
+dimwishlist:item=1081724548&perks=3661387068,1968497646,1428297954,124408337
+dimwishlist:item=1081724548&perks=1482024992,1968497646,1428297954,124408337
+dimwishlist:item=1081724548&perks=1392496348,1968497646,1428297954,124408337
+
+// Rapacious Appetite (PvE first-choice roll)
+// (Fluted Barrel, Chambered Compensator, Smallbore, Polygonal Rifling), (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Perpetual Motion, One For All
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two statsis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. You'll need stability on a controller, so start with a stability barrel and a Stability masterwork. In the mag, Flared Magwell or the Combat Effect perks all provide utility. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk and then, in the second column as the signature perk, One For All is an easy-to-proc 35% boost to damage for add clear, or to take on the occasional major. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1081724548&perks=1840239774,,3230963543,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3661387068,3230963543,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1482024992,3230963543,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1392496348,3230963543,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3661387068,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1482024992,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1392496348,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3661387068,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1482024992,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1392496348,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3661387068,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1482024992,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1392496348,1968497646,1428297954,4049631843
+
+// Rapacious Appetite (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Extended Barrel), (Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Perpetual Motion, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two statsis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. Fortunately, for mouse and keyboard, you can ignore the stability and just go for range with the barrel choice and masterwork. In the mag, the Combat Effect perks all provide utility. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk and Frenzy in the second column as your signature perk. When everything's active, you'll be at 100 for both Handling and Reload Speed, and have a 15% damage boost, which should make for a good kinetic slot SMG option if you need one. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=1081724548&perks=202670084,1885400500,2014892510,3007133316
+dimwishlist:item=1081724548&perks=3250034553,1885400500,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1467527085,1885400500,2014892510,3007133316
+dimwishlist:item=1081724548&perks=202670084,1561002382,2014892510,3007133316
+dimwishlist:item=1081724548&perks=3250034553,1561002382,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1467527085,1561002382,2014892510,3007133316
+dimwishlist:item=1081724548&perks=202670084,1968497646,2014892510,3007133316
+dimwishlist:item=1081724548&perks=3250034553,1968497646,2014892510,3007133316
+dimwishlist:item=1081724548&perks=1467527085,1968497646,2014892510,3007133316
+
+// Rapacious Appetite (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Extended Barrel), (Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds, Light Mag, Flared Magwell), Perpetual Motion, Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two statsis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. Fortunately, for mouse and keyboard, you can ignore the stability and just go for range with the barrel choice and masterwork. In the mag, the Combat Effect perks all provide utility, you can boost Reload Speed through Light Mag or Flared Magwell. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk or, alternatively you can extend the useful magazine through Fourth Time's The Charm. Then, to synergise with Stasis subclasses, Headstone in the second column as the signature perk, of you don't already have a Headstone Blood Feud SMG, provides a Stasis crystal on crit kills to use with Aspects and Fragments. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=1081724548&perks=202670084,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=3250034553,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=1467527085,1885400500,1428297954,124408337
+dimwishlist:item=1081724548&perks=202670084,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=3250034553,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=1467527085,1561002382,1428297954,124408337
+dimwishlist:item=1081724548&perks=202670084,1968497646,1428297954,124408337
+dimwishlist:item=1081724548&perks=3250034553,1968497646,1428297954,124408337
+dimwishlist:item=1081724548&perks=1467527085,1968497646,1428297954,124408337
+dimwishlist:item=1081724548&perks=202670084,679225683,1428297954,124408337
+dimwishlist:item=1081724548&perks=3250034553,679225683,1428297954,124408337
+dimwishlist:item=1081724548&perks=1467527085,679225683,1428297954,124408337
+dimwishlist:item=1081724548&perks=202670084,1885400500,2014892510,124408337
+dimwishlist:item=1081724548&perks=3250034553,1885400500,2014892510,124408337
+dimwishlist:item=1081724548&perks=1467527085,1885400500,2014892510,124408337
+dimwishlist:item=1081724548&perks=202670084,1561002382,2014892510,124408337
+dimwishlist:item=1081724548&perks=3250034553,1561002382,2014892510,124408337
+dimwishlist:item=1081724548&perks=1467527085,1561002382,2014892510,124408337
+dimwishlist:item=1081724548&perks=202670084,1968497646,2014892510,124408337
+dimwishlist:item=1081724548&perks=3250034553,1968497646,2014892510,124408337
+dimwishlist:item=1081724548&perks=1467527085,1968497646,2014892510,124408337
+dimwishlist:item=1081724548&perks=202670084,679225683,2014892510,124408337
+dimwishlist:item=1081724548&perks=3250034553,679225683,2014892510,124408337
+dimwishlist:item=1081724548&perks=1467527085,679225683,2014892510,124408337
+
+// Rapacious Appetite (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Extended Barrel), (Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds, Light Mag, Flared Magwell), Perpetual Motion, One For All
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two statsis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. Fortunately, for mouse and keyboard, you can ignore the stability and just go for range with the barrel choice and masterwork. In the mag, the Combat Effect perks all provide utility, you can boost Reload Speed through Light Mag or Flared Magwell. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk or, alternatively you can extend the useful magazine through Fourth Time's The Charm. Then, in the second column as the signature perk, One For All is an easy-to-proc 35% boost to damage for add clear, or to take on the occasional major.  Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=1081724548&perks=202670084,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3250034553,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1467527085,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=202670084,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3250034553,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1467527085,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=202670084,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3250034553,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1467527085,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=202670084,679225683,1428297954,4049631843
+dimwishlist:item=1081724548&perks=3250034553,679225683,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1467527085,679225683,1428297954,4049631843
+dimwishlist:item=1081724548&perks=202670084,1885400500,2014892510,4049631843
+dimwishlist:item=1081724548&perks=3250034553,1885400500,2014892510,4049631843
+dimwishlist:item=1081724548&perks=1467527085,1885400500,2014892510,4049631843
+dimwishlist:item=1081724548&perks=202670084,1561002382,2014892510,4049631843
+dimwishlist:item=1081724548&perks=3250034553,1561002382,2014892510,4049631843
+dimwishlist:item=1081724548&perks=1467527085,1561002382,2014892510,4049631843
+dimwishlist:item=1081724548&perks=202670084,1968497646,2014892510,4049631843
+dimwishlist:item=1081724548&perks=3250034553,1968497646,2014892510,4049631843
+dimwishlist:item=1081724548&perks=1467527085,1968497646,2014892510,4049631843
+dimwishlist:item=1081724548&perks=202670084,679225683,2014892510,4049631843
+dimwishlist:item=1081724548&perks=3250034553,679225683,2014892510,4049631843
+dimwishlist:item=1081724548&perks=1467527085,679225683,2014892510,4049631843
+
+// Different Times (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Stats For All, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in endgame activities. Shapeable. Different Times is the first Strand pulse rifle but has poor base stats when compared with other kinetic slot options. The Recoil Direction is awful, so Arrowhead Brake is pretty much a must have in the barrel. Flared Magwell fills in some gunfeel stats, or the Combat Effect magazine perks are all viable. In the first trait column for the support perk, Stats For All makes the gun feel very usable and, as this is the first primary weapon able to roll Collective Action, in the second column as the signature perk, that's probably the roll to go for for end-game content, proccing 20% bonus damage for any elemental pickup. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3016891299&perks=839105230,3230963543,1583705720,3324494224
+dimwishlist:item=3016891299&perks=839105230,1885400500,1583705720,3324494224
+dimwishlist:item=3016891299&perks=839105230,1968497646,1583705720,3324494224
+dimwishlist:item=3016891299&perks=839105230,1561002382,1583705720,3324494224
+
+// Different Times (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), (Outlaw, Subsistence), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (??? 1840239774 1482024992 ???): First-choice PvE pick for minor add clear in general content. Shapeable. Different Times is the first Strand pulse rifle but has poor base stats when compared with other kinetic slot options. The Recoil Direction is awful, so Arrowhead Brake is pretty much a must have in the barrel. Flared Magwell fills in some gunfeel stats, or the Combat Effect magazine perks are all viable. In general, non-endgame content Outlaw and Subsistence are both great for weapon uptime in the first trait column as your signature perk while, in the second column as the signature perk, the first stack of Golden Tricorn is easy to proc for 15% bonus damage, even if the second stack is more difficult to proc with a Strand subclass. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3016891299&perks=839105230,3230963543,1168162263,2610012052
+dimwishlist:item=3016891299&perks=839105230,1885400500,1168162263,2610012052
+dimwishlist:item=3016891299&perks=839105230,1968497646,1168162263,2610012052
+dimwishlist:item=3016891299&perks=839105230,1561002382,1168162263,2610012052
+dimwishlist:item=3016891299&perks=839105230,3230963543,1820235745,2610012052
+dimwishlist:item=3016891299&perks=839105230,1885400500,1820235745,2610012052
+dimwishlist:item=3016891299&perks=839105230,1968497646,1820235745,2610012052
+dimwishlist:item=3016891299&perks=839105230,1561002382,1820235745,2610012052
+
+// Different Times (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), (Outlaw, Subsistence), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (??? 1840239774 1482024992 ???): First-choice PvE pick for Strand synergy and minor add clear in general content. Shapeable. Different Times is the first Strand pulse rifle but has poor base stats when compared with other kinetic slot options. The Recoil Direction is awful, so Arrowhead Brake is pretty much a must have in the barrel. Flared Magwell fills in some gunfeel stats, or the Combat Effect magazine perks are all viable. In general, non-endgame content Outlaw and Subsistence are both great for weapon uptime in the first trait column as your signature perk, and pair will with Hatchling in the second column as the signature perk, for Strand subclass synergy. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3016891299&perks=839105230,3230963543,1168162263,831391274
+dimwishlist:item=3016891299&perks=839105230,1885400500,1168162263,831391274
+dimwishlist:item=3016891299&perks=839105230,1968497646,1168162263,831391274
+dimwishlist:item=3016891299&perks=839105230,1561002382,1168162263,831391274
+dimwishlist:item=3016891299&perks=839105230,3230963543,1820235745,831391274
+dimwishlist:item=3016891299&perks=839105230,1885400500,1820235745,831391274
+dimwishlist:item=3016891299&perks=839105230,1968497646,1820235745,831391274
+dimwishlist:item=3016891299&perks=839105230,1561002382,1820235745,831391274
+
+// Different Times (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Heating Up, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clear in general content. Shapeable. Different Times is the first Strand pulse rifle but has poor base stats when compared with other kinetic slot options. While the Recoil Direction is terrible, we'll control that with one of the traits Fluted Barrel or Smallbore help fill in a combination of handling, stability or range. Flared Magwell further fills in some gunfeel stats, or the Combat Effect magazine perks are all viable. To help control the recoil, Heating Up adds both stability and recoil direction after a kill to make this very easy to use, and, as this is the first primary weapon able to roll Collective Action, in the second column as the signature perk, that's probably the roll to go for, proccing 20% bonus damage for any elemental pickup. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3016891299&perks=1840239774,3230963543,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1482024992,3230963543,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1840239774,1885400500,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1482024992,1885400500,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1840239774,1968497646,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1482024992,1968497646,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1840239774,1561002382,1570042021,3324494224
+dimwishlist:item=3016891299&perks=1482024992,1561002382,1570042021,3324494224
+
+// Different Times (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Heating Up, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in general content. Shapeable. Different Times is the first Strand pulse rifle but has poor base stats when compared with other kinetic slot options. While the Recoil Direction is terrible, we'll control that with one of the traits Fluted Barrel or Smallbore help fill in a combination of handling, stability or range. Flared Magwell further fills in some gunfeel stats, or the Combat Effect magazine perks are all viable. To help control the recoil, Heating Up adds both stability and recoil direction after a kill to make this very easy to use, and in the second column as the signature perk, the first stack of Golden Tricorn is easy to proc for 15% bonus damage, even if the second stack is more difficult to proc with a Strand subclass. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3016891299&perks=1840239774,3230963543,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1482024992,3230963543,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1840239774,1885400500,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1482024992,1885400500,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1840239774,1968497646,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1482024992,1968497646,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1840239774,1561002382,1570042021,2610012052
+dimwishlist:item=3016891299&perks=1482024992,1561002382,1570042021,2610012052
+
+// Different Times (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Heating Up, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Strand synergy and minor add clear in general content. Shapeable. Different Times is the first Strand pulse rifle but has poor base stats when compared with other kinetic slot options. While the Recoil Direction is terrible, we'll control that with one of the traits Fluted Barrel or Smallbore help fill in a combination of handling, stability or range. Flared Magwell further fills in some gunfeel stats, or the Combat Effect magazine perks are all viable. To help control the recoil, Heating Up adds both stability and recoil direction after a kill to make this very easy to use, and pair will with Hatchling in the second column as the signature perk, for Strand subclass synergy. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3016891299&perks=1840239774,3230963543,1570042021,831391274
+dimwishlist:item=3016891299&perks=1482024992,3230963543,1570042021,831391274
+dimwishlist:item=3016891299&perks=1840239774,1885400500,1570042021,831391274
+dimwishlist:item=3016891299&perks=1482024992,1885400500,1570042021,831391274
+dimwishlist:item=3016891299&perks=1840239774,1968497646,1570042021,831391274
+dimwishlist:item=3016891299&perks=1482024992,1968497646,1570042021,831391274
+dimwishlist:item=3016891299&perks=1840239774,1561002382,1570042021,831391274
+dimwishlist:item=3016891299&perks=1482024992,1561002382,1570042021,831391274
+
+// Targeted Redaction (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), Tactical Mag, Triple Tap, (Explosive Payload, Frenzy)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in end-game content. Shapeable. Unfortunately, Targeted Redaction looks great, but has poor stats by comparison with other void adaptive hand cannons. If you already have a decent Bottom Dollar roll, you can probably give this a pass. If you don't, then fill in the stat gaps as best you can - Fluted Barrel or Smallbore, and Tactical Mag all bump useful gunfeel stats and increase the mag size to 9. For end-game use, Triple Tap as the first trait column support park and Explosive Payload or Frenzy as the second column signature perk are tried-and-true combinations to passively extend your magazine and boost damage. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3890055324&perks=1840239774,106909392,3400784728,3038247973
+dimwishlist:item=3890055324&perks=1482024992,106909392,3400784728,3038247973
+dimwishlist:item=3890055324&perks=1840239774,106909392,3400784728,4104185692
+dimwishlist:item=3890055324&perks=1482024992,106909392,3400784728,4104185692
+
+// Targeted Redaction (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), Tactical Mag, (Triple Tap, Outlaw), (Explosive Payload, Frenzy, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add clear in general content. Unfortunately, Targeted Redaction looks great, but has poor stats by comparison with other void adaptive hand cannons. If you already have a decent Bottom Dollar roll, you can probably give this a pass. If you don't, then fill in the stat gaps as best you can - Fluted Barrel or Smallbore, and Tactical Mag all bump useful gunfeel stats and increase the mag size to 9. For general use, Triple Tap or Outlaw as the first trait column support park and Explosive Payload, Frenzy or Collective Action as the second column signature perk are reliable combinations to improve your gunfight uptime and boost damage. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3890055324&perks=1840239774,106909392,1168162263,3038247973
+dimwishlist:item=3890055324&perks=1482024992,106909392,1168162263,3038247973
+dimwishlist:item=3890055324&perks=1840239774,106909392,1168162263,4104185692
+dimwishlist:item=3890055324&perks=1482024992,106909392,1168162263,4104185692
+dimwishlist:item=3890055324&perks=1840239774,106909392,3400784728,3324494224
+dimwishlist:item=3890055324&perks=1482024992,106909392,3400784728,3324494224
+dimwishlist:item=3890055324&perks=1840239774,106909392,1168162263,3324494224
+dimwishlist:item=3890055324&perks=1482024992,106909392,1168162263,3324494224
+
+// Targeted Redaction (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), Tactical Mag, (Triple Tap, Outlaw), Destabilising Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Void synergy and minor add clear in general content. Unfortunately, Targeted Redaction looks great, but has poor stats by comparison with other void adaptive hand cannons. If you already have a decent Bottom Dollar roll, you can probably give this a pass. If you don't, then fill in the stat gaps as best you can - Fluted Barrel or Smallbore, and Tactical Mag all bump useful gunfeel stats and increase the mag size to 9. For general use, Triple Tap or Outlaw as the first trait column support park and Destabilising Rounds as the second column signature perk are reliable combinations to improve your gunfight uptime and clear groups of adds, building into Void 3.0 subclass verbs. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3890055324&perks=1840239774,106909392,3400784728,2048641572
+dimwishlist:item=3890055324&perks=1482024992,106909392,3400784728,2048641572
+dimwishlist:item=3890055324&perks=1840239774,106909392,1168162263,2048641572
+dimwishlist:item=3890055324&perks=1482024992,106909392,1168162263,2048641572
+
+// A Distant Pull (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, Overflow, Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Majors and sustained damage against Bosses in end-game content. Shapeable. As at S21, A Distant Pull is the only non-raid kinetic rapid-fire sniper rifle. As you might expect, it comes with lower stats but it's still usable if you can fill the gaps. Fluted Barrel and Tactical Mag fill out Handling, Stability, Reload Speed and also max out the magazine size to 7. Overflow is laughably good on a special weapon, as a first trait column support park, doubling the magazine size just for picking up an ammo brick, even when stowed. Explosive Payload gives you a 30% passive damage boost, plus flinch, so is easily the best second column trait choice for your signature perk. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1769847435&perks=1840239774,106909392,3643424744,3038247973
+
+// A Distant Pull (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, Overflow, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Majors in end-game content. Shapeable. As at S21, A Distant Pull is the only non-raid kinetic rapid-fire sniper rifle. As you might expect, it comes with lower stats but it's still usable if you can fill the gaps. Fluted Barrel and Tactical Mag fill out Handling, Stability, Reload Speed and also max out the magazine size to 7. Overflow is laughably good on a special weapon, as a first trait column support park, doubling the magazine size just for picking up an ammo brick, even when stowed. Collective Action should be easy to proc for a 7 second 20% damage boost as your signature perk, which should be long enough for damage against a stunned Champion or Majors. Recommended MW: Handling, with a damage-boosting (Major, or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1769847435&perks=1840239774,106909392,3643424744,3324494224
+
+// A Distant Pull (PvE backup roll)
+// Fluted Barrel, Tactical Mag, Triple Tap, (Explosive Payload, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. Backup PvE pick for burst damage against Majors in end-game content. Shapeable. As at S21, A Distant Pull is the only non-raid kinetic rapid-fire sniper rifle. As you might expect, it comes with lower stats but it's still usable if you can fill the gaps. Fluted Barrel and Tactical Mag fill out Handling, Stability, Reload Speed and also max out the magazine size to 7. If you can reliably hit crits, you can get 10 shots off without reloading with Triple Tap as a first trait column support park. As a second column signature perk, Explosive Payload or Collective Action both add additional damage for burst DPS against Majors, and the occasional sustained damage phase against a boss. Recommended MW: Handling, with a damage-boosting (Major, Boss, or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1769847435&perks=1840239774,106909392,3400784728,3038247973
+dimwishlist:item=1769847435&perks=1840239774,106909392,3400784728,3324494224
+
+// A Distant Pull (PvE backup roll)
+// Fluted Barrel, Tactical Mag, Triple Tap, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): Backup PvE pick for sustained damage against Bosses in end-game content. Shapeable. As at S21, A Distant Pull is the only non-raid kinetic rapid-fire sniper rifle. As you might expect, it comes with lower stats but it's still usable if you can fill the gaps. Fluted Barrel and Tactical Mag fill out Handling, Stability, Reload Speed and also max out the magazine size to 7. If you can reliably hit crits, you can get 10 shots off without reloading with Triple Tap as a first trait column support park. As a second column signature perk, Focused Fury procs after three crits, giving you 7 shots with a 20% boost to damage for a sustained damage phase against a boss. Recommended MW: Handling, with a damage-boosting (Major, Boss, or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1769847435&perks=1840239774,106909392,3400784728,2896038713
+
+// Until Its Return (PvE first-choice roll)
+// (Rifled Barrel, Smallbore, Corkscrew Rifling), Tactical Mag, Threat Detector, (Surrounded, Trench Barrel)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): Backup PvE pick for burst damage against Majors in end-game content. Shapeable. Until Its Return has decent stats in comparison to other kinetic slot rapid-fire shotguns and some reliable trait combinations. You can essentially ignore stability, handling and reload speed with the right traits, so You're left with range choices for the barrel, but Tactical Mag gets you to the maximum of 8 rounds, so there's no point looking at Appended or Extended Mag. In the first trait column as the support perk, Threat Detector at two stacks maxes handling and reload speed, and increases stability to around 80 and Surrounded in the second column as the signature perk boosts damage by 40% (+47% for the enhanced version). Alternatively, Trench Barrel boosts damage by 50% for three shots after a melee hit. Recommended MW: Range, with a damage-boosting (Major, Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2883484461&perks=3250034553,106909392,4071163871,3708227201
+dimwishlist:item=2883484461&perks=1482024992,106909392,4071163871,3708227201
+dimwishlist:item=2883484461&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=2883484461&perks=3250034553,106909392,4071163871,2360754333
+dimwishlist:item=2883484461&perks=1482024992,106909392,4071163871,2360754333
+dimwishlist:item=2883484461&perks=4090651448,106909392,4071163871,2360754333
+
+// Until Its Return (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), Tactical Mag, (Overflow, Auto-Loading Holster), (Surrounded, Trench Barrel)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Majors in end-game content. Shapeable. Until Its Return has decent stats in comparison to other kinetic slot rapid-fire shotguns and some reliable trait combinations. Handling is the best thing to aim for with the barrel perk, but range and stability can be useful too. Tactical Mag gets you to the maximum of 8 rounds, so there's no point looking at Appended or Extended Mag. In the first trait column as the support perk, Overflow is great for doubling the mag size for running over an ammo brick, or Auto-Loading Holster means you can rely on a full magazine every time you pull it out. Surrounded in the second column as the signature perk boosts damage by 40% (+47% for the enhanced version). Alternatively, Trench Barrel boosts damage by 50% for three shots after a melee hit. Recommended MW: Handling or Range, with a damage-boosting (Major, Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2883484461&perks=1300023272,106909392,3643424744,3708227201
+dimwishlist:item=2883484461&perks=4090651448,106909392,3643424744,3708227201
+dimwishlist:item=2883484461&perks=1482024992,106909392,3643424744,3708227201
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3708227201
+dimwishlist:item=2883484461&perks=4090651448,106909392,3300816228,3708227201
+dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,3708227201
+dimwishlist:item=2883484461&perks=1300023272,106909392,3643424744,2360754333
+dimwishlist:item=2883484461&perks=4090651448,106909392,3643424744,2360754333
+dimwishlist:item=2883484461&perks=1482024992,106909392,3643424744,2360754333
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,2360754333
+dimwishlist:item=2883484461&perks=4090651448,106909392,3300816228,2360754333
+dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,2360754333
+
+// Thin Precipice (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Unrelenting, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Minor add-clearing in end-game content. Shapeable. Thin Precipice is the first Strand sword, and is the fan-favourite vortex (spin-to-win) frame to boot. As with all swords, Jagged Edge is the usual choice for the blade for its increased damage. and Swordmaster's Guard bumps charge time for heavy spin attacks. There aren't many swords that can roll both Unrelenting in the first trait column as the support perk, and Chain Reaction in the second column as the signature perk - the combination should mean you can safely wade into crowds of adds, and enjoy the explosions around you that proc your health regeneration. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=4066778670&perks=3666208348,269888150,3108830275,2396489472
+
+// Thin Precipice (PvE first-choice roll)
+// Jagged Edge, Heavy Guard, Tireless Blade, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Minor add-clearing in end-game content. Shapeable. Thin Precipice is the first Strand sword, and is the fan-favourite vortex (spin-to-win) frame to boot. As with all swords, Jagged Edge is the usual choice for the blade for its increased damage. To pair with your traits, you'll want to go with heavy guard, mainly to slow your charge time. The play here is to use unpowered heavy attacks, which do a bit less damage but only cost 1 ammo, to proc Tireless Blade in the first trait column as the support perk and refund ammo for every other kill - if you're lucky you can return more ammo than you use. In the second column as the signature perk, Golden Tricorn's first stack will easily make up the reduced damage after the first kill, or Chain Reaction's AoE damage should mean you can wade into crowds of adds, while never running out of ammo. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=4066778670&perks=3666208348,2349202967,2590710093,2610012052
+dimwishlist:item=4066778670&perks=3666208348,2349202967,2590710093,2396489472
+
+// Thin Precipice (PvE first-choice roll)
+// Jagged Edge, Heavy Guard, Tireless Blade, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Strand synergy Minor add-clearing in end-game content. Shapeable. Thin Precipice is the first Strand sword, and is the fan-favourite vortex (spin-to-win) frame to boot. As with all swords, Jagged Edge is the usual choice for the blade for its increased damage. To pair with your traits, you'll want to go with heavy guard, mainly to slow your charge time. The play here is to use unpowered heavy attacks, which do a bit less damage but only cost 1 ammo, to proc Tireless Blade in the first trait column as the support perk and refund ammo for every other kill - if you're lucky you can return more ammo than you use. In the second column as the signature perk, you should be regularly proccing Hatchling by rapidly defeating targets, to build into the Strand verbs, while never running out of ammo. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=4066778670&perks=3666208348,2349202967,2590710093,831391274
+
+// Thin Precipice (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Flash Counter, Counterattack
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage to Majors in end-game content. Shapeable. Thin Precipice is the first Strand sword, and is the fan-favourite vortex (spin-to-win) frame to boot. As with all swords, Jagged Edge is the usual choice for the blade for its increased damage and Swordmaster's Guard to reduce the time it takes for your heavy attack to charge. Against a Major that's just about to stomp, bring up your block to us Flash Counter in the first trait column as the support park, to suppress and weaken them for 4s, and then you'll have a couple of seconds with a 50% damage bonus for your heavy spin attack, with Counterattack in the second column as the signature perk. Recommended MW: Impact, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=4066778670&perks=3666208348,269888150,2244851822,3016987351
+
+// Thin Precipice (PvE backup roll)
+// Jagged Edge, Swordmaster's Guard, Relentless Strikes, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): Backup PvE pick for burst damage to Majors in end-game content. Shapeable. Thin Precipice is the first Strand sword, and is the fan-favourite vortex (spin-to-win) frame to boot. As with all swords, Jagged Edge is the usual choice for the blade for its increased damage and Swordmaster's Guard to reduce the time it takes for your heavy attack to charge. For burst damage against Majors, Relentless Strikes in the first column as the support park refunds ammo after three hits and, after collecting an Elemental pickup you'll have 7s with a 20% boost to damage. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=4066778670&perks=3666208348,269888150,1749209109,3324494224
+
+// Spare Rations (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Flared Magwell, Appended Mag), (Rapid Hit, Slideshot), Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Minor add-clearing in end-game content. Spare Rations is in a difficult place stats-wise still having the lower stats of the old 150 Lightweight subfamily even though it's been rolled into the Adaptives. However, it's the first hand cannon that can drop with Kinetic Tremors, so it might be worth keeping around in case a rework makes it a bit easier to proc. Fill in some of the stats with the barrel - Fluted Barrel or Smallbore bump your preference between range, stability and handling. In the mag, Flared Magwell bumps stats up a bit more, or Appended Mag gets you to the maximum of 14 shots. For end-game add clearing Rapid Hit is the best choice for the first trait column support park - stacking buffs to stability and reload speed or, if you can run and slide, Slideshot partially reloads and applies passive range and stability bumps. In the second column as the signature perk, Kinetic Tremors does currently (v7.1.0.2, S21) take six hits to proc, but if that's ever given a buff, this could be great for AoE damege for a group of adds while collecting ammo and orbs remotely. Recommended MW: any, based on your preference, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3236112986&perks=1840239774,3230963543,247725512,3891536761
+dimwishlist:item=3236112986&perks=1482024992,3230963543,247725512,3891536761
+dimwishlist:item=3236112986&perks=1840239774,1087426260,247725512,3891536761
+dimwishlist:item=3236112986&perks=1482024992,1087426260,247725512,3891536761
+dimwishlist:item=3236112986&perks=1840239774,3230963543,3161816588,3891536761
+dimwishlist:item=3236112986&perks=1482024992,3230963543,3161816588,3891536761
+dimwishlist:item=3236112986&perks=1840239774,1087426260,3161816588,3891536761
+dimwishlist:item=3236112986&perks=1482024992,1087426260,3161816588,3891536761
+
+// Spare Rations (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Flared Magwell, Appended Mag), Subsistence, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Minor add-clearing in general content. Spare Rations is in a difficult place stats-wise still having the lower stats of the old 150 Lightweight subfamily even though it's been rolled into the Adaptives. However, it's the first hand cannon that can drop with Kinetic Tremors, so it might be worth keeping around in case a rework makes it a bit easier to proc. Fill in some of the stats with the barrel - Fluted Barrel or Smallbore bump your preference between range, stability and handling. In the mag, Flared Magwell bumps stats up a bit more, or Appended Mag gets you to the maximum of 14 shots. For general add clearing Subsistence in the first trait column as the support park keeps your magazine topped up as you get kills. In the second column as the signature perk, Kinetic Tremors does currently (v7.1.0.2, S21) take six hits to proc, but if that's ever given a buff, this could be great for AoE damege for a group of adds while collecting ammo and orbs remotely. Recommended MW: any, based on your preference, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3236112986&perks=1840239774,3230963543,1820235745,3891536761
+dimwishlist:item=3236112986&perks=1482024992,3230963543,1820235745,3891536761
+dimwishlist:item=3236112986&perks=1840239774,1087426260,1820235745,3891536761
+dimwishlist:item=3236112986&perks=1482024992,1087426260,1820235745,3891536761
+
+// Bug-Out Bag (PvE first-choice roll)
+// (Extended Barrel, Chambered Compensator), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Threat Detector, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects.  First-choice PvE pick for Solar synergy and Minor add-clearing in end-game content. If you haven't got an Incandescent Calus Mini-Tool, the Bug-Out Bag could be a very acceptable alternative. Decent stats but, if you get Threat Detector as a perk, you can pretty much ignore stability, handling and reload with your barrel choices, so you might as well control the recoil a little instead - Extended Barrel or Chambered Compensator take the Recoil Direction to a near-perfect 98. Any of the Combat Effect magazine perks adds utility, and a little range on top. In the first trait column as the support perk, Threat Detector at two stacks takes stability to around 80 and maxes out handling and reload speed and Incandescent as the second column signature perk is great for add clearing and builds into your scorch and ignite Solar verbs. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2832639510&perks=1467527085,1561002382,4071163871,4293542123,3230963543
+dimwishlist:item=2832639510&perks=3661387068,1561002382,4071163871,4293542123,3230963543
+dimwishlist:item=2832639510&perks=1467527085,1968497646,4071163871,4293542123,3230963543
+dimwishlist:item=2832639510&perks=3661387068,1968497646,4071163871,4293542123,3230963543
+dimwishlist:item=2832639510&perks=1467527085,1885400500,4071163871,4293542123,3230963543
+dimwishlist:item=2832639510&perks=3661387068,1885400500,4071163871,4293542123,3230963543
+
+// Bug-Out Bag (PvE first-choice roll)
+// (Smallbore, Fluted Barrel), (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), (Perpetual Motion, Slideways), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (??? 1820235745 ???): First-choice PvE pick for Solar synergy and Minor add-clearing in end-game content. If you haven't got an Incandescent Calus Mini-Tool, the Bug-Out Bag could be a very acceptable alternative. Decent stats, but Fluted Barrel or Smallbore layer on useful gunfeel stat bumps. Flared Magwell adds further stability and reload speed bumps, or any of the Combat Effect magazine perks adds utility, and a little range on top. In the first trait column as the support perk, Perpetual Motion or Slideways both layer on even more stat boosts and Incandescent as the second column signature perk is great for add clearing and builds into your scorch and ignite Solar verbs. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller|tags:1820235745
+dimwishlist:item=2832639510&perks=1482024992,3230963543,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1840239774,3230963543,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1561002382,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1561002382,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1968497646,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1968497646,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1885400500,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1885400500,1428297954,4293542123
+dimwishlist:item=2832639510&perks=1482024992,3230963543,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1840239774,3230963543,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1561002382,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1561002382,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1968497646,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1968497646,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1885400500,2039302152,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1885400500,2039302152,4293542123
+
+// Bug-Out Bag (PvE first-choice roll)
+// (Smallbore, Fluted Barrel), (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Subsistence, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Solar synergy and Minor add-clearing in general content. If you haven't got an Incandescent Calus Mini-Tool, the Bug-Out Bag could be a very acceptable alternative. Decent stats, but Fluted Barrel or Smallbore layer on useful gunfeel stat bumps. Flared Magwell adds further stability and reload speed bumps, or any of the Combat Effect magazine perks adds utility, and a little range on top. In the first trait column as the support perk, Subsistence keeps your magazine topped up after a kill, and Incandescent as the second column signature perk is great for add clearing and builds into your scorch and ignite Solar verbs. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=2832639510&perks=1482024992,3230963543,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1840239774,3230963543,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1561002382,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1561002382,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1968497646,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1968497646,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1482024992,1885400500,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1840239774,1885400500,1820235745,4293542123
+
+
