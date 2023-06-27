@@ -1,0 +1,140 @@
+@title:Season 21 Ghost of the Deep Dungeon weapons
+@description:Ghost of the Deep Dungeon weapons with the Restoration Ritual origin trait
+
+// New Pacific Epitaph (PvE first-choice roll)
+// Quick Launch, High-Velocity Rounds, (Demolitionist, Lead From Gold, Unrelenting), Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE pick for minor add clear in endgame activities. New Pacific Epitaph is the first kinetic slot wave frame grenade launcher, so there's no direct comparison, but compared to the energy slot versions the stats are decent. As ever, play is to get the shot speed as high as you can, so Quick Launch in the barrel and High-Velocity Rounds in the magazine are the best choices. For use against endgame minor adds, as the first trait column support perk Demolitionist (which returns 20% grenade energy on special weapons, and allows for an instant reload on a grenade throw), or Lead from Gold for ammo economy, or Unrelenting to help you stay alive all work well. In the second column as the signature Perk, Collective Action should be easy to proc with all the Elemental Pickups now available, for a 20% damage boost for 7s. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Velocity, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1125217994&perks=3525010810,2822142346,3523296417,3324494224
+dimwishlist:item=1125217994&perks=3525010810,2822142346,1556840489,3324494224
+dimwishlist:item=1125217994&perks=3525010810,2822142346,3108830275,3324494224
+
+// New Pacific Epitaph (PvE backup roll)
+// (Hard Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, (Demolitionist, Lead From Gold, Unrelenting), Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): Backup PvE pick for minor add clear in endgame activities. New Pacific Epitaph is the first kinetic slot wave frame grenade launcher, so there's no direct comparison, but compared to the energy slot versions the stats are decent. As ever, play is to get the shot speed as high as you can, so Quick Launch in the barrel and High-Velocity Rounds in the magazine are the best choices. For use against endgame minor adds, as the first trait column support perk Demolitionist (which returns 20% grenade energy on special weapons, and allows for an instant reload on a grenade throw), or Lead from Gold for ammo economy, or Unrelenting to help you stay alive all work well. In the second column as the signature Perk, Collective Action should be easy to proc with all the Elemental Pickups now available, for a 20% damage boost for 7s. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Velocity, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1125217994&perks=981914802,2822142346,3523296417,3324494224
+dimwishlist:item=1125217994&perks=1441682018,2822142346,3523296417,3324494224
+dimwishlist:item=1125217994&perks=3798852852,2822142346,3523296417,3324494224
+dimwishlist:item=1125217994&perks=981914802,2822142346,1556840489,3324494224
+dimwishlist:item=1125217994&perks=1441682018,2822142346,1556840489,3324494224
+dimwishlist:item=1125217994&perks=3798852852,2822142346,1556840489,3324494224
+dimwishlist:item=1125217994&perks=981914802,2822142346,3108830275,3324494224
+dimwishlist:item=1125217994&perks=1441682018,2822142346,3108830275,3324494224
+dimwishlist:item=1125217994&perks=3798852852,2822142346,3108830275,3324494224
+
+// New Pacific Epitaph (PvE first-choice roll)
+// Quick Launch, High-Velocity Rounds, Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE pick for minor add clear in endgame activities. New Pacific Epitaph is the first kinetic slot wave frame grenade launcher, so there's no direct comparison, but compared to the energy slot versions the stats are decent. As ever, play is to get the shot speed as high as you can, so Quick Launch in the barrel and High-Velocity Rounds in the magazine are the best choices. For use against endgame minor adds, as the first trait column support perk Demolitionist, which returns 20% grenade energy on special weapons, and allows for an instant reload on a grenade throw works well. In the second column as the signature Perk, Adrenaline Junkie is a natural pairing, boosting damage by 33% for 4.5s after a grenade kill. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Velocity, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1125217994&perks=3525010810,2822142346,3523296417,11612903
+
+// New Pacific Epitaph (PvE first-choice roll)
+// (Hard Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for minor add clear in endgame activities. New Pacific Epitaph is the first kinetic slot wave frame grenade launcher, so there's no direct comparison, but compared to the energy slot versions the stats are decent. As ever, play is to get the shot speed as high as you can, so Quick Launch in the barrel and High-Velocity Rounds in the magazine are the best choices. For use against endgame minor adds, as the first trait column support perk Demolitionist, which returns 20% grenade energy on special weapons, and allows for an instant reload on a grenade throw works well. In the second column as the signature Perk, Adrenaline Junkie is a natural pairing, boosting damage by 33% for 4.5s after a grenade kill. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Velocity, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1125217994&perks=981914802,2822142346,3523296417,11612903
+dimwishlist:item=1125217994&perks=1441682018,2822142346,3523296417,11612903
+dimwishlist:item=1125217994&perks=3798852852,2822142346,3523296417,11612903
+
+// No Survivors (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Demolitionist, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for minor add clear in endgame activities, particularly for solar synergy. No Survivors has decent stats - high range, handling and recoil direction but low stability. We can help that with stability options in the barrel and mag, although with the high rate of fire and high chance you'll be in CQC, any of the combat effect mag perks will work. If you missed out on an Incandescent Calus Mini-Tool, you can roll something similar by using Demolitionist in the first trait slot as the support perk, and Incandescent in the second slot as the signature perk. Incandescent kills count as weapon kills, so every energy that dies to scorch or ignite damage will grant 10% energy as well as direct kills. Add your pick of Embers of Tempering, Char, Eruption, Ashes, Mercy or Searing to turn this innto a CQC add-clear beast. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3262192268&perks=1392496348,3230963543,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1482024992,3230963543,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1840239774,3230963543,3523296417,4293542123
+dimwishlist:item=3262192268&perks=4090651448,3230963543,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1392496348,1968497646,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1482024992,1968497646,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1840239774,1968497646,3523296417,4293542123
+dimwishlist:item=3262192268&perks=4090651448,1968497646,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1392496348,1561002382,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1482024992,1561002382,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1840239774,1561002382,3523296417,4293542123
+dimwishlist:item=3262192268&perks=4090651448,1561002382,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1392496348,1885400500,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1482024992,1885400500,3523296417,4293542123
+dimwishlist:item=3262192268&perks=1840239774,1885400500,3523296417,4293542123
+dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,4293542123
+
+// No Survivors (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), (Demolitionist, Surplus, Well-Rounded), Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for minor add clear in endgame activities, particularly for solar synergy. No Survivors has decent stats - high range, handling and recoil direction but low stability. We can help that with stability options in the barrel and mag, although with the high rate of fire and high chance you'll be in CQC, any of the combat effect mag perks will work. In your first trait slot as the support perk, Demolitionist is always useful but, to boost the gunfeel stats, Surplus and Well-Rounded can also work well. Then, in the second trait slot as the signature perk, Collective Action boosts damage by 20% for collecting an Elemental Pickup (any pickup, not just Firesprites). Add your pick of Embers of Tempering and Mercy to proc and keep Collective Action going and boost restoration, and this turns into an add-clearing machine. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3262192268&perks=1392496348,3230963543,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1482024992,3230963543,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1840239774,3230963543,3523296417,3324494224
+dimwishlist:item=3262192268&perks=4090651448,3230963543,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1968497646,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1968497646,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1968497646,3523296417,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1968497646,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1561002382,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1561002382,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1561002382,3523296417,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1561002382,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1885400500,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1885400500,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1885400500,3523296417,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,3324494224
+dimwishlist:item=3262192268&perks=1392496348,3230963543,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1482024992,3230963543,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1840239774,3230963543,3436462433,3324494224
+dimwishlist:item=3262192268&perks=4090651448,3230963543,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1968497646,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1968497646,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1968497646,3436462433,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1968497646,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1561002382,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1561002382,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1561002382,3436462433,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1561002382,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1885400500,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1885400500,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1885400500,3436462433,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1885400500,3436462433,3324494224
+dimwishlist:item=3262192268&perks=1392496348,3230963543,744594675,3324494224
+dimwishlist:item=3262192268&perks=1482024992,3230963543,744594675,3324494224
+dimwishlist:item=3262192268&perks=1840239774,3230963543,744594675,3324494224
+dimwishlist:item=3262192268&perks=4090651448,3230963543,744594675,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1968497646,744594675,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1968497646,744594675,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1968497646,744594675,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1968497646,744594675,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1561002382,744594675,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1561002382,744594675,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1561002382,744594675,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1561002382,744594675,3324494224
+dimwishlist:item=3262192268&perks=1392496348,1885400500,744594675,3324494224
+dimwishlist:item=3262192268&perks=1482024992,1885400500,744594675,3324494224
+dimwishlist:item=3262192268&perks=1840239774,1885400500,744594675,3324494224
+dimwishlist:item=3262192268&perks=4090651448,1885400500,744594675,3324494224
+
+// Greasy Luck (PvE first-choice roll)
+// Supercooled Accelerator, Auxiliary Reserves), (Light Mag, Appended Mag, Drop Mag, Accurized Rounds, Swap Mag), Disruption Break, Close to Melee
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for minor add clear in general activities. The first rapid-fire legendary glaive, which looks like it offers high rate-of-fire, handling and reload speed, but lower range, impact and shield duration. Supercooled Accelerator seems like the best of the haft perks to boost the range, or Auxiliary Reserves helps shore up the Shield Duration, both at the cost of one or both of handling and reload. For glaive melee fans, the combination of Disruption Break in the first trait slot as the support perk weakens targets by 50% to kinetic damage for 5.5s once you've broken their shield with a glaive bolt and guess what? Glaive melees are kinetic, so you can slash away to your heart's content. If they don't have a shield, Close to Melee in the second column as the signature perk boosts your glaive melee damage by 30% for 10s for getting a projectile kill, with the timer being refreshed by 5s after another melee kill. The Restoration Ritual origin trait is also occasionally useful for an instant reload after proccing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1757202961&perks=1934171651,679225683,1683379515,1782407750
+dimwishlist:item=1757202961&perks=580685494,679225683,1683379515,1782407750
+dimwishlist:item=1757202961&perks=1934171651,1431678320,1683379515,1782407750
+dimwishlist:item=1757202961&perks=580685494,1431678320,1683379515,1782407750
+dimwishlist:item=1757202961&perks=1934171651,1087426260,1683379515,1782407750
+dimwishlist:item=1757202961&perks=580685494,1087426260,1683379515,1782407750
+dimwishlist:item=1757202961&perks=1934171651,3142289711,1683379515,1782407750
+dimwishlist:item=1757202961&perks=580685494,3142289711,1683379515,1782407750
+dimwishlist:item=1757202961&perks=1934171651,3721627275,1683379515,1782407750
+dimwishlist:item=1757202961&perks=580685494,3721627275,1683379515,1782407750
+
+// Cold Comfort (PvE first-choice roll)
+// Quick Launch, Alloy Casing, Envious Assassin, (Explosive Light, Bait and Switch, Bipod)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for burst damage against Majors and Bosses in end-game activities. Cold Comfort has decent stats, including ammo reserves so you can get to 10 host with three reserve mods. This could be a sleeper pick for burst damage against Major enemies, and against boss enemies with short damage windows. Aggressives are the fastest-firing subfamily, in the group with the highest damage per shot. Quick Launch is the usual play for the barrel, to improve velocity. For as high a damage output as possible, Alloy Casing boosts reload speed by 30. Envious Assassin, in the first trait slot as the support perk, can get you 3 in the mag from six rapid kills - let's just say they just all fit in the barrel paracausally - and if you have the Restoration Ritual origin trait procced, that'll be four shots without reloading. Bait and Switch provides the highest damage boost - 35% when procced, but needs some setup, or Explosive Light is a 25% damage boost just for picking up some orbs. As a left-field pick though, don't throw away a bipod roll - it'll only take a small change to the perk to make it extremely competitive, doubling the barrel capacity and adding 5 to your reserves. That could mean seven shots without reloading... Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec). Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3194351027
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,1439600632
+
+// Cold Comfort (PvE backup roll)
+// (Hard Launch, Linear Compensator, Smart Drift Control), Alloy Casing, Envious Assassin, (Explosive Light, Bait and Switch, Bipod)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 67 (https://open.spotify.com/episode/3wGaXiUGMNodLkPkGFdBd3?si=42e0db2e63a443b7) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. (???  ???): Backup PvE pick for burst damage against Majors and Bosses in end-game activities. Cold Comfort has decent stats, including ammo reserves so you can get to 10 host with three reserve mods. This could be a sleeper pick for burst damage against Major enemies, and against boss enemies with short damage windows. Aggressives are the fastest-firing subfamily, in the group with the highest damage per shot. First, a velocity-boosting perk is the usual play for the barrel. For as high a damage output as possible, Alloy Casing boosts reload speed by 30. Envious Assassin, in the first trait slot as the support perk, can get you 3 in the mag from six rapid kills - let's just say they just all fit in the barrel paracausally - and if you have the Restoration Ritual origin trait procced, that'll be four shots without reloading. Bait and Switch provides the highest damage boost - 35% when procced, but needs some setup, or Explosive Light is a 25% damage boost just for picking up some orbs. As a left-field pick though, don't throw away a bipod roll - it'll only take a small change to the perk to make it extremely competitive, doubling the barrel capacity and adding 5 to your reserves. That could mean seven shots without reloading, if you include the origin trait... Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec). Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec PvE-EndGame, Controller, M+KB
+dimwishlist:item=839786290&perks=981914802,3796465595,968510818,3194351027
+dimwishlist:item=839786290&perks=1441682018,3796465595,968510818,3194351027
+dimwishlist:item=839786290&perks=3798852852,3796465595,968510818,3194351027
+dimwishlist:item=839786290&perks=981914802,3796465595,968510818,3078487919
+dimwishlist:item=839786290&perks=1441682018,3796465595,968510818,3078487919
+dimwishlist:item=839786290&perks=3798852852,3796465595,968510818,3078487919
+dimwishlist:item=839786290&perks=981914802,3796465595,968510818,1439600632
+dimwishlist:item=839786290&perks=1441682018,3796465595,968510818,1439600632
+dimwishlist:item=839786290&perks=3798852852,3796465595,968510818,1439600632
