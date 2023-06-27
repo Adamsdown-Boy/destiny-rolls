@@ -1,4 +1,4 @@
-@title:Season 21 Trials, Iron Banner and Nightfall weap[ons weapons
+@title:Season 21 Trials, Iron Banner and Nightfall weapons weapons
 @description:Season of the Deep selected new and returning Trials, Iron Banner and Nightfall weapons
 
 // The Messenger (PvP first-choice roll)
