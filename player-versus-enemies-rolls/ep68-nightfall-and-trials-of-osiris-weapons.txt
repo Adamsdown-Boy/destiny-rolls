@@ -1,0 +1,397 @@
+@title:Season 21 Nightfall and Trials of Osiris weapons
+@description:Season of the Deep new and reprised Vanguard and Crucible end-game weapons
+
+// Buzzard (PvE first-choice roll)
+// Full Bore, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), Encore, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for minor add clear in end-game activities. Buzzard is a sidearm so it's likely to be less than optimal for end-game content, as you have to be very close to use one. It's got good stats overall, but the subfamily is all quite compressed. We can get pretty much every stat close to 100 with this particular roll, except for range so max that out with Full Bore in the barrel, a range Masterwork and any of the Combat Effect magazine perks. In the first trait column as the support perk, Encore wouldn't normally be under consideration, as it's mainly thought of as a PvP perk, but at four stacks it adds -5% accuracy cone growth for easier crits, 20 Range and 32 Stability. With Frenzy in the second trait slot as the signature perk procced, you end up with range of 86, stability of 89 or 99 (depending on the mag), and handling and reload speed at 100, as well as the useful 15% damage boost. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=213264394&perks=202670084,1885400500,1195158366,4104185692
+dimwishlist:item=213264394&perks=202670084,1561002382,1195158366,4104185692
+dimwishlist:item=213264394&perks=202670084,1968497646,1195158366,4104185692
+
+// Buzzard (Adept) (PvE first-choice roll)
+// Full Bore, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), Encore, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for minor add clear in end-game activities. Buzzard is a sidearm so it's likely to be less than optimal for end-game content, as you have to be very close to use one. It's got good stats overall, but the subfamily is all quite compressed. We can get pretty much every stat close to 100 with this particular roll, except for range so max that out with Full Bore in the barrel, a range Masterwork and any of the Combat Effect magazine perks. In the first trait column as the support perk, Encore wouldn't normally be under consideration, as it's mainly thought of as a PvP perk, but at four stacks it adds -5% accuracy cone growth for easier crits, 20 Range and 32 Stability. With Frenzy in the second trait slot as the signature perk procced, you end up with range of 86, stability of 89 or 99 (depending on the mag), and handling and reload speed at 100, as well as the useful 15% damage boost. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=927835311&perks=202670084,1885400500,1195158366,4104185692
+dimwishlist:item=927835311&perks=202670084,1561002382,1195158366,4104185692
+dimwishlist:item=927835311&perks=202670084,1968497646,1195158366,4104185692
+
+// Loaded Question (PvE first-choice roll)
+// (Fluted Barrel, Hammer-Forged Rifling, Smallbore), (Ionized Battery, Enhanced Battery), Reservoir Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for burst damage against Majors in end-game activities. Loaded Question is back, and has some interesting new combinations. Being a high-impact fusion rifle, there are only five bolts, so stability is slightly less of an issue - Fluted Barrel adds useful handling, and Hammer-Forged Rifling or Smallbore add Range as the barrel perk. There are traits which bypass reload time and work best with as large a magazine as possible, so Ionized or Enhanced Battery are the top battery choices. In the first trait slot as the support perk, Overflow doubles your magazine size just for running over a special ammo brick, or 7-8 rapid kills with another weapon overfills the magazine by up to 10 shots with Envious Assassin. Every shot in your overfilled mag, beyond it's normal limit, will trigger Reservoir Burst in the second trait slot as the signature perk, a Chain Reaction-type explosions on kills to clear adds, and +25% damage to burst down Majors and maybe the occasional boss DPS phase. Plus you can build into the Arc 3.0 blinding and jolting verb kit with an arc subclass, making this a bit of a PvE Swiss-Army Knife. Recommended MW: Handling or Charge Time, with a damage-boosting (Major, Boss, or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MinorSpec, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3125454907&perks=1840239774,1483536627,3643424744,1427256713
+dimwishlist:item=3125454907&perks=1482024992,1483536627,3643424744,1427256713
+dimwishlist:item=3125454907&perks=1840239774,2680121939,3643424744,1427256713
+dimwishlist:item=3125454907&perks=1482024992,2680121939,3643424744,1427256713
+dimwishlist:item=3125454907&perks=1840239774,1483536627,968510818,1427256713
+dimwishlist:item=3125454907&perks=1482024992,1483536627,968510818,1427256713
+dimwishlist:item=3125454907&perks=1840239774,2680121939,968510818,1427256713
+dimwishlist:item=3125454907&perks=1482024992,2680121939,968510818,1427256713
+
+// Loaded Question (PvE first-choice roll)
+// (Fluted Barrel, Hammer-Forged Rifling, Smallbore), (Ionized Battery, Enhanced Battery), Reservoir Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for burst damage against Majors in end-game activities. Loaded Question is back, and has some interesting new combinations. Being a high-impact fusion rifle, there are only five bolts, so stability is slightly less of an issue - Fluted Barrel adds useful handling, and Hammer-Forged Rifling or Smallbore add Range as the barrel perk. There are traits which bypass reload time and work best with as large a magazine as possible, so Ionized or Enhanced Battery are the top battery choices. In the first trait slot as the support perk, Overflow doubles your magazine size just for running over a special ammo brick, or 7-8 rapid kills with another weapon overfills the magazine by up to 10 shots with Envious Assassin. Every shot in your overfilled mag, beyond it's normal limit, can be used with Controlled Burst - hit all the bolts to get +20% to damage and 10% reduced charge time to burst down Majors and maybe for the occasional boss DPS phase. Recommended MW: Handling or Charge Time, with a damage-boosting (Major, Boss, or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3125454907&perks=1840239774,1483536627,3643424744,2594592626
+dimwishlist:item=3125454907&perks=1482024992,1483536627,3643424744,2594592626
+dimwishlist:item=3125454907&perks=1840239774,2680121939,3643424744,2594592626
+dimwishlist:item=3125454907&perks=1482024992,2680121939,3643424744,2594592626
+dimwishlist:item=3125454907&perks=1840239774,1483536627,968510818,2594592626
+dimwishlist:item=3125454907&perks=1482024992,1483536627,968510818,2594592626
+dimwishlist:item=3125454907&perks=1840239774,2680121939,968510818,2594592626
+dimwishlist:item=3125454907&perks=1482024992,2680121939,968510818,2594592626
+
+// Loaded Question (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Hammer-Forged Rifling, Smallbore), (Ionized Battery, Enhanced Battery), Reservoir Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for burst damage against Majors in end-game activities. Loaded Question is back, and has some interesting new combinations. Being a high-impact fusion rifle, there are only five bolts, so stability is slightly less of an issue - Fluted Barrel adds useful handling, and Hammer-Forged Rifling or Smallbore add Range as the barrel perk. There are traits which bypass reload time and work best with as large a magazine as possible, so Ionized or Enhanced Battery are the top battery choices. In the first trait slot as the support perk, Overflow doubles your magazine size just for running over a special ammo brick, or 7-8 rapid kills with another weapon overfills the magazine by up to 10 shots with Envious Assassin. Every shot in your overfilled mag, beyond it's normal limit, will trigger Reservoir Burst in the second trait slot as the signature perk, a Chain Reaction-type explosions on kills to clear adds, and +25% damage to burst down Majors and maybe the occasional boss DPS phase. Plus you can build into the Arc 3.0 blinding and jolting verb kit with an arc subclass, making this a bit of a PvE Swiss-Army Knife. Recommended MW: Handling or Charge Time, with a damage-boosting (Adept Big Ones, or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MinorSpec, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2914913838&perks=1840239774,1483536627,3643424744,1427256713
+dimwishlist:item=2914913838&perks=1482024992,1483536627,3643424744,1427256713
+dimwishlist:item=2914913838&perks=1840239774,2680121939,3643424744,1427256713
+dimwishlist:item=2914913838&perks=1482024992,2680121939,3643424744,1427256713
+dimwishlist:item=2914913838&perks=1840239774,1483536627,968510818,1427256713
+dimwishlist:item=2914913838&perks=1482024992,1483536627,968510818,1427256713
+dimwishlist:item=2914913838&perks=1840239774,2680121939,968510818,1427256713
+dimwishlist:item=2914913838&perks=1482024992,2680121939,968510818,1427256713
+
+// Loaded Question (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Hammer-Forged Rifling, Smallbore), (Ionized Battery, Enhanced Battery), Reservoir Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for burst damage against Majors in end-game activities. Loaded Question is back, and has some interesting new combinations. Being a high-impact fusion rifle, there are only five bolts, so stability is slightly less of an issue - Fluted Barrel adds useful handling, and Hammer-Forged Rifling or Smallbore add Range as the barrel perk. There are traits which bypass reload time and work best with as large a magazine as possible, so Ionized or Enhanced Battery are the top battery choices. In the first trait slot as the support perk, Overflow doubles your magazine size just for running over a special ammo brick, or 7-8 rapid kills with another weapon overfills the magazine by up to 10 shots with Envious Assassin. Every shot in your overfilled mag, beyond it's normal limit, can be used with Controlled Burst - hit all the bolts to get +20% to damage and 10% reduced charge time to burst down Majors and maybe for the occasional boss DPS phase. Recommended MW: Handling or Charge Time, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2914913838&perks=1840239774,1483536627,3643424744,2594592626
+dimwishlist:item=2914913838&perks=1482024992,1483536627,3643424744,2594592626
+dimwishlist:item=2914913838&perks=1840239774,2680121939,3643424744,2594592626
+dimwishlist:item=2914913838&perks=1482024992,2680121939,3643424744,2594592626
+dimwishlist:item=2914913838&perks=1840239774,1483536627,968510818,2594592626
+dimwishlist:item=2914913838&perks=1482024992,1483536627,968510818,2594592626
+dimwishlist:item=2914913838&perks=1840239774,2680121939,968510818,2594592626
+dimwishlist:item=2914913838&perks=1482024992,2680121939,968510818,2594592626
+
+// THE SWARM (PvE first-choice roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. It's difficult to love the reprised SWARM for PvE when the best damage perk has been lost, and the PvE options in both trait columns are weak. The only viable use is for minor add-clear as a kind of heavy scout rifle, but if you already have an older Bottomless Grief/One For All roll, just keep that and move on. If you do want to hold on to one, you could make an argument for any barrel perk - Fluted Barrel, for the handling and stability, Polygonal Rifling, for the big stability bump or Full Bore for the range bump, for example. In the mag, Appended Mag adds extra bullets, Flared Magwell adds straight stability and Reload Speed or Tactical Mag does both. In the first trait column as the support perk, Feeding Frenzy and Well Rounded are the best of a limited bunch, while in the second slot as the signature perk, Golden Tricorn is much the only choice - a straight 15% damage boost on kills that can be boosted to 50% with an arc ability kill for occasional burst damage against Majors. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2759590322&perks=1840239774,106909392,2779035018,2610012052
+dimwishlist:item=2759590322&perks=1392496348,106909392,2779035018,2610012052
+dimwishlist:item=2759590322&perks=202670084,106909392,2779035018,2610012052
+dimwishlist:item=2759590322&perks=1840239774,1087426260,2779035018,2610012052
+dimwishlist:item=2759590322&perks=1392496348,1087426260,2779035018,2610012052
+dimwishlist:item=2759590322&perks=202670084,1087426260,2779035018,2610012052
+dimwishlist:item=2759590322&perks=1840239774,3230963543,2779035018,2610012052
+dimwishlist:item=2759590322&perks=1392496348,3230963543,2779035018,2610012052
+dimwishlist:item=2759590322&perks=202670084,3230963543,2779035018,2610012052
+dimwishlist:item=2759590322&perks=1840239774,106909392,744594675,2610012052
+dimwishlist:item=2759590322&perks=1392496348,106909392,744594675,2610012052
+dimwishlist:item=2759590322&perks=202670084,106909392,744594675,2610012052
+dimwishlist:item=2759590322&perks=1840239774,1087426260,744594675,2610012052
+dimwishlist:item=2759590322&perks=1392496348,1087426260,744594675,2610012052
+dimwishlist:item=2759590322&perks=202670084,1087426260,744594675,2610012052
+dimwishlist:item=2759590322&perks=1840239774,3230963543,744594675,2610012052
+dimwishlist:item=2759590322&perks=1392496348,3230963543,744594675,2610012052
+dimwishlist:item=2759590322&perks=202670084,3230963543,744594675,2610012052
+
+// THE SWARM (Adept) (PvE first-choice roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. It's difficult to love the reprised SWARM for PvE when the best damage perk has been lost, and the PvE options in both trait columns are weak. The only viable use is for minor add-clear as a kind of heavy scout rifle, but if you already have an older Bottomless Grief/One For All roll, just keep that and move on. If you do want to hold on to one, you could make an argument for any barrel perk - Fluted Barrel, for the handling and stability, Polygonal Rifling, for the big stability bump or Full Bore for the range bump, for example. In the mag, Appended Mag adds extra bullets, Flared Magwell adds straight stability and Reload Speed or Tactical Mag does both. In the first trait column as the support perk, Feeding Frenzy and Well Rounded are the best of a limited bunch, while in the second slot as the signature perk, Golden Tricorn is much the only choice - a straight 15% damage boost on kills that can be boosted to 50% with an arc ability kill for occasional burst damage against Majors. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=566740455&perks=1840239774,106909392,2779035018,2610012052
+dimwishlist:item=566740455&perks=1392496348,106909392,2779035018,2610012052
+dimwishlist:item=566740455&perks=202670084,106909392,2779035018,2610012052
+dimwishlist:item=566740455&perks=1840239774,1087426260,2779035018,2610012052
+dimwishlist:item=566740455&perks=1392496348,1087426260,2779035018,2610012052
+dimwishlist:item=566740455&perks=202670084,1087426260,2779035018,2610012052
+dimwishlist:item=566740455&perks=1840239774,3230963543,2779035018,2610012052
+dimwishlist:item=566740455&perks=1392496348,3230963543,2779035018,2610012052
+dimwishlist:item=566740455&perks=202670084,3230963543,2779035018,2610012052
+dimwishlist:item=566740455&perks=1840239774,106909392,744594675,2610012052
+dimwishlist:item=566740455&perks=1392496348,106909392,744594675,2610012052
+dimwishlist:item=566740455&perks=202670084,106909392,744594675,2610012052
+dimwishlist:item=566740455&perks=1840239774,1087426260,744594675,2610012052
+dimwishlist:item=566740455&perks=1392496348,1087426260,744594675,2610012052
+dimwishlist:item=566740455&perks=202670084,1087426260,744594675,2610012052
+dimwishlist:item=566740455&perks=1840239774,3230963543,744594675,2610012052
+dimwishlist:item=566740455&perks=1392496348,3230963543,744594675,2610012052
+dimwishlist:item=566740455&perks=202670084,3230963543,744594675,2610012052
+
+// BrayTech Osprey (PvE first-choice roll)
+// Quick Launch, Hard Launch), Impact Casing, Field Prep, Bipod
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey has the worst stats in its subfamily. But there might be an interesting roll for burst damage worth looking at anyway. Increase the velocity stat with the barrel and masterwork - Quick Launch and Hard Launch are the best options, and Impact Casing adds 2.2% multiplicative damage. In the first trait column as the support perk, for burst damage against Majors or sustained damage against a Boss, Field Prep for the extra reserves, which means you only have to run two reserves mods for the maximum number of rockets, and have the reload speed boost when crouched. In the second trait slot as the signature perk, Bipod could be very interesting - two in the mag, even with the loss of damage being offset by less need to reload. Maybe one to keep, just in case. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, Pve-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3667553455&perks=3525010810,3796465595,2869569095,1439600632
+dimwishlist:item=3667553455&perks=981914802,3796465595,2869569095,1439600632
+
+// BrayTech Osprey (PvE first-choice roll)
+// Quick Launch, Hard Launch), Impact Casing, Envious Assassin, Bipod
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey has the worst stats in its subfamily. But there might be an interesting roll for burst damage worth looking at anyway. Increase the velocity stat with the barrel and masterwork - Quick Launch and Hard Launch are the best options, and Impact Casing adds 2.2% multiplicative damage. In the first trait column as the support perk, for burst damage against Majors or sustained damage against a Boss, six rapid kills with another another weapon with Envious Assassin can get you five rockets in the mag (just don't ask how that works...). In the second trait slot as the signature perk, Bipod could be very interesting - at base, two or more in the mag, even with the loss of damage being offset by less need to reload, could still make for higher DPS than standard launchers. Maybe one to keep, just in case Bipod gets a little buff. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, Pve-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3667553455&perks=3525010810,3796465595,968510818,1439600632
+dimwishlist:item=3667553455&perks=981914802,3796465595,968510818,1439600632
+
+// BrayTech Osprey (PvE first-choice roll)
+// Volatile Launch, High-Velocity Rounds, Cluster Bombs, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey has the worst stats in its subfamily. So, would you really use a rocket launcher for add clear? If the answer is yes (not sure it should be, but you go girl/boy/bot/peep), then use the barrel and mag to get to 100 blast radius without hurting velocity, and add Cluster Bombs and Chain Reaction for as much destruction as possible over as wide an area as possible. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3667553455&perks=1478423395,2822142346,1275731761,2396489472
+
+// BrayTech Osprey (PvE first-choice roll)
+// Linear Compensator, Black Powder, Cluster Bombs, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey has the worst stats in its subfamily. So, would you really use a rocket launcher for add clear? If the answer is yes (not sure it should be, but you go girl/boy/bot/peep), then use the barrel and mag to get to 100 blast radius without hurting velocity, and add Cluster Bombs and Chain Reaction for as much destruction as possible over as wide an area as possible. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3667553455&perks=1441682018,1996142143,1275731761,2396489472
+
+/ BrayTech Osprey (Adept) (PvE first-choice roll)
+// Quick Launch, Hard Launch), Impact Casing, Field Prep, Bipod
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey (Adept) has the worst stats in its subfamily. But there might be an interesting roll for burst damage worth looking at anyway. Increase the velocity stat with the barrel and masterwork - Quick Launch and Hard Launch are the best options, and Impact Casing adds 2.2% multiplicative damage. In the first trait column as the support perk, for burst damage against Majors or sustained damage against a Boss, Field Prep for the extra reserves, which means you only have to run two reserves mods for the maximum number of rockets, and have the reload speed boost when crouched. In the second trait slot as the signature perk, Bipod could be very interesting - two in the mag, even with the loss of damage being offset by less need to reload. Maybe one to keep, just in case. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, Pve-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1064132738&perks=3525010810,3796465595,2869569095,1439600632
+dimwishlist:item=1064132738&perks=981914802,3796465595,2869569095,1439600632
+
+// BrayTech Osprey (Adept) (PvE first-choice roll)
+// Quick Launch, Hard Launch), Impact Casing, Envious Assassin, Bipod
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey (Adept) has the worst stats in its subfamily. But there might be an interesting roll for burst damage worth looking at anyway. Increase the velocity stat with the barrel and masterwork - Quick Launch and Hard Launch are the best options, and Impact Casing adds 2.2% multiplicative damage. In the first trait column as the support perk, for burst damage against Majors or sustained damage against a Boss, six rapid kills with another another weapon with Envious Assassin can get you five rockets in the mag (just don't ask how that works...). In the second trait slot as the signature perk, Bipod could be very interesting - at base, two or more in the mag, even with the loss of damage being offset by less need to reload, could still make for higher DPS than standard launchers. Maybe one to keep, just in case Bipod gets a little buff. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, Pve-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1064132738&perks=3525010810,3796465595,968510818,1439600632
+dimwishlist:item=1064132738&perks=981914802,3796465595,968510818,1439600632
+
+// BrayTech Osprey (Adept) (PvE first-choice roll)
+// Volatile Launch, High-Velocity Rounds, Cluster Bombs, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey (Adept) has the worst stats in its subfamily. So, would you really use a rocket launcher for add clear? If the answer is yes (not sure it should be, but you go girl/boy/bot/peep), then use the barrel and mag to get to 100 blast radius without hurting velocity, and add Cluster Bombs and Chain Reaction for as much destruction as possible over as wide an area as possible. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1064132738&perks=1478423395,2822142346,1275731761,2396489472
+
+// BrayTech Osprey (Adept) (PvE first-choice roll)
+// Linear Compensator, Black Powder, Cluster Bombs, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. High-Impact Rocket Launchers are meant for add-clear - they have the highest blast radius stat of the subfamilies and do middling damage - 10% less than Adaptives or Aggressives. And saying that, BrayTech Osprey (Adept) has the worst stats in its subfamily. So, would you really use a rocket launcher for add clear? If the answer is yes (not sure it should be, but you go girl/boy/bot/peep), then use the barrel and mag to get to 100 blast radius without hurting velocity, and add Cluster Bombs and Chain Reaction for as much destruction as possible over as wide an area as possible. Recommended MW: Reload Speed or Velocity, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1064132738&perks=1441682018,1996142143,1275731761,2396489472
+
+// The Immortal (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Threat Detector, Surplus, Perpetual Motion), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities, particularly with a Strand subclass. While you've probably been melted a few times in PvP with The Immortal, it's still interesting in PvE as the first aggressive frame Strand SMG (the same subfamily as Ikelos).It's an absolute stat monster and the support perks can make it even more so, so we'll start with a range-boosting barrel, and any of the "Rounds" magazines. In the first trait column for the support perk, Threat Detector, Surplus (particularly easy to maintain with the extra melee charges from Strand), or Perpetual Motion will bump gunfeel stats up. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. In the second column, Hatchling is the natural choice to pair with a Strand subclass to generate Threadlings for add control. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=4039572196&perks=202670084,1885400500,1428297954,831391274
+dimwishlist:item=4039572196&perks=3250034553,1885400500,1428297954,831391274
+dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,831391274
+dimwishlist:item=4039572196&perks=202670084,1561002382,1428297954,831391274
+dimwishlist:item=4039572196&perks=3250034553,1561002382,1428297954,831391274
+dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,831391274
+dimwishlist:item=4039572196&perks=202670084,1968497646,1428297954,831391274
+dimwishlist:item=4039572196&perks=3250034553,1968497646,1428297954,831391274
+dimwishlist:item=4039572196&perks=1482024992,1968497646,1428297954,831391274
+dimwishlist:item=4039572196&perks=202670084,1885400500,4071163871,831391274
+dimwishlist:item=4039572196&perks=3250034553,1885400500,4071163871,831391274
+dimwishlist:item=4039572196&perks=1482024992,1885400500,4071163871,831391274
+dimwishlist:item=4039572196&perks=202670084,1561002382,4071163871,831391274
+dimwishlist:item=4039572196&perks=3250034553,1561002382,4071163871,831391274
+dimwishlist:item=4039572196&perks=1482024992,1561002382,4071163871,831391274
+dimwishlist:item=4039572196&perks=202670084,1968497646,4071163871,831391274
+dimwishlist:item=4039572196&perks=3250034553,1968497646,4071163871,831391274
+dimwishlist:item=4039572196&perks=1482024992,1968497646,4071163871,831391274
+dimwishlist:item=4039572196&perks=202670084,1885400500,3436462433,831391274
+dimwishlist:item=4039572196&perks=3250034553,1885400500,3436462433,831391274
+dimwishlist:item=4039572196&perks=1482024992,1885400500,3436462433,831391274
+dimwishlist:item=4039572196&perks=202670084,1561002382,3436462433,831391274
+dimwishlist:item=4039572196&perks=3250034553,1561002382,3436462433,831391274
+dimwishlist:item=4039572196&perks=1482024992,1561002382,3436462433,831391274
+dimwishlist:item=4039572196&perks=202670084,1968497646,3436462433,831391274
+dimwishlist:item=4039572196&perks=3250034553,1968497646,3436462433,831391274
+dimwishlist:item=4039572196&perks=1482024992,1968497646,3436462433,831391274
+
+// The Immortal (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Threat Detector, Surplus, Perpetual Motion), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. While you've probably been melted a few times in PvP with The Immortal, it's still interesting in PvE as the first aggressive frame Strand SMG (the same subfamily as Ikelos).It's an absolute stat monster and the support perks can make it even more so, so we'll start with Full Bore in the barrel, and any of the "Rounds" magazines. In the first trait column for the support perk, Threat Detector, Surplus (particularly easy to maintain with the extra melee charges from Strand), or Perpetual Motion will bump gunfeel stats up. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. In the second column, while you'll never get to the top damage tier with no way to overfill the mag, Target Lock is a decent 25%-ish bump to damage for continuous fire against a single target. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=4039572196&perks=202670084,1885400500,1428297954,365154968
+dimwishlist:item=4039572196&perks=3250034553,1885400500,1428297954,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,365154968
+dimwishlist:item=4039572196&perks=202670084,1561002382,1428297954,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,1428297954,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,365154968
+dimwishlist:item=4039572196&perks=202670084,1968497646,1428297954,365154968
+dimwishlist:item=4039572196&perks=3250034553,1968497646,1428297954,365154968
+dimwishlist:item=4039572196&perks=1482024992,1968497646,1428297954,365154968
+dimwishlist:item=4039572196&perks=202670084,1885400500,4071163871,365154968
+dimwishlist:item=4039572196&perks=3250034553,1885400500,4071163871,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,4071163871,365154968
+dimwishlist:item=4039572196&perks=202670084,1561002382,4071163871,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,4071163871,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,4071163871,365154968
+dimwishlist:item=4039572196&perks=202670084,1968497646,4071163871,365154968
+dimwishlist:item=4039572196&perks=3250034553,1968497646,4071163871,365154968
+dimwishlist:item=4039572196&perks=1482024992,1968497646,4071163871,365154968
+dimwishlist:item=4039572196&perks=202670084,1885400500,3436462433,365154968
+dimwishlist:item=4039572196&perks=3250034553,1885400500,3436462433,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,3436462433,365154968
+dimwishlist:item=4039572196&perks=202670084,1561002382,3436462433,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,3436462433,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,3436462433,365154968
+dimwishlist:item=4039572196&perks=202670084,1968497646,3436462433,365154968
+dimwishlist:item=4039572196&perks=3250034553,1968497646,3436462433,365154968
+dimwishlist:item=4039572196&perks=1482024992,1968497646,3436462433,365154968
+
+// The Immortal (Adept) (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Threat Detector, Surplus, Perpetual Motion), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities, particularly with a Strand subclass. While you've probably been melted a few times in PvP with The Immortal, it's still interesting in PvE as the first aggressive frame Strand SMG (the same subfamily as Ikelos).It's an absolute stat monster and the support perks can make it even more so, so we'll start with a range-boosting barrel, and any of the "Rounds" magazines. In the first trait column for the support perk, Threat Detector, Surplus (particularly easy to maintain with the extra melee charges from Strand), or Perpetual Motion will bump gunfeel stats up. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. In the second column, Hatchling is the natural choice to pair with a Strand subclass to generate Threadlings for add control. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3193598749&perks=202670084,1885400500,1428297954,831391274
+dimwishlist:item=3193598749&perks=3250034553,1885400500,1428297954,831391274
+dimwishlist:item=3193598749&perks=1482024992,1885400500,1428297954,831391274
+dimwishlist:item=3193598749&perks=202670084,1561002382,1428297954,831391274
+dimwishlist:item=3193598749&perks=3250034553,1561002382,1428297954,831391274
+dimwishlist:item=3193598749&perks=1482024992,1561002382,1428297954,831391274
+dimwishlist:item=3193598749&perks=202670084,1968497646,1428297954,831391274
+dimwishlist:item=3193598749&perks=3250034553,1968497646,1428297954,831391274
+dimwishlist:item=3193598749&perks=1482024992,1968497646,1428297954,831391274
+dimwishlist:item=3193598749&perks=202670084,1885400500,4071163871,831391274
+dimwishlist:item=3193598749&perks=3250034553,1885400500,4071163871,831391274
+dimwishlist:item=3193598749&perks=1482024992,1885400500,4071163871,831391274
+dimwishlist:item=3193598749&perks=202670084,1561002382,4071163871,831391274
+dimwishlist:item=3193598749&perks=3250034553,1561002382,4071163871,831391274
+dimwishlist:item=3193598749&perks=1482024992,1561002382,4071163871,831391274
+dimwishlist:item=3193598749&perks=202670084,1968497646,4071163871,831391274
+dimwishlist:item=3193598749&perks=3250034553,1968497646,4071163871,831391274
+dimwishlist:item=3193598749&perks=1482024992,1968497646,4071163871,831391274
+dimwishlist:item=3193598749&perks=202670084,1885400500,3436462433,831391274
+dimwishlist:item=3193598749&perks=3250034553,1885400500,3436462433,831391274
+dimwishlist:item=3193598749&perks=1482024992,1885400500,3436462433,831391274
+dimwishlist:item=3193598749&perks=202670084,1561002382,3436462433,831391274
+dimwishlist:item=3193598749&perks=3250034553,1561002382,3436462433,831391274
+dimwishlist:item=3193598749&perks=1482024992,1561002382,3436462433,831391274
+dimwishlist:item=3193598749&perks=202670084,1968497646,3436462433,831391274
+dimwishlist:item=3193598749&perks=3250034553,1968497646,3436462433,831391274
+dimwishlist:item=3193598749&perks=1482024992,1968497646,3436462433,831391274
+
+// The Immortal (Adept) (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling, Smallbore), (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Threat Detector, Surplus, Perpetual Motion), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear in end-game activities. While you've probably been melted a few times in PvP with The Immortal, it's still interesting in PvE as the first aggressive frame Strand SMG (the same subfamily as Ikelos).It's an absolute stat monster and the support perks can make it even more so, so we'll start with Full Bore in the barrel, and any of the "Rounds" magazines. In the first trait column for the support perk, Threat Detector, Surplus (particularly easy to maintain with the extra melee charges from Strand), or Perpetual Motion will bump gunfeel stats up. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. In the second column, while you'll never get to the top damage tier with no way to overfill the mag, Target Lock is a decent 25%-ish bump to damage for continuous fire against a single target. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3193598749&perks=202670084,1885400500,1428297954,365154968
+dimwishlist:item=3193598749&perks=3250034553,1885400500,1428297954,365154968
+dimwishlist:item=3193598749&perks=1482024992,1885400500,1428297954,365154968
+dimwishlist:item=3193598749&perks=202670084,1561002382,1428297954,365154968
+dimwishlist:item=3193598749&perks=3250034553,1561002382,1428297954,365154968
+dimwishlist:item=3193598749&perks=1482024992,1561002382,1428297954,365154968
+dimwishlist:item=3193598749&perks=202670084,1968497646,1428297954,365154968
+dimwishlist:item=3193598749&perks=3250034553,1968497646,1428297954,365154968
+dimwishlist:item=3193598749&perks=1482024992,1968497646,1428297954,365154968
+dimwishlist:item=3193598749&perks=202670084,1885400500,4071163871,365154968
+dimwishlist:item=3193598749&perks=3250034553,1885400500,4071163871,365154968
+dimwishlist:item=3193598749&perks=1482024992,1885400500,4071163871,365154968
+dimwishlist:item=3193598749&perks=202670084,1561002382,4071163871,365154968
+dimwishlist:item=3193598749&perks=3250034553,1561002382,4071163871,365154968
+dimwishlist:item=3193598749&perks=1482024992,1561002382,4071163871,365154968
+dimwishlist:item=3193598749&perks=202670084,1968497646,4071163871,365154968
+dimwishlist:item=3193598749&perks=3250034553,1968497646,4071163871,365154968
+dimwishlist:item=3193598749&perks=1482024992,1968497646,4071163871,365154968
+dimwishlist:item=3193598749&perks=202670084,1885400500,3436462433,365154968
+dimwishlist:item=3193598749&perks=3250034553,1885400500,3436462433,365154968
+dimwishlist:item=3193598749&perks=1482024992,1885400500,3436462433,365154968
+dimwishlist:item=3193598749&perks=202670084,1561002382,3436462433,365154968
+dimwishlist:item=3193598749&perks=3250034553,1561002382,3436462433,365154968
+dimwishlist:item=3193598749&perks=1482024992,1561002382,3436462433,365154968
+dimwishlist:item=3193598749&perks=202670084,1968497646,3436462433,365154968
+dimwishlist:item=3193598749&perks=3250034553,1968497646,3436462433,365154968
+dimwishlist:item=3193598749&perks=1482024992,1968497646,3436462433,365154968
+
+// The Messenger (PvE first-choice roll)
+// Arrowhead Brake, Armor-Piercing Rounds, Under-Over, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for Anti-barrier Champion use in end-game activities. The reprised Messenger has a few new tricks for Season 21, which make it worth a look. Good stats across the board, except for recoil direction, which we can help out with Arrowhead Brake in the barrel slot, which takes it to a controllable 90. For use against Barrier Champions, Armor-Piercing Rounds adds 5% damage to shields and barrier, which is boosted a further 10% with Under-Over in the first trait slot as the support perk. In the second slot, the new-for-Lightfall Kinetic Tremors as the signature perk adds bonus AoE damage for 12 hits (or four bursts), damaging the stunned Champion and any adds within 5m. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. Recommended MW: any will work, depending on your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3796795102&perks=839105230,1968497646,1870851715,3891536761
+
+// The Messenger (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Rapid Hit, Perpetual Motion), Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear use in end-game activities. The reprised Messenger has a few new tricks for Season 21, which make it worth a look. Good stats across the board, except for recoil direction, which we can help out with Arrowhead Brake in the barrel slot, which takes it to a controllable 90. For the magazine perk, any of the "Rounds" mags or Flared Magwell work well. For your first trait column support perk, Rapid Hit and Perpetual Motion can both layer on addition gunfeel boosts on top. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. Finally, in the second slot, the new-for-Lightfall Kinetic Tremors as the signature perk adds bonus AoE damage for 12 hits (or four bursts), damaging your target and any adds within 5m. Recommended MW: any will work, depending on your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3796795102&perks=839105230,3230963543,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,1968497646,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,1561002382,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,1885400500,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,3230963543,247725512,3891536761
+dimwishlist:item=3796795102&perks=839105230,1968497646,247725512,3891536761
+dimwishlist:item=3796795102&perks=839105230,1561002382,247725512,3891536761
+dimwishlist:item=3796795102&perks=839105230,1885400500,247725512,3891536761
+
+// The Messenger (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Rapid Hit, Perpetual Motion), Desperado
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear use in general activities. The reprised Messenger has a few new tricks for Season 21, which make it worth a look. Good stats across the board, except for recoil direction, which we can help out with Arrowhead Brake in the barrel slot, which takes it to a controllable 90. For the magazine perk, any of the "Rounds" mags or Flared Magwell work well. For your first trait column support perk, Rapid Hit and Perpetual Motion can both layer on addition gunfeel boosts on top. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. Finally, in the second slot, for non-endgame content, Desperado can be fun, increasing your DPS output by 30% for 6s by reloading after a crit kill. Recommended MW: any will work, depending on your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3796795102&perks=839105230,3230963543,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,1968497646,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,1561002382,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,1885400500,1428297954,3891536761
+dimwishlist:item=3796795102&perks=839105230,3230963543,247725512,3891536761
+dimwishlist:item=3796795102&perks=839105230,1968497646,247725512,3891536761
+dimwishlist:item=3796795102&perks=839105230,1561002382,247725512,3891536761
+dimwishlist:item=3796795102&perks=839105230,1885400500,247725512,3891536761
+
+// The Messenger (Adept) (PvE first-choice roll)
+// Arrowhead Brake, Armor-Piercing Rounds, Under-Over, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for Anti-barrier Champion use in end-game activities. The reprised Messenger has a few new tricks for Season 21, which make it worth a look. Good stats across the board, except for recoil direction, which we can help out with Arrowhead Brake in the barrel slot, which takes it to a controllable 90. For use against Barrier Champions, Armor-Piercing Rounds adds 5% damage to shields and barrier, which is boosted a further 10% with Under-Over in the first trait slot as the support perk. In the second slot, the new-for-Lightfall Kinetic Tremors as the signature perk adds bonus AoE damage for 12 hits (or four bursts), damaging the stunned Champion and any adds within 5m. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. Recommended MW: any will work, depending on your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=364665267&perks=839105230,1968497646,1870851715,3891536761
+
+// The Messenger (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Rapid Hit, Perpetual Motion), Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear use in end-game activities. The reprised Messenger has a few new tricks for Season 21, which make it worth a look. Good stats across the board, except for recoil direction, which we can help out with Arrowhead Brake in the barrel slot, which takes it to a controllable 90. For the magazine perk, any of the "Rounds" mags or Flared Magwell work well. For your first trait column support perk, Rapid Hit and Perpetual Motion can both layer on addition gunfeel boosts on top. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. Finally, in the second slot, the new-for-Lightfall Kinetic Tremors as the signature perk adds bonus AoE damage for 12 hits (or four bursts), damaging your target and any adds within 5m. Recommended MW: any will work, depending on your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=364665267&perks=839105230,3230963543,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,1968497646,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,1561002382,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,1885400500,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,3230963543,247725512,3891536761
+dimwishlist:item=364665267&perks=839105230,1968497646,247725512,3891536761
+dimwishlist:item=364665267&perks=839105230,1561002382,247725512,3891536761
+dimwishlist:item=364665267&perks=839105230,1885400500,247725512,3891536761
+
+// The Messenger (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds), (Rapid Hit, Perpetual Motion), Desperado
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for add-clear use in general activities. The reprised Messenger has a few new tricks for Season 21, which make it worth a look. Good stats across the board, except for recoil direction, which we can help out with Arrowhead Brake in the barrel slot, which takes it to a controllable 90. For the magazine perk, any of the "Rounds" mags or Flared Magwell work well. For your first trait column support perk, Rapid Hit and Perpetual Motion can both layer on addition gunfeel boosts on top. If you're running solo content, don't forget the Alacrity origin trait to pretty much max out every stat on the board, and add 10 Aim Assist too. Finally, in the second slot, for non-endgame content, Desperado can be fun, increasing your DPS output by 30% for 6s by reloading after a crit kill. Recommended MW: any will work, depending on your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=364665267&perks=839105230,3230963543,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,1968497646,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,1561002382,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,1885400500,1428297954,3891536761
+dimwishlist:item=364665267&perks=839105230,3230963543,247725512,3891536761
+dimwishlist:item=364665267&perks=839105230,1968497646,247725512,3891536761
+dimwishlist:item=364665267&perks=839105230,1561002382,247725512,3891536761
+dimwishlist:item=364665267&perks=839105230,1885400500,247725512,3891536761
+
+// Unexpected Resurgence (PvE first-choice roll)
+// (Auxiliary Reserves, Supercooled Accelerator), (Appended Mag, Accurized Rounds, Light Mag, Alloy Mag), Replenishing Aegis, Unstoppable Force
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for chunky add-clear use in endgame activities. The stats on Unexpected Resurgence make it the best adaptive glaive in the sandbox as at Season 21. Every Haft choice involves a trade-off but for most, the improved shield from Auxiliary Reserves, or maybe the range (which = projectile speed) from Supercooled Accelerator, are worth the penalty to reload speed, which we can get around. In the mag, Appended Mag for the extra shot (Extended doesn't do anything more for you), or Accurized Rounds for the range are options, and if reload speed is still a worry, Light Mag or Alloy Mag help out. In the first trait column as the support park, the new-to-Lightfall Replenishing Aegis partially refills the mag on shield damage, and Unstoppable Force as the second column signature perk is a natural pairing, boosting damage by 20% for blocking the same damage with your shield. As an arc speacial weapon, you can also build into blinding and Jolting verbs with an arc subclass, and don't forget the Alacrity origin trait for solo content to pretty much max out range and reload speed, and add 10 Aim Assist too. Recommended MW: Range or Shield Duration, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=4005780578&perks=839105230,580685494,1966281507,2224838837
+dimwishlist:item=4005780578&perks=1934171651,580685494,1966281507,2224838837
+dimwishlist:item=4005780578&perks=839105230,3142289711,1966281507,2224838837
+dimwishlist:item=4005780578&perks=1934171651,3142289711,1966281507,2224838837
+dimwishlist:item=4005780578&perks=839105230,679225683,1966281507,2224838837
+dimwishlist:item=4005780578&perks=1934171651,679225683,1966281507,2224838837
+dimwishlist:item=4005780578&perks=839105230,1431678320,1966281507,2224838837
+dimwishlist:item=4005780578&perks=1934171651,1431678320,1966281507,2224838837
+
+// Unexpected Resurgence (PvE first-choice roll)
+// (Auxiliary Reserves, Supercooled Accelerator), (Appended Mag, Accurized Rounds, Light Mag, Alloy Mag), (Replenishing Aegis, Subsistence), Close to Melee
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for chunky add-clear use in general activities. The stats on Unexpected Resurgence make it the best adaptive glaive in the sandbox as at Season 21. Every Haft choice involves a trade-off but for most, the improved shield from Auxiliary Reserves, or maybe the range (which = projectile speed) from Supercooled Accelerator, are worth the penalty to reload speed, which we can get around. In the mag, Appended Mag for the extra shot (Extended doesn't do anything more for you), or Accurized Rounds for the range are options, and if reload speed is still a worry, Light Mag or Alloy Mag help out. In the first trait column as the support park, the new-to-Lightfall Replenishing Aegis partially refills the mag on shield damage, or Subsistence will do the same on Projectile kills. The other new perk, Close to Melee, as the second column signature perk is great for those who like to wade in and glaive melee, increasing damage by 30% for 10s after a projectile kill. As an arc speacial weapon, you can also build into blinding and Jolting verbs with an arc subclass, and don't forget the Alacrity origin trait for solo content to pretty much max out range and reload speed, and add 10 Aim Assist too. Recommended MW: Range or Shield Duration, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=4005780578&perks=839105230,580685494,1966281507,1782407750
+dimwishlist:item=4005780578&perks=1934171651,580685494,1966281507,1782407750
+dimwishlist:item=4005780578&perks=839105230,3142289711,1966281507,1782407750
+dimwishlist:item=4005780578&perks=1934171651,3142289711,1966281507,1782407750
+dimwishlist:item=4005780578&perks=839105230,679225683,1966281507,1782407750
+dimwishlist:item=4005780578&perks=1934171651,679225683,1966281507,1782407750
+dimwishlist:item=4005780578&perks=839105230,1431678320,1966281507,1782407750
+dimwishlist:item=4005780578&perks=1934171651,1431678320,1966281507,1782407750
+dimwishlist:item=4005780578&perks=839105230,580685494,1820235745,1782407750
+dimwishlist:item=4005780578&perks=1934171651,580685494,1820235745,1782407750
+dimwishlist:item=4005780578&perks=839105230,3142289711,1820235745,1782407750
+dimwishlist:item=4005780578&perks=1934171651,3142289711,1820235745,1782407750
+dimwishlist:item=4005780578&perks=839105230,679225683,1820235745,1782407750
+dimwishlist:item=4005780578&perks=1934171651,679225683,1820235745,1782407750
+dimwishlist:item=4005780578&perks=839105230,1431678320,1820235745,1782407750
+dimwishlist:item=4005780578&perks=1934171651,1431678320,1820235745,1782407750
+
+// Unexpected Resurgence (Adept) (PvE first-choice roll)
+// (Auxiliary Reserves, Supercooled Accelerator), (Appended Mag, Accurized Rounds, Light Mag, Alloy Mag), Replenishing Aegis, Unstoppable Force
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for chunky add-clear use in endgame activities. The stats on Unexpected Resurgence make it the best adaptive glaive in the sandbox as at Season 21. Every Haft choice involves a trade-off but for most, the improved shield from Auxiliary Reserves, or maybe the range (which = projectile speed) from Supercooled Accelerator, are worth the penalty to reload speed, which we can get around. In the mag, Appended Mag for the extra shot (Extended doesn't do anything more for you), or Accurized Rounds for the range are options, and if reload speed is still a worry, Light Mag or Alloy Mag help out. In the first trait column as the support park, the new-to-Lightfall Replenishing Aegis partially refills the mag on shield damage, and Unstoppable Force as the second column signature perk is a natural pairing, boosting damage by 20% for blocking the same damage with your shield. As an arc speacial weapon, you can also build into blinding and Jolting verbs with an arc subclass, and don't forget the Alacrity origin trait for solo content to pretty much max out range and reload speed, and add 10 Aim Assist too. Recommended MW: Range or Shield Duration, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1141586039&perks=839105230,580685494,1966281507,2224838837
+dimwishlist:item=1141586039&perks=1934171651,580685494,1966281507,2224838837
+dimwishlist:item=1141586039&perks=839105230,3142289711,1966281507,2224838837
+dimwishlist:item=1141586039&perks=1934171651,3142289711,1966281507,2224838837
+dimwishlist:item=1141586039&perks=839105230,679225683,1966281507,2224838837
+dimwishlist:item=1141586039&perks=1934171651,679225683,1966281507,2224838837
+dimwishlist:item=1141586039&perks=839105230,1431678320,1966281507,2224838837
+dimwishlist:item=1141586039&perks=1934171651,1431678320,1966281507,2224838837
+
+// Unexpected Resurgence (Adept) (PvE first-choice roll)
+// (Auxiliary Reserves, Supercooled Accelerator), (Appended Mag, Accurized Rounds, Light Mag, Alloy Mag), (Replenishing Aegis, Subsistence), Close to Melee
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 68 (https://open.spotify.com/episode/7e93LMhFDUbZZX5SKYzXf0?si=cec8c26785114ffb) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. (???  ???): First-choice PvE pick for chunky add-clear use in general activities. The stats on Unexpected Resurgence make it the best adaptive glaive in the sandbox as at Season 21. Every Haft choice involves a trade-off but for most, the improved shield from Auxiliary Reserves, or maybe the range (which = projectile speed) from Supercooled Accelerator, are worth the penalty to reload speed, which we can get around. In the mag, Appended Mag for the extra shot (Extended doesn't do anything more for you), or Accurized Rounds for the range are options, and if reload speed is still a worry, Light Mag or Alloy Mag help out. In the first trait column as the support park, the new-to-Lightfall Replenishing Aegis partially refills the mag on shield damage, or Subsistence will do the same on Projectile kills. The other new perk, Close to Melee, as the second column signature perk is great for those who like to wade in and glaive melee, increasing damage by 30% for 10s after a projectile kill. As an arc speacial weapon, you can also build into blinding and Jolting verbs with an arc subclass, and don't forget the Alacrity origin trait for solo content to pretty much max out range and reload speed, and add 10 Aim Assist too. Recommended MW: Range or Shield Duration, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1141586039&perks=839105230,580685494,1966281507,1782407750
+dimwishlist:item=1141586039&perks=1934171651,580685494,1966281507,1782407750
+dimwishlist:item=1141586039&perks=839105230,3142289711,1966281507,1782407750
+dimwishlist:item=1141586039&perks=1934171651,3142289711,1966281507,1782407750
+dimwishlist:item=1141586039&perks=839105230,679225683,1966281507,1782407750
+dimwishlist:item=1141586039&perks=1934171651,679225683,1966281507,1782407750
+dimwishlist:item=1141586039&perks=839105230,1431678320,1966281507,1782407750
+dimwishlist:item=1141586039&perks=1934171651,1431678320,1966281507,1782407750
+dimwishlist:item=1141586039&perks=839105230,580685494,1820235745,1782407750
+dimwishlist:item=1141586039&perks=1934171651,580685494,1820235745,1782407750
+dimwishlist:item=1141586039&perks=839105230,3142289711,1820235745,1782407750
+dimwishlist:item=1141586039&perks=1934171651,3142289711,1820235745,1782407750
+dimwishlist:item=1141586039&perks=839105230,679225683,1820235745,1782407750
+dimwishlist:item=1141586039&perks=1934171651,679225683,1820235745,1782407750
+dimwishlist:item=1141586039&perks=839105230,1431678320,1820235745,1782407750
+dimwishlist:item=1141586039&perks=1934171651,1431678320,1820235745,1782407750
+
