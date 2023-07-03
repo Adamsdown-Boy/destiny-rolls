@@ -37,19 +37,19 @@ dimwishlist:item=1081724548&perks=1392496348,1968497646,1428297954,124408337
 // Rapacious Appetite (PvE first-choice roll)
 // (Fluted Barrel, Chambered Compensator, Smallbore, Polygonal Rifling), (Flared Magwell, Ricochet Rounds, Armor-Piercing Rounds, High-Caliber Rounds), Perpetual Motion, One For All
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 61 (https://open.spotify.com/episode/4XT0gPkoVSh3cM6gMtSupq?si=18db495353ca49ad) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for minor add clear in endgame activities. Shapeable. Rapacious Appetite is one of only two Stasis aggressive SMGs as at S21, so there's not much to compare the stats against. But even so, the stability of 6 might make you pause. On the plus side, the range is the highest in the subfamily. You'll need stability on a controller, so start with a stability barrel and a Stability masterwork. In the mag, Flared Magwell or the Combat Effect perks all provide utility. The easiest way to add the gunfeel stats you need in an end-game roll is through Perpetual Motion in the first trait column as your support perk and then, in the second column as the signature perk, One For All is an easy-to-proc 35% boost to damage for add clear, or to take on the occasional major. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1081724548&perks=1840239774,,3230963543,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,3230963543,1428297954,4049631843
 dimwishlist:item=1081724548&perks=3661387068,3230963543,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1482024992,3230963543,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1392496348,3230963543,1428297954,4049631843
-dimwishlist:item=1081724548&perks=1840239774,,1885400500,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,1885400500,1428297954,4049631843
 dimwishlist:item=1081724548&perks=3661387068,1885400500,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1482024992,1885400500,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1392496348,1885400500,1428297954,4049631843
-dimwishlist:item=1081724548&perks=1840239774,,1561002382,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,1561002382,1428297954,4049631843
 dimwishlist:item=1081724548&perks=3661387068,1561002382,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1482024992,1561002382,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1392496348,1561002382,1428297954,4049631843
-dimwishlist:item=1081724548&perks=1840239774,,1968497646,1428297954,4049631843
+dimwishlist:item=1081724548&perks=1840239774,1968497646,1428297954,4049631843
 dimwishlist:item=1081724548&perks=3661387068,1968497646,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1482024992,1968497646,1428297954,4049631843
 dimwishlist:item=1081724548&perks=1392496348,1968497646,1428297954,4049631843
