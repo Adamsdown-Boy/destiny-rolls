@@ -1,0 +1,263 @@
+@title:Season 21 Last Wish weapons
+@description:The Giggity episode, presenting reprised Last Wish raid weapons with the Explosive Pact origin trait
+
+// Chattering Bone (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Kill Clip, Rampage
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in general activities. Shapeable. Not a huge selection of Lightweight Pulse Rifles to compare with, but Chattering Bone is still best-in-class stats across the board, and provides a +20 mobility bonus and 6.25% faster movement speed. Even if it's best in class, the recoil direction still needs attention - Arrowhead Break takes it to a controllable 87, and adds a bump to handling. Either Flared Magwell or Tactical Mag will speed up the reload with ideally a reload speed masterwork (fast reloads keep the two damage perks uptime maximised), as well as adding in some stability and, in the latter's case, an extra burst. The old spicy Kill Clip/Rampage roll is still available, and is unique on a pulse rifle to this weapon as at S21. Proccing both gives a whopping 66.2% damage bump to go on a roll with. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=501329015&perks=839105230,3230963543,1015611457,3425386926
+dimwishlist:item=501329015&perks=839105230,106909392,1015611457,3425386926
+
+// Chattering Bone (PvE first-choice roll)
+// Arrowhead Brake, Accurized Rounds, Keep Away, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in end-game activities. Shapeable. Not a huge selection of Lightweight Pulse Rifles to compare with, but Chattering Bone is still best-in-class stats across the board, and provides a +20 mobility bonus and 6.25% faster movement speed. Even if it's best in class, the recoil direction still needs attention - Arrowhead Break takes it to a controllable 87, and adds a bump to handling. If you're on M+KB, stability will be less of a concern, so you can afford to push out range, so Accurized Rounds is your best choice, and then on top of that, Keep Away in the first trait column as the support perk will add additional range and accuracy bonuses to make crits easier, even if it's normally thought of as a PvP perk. Finally, as the second column signature perk, Kinetic Tremors only needs four bursts to land to proc. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=501329015&perks=839105230,3142289711,3619207468,3891536761
+
+// Chattering Bone (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Rapid Hit, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for end-game use in general activities. Shapeable. Not a huge selection of Lightweight Pulse Rifles to compare with, but Chattering Bone is still best-in-class stats across the board, and provides a +20 mobility bonus and 6.25% faster movement speed. Even if it's best in class, the recoil direction still needs attention - Arrowhead Break takes it to a controllable 87, and adds a bump to handling. Either Tactical Mag or Flared Magwell in the magazine add reload speed, stability and, for the former, an extra burst. Pair that with Rapid Hit in the first trait column as the support perk, to make successive bursts easier to land and boost reload speed further. Finally, as the second column signature perk, Kinetic Tremors only needs four bursts to land to proc. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=501329015&perks=839105230,106909392,247725512,3891536761
+dimwishlist:item=501329015&perks=839105230,3230963543,247725512,3891536761
+
+// Transfiguration (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Rampage, Kill Clip
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in general activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. The range is pretty good - Fluted Barrel, Smallbore or Corkscrew Rifling all add useful bumps to stats, or if you want to push the range out by a few metres more, Hammer-Forged Rifling can also work in the barrel. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. This is the only scout rifle you can roll with Rampage and Kill Clip together which, when procced together, add 66.4% damage - possibly one that's more for memes, but it could still be fun. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Spped, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3885259140&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,1015611457
+dimwishlist:item=3885259140&perks=4090651448,106909392,3425386926,1015611457
+dimwishlist:item=3885259140&perks=3250034553,106909392,3425386926,1015611457
+dimwishlist:item=3885259140&perks=1840239774,3230963543,3425386926,1015611457
+dimwishlist:item=3885259140&perks=1482024992,3230963543,3425386926,1015611457
+dimwishlist:item=3885259140&perks=4090651448,3230963543,3425386926,1015611457
+dimwishlist:item=3885259140&perks=3250034553,3230963543,3425386926,1015611457
+
+// Transfiguration (PvE first-choice roll)
+// Full Bore, (Tactical Mag, Flared Magwell), Rampage, Kill Clip
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in general activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. With less need to worry about stability on M+KB, you can go all into range with Full Bore and get an extra 2.5m from base. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. This is the only scout rifle you can roll with Rampage and Kill Clip together which, when procced together, add 66.4% damage - possibly one that's more for memes, but it could still be fun. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Spped, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB
+dimwishlist:item=3885259140&perks=202670084,106909392,3425386926,1015611457
+dimwishlist:item=3885259140&perks=202670084,3230963543,3425386926,1015611457
+
+// Transfiguration (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), (Rewind Rounds, Rampage), Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in end-game activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. The range is pretty good - Fluted Barrel, Smallbore or Corkscrew Rifling all add useful bumps to stats, or if you want to push the range out by a few metres more, Hammer-Forged Rifling can also work in the barrel. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. Explosive Payload in the second trait column as the signature perk is a straight boost to damage, with added flinch, and is great against champions. Working back, you could pair it with either Rewind Rounds, to extend the magazine - particularly useful with champions, or look to increasing your damage output with Rampage - Three stacks equates to an impressive extra 44.5% crit damage. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3885259140&perks=1840239774,106909392,3418782618,3038247973
+dimwishlist:item=3885259140&perks=1482024992,106909392,3418782618,3038247973
+dimwishlist:item=3885259140&perks=4090651448,106909392,3418782618,3038247973
+dimwishlist:item=3885259140&perks=3250034553,106909392,3418782618,3038247973
+dimwishlist:item=3885259140&perks=1840239774,3230963543,3418782618,3038247973
+dimwishlist:item=3885259140&perks=1482024992,3230963543,3418782618,3038247973
+dimwishlist:item=3885259140&perks=4090651448,3230963543,3418782618,3038247973
+dimwishlist:item=3885259140&perks=3250034553,3230963543,3418782618,3038247973
+dimwishlist:item=3885259140&perks=1840239774,106909392,3425386926,3038247973
+dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,3038247973
+dimwishlist:item=3885259140&perks=4090651448,106909392,3425386926,3038247973
+dimwishlist:item=3885259140&perks=3250034553,106909392,3425386926,3038247973
+dimwishlist:item=3885259140&perks=1840239774,3230963543,3425386926,3038247973
+dimwishlist:item=3885259140&perks=1482024992,3230963543,3425386926,3038247973
+dimwishlist:item=3885259140&perks=4090651448,3230963543,3425386926,3038247973
+dimwishlist:item=3885259140&perks=3250034553,3230963543,3425386926,3038247973
+
+// Transfiguration (PvE first-choice roll)
+// Full Bore, (Tactical Mag, Flared Magwell), (Rewind Rounds, Rampage), Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in end-game activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. With less need to worry about stability on M+KB, you can go all into range with Full Bore and get an extra 2.5m from base. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. Explosive Payload in the second trait column as the signature perk is a straight boost to damage, with added flinch, and is great against champions. Working back, you could pair it with either Rewind Rounds, to extend the magazine - particularly useful with champions, or look to increasing your damage output with Rampage - Three stacks equates to an impressive extra 44.5% crit damage. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=3885259140&perks=202670084,106909392,3418782618,3038247973
+dimwishlist:item=3885259140&perks=202670084,3230963543,3418782618,3038247973
+dimwishlist:item=3885259140&perks=202670084,106909392,3425386926,3038247973
+dimwishlist:item=3885259140&perks=202670084,3230963543,3425386926,3038247973
+
+// Transfiguration (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use for grenadier builds in in general activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. The range is pretty good - Fluted Barrel, Smallbore or Corkscrew Rifling all add useful bumps to stats, or if you want to push the range out by a few metres more, Hammer-Forged Rifling can also work in the barrel. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts, which Demolitionist in the first trait column as the support park, and Adrenaline Junkie in the second as the signature perk wrap up in a huge explosion-shaped bow. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3885259140&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3885259140&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=3885259140&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=3885259140&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=3885259140&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3885259140&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=3885259140&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=3885259140&perks=3250034553,3230963543,3523296417,11612903
+
+/ Transfiguration (PvE first-choice roll)
+// Full Bore, (Tactical Mag, Flared Magwell), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use for grenadier builds in in general activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. With less need to worry about stability on M+KB, you can go all into range with Full Bore and get an extra 2.5m from base. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts, which Demolitionist in the first trait column as the support park, and Adrenaline Junkie in the second as the signature perk wrap up in a huge explosion-shaped bow. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB
+dimwishlist:item=3885259140&perks=202670084,106909392,3523296417,11612903
+dimwishlist:item=3885259140&perks=202670084,3230963543,3523296417,11612903
+
+// Transfiguration (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), Rewind Rounds, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in general activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. The range is pretty good - Fluted Barrel, Smallbore or Corkscrew Rifling all add useful bumps to stats, or if you want to push the range out by a few metres more, Hammer-Forged Rifling can also work in the barrel. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. Kinetic Tremors in the second trait slot as the signature perk needs six shots to proc with a scout rifle, but pairing that with Rewind Rounds in the first slot as the support perk should mean that you can extend the mag and keep firing. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3885259140&perks=1840239774,106909392,3418782618,3891536761
+dimwishlist:item=3885259140&perks=1482024992,106909392,3418782618,3891536761
+dimwishlist:item=3885259140&perks=4090651448,106909392,3418782618,3891536761
+dimwishlist:item=3885259140&perks=3250034553,106909392,3418782618,3891536761
+dimwishlist:item=3885259140&perks=1840239774,3230963543,3418782618,3891536761
+dimwishlist:item=3885259140&perks=1482024992,3230963543,3418782618,3891536761
+dimwishlist:item=3885259140&perks=4090651448,3230963543,3418782618,3891536761
+dimwishlist:item=3885259140&perks=3250034553,3230963543,3418782618,3891536761
+
+/// Transfiguration (PvE first-choice roll)
+// Full Bore, (Tactical Mag, Flared Magwell), Rewind Rounds, Kinetic Tremors//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for add-clear use in general activities. Shapeable. Transfiguration is the only obtainable high-impact scout rifle available as at S21, plus it has a solid set of stats, although reload is a bit slow. With less need to worry about stability on M+KB, you can go all into range with Full Bore and get an extra 2.5m from base. Tactical Mag and Flared Magwell are the pick of the magazine perks, adding useful reload speed, a bit of stability and an extra shot for Tac Mag. Kinetic Tremors in the second trait slot as the signature perk needs six shots to proc with a scout rifle, but pairing that with Rewind Rounds in the first slot as the support perk should mean that you can extend the mag and keep firing. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=3885259140&perks=202670084,106909392,3418782618,3891536761
+dimwishlist:item=3885259140&perks=202670084,3230963543,3418782618,3891536761
+
+// The Supremacy (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel), Appended Mag, Rewind Rounds, Fourth Times the Charm
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for sustained damage against bosses in end-game activities. Shapeable. The Supremacy has decent in-band stats by comparison with other kinetic slot rapid-fire snipers. Putting out shots at pace needs some additional control with the barrel perk - you could improve the recoil direction, or you can increase the stability. Appended Mag gets you to the maximum of 7 in the mag without needing to use Extended Mag. The roll that's been dubbed "Whisper Lite" combines Enhanced Rewind Rounds in the first trait column as the support perk refunds 70% of the shots that hit from reserves when the magazine's emptied. Fourth Time's the Charm in the second slot as the signature perk magics two bullets out of thin air after hitting four rapid crits. Between the two, it's been reported that with 3x Reserve mods you can hit 42 crits in a row without reloading - very handy to have in your back pocket against a boss if you run out of power ammo, or if you're running Tractor Cannon and need a damage option. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,1354429876
+dimwishlist:item=2884596447&perks=1392496348,1087426260,3418782618,1354429876
+dimwishlist:item=2884596447&perks=3661387068,1087426260,3418782618,1354429876
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,1354429876
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,1354429876
+
+// The Supremacy (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), Appended Mag, Rewind Rounds, Bair and Switch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for burst damage against majors in end-game activities. Shapeable. The Supremacy has decent in-band stats by comparison with other kinetic slot rapid-fire snipers. Putting out shots at pace needs some additional control with the barrel perk, but you also need handling if you're swapping between weapons, so Arrowhead Brake or Fluted Barrel are your best choices. Appended Mag gets you to the maximum of 7 in the mag without needing to use Extended Mag. As your first trait column support perk for burst damage, Enhanced Rewind Rounds refills 70% of the hits landed to the magazine from reserves when it's empty, or Lead from Gold is excellent for ammo economy. Bait and Switch as the second slot signature perk adds 35% dame when procced - excellent for burst damage against majors and champions when you don't want to waste power ammo, or if you're running Tractor Cannon and need a damage option. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,3078487919
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3078487919
+dimwishlist:item=2884596447&perks=1482024992,1087426260,1556840489,3078487919
+dimwishlist:item=2884596447&perks=1840239774,1087426260,1556840489,3078487919
+
+// Age-Old Bond (PvE first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Arrowhead Brake), (Tactical Mag, Flared Magwell), Repulsor Brace, Destabilising Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for Void synergy. Shapeable. There aren't many high-impact auto rifles in the game, even fewer dropping from activities and Age-Old Bond is the only void example. You have to enjoy slower-firing weapons, but if that's the case this has great stats. Being slower firing, the reticule has more time to return to the centre, so a bit of extra stability and/or recoil direction will make it very easy to control. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer a couple of extra bullets or a slightly faster reload. This is one of only two primaries that can roll with Repulsor Brace in the first column, as the support perk, and Destabilising Rounds in the second as the signature perk. In a similar way to Incandescent and Voltshot, this means you can enjoy void verb use whether you're sporting a void subclass or not (although if you are, you have access to the full 3.0 kit of fragments you can use). If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=424291879&perks=839105230,106909392,776531651,2048641572
+dimwishlist:item=424291879&perks=1392496348,106909392,776531651,2048641572
+dimwishlist:item=424291879&perks=839105230,106909392,776531651,2048641572
+dimwishlist:item=424291879&perks=839105230,3230963543,776531651,2048641572
+dimwishlist:item=424291879&perks=1392496348,3230963543,776531651,2048641572
+dimwishlist:item=424291879&perks=839105230,3230963543,776531651,2048641572
+
+// Age-Old Bond (PvE first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Arrowhead Brake), (Tactical Mag, Flared Magwell), (Dragonfly, Stats For All, Discord), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for Void synergy. Shapeable. There aren't many high-impact auto rifles in the game, even fewer dropping from activities and Age-Old Bond is the only void example. You have to enjoy slower-firing weapons, but if that's the case this has great stats. Being slower firing, the reticule has more time to return to the centre, so a bit of extra stability and/or recoil direction will make it very easy to control. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer a couple of extra bullets or a slightly faster reload. In the first trait column, as the support perk, you could choose Dragonfly for AoE damage, Stats For All for hefty gunfeel stat boosts, or Discord if you're weapon swapping a lot and like the idea of easier crits. In the second column as the signature perk, Golden Tricorn is great for a reliable 15% refreshable damage bump up that goes up to a chunky 50% with a void ability kill. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=424291879&perks=839105230,106909392,2848615171,2610012052
+dimwishlist:item=424291879&perks=1392496348,106909392,2848615171,2610012052
+dimwishlist:item=424291879&perks=839105230,106909392,2848615171,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,2848615171,2610012052
+dimwishlist:item=424291879&perks=1392496348,3230963543,2848615171,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,2848615171,2610012052
+dimwishlist:item=424291879&perks=839105230,106909392,1583705720,2610012052
+dimwishlist:item=424291879&perks=1392496348,106909392,1583705720,2610012052
+dimwishlist:item=424291879&perks=839105230,106909392,1583705720,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,1583705720,2610012052
+dimwishlist:item=424291879&perks=1392496348,3230963543,1583705720,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,1583705720,2610012052
+dimwishlist:item=424291879&perks=839105230,106909392,3978468247,2610012052
+dimwishlist:item=424291879&perks=1392496348,106909392,3978468247,2610012052
+dimwishlist:item=424291879&perks=839105230,106909392,3978468247,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,3978468247,2610012052
+dimwishlist:item=424291879&perks=1392496348,3230963543,3978468247,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,3978468247,2610012052
+
+// Age-Old Bond (PvE first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Arrowhead Brake), (Tactical Mag, Flared Magwell), (Dragonfly, Stats For All, Discord), Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities. Shapeable. There aren't many high-impact auto rifles in the game, even fewer dropping from activities and Age-Old Bond is the only void example. You have to enjoy slower-firing weapons, but if that's the case this has great stats. Being slower firing, the reticule has more time to return to the centre, so a bit of extra stability and/or recoil direction will make it very easy to control. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer a couple of extra bullets or a slightly faster reload. In the first trait column, as the support perk, you could choose Dragonfly for AoE damage, Stats For All for hefty gunfeel stat boosts, or Discord if you're weapon swapping a lot and like the idea of easier crits. In the second column as the signature perk, Collective Action is a reliable 20% damage boost just for collecting an Elemental pickup. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=424291879&perks=839105230,106909392,2848615171,3324494224
+dimwishlist:item=424291879&perks=1392496348,106909392,2848615171,3324494224
+dimwishlist:item=424291879&perks=839105230,106909392,2848615171,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,2848615171,3324494224
+dimwishlist:item=424291879&perks=1392496348,3230963543,2848615171,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,2848615171,3324494224
+dimwishlist:item=424291879&perks=839105230,106909392,1583705720,3324494224
+dimwishlist:item=424291879&perks=1392496348,106909392,1583705720,3324494224
+dimwishlist:item=424291879&perks=839105230,106909392,1583705720,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,1583705720,3324494224
+dimwishlist:item=424291879&perks=1392496348,3230963543,1583705720,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,1583705720,3324494224
+dimwishlist:item=424291879&perks=839105230,106909392,3978468247,3324494224
+dimwishlist:item=424291879&perks=1392496348,106909392,3978468247,3324494224
+dimwishlist:item=424291879&perks=839105230,106909392,3978468247,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,3978468247,3324494224
+dimwishlist:item=424291879&perks=1392496348,3230963543,3978468247,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,3978468247,3324494224
+
+// Tyranny of Heaven (PvE first-choice roll)
+// Elastic String, Straight Fletching, (Explosive Head, Dragonfly), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for solar synergy. Shapeable. Okay, it's a Lightweight bow, which isn't ideal but on the bright side, you do get the +20 mobility and 6.25% movement speed increase, and this is the only solar example available. The stats aren't great either but, as a Raid weapon, this can still roll with some spicy trait combinations. As usual, we'll use the combination of Elastic String in the bowstring slot, and Straight Fletching as the arrow to drop the draw time and recover the lost accuracy (it's already a pretty awful 27, so get used to using this closer up than a precision bow). The unique rolls available include Explosive Head for a straight 9.4% damage boost and tiny bit of AoE damage or Dragonfly for a more satisfying crit kill explosion in the first trait slot as the support perk, together with Incandescent as the second slot signature perk for scorch and ignite - even better with solar 3.0 verbs if you're running a matching subclass with access to useful fragments. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Draw Time, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3388655311&perks=2801223209,3827198035,3365897133,4293542123
+dimwishlist:item=3388655311&perks=2801223209,3827198035,2848615171,4293542123
+
+// Tyranny of Heaven (PvE first-choice roll)
+// Elastic String, Straight Fletching, Archer's Tempo, (Golden Tricorn, Incandescent)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for solar synergy. Shapeable. Okay, it's a Lightweight bow, which isn't ideal but on the bright side, you do get the +20 mobility and 6.25% movement speed increase, and this is the only solar example available. The stats aren't great either but, as a Raid weapon, this can still roll with some spicy trait combinations. As usual, we'll use the combination of Elastic String in the bowstring slot, and Straight Fletching as the arrow to drop the draw time and recover the lost accuracy (it's already a pretty awful 27, so get used to using this closer up than a precision bow). Archer's Tempo is the usual play in the first trait slot as the support perk to drop the draw time to 395ms for 4s after a crit hit. In the second slot, Golden Tricorn for the flat 15% damage boost after a kill, jumping to 50% with a solar ability kill, or Incandescent for scorch and ignite - even better with solar 3.0 verbs if you're running a matching subclass with access to useful fragments. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Draw Time, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3388655311&perks=2801223209,3827198035,201365942,2610012052
+dimwishlist:item=3388655311&perks=2801223209,3827198035,201365942,4293542123
+
+// Tyranny of Heaven (PvE first-choice roll)
+// Elastic String, Straight Fletching, Successful Warm-Up, (Golden Tricorn, Incandescent)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for solar synergy. Shapeable. Okay, it's a Lightweight bow, which isn't ideal but on the bright side, you do get the +20 mobility and 6.25% movement speed increase, and this is the only solar example available. The stats aren't great either but, as a Raid weapon, this can still roll with some spicy trait combinations. As usual, we'll use the combination of Elastic String in the bowstring slot, and Straight Fletching as the arrow to drop the draw time and recover the lost accuracy (it's already a pretty awful 27, so get used to using this closer up than a precision bow). Successful Warm-Up is a rare addition to the first trait column as a support perk option - proccing it will drop the draw time to 330ms for 6s, up to a maximum of 20s. In the second slot, Golden Tricorn for the flat 15% damage boost after a kill, jumping to 50% with a solar ability kill, or Incandescent for scorch and ignite - even better with solar 3.0 verbs if you're running a matching subclass with access to useful fragments. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Draw Time, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3388655311&perks=2801223209,3827198035,2652708987,2610012052
+dimwishlist:item=3388655311&perks=2801223209,3827198035,2652708987,4293542123
+
+// Nation of Beasts (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Extended Barrel, Chambered Compensator), (Tactical Mag, Flared Magwell), Dragonfly, Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities. Shapeable. National of Beasts has average stats in comparison to its peers, but a spicy Raid perk pool to play with. Take your pick of a little extra range, stability or recoil speed for the barrel perk. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer an bullets or a slightly faster reload. Use Dragonfly in the first trait slot as the support perk, as your starting point for the satisfying crit kill explosions. In the second slot, Explosive Payload is a straight 10% damage boost and adds a little additional AoE damage too - the classic arc Fakebringer roll. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Range, Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,3038247973
+dimwishlist:item=70083888&perks=1840239774,106909392,2848615171,3038247973
+dimwishlist:item=70083888&perks=1467527085,106909392,2848615171,3038247973
+dimwishlist:item=70083888&perks=3661387068,106909392,2848615171,3038247973
+dimwishlist:item=70083888&perks=1482024992,3230963543,2848615171,3038247973
+dimwishlist:item=70083888&perks=1840239774,3230963543,2848615171,3038247973
+dimwishlist:item=70083888&perks=1467527085,3230963543,2848615171,3038247973
+dimwishlist:item=70083888&perks=3661387068,3230963543,2848615171,3038247973
+
+// Nation of Beasts (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Extended Barrel, Chambered Compensator), (Tactical Mag, Flared Magwell), Dragonfly, (Golden Tricorn, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, for arc synergy. Shapeable. National of Beasts has average stats in comparison to its peers, but a spicy Raid perk pool to play with. Take your pick of a little extra range, stability or recoil speed for the barrel perk. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer an bullets or a slightly faster reload. Use Dragonfly in the first trait slot as the support perk, as your starting point for the satisfying crit kill explosions. For arc synergy, Golden Tricorn gives a 15% damage boost after a kill, jumping to 50% with an arc ability kill or Collective Action is a straight 20% damage bump after collecting an Elemental pickup - although it'll proc on any pickup type, you should be seeing plenty of Ionic Traces to play with. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Range, Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,2610012052
+dimwishlist:item=70083888&perks=1840239774,106909392,2848615171,2610012052
+dimwishlist:item=70083888&perks=1467527085,106909392,2848615171,2610012052
+dimwishlist:item=70083888&perks=3661387068,106909392,2848615171,2610012052
+dimwishlist:item=70083888&perks=1482024992,3230963543,2848615171,2610012052
+dimwishlist:item=70083888&perks=1840239774,3230963543,2848615171,2610012052
+dimwishlist:item=70083888&perks=1467527085,3230963543,2848615171,2610012052
+dimwishlist:item=70083888&perks=3661387068,3230963543,2848615171,2610012052
+dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,3324494224
+dimwishlist:item=70083888&perks=1840239774,106909392,2848615171,3324494224
+dimwishlist:item=70083888&perks=1467527085,106909392,2848615171,3324494224
+dimwishlist:item=70083888&perks=3661387068,106909392,2848615171,3324494224
+dimwishlist:item=70083888&perks=1482024992,3230963543,2848615171,3324494224
+dimwishlist:item=70083888&perks=1840239774,3230963543,2848615171,3324494224
+dimwishlist:item=70083888&perks=1467527085,3230963543,2848615171,3324494224
+dimwishlist:item=70083888&perks=3661387068,3230963543,2848615171,3324494224
+
+// Nation of Beasts (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Extended Barrel, Chambered Compensator), Flared Magwell, (Perpetual Motion, Eddy Current), Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for minor add-clear in end-game activities, particularly for arc synergy. Shapeable. National of Beasts has average stats in comparison to its peers, but a spicy Raid perk pool to play with. Take your pick of a little extra range, stability or recoil speed for the barrel perk. In the magazine, Tactical Mag or Flared Magwell are both great choices - the difference being whether you prefer an bullets or a slightly faster reload. If you want to build into Voltshot as your second trait column signature perk, you'll want your first column support perk to boost reload speed as much as possible. The new Eddy Current sounds like it might do the job, but you'll have to sprinting for 3s after a kill to proc it, which gives you a tiny window to reload of 0.8s or less, so good old Perpetual Motion is probably the more reliable option. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=70083888&perks=1482024992,3230963543,1428297954,2173046394
+dimwishlist:item=70083888&perks=1840239774,3230963543,1428297954,2173046394
+dimwishlist:item=70083888&perks=1467527085,3230963543,1428297954,2173046394
+dimwishlist:item=70083888&perks=3661387068,3230963543,1428297954,2173046394
+dimwishlist:item=70083888&perks=1482024992,3230963543,684456054,2173046394
+dimwishlist:item=70083888&perks=1840239774,3230963543,684456054,2173046394
+dimwishlist:item=70083888&perks=1467527085,3230963543,684456054,2173046394
+dimwishlist:item=70083888&perks=3661387068,3230963543,684456054,2173046394
+
+// Techeun Force (PvE first-choice roll)
+// Arrowhead Break, Liquid Coils, Rewind Rounds, Controlled Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. First-choice PvE pick for burst damage against majors and sustained damage against bosses in end-game activities. Shapeable. Techeun Force (however Saint Kabr pronounces it...) is reprised in a new, highly desirable perk set. I say set, it's really just one perk in particular. The stats to start are pretty good, although the recoil direction needs some attention, so Arrowhead Brake will take that to a controllable 90. For a damage roll, Liquid Coils is the obvious choice - don't worry, we'll get around the charge time penalty later. In the first trait slot, as the support perk, Rewind Rounds means you should be able to keep shooting until the battery is empty - you need a minimum of two shots in the mag to proc it, but then it reloads 2 shots from reserves. Finally, as the signature perk in the second trait slot, the new-for-S21 Controlled Burst drops your charge time by 10% and increases damage by 20% just for hitting all your bolts, making this great for burst and sustained damage. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3591141932&perks=839105230,1687452232,3418782618,2594592626
+
+// Techeun Force (PvE first-choice roll)
+// Arrowhead Break, Liquid Coils, Reconstruction, Controlled Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. Backup PvE pick for burst damage against majors and sustained damage against bosses in end-game activities. Shapeable. Techeun Force (however Saint Kabr pronounces it...) is reprised in a new, highly desirable perk set. I say set, it's really just one perk in particular. The stats to start are pretty good, although the recoil direction needs some attention, so Arrowhead Brake will take that to a controllable 90. For a damage roll, Liquid Coils is the obvious choice - don't worry, we'll get around the charge time penalty later. In the first trait slot, as the support perk, Reconstruction overfills your magazine to double its capacity, or Envious Assassin can add up to nine shots to the battery with seven rapid kills. Finally, as the signature perk in the second trait slot, the new-for-S21 Controlled Burst drops your charge time by 10% and increases damage by 20% just for hitting all your bolts, making this great for burst and sustained damage. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3591141932&perks=839105230,1687452232,1523832109,2594592626
+dimwishlist:item=3591141932&perks=839105230,1687452232,968510818,2594592626
+
+// Techeun Force (PvE first-choice roll)
+// Arrowhead Brake, Enhanced Battery, (Rewind Rounds, Reconstruction, Envious Assassin), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. (???  ???): First-choice PvE pick for burst damage against majors and sustained damage against bosses in end-game activities. Shapeable. Techeun Force (however Saint Kabr pronounces it...) is reprised looking good. The stats to start are pretty good, although the recoil direction needs some attention, so Arrowhead Brake will take that to a controllable 90. Enhanced Battery then takes you to the maximum battery size. If you've not already got an arc-based Golden Tricorn fusion rifle, then look for Rewind Rounds, Reconstruction or Envious Assassin in the first trait slot as your support perk, to help with your uptime, and then Golden Tricorn is great for a reliable 15% refreshable damage bump up that goes up to a chunky 50% with an arc ability kill. If you're a grenade-heavy player, the Explosive Pact origin trait adds in some nice gunfeel boosts too. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3591141932&perks=839105230,2680121939,3418782618,2610012052
+dimwishlist:item=3591141932&perks=839105230,2680121939,1523832109,2610012052
+dimwishlist:item=3591141932&perks=839105230,2680121939,968510818,2610012052
+
+// Apex Predator (PvE first-choice roll)
+// (Hard Launch, Quick Launch), Impact Casing, (Reconstruction, Demolitionist), Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. Backup PvE pick for burst damage against majors and sustained damage against bosses in end-game activities. Shapeable. Apex Predator has gone from the insta-shard class when it dropped, to pretty much the best rocket launcher option for putting out damage. Even though the stats are only middling, and you can't get to 10 shots - the maximum is 9, with two reserve mods, it's already in the highest subfamily for damage along with Aggressives, and is the best craftable rocket launcher in the game, as at S21. For an unguided rocket, Velocity is usually the play for the barrel perk - Hard Launch and Quick Launch are the two best options, depending on whether you want better Velocity or a combination of Velocity and Handling. Impact Casing adds 2.2% multiplicative damage in the magazine perk slot. In the first trait column as the support perk, you can have a choice of Reconstruction to passively overfill the barrel with 2 shots, or Demolitionist for the instant reload when throwing a grenade (and the extra damage from the grenade as well). Enhanced Explosive Light lets you shoot seven rockets with a 25% damage boost, just for picking up orbs. Recommended MW: Reload Speed, Velocity or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1851777734&perks=981914802,3796465595,3523296417,3194351027
+dimwishlist:item=1851777734&perks=981914802,3796465595,1523832109,3194351027
+
+// Apex Predator (PvE first-choice roll)
+// Confined Launch, Impact Casing, Tracking Module, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 69 (https://open.spotify.com/episode/3ZIEMYfNzOu5TyLlLhU7hH?si=90ffff909a2e40f2) with @Saint_Kabr and @CourtProjects - @ImpetusAlways is on holiday. Backup PvE pick for burst damage against majors and bosses with short damage windows in end-game activities. Shapeable. Apex Predator has gone from the insta-shard class when it dropped, to pretty much the best rocket launcher option for putting out damage. Even though the stats are only middling, and you can't get to 10 shots - the maximum is 9, with two reserve mods, it's already in the highest subfamily for damage along with Aggressives, and is the best craftable rocket launcher in the game, as at S21. For a guided rocket, you want to velocity as low as possible, to give the shot plenty of time for course correction if your target jinks, and Confined Launch is the barrel to do that. Impact Casing adds 2.2% multiplicative damage in the magazine perk slot. In the first trait column Tracking Module is very useful for hitting more mobile majors and bosses, while in the second slot as the signature perk, Enhanced Explosive Light lets you shoot seven rockets with a 25% damage boost, just for picking up orbs. Recommended MW: Reload Speed, Velocity or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1851777734&perks=1844523823,3796465595,3977735242,3194351027
+
