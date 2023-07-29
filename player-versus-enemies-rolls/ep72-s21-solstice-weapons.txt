@@ -1,0 +1,94 @@
+@title:Season 21 Solstice weapons
+@description:Season of the Deep new and reprised Solstice weapons with the Dream Work origin trait
+
+// Something New (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling), (Flared Magwell, Light Mag, Alloy Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Wellspring, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add-clear in end-game activities. Aggressive hand cannons have two main weaknesses - handling and reload speed. Fortunately, there are season 21 perk combinations that can help with that! Start with adding handling or a little extra stability with your barrel perk. You can go one of two ways with the magazine - either look for a perk that helps with reload or enjoy a combat effect perk and let the traits do the heavy lifting. While there are additional reload perks in the first trait column, you shouldn't really need them, so Wellspring offers useful ability energy on kills as your support trait. Then, in the second trait column as your signature perk, Frenzy maxes out handling and reload speed when procced, as well as providing a solid 15% weapon damage boost. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight. Recommended MW: Reload Speed or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3240434620&perks=1840239774,3230963543,3592538738,4104185692
+dimwishlist:item=3240434620&perks=4090651448,3230963543,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1482024992,3230963543,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1392496348,3230963543,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1840239774,679225683,3592538738,4104185692
+dimwishlist:item=3240434620&perks=4090651448,679225683,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1482024992,679225683,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1392496348,679225683,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1840239774,1431678320,3592538738,4104185692
+dimwishlist:item=3240434620&perks=4090651448,1431678320,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1482024992,1431678320,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1392496348,1431678320,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1840239774,1561002382,3592538738,4104185692
+dimwishlist:item=3240434620&perks=4090651448,1561002382,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1482024992,1561002382,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1392496348,1561002382,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1840239774,1968497646,3592538738,4104185692
+dimwishlist:item=3240434620&perks=4090651448,1968497646,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1482024992,1968497646,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1392496348,1968497646,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1840239774,1885400500,3592538738,4104185692
+dimwishlist:item=3240434620&perks=4090651448,1885400500,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1482024992,1885400500,3592538738,4104185692
+dimwishlist:item=3240434620&perks=1392496348,1885400500,3592538738,4104185692
+
+// Something New (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy, Mag), (Rapid Hit, Pugilist), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add-clear in end-game activities with a Stasis (probably Hunter) subclass. Aggressive hand cannons have two main weaknesses - handling and reload speed. So. start with adding handling or a little extra stability with your barrel perk, and look for a perk that helps with reload in your magazine. In the second trait column, as your signature perk, the second tier of Golden Tricorn can be difficult to proc with Stasis - shattering a target that's frozen with a Glacier Grenade will do it or, if you're a Hunter, your Shurikens will also work. To support that, you could go one of two ways with your first column trait - Rapid Hit, to speed up the reload speed and take full advantage of the 50% damage boost, or Pugilist to get melee energy back so you can proc it again sooner. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight. Recommended MW: Reload Speed or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3240434620&perks=1840239774,3230963543,247725512,2610012052
+dimwishlist:item=3240434620&perks=4090651448,3230963543,247725512,2610012052
+dimwishlist:item=3240434620&perks=1840239774,679225683,247725512,2610012052
+dimwishlist:item=3240434620&perks=4090651448,679225683,247725512,2610012052
+dimwishlist:item=3240434620&perks=1840239774,1431678320,247725512,2610012052
+dimwishlist:item=3240434620&perks=4090651448,1431678320,247725512,2610012052
+dimwishlist:item=3240434620&perks=1840239774,3230963543,691659142,2610012052
+dimwishlist:item=3240434620&perks=4090651448,3230963543,691659142,2610012052
+dimwishlist:item=3240434620&perks=1840239774,679225683,691659142,2610012052
+dimwishlist:item=3240434620&perks=4090651448,679225683,691659142,2610012052
+dimwishlist:item=3240434620&perks=1840239774,1431678320,691659142,2610012052
+dimwishlist:item=3240434620&perks=4090651448,1431678320,691659142,2610012052
+
+// Something New (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy, Mag), (Wellspring, Pugilist), Demolitionist
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for minor add-clear in general. Aggressive hand cannons have two main weaknesses - handling and reload speed. So. start with adding handling or a little extra stability with your barrel perk, and look for a perk that helps with reload in your magazine. In the trait columns, if you enjoy ability spam (and who doesn't?), you can unusually roll both Wellspring or Pugilist and Demolitionist to keep the grenades/charged melees/class abilities coming in a firefight. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight too. Recommended MW: Reload Speed of Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3240434620&perks=1840239774,3230963543,3592538738,3523296417
+dimwishlist:item=3240434620&perks=4090651448,3230963543,3592538738,3523296417
+dimwishlist:item=3240434620&perks=1840239774,679225683,3592538738,3523296417
+dimwishlist:item=3240434620&perks=4090651448,679225683,3592538738,3523296417
+dimwishlist:item=3240434620&perks=1840239774,1431678320,3592538738,3523296417
+dimwishlist:item=3240434620&perks=4090651448,1431678320,3592538738,3523296417
+dimwishlist:item=3240434620&perks=1840239774,3230963543,691659142,3523296417
+dimwishlist:item=3240434620&perks=4090651448,3230963543,691659142,3523296417
+dimwishlist:item=3240434620&perks=1840239774,679225683,691659142,3523296417
+dimwishlist:item=3240434620&perks=4090651448,679225683,691659142,3523296417
+dimwishlist:item=3240434620&perks=1840239774,1431678320,691659142,3523296417
+dimwishlist:item=3240434620&perks=4090651448,1431678320,691659142,3523296417
+
+// Compass Rose (PvE first-choice roll)
+// (Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), (Lead From Gold, Grave Robber), Trench Barrel
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major spec enemies in end-game content. First thing to say, if you already have a rapid hit or lightweight Trench Barrel shotgun then just shard this. If you haven't, then Compass Rose can be your stopgap until you do. The stats are a bit of a mixed bag, but Handling is usually the play with shotguns anyway, so Corkscrew Rifling or Barrel Shroud improve that, as well as other useful gunfeel stats, and Assault Mag increases your rate of fire, and hence DPS, or Tactical Mag takes the mag size to six to let you get two full bursts of three shots off without reloading, and then helps with reload speed. Grave Robber can be useful, if you're near a crowd of minors to keep Trench Barrel procced, but if you're doing damage against a single target it's not much use, so Lead From Gold is more reliably useful. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight too. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=233896077&perks=4090651448,791862061,1556840489,2360754333
+dimwishlist:item=233896077&perks=1300023272,791862061,1556840489,2360754333
+dimwishlist:item=233896077&perks=4090651448,106909392,1556840489,2360754333
+dimwishlist:item=233896077&perks=1300023272,106909392,1556840489,2360754333
+dimwishlist:item=233896077&perks=4090651448,791862061,1631667848,2360754333
+dimwishlist:item=233896077&perks=1300023272,791862061,1631667848,2360754333
+dimwishlist:item=233896077&perks=4090651448,106909392,1631667848,2360754333
+dimwishlist:item=233896077&perks=1300023272,106909392,1631667848,2360754333
+
+// Compass Rose (PvE first-choice roll)
+// (Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), (Lead From Gold, Grave Robber), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major spec enemies in end-game content, particularly with a solar subclass. First thing to say, if you already have a rapid hit or lightweight Incandescent shotgun then just shard this. If you haven't, then Compass Rose can be your stopgap until you do. The stats are a bit of a mixed bag, but Handling is usually the play with shotguns anyway, so Corkscrew Rifling or Barrel Shroud improve that, as well as other useful gunfeel stats, and Assault Mag increases your rate of fire, and hence DPS, or Tactical Mag takes the mag size to six and helps with reload speed. Grave Robber can be useful for reloads, as you'll likely be in CQC, or Lead From Gold is top-tier to help with your ammo economy. Incandescent is great for crowd control, particularly if you're on a solar subclass and can use your fragments to enhance the 3.0 verbs. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight too. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=233896077&perks=4090651448,791862061,1556840489,4293542123
+dimwishlist:item=233896077&perks=1300023272,791862061,1556840489,4293542123
+dimwishlist:item=233896077&perks=4090651448,106909392,1556840489,4293542123
+dimwishlist:item=233896077&perks=1300023272,106909392,1556840489,4293542123
+dimwishlist:item=233896077&perks=4090651448,791862061,1631667848,4293542123
+dimwishlist:item=233896077&perks=1300023272,791862061,1631667848,4293542123
+dimwishlist:item=233896077&perks=4090651448,106909392,1631667848,4293542123
+dimwishlist:item=233896077&perks=1300023272,106909392,1631667848,4293542123
+
+// Crowning Duologue (PvE first-choice roll)
+// Confined Launch, (Impact Casing, Alloy Casing), Field Prep (Envious Assassin, Cluster Bombs)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 72 (https://open.spotify.com/episode/5vRI9hBynq3jq712XCu7oc?si=c87cbb8036254e4a) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies in end-game content. It's difficult to know what role Precision rocket launchers are suppose to fill as at season 21. they do have the intrinsic tracking, but to 21% less damage than the adaptive and aggressive subfamilies, and can't ever compete with the blast radius of high-impacts for add clear. If you are going to use it, play into the tracking, and reduce the velocity so if an enemy jinks, it has as much time as possible to adjust with Confined Launch. Impact Casing adds some extra impact damage in the mag perk slot, or Alloy Casing provides faster reloads. Field Prep helps massively with ammo reserves - without it it you'll need three ammo reserve chest mods to get to 10 rockets, but with it you'll only need one. In the second trait column Envious Assassin can get you an extra shot in the mag with just one kill from another weapon, or if you can get to 11 rapid kills, you can load three, or you can use the small blast radius as a benefit to concentrate Cluster Bombs on your target for extra damage. The Dream Works origin trait is useful in a fireteam to get the occasional overflowed magazine in a firefight too. Recommended MW: Handling or Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3256453690&perks=1844523823,3796465595,2869569095,968510818
+dimwishlist:item=3256453690&perks=1844523823,2985827016,2869569095,968510818
+dimwishlist:item=3256453690&perks=1844523823,3796465595,2869569095,1275731761
+dimwishlist:item=3256453690&perks=1844523823,2985827016,2869569095,1275731761
