@@ -1,0 +1,82 @@
+@title:Season of the Witch (Season 22) new and reprised weapons
+@notes:Asterisk is shapeable - ordering within each section is primary/special/power weapon then alphabetic
+
+@title:Witch weapons
+//Brya's Love *
+dimwishlist:item=2779821308
+
+//Kept Confidence *
+dimwishlist:item=1875512595
+
+//The Eremite *
+dimwishlist:item=3347946548
+
+//Locus Locutus *
+dimwishlist:item=4132072834
+
+//Eleatic Principle *
+dimwishlist:item=105306149
+
+Semiotician *
+dimwishlist:item=2922749929
+
+@title:Recovered Red War weapons (HELM engramns)
+//Nightshade
+dimwishlist:item=1974641289
+
+//The Showrunner
+dimwishlist:item=1999754402
+
+//Deadpan Delivery
+dimwishlist:item=1296429091
+
+//Persuader
+dimwishlist:item=781498181
+
+@title:Nightfall weapons
+//Pre Astyanax IV
+dimwishlist:item=192784503
+
+//Pre Astyanax IV (Adept)
+dimwishlist:item=496556698
+
+//Warden's Law
+dimwishlist:item=1821529912
+
+//Warden's Law (Adept)
+dimwishlist:item=267089201
+
+@title:Trials of Osiris weapons
+//Cataphract GL3
+dimwishlist:item=2738601016
+
+//Cataphract GL3 (Adept)
+dimwishlist:item=874623537
+
+@title:Playlist weapons (Persuit, Vanguard, Gambit, Crucible)
+//Malediction
+dimwishlist:item=3337727085
+
+//Luna Regolith III
+dimwishlist:item=1948035256
+
+//Qua Xaphan V
+dimwishlist:item=1975125963
+
+//Unending Tempest
+dimwishlist:item=2510526114
+
+@title:World Pool weapons
+//Heliocentric QSc
+dimwishlist:item=3998080529
+
+//Psi Hermetic V
+dimwishlist:item=358788212
+
+//Nox Perennial V
+dimwishlist:item=2767393525
+
+//Geodetic HSm
+dimwishlist:item=3637669759
+
+//Crota's End Raid weapons
