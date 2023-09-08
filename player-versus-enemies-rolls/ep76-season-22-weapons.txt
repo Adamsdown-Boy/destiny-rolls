@@ -1,0 +1,135 @@
+@title:Season 22 weapons
+@description:Season of the Witch weapons with the Head Rush origin trait
+
+// Kept Confidence (PvE first-choice roll)
+// (Smallbore, Fluted Barrel), Tactical Mag, Loose Change, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for Minor Spec enemies in end-game content, particularly for Strand subclasses. Shapeable. Kept Confidence drops into a very competitive slot, and against kinetic slot stat monsters like Fatebringer, Austringer and Eyasluna it doesn't fare well. The trait options look a bit more aimed at PvP too. If you're looking to craft a PvE version, round out the stats a little with either Smallbore or Fluted Barrel as the barrel perk, and Tactical Mag in the magazine. In the trait columns, the new to Season 22 Loose Change perk will boost reload to 100 when procced by applying an elemental debuff, can be pair with the extendable 7s of 20% damage boost from Collective Action when you collect an elemental pickup - pairing particularly well with Strand Tangles thrown at an enemy. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1875512595&perks=1482024992,106909392,1119449540,3324494224
+dimwishlist:item=1875512595&perks=1840239774,106909392,1119449540,3324494224
+
+// Brya's Love (PvE first-choice roll)
+// (Fluted Barrel, Smnallbore, Polygonal Rifling, Hammer-Forged Rifling), (Tactical Mag, Appended Mag), Shoot to Loot, Explosive Payload
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for Minor Spec enemies in end-game content. Shapeable. Brya's Love - named after Eris's Ghost is up against Doom of Chelchis as a void precision frame scout rifle so, as you'd expect, doesn't fare well in a straight stat comparison. There are still some useful and unique trait combinations available to craft. For the barrel perk, Fluted Barrel or Smallbore are probably your top two choices - as a precision frame, the recoil direction stat doesn't really matter - or you could opt to go all into Stability with Polygonal Rifling or range with Hammer-Forged Rifling. For the magazine perk, Tactical Mag is the best choice, or possibly Appended mag of one more shot. As your support trait, Shoot to Loot is really useful in end-game activities - both safely collecting ammo bricks and reloading all your weapons at the same time. This pairs well with Explosive Payload as the signature trait which both adds free damage against enemies, and extends the ammo pickup range of Shoot to Loot. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2779821308&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=3250034553,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1482024992,1087426260,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1392496348,1087426260,3700496672,3038247973
+dimwishlist:item=2779821308&perks=3250034553,1087426260,3700496672,3038247973
+
+// Brya's Love (PvE first-choice roll)
+// (Fluted Barrel, Smnallbore, Polygonal Rifling, Hammer-Forged Rifling), (Tactical Mag, Appended Mag), Loose Change, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for Minor Spec enemies in end-game content. Shapeable. Brya's Love - named after Eris's Ghost is up against Doom of Chelchis as a void precision frame scout rifle so, as you'd expect, doesn't fare well in a straight stat comparison. There are still some useful and unique trait combinations available to craft. For the barrel perk, Fluted Barrel or Smallbore are probably your top two choices - as a precision frame, the recoil direction stat doesn't really matter - or you could opt to go all into Stability with Polygonal Rifling or range with Hammer-Forged Rifling. For the magazine perk, Tactical Mag is the best choice, or possibly Appended mag of one more shot. As your support trait, the new to season 21 perk Loose Change adds 50 to reload speed when you apply an elemental debuff, which when you pair it with Destabilizing Rounds as your second trait column signature perk is just what you'll be doing on a kill. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2779821308&perks=1482024992,106909392,1119449540,2048641572
+dimwishlist:item=2779821308&perks=1840239774,106909392,1119449540,2048641572
+dimwishlist:item=2779821308&perks=1392496348,106909392,1119449540,2048641572
+dimwishlist:item=2779821308&perks=3250034553,106909392,1119449540,2048641572
+dimwishlist:item=2779821308&perks=1482024992,1087426260,1119449540,2048641572
+dimwishlist:item=2779821308&perks=1840239774,1087426260,1119449540,2048641572
+dimwishlist:item=2779821308&perks=1392496348,1087426260,1119449540,2048641572
+dimwishlist:item=2779821308&perks=3250034553,1087426260,1119449540,2048641572
+
+// Brya's Love (PvE first-choice roll)
+// (Fluted Barrel, Smnallbore, Polygonal Rifling, Hammer-Forged Rifling), (Tactical Mag, Appended Mag), Rapid Hit, Precision Instrument
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for Minor Spec enemies in end-game content. Shapeable. Brya's Love - named after Eris's Ghost is up against Doom of Chelchis as a void precision frame scout rifle so, as you'd expect, doesn't fare well in a straight stat comparison. There are still some useful and unique trait combinations available to craft. For the barrel perk, Fluted Barrel or Smallbore are probably your top two choices - as a precision frame, the recoil direction stat doesn't really matter - or you could opt to go all into Stability with Polygonal Rifling or range with Hammer-Forged Rifling. For the magazine perk, Tactical Mag is the best choice, or possibly Appended mag of one more shot. As your support trait, Rapid Hit has now been joined by an equivalent damage buff in the new to season 21 Precision Instrument as the second trait column signature perk. So, on rapid precision hits, you both add stacks of stability and reload speed, and up to 25% additional damage - boosted further by enhancing. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2779821308&perks=1482024992,106909392,247725512,555281244
+dimwishlist:item=2779821308&perks=1840239774,106909392,247725512,555281244
+dimwishlist:item=2779821308&perks=1392496348,106909392,247725512,555281244
+dimwishlist:item=2779821308&perks=3250034553,106909392,247725512,555281244
+dimwishlist:item=2779821308&perks=1482024992,1087426260,247725512,555281244
+dimwishlist:item=2779821308&perks=1840239774,1087426260,247725512,555281244
+dimwishlist:item=2779821308&perks=1392496348,1087426260,247725512,555281244
+dimwishlist:item=2779821308&perks=3250034553,1087426260,247725512,555281244
+
+// Brya's Love (PvE backup roll)
+(Fluted Barrel, Smnallbore, Polygonal Rifling, Hammer-Forged Rifling), (Tactical Mag, Appended Mag), (Rapid Hit, Perpetual Motion), (Explosive Payload, Frenzy, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): Backup PvE pick for Minor Spec enemies in end-game content - only keep if you don't have an existing void scout rifle. Shapeable. Brya's Love - named after Eris's Ghost is up against Doom of Chelchis as a void precision frame scout rifle so, as you'd expect, doesn't fare well in a straight stat comparison. There are still some useful and unique trait combinations available to craft. For the barrel perk, Fluted Barrel or Smallbore are probably your top two choices - as a precision frame, the recoil direction stat doesn't really matter - or you could opt to go all into Stability with Polygonal Rifling or range with Hammer-Forged Rifling. For the magazine perk, Tactical Mag is the best choice, or possibly Appended mag of one more shot. As your support trait, Rapid Hit or Perpetual Motion both add decent gunfeel boosts, while Explosive Payload, Frenzy or Golden Tricorn all work in end-game activities to boost damage. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2779821308&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=2779821308&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=2779821308&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=2779821308&perks=3250034553,106909392,247725512,3038247973
+dimwishlist:item=2779821308&perks=1482024992,1087426260,247725512,3038247973
+dimwishlist:item=2779821308&perks=1840239774,1087426260,247725512,3038247973
+dimwishlist:item=2779821308&perks=1392496348,1087426260,247725512,3038247973
+dimwishlist:item=2779821308&perks=3250034553,1087426260,247725512,3038247973
+dimwishlist:item=2779821308&perks=1482024992,106909392,1428297954,3038247973
+dimwishlist:item=2779821308&perks=1840239774,106909392,1428297954,3038247973
+dimwishlist:item=2779821308&perks=1392496348,106909392,1428297954,3038247973
+dimwishlist:item=2779821308&perks=3250034553,106909392,1428297954,3038247973
+dimwishlist:item=2779821308&perks=1482024992,1087426260,1428297954,3038247973
+dimwishlist:item=2779821308&perks=1840239774,1087426260,1428297954,3038247973
+dimwishlist:item=2779821308&perks=1392496348,1087426260,1428297954,3038247973
+dimwishlist:item=2779821308&perks=3250034553,1087426260,1428297954,3038247973
+dimwishlist:item=2779821308&perks=1482024992,106909392,247725512,4104185692
+dimwishlist:item=2779821308&perks=1840239774,106909392,247725512,4104185692
+dimwishlist:item=2779821308&perks=1392496348,106909392,247725512,4104185692
+dimwishlist:item=2779821308&perks=3250034553,106909392,247725512,4104185692
+dimwishlist:item=2779821308&perks=1482024992,1087426260,247725512,4104185692
+dimwishlist:item=2779821308&perks=1840239774,1087426260,247725512,4104185692
+dimwishlist:item=2779821308&perks=1392496348,1087426260,247725512,4104185692
+dimwishlist:item=2779821308&perks=3250034553,1087426260,247725512,4104185692
+dimwishlist:item=2779821308&perks=1482024992,106909392,1428297954,4104185692
+dimwishlist:item=2779821308&perks=1840239774,106909392,1428297954,4104185692
+dimwishlist:item=2779821308&perks=1392496348,106909392,1428297954,4104185692
+dimwishlist:item=2779821308&perks=3250034553,106909392,1428297954,4104185692
+dimwishlist:item=2779821308&perks=1482024992,1087426260,1428297954,4104185692
+dimwishlist:item=2779821308&perks=1840239774,1087426260,1428297954,4104185692
+dimwishlist:item=2779821308&perks=1392496348,1087426260,1428297954,4104185692
+dimwishlist:item=2779821308&perks=3250034553,1087426260,1428297954,4104185692
+dimwishlist:item=2779821308&perks=1482024992,106909392,247725512,2610012052
+dimwishlist:item=2779821308&perks=1840239774,106909392,247725512,2610012052
+dimwishlist:item=2779821308&perks=1392496348,106909392,247725512,2610012052
+dimwishlist:item=2779821308&perks=3250034553,106909392,247725512,2610012052
+dimwishlist:item=2779821308&perks=1482024992,1087426260,247725512,2610012052
+dimwishlist:item=2779821308&perks=1840239774,1087426260,247725512,2610012052
+dimwishlist:item=2779821308&perks=1392496348,1087426260,247725512,2610012052
+dimwishlist:item=2779821308&perks=3250034553,1087426260,247725512,2610012052
+dimwishlist:item=2779821308&perks=1482024992,106909392,1428297954,2610012052
+dimwishlist:item=2779821308&perks=1840239774,106909392,1428297954,2610012052
+dimwishlist:item=2779821308&perks=1392496348,106909392,1428297954,2610012052
+dimwishlist:item=2779821308&perks=3250034553,106909392,1428297954,2610012052
+dimwishlist:item=2779821308&perks=1482024992,1087426260,1428297954,2610012052
+dimwishlist:item=2779821308&perks=1840239774,1087426260,1428297954,2610012052
+dimwishlist:item=2779821308&perks=1392496348,1087426260,1428297954,2610012052
+dimwishlist:item=2779821308&perks=3250034553,1087426260,1428297954,2610012052
+
+// Locus Locutus (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, Overflow, Fighting Line
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for sustained damage against Boss Spec enemies in end-game content - only keep if you don't have an existing crafted Thoughtless. Shapeable. Locus Locutus (Latin translation could be something like "place of speaking") has tough competition from Thoughtless, which offers better stats and the same perk pool. If you haven't got one, them Arrowhead Brake improves handling and recoil direction, and then Tactical Mag gets you to the maximum mag size of 5, and adds stability and reload speed. Overflow pushes you to an almost comical 11 in the mag on an ammo pickup, and Fighting Line boosts precision damage by 20 when you're close to at least two fireteam members - ideal for sustained damage phases against slow-moving or Divinity-debuffed bosses. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=4132072834&perks=839105230,106909392,3643424744,1771339417
+
+// The Eremite (PvE first-choice roll)
+// Fluted Barrel, Ionised Battery, Envious Assassin, (Controlled Burst, Reservoir Burst)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies and sustained damage against Boss Spec enemies in end-game content. Shapeable. The Eremite (named after a religious recluse, being the root for the word hermit), is a bit of a season 21 banger! Although the stats are below average, this should be on your list of weapons you aim to farm and craft. Fluted Barrel as the barrel perk bumps up handling and tidies up recoil, but then go all in to battery size with ionized Battery. Enhanced Envious Assassin as the first trait column support perk can cram in up 18 shots somehow, after 15 rapid kills with other weapons, which means that you can go ham with Controlled Burst as the second column signature perk - 20% bonus damage and 10% quicker charge time for landing all your bolts. Alternatively in the same slot, Reservoir Burst can take your magazine size up to 20 and adds 25% damage to the first 15 shots. Either should be enough to chunk down champions or last a damage phase against a raid boss. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Stability, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3347946548&perks=1840239774,1483536627,968510818,2594592626
+dimwishlist:item=3347946548&perks=1840239774,1483536627,968510818,254337357
+
+// The Eremite (PvE first-choice roll)
+// Fluted Barrel, Enhanced Battery, Cure Clip, Reservoir Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for support builds in end-game content. Shapeable. The Eremite (named after a religious recluse, being the root for the word hermit), is a bit of a season 21 banger! Although the stats are below average, this should be on your list of weapons you aim to farm and craft. Fluted Barrel as the barrel perk bumps up handling and tidies up recoil, and Enhanced Battery adds an additional shot. For support builds in end-game content, the new to season 21 Cure Clip as the support perk in the first trait slot, provides group healing on a reload after a kill - in the second, signature perk, trait slot Reservoir Burst adds 25% burst damage when the battery's full, adds the fun explosions, and needs a reload afterwards anyway to get it ready for next time, so works well as a combination. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Reload Speed, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3347946548&perks=1840239774,2680121939,3017780555,254337357
+
+// Eleatic Principle (PvE backup roll)
+// Arrowhead Brake, (High Caliber Rounds, Ricochet Rounds, Armor-Piercing Rounds), (Ensemble, Eddy Current), (Golden Tricorn, Adrenaline Junkie)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): Backup PvE pick for Minor Spec add-clear in general content. Shapeable. The Eleatic Principle, is a philosophical argument that only items which have the capacity to affect or be affected are. Make of that what you will... Unfortunately, this is not the arc rapid-fire LMG you are looking for. If you really don't have a better arc option, then tidy up the recoil direction - you're putting out a lot of bullets - with Arrowhead Brake in the barrel, and High-Caliber, Ricochet or Armor-Piercing Rounds as the magazine perk. There's really nothing to get excited about with the traitsd - Ensemble in a fireteam or Eddy Current if not in the first trait column as the support perk, and then for bonus damage, Golden Tricorn or Adrenaline Junkie in the second trait slot as the signature perk. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE,  PvE-MinorSpec, M+KB, Controller
+dimwishlist:item=105306149&perks=839105230,1561002382,2621346526,2610012052
+dimwishlist:item=105306149&perks=839105230,1561002382,684456054,2610012052
+dimwishlist:item=105306149&perks=839105230,1561002382,2621346526,11612903
+dimwishlist:item=105306149&perks=839105230,1561002382,684456054,11612903
+
+// Semiotician (PvE first-choice roll)
+// Quick Launch, Impact Casing, Field Prep, Bipod
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for sustained damage against Boss Spec enemies  in end-game content. Shapeable. If you're interested, a Semiotician is someone who studies semiotics - symbols and meanings (think Tom Hanks' "Symbologist" character in the Da Vinci Code). While High Impact rocket launchers aren't optimum for damage - doing 10% less damage than adaptives and aggressives - this is still the best Strand RL cvailable as at season 21, with great stats at base. If you're using this against a boss, velocity is more impart and than blast radius, so Quick Launch is your best barrel perk choice, and Impact Casing in the mag adds a little extra damage (it all helps!). For your boss damage roll, enhanced Field Prep as the first trait column support park boosts the reload speed but, more importantly, is the equivalent of two reserve mods so you only need one to get to the maximum of 10. But then if you add Bipod as your second column signature perk, you can end up with 15 total rockets, which should be plenty for a damage phase, and Field Prep more than offsets the reload penalty. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2922749929&perks=3525010810,3796465595,2869569095,1439600632
+
+// Semiotician (PvE first-choiceroll)
+// Quick Launch, Impact Casing, Field Prep, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick sustained damage against Boss Spec enemies, or burst damage against Major Spec enemies in end-game content. Shapeable. If you're interested, a Semiotician is someone who studies semiotics - symbols and meanings (think Tom Hanks' "Symbologist" character in the Da Vinci Code). While High Impact rocket launchers aren't optimum for damage - doing 10% less damage than adaptives and aggressives - this is still the best Strand RL cvailable as at season 21, with great stats at base. If you're using this against a boss, velocity is more impart and than blast radius, so Quick Launch is your best barrel perk choice, and Impact Casing in the mag adds a little extra damage (it all helps!). For your boss damage roll, enhanced Field Prep as the first trait column support park boosts the reload speed but, more importantly, is the equivalent of two reserve mods so you only need one to get to the maximum of 10. Enhanced Explosive Light as the second column signature perk gives you 7 rockets with a 25% damage boost for the low, low costs of just picking up orbs - good for both burst and sustained damage. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2922749929&perks=3525010810,3796465595,2869569095,3194351027
+
+// Semiotician (PvE first-choiceroll)
+// Volatile Launcg, High-Velocity Rounds, Field Prep, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 76 (https://open.spotify.com/episode/4UoXFYD3DbunDEKIGDiriX?si=1957400d9e024ed5) with @Saint_Kabr and @ImpetusAlways. (???  ???): First-choice PvE pick for Minor Spec add clear enemies in end-game content. Shapeable. If you're interested, a Semiotician is someone who studies semiotics - symbols and meanings (think Tom Hanks' "Symbologist" character in the Da Vinci Code). While High Impact rocket launchers aren't optimum for damage - doing 10% less damage than adaptives and aggressives - this is still the best Strand RL cvailable as at season 21, with great stats at base. If you're leaning into the high blast radius and plan to use a rocket launcher for add clear (that way lies a jacket with wraparound sleeves, but you do you!), max out both the blast radius and bopost velocity with Volatile Launch and High-Velocity Rounds. Enhanced Field Prep as the first trait column support park boosts the reload speed but, more importantly, is the equivalent of two reserve mods so you only need one to get to the maximum of 10. Then Hatchling as the second column signature perk adds Threadlings to the mix to extend your damage to adds outside the blast radius. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Velocity, with a damage-boosting (Minor, or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=2922749929&perks=1478423395,2822142346,2869569095,831391274
