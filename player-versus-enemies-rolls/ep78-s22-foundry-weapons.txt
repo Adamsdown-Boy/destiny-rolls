@@ -346,5 +346,5 @@ dimwishlist:item=2188764214&perks=1840239774,1885400500,3700496672,4259401308
 // Dead Messenger (PvE first-choice roll)
 // Hard Launch, High-Velocity Rounds, The Fundamentals, Short-Action Stock, (Unrelenting, Demolitionist)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Dead Messenger still needs a little love as at v7.2.0.5, even if it does come with a fair few extras built-in. With Blast Radius and Stability being pointless, you might as well maximise Velocity with Hard Launch as the barrel perk, and High-Velocity Rounds as the mag perk. Short-Action Stock is the only useful choice as the stock perk, and then as your selectable perk, Unrelenting is good to recover health in a firefight, or Demolitionist should still work (even though you only get 10% grenade energy per hit), as with a wave-frame you should catch multiple adds with each shot. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=46125926&perks=981914802,2822142346,1067908860,3108830275,3189860891
-dimwishlist:item=46125926&perks=981914802,2822142346,1067908860,3523296417,3189860891
+dimwishlist:item=46125926&perks=981914802,2822142346,1067908860,3108830275,1649663920
+dimwishlist:item=46125926&perks=981914802,2822142346,1067908860,3523296417,1649663920
