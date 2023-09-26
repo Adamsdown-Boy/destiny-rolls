@@ -1,0 +1,352 @@
+@title:Season 22 Foundry Athenaeum Ritual Table and World drop weapons, and reprised craftable exotics
+@description:Season of the Witch Cassoid and Nadir Foundry weapons, Dead Man's Tale and Dead Messenger
+
+// The Showrunner (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Well Rounded, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. The only other current lightweight SMG is Submission (which is a stat monster), so Showrunner's stats look a bit poor by comparison, but there are still some interesting PvE rolls worth considering. Lightweights give you +20 Mobility and +6.25% to movement speed as the frame bonus to start. You can push out the range with the barrel perk - Hammer Forged Rifling or Smallbore both work well, and Ricochet Rounds pushes out the range a bit further and adds a bit more stability. There are plenty of ways to proc the gunfeel boosts you get from Well Rounded and, once you've done that you can collect any generated elemental pickups to proc Collective Action (which is unusual to see on a Kinetic weapon) for a 20% damage boost. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1999754402&perks=3250034553,1885400500,744594675,3324494224
+dimwishlist:item=1999754402&perks=1482024992,1885400500,744594675,3324494224
+
+// The Showrunner (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, (Well Rounded, Grave Robber), Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. The only other current lightweight SMG is Submission (which is a stat monster), so Showrunner's stats look a bit poor by comparison, but there are still some interesting PvE rolls worth considering. Lightweights give you +20 Mobility and +6.25% to movement speed as the frame bonus to start. You can push out the range with the barrel perk - Hammer Forged Rifling or Smallbore both work well, and Ricochet Rounds pushes out the range a bit further and adds a bit more stability. For melee-focussed builds, in the first trait column as the support perk, there are plenty of ways to proc the gunfeel boosts you get from Well Rounded or you can use Grave Robber to keep your mag topped up to make the most of Swashbuckler in the second, signature perk slot for 33% bonus damage. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1999754402&perks=3250034553,1885400500,744594675,4082225868
+dimwishlist:item=1999754402&perks=1482024992,1885400500,744594675,4082225868
+dimwishlist:item=1999754402&perks=3250034553,1885400500,1631667848,4082225868
+dimwishlist:item=1999754402&perks=1482024992,1885400500,1631667848,4082225868
+
+// The Showrunner (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), Ricochet Rounds, Overflow, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for beefier Minor Spec enemies in end-game content. The only other current lightweight SMG is Submission (which is a stat monster), so Showrunner's stats look a bit poor by comparison, but there are still some interesting PvE rolls worth considering. Lightweights give you +20 Mobility and +6.25% to movement speed as the frame bonus to start. You can push out the range with the barrel perk - Hammer Forged Rifling or Smallbore both work well, and Ricochet Rounds pushes out the range a bit further and adds a bit more stability. In the first trait column, as the support perk, Overflow lets you get to the highest stacks of single-target damage from Target Lock in the second column as the signature perk, for beefier Minor Spec adds. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1999754402&perks=3250034553,1885400500,3643424744,365154968
+dimwishlist:item=1999754402&perks=1482024992,1885400500,3643424744,365154968
+
+// The Showrunner (PvE first-choice roll)
+// Full Bore, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), Well Rounded, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. The only other current lightweight SMG is Submission (which is a stat monster), so Showrunner's stats look a bit poor by comparison, but there are still some interesting PvE rolls worth considering. Lightweights give you +20 Mobility and +6.25% to movement speed as the frame bonus to start. You can push out the range with the barrel perk - on M&KB, Full Bore provides an extra 1.36m of ADS range, and any of the combat effect rounds pushes that out an additional 0.45m. There are plenty of ways to proc the gunfeel boosts you get from Well Rounded and, once you've done that you can collect any generated elemental pickups to proc Collective Action (which is unusual to see on a Kinetic weapon)  for a 20% damage boost. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=1999754402&perks=202670084,1885400500,744594675,3324494224
+dimwishlist:item=1999754402&perks=202670084,1561002382,744594675,3324494224
+dimwishlist:item=1999754402&perks=202670084,1968497646,744594675,3324494224
+
+// The Showrunner (PvE first-choice roll)
+// Full Bore, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Well Rounded, Grave Robber), Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. The only other current lightweight SMG is Submission (which is a stat monster), so Showrunner's stats look a bit poor by comparison, but there are still some interesting PvE rolls worth considering. Lightweights give you +20 Mobility and +6.25% to movement speed as the frame bonus to start. You can push out the range with the barrel perk - on M&KB, Full Bore provides an extra 1.36m of ADS range, and any of the combat effect rounds pushes that out an additional 0.45m. For melee-focussed builds, in the first trait column as the support perk, there are plenty of ways to proc the gunfeel boosts you get from Well Rounded or you can use Grave Robber to keep your mag topped up to make the most of Swashbuckler in the second, signature perk slot for 33% bonus damage. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=1999754402&perks=202670084,1885400500,744594675,4082225868
+dimwishlist:item=1999754402&perks=202670084,1561002382,744594675,4082225868
+dimwishlist:item=1999754402&perks=202670084,1968497646,744594675,4082225868
+dimwishlist:item=1999754402&perks=202670084,1885400500,1631667848,4082225868
+dimwishlist:item=1999754402&perks=202670084,1561002382,1631667848,4082225868
+dimwishlist:item=1999754402&perks=202670084,1968497646,1631667848,4082225868
+
+// The Showrunner (PvE first-choice roll)
+// Full Bore, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), Overflow, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. The only other current lightweight SMG is Submission (which is a stat monster), so Showrunner's stats look a bit poor by comparison, but there are still some interesting PvE rolls worth considering. Lightweights give you +20 Mobility and +6.25% to movement speed as the frame bonus to start. You can push out the range with the barrel perk - on M&KB, Full Bore provides an extra 1.36m of ADS range, and any of the combat effect rounds pushes that out an additional 0.45m. In the first trait column, as the support perk, Overflow lets you get to the highest stacks of single-target damage from Target Lock in the second column as the signature perk, for beefier Minor Spec adds. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=1999754402&perks=202670084,1885400500,3643424744,365154968
+dimwishlist:item=1999754402&perks=202670084,1561002382,3643424744,365154968
+dimwishlist:item=1999754402&perks=202670084,1968497646,3643424744,365154968
+
+// Nightshade (PvE first-choice roll)
+// Arrowhead Brake, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Enlightened Action, Outlaw), (Collective Action, Kill Clip)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in general content. Nightshade is back - the same lightweight frame to give you +20 Mobility and +6.25% to movement speed as in vanilla D2, but this time as a Strand weapon. The stats are solid by comparison with other kinetic options. Start by straightening up the recoil direction with Arrowhead Brake, and then add one of the combat effect rounds - Ricochet also adds stability, but they are all useful. In the first trait column as the support park, either Enlightened Action boosts reload speed and handling to maximum in two 3-round bursts, or Outlaw maximises reload and applies a scalar. To pair with this in the second column signature slot, Collective Action boosts damage by 20% for 7s on an Elemental Pickup, or Kill Clip adds 25% damage for 5s after a precision kill. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=1974641289&perks=839105230,1885400500,3828510309,3324494224
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,3324494224
+dimwishlist:item=1974641289&perks=839105230,1968497646,3828510309,3324494224
+dimwishlist:item=1974641289&perks=839105230,1885400500,1168162263,3324494224
+dimwishlist:item=1974641289&perks=839105230,1561002382,1168162263,3324494224
+dimwishlist:item=1974641289&perks=839105230,1968497646,1168162263,3324494224
+dimwishlist:item=1974641289&perks=839105230,1885400500,3828510309,1015611457
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,1015611457
+dimwishlist:item=1974641289&perks=839105230,1968497646,3828510309,1015611457
+dimwishlist:item=1974641289&perks=839105230,1885400500,1168162263,1015611457
+dimwishlist:item=1974641289&perks=839105230,1561002382,1168162263,1015611457
+dimwishlist:item=1974641289&perks=839105230,1968497646,1168162263,1015611457
+
+// Nightshade (PvE first-choice roll)
+// Arrowhead Brake, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Keep Away, Enlightened Action, Outlaw), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Strand synergy and add-clearing Minor Spec enemies in general content. Nightshade is back - the same lightweight frame to give you +20 Mobility and +6.25% to movement speed as in vanilla D2, but this time as a Strand weapon. The stats are solid by comparison with other kinetic options. Start by straightening up the recoil direction with Arrowhead Brake, and then add one of the combat effect rounds - Ricochet also adds stability, but they are all useful. In the first trait column as the support park, either Keep Away adds range reload speed and accuracy if you're keeping your distance, Enlightened Action boosts reload speed and handling to maximum in two 3-round bursts, or Outlaw maximises reload and applies an animation scalar too. To pair with this in the second column signature slot Hatchling, particularly with Threads of Evolution and Rebirth, is a natural choice for Strand subclasses. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=1974641289&perks=839105230,1885400500,3619207468,831391274
+dimwishlist:item=1974641289&perks=839105230,1561002382,3619207468,831391274
+dimwishlist:item=1974641289&perks=839105230,1968497646,3619207468,831391274
+dimwishlist:item=1974641289&perks=839105230,1885400500,3828510309,831391274
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,831391274
+dimwishlist:item=1974641289&perks=839105230,1968497646,3828510309,831391274
+dimwishlist:item=1974641289&perks=839105230,1885400500,1168162263,831391274
+dimwishlist:item=1974641289&perks=839105230,1561002382,1168162263,831391274
+dimwishlist:item=1974641289&perks=839105230,1968497646,1168162263,831391274
+
+// Nightshade (PvE first-choice roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Strand synergy and add-clearing Minor Spec enemies in general content. Nightshade is back - the same lightweight frame to give you +20 Mobility and +6.25% to movement speed as in vanilla D2, but this time as a Strand weapon. The stats are solid by comparison with other kinetic options. On M&KB, start with pushing the range out with Full Bore, and then add one of the combat effect rounds - they are all useful and add more range. In the first trait column as the support park, either Enlightened Action boosts reload speed and handling to maximum in two 3-round bursts, or Outlaw maximises reload and applies a scalar. To pair with this in the second column signature slot, Collective Action boosts damage by 20% for 7s on an Elemental Pickup, or Kill Clip adds 25% damage for 5s after a precision kill. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB
+dimwishlist:item=1974641289&perks=202670084,1885400500,3828510309,3324494224
+dimwishlist:item=1974641289&perks=202670084,1561002382,3828510309,3324494224
+dimwishlist:item=1974641289&perks=202670084,1968497646,3828510309,3324494224
+dimwishlist:item=1974641289&perks=202670084,1885400500,1168162263,3324494224
+dimwishlist:item=1974641289&perks=202670084,1561002382,1168162263,3324494224
+dimwishlist:item=1974641289&perks=202670084,1968497646,1168162263,3324494224
+dimwishlist:item=1974641289&perks=202670084,1885400500,3828510309,1015611457
+dimwishlist:item=1974641289&perks=202670084,1561002382,3828510309,1015611457
+dimwishlist:item=1974641289&perks=202670084,1968497646,3828510309,1015611457
+dimwishlist:item=1974641289&perks=202670084,1885400500,1168162263,1015611457
+dimwishlist:item=1974641289&perks=202670084,1561002382,1168162263,1015611457
+dimwishlist:item=1974641289&perks=202670084,1968497646,1168162263,1015611457
+
+// Nightshade (PvE first-choice roll)
+// Full Bore, (Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds), (Keep Away, Enlightened Action, Outlaw), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Strand synergy and add-clearing Minor Spec enemies in general content. Nightshade is back - the same lightweight frame to give you +20 Mobility and +6.25% to movement speed as in vanilla D2, but this time as a Strand weapon. The stats are solid by comparison with other kinetic options. On M&KB, start with pushing the range out with Full Bore, and then add one of the combat effect rounds - they are all useful and add more range. In the first trait column as the support park, either Keep Away adds range reload speed and accuracy if you're keeping your distance, Enlightened Action boosts reload speed and handling to maximum in two 3-round bursts, or Outlaw maximises reload and applies an animation scalar too. To pair with this in the second column signature slot Hatchling, particularly with Threads of Evolution and Rebirth, is a natural choice for Strand subclasses. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB
+dimwishlist:item=1974641289&perks=202670084,1885400500,3619207468,831391274
+dimwishlist:item=1974641289&perks=202670084,1561002382,3619207468,831391274
+dimwishlist:item=1974641289&perks=202670084,1968497646,3619207468,831391274
+dimwishlist:item=1974641289&perks=202670084,1885400500,3828510309,831391274
+dimwishlist:item=1974641289&perks=202670084,1561002382,3828510309,831391274
+dimwishlist:item=1974641289&perks=202670084,1968497646,3828510309,831391274
+dimwishlist:item=1974641289&perks=202670084,1885400500,1168162263,831391274
+dimwishlist:item=1974641289&perks=202670084,1561002382,1168162263,831391274
+dimwishlist:item=1974641289&perks=202670084,1968497646,1168162263,831391274
+
+// Persuader (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Appened Mag, Extended Mag), Rapid Hit, Triple Tap
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for short phases of sustained damage against Boss Spec enemies in end-game content. Even with some decent stats, honestly, there are better rapid-fire sniper options out there for sustained boss damage in a short damage window (think Caretaker or Golgoroth), but if you haven't got one of them already, then Persuader can be made to work in the meantime. Start with Arrowhead Brake to control the recoil and add handling, and add Tactical Mag for 7 shots in the chamber (Appended and Extended Mag offer nothing better). The combination of Rapid Hit in the first trait column as the support perk - which adds stability, maximises reload speed together with a reload animation scalar - and Triple Tap in the second column as the signature perk, which lets you get off 10 crit shots without reloading, should provide a decent stopgap. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Range, with a damage-boosting (Boss or Taken Spec) mod. Tags: PvE, PvEBoss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=781498181&perks=839105230,106909392,247725512,3400784728
+dimwishlist:item=781498181&perks=839105230,1087426260,247725512,3400784728
+dimwishlist:item=781498181&perks=839105230,2420895100,247725512,3400784728
+
+// Deadpan Delivery (PvE first-choice roll)
+// Full Choke, (Tactical Mag, Appended Mag, Extended Mag), Overflow, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major or Boss Spec enemies in end-game content. Decent stats in comparison with its peers. So if you're a Lethal Current Hunter in the market for a shotgun to pair with your melee, Deadpan Delivery is a very decent choice. For a One-Two Punch roll, start with Full Choke, to make hitting all your pellets a little easier. Tactical Mag increases the magazine to a maximum of 5 (which is the same as Appended and Extended Mags). Then, as the first trait column support perk, there's no Grave Robber unfortunately, but Overflow doubles your magazine size for picking up ammo, which gives you 10 shots before you'll have to reload (unless you pickup another ammo brick). Finally, One-Two Punch in the second column as the signature perk boosts your powered melee damage by a hefty 40%. You probably won't get much use out of the Nadir Focus Origin Trait, which adds range and accuracy on repeated hits, but it is nice to have anyway. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1296429091&perks=1047830412,106909392,3643424744,2679249093
+dimwishlist:item=1296429091&perks=1047830412,1087426260,3643424744,2679249093
+dimwishlist:item=1296429091&perks=1047830412,2420895100,3643424744,2679249093
+
+// Deadpan Delivery (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Overflow, (Trench Barrel, Frenzy, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major enemies in end-game content. Decent stats in comparison with its peers. If you're looking for an arc shotgun, Deadpan Delivery is a very decent choice. Start with a barrel perk that boosts handling - Barrel Shroud or Corkscrew Rifling both help a little - and Assault Mag improves the low rate of fire. In the first trait column as the support perk, Overflow doubles your magazine size for just picking up an ammo brick and then in the second column signature perk slot, to passively boost damage for end-game use you could use Trench Barrel, Frenzy or Collective Action. You probably won't get much use out of the Nadir Focus Origin Trait, which adds range and accuracy on repeated hits, but it is nice to have anyway. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1296429091&perks=1300023272,791862061,3643424744,2360754333
+dimwishlist:item=1296429091&perks=4090651448,791862061,3643424744,2360754333
+dimwishlist:item=1296429091&perks=1300023272,791862061,3643424744,4104185692
+dimwishlist:item=1296429091&perks=4090651448,791862061,3643424744,4104185692
+dimwishlist:item=1296429091&perks=1300023272,791862061,3643424744,3324494224
+dimwishlist:item=1296429091&perks=4090651448,791862061,3643424744,3324494224
+
+// Nox Perennial V (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Liquid Coils, Ionised Battery, Accelerated Coils), Envious Assassin, Controlled Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major enemies and sustained damage against Bosses in end-game content. In case you're wondering, the name translates as "enduring or recurring night" - Nox Perennial is the first high-impact fusion rifle and, although the stats aren't top notch, this roll is worth watching for, for Majors and Boss phases (for when you're running Tractor Cannon, say). As with all high-impacts, the handling is terrible - Arrowhead Brake adds a moderate amount as well as taking the recoil direction to 95, but Fluted Barrel and Corkscrew Rifling are decent alternatives. You could go in a couple of different directions with the battery perk - Ionic Battery adds two shots (don't worry about the reload speed penalty, we can deal with that later), or Accelerated Coils ups the first rate, but Liquid Coils is probably the top choice - again we'll use a trait to reduce the charge time from three business days to something more usable. In the first trait column as the support perk, Envious Assassin can boost the battery to 15 charges with 14 rapid kills with other weapons, while Controlled Burst adds 20% damage while reducing charge time for hitting all your bolts. The Wild Card origin trait is great for PvE - the occasional drop of Telesto-like "Experimental submunitions" on a kill for a bit of free additional damage. Recommended MW: Charge Time or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2767393525&perks=839105230,1483536627,968510818,2594592626
+dimwishlist:item=2767393525&perks=1840239774,1483536627,968510818,2594592626
+dimwishlist:item=2767393525&perks=4090651448,1483536627,968510818,2594592626
+dimwishlist:item=2767393525&perks=839105230,1687452232,968510818,2594592626
+dimwishlist:item=2767393525&perks=1840239774,1687452232,968510818,2594592626
+dimwishlist:item=2767393525&perks=4090651448,1687452232,968510818,2594592626
+dimwishlist:item=2767393525&perks=839105230,689005463,968510818,2594592626
+dimwishlist:item=2767393525&perks=1840239774,689005463,968510818,2594592626
+dimwishlist:item=2767393525&perks=4090651448,689005463,968510818,2594592626
+
+// Psi Hermetic V (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore), (Accurized Rounds, Tactical Mag), Enlightened Action, Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Stasis synergy and add clearing Minor Spec enemies in end-game content. The name's a bit confusing - Psi (Ψ) is the 23rd letter in the Greek Alphabet, and Hermetic can mean something that's occult or mysterious and difficult to understand, relating to the legendary alchemist Hermes Trismegistus, tightly sealed, immune to external influence, or solitary like a hermit, so your guess is as good as anyone's. Anyway, this is a Stasis High Impact pulse rifle with decent stats. Look for something that helps with recoil direction, handling, stability or a mix as the barrel perk, and add range with Accurized Rounds or the useful gunfeel boosts of Tactical Mag. The traits are a bit PvP focussed - Enlightened Action is the best of the first column support perks, for big boosts to handling and reload speed with just two 3-bullet bursts. For Stasis synergy, Headstone generates a crystal on a crit kill, to use to proc your subclass fragments. The Wild Card origin trait is great for PvE - the occasional drop of Telesto-like "Experimental submunitions" on a kill for a bit of free additional damage. Recommended MW: Charge Time or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=358788212&perks=839105230,3142289711,3828510309,124408337
+dimwishlist:item=358788212&perks=3661387068,3142289711,3828510309,124408337
+dimwishlist:item=358788212&perks=1467527085,3142289711,3828510309,124408337
+dimwishlist:item=358788212&perks=1840239774,3142289711,3828510309,124408337
+dimwishlist:item=358788212&perks=1482024992,3142289711,3828510309,124408337
+dimwishlist:item=358788212&perks=839105230,106909392,3828510309,124408337
+dimwishlist:item=358788212&perks=3661387068,106909392,3828510309,124408337
+dimwishlist:item=358788212&perks=1467527085,106909392,3828510309,124408337
+dimwishlist:item=358788212&perks=1840239774,106909392,3828510309,124408337
+dimwishlist:item=358788212&perks=1482024992,106909392,3828510309,124408337
+
+// Psi Hermetic V (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Smallbore), (Accurized Rounds, Tactical Mag), Enlightened Action, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in end-game content. The name's a bit confusing - Psi (Ψ) is the 23rd letter in the Greek Alphabet, and Hermetic can mean something that's occult or mysterious and difficult to understand, relating to the legendary alchemist Hermes Trismegistus, tightly sealed, immune to external influence, or solitary like a hermit, so your guess is as good as anyone's. Anyway, this is a Stasis High Impact pulse rifle with decent stats. Look for something that helps with recoil direction, handling, stability or a mix as the barrel perk, and add range with Accurized Rounds or the useful gunfeel boosts of Tactical Mag. The traits are a bit PvP focussed - Enlightened Action is the best of the first column support perks, for big boosts to handling and reload speed with just two 3-bullet bursts. While it's a bit more difficult to get Stasis ability kills for the second +50% damage stack to take down Majors, Golden Tricorn is still a great choice for the second column trait as the signature perk. The Wild Card origin trait is great for PvE - the occasional drop of Telesto-like "Experimental submunitions" on a kill for a bit of free additional damage. Recommended MW: Charge Time or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=358788212&perks=839105230,3142289711,3828510309,2610012052
+dimwishlist:item=358788212&perks=3661387068,3142289711,3828510309,2610012052
+dimwishlist:item=358788212&perks=1467527085,3142289711,3828510309,2610012052
+dimwishlist:item=358788212&perks=1840239774,3142289711,3828510309,2610012052
+dimwishlist:item=358788212&perks=1482024992,3142289711,3828510309,2610012052
+dimwishlist:item=358788212&perks=839105230,106909392,3828510309,2610012052
+dimwishlist:item=358788212&perks=3661387068,106909392,3828510309,2610012052
+dimwishlist:item=358788212&perks=1467527085,106909392,3828510309,2610012052
+dimwishlist:item=358788212&perks=1840239774,106909392,3828510309,2610012052
+dimwishlist:item=358788212&perks=1482024992,106909392,3828510309,2610012052
+
+// Psi Hermetic V (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Accurized Rounds, Heating Up, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in end-game content. The name's a bit confusing - Psi (Ψ) is the 23rd letter in the Greek Alphabet, and Hermetic can mean something that's occult or mysterious and difficult to understand, relating to the legendary alchemist Hermes Trismegistus, tightly sealed, immune to external influence, or solitary like a hermit, so your guess is as good as anyone's. Anyway, this is a Stasis High Impact pulse rifle with decent stats. Boost range with your barrel and magazine perks - Full Bore or Hammer-Forged Rifling and Accurized Rounds adds up to 3.62m of ADS range. In the first trait column as the support perk, Heating up will straighten up the recoil direction and add stability, while Frenzy in the second column as the signature perk adds 15% damage and maximises handling and reload speed. The Wild Card origin trait is great for PvE - the occasional drop of Telesto-like "Experimental submunitions" on a kill for a bit of free additional damage. Recommended MW: Charge Time or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=358788212&perks=202670084,3142289711,1570042021,4104185692
+dimwishlist:item=358788212&perks=3250034553,3142289711,1570042021,4104185692
+
+// Heliocentric QSc (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), Heal Clip, Kill Clip
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in general content. Heliocentric (translation "sun-centred") has great base stats, so you can go for a little extra range, stability or handling with your barrel park - that's pretty much down to your preference. Reload will be the most important magazine perk stat boosts, so Flared Magwell, Tactical Mag or even Alloy May are good picks. The unique trait combination that the chase is on for is Heal Clip as the first column support perk, and Kill Clip as the second column signature perk. Proccing both with a reload after a kill gives you and anyone near a burst of Cure, while adding 25% damage for 5s. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3017780555,1015611457
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3017780555,1015611457
+dimwishlist:item=3998080529&perks=3250034553,106909392,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1482024992,106909392,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1392496348,106909392,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1840239774,106909392,3017780555,1015611457
+dimwishlist:item=3998080529&perks=4090651448,106909392,3017780555,1015611457
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3017780555,1015611457
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3017780555,1015611457
+
+// Heliocentric QSc (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), (Heal Clip, Demolitionist), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Solar synergy and add clearing Minor Spec enemies in general content. Heliocentric (translation "sun-centred") has great base stats, so you can go for a little extra range, stability or handling with your barrel park - that's pretty much down to your preference. Reload will be the most important magazine perk stat boosts, so Flared Magwell, Tactical Mag or even Alloy May are good picks. The new to S22 Heal Clip as the first column support perk provides you and any one nearby with a burst of Cure when you reload after a kill, or Demolitionist refunds grenade energy - pair either with Incandescent in the second column as the signature perk, for Solar synergy, with scorch and ignite kills adding to the grenade energy tally too. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Reload Speed or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3017780555,4293542123
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3017780555,4293542123
+dimwishlist:item=3998080529&perks=3250034553,106909392,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1482024992,106909392,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1392496348,106909392,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1840239774,106909392,3017780555,4293542123
+dimwishlist:item=3998080529&perks=4090651448,106909392,3017780555,4293542123
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3017780555,4293542123
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3017780555,4293542123
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3017780555,4293542123
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3523296417,4293542123
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3523296417,4293542123
+dimwishlist:item=3998080529&perks=3250034553,106909392,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1482024992,106909392,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1392496348,106909392,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1840239774,106909392,3523296417,4293542123
+dimwishlist:item=3998080529&perks=4090651448,106909392,3523296417,4293542123
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3523296417,4293542123
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3523296417,4293542123
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3523296417,4293542123
+
+// Heliocentric QSc (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), Heal Clip, (Frenzy, Surrounded)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Solar synergy and add clearing Minor Spec enemies in end-game content (although you'll be brave to be that close!). Heliocentric (translation "sun-centred") has great base stats, so you can go for a little extra range, stability or handling with your barrel park - that's pretty much down to your preference. Reload Speed will be the most important magazine perk stat boost, so Flared Magwell, Tactical Mag or even Alloy Mag are good picks. The new to S22 Heal Clip as the first column support perk provides you and any one nearby with a burst of Cure when you reload after a kill. In the second column as the signature perk, Frenzy passively provides maximum Handling and Reload Speed when procced, together with a solid 15% damage boost, or Surrounded gives  passive +40% damage for being in CQC. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3017780555,4104185692
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3017780555,4104185692
+dimwishlist:item=3998080529&perks=3250034553,106909392,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1482024992,106909392,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1392496348,106909392,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1840239774,106909392,3017780555,4104185692
+dimwishlist:item=3998080529&perks=4090651448,106909392,3017780555,4104185692
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3017780555,4104185692
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3017780555,4104185692
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3017780555,4104185692
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3017780555,3708227201
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3017780555,3708227201
+dimwishlist:item=3998080529&perks=3250034553,106909392,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1482024992,106909392,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1392496348,106909392,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1840239774,106909392,3017780555,3708227201
+dimwishlist:item=3998080529&perks=4090651448,106909392,3017780555,3708227201
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3017780555,3708227201
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3017780555,3708227201
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3017780555,3708227201
+
+// Heliocentric QSc (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Polygonal Rifling, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Solar synergy and add clearing Minor Spec enemies in end-game content (although you'll be brave to be that close!). Heliocentric (translation "sun-centred") has great base stats, so you can go for a little extra range, stability or handling with your barrel park - that's pretty much down to your preference. Reload Speed will be the most important magazine perk stat boost, so Flared Magwell, Tactical Mag or even Alloy Mag are good picks. The tried and true combination of Demolitionist in the first trait column as the support park to regenerate grenade energy, and Adrenaline Junkie in the second as the signature perk to use that grenade to boost damage by 33% is always worth considering, if you don't have that combination on a sidearm already, but don't overlook the passive damage and stat boosts from Frenzy and Surrounded either. The Nadir Focus Origin Trait adding range and accuracy on repeated hits isn't game-changing, but it is nice to have. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3523296417,11612903
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=3998080529&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=3998080529&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=3998080529&perks=1392496348,106909392,3523296417,11612903
+dimwishlist:item=3998080529&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3998080529&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3523296417,11612903
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3523296417,11612903
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3523296417,11612903
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3523296417,11612903
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3523296417,11612903
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3523296417,4104185692
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3523296417,4104185692
+dimwishlist:item=3998080529&perks=3250034553,106909392,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1482024992,106909392,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1392496348,106909392,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1840239774,106909392,3523296417,4104185692
+dimwishlist:item=3998080529&perks=4090651448,106909392,3523296417,4104185692
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3523296417,4104185692
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3523296417,4104185692
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3523296417,4104185692
+dimwishlist:item=3998080529&perks=3250034553,3230963543,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1482024992,3230963543,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1392496348,3230963543,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1840239774,3230963543,3523296417,3708227201
+dimwishlist:item=3998080529&perks=4090651448,3230963543,3523296417,3708227201
+dimwishlist:item=3998080529&perks=3250034553,106909392,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1482024992,106909392,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1392496348,106909392,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1840239774,106909392,3523296417,3708227201
+dimwishlist:item=3998080529&perks=4090651448,106909392,3523296417,3708227201
+dimwishlist:item=3998080529&perks=3250034553,1431678320,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1482024992,1431678320,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1392496348,1431678320,3523296417,3708227201
+dimwishlist:item=3998080529&perks=1840239774,1431678320,3523296417,3708227201
+dimwishlist:item=3998080529&perks=4090651448,1431678320,3523296417,3708227201
+
+// Geodetic HSm (PvE first-choice roll)
+// (Tempered Edge, Hungry Edge, Enduring Blade), Burst Guard, Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Geodetic (which means relating to the branch of applied mathematics concerned with the size and shape of the Earth) is a bit of a curious beast - having +2 Impact compared to other legendary swords (excluding Bequest) and +27 Charge Rate (again, excepting Bequest). If you're looking for an add-clear weapon, you might want to to look at Blade perks that boost your ammo capacity - one hit is likely to kill even in end-game content. Again, you're probably not looking to use the charged attack that frequently, so Burst Guard could be more useful to survive in CQC. This is the first sword that offers the trait combination of Repulsor Brace in the first column as the support perk and Destabilizing Rounds in the second as the signature perk, continuously generating a Void overshield and applying volatility to carve your way through adds. The Nadir Focus Origin Trait boosts lunge distance - a bit like an Eager Edge lite that's permanently up, which could be useful in the Crota's End Abyss encounter. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3637669759&perks=938542991,3625355092,776531651,2048641572
+dimwishlist:item=3637669759&perks=436053704,3625355092,776531651,2048641572
+dimwishlist:item=3637669759&perks=1261178282,3625355092,776531651,2048641572
+
+// Geodetic HSm (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Geodetic (which means relating to the branch of applied mathematics concerned with the size and shape of the Earth) is a bit of a curious beast - having +2 Impact compared to other legendary swords (excluding Bequest) and +27 Charge Rate (again, excepting Bequest). Even if you have already got a sword decked out for Major or Boss damage, this already starts out doing more damage, so set it up as usual with a damage-boosting blade perk, ideally Jagged Edge, with Swordmaster's Guard as the guard perk. Then pair Relentless Strikes to regene4rate ammo one every third strike in the first trait column as the support perk with Whirlwind Blade in the second column as the signature perk to boost damage up up to 30% at 10 stacks. The Nadir Focus Origin Trait boosts lunge distance - a bit like an Eager Edge lite that's permanently up, which could be useful in the Crota's End Abyss encounter. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3637669759&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=3637669759&perks=2827049491,52780822,1749209109,3913600130
+dimwishlist:item=3637669759&perks=938542991,52780822,1749209109,3913600130
+
+// Dead Man's Tale (PvE first-choice roll)
+// Fluted Barrel, (Flared Magwell, High-Caliber Rounds, Ricochet Rounds, Armor-Pierceing Rounds), (Vorpal Weapon, Shoot to Loot), (Hand-Laid Stock, Fitted Stock)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Dead Man's Tale, in it's revised form may still be thought of as primarily a PvP weapon, but it can still put in some work in PvE. Start with Fluted Barrel - handling and stability are always good to have. As the mag perk Flared Magwell really is the best choice - with reloading two shots at a time, it can feel quite slow - but if you're happy with reload speed, choose from your preferred combat effect mag. In the trait slot, you could choose Vorpal Weapon for the +20% damage against Majors and Bosses, or Shoot to Loot to safely pick up ammo and orbs of power from cover. As the stock perk, Hand-Laid Stock is a nice boost to Handling, or Fitted Stock takes the recoil to 100 and adds stability, at the cost of a little handling. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2188764214&perks=1840239774,3230963543,1546637391,990298390
+dimwishlist:item=2188764214&perks=1840239774,1561002382,1546637391,990298390
+dimwishlist:item=2188764214&perks=1840239774,1968497646,1546637391,990298390
+dimwishlist:item=2188764214&perks=1840239774,1885400500,1546637391,990298390
+dimwishlist:item=2188764214&perks=1840239774,3230963543,3700496672,990298390
+dimwishlist:item=2188764214&perks=1840239774,1561002382,3700496672,990298390
+dimwishlist:item=2188764214&perks=1840239774,1968497646,3700496672,990298390
+dimwishlist:item=2188764214&perks=1840239774,1885400500,3700496672,990298390
+dimwishlist:item=2188764214&perks=1840239774,3230963543,1546637391,4259401308
+dimwishlist:item=2188764214&perks=1840239774,1561002382,1546637391,4259401308
+dimwishlist:item=2188764214&perks=1840239774,1968497646,1546637391,4259401308
+dimwishlist:item=2188764214&perks=1840239774,1885400500,1546637391,4259401308
+dimwishlist:item=2188764214&perks=1840239774,3230963543,3700496672,4259401308
+dimwishlist:item=2188764214&perks=1840239774,1561002382,3700496672,4259401308
+dimwishlist:item=2188764214&perks=1840239774,1968497646,3700496672,4259401308
+dimwishlist:item=2188764214&perks=1840239774,1885400500,3700496672,4259401308
+
+// Dead Messenger (PvE first-choice roll)
+// Hard Launch, High-Velocity Rounds, The Fundamentals, Short-Action Stock, (Unrelenting, Demolitionist)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 78 (https://open.spotify.com/episode/5KOQQ9QtvSEhRVb4vjeO3B?si=8c4784e02b87424e) with @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Dead Messenger still needs a little love as at v7.2.0.5, even if it does come with a fair few extras built-in. With Blast Radius and Stability being pointless, you might as well maximise Velocity with Hard Launch as the barrel perk, and High-Velocity Rounds as the mag perk. Short-Action Stock is the only useful choice as the stock perk, and then as your selectable perk, Unrelenting is good to recover health in a firefight, or Demolitionist should still work (even though you only get 10% grenade energy per hit), as with a wave-frame you should catch multiple adds with each shot. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2188764214&perks=981914802,2822142346,2620589274,1067908860,3108830275
+dimwishlist:item=2188764214&perks=981914802,2822142346,2620589274,1067908860,3523296417
+
+
