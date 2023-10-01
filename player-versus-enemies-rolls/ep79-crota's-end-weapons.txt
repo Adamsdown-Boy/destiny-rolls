@@ -1,0 +1,466 @@
+@title:Crota's End weapons
+@description:Reprised weapons from the Crota's End Raid, with the Cursed Thrall origin trait
+
+// Fang of Ir Yût (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Shoot to Loot, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Shapeable. This is the first rapid-fire Strand scout rifle (so you get an Alloy Mag-like 20% quicker reload animation when the magazine is empty), with best-in-class stats compared to other RFs in the kinetic slot. The recoil direction is a bit shonky, so Arrowhead Brake cleans that up a bit, but if you feel able to control it, Fluted Barrel adds to handling for general snappiness. You can choose from any of the combat effect rounds as the mag perk, depending on your preference, or Flared Magwell for better reload speed. For end-game use, Shoot to Loot as the first trait column support perk lets you gather ammo and orbs of power from a distance and Golden Tricorn can boost damage by 50% when the second stack kicks in - even if Strand is more difficult to proc, especially at the distance you'll be engaging at with a scout rifle. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1432682459&perks=839105230,1561002382,3700496672,2610012052
+dimwishlist:item=1432682459&perks=1840239774,1561002382,3700496672,2610012052
+dimwishlist:item=1432682459&perks=839105230,1968497646,3700496672,2610012052
+dimwishlist:item=1432682459&perks=1840239774,1968497646,3700496672,2610012052
+dimwishlist:item=1432682459&perks=839105230,1885400500,3700496672,2610012052
+dimwishlist:item=1432682459&perks=1840239774,1885400500,3700496672,2610012052
+dimwishlist:item=1432682459&perks=839105230,3230963543,3700496672,2610012052
+dimwishlist:item=1432682459&perks=1840239774,3230963543,3700496672,2610012052
+
+// Fang of Ir Yût (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), (Rapid Hit, Rewind Rounds), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Strand synergy and add clearing Minor Spec enemies in general content. Shapeable. This is the first rapid-fire Strand scout rifle (so you get an Alloy Mag-like 20% quicker reload animation when the magazine is empty), with best-in-class stats compared to other RFs in the kinetic slot. The recoil direction is a bit shonky, so Arrowhead Brake cleans that up a bit, but if you feel able to control it, Fluted Barrel adds to handling for general snappiness. You can choose from any of the combat effect rounds as the mag perk, depending on your preference. For your Strand Synergy, Rapid Hit helps with reload speed and stability, or Rewind Rounds extends your magazine in the first trait column as the support park, while Hatchling is the Strand option-de-jour in the second column as the signature perk. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1432682459&perks=839105230,1561002382,247725512,831391274
+dimwishlist:item=1432682459&perks=1840239774,1561002382,247725512,831391274
+dimwishlist:item=1432682459&perks=839105230,1968497646,247725512,831391274
+dimwishlist:item=1432682459&perks=1840239774,1968497646,247725512,831391274
+dimwishlist:item=1432682459&perks=839105230,1885400500,247725512,831391274
+dimwishlist:item=1432682459&perks=1840239774,1885400500,247725512,831391274
+dimwishlist:item=1432682459&perks=839105230,1561002382,3418782618,831391274
+dimwishlist:item=1432682459&perks=1840239774,1561002382,3418782618,831391274
+dimwishlist:item=1432682459&perks=839105230,1968497646,3418782618,831391274
+dimwishlist:item=1432682459&perks=1840239774,1968497646,3418782618,831391274
+dimwishlist:item=1432682459&perks=839105230,1885400500,3418782618,831391274
+dimwishlist:item=1432682459&perks=1840239774,1885400500,3418782618,831391274
+
+// Fang of Ir Yût (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Rewind Rounds, Precision Instrument
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing chunkier Minor Spec enemies in end-gamecontent. Shapeable. This is the first rapid-fire Strand scout rifle (so you get an Alloy Mag-like 20% quicker reload animation when the magazine is empty), with best-in-class stats compared to other RFs in the kinetic slot. The recoil direction is a bit shonky, so Arrowhead Brake cleans that up a bit, but if you feel able to control it, Fluted Barrel adds to handling for general snappiness. You can choose from any of the combat effect rounds as the mag perk, depending on your preference. Rewind Rounds in the first trait column as the support perk works well with new-to-season-22 Precision Instrument in the second as the signature perk to keep the higher damage stacks going for longer, before you reload. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PPvE-God, M+KB, Controller
+dimwishlist:item=1432682459&perks=839105230,1561002382,3418782618,555281244
+dimwishlist:item=1432682459&perks=1840239774,1561002382,3418782618,555281244
+dimwishlist:item=1432682459&perks=839105230,1968497646,3418782618,555281244
+dimwishlist:item=1432682459&perks=1840239774,1968497646,3418782618,555281244
+dimwishlist:item=1432682459&perks=839105230,1885400500,3418782618,555281244
+dimwishlist:item=1432682459&perks=1840239774,1885400500,3418782618,555281244
+
+// Fang of Ir Yût (Adept) (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Shoot to Loot, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Barrel and Mag re-shapeable. This is the first rapid-fire Strand scout rifle (so you get an Alloy Mag-like 20% quicker reload animation when the magazine is empty), with best-in-class stats compared to other RFs in the kinetic slot. The recoil direction is a bit shonky, so Arrowhead Brake cleans that up a bit, but if you feel able to control it, Fluted Barrel adds to handling for general snappiness. You can choose from any of the combat effect rounds as the mag perk, depending on your preference, or Flared Magwell for better reload speed. For end-game use, Shoot to Loot as the first trait column support perk lets you gather ammo and orbs of power from a distance and Golden Tricorn can boost damage by 50% when the second stack kicks in - even if Strand is more difficult to proc, especially at the distance you'll be engaging at with a scout rifle. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=128782990&perks=839105230,1561002382,3700496672,2610012052
+dimwishlist:item=128782990&perks=1840239774,1561002382,3700496672,2610012052
+dimwishlist:item=128782990&perks=839105230,1968497646,3700496672,2610012052
+dimwishlist:item=128782990&perks=1840239774,1968497646,3700496672,2610012052
+dimwishlist:item=128782990&perks=839105230,1885400500,3700496672,2610012052
+dimwishlist:item=128782990&perks=1840239774,1885400500,3700496672,2610012052
+dimwishlist:item=128782990&perks=839105230,3230963543,3700496672,2610012052
+dimwishlist:item=128782990&perks=1840239774,3230963543,3700496672,2610012052
+
+// Fang of Ir Yût (Adept) (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), (Rapid Hit, Rewind Rounds), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Strand synergy and add clearing Minor Spec enemies in general content. Barrel and Mag re-shapeable. This is the first rapid-fire Strand scout rifle (so you get an Alloy Mag-like 20% quicker reload animation when the magazine is empty), with best-in-class stats compared to other RFs in the kinetic slot. The recoil direction is a bit shonky, so Arrowhead Brake cleans that up a bit, but if you feel able to control it, Fluted Barrel adds to handling for general snappiness. You can choose from any of the combat effect rounds as the mag perk, depending on your preference. For your Strand Synergy, Rapid Hit helps with reload speed and stability, or Rewind Rounds extends your magazine in the first trait column as the support park, while Hatchling is the Strand option-de-jour in the second column as the signature perk. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=128782990&perks=839105230,1561002382,247725512,831391274
+dimwishlist:item=128782990&perks=1840239774,1561002382,247725512,831391274
+dimwishlist:item=128782990&perks=839105230,1968497646,247725512,831391274
+dimwishlist:item=128782990&perks=1840239774,1968497646,247725512,831391274
+dimwishlist:item=128782990&perks=839105230,1885400500,247725512,831391274
+dimwishlist:item=128782990&perks=1840239774,1885400500,247725512,831391274
+dimwishlist:item=128782990&perks=839105230,1561002382,3418782618,831391274
+dimwishlist:item=128782990&perks=1840239774,1561002382,3418782618,831391274
+dimwishlist:item=128782990&perks=839105230,1968497646,3418782618,831391274
+dimwishlist:item=128782990&perks=1840239774,1968497646,3418782618,831391274
+dimwishlist:item=128782990&perks=839105230,1885400500,3418782618,831391274
+dimwishlist:item=128782990&perks=1840239774,1885400500,3418782618,831391274
+
+// Fang of Ir Yût (Adept) (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Rewind Rounds, Precision Instrument
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing chunkier Minor Spec enemies in end-gamecontent. Barrel and Mag re-shapeable. This is the first rapid-fire Strand scout rifle (so you get an Alloy Mag-like 20% quicker reload animation when the magazine is empty), with best-in-class stats compared to other RFs in the kinetic slot. The recoil direction is a bit shonky, so Arrowhead Brake cleans that up a bit, but if you feel able to control it, Fluted Barrel adds to handling for general snappiness. You can choose from any of the combat effect rounds as the mag perk, depending on your preference. Rewind Rounds in the first trait column as the support perk works well with new-to-season-22 Precision Instrument in the second as the signature perk to keep the higher damage stacks going for longer, before you reload. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=128782990&perks=839105230,1561002382,3418782618,555281244
+dimwishlist:item=128782990&perks=1840239774,1561002382,3418782618,555281244
+dimwishlist:item=128782990&perks=839105230,1968497646,3418782618,555281244
+dimwishlist:item=128782990&perks=1840239774,1968497646,3418782618,555281244
+dimwishlist:item=128782990&perks=839105230,1885400500,3418782618,555281244
+dimwishlist:item=128782990&perks=1840239774,1885400500,3418782618,555281244
+
+// Swordbreaker (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Pugilist, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Strand synergy and add clearing chunkier Minor Spec enemies in end-game content. Shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. As with most shotguns, Handling matters most, so Barrel Shroud or Cockscrew Rifling both offer bumps as the barrel park. For the mag perk, Assault Mag increases rate-of-fire, which is always useful. To make the most of the Cursed Thrall origin trait, which synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active, Pugilist is an obvious choice in the first trait column as the support perk, regenerating melee energy on weapon kills. In the second, Golden Tricorn can help you make the most of the Strand melee abilities (you're going to be in CQC, with a shotgun), setting yourself up for +50% damage for chunkier minors and the occasional major, and Cursed Thrall explosions on a kill. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3163900678&perks=1300023272,791862061,691659142,2610012052
+dimwishlist:item=3163900678&perks=4090651448,791862061,691659142,2610012052
+
+// Swordbreaker (PvE first-choice roll)
+// Full Choke, (Tactical Mag, Assault Mag), Pugilist, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for melee builds and burst damage against Major Spec enemies in end-game content. Shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. In the barrel perk slot, Full Choke improves pellet spread (which is important for later). For the mag perk, Tactical Mag increases the magazine by one and boosts reload speed or Assault Mag improves rate-of-fire. To make the most of the Cursed Thrall origin trait, which synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active, Pugilist is an obvious choice in the first trait column as the support perk, regenerating melee energy on weapon kills. In the second column as the signature perk, One-Two Punch is great for burst damage against a major or a champion, or even the occasional boss for melee-based builds. Recommended MW: Handling or Reload Speed, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3163900678&perks=1047830412,106909392,691659142,2679249093
+dimwishlist:item=3163900678&perks=1047830412,791862061,691659142,2679249093
+
+// Swordbreaker (PvE first-choice roll)
+// Full Choke, (Tactical Mag, Assault Mag), Threat Detector, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. In the barrel perk slot, Full Choke improves pellet spread (which is important for later). For the mag perk, Tactical Mag increases the magazine by one and boosts reload speed or Assault Mag improves rate-of-fire. With a shotgun, you're going to be in CQC to proc Threat Detector as the first trait column support perk, to boost reload speed and handling. In the second column as the signature perk, One-Two Punch is great for burst damage against a major or a champion, or even the occasional boss for melee-based builds. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3163900678&perks=1047830412,106909392,4071163871,2679249093
+dimwishlist:item=3163900678&perks=1047830412,791862061,4071163871,2679249093
+
+// Swordbreaker (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Threat Detector, Subsistence), Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. As with most shotguns, Handling matters most, so Barrel Shroud or Cockscrew Rifling both offer bumps as the barrel park. For the mag perk, Assault Mag improves rate-of-fire or Tactical Mag increases the magazine by one and boosts reload speed. With a shotgun, you're going to be in CQC to proc Threat Detector as the first trait column support perk, to boost reload speed and handling or you could use Subsistence to continually reload your magazine as you get kills, if you're using this for add-clear rather than single-target damage. The same CQC condition will proc Surrounded for a +40% (47% on Enhanced Surrounded) boost to damage to help clear the most subborn Minor and Major enemies, and help with the occasional Boss. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3163900678&perks=1300023272,791862061,4071163871,3708227201
+dimwishlist:item=3163900678&perks=4090651448,791862061,4071163871,3708227201
+dimwishlist:item=3163900678&perks=1300023272,106909392,4071163871,3708227201
+dimwishlist:item=3163900678&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=3163900678&perks=1300023272,791862061,1820235745,3708227201
+dimwishlist:item=3163900678&perks=4090651448,791862061,1820235745,3708227201
+dimwishlist:item=3163900678&perks=1300023272,106909392,1820235745,3708227201
+dimwishlist:item=3163900678&perks=4090651448,106909392,1820235745,3708227201
+
+// Swordbreaker (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Threat Detector, Subsistence), Sword Logic
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. As with most shotguns, Handling matters most, so Barrel Shroud or Cockscrew Rifling both offer bumps as the barrel park. For the mag perk, Assault Mag improves rate-of-fire or Tactical Mag increases the magazine by one and boosts reload speed. With a shotgun, you're going to be in CQC to proc Threat Detector as the first trait column support perk, to boost reload speed and handling or you could use Subsistence to continually reload your magazine as you get kills, if you're using this for add-clear rather than single-target damage. In the second column, as the signature perk, the new-to-season-22 Sword Logic could be interesting on a shotgun - you should be able to proc a lower stack pretty easily, and use the damage boost to help activate the higher stacks. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3163900678&perks=1300023272,791862061,4071163871,31345821
+dimwishlist:item=3163900678&perks=4090651448,791862061,4071163871,31345821
+dimwishlist:item=3163900678&perks=1300023272,106909392,4071163871,31345821
+dimwishlist:item=3163900678&perks=4090651448,106909392,4071163871,31345821
+dimwishlist:item=3163900678&perks=1300023272,791862061,1820235745,31345821
+dimwishlist:item=3163900678&perks=4090651448,791862061,1820235745,31345821
+dimwishlist:item=3163900678&perks=1300023272,106909392,1820235745,31345821
+dimwishlist:item=3163900678&perks=4090651448,106909392,1820235745,31345821
+
+// Swordbreaker (Adept) (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Pugilist, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Strand synergy and add clearing chunkier Minor Spec enemies in end-game content. Barrel and Mag re-shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. As with most shotguns, Handling matters most, so Barrel Shroud or Cockscrew Rifling both offer bumps as the barrel park. For the mag perk, Assault Mag increases rate-of-fire, which is always useful. To make the most of the Cursed Thrall origin trait, which synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active, Pugilist is an obvious choice in the first trait column as the support perk, regenerating melee energy on weapon kills. In the second, Golden Tricorn can help you make the most of the Strand melee abilities (you're going to be in CQC, with a shotgun), setting yourself up for +50% damage for chunkier minors and the occasional major, and Cursed Thrall explosions on a kill. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor, Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1239700299&perks=1300023272,791862061,691659142,2610012052
+dimwishlist:item=1239700299&perks=4090651448,791862061,691659142,2610012052
+
+// Swordbreaker (Adept) (PvE first-choice roll)
+// Full Choke, (Tactical Mag, Assault Mag), Pugilist, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for melee builds and burst damage against Major Spec enemies in end-game content. Barrel and Mag re-shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. In the barrel perk slot, Full Choke improves pellet spread (which is important for later). For the mag perk, Tactical Mag increases the magazine by one and boosts reload speed or Assault Mag improves rate-of-fire. To make the most of the Cursed Thrall origin trait, which synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active, Pugilist is an obvious choice in the first trait column as the support perk, regenerating melee energy on weapon kills. In the second column as the signature perk, One-Two Punch is great for burst damage against a major or a champion, or even the occasional boss for melee-based builds. Recommended MW: Handling or Reload Speed, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1239700299&perks=1047830412,106909392,691659142,2679249093
+dimwishlist:item=1239700299&perks=1047830412,791862061,691659142,2679249093
+
+// Swordbreaker (Adept) (PvE first-choice roll)
+// Full Choke, (Tactical Mag, Assault Mag), Threat Detector, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Barrel and Mag re-shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. In the barrel perk slot, Full Choke improves pellet spread (which is important for later). For the mag perk, Tactical Mag increases the magazine by one and boosts reload speed or Assault Mag improves rate-of-fire. With a shotgun, you're going to be in CQC to proc Threat Detector as the first trait column support perk, to boost reload speed and handling. In the second column as the signature perk, One-Two Punch is great for burst damage against a major or a champion, or even the occasional boss for melee-based builds. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1239700299&perks=1047830412,106909392,4071163871,2679249093
+dimwishlist:item=1239700299&perks=1047830412,791862061,4071163871,2679249093
+
+// Swordbreaker (Adept) (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Threat Detector, Subsistence), Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Barrel and Mag re-shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. As with most shotguns, Handling matters most, so Barrel Shroud or Cockscrew Rifling both offer bumps as the barrel park. For the mag perk, Assault Mag improves rate-of-fire or Tactical Mag increases the magazine by one and boosts reload speed. With a shotgun, you're going to be in CQC to proc Threat Detector as the first trait column support perk, to boost reload speed and handling or you could use Subsistence to continually reload your magazine as you get kills, if you're using this for add-clear rather than single-target damage. The same CQC condition will proc Surrounded for a +40% (47% on Enhanced Surrounded) boost to damage to help clear the most subborn Minor and Major enemies, and help with the occasional Boss. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1239700299&perks=1300023272,791862061,4071163871,3708227201
+dimwishlist:item=1239700299&perks=4090651448,791862061,4071163871,3708227201
+dimwishlist:item=1239700299&perks=1300023272,106909392,4071163871,3708227201
+dimwishlist:item=1239700299&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=1239700299&perks=1300023272,791862061,1820235745,3708227201
+dimwishlist:item=1239700299&perks=4090651448,791862061,1820235745,3708227201
+dimwishlist:item=1239700299&perks=1300023272,106909392,1820235745,3708227201
+dimwishlist:item=1239700299&perks=4090651448,106909392,1820235745,3708227201
+
+// Swordbreaker (Adept) (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Threat Detector, Subsistence), Sword Logic
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Barrel and Mag re-shapeable. Swordbreaker is back as a strand shotgun, has good stats - particularly the ones that matter most - and like all lightweights offers +20 Mobility and +6.25% movement speed. As with most shotguns, Handling matters most, so Barrel Shroud or Cockscrew Rifling both offer bumps as the barrel park. For the mag perk, Assault Mag improves rate-of-fire or Tactical Mag increases the magazine by one and boosts reload speed. With a shotgun, you're going to be in CQC to proc Threat Detector as the first trait column support perk, to boost reload speed and handling or you could use Subsistence to continually reload your magazine as you get kills, if you're using this for add-clear rather than single-target damage. In the second column, as the signature perk, the new-to-season-22 Sword Logic could be interesting on a shotgun - you should be able to proc a lower stack pretty easily, and use the damage boost to help activate the higher stacks. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1239700299&perks=1300023272,791862061,4071163871,31345821
+dimwishlist:item=1239700299&perks=4090651448,791862061,4071163871,31345821
+dimwishlist:item=1239700299&perks=1300023272,106909392,4071163871,31345821
+dimwishlist:item=1239700299&perks=4090651448,106909392,4071163871,31345821
+dimwishlist:item=1239700299&perks=1300023272,791862061,1820235745,31345821
+dimwishlist:item=1239700299&perks=4090651448,791862061,1820235745,31345821
+dimwishlist:item=1239700299&perks=1300023272,106909392,1820235745,31345821
+dimwishlist:item=1239700299&perks=4090651448,106909392,1820235745,31345821
+
+// Abyss Defiant (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Enlightened Action, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-game content. Shapeable. High Impact Auto-Rifles aren't really first choice for PvE - they do have good range, and the frame intrinsic provides more accuracy when stationary or slow-moving, but Abyss Defiant has great stats and trait combinations, so may be worth a try. Handling is always low on HIs, so Fluted Barrel is your top barrel perk choice, although Arrowhead Brake does take recoil direction to 100, so is a decent option as well. In the mag perk slot, Flared Magwell rounds out a few more gunfeel stats, or take the combat effect mag perk of your choice. For end-game activities, Enlightened Action in the first trait slot as the support perk provides passive boosts to reload and handling, which you should hit max stacks of quickly, and Collective Action in the second column as the signature perk is a reliable 20% damage boost for collecting an elemental pickup. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=833898322&perks=1840239774,3230963543,3828510309,3324494224
+dimwishlist:item=833898322&perks=839105230,3230963543,3828510309,3324494224
+dimwishlist:item=833898322&perks=1840239774,1561002382,3828510309,3324494224
+dimwishlist:item=833898322&perks=839105230,1561002382,3828510309,3324494224
+dimwishlist:item=833898322&perks=1840239774,1968497646,3828510309,3324494224
+dimwishlist:item=833898322&perks=839105230,1968497646,3828510309,3324494224
+dimwishlist:item=833898322&perks=1840239774,1885400500,3828510309,3324494224
+dimwishlist:item=833898322&perks=839105230,1885400500,3828510309,3324494224
+
+// Abyss Defiant (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Pugilist, (Swashbuckler, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for melee builds add-clearing Minor Spec enemies in end-game content. First-choice PvE pick for add-clear against Minor Spec enemies in end-game content. Shapeable. High Impact Auto-Rifles aren't really first choice for PvE - they do have good range, and the frame intrinsic provides more accuracy when stationary or slow-moving, but Abyss Defiant has great stats and trait combinations, so may be worth a try. Handling is always low on HIs, so Fluted Barrel is your top barrel perk choice, although Arrowhead Brake does take recoil direction to 100, so is a decent option as well. In the mag perk slot, Flared Magwell rounds out a few more gunfeel stats, or take the combat effect mag perk of your choice. To make the most of the Cursed Thrall origin trait, which synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active, Pugilist is an obvious choice in the first trait column as the support perk, regenerating melee energy on weapon kills. In the second column as the signature perk, Swashbuckler is an obvious pairing, for a 33% damage boost at 5 stacks or you should be able to great an elemental pickup on a melee kill to pick up and proc Collective Action's 20% damage boost. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=833898322&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=833898322&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=833898322&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=833898322&perks=839105230,1561002382,691659142,4082225868
+dimwishlist:item=833898322&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=833898322&perks=839105230,1968497646,691659142,4082225868
+dimwishlist:item=833898322&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=833898322&perks=839105230,1885400500,691659142,4082225868
+dimwishlist:item=833898322&perks=1840239774,3230963543,691659142,3324494224
+dimwishlist:item=833898322&perks=839105230,3230963543,691659142,3324494224
+dimwishlist:item=833898322&perks=1840239774,1561002382,691659142,3324494224
+dimwishlist:item=833898322&perks=839105230,1561002382,691659142,3324494224
+dimwishlist:item=833898322&perks=1840239774,1968497646,691659142,3324494224
+dimwishlist:item=833898322&perks=839105230,1968497646,691659142,3324494224
+dimwishlist:item=833898322&perks=1840239774,1885400500,691659142,3324494224
+dimwishlist:item=833898322&perks=839105230,1885400500,691659142,3324494224
+
+// Abyss Defiant (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), Flared Magwell, Heal Clip, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Solar synergy add-clear against Minor Spec enemies in general content. Shapeable. High Impact Auto-Rifles aren't really first choice for PvE - they do have good range, and the frame intrinsic provides more accuracy when stationary or slow-moving, but Abyss Defiant has great stats and trait combinations, so may be worth a try. Handling is always low on HIs, so Fluted Barrel is your top barrel perk choice, although Arrowhead Brake does take recoil direction to 100, so is a decent option as well. In the mag perk slot, Flared Magwell offers the biggest boost to reload speed. The fun solar combination when you're not too underlevelled is the new-to-season-22 Heal Clip in the first trait column as the support perk, for a burst of Cure for you and anyone nearby when reloading after a kill, and Incandescent in the second column as the signature perk for add control and working with the scorth and ignite verbs. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=833898322&perks=1840239774,1885400500,3017780555,4293542123
+dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123
+
+// Abyss Defiant (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Enlightened Action, Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-game content. Barrel and Mag re-shapeable. High Impact Auto-Rifles aren't really first choice for PvE - they do have good range, and the frame intrinsic provides more accuracy when stationary or slow-moving, but Abyss Defiant has great stats and trait combinations, so may be worth a try. Handling is always low on HIs, so Fluted Barrel is your top barrel perk choice, although Arrowhead Brake does take recoil direction to 100, so is a decent option as well. In the mag perk slot, Flared Magwell rounds out a few more gunfeel stats, or take the combat effect mag perk of your choice. For end-game activities, Enlightened Action in the first trait slot as the support perk provides passive boosts to reload and handling, which you should hit max stacks of quickly, and Collective Action in the second column as the signature perk is a reliable 20% damage boost for collecting an elemental pickup. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3782662983&perks=1840239774,3230963543,3828510309,3324494224
+dimwishlist:item=3782662983&perks=839105230,3230963543,3828510309,3324494224
+dimwishlist:item=3782662983&perks=1840239774,1561002382,3828510309,3324494224
+dimwishlist:item=3782662983&perks=839105230,1561002382,3828510309,3324494224
+dimwishlist:item=3782662983&perks=1840239774,1968497646,3828510309,3324494224
+dimwishlist:item=3782662983&perks=839105230,1968497646,3828510309,3324494224
+dimwishlist:item=3782662983&perks=1840239774,1885400500,3828510309,3324494224
+dimwishlist:item=3782662983&perks=839105230,1885400500,3828510309,3324494224
+
+// Abyss Defiant (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Pugilist, (Swashbuckler, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for melee builds add-clearing Minor Spec enemies in end-game content. First-choice PvE pick for add-clear against Minor Spec enemies in end-game content. Barrel and Mag re-shapeable. High Impact Auto-Rifles aren't really first choice for PvE - they do have good range, and the frame intrinsic provides more accuracy when stationary or slow-moving, but Abyss Defiant has great stats and trait combinations, so may be worth a try. Handling is always low on HIs, so Fluted Barrel is your top barrel perk choice, although Arrowhead Brake does take recoil direction to 100, so is a decent option as well. In the mag perk slot, Flared Magwell rounds out a few more gunfeel stats, or take the combat effect mag perk of your choice. To make the most of the Cursed Thrall origin trait, which synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active, Pugilist is an obvious choice in the first trait column as the support perk, regenerating melee energy on weapon kills. In the second column as the signature perk, Swashbuckler is an obvious pairing, for a 33% damage boost at 5 stacks or you should be able to great an elemental pickup on a melee kill to pick up and proc Collective Action's 20% damage boost. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3782662983&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=3782662983&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=3782662983&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=3782662983&perks=839105230,1561002382,691659142,4082225868
+dimwishlist:item=3782662983&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=3782662983&perks=839105230,1968497646,691659142,4082225868
+dimwishlist:item=3782662983&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=3782662983&perks=839105230,1885400500,691659142,4082225868
+dimwishlist:item=3782662983&perks=1840239774,3230963543,691659142,3324494224
+dimwishlist:item=3782662983&perks=839105230,3230963543,691659142,3324494224
+dimwishlist:item=3782662983&perks=1840239774,1561002382,691659142,3324494224
+dimwishlist:item=3782662983&perks=839105230,1561002382,691659142,3324494224
+dimwishlist:item=3782662983&perks=1840239774,1968497646,691659142,3324494224
+dimwishlist:item=3782662983&perks=839105230,1968497646,691659142,3324494224
+dimwishlist:item=3782662983&perks=1840239774,1885400500,691659142,3324494224
+dimwishlist:item=3782662983&perks=839105230,1885400500,691659142,3324494224
+
+// Abyss Defiant (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), Flared Magwell, Heal Clip, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. FFirst-choice PvE pick for Solar synergy add-clear against Minor Spec enemies in general content. Barrel and Mag re-shapeable. High Impact Auto-Rifles aren't really first choice for PvE - they do have good range, and the frame intrinsic provides more accuracy when stationary or slow-moving, but Abyss Defiant has great stats and trait combinations, so may be worth a try. Handling is always low on HIs, so Fluted Barrel is your top barrel perk choice, although Arrowhead Brake does take recoil direction to 100, so is a decent option as well. In the mag perk slot, Flared Magwell offers the biggest boost to reload speed. The fun solar combination when you're not too underlevelled is the new-to-season-22 Heal Clip in the first trait column as the support perk, for a burst of Cure for you and anyone nearby when reloading after a kill, and Incandescent in the second column as the signature perk for add control and working with the scorth and ignite verbs. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3782662983&perks=1840239774,1885400500,3017780555,4293542123
+dimwishlist:item=3782662983&perks=839105230,1885400500,3017780555,4293542123
+
+// Oversoul Edict (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Enlightened Action, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Arc synergy add-clear against Minor Spec enemies in general content. Shapeable. Oversoul Edict offers the usual rapid-fire intrinsic 20% faster reload animation when the mag is empty and middling stats by comarison with energy slot peers. Controlling the recoil direction means Arrowhead Brake is the best barrel perk, taking it to an almost not terrible 79. Take your choice of rounding out some of the gunfeel stats with Flared Magwell, or any of the combat effect magazine perks. In the first trait column as the support perk, Enlightened Action will take the base handling to 82 and reload speed to 84 within two bursts, if every shot hits. This will mean a fast reload to proc Voltshot after a kill to apply Jolt on enemies and tie in with your arc verbs. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1098171824&perks=839105230,3230963543,3828510309,2173046394
+dimwishlist:item=1098171824&perks=839105230,1561002382,3828510309,2173046394
+dimwishlist:item=1098171824&perks=839105230,1968497646,3828510309,2173046394
+dimwishlist:item=1098171824&perks=839105230,1885400500,3828510309,2173046394
+
+// Oversoul Edict (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Arc synergy add-clear against Minor Spec enemies in end-age content. Shapeable. Oversoul Edict offers the usual rapid-fire intrinsic 20% faster reload animation when the mag is empty and middling stats by comarison with energy slot peers. Controlling the recoil direction means Arrowhead Brake is the best barrel perk, taking it to an almost not terrible 79. Take your choice of rounding out some of the gunfeel stats with Flared Magwell, or any of the combat effect magazine perks. In the first trait column as the support perk, Demolitionist is as great as always for regenerating grenade energy and Adrenaline Junkie in the second column as the signature perk lets you use those grenades for a +33% damage after a kill. dMaybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1098171824&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=1098171824&perks=839105230,1561002382,3523296417,11612903
+dimwishlist:item=1098171824&perks=839105230,1968497646,3523296417,11612903
+dimwishlist:item=1098171824&perks=839105230,1885400500,3523296417,11612903
+
+// Oversoul Edict (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Enlightened Action, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Arc synergy add-clear against Minor Spec enemies in general content. Barrel and Mag re-shapeable. Oversoul Edict offers the usual rapid-fire intrinsic 20% faster reload animation when the mag is empty and middling stats by comarison with energy slot peers. Controlling the recoil direction means Arrowhead Brake is the best barrel perk, taking it to an almost not terrible 79. Take your choice of rounding out some of the gunfeel stats with Flared Magwell, or any of the combat effect magazine perks. In the first trait column as the support perk, Enlightened Action will take the base handling to 82 and reload speed to 84 within two bursts, if every shot hits. This will mean a fast reload to proc Voltshot after a kill to apply Jolt on enemies and tie in with your arc verbs. The Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PPvE-God, M+KB, Controller
+dimwishlist:item=578105049&perks=839105230,3230963543,3828510309,2173046394
+dimwishlist:item=578105049&perks=839105230,1561002382,3828510309,2173046394
+dimwishlist:item=578105049&perks=839105230,1968497646,3828510309,2173046394
+dimwishlist:item=578105049&perks=839105230,1885400500,3828510309,2173046394
+
+// Oversoul Edict (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for Arc synergy add-clear against Minor Spec enemies in end-age content. Barrel and Mag re-shapeable. Oversoul Edict offers the usual rapid-fire intrinsic 20% faster reload animation when the mag is empty and middling stats by comarison with energy slot peers. Controlling the recoil direction means Arrowhead Brake is the best barrel perk, taking it to an almost not terrible 79. Take your choice of rounding out some of the gunfeel stats with Flared Magwell, or any of the combat effect magazine perks. In the first trait column as the support perk, Demolitionist is as great as always for regenerating grenade energy and Adrenaline Junkie in the second column as the signature perk lets you use those grenades for a +33% damage after a kill. dMaybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=578105049&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=578105049&perks=839105230,1561002382,3523296417,11612903
+dimwishlist:item=578105049&perks=839105230,1968497646,3523296417,11612903
+dimwishlist:item=578105049&perks=839105230,1885400500,3523296417,11612903
+
+// Word of Crota (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Polygonal Rifling, Full Bore), Accurized Rounds, Dragonfly, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-age content. Shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out range and stability - we can address the handling and reload speed with our signature perk. It's difficult to turn down two damage traits when they're offered so Dragonfly in the first trait column as the support perk will help spread damage in crowds of adds, and Frenzy grants a passive 15% damage boost together with +50 to Reload Speed and Handling. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=120706239&perks=1392496348,3142289711,2848615171,4104185692
+dimwishlist:item=120706239&perks=1482024992,3142289711,2848615171,4104185692
+dimwishlist:item=120706239&perks=3250034553,3142289711,2848615171,4104185692
+dimwishlist:item=120706239&perks=202670084,3142289711,2848615171,4104185692
+
+// Word of Crota (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Polygonal Rifling, Full Bore), Accurized Rounds, Demolitionist, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-age content. Shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out range and stability - we can address the others with our signature perk. Demolitionist is usually a good choice to regenerate grenade energy when it appears in the first trait column as the support perk, and Frenzy grants a passive 15% damage boost together with +50 to Reload Speed and Handling. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=120706239&perks=1392496348,3142289711,3523296417,4104185692
+dimwishlist:item=120706239&perks=1482024992,3142289711,3523296417,4104185692
+dimwishlist:item=120706239&perks=3250034553,3142289711,3523296417,4104185692
+dimwishlist:item=120706239&perks=202670084,3142289711,3523296417,4104185692
+
+// Word of Crota (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-age content. Shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out gunfeel stats to your liking. Demolitionist is usually a good choice when it appears in the first trait column as the support perk, to regenerate grenade energy, and pairs naturally with Adrenaline Junkie in the second column as the signature perk to proc a +33% damage boost on a grenade kill. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=120706239&perks=1392496348,106909392,3523296417,11612903
+dimwishlist:item=120706239&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=120706239&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=120706239&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=120706239&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=120706239&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=120706239&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=120706239&perks=3250034553,3230963543,3523296417,11612903
+dimwishlist:item=120706239&perks=1392496348,3142289711,3523296417,11612903
+dimwishlist:item=120706239&perks=1840239774,3142289711,3523296417,11612903
+dimwishlist:item=120706239&perks=1482024992,3142289711,3523296417,11612903
+dimwishlist:item=120706239&perks=3250034553,3142289711,3523296417,11612903
+
+// Word of Crota (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), DRepulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in general content. First-choice PvE pick for void synergy and add-clear against Minor Spec enemies in general content. Shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out gunfeel stats to your liking. For void synergy, you can use both current void traits - Repulsor Brace in the first column as the support perk, and Destabilizing Rounds in the second as the signature perk. Get your first kill, to spread volatility in groups of adds, and kill one to get a void overshield, and sync with void subclass verbs. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=120706239&perks=1392496348,106909392,776531651,2048641572
+dimwishlist:item=120706239&perks=1840239774,106909392,776531651,2048641572
+dimwishlist:item=120706239&perks=1482024992,106909392,776531651,2048641572
+dimwishlist:item=120706239&perks=3250034553,106909392,776531651,2048641572
+dimwishlist:item=120706239&perks=1392496348,3230963543,776531651,2048641572
+dimwishlist:item=120706239&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=120706239&perks=1482024992,3230963543,776531651,2048641572
+dimwishlist:item=120706239&perks=3250034553,3230963543,776531651,2048641572
+dimwishlist:item=120706239&perks=1392496348,3142289711,776531651,2048641572
+dimwishlist:item=120706239&perks=1840239774,3142289711,776531651,2048641572
+dimwishlist:item=120706239&perks=1482024992,3142289711,776531651,2048641572
+dimwishlist:item=120706239&perks=3250034553,3142289711,776531651,2048641572
+
+// Word of Crota (Adept) (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Polygonal Rifling, Full Bore), Accurized Rounds, Dragonfly, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-age content. Barrel and Mag re-shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out range and stability - we can address the handling and reload speed with our signature perk. It's difficult to turn down two damage traits when they're offered so Dragonfly in the first trait column as the support perk will help spread damage in crowds of adds, and Frenzy grants a passive 15% damage boost together with +50 to Reload Speed and Handling. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3926103986&perks=1392496348,3142289711,2848615171,4104185692
+dimwishlist:item=3926103986&perks=1482024992,3142289711,2848615171,4104185692
+dimwishlist:item=3926103986&perks=3250034553,3142289711,2848615171,4104185692
+dimwishlist:item=3926103986&perks=202670084,3142289711,2848615171,4104185692
+
+// Word of Crota (Adept) (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Polygonal Rifling, Full Bore), Accurized Rounds, Demolitionist, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-age content. Barrel and Mag re-shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out range and stability - we can address the others with our signature perk. Demolitionist is usually a good choice to regenerate grenade energy when it appears in the first trait column as the support perk, and Frenzy grants a passive 15% damage boost together with +50 to Reload Speed and Handling. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3926103986&perks=1392496348,3142289711,3523296417,4104185692
+dimwishlist:item=3926103986&perks=1482024992,3142289711,3523296417,4104185692
+dimwishlist:item=3926103986&perks=3250034553,3142289711,3523296417,4104185692
+dimwishlist:item=3926103986&perks=202670084,3142289711,3523296417,4104185692
+
+// Word of Crota (Adept) (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), Demolitionist, Adrenaline Junkie
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against Minor Spec enemies in end-age content. Barrel and Mag re-shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out gunfeel stats to your liking. Demolitionist is usually a good choice when it appears in the first trait column as the support perk, to regenerate grenade energy, and pairs naturally with Adrenaline Junkie in the second column as the signature perk to proc a +33% damage boost on a grenade kill. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3926103986&perks=1392496348,106909392,3523296417,11612903
+dimwishlist:item=3926103986&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3926103986&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=3926103986&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=3926103986&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=3926103986&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3926103986&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=3926103986&perks=3250034553,3230963543,3523296417,11612903
+dimwishlist:item=3926103986&perks=1392496348,3142289711,3523296417,11612903
+dimwishlist:item=3926103986&perks=1840239774,3142289711,3523296417,11612903
+dimwishlist:item=3926103986&perks=1482024992,3142289711,3523296417,11612903
+dimwishlist:item=3926103986&perks=3250034553,3142289711,3523296417,11612903
+
+// Word of Crota (Adept) (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), DRepulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in general content. First-choice PvE pick for void synergy and add-clear against Minor Spec enemies in general content. Barrel and Mag re-shapeable. Word of Crota drops with perfect recoil direction (made even more perfect, if that's possible, by the intrinsic frame trait) and best-in-slot stats so is definitely worth a look. You can use the barrel and mag perks to fill out gunfeel stats to your liking. For void synergy, you can use both current void traits - Repulsor Brace in the first column as the support perk, and Destabilizing Rounds in the second as the signature perk. Get your first kill, to spread volatility in groups of adds, and kill one to get a void overshield, and sync with void subclass verbs. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3926103986&perks=1392496348,106909392,776531651,2048641572
+dimwishlist:item=3926103986&perks=1840239774,106909392,776531651,2048641572
+dimwishlist:item=3926103986&perks=1482024992,106909392,776531651,2048641572
+dimwishlist:item=3926103986&perks=3250034553,106909392,776531651,2048641572
+dimwishlist:item=3926103986&perks=1392496348,3230963543,776531651,2048641572
+dimwishlist:item=3926103986&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=3926103986&perks=1482024992,3230963543,776531651,2048641572
+dimwishlist:item=3926103986&perks=3250034553,3230963543,776531651,2048641572
+dimwishlist:item=3926103986&perks=1392496348,3142289711,776531651,2048641572
+dimwishlist:item=3926103986&perks=1840239774,3142289711,776531651,2048641572
+dimwishlist:item=3926103986&perks=1482024992,3142289711,776531651,2048641572
+dimwishlist:item=3926103986&perks=3250034553,3142289711,776531651,2048641572
+
+// Song of Ir Yût (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Appended Mag, Flared Magwell), Unrelenting, Sword Logic
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against chunkier Minor Spec enemies and the occasional major in end-game content. Shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. For the magazine perk, you can choose the combat effect mag of your preference, or maybe go with Appended Mag or Flared Magwell to round out the stats further. As the first trait column support perk, Unrelenting as the second column signature perk is great in end-game content for healing you and keeping you in a fight. You've got a pretty big mag, so you can use it to start and then escalate the new-to-season-22 Sword Logic perk damage tiers to rip through Minor Spec adds and the occasional Major. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2828278545&perks=1840239774,1561002382,3108830275,31345821
+dimwishlist:item=2828278545&perks=839105230,1561002382,3108830275,31345821
+dimwishlist:item=2828278545&perks=1840239774,1968497646,3108830275,31345821
+dimwishlist:item=2828278545&perks=839105230,1968497646,3108830275,31345821
+dimwishlist:item=2828278545&perks=1840239774,1885400500,3108830275,31345821
+dimwishlist:item=2828278545&perks=839105230,1885400500,3108830275,31345821
+dimwishlist:item=2828278545&perks=1840239774,1087426260,3108830275,31345821
+dimwishlist:item=2828278545&perks=839105230,1087426260,3108830275,31345821
+dimwishlist:item=2828278545&perks=1840239774,3230963543,3108830275,31345821
+dimwishlist:item=2828278545&perks=839105230,3230963543,3108830275,31345821
+
+// Song of Ir Yût (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Extended Mag, Appended Mag), (Rewind Rounds, Reconstruction), Sword Logic
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against chunkier Minor Spec enemies and the occasional major in end-game content. Shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. Maximise your magazine size with Extended Mag or Appended Mag as the perk, and then in the first column as the support perk, you can then make the most of this with Rewind Rounds or Reconstruction so you can essentially keep firing til you run out of ammo. With this set-up, you can start and then escalate the new-to-season-22 Sword Logic perk damage tiers to rip through Minor Spec adds and Majors, and even an occasional boss. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2828278545&perks=1840239774,2420895100,3418782618,31345821
+dimwishlist:item=2828278545&perks=839105230,2420895100,3418782618,31345821
+dimwishlist:item=2828278545&perks=1840239774,1087426260,3418782618,31345821
+dimwishlist:item=2828278545&perks=839105230,1087426260,3418782618,31345821
+dimwishlist:item=2828278545&perks=1840239774,2420895100,1523832109,31345821
+dimwishlist:item=2828278545&perks=839105230,2420895100,1523832109,31345821
+dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,31345821
+dimwishlist:item=2828278545&perks=839105230,1087426260,1523832109,31345821
+
+// Song of Ir Yût (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Extended Mag, Appended Mag), (Rewind Rounds, Reconstruction), Bait-and-Switch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies and sustained damage against Boss Spec enemies in end-game content. Shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. Maximise your magazine size with Extended Mag or Appended Mag as the perk, and then in the first column as the support perk, you can then make the most of this with Rewind Rounds or Reconstruction so you can essentially keep firing til you run out of ammo. With this set-up, you can use Bait-and-Switch as the second column signature perk for 10s of +35% damage, which is great for shorter boss damage phases (think Caretaker in Vow). Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2828278545&perks=1840239774,2420895100,3418782618,3078487919
+dimwishlist:item=2828278545&perks=839105230,2420895100,3418782618,3078487919
+dimwishlist:item=2828278545&perks=1840239774,1087426260,3418782618,3078487919
+dimwishlist:item=2828278545&perks=839105230,1087426260,3418782618,3078487919
+dimwishlist:item=2828278545&perks=1840239774,2420895100,1523832109,3078487919
+dimwishlist:item=2828278545&perks=839105230,2420895100,1523832109,3078487919
+dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,3078487919
+dimwishlist:item=2828278545&perks=839105230,1087426260,1523832109,3078487919
+
+// Song of Ir Yût (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Extended Mag, Appended Mag), (Rewind Rounds, Reconstruction), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for sustained damage against Boss Spec enemies in end-game content. Shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. Maximise your magazine size with Extended Mag or Appended Mag as the perk, and then in the first column as the support perk, you can then make the most of this with Rewind Rounds or Reconstruction so you can essentially keep firing til you run out of ammo. With this set-up, you can reach the highest stacks of +40% damage woth Target Lock as the second column signature perk, which is great for sustained boss damage phases. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2828278545&perks=1840239774,2420895100,3418782618,365154968
+dimwishlist:item=2828278545&perks=839105230,2420895100,3418782618,365154968
+dimwishlist:item=2828278545&perks=1840239774,1087426260,3418782618,365154968
+dimwishlist:item=2828278545&perks=839105230,1087426260,3418782618,365154968
+dimwishlist:item=2828278545&perks=1840239774,2420895100,1523832109,365154968
+dimwishlist:item=2828278545&perks=839105230,2420895100,1523832109,365154968
+dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,365154968
+dimwishlist:item=2828278545&perks=839105230,1087426260,1523832109,365154968
+
+// Song of Ir Yût (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Appended Mag, Flared Magwell), Unrelenting, Sword Logic
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against chunkier Minor Spec enemies and the occasional major in end-game content. Barrel and Mag re-shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. For the magazine perk, you can choose the combat effect mag of your preference, or maybe go with Appended Mag or Flared Magwell to round out the stats further. As the first trait column support perk, Unrelenting as the second column signature perk is great in end-game content for healing you and keeping you in a fight. You've got a pretty big mag, so you can use it to start and then escalate the new-to-season-22 Sword Logic perk damage tiers to rip through Minor Spec adds and the occasional Major. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor, Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=407511664&perks=1840239774,1561002382,3108830275,31345821
+dimwishlist:item=407511664&perks=839105230,1561002382,3108830275,31345821
+dimwishlist:item=407511664&perks=1840239774,1968497646,3108830275,31345821
+dimwishlist:item=407511664&perks=839105230,1968497646,3108830275,31345821
+dimwishlist:item=407511664&perks=1840239774,1885400500,3108830275,31345821
+dimwishlist:item=407511664&perks=839105230,1885400500,3108830275,31345821
+dimwishlist:item=407511664&perks=1840239774,1087426260,3108830275,31345821
+dimwishlist:item=407511664&perks=839105230,1087426260,3108830275,31345821
+dimwishlist:item=407511664&perks=1840239774,3230963543,3108830275,31345821
+dimwishlist:item=407511664&perks=839105230,3230963543,3108830275,31345821
+
+// Song of Ir Yût (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Extended Mag, Appended Mag), (Rewind Rounds, Reconstruction), Sword Logic
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add-clear against chunkier Minor Spec enemies and the occasional major in end-game content. Barrel and Mag re-shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. Maximise your magazine size with Extended Mag or Appended Mag as the perk, and then in the first column as the support perk, you can then make the most of this with Rewind Rounds or Reconstruction so you can essentially keep firing til you run out of ammo. With this set-up, you can start and then escalate the new-to-season-22 Sword Logic perk damage tiers to rip through Minor Spec adds and Majors, and even an occasional boss. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Minor, Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=407511664&perks=1840239774,2420895100,3418782618,31345821
+dimwishlist:item=407511664&perks=839105230,2420895100,3418782618,31345821
+dimwishlist:item=407511664&perks=1840239774,1087426260,3418782618,31345821
+dimwishlist:item=407511664&perks=839105230,1087426260,3418782618,31345821
+dimwishlist:item=407511664&perks=1840239774,2420895100,1523832109,31345821
+dimwishlist:item=407511664&perks=839105230,2420895100,1523832109,31345821
+dimwishlist:item=407511664&perks=1840239774,1087426260,1523832109,31345821
+dimwishlist:item=407511664&perks=839105230,1087426260,1523832109,31345821
+
+// Song of Ir Yût (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Extended Mag, Appended Mag), (Rewind Rounds, Reconstruction), Bait-and-Switch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Major Spec enemies and sustained damage against Boss Spec enemies in end-game content. Barrel and Mag re-shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. Maximise your magazine size with Extended Mag or Appended Mag as the perk, and then in the first column as the support perk, you can then make the most of this with Rewind Rounds or Reconstruction so you can essentially keep firing til you run out of ammo. With this set-up, you can use Bait-and-Switch as the second column signature perk for 10s of +35% damage, which is great for shorter boss damage phases (think Caretaker in Vow). Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=407511664&perks=1840239774,2420895100,3418782618,3078487919
+dimwishlist:item=407511664&perks=839105230,2420895100,3418782618,3078487919
+dimwishlist:item=407511664&perks=1840239774,1087426260,3418782618,3078487919
+dimwishlist:item=407511664&perks=839105230,1087426260,3418782618,3078487919
+dimwishlist:item=407511664&perks=1840239774,2420895100,1523832109,3078487919
+dimwishlist:item=407511664&perks=839105230,2420895100,1523832109,3078487919
+dimwishlist:item=407511664&perks=1840239774,1087426260,1523832109,3078487919
+dimwishlist:item=407511664&perks=839105230,1087426260,1523832109,3078487919
+
+// Song of Ir Yût (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Extended Mag, Appended Mag), (Rewind Rounds, Reconstruction), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 79 (https://open.spotify.com/episode/1qz5FD88RfmGHDjedV6nGo?si=7e1c1558ecea4f1c) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for sustained damage against Boss Spec enemies in end-game content. Barrel and Mag re-shapeable. There's a lot of competition in the arc LMGs, and Song of Ir Yût has lower than average stats but saves itself with some nice trait perk combinations. Handling makes most weapons feel better - Fluted Barrel adds the most, but Arrowhead Brake also helps max out the recoil direction in the barrel perk slot. Maximise your magazine size with Extended Mag or Appended Mag as the perk, and then in the first column as the support perk, you can then make the most of this with Rewind Rounds or Reconstruction so you can essentially keep firing til you run out of ammo. With this set-up, you can reach the highest stacks of +40% damage woth Target Lock as the second column signature perk, which is great for sustained boss damage phases. Maybe not so useful with this roll, but the Cursed Thrall origin perk synergises well with melee builds and is a lot of fun for helping soften up groups of enemies when active. Recommended MW: Handling or Range, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=407511664&perks=1840239774,2420895100,3418782618,365154968
+dimwishlist:item=407511664&perks=839105230,2420895100,3418782618,365154968
+dimwishlist:item=407511664&perks=1840239774,1087426260,3418782618,365154968
+dimwishlist:item=407511664&perks=839105230,1087426260,3418782618,365154968
+dimwishlist:item=407511664&perks=1840239774,2420895100,1523832109,365154968
+dimwishlist:item=407511664&perks=839105230,2420895100,1523832109,365154968
+dimwishlist:item=407511664&perks=1840239774,1087426260,1523832109,365154968
+dimwishlist:item=407511664&perks=839105230,1087426260,1523832109,365154968
