@@ -1,0 +1,174 @@
+@title:Season 22 Festival of the Lost weapons
+@description:New and reprised weapons from Festival of the Lost, with the Search Party origin trait
+
+// Horror Story (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), (Demolitionist, Enlightened Action), Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Stasis synergy and add-clearing Minor Spec enemies in general content. Horror Story has returned and become a stasis precision auto-rifle - the first of its subtype. The stats are unexceptional, as you might expect from an event weapon but there are some trait combinations to save it. Recoil direction doesn't really matter on a precision-frame weapon, and stability is less important with a more reliable recoil direction, so you can choose your pick of Handling, Range and Reload Speed from your barrel and mag perks. Enlightened Action will get you pretty close to maxed out Handling and Reload at 5 stacks, or Demolitionist is difficult to turn down when it shows up in the first trait column as the support perk. In the second as the signature perk, Headstone is the main Stasis synergy trait, giving you crystals to work with your fragment, or burst and get even more grenade energy back with Demolitionist. Both origin traits are more PvP-orientated, but Nadir Focus's extra range and accuracy for free is a nice little bonus. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,124408337
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,124408337
+dimwishlist:item=177568179&perks=3250034553,106909392,3523296417,124408337
+dimwishlist:item=177568179&perks=1840239774,3230963543,3523296417,124408337
+dimwishlist:item=177568179&perks=1482024992,3230963543,3523296417,124408337
+dimwishlist:item=177568179&perks=3250034553,3230963543,3523296417,124408337
+dimwishlist:item=177568179&perks=1840239774,3142289711,3523296417,124408337
+dimwishlist:item=177568179&perks=1482024992,3142289711,3523296417,124408337
+dimwishlist:item=177568179&perks=3250034553,3142289711,3523296417,124408337
+dimwishlist:item=177568179&perks=1840239774,106909392,3828510309,124408337
+dimwishlist:item=177568179&perks=1482024992,106909392,3828510309,124408337
+dimwishlist:item=177568179&perks=3250034553,106909392,3828510309,124408337
+dimwishlist:item=177568179&perks=1840239774,3230963543,3828510309,124408337
+dimwishlist:item=177568179&perks=1482024992,3230963543,3828510309,124408337
+dimwishlist:item=177568179&perks=3250034553,3230963543,3828510309,124408337
+dimwishlist:item=177568179&perks=1840239774,3142289711,3828510309,124408337
+dimwishlist:item=177568179&perks=1482024992,3142289711,3828510309,124408337
+dimwishlist:item=177568179&perks=3250034553,3142289711,3828510309,124408337
+
+// Horror Story (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), (Demolitionist, Enlightened Action), Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for Stasis synergy and add-clearing Minor Spec enemies in end-game content. Horror Story has returned and become a stasis precision auto-rifle - the first of its subtype. The stats are unexceptional, as you might expect from an event weapon but there are some trait combinations to save it. Recoil direction doesn't really matter on a precision-frame weapon, and stability is less important with a more reliable recoil direction, so you can choose your pick of Handling, Range and Reload Speed from your barrel and mag perks. Enlightened Action will get you pretty close to maxed out Handling and Reload at 5 stacks, or Demolitionist is difficult to turn down when it shows up in the first trait column as the support perk. In the second as the signature perk, you should be able to proc Collective Action's 20% damage bonus from generating Stasis shards with Hunters and Titans (Warlocks may have to work harder), or any other elemental pickup. Both origin traits are more PvP-orientated, but Nadir Focus's extra range and accuracy for free is a nice little bonus. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,3324494224
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,3324494224
+dimwishlist:item=177568179&perks=3250034553,106909392,3523296417,3324494224
+dimwishlist:item=177568179&perks=1840239774,3230963543,3523296417,3324494224
+dimwishlist:item=177568179&perks=1482024992,3230963543,3523296417,3324494224
+dimwishlist:item=177568179&perks=3250034553,3230963543,3523296417,3324494224
+dimwishlist:item=177568179&perks=1840239774,3142289711,3523296417,3324494224
+dimwishlist:item=177568179&perks=1482024992,3142289711,3523296417,3324494224
+dimwishlist:item=177568179&perks=3250034553,3142289711,3523296417,3324494224
+dimwishlist:item=177568179&perks=1840239774,106909392,3828510309,3324494224
+dimwishlist:item=177568179&perks=1482024992,106909392,3828510309,3324494224
+dimwishlist:item=177568179&perks=3250034553,106909392,3828510309,3324494224
+dimwishlist:item=177568179&perks=1840239774,3230963543,3828510309,3324494224
+dimwishlist:item=177568179&perks=1482024992,3230963543,3828510309,3324494224
+dimwishlist:item=177568179&perks=3250034553,3230963543,3828510309,3324494224
+dimwishlist:item=177568179&perks=1840239774,3142289711,3828510309,3324494224
+dimwishlist:item=177568179&perks=1482024992,3142289711,3828510309,3324494224
+dimwishlist:item=177568179&perks=3250034553,3142289711,3828510309,3324494224
+
+// Horror Story (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), (Demolitionist, Enlightened Action), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. Horror Story has returned and become a stasis precision auto-rifle - the first of its subtype. The stats are unexceptional, as you might expect from an event weapon but there are some trait combinations to save it. Recoil direction doesn't really matter on a precision-frame weapon, and stability is less important with a more reliable recoil direction, so you can choose your pick of Handling, Range and Reload Speed from your barrel and mag perks. In the second trait slot as the signature perk, you can get to the higher damage tiers of Target Lock with the instant reload from throwing a grenade with Demolitionist in the first column support perk slot, or just be happy with the lower tiers and a reliably fast reload and great handling with Enlightened Action at 5 stacks. Both origin traits are more PvP-orientated, but Nadir Focus's extra range and accuracy for free is a nice little bonus. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,365154968
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,365154968
+dimwishlist:item=177568179&perks=3250034553,106909392,3523296417,365154968
+dimwishlist:item=177568179&perks=1840239774,3230963543,3523296417,365154968
+dimwishlist:item=177568179&perks=1482024992,3230963543,3523296417,365154968
+dimwishlist:item=177568179&perks=3250034553,3230963543,3523296417,365154968
+dimwishlist:item=177568179&perks=1840239774,3142289711,3523296417,365154968
+dimwishlist:item=177568179&perks=1482024992,3142289711,3523296417,365154968
+dimwishlist:item=177568179&perks=3250034553,3142289711,3523296417,365154968
+dimwishlist:item=177568179&perks=1840239774,106909392,3828510309,365154968
+dimwishlist:item=177568179&perks=1482024992,106909392,3828510309,365154968
+dimwishlist:item=177568179&perks=3250034553,106909392,3828510309,365154968
+dimwishlist:item=177568179&perks=1840239774,3230963543,3828510309,365154968
+dimwishlist:item=177568179&perks=1482024992,3230963543,3828510309,365154968
+dimwishlist:item=177568179&perks=3250034553,3230963543,3828510309,365154968
+dimwishlist:item=177568179&perks=1840239774,3142289711,3828510309,365154968
+dimwishlist:item=177568179&perks=1482024992,3142289711,3828510309,365154968
+dimwishlist:item=177568179&perks=3250034553,3142289711,3828510309,365154968
+
+// Horror Story (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), Demolitionist, (Frenzy, Adrenaline Junkie)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. Horror Story has returned and become a stasis precision auto-rifle - the first of its subtype. The stats are unexceptional, as you might expect from an event weapon but there are some trait combinations to save it. Recoil direction doesn't really matter on a precision-frame weapon, and stability is less important with a more reliable recoil direction, so you can choose your pick of Handling, Range and Reload Speed from your barrel and mag perks. In the first trait slot as the support perk, it's difficult to look past Demolitionist. To pair with it as the second column signature perk, Frenzy provides +15% damage and maxes out handling and reload speed, or Adrenaline Junkie is a natural pairing - a grenade kill will boost damage by 33%, and the kills you get with refresh your grenade energy. Both origin traits are more PvP-orientated, but Nadir Focus's extra range and accuracy for free is a nice little bonus. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,4104185692
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,4104185692
+dimwishlist:item=177568179&perks=3250034553,106909392,3523296417,4104185692
+dimwishlist:item=177568179&perks=1840239774,3230963543,3523296417,4104185692
+dimwishlist:item=177568179&perks=1482024992,3230963543,3523296417,4104185692
+dimwishlist:item=177568179&perks=3250034553,3230963543,3523296417,4104185692
+dimwishlist:item=177568179&perks=1840239774,3142289711,3523296417,4104185692
+dimwishlist:item=177568179&perks=1482024992,3142289711,3523296417,4104185692
+dimwishlist:item=177568179&perks=3250034553,3142289711,3523296417,4104185692
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,11612903
+dimwishlist:item=177568179&perks=3250034553,106909392,3523296417,11612903
+dimwishlist:item=177568179&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=177568179&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=177568179&perks=3250034553,3230963543,3523296417,11612903
+dimwishlist:item=177568179&perks=1840239774,3142289711,3523296417,11612903
+dimwishlist:item=177568179&perks=1482024992,3142289711,3523296417,11612903
+dimwishlist:item=177568179&perks=3250034553,3142289711,3523296417,11612903
+
+// Horror Story (PvE first-choice roll)
+// (Fluted Barrel, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Accurized Rounds), Under-Over, Vorpal Weapon
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for anti-Barrier champions in end-game content. Horror Story has returned and become a stasis precision auto-rifle - the first of its subtype. The stats are unexceptional, as you might expect from an event weapon but there are some trait combinations to save it. Recoil direction doesn't really matter on a precision-frame weapon, and stability is less important with a more reliable recoil direction, so you can choose your pick of Handling, Range and Reload Speed from your barrel and mag perks. For use with a seasonal anti-Barrier auto-rifle mod, Under-Over in the first trait column as the support perk and Vorpal Weapon as the signature perk in the second combine together to break shields and barriers faster, if you don't already have a specialised auto-rifle. Both origin traits are more PvP-orientated, but Nadir Focus's extra range and accuracy for free is a nice little bonus. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=177568179&perks=1840239774,106909392,1870851715,1546637391
+dimwishlist:item=177568179&perks=1482024992,106909392,1870851715,1546637391
+dimwishlist:item=177568179&perks=3250034553,106909392,1870851715,1546637391
+dimwishlist:item=177568179&perks=1840239774,3230963543,1870851715,1546637391
+dimwishlist:item=177568179&perks=1482024992,3230963543,1870851715,1546637391
+dimwishlist:item=177568179&perks=3250034553,3230963543,1870851715,1546637391
+dimwishlist:item=177568179&perks=1840239774,3142289711,1870851715,1546637391
+dimwishlist:item=177568179&perks=1482024992,3142289711,1870851715,1546637391
+dimwishlist:item=177568179&perks=3250034553,3142289711,1870851715,1546637391
+
+// Jurassic Green (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag), Heal Clip, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for solar synergy and Minor Spec add-clearing in general content. Jurassic Green is a solar rapid-fire pulse, with the intrinsic 20% faster reload when its magazine is empty. It's got a similar stat range to its other world-drop peers, but comes a poor second to end-game drops in the energy slot. The recoil direction is a frankly awful 50 at base. The best even Arrowhead Brake can do is bring it up to a not entirely awful 80. Looking at the traits, you'll need to prioritise reload speed with the mag perk - Flared Magwell or Tactical Mag, together with the Masterwork. The new to season 22 Heal Clip in the first trait column as the support perk will apply one stack of Cure to you and anyone else near on reloading after a kill, while Incandescent spreads scorch and ignite to help clear adds - two solar verbs in a single package to enhance with your fragments. The Field Tested origin trait will just work steadily in the background to gradually improve your gunfeel, as long as you don't die! Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3017780555,4293542123
+dimwishlist:item=3103255595&perks=839105230,106909392,3017780555,4293542123
+
+// Jurassic Green (PvE first-choice roll)
+// Arrowhead Brake, Accurized Rounds, Heal Clip, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for solar synergy and Minor Spec add-clearing in end-game content. Jurassic Green is a solar rapid-fire pulse, with the intrinsic 20% faster reload when its magazine is empty. It's got a similar stat range to its other world-drop peers, but comes a poor second to end-game drops in the energy slot. The recoil direction is a frankly awful 50 at base. The best even Arrowhead Brake can do is bring it up to a not entirely awful 80. Looking at the traits for this roll, the best option is to just increase the range with Accurized Rounds. The new to season 22 Heal Clip in the first trait column as the support perk will apply one stack of Cure to you and anyone else near on reloading after a kill, while Frenzy in the second column as the signature perk boosts handling and reload speed to 100, and adds 15% damage when procced. The Field Tested origin trait will just work steadily in the background to gradually improve your gunfeel, as long as you don't die! Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3103255595&perks=839105230,3142289711,3017780555,4104185692
+
+// Jurassic Green (PvE backup roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag, Accurized Rounds), (Keep Away, Loose Changce, Perpetual Motion, Subsistence), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): Backup PvE pick for solar synergy and Minor Spec add-clearing in general content, if you don't already have a decent Incandescent pulse rifle, and haven't got around to shaping a BXR-55 Battler yet. Jurassic Green is a solar rapid-fire pulse, with the intrinsic 20% faster reload when its magazine is empty. It's got a similar stat range to its other world-drop peers, but comes a poor second to end-game drops in the energy slot. The recoil direction is a frankly awful 50 at base. The best even Arrowhead Brake can do is bring it up to a not entirely awful 80, and you can choose a little extra range, stability or reload speed with your mag slot perk. Then, in the first trait column as the support perk there are a few decent options to help with reload and gunfeel - Keep Away, Loose Change, Perpetual Motion and Subsistence. Incandescent in the second column as the signature perk is great for add clear, as you spread solar scorch and ignite around. The Field Tested origin trait is probably the better PvE trait of the two - it'll just work steadily in the background to gradually improve your gunfeel, as long as you don't die! Recommended MW: Range or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,4293542123
+dimwishlist:item=3103255595&perks=839105230,106909392,3619207468,4293542123
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,4293542123
+dimwishlist:item=3103255595&perks=839105230,3142289711,1119449540,4293542123
+dimwishlist:item=3103255595&perks=839105230,106909392,1119449540,4293542123
+dimwishlist:item=3103255595&perks=839105230,3230963543,1119449540,4293542123
+dimwishlist:item=3103255595&perks=839105230,3142289711,1428297954,4293542123
+dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,4293542123
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,4293542123
+dimwishlist:item=3103255595&perks=839105230,3142289711,1820235745,4293542123
+dimwishlist:item=3103255595&perks=839105230,106909392,1820235745,4293542123
+dimwishlist:item=3103255595&perks=839105230,3230963543,1820235745,4293542123
+
+// Jurassic Green (PvE backup roll)
+// Arrowhead Brake, (Flared Magwell, Tactical Mag, Accurized Rounds), (Keep Away, Loose Changce, Perpetual Motion, Subsistence), (Golden Tricorn, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): Backup PvE pick for solar synergy and Minor Spec add-clearing in general content. Jurassic Green is a solar rapid-fire pulse, with the intrinsic 20% faster reload when its magazine is empty. It's got a similar stat range to its other world-drop peers, but comes a poor second to end-game drops in the energy slot. The recoil direction is a frankly awful 50 at base. The best even Arrowhead Brake can do is bring it up to a not entirely awful 80, and you can choose a little extra range, stability or reload speed with your mag slot perk. Then, in the first trait column as the support perk there are a few decent options to help with reload and gunfeel - Keep Away, Loose Change, Perpetual Motion and Subsistence. For damage, in the second column as the signature trait perk Golden Tricorn is an easy choice - you have plenty of tools in the solar kit to proc the second stack of +50% damage for 10s. Alternatively, you can generate plenty of firesprites or other elemental pickups for a regular +20% damage boost. The Field Tested origin trait is probably the better PvE trait of the two - it'll just work steadily in the background to gradually improve your gunfeel, as long as you don't die! Recommended MW: Range or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,2610012052
+dimwishlist:item=3103255595&perks=839105230,106909392,3619207468,2610012052
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+dimwishlist:item=3103255595&perks=839105230,3142289711,1119449540,2610012052
+dimwishlist:item=3103255595&perks=839105230,106909392,1119449540,2610012052
+dimwishlist:item=3103255595&perks=839105230,3230963543,1119449540,2610012052
+dimwishlist:item=3103255595&perks=839105230,3142289711,1428297954,2610012052
+dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,2610012052
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,2610012052
+dimwishlist:item=3103255595&perks=839105230,3142289711,1820235745,2610012052
+dimwishlist:item=3103255595&perks=839105230,106909392,1820235745,2610012052
+dimwishlist:item=3103255595&perks=839105230,3230963543,1820235745,2610012052
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,3324494224
+dimwishlist:item=3103255595&perks=839105230,106909392,3619207468,3324494224
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,3324494224
+dimwishlist:item=3103255595&perks=839105230,3142289711,1119449540,3324494224
+dimwishlist:item=3103255595&perks=839105230,106909392,1119449540,3324494224
+dimwishlist:item=3103255595&perks=839105230,3230963543,1119449540,3324494224
+dimwishlist:item=3103255595&perks=839105230,3142289711,1428297954,3324494224
+dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,3324494224
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,3324494224
+dimwishlist:item=3103255595&perks=839105230,3142289711,1820235745,3324494224
+dimwishlist:item=3103255595&perks=839105230,106909392,1820235745,3324494224
+dimwishlist:item=3103255595&perks=839105230,3230963543,1820235745,3324494224
+
+// Mechabre (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), Keep Away, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Mechabre (it's so obviously a pun on Macabre, so let's just pronounce it Mech-ah-bruh) is reportedly excellent in PvP, but like all aggressive snipers it struggles to find a role in PvE. One thing you could do is use it to apply jolt to beefier targets at a distance. As with most snipers, look for a handling-boosting barrel perk. Building towards the end, Flared Magwell gives the biggest boost to reload speed out of the magazine perks, with Tactical Mag a decent alternative. Keep Away in the first trait column as the support perk boosts reload speed by a further 30, as well as boosting range and accuracy all of which, with a reload Masterwork, can get the reload speed up to 85. Get one kill against an add, reload and then Voltshot in the second column as the signature perk can apply jolt to your next target from a safe distance for burst damage. The Search Party origin trait is more PvP-orientated, but faster ADS speed is always nice to have. Recommended MW: Reload Speed, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3871226707&perks=1840239774,3230963543,3619207468,2173046394
+dimwishlist:item=3871226707&perks=839105230,3230963543,3619207468,2173046394
+dimwishlist:item=3871226707&perks=4090651448,3230963543,3619207468,2173046394
+dimwishlist:item=3871226707&perks=1840239774,106909392,3619207468,2173046394
+dimwishlist:item=3871226707&perks=839105230,106909392,3619207468,2173046394
+dimwishlist:item=3871226707&perks=4090651448,106909392,3619207468,2173046394
+
+// Acosmic (PvE first-choice roll)
+// (Volatile Launch, Smart Drift Control), Spike Grenades, Field Prep, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies in end-game content. If you weren't around to shape your own Regnant, and don't have a decently-rolled Explosive Light grenade launcher, Acosmic (named after one of the two Hindu aspects of god; to be acosmic is to deny the objective reality of the temporal world - transcendental in a world-negating sense, according to Merriam-Webster) is a viable option. Use the barrel perk to get shots to the target as fast as possible, and Spike Grenades adds 13.3% to total damage for a direct hit in the magazine slot. In the first column, for the support trait perk, saves a reserves perk on your chest and significantly boosts reload when you crouch. Explosive Light is the second column as the signature perk adds +52.5% to total damage for up to six shots for great burst damage, as well as boosting the blast radius to 100 - great against Majors surrounded by minor adds. The Nadir Focus origin trait boosts your shot velocity further, which is a nice little bonus. Recommended MW: Reload Speed, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,2869569095,3194351027
+dimwishlist:item=413901114&perks=3798852852,3301904089,2869569095,3194351027
