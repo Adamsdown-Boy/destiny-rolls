@@ -131,13 +131,10 @@ dimwishlist:item=3103255595&perks=839105230,3230963543,1820235745,4293542123
 
 // Jurassic Green (PvE backup roll)
 // Arrowhead Brake, (Flared Magwell, Tactical Mag, Accurized Rounds), (Keep Away, Loose Changce, Perpetual Motion, Subsistence), (Golden Tricorn, Collective Action)
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (Backup PvE pick for solar synergy and Minor Spec add-clearing in general content. Jurassic Green is a solar rapid-fire pulse, with the intrinsic 20% faster reload when its magazine is empty. It's got a similar stat range to its other world-drop peers, but comes a poor second to end-game drops in the energy slot. The recoil direction is a frankly awful 50 at base. The best even Arrowhead Brake can do is bring it up to a not entirely awful 80, and you can choose a little extra range, stability or reload speed with your mag slot perk. Then, in the first trait column as the support perk there are a few decent options to help with reload and gunfeel - Keep Away, Loose Change, Perpetual Motion and Subsistence. For damage, in the second column as the signature trait perk Golden Tricorn is an easy choice - you have plenty of tools in the solar kit to proc the second stack of +50% damage for 10s. Alternatively, you can generate plenty of firesprites or other elemental pickups for a regular +20% damage boost. The Field Tested origin trait is probably the better PvE trait of the two - it'll just work steadily in the background to gradually improve your gunfeel, as long as you don't die! Recommended MW: Range or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 83 (https://open.spotify.com/episode/4ISDC0TSrLmfEyPuI9oU2m?si=9fbd5a7cf0bc4f07) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (Backup PvE pick for solar synergy and Minor Spec add-clearing in general content. Jurassic Green is a solar rapid-fire pulse, with the intrinsic 20% faster reload when its magazine is empty. It's got a similar stat range to its other world-drop peers, but comes a poor second to end-game drops in the energy slot. The recoil direction is a frankly awful 50 at base. The best even Arrowhead Brake can do is bring it up to a not entirely awful 80, and you can choose a little extra range, stability or reload speed with your mag slot perk. Then, in the first trait column as the support perk there are a few decent options to help with reload and gunfeel - Keep Away, Perpetual Motion and Subsistence. For damage, in the second column as the signature trait perk Golden Tricorn is an easy choice - you have plenty of tools in the solar kit to proc the second stack of +50% damage for 10s. Alternatively, you can generate plenty of firesprites or other elemental pickups for a regular +20% damage boost. The Field Tested origin trait is probably the better PvE trait of the two - it'll just work steadily in the background to gradually improve your gunfeel, as long as you don't die! Recommended MW: Range or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
 dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,2610012052
 dimwishlist:item=3103255595&perks=839105230,106909392,3619207468,2610012052
 dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
-dimwishlist:item=3103255595&perks=839105230,3142289711,1119449540,2610012052
-dimwishlist:item=3103255595&perks=839105230,106909392,1119449540,2610012052
-dimwishlist:item=3103255595&perks=839105230,3230963543,1119449540,2610012052
 dimwishlist:item=3103255595&perks=839105230,3142289711,1428297954,2610012052
 dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,2610012052
 dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,2610012052
@@ -147,9 +144,6 @@ dimwishlist:item=3103255595&perks=839105230,3230963543,1820235745,2610012052
 dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,3324494224
 dimwishlist:item=3103255595&perks=839105230,106909392,3619207468,3324494224
 dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,3324494224
-dimwishlist:item=3103255595&perks=839105230,3142289711,1119449540,3324494224
-dimwishlist:item=3103255595&perks=839105230,106909392,1119449540,3324494224
-dimwishlist:item=3103255595&perks=839105230,3230963543,1119449540,3324494224
 dimwishlist:item=3103255595&perks=839105230,3142289711,1428297954,3324494224
 dimwishlist:item=3103255595&perks=839105230,106909392,1428297954,3324494224
 dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,3324494224
