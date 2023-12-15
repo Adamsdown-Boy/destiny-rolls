@@ -1,0 +1,226 @@
+@title:Season 23 Warlord's Ruin weapons
+@description:New weapons dropping from the Warlord's Ruin dungeon, with the Sundering origin trait
+
+// Vengeful Whisper (PvE first-choice roll)
+// Elastic String, (Fiberglass Arrow Shaft, Straight Fletching), Slice, Precision Instrument
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for support against Major and Boss spec enemies in end-game content. Dungeon weapons tend to have better stats than world drops, and Vengeful Whisper is no exception - even going as far as an extra point of zoom over other precision bows. This also has traits appearing in non-standard columns to make for some unique rolls. As with every bow, the aim is to reduce draw time first, and improve accuracy second - Elastic String does the first job and Fiberglass Arrow Shaft or Straight Fletching does the second. The combination of Slice in the first trait column and Precision Instrument in the second could make for an interesting combination to apply Sever to majors and bosses from range - even when they're immune to damage - to reduce their damage output by 40% for 10s or 15s with Thread of Continuity (effectively a 40% DR for the whole fireteam) as well as doing decent, for a primary weapon, damage with the boost from Precision Instrument. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Draw Time, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=839344841&perks=2801223209,3827198035,923806249,555281244
+dimwishlist:item=839344841&perks=2801223209,3429800428,923806249,555281244
+
+// Vengeful Whisper (PvE first-choice roll)
+// Elastic String, (Fiberglass Arrow Shaft, Straight Fletching), Slice, Collective Action
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Strand Synergy in end-game content. Dungeon weapons tend to have better stats than world drops, and Vengeful Whisper is no exception - even going as far as an extra point of zoom over other precision bows. This also has traits appearing in non-standard columns to make for some unique rolls. As with every bow, the aim is to reduce draw time first, and improve accuracy second - Elastic String does the first job and Fiberglass Arrow Shaft or Straight Fletching does the second. The combination of Slice in the first trait column and Collective Action in the second makes this a bit of a Swiss-army knife of weapons. Slice, with Strand of Continuity, Severs an enemy to reduce their damage output by 40% for 15s - you can use this effect on Majors and Bosses, even during an immunity phase to grant an effective 40% damage reduction for your whole fireteam. Or, apply Sever to a minor and kill it to spawn a Tangle that you can use with Collective Action for a 20% damage boost for 7s, then rinse and repeat. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Draw Time, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=839344841&perks=2801223209,3827198035,923806249,3324494224
+dimwishlist:item=839344841&perks=2801223209,3429800428,923806249,3324494224
+
+// Vengeful Whisper (PvE first-choice roll)
+// Elastic String, (Fiberglass Arrow Shaft, Straight Fletching), Explosive Head, Hatchling
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Strand synergy Minor Spec add-clearing in general content. Dungeon weapons tend to have better stats than world drops, and Vengeful Whisper is no exception - even going as far as an extra point of zoom over other precision bows. This also has traits appearing in non-standard columns to make for some unique rolls. As with every bow, the aim is to reduce draw time first, and improve accuracy second - Elastic String does the first job and Fiberglass Arrow Shaft or Straight Fletching does the second. With Explosive Head appearing in the first trait column as the support perk for a change, you have the option to go double-damage with Hatchling (unfortunately Precision Instrument only boosts precision damage so is a bit of a trap perk with Explosive Head), particularly when paired with Thread of Evolution. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Draw Time, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=839344841&perks=2801223209,3429800428,3365897133,831391274
+dimwishlist:item=839344841&perks=2801223209,3827198035,3365897133,831391274
+
+// Vengeful Whisper (PvE first-choice roll)
+// Elastic String, (Fiberglass Arrow Shaft, Straight Fletching), Archer's Tempo, Hatchling
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Strand synergy Minor Spec add-clearing in general content. Dungeon weapons tend to have better stats than world drops, and Vengeful Whisper is no exception - even going as far as an extra point of zoom over other precision bows. This also has traits appearing in non-standard columns to make for some unique rolls. As with every bow, the aim is to reduce draw time first, and improve accuracy second - Elastic String does the first job and Fiberglass Arrow Shaft or Straight Fletching does the second. The combination of Archer's Tempo in the first train column and Hatchling in the second will increase damage output through both increased rate-of-fire and Threadling damage, particularly when paired with Thread of Evolution. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Draw Time, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=839344841&perks=2801223209,3827198035,201365942,831391274
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,831391274
+
+// Vengeful Whisper (PvE first-choice roll)
+// Elastic String, (Fiberglass Arrow Shaft, Straight Fletching), (Explosive Head, Archer's Tempo), Successful Warm-Up
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Minor Spec add-clearing in general content. Dungeon weapons tend to have better stats than world drops, and Vengeful Whisper is no exception - even going as far as an extra point of zoom over other precision bows. This also has traits appearing in non-standard columns to make for some unique rolls. As with every bow, the aim is to reduce draw time first, and improve accuracy second - Elastic String does the first job and Fiberglass Arrow Shaft or Straight Fletching does the second. The combination of Archer's Tempo or Explosive Head in the first train column and Successful Warm-Up in the second will increase damage output either directly or through increased rate-of-fire. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Draw Time, with a damage boosting (Minor or Taken Spec)mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=839344841&perks=2801223209,3827198035,3365897133,2652708987
+dimwishlist:item=839344841&perks=2801223209,3429800428,3365897133,2652708987
+dimwishlist:item=839344841&perks=2801223209,3827198035,201365942,2652708987
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,2652708987
+
+// Naeem's Lance (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Appended Mag, Extended Mag), Reconstruction, Slice
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for against Major or Boss Spec enemies, particularly with Strand subcalsses, in end-game content. Dungeon weapons tend to have better stats than world drops, and Naeem's Lance is no exception, having pretty good overall stats. It's the first Rapid-fire Sniper so, as is common for most snipers, Handling is a crucial stat but, as this is a rapid-fire frame, you'll also need to tidy up the recoil direction, so Arrowhead Brake is the barrel perk choice, taking the stat to a manageable 84. As the mag perk, Tactical Mag is the best option, as it boosts stability a bit too, and gives the same rounds in the mag (seven) as Appended and Extended Mag, but either of those work too. For the first trait, Reconstruction doubles your mag size passively, while Slice in the second trait makes this possibly the best special weapon to pair with a Bait and Switch heavy weapon - reducing the Severed target's damage output by 40% for 10s (15s with Thread of Continuity if you're using a Strand subclass) - an effective additional 40% DR for your whole fireteam. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Handling, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2806569825&perks=839105230,106909392,1523832109,923806249
+dimwishlist:item=2806569825&perks=839105230,1087426260,1523832109,923806249
+dimwishlist:item=2806569825&perks=839105230,2420895100,1523832109,923806249
+
+// Naeem's Lance (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Appended Mag, Extended Mag), Reconstruction, Precision Instrument
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Boss Spec enemies in end-game content. Dungeon weapons tend to have better stats than world drops, and Naeem's Lance is no exception - having pretty good overall stats. It's the first Rapid-fire Sniper so, as is common for most snipers, Handling is a crucial stat but, as this is a rapid-fire frame, you'll also need to tidy up the recoil direction, so Arrowhead Brake is the barrel perk choice. As the mag perk, Tactical Mag is the best option, as it boosts stability a bit too, and gives the same rounds in the mag as Appended and Extended Mag. For the first trait, Reconstruction doubles your mag size passively while, if you don't have a good backup sniper for boss damage when you run out of heavy ammo, Precision Instrument boosts your damage output by 25% after six shots, for the rest of the 14-round magazine. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Handling, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2806569825&perks=839105230,106909392,1523832109,555281244
+dimwishlist:item=2806569825&perks=839105230,1087426260,1523832109,555281244
+dimwishlist:item=2806569825&perks=839105230,2420895100,1523832109,555281244
+
+// Indebted Kindness (PvE first-choice roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), High-Explosive Ordnance, Lead From Gold, Surrounded
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for chunkier Minor and Major Spec enemies in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. For similar reasons, High-Explosive Ordnance is the top choice for the mag perk. As this is a special weapon, Lead From Gold as the first trait perk should keep your ammo topped-up and Surrounded, while a bit of a risky choice maybe, Surrounded boosts damage by 35% when procced to turn the truck into a juggernaut. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,1380253176,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1380253176,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1119449540,2173046394
+
+// Indebted Kindness (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), (Tactical Mag, Extended Mag, Appended Mag), Lead From Gold, Surrounded
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. Backup PvE pick for Major Spec enemies in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. More shots = more fun, so any of the mag-boosting perks can work as the mag perk. As this is a special weapon, Lead From Gold as the first trait perk should keep your ammo topped-up and Surrounded, while a bit of a risky choice maybe, Surrounded boosts damage by 35% when procced to turn the truck into a juggernaut. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,106909392,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1844523823,106909392,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1441682018,106909392,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1478423395,2420895100,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1844523823,2420895100,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1441682018,2420895100,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1478423395,1087426260,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1844523823,1087426260,1119449540,3708227201
+dimwishlist:item=3381450498&perks=1441682018,1087426260,1119449540,3708227201
+
+// Indebted Kindness (PvE first-choice roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), High-Explosive Ordnance, (Impulse Amplifier, Loose Change), Voltshot
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. (??? 106909392 2420895100 1087426260 ???): First-choice PvE pick for Major Spec enemies particularly for Arc subclasses in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. For similar reasons, High-Explosive Ordnance is the top choice for the mag perk. Voltshot, as the second trait perk, should make it easy to apply Jolt to a target and help clear adds quickly, but relies on a fast reload - Impulse Amplifier as the first trait perk helps all the time or, after your first application of Voltshot, Loose Change boosts reload speed by 50. Throw on other fragments like Spark of Beacons for additional blinding to suppress adds, or Ions/Discharge to feed your abilities and this could be a top choice for crowd control. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,1380253176,951095735,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1380253176,951095735,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1380253176,951095735,2173046394
+dimwishlist:item=3381450498&perks=1478423395,1380253176,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1380253176,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1119449540,2173046394
+
+// Indebted Kindness (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), (Tactical Mag, Extended Mag, Appended Mag), (Impulse Amplifier, Loose Change), Voltshot
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Major Spec enemies particularly for Arc subclasses in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. More shots = more fun, so any of the mag-boosting perks can work as the mag perk. Voltshot, as the second trait perk, should make it easy to apply Jolt to a target and help clear adds quickly, but relies on a fast reload - Impulse Amplifier as the first trait perk helps all the time or, after your first application of Voltshot, Loose Change boosts reload speed by 50. Throw on other fragments like Spark of Beacons for additional blinding to suppress adds, or Ions/Discharge to feed your abilities and this could be a top choice for crowd control. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,106909392,951095735,2173046394
+dimwishlist:item=3381450498&perks=1844523823,106909392,951095735,2173046394
+dimwishlist:item=3381450498&perks=1441682018,106909392,951095735,2173046394
+dimwishlist:item=3381450498&perks=1478423395,2420895100,951095735,2173046394
+dimwishlist:item=3381450498&perks=1844523823,2420895100,951095735,2173046394
+dimwishlist:item=3381450498&perks=1441682018,2420895100,951095735,2173046394
+dimwishlist:item=3381450498&perks=1478423395,1087426260,951095735,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1087426260,951095735,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1087426260,951095735,2173046394
+dimwishlist:item=3381450498&perks=1478423395,106909392,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1844523823,106909392,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1441682018,106909392,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1478423395,2420895100,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1844523823,2420895100,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1441682018,2420895100,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1478423395,1087426260,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1087426260,1119449540,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1087426260,1119449540,2173046394
+
+// Indebted Kindness (PvE first-choice roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), High-Explosive Ordnance, Beacon Rounds, Voltshot
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Major Spec enemies particularly for Arc subclasses in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. or similar reasons, High-Explosive Ordnance is the top choice for the mag perk. Voltshot, as the second trait perk, should make it easy to apply Jolt to a target and help clear adds quickly, which can then proc the new to Season 23 Beacon Rounds for strong enemy tracking. Throw on other fragments like Spark of Beacons for additional blinding to suppress adds, or Ions/Discharge to feed your abilities and this could be a top choice for crowd control. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,2173046394
+
+// Indebted Kindness (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), (Tactical Mag, Extended Mag, Appended Mag), Beacon Rounds, Voltshot
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Major Spec enemies particularly for Arc subclasses in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. More shots = more fun, so any of the mag-boosting perks can work as the mag perk. Voltshot, as the second trait perk, should make it easy to apply Jolt to a target and help clear adds quickly, which can then proc the new to Season 23 Beacon Rounds for strong enemy tracking. Throw on other fragments like Spark of Beacons for additional blinding to suppress adds, or Ions/Discharge to feed your abilities and this could be a top choice for crowd control. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1478423395,2420895100,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1844523823,2420895100,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1441682018,2420895100,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,2173046394
+dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,2173046394
+
+// Indebted Kindness (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), High-Explosive Ordnance, (Lead From Gold, Beacon Rounds), Adagio
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Major Spec enemies particularly for Arc subclasses in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. For similar reasons, High-Explosive Ordnance is the top choice for the mag perk. As the second trait perk, Adagio is a net damage increase after a kill, even with the slower firing rate, so pair that with Lead From Gold to keep the ammo flowing, or the new to Season 23 Beacon Rounds for strong enemy tracking. Throw on other fragments like Spark of Beacons for additional blinding to suppress adds, or Ions/Discharge to feed your abilities and this could be a top choice for crowd control. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,1380253176,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1844523823,1380253176,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,3673922083
+
+// Indebted Kindness (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), (Tactical Mag, Extended Mag, Appended Mag), (Lead From Gold, Beacon Rounds), Adagio
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. Backup PvE pick for Major Spec enemies particularly for Arc subclasses in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. More shots = more fun, so any of the mag-boosting perks can work as the mag perk. As the second trait perk, Adagio is a net damage increase after a kill, even with the slower firing rate, so pair that with Lead From Gold to keep the ammo flowing, or the new to Season 23 Beacon Rounds for strong enemy tracking. Throw on other fragments like Spark of Beacons for additional blinding to suppress adds, or Ions/Discharge to feed your abilities and this could be a top choice for crowd control. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,106909392,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1844523823,106909392,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1441682018,106909392,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1478423395,2420895100,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1844523823,2420895100,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1441682018,2420895100,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1478423395,1087426260,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1844523823,1087426260,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1441682018,1087426260,1556840489,3673922083
+dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1478423395,2420895100,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1844523823,2420895100,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1441682018,2420895100,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,3673922083
+dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,3673922083
+
+// Indebted Kindness (PvE first-choice roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), High-Explosive Ordnance, (Lead From Gold, Beacon Rounds, Loose Change), Permeability
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. (??? 106909392 2420895100 1087426260 ???): First-choice PvE pick for Major Spec enemies particularly for Void Gyrfalcon Hunters in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. For similar reasons, High-Explosive Ordnance is the top choice for the mag perk. The new-to-Season 23 Permeability trait in the second trait column means, if you're running Gyrfalcons, you can use Indebted Kindness to apply volatility at will - making this really strong against Barrier Champions as well as for add clear. You can pair this with Lead From Gold to help with ammo economy, Beacond Rounds for strong enemy tracking or Loose Change for speedy reloads, if you're using Gambler's Dodge. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,1380253176,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1844523823,1380253176,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1478423395,1380253176,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1844523823,1380253176,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1119449540,2428997981
+
+// Indebted Kindness (PvE backup roll)
+// (Volatile Launch, Confined Launch, Linear Compensator), (Tactical Mag, Extended Mag, Appended Mag), (Lead From Gold, Beacon Rounds, Loose Change), Permeability
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. Backup PvE pick for Major Spec enemies particularly for Void Gyrfalcon Hunters in end-game content. Indebted Kindness is the first ever Rocket-Assisted Frame sidearm, so there's no comparison possible. It seems to be a weird mix of sidearm and grenade launcher, which hits like a truck. Blast Radius seems to be the most impactful stat so any of the barrel perks that help boost it are viable. For similar reasons, High-Explosive Ordnance is the top choice for the mag perk. The new-to-Season 23 Permeability trait in the second trait column means, if you're running Gyrfalcons, you can use Indebted Kindness to apply volatility at will - making this really strong against Barrier Champions as well as for add clear. You can pair this with Lead From Gold to help with ammo economy, Beacond Rounds for strong enemy tracking or Loose Change for speedy reloads, if you're using Gambler's Dodge. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Blast Radius, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-Champion, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3381450498&perks=1478423395,106909392,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1844523823,106909392,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1441682018,106909392,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1478423395,2420895100,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1844523823,2420895100,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1441682018,2420895100,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1478423395,1087426260,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1844523823,1087426260,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1441682018,1087426260,1556840489,2428997981
+dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1478423395,2420895100,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1844523823,2420895100,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1441682018,2420895100,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,2428997981
+dimwishlist:item=3381450498&perks=1478423395,106909392,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1844523823,106909392,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1441682018,106909392,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1478423395,2420895100,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1844523823,2420895100,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1441682018,2420895100,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1478423395,1087426260,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1844523823,1087426260,1119449540,2428997981
+dimwishlist:item=3381450498&perks=1441682018,1087426260,1119449540,2428997981
+
+// Dragoncult Sickle (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Slice, (Surrounded, Whirlwind Blade)
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for Major and Boss Spec enemies particularly for Strand subclasses in end-game content. This is the first new Caster-Frame sword we've seen in some time, and the first Strand one. Dungeon weapons tend to have better stats than world drops, and Dragoncult Sickle is no exception, having pretty good overall stats - both Impact and Ammo Capacity are higher than its peers. The advantage you have with caster frames is that you can hit from range with the heavy attack, but the ammo cost as at v7.3.0.3 is still a little high. On the other hand, you can use it for major or boss damage - the standard Jagged Edge for the extra damage and Swordmaster's Guard for the Blade and Guard perks still apply. The new-to-Season-23 Slice as the first trait perk gives this an ability to sever a major or a boss, reducing its outgoing damage by 40% for 10s (or 15s with Thread of Continuity), which can be a lifesaver in a CQC fight. In the second trait column as the signature perk, you could go for Surrounded, if you know there will be adds around to boost damage by 40%, or Whirlwind Blade if there aren't. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Impact, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,3708227201
+dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,3708227201
+
+// Dragoncult Sickle (PvE backup roll)
+// (Honed Edge, Tempered Edge), Swordmaster's Guard, Slice, (Surrounded, Whirlwind Blade)
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. Backup PvE pick for Major and Boss Spec enemies particularly for Strand subclasses in end-game content. This is the first new Caster-Frame sword we've seen in some time, and the first Strand one. Dungeon weapons tend to have better stats than world drops, and Dragoncult Sickle is no exception, having pretty good overall stats - both Impact and Ammo Capacity are higher than its peers. The advantage you have with caster frames is that you can hit from range with the heavy attack, but the ammo cost as at v7.3.0.3 is still a little high. On the other hand, you can use it for major or boss damage - the standard Impact-boosting blade for the extra damage and Swordmaster's Guard for the Guard perk still apply. The new-to-Season-23 Slice as the first trait perk gives this an ability to sever a major or a boss, reducing its outgoing damage by 40% for 10s (or 15s with Thread of Continuity), which can be a lifesaver in a CQC fight. In the second trait column as the signature perk, you could go for Surrounded, if you know there will be adds around to boost damage by 40%, or Whirlwind Blade if there aren't. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Impact, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-MajorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,3708227201
+dimwishlist:item=3668817296&perks=938542991,269888150,923806249,3708227201
+dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,3708227201
+dimwishlist:item=3668817296&perks=938542991,269888150,923806249,3708227201
+
+// Dragoncult Sickle (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge, Tempered Edge), Swordmaster's Guard, (Unrelenting, Tireless Blade), (Chain Reaction, Hatchling)
+//notes: Inspired by @DestinyMBP Podcast vs Enemies episode 90 (https://open.spotify.com/episode/7C3Wx7xXVw10WshiLn5sT8?si=ZNEiHi_ZRfW5z3BbkOMrVQ) with @CourtProjects, @ImpetusAlways, and @Saint_Kabr. First-choice PvE pick for add-clear of Minor Spec enemies in end-game content. This is the first new Caster-Frame sword we've seen in some time, and the first Strand one. Dungeon weapons tend to have better stats than world drops, and Dragoncult Sickle is no exception, having pretty good overall stats - both Impact and Ammo Capacity are higher than its peers. The advantage you have with caster frames is that you can hit from range with the heavy attack, but the ammo cost as at v7.3.0.3 is still a little high. If you're using this for add-clearing one hit will equal on kill consistently, so you might as well go for increased ammo with the blade perk. Swordmaster's Guard as the Guard perk improves regeneration of the heavy attack and then either Unrelenting or Tireless Blade provides health regeneration of ammo from thin air in the first trait column, and Chain Reaction or Hatchling (particularly with Thread of Evolution) help with add clearing in the second. The origin trait is situationally useful if you're in a construct-heavy environment, like the Warlord's Ruin dungeon itself. Recommended MW: Impact, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3668817296&perks=1261178282,269888150,3108830275,2396489472
+dimwishlist:item=3668817296&perks=436053704,269888150,3108830275,2396489472
+dimwishlist:item=3668817296&perks=938542991,269888150,3108830275,2396489472
+dimwishlist:item=3668817296&perks=1261178282,269888150,2590710093,2396489472
+dimwishlist:item=3668817296&perks=436053704,269888150,2590710093,2396489472
+dimwishlist:item=3668817296&perks=938542991,269888150,2590710093,2396489472
+dimwishlist:item=3668817296&perks=1261178282,269888150,3108830275,831391274
+dimwishlist:item=3668817296&perks=436053704,269888150,3108830275,831391274
+dimwishlist:item=3668817296&perks=938542991,269888150,3108830275,831391274
+dimwishlist:item=3668817296&perks=1261178282,269888150,2590710093,831391274
+dimwishlist:item=3668817296&perks=436053704,269888150,2590710093,831391274
+dimwishlist:item=3668817296&perks=938542991,269888150,2590710093,831391274
