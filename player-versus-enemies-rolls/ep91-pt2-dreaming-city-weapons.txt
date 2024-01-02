@@ -1,0 +1,358 @@
+@title:Season 23 Dreaming City weapons
+@description:Reprised weapons, with the Advanced Reflexes origin trait
+
+// Tigerspite (PvE first-choice roll)
+// (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in end-game content. Tigerspite has fairly middle-of-the-road stats and a more PvP-oriented trait pool but, if you like the subtype then there are a few interesting rolls. As with all precision weapon subtypes, you can start by not worrying too much about recoil direction, so you might as well push out the range with your barrel perk option. Any of the combat effect rounds in the mag perk slot (Armor-Piercing, High-Caliber or Ricochet Rounds) will add a tiny bit more range and utility in a firefight. In the first trait slot as the support perk, Subsistence really is the best (maybe only) trait that works for PvE while Frenzy is easy to proc and adds +15% damage, and 100 Handling and Reload, once it's procced. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2465372924&perks=202670084,1968497646,1820235745,4104185692
+dimwishlist:item=2465372924&perks=1467527085,1968497646,1820235745,4104185692
+dimwishlist:item=2465372924&perks=3250034553,1968497646,1820235745,4104185692
+dimwishlist:item=2465372924&perks=1482024992,1968497646,1820235745,4104185692
+dimwishlist:item=2465372924&perks=4090651448,1968497646,1820235745,4104185692
+dimwishlist:item=2465372924&perks=202670084,1561002382,1820235745,4104185692
+dimwishlist:item=2465372924&perks=1467527085,1561002382,1820235745,4104185692
+dimwishlist:item=2465372924&perks=3250034553,1561002382,1820235745,4104185692
+dimwishlist:item=2465372924&perks=1482024992,1561002382,1820235745,4104185692
+dimwishlist:item=2465372924&perks=4090651448,1561002382,1820235745,4104185692
+dimwishlist:item=2465372924&perks=202670084,1885400500,1820235745,4104185692
+dimwishlist:item=2465372924&perks=1467527085,1885400500,1820235745,4104185692
+dimwishlist:item=2465372924&perks=3250034553,1885400500,1820235745,4104185692
+dimwishlist:item=2465372924&perks=1482024992,1885400500,1820235745,4104185692
+dimwishlist:item=2465372924&perks=4090651448,1885400500,1820235745,4104185692
+
+// Tigerspite (PvE backup roll)
+// (Full Bore, Extended Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, (Kinetic Tremors, Attrition Orbs)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. Backup PvE pick for add-clear of Minor Spec enemies in general content. Tigerspite has fairly middle-of-the-road stats and a more PvP-oriented trait pool but, if you like the subtype then there are a few interesting rolls. As with all precision weapon subtypes, you can start by not worrying too much about recoil direction, so you might as well push out the range with your barrel perk option. Any of the combat effect rounds in the mag perk slot (Armor-Piercing, High-Caliber or Ricochet Rounds) will add a tiny bit more range and utility in a firefight. In the first trait slot as the support perk, Subsistence really is the best (maybe only) trait that works for PvE while, if you have space in your Vault, you could tuck away one with Kinetic Tremors or Attrition Orbs in the second column, in case they ever get a little love. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, M+KB, Controller
+dimwishlist:item=2465372924&perks=202670084,1968497646,1820235745,3891536761
+dimwishlist:item=2465372924&perks=1467527085,1968497646,1820235745,3891536761
+dimwishlist:item=2465372924&perks=3250034553,1968497646,1820235745,3891536761
+dimwishlist:item=2465372924&perks=1482024992,1968497646,1820235745,3891536761
+dimwishlist:item=2465372924&perks=4090651448,1968497646,1820235745,3891536761
+dimwishlist:item=2465372924&perks=202670084,1561002382,1820235745,3891536761
+dimwishlist:item=2465372924&perks=1467527085,1561002382,1820235745,3891536761
+dimwishlist:item=2465372924&perks=3250034553,1561002382,1820235745,3891536761
+dimwishlist:item=2465372924&perks=1482024992,1561002382,1820235745,3891536761
+dimwishlist:item=2465372924&perks=4090651448,1561002382,1820235745,3891536761
+dimwishlist:item=2465372924&perks=202670084,1885400500,1820235745,3891536761
+dimwishlist:item=2465372924&perks=1467527085,1885400500,1820235745,3891536761
+dimwishlist:item=2465372924&perks=3250034553,1885400500,1820235745,3891536761
+dimwishlist:item=2465372924&perks=1482024992,1885400500,1820235745,3891536761
+dimwishlist:item=2465372924&perks=4090651448,1885400500,1820235745,3891536761
+dimwishlist:item=2465372924&perks=202670084,1968497646,1820235745,243981275
+dimwishlist:item=2465372924&perks=1467527085,1968497646,1820235745,243981275
+dimwishlist:item=2465372924&perks=3250034553,1968497646,1820235745,243981275
+dimwishlist:item=2465372924&perks=1482024992,1968497646,1820235745,243981275
+dimwishlist:item=2465372924&perks=4090651448,1968497646,1820235745,243981275
+dimwishlist:item=2465372924&perks=202670084,1561002382,1820235745,243981275
+dimwishlist:item=2465372924&perks=1467527085,1561002382,1820235745,243981275
+dimwishlist:item=2465372924&perks=3250034553,1561002382,1820235745,243981275
+dimwishlist:item=2465372924&perks=1482024992,1561002382,1820235745,243981275
+dimwishlist:item=2465372924&perks=4090651448,1561002382,1820235745,243981275
+dimwishlist:item=2465372924&perks=202670084,1885400500,1820235745,243981275
+dimwishlist:item=2465372924&perks=1467527085,1885400500,1820235745,243981275
+dimwishlist:item=2465372924&perks=3250034553,1885400500,1820235745,243981275
+dimwishlist:item=2465372924&perks=1482024992,1885400500,1820235745,243981275
+dimwishlist:item=2465372924&perks=4090651448,1885400500,1820235745,243981275
+
+// Waking Vigil (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Extended Barrel, Full Bore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, (Kinetic Tremors, Attrition Orbs), (Rapid Hit, Perpetual Motion), Dragonfly
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in general content. As a former Lightweight HC that's been crowbarred into the Adaptive subfamily, the stats look very weird, with low range and stability but high handling and reload speed. If you haven't already got a decent arc hand cannon, then you could push out the range a bit, even at the cost of a little Handling, and add a little Stability. Any of the combat effect rounds in the mag perk slot (Armor-Piercing, High-Caliber or Ricochet Rounds) will add a tiny bit more range and utility in a firefight. Rapid Hit is the best support perk choice in the first column traits, although Perpetual Motion isn't bad either. Dragonfly in the second trait column as the signature perk is great for thinning out add crowds when you're hitting crits. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=3723679465&perks=1482024992,,1968497646,247725512,2848615171
+dimwishlist:item=3723679465&perks=3250034553,1968497646,247725512,2848615171
+dimwishlist:item=3723679465&perks=1467527085,1968497646,247725512,2848615171
+dimwishlist:item=3723679465&perks=202670084,1968497646,247725512,2848615171
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=3250034553,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=202670084,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=3250034553,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=202670084,1561002382,247725512,2848615171
+dimwishlist:item=3723679465&perks=1482024992,,1968497646,1428297954,2848615171
+dimwishlist:item=3723679465&perks=3250034553,1968497646,1428297954,2848615171
+dimwishlist:item=3723679465&perks=1467527085,1968497646,1428297954,2848615171
+dimwishlist:item=3723679465&perks=202670084,1968497646,1428297954,2848615171
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=3250034553,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=1467527085,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=202670084,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=3250034553,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=1467527085,1561002382,1428297954,2848615171
+dimwishlist:item=3723679465&perks=202670084,1561002382,1428297954,2848615171
+
+// Waking Vigil (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Extended Barrel, Full Bore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, (Kinetic Tremors, Attrition Orbs), (Rapid Hit, Perpetual Motion), Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in general content, particularly with an arc subclass. As a former Lightweight HC that's been crowbarred into the Adaptive subfamily, the stats look very weird, with low range and stability but high handling and reload speed. If you haven't already got a decent arc hand cannon, then you could push out the range a bit, even at the cost of a little Handling, and add a little Stability. Any of the combat effect rounds in the mag perk slot (Armor-Piercing, High-Caliber or Ricochet Rounds) will add a tiny bit more range and utility in a firefight. Rapid Hit is the best support perk choice in the first column traits, although Perpetual Motion isn't bad either. If you don't already have a Voltshot hand cannon, this gives you access to one - jolting enemies lets you play into arc subclass verbs, and is great for crowd control and chunking down bulkier adds and the occasional major. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling (for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3723679465&perks=1482024992,,1968497646,247725512,2173046394
+dimwishlist:item=3723679465&perks=3250034553,1968497646,247725512,2173046394
+dimwishlist:item=3723679465&perks=1467527085,1968497646,247725512,2173046394
+dimwishlist:item=3723679465&perks=202670084,1968497646,247725512,2173046394
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=3250034553,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=202670084,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=3250034553,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=202670084,1561002382,247725512,2173046394
+dimwishlist:item=3723679465&perks=1482024992,,1968497646,1428297954,2173046394
+dimwishlist:item=3723679465&perks=3250034553,1968497646,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1467527085,1968497646,1428297954,2173046394
+dimwishlist:item=3723679465&perks=202670084,1968497646,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=3250034553,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1467527085,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=202670084,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=3250034553,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=1467527085,1561002382,1428297954,2173046394
+dimwishlist:item=3723679465&perks=202670084,1561002382,1428297954,2173046394
+
+// Waking Vigil (PvE first-choice roll)
+// (Smallbore, Hammer-Forged Rifling, Extended Barrel, Full Bore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Subsistence, (Kinetic Tremors, Attrition Orbs), (Rapid Hit, Perpetual Motion), Collective Action
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in end-game content, particularly with an arc subclass. As a former Lightweight HC that's been crowbarred into the Adaptive subfamily, the stats look very weird, with low range and stability but high handling and reload speed. If you haven't already got a decent arc hand cannon, then you could push out the range a bit, even at the cost of a little Handling, and add a little Stability. Any of the combat effect rounds in the mag perk slot (Armor-Piercing, High-Caliber or Ricochet Rounds) will add a tiny bit more range and utility in a firefight. Rapid Hit is the best support perk choice in the first column traits, although Perpetual Motion isn't bad either. Although you don't need Ionic Traces specifically to use Collective Action as the signature perk in the second trait column, they have the advantage over other elemental pickups in end-game content of tracking to you automatically, rather than having to go out to collect them, for a solid +20% damage boost for 7s. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3723679465&perks=1482024992,,1968497646,247725512,3324494224
+dimwishlist:item=3723679465&perks=3250034553,1968497646,247725512,3324494224
+dimwishlist:item=3723679465&perks=1467527085,1968497646,247725512,3324494224
+dimwishlist:item=3723679465&perks=202670084,1968497646,247725512,3324494224
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=3250034553,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=202670084,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=3250034553,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=1467527085,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=202670084,1561002382,247725512,3324494224
+dimwishlist:item=3723679465&perks=1482024992,,1968497646,1428297954,3324494224
+dimwishlist:item=3723679465&perks=3250034553,1968497646,1428297954,3324494224
+dimwishlist:item=3723679465&perks=1467527085,1968497646,1428297954,3324494224
+dimwishlist:item=3723679465&perks=202670084,1968497646,1428297954,3324494224
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=3250034553,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=1467527085,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=202670084,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=1482024992,,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=3250034553,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=1467527085,1561002382,1428297954,3324494224
+dimwishlist:item=3723679465&perks=202670084,1561002382,1428297954,3324494224
+
+// Vouchsafe (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling), (Tactical Mag, Steady Rounds, Appeneded Mag), Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in general content, particularly with a void subclass. The reprised Vouchsafe has returned with a plethora of PvE possibilities. You get the +20 Mobility from the Lightweight Frame, which is always great but on the downside you also have low Stability and Handling (not such a problem with the origin trait) and abysmal Recoil Direction. You can handle the wonky recoil with a combination of recoil and/or stability perks in the barrel and mag slots. You don't need a void subclass to make use of the trait combination of Repulsor Brace and Destabilizing Rounds - they'll work perfectly well without - but you can improve the effect with void fragments. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=355922321&perks=839105230,106909392,776531651,2048641572
+dimwishlist:item=355922321&perks=3661387068,106909392,776531651,2048641572
+dimwishlist:item=355922321&perks=1482024992,106909392,776531651,2048641572
+dimwishlist:item=355922321&perks=1392496348,106909392,776531651,2048641572
+dimwishlist:item=355922321&perks=839105230,3177308360,776531651,2048641572
+dimwishlist:item=355922321&perks=3661387068,3177308360,776531651,2048641572
+dimwishlist:item=355922321&perks=1482024992,3177308360,776531651,2048641572
+dimwishlist:item=355922321&perks=1392496348,3177308360,776531651,2048641572
+dimwishlist:item=355922321&perks=839105230,3230963543,776531651,2048641572
+dimwishlist:item=355922321&perks=3661387068,3230963543,776531651,2048641572
+dimwishlist:item=355922321&perks=1482024992,3230963543,776531651,2048641572
+dimwishlist:item=355922321&perks=1392496348,3230963543,776531651,2048641572
+dimwishlist:item=355922321&perks=839105230,1087426260,776531651,2048641572
+dimwishlist:item=355922321&perks=3661387068,1087426260,776531651,2048641572
+dimwishlist:item=355922321&perks=1482024992,1087426260,776531651,2048641572
+dimwishlist:item=355922321&perks=1392496348,1087426260,776531651,2048641572
+
+// Vouchsafe (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling), (Tactical Mag, Steady Rounds, Appeneded Mag), (Rapid Hit Fourth Time's the Charm), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in end-game content, with a void subclass. The reprised Vouchsafe has returned with a plethora of PvE possibilities. You get the +20 Mobility from the Lightweight Frame, which is always great but on the downside you also have low Stability and Handling (not such a problem with the origin trait) and abysmal Recoil Direction. You can handle the wonky recoil with a combination of recoil and/or stability perks in the barrel and mag slots. Then, either Rapid Hit or Fourth Time's The Charm in the first, support, trait slot work well with Golden Tricorn in the second - you should be able to proc the second tier +50% damage with a void grenade to help deal with chunkier minor adds and the occasional major. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=355922321&perks=839105230,106909392,247725512,2610012052
+dimwishlist:item=355922321&perks=3661387068,106909392,247725512,2610012052
+dimwishlist:item=355922321&perks=1482024992,106909392,247725512,2610012052
+dimwishlist:item=355922321&perks=1392496348,106909392,247725512,2610012052
+dimwishlist:item=355922321&perks=839105230,3177308360,247725512,2610012052
+dimwishlist:item=355922321&perks=3661387068,3177308360,247725512,2610012052
+dimwishlist:item=355922321&perks=1482024992,3177308360,247725512,2610012052
+dimwishlist:item=355922321&perks=1392496348,3177308360,247725512,2610012052
+dimwishlist:item=355922321&perks=839105230,3230963543,247725512,2610012052
+dimwishlist:item=355922321&perks=3661387068,3230963543,247725512,2610012052
+dimwishlist:item=355922321&perks=1482024992,3230963543,247725512,2610012052
+dimwishlist:item=355922321&perks=1392496348,3230963543,247725512,2610012052
+dimwishlist:item=355922321&perks=839105230,1087426260,247725512,2610012052
+dimwishlist:item=355922321&perks=3661387068,1087426260,247725512,2610012052
+dimwishlist:item=355922321&perks=1482024992,1087426260,247725512,2610012052
+dimwishlist:item=355922321&perks=1392496348,1087426260,247725512,2610012052
+dimwishlist:item=355922321&perks=839105230,106909392,1354429876,2610012052
+dimwishlist:item=355922321&perks=3661387068,106909392,1354429876,2610012052
+dimwishlist:item=355922321&perks=1482024992,106909392,1354429876,2610012052
+dimwishlist:item=355922321&perks=1392496348,106909392,1354429876,2610012052
+dimwishlist:item=355922321&perks=839105230,3177308360,1354429876,2610012052
+dimwishlist:item=355922321&perks=3661387068,3177308360,1354429876,2610012052
+dimwishlist:item=355922321&perks=1482024992,3177308360,1354429876,2610012052
+dimwishlist:item=355922321&perks=1392496348,3177308360,1354429876,2610012052
+dimwishlist:item=355922321&perks=839105230,3230963543,1354429876,2610012052
+dimwishlist:item=355922321&perks=3661387068,3230963543,1354429876,2610012052
+dimwishlist:item=355922321&perks=1482024992,3230963543,1354429876,2610012052
+dimwishlist:item=355922321&perks=1392496348,3230963543,1354429876,2610012052
+dimwishlist:item=355922321&perks=839105230,1087426260,1354429876,2610012052
+dimwishlist:item=355922321&perks=3661387068,1087426260,1354429876,2610012052
+dimwishlist:item=355922321&perks=1482024992,1087426260,1354429876,2610012052
+dimwishlist:item=355922321&perks=1392496348,1087426260,1354429876,2610012052
+
+// Vouchsafe (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling), (Tactical Mag, Steady Rounds, Appeneded Mag), Rapid Hit, (Explosive Payload, Dragonfly, Collective Action)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in general content, particularly with a void subclass. The reprised Vouchsafe has returned with a plethora of PvE possibilities. You get the +20 Mobility from the Lightweight Frame, which is always great but on the downside you also have low Stability and Handling (not such a problem with the origin trait) and abysmal Recoil Direction. You can handle the wonky recoil with a combination of recoil and/or stability perks in the barrel and mag slots. Slot in Rapid Hit for the first trait column's support perk and then in the second you can improve on the curated roll's Explosive Payload, add a little crowd clearance with Dragonfly, or use elemental pickups to proc Collective Action (although you might need to travel a fair way to collect them if you're engaging at typical scout rifle distances). The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=355922321&perks=839105230,106909392,247725512,3038247973
+dimwishlist:item=355922321&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=355922321&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=355922321&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=355922321&perks=839105230,3177308360,247725512,3038247973
+dimwishlist:item=355922321&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=355922321&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=355922321&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=355922321&perks=839105230,3230963543,247725512,3038247973
+dimwishlist:item=355922321&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=355922321&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=355922321&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=355922321&perks=839105230,1087426260,247725512,3038247973
+dimwishlist:item=355922321&perks=3661387068,1087426260,247725512,3038247973
+dimwishlist:item=355922321&perks=1482024992,1087426260,247725512,3038247973
+dimwishlist:item=355922321&perks=1392496348,1087426260,247725512,3038247973
+dimwishlist:item=355922321&perks=839105230,106909392,247725512,3324494224
+dimwishlist:item=355922321&perks=3661387068,106909392,247725512,3324494224
+dimwishlist:item=355922321&perks=1482024992,106909392,247725512,3324494224
+dimwishlist:item=355922321&perks=1392496348,106909392,247725512,3324494224
+dimwishlist:item=355922321&perks=839105230,3177308360,247725512,3324494224
+dimwishlist:item=355922321&perks=3661387068,3177308360,247725512,3324494224
+dimwishlist:item=355922321&perks=1482024992,3177308360,247725512,3324494224
+dimwishlist:item=355922321&perks=1392496348,3177308360,247725512,3324494224
+dimwishlist:item=355922321&perks=839105230,3230963543,247725512,3324494224
+dimwishlist:item=355922321&perks=3661387068,3230963543,247725512,3324494224
+dimwishlist:item=355922321&perks=1482024992,3230963543,247725512,3324494224
+dimwishlist:item=355922321&perks=1392496348,3230963543,247725512,3324494224
+dimwishlist:item=355922321&perks=839105230,1087426260,247725512,3324494224
+dimwishlist:item=355922321&perks=3661387068,1087426260,247725512,3324494224
+dimwishlist:item=355922321&perks=1482024992,1087426260,247725512,3324494224
+dimwishlist:item=355922321&perks=1392496348,1087426260,247725512,3324494224
+dimwishlist:item=355922321&perks=839105230,106909392,247725512,2848615171
+dimwishlist:item=355922321&perks=3661387068,106909392,247725512,2848615171
+dimwishlist:item=355922321&perks=1482024992,106909392,247725512,2848615171
+dimwishlist:item=355922321&perks=1392496348,106909392,247725512,2848615171
+dimwishlist:item=355922321&perks=839105230,3177308360,247725512,2848615171
+dimwishlist:item=355922321&perks=3661387068,3177308360,247725512,2848615171
+dimwishlist:item=355922321&perks=1482024992,3177308360,247725512,2848615171
+dimwishlist:item=355922321&perks=1392496348,3177308360,247725512,2848615171
+dimwishlist:item=355922321&perks=839105230,3230963543,247725512,2848615171
+dimwishlist:item=355922321&perks=3661387068,3230963543,247725512,2848615171
+dimwishlist:item=355922321&perks=1482024992,3230963543,247725512,2848615171
+dimwishlist:item=355922321&perks=1392496348,3230963543,247725512,2848615171
+dimwishlist:item=355922321&perks=839105230,1087426260,247725512,2848615171
+dimwishlist:item=355922321&perks=3661387068,1087426260,247725512,2848615171
+dimwishlist:item=355922321&perks=1482024992,1087426260,247725512,2848615171
+dimwishlist:item=355922321&perks=1392496348,1087426260,247725512,2848615171
+
+// Retold Tale (PvE first-choice roll)
+// (Barrel Shroud, Smallbore, Corkscrew Rifling), (Assault Mag, Tactical Mag, Light Mag, Appended Mag), Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add-clear of Minor Spec enemies in end-game content, particularly with a void subclass. Retold Tale has okay stats compared to other precision frame shotguns and the trait pool is weighted towards PvP, but there's still some nice combinations here. First, for the barrel perk, Barrel Shroud, Smallbore or Corkscrew Rifling all add useful stats and for the mag slot while Assault Mag or Tactical Mag are the top two choices, Light Mag or Appended Mag aren't bad alternatives. For your trait combination, this is the first pellet shotgun that offers the the trait combination of Repulsor Brace and Destabilizing Rounds for aggressive CQC add clearing. You don't need a void subclass to make use of them - they'll work perfectly well without - but you can improve the effect with void fragments. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling (or +20 charge rate with swords), for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=871900124&perks=1300023272,791862061,776531651,2048641572
+dimwishlist:item=871900124&perks=1482024992,791862061,776531651,2048641572
+dimwishlist:item=871900124&perks=4090651448,791862061,776531651,2048641572
+dimwishlist:item=871900124&perks=1300023272,106909392,776531651,2048641572
+dimwishlist:item=871900124&perks=1482024992,106909392,776531651,2048641572
+dimwishlist:item=871900124&perks=4090651448,106909392,776531651,2048641572
+dimwishlist:item=871900124&perks=1300023272,679225683,776531651,2048641572
+dimwishlist:item=871900124&perks=1482024992,679225683,776531651,2048641572
+dimwishlist:item=871900124&perks=4090651448,679225683,776531651,2048641572
+dimwishlist:item=871900124&perks=1300023272,1087426260,776531651,2048641572
+dimwishlist:item=871900124&perks=1482024992,1087426260,776531651,2048641572
+dimwishlist:item=871900124&perks=4090651448,1087426260,776531651,2048641572
+
+// Retold Tale (PvE first-choice roll)
+// (Full Choke, Barrel Shroud, Smallbore, Corkscrew Rifling), (Tactical Mag, Assault Mag, Light Mag, Appended Mag), (Lead from Gold, Slideshot), One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for burst damage to Major Spec enemies in end-game content, particularly for melee builds. Retold Tale has okay stats compared to other precision frame shotguns and the trait pool is weighted towards PvP, but there's still some nice combinations here. First, for the barrel perk, Full Choke keeps the pellet spread tighter, or Barrel Shroud, Smallbore or Corkscrew Rifling all add useful stats and for the mag slot while Tactical Mag or Assault Mag are the top two choices, Light Mag or Appended Mag aren't bad alternatives. If you don't already have a One-Two Punch Shotgun, then this can work - Lead From Gold to keep your ammo topped off, or Slideshot for instant slide reloads in the first trait column to support One-Two Punch in the second to pair with an aggressive melee-focussed build for burst damage against Majors, including stunned Champions. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Range or Stability, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=871900124&perks=1047830412,106909392,1556840489,2679249093
+dimwishlist:item=871900124&perks=1300023272,106909392,1556840489,2679249093
+dimwishlist:item=871900124&perks=1482024992,106909392,1556840489,2679249093
+dimwishlist:item=871900124&perks=4090651448,106909392,1556840489,2679249093
+dimwishlist:item=871900124&perks=1047830412,791862061,1556840489,2679249093
+dimwishlist:item=871900124&perks=1300023272,791862061,1556840489,2679249093
+dimwishlist:item=871900124&perks=1482024992,791862061,1556840489,2679249093
+dimwishlist:item=871900124&perks=4090651448,791862061,1556840489,2679249093
+dimwishlist:item=871900124&perks=1047830412,679225683,1556840489,2679249093
+dimwishlist:item=871900124&perks=1300023272,679225683,1556840489,2679249093
+dimwishlist:item=871900124&perks=1482024992,679225683,1556840489,2679249093
+dimwishlist:item=871900124&perks=4090651448,679225683,1556840489,2679249093
+dimwishlist:item=871900124&perks=1047830412,1087426260,1556840489,2679249093
+dimwishlist:item=871900124&perks=1300023272,1087426260,1556840489,2679249093
+dimwishlist:item=871900124&perks=1482024992,1087426260,1556840489,2679249093
+dimwishlist:item=871900124&perks=4090651448,1087426260,1556840489,2679249093
+dimwishlist:item=871900124&perks=1047830412,106909392,3161816588,2679249093
+dimwishlist:item=871900124&perks=1300023272,106909392,3161816588,2679249093
+dimwishlist:item=871900124&perks=1482024992,106909392,3161816588,2679249093
+dimwishlist:item=871900124&perks=4090651448,106909392,3161816588,2679249093
+dimwishlist:item=871900124&perks=1047830412,791862061,3161816588,2679249093
+dimwishlist:item=871900124&perks=1300023272,791862061,3161816588,2679249093
+dimwishlist:item=871900124&perks=1482024992,791862061,3161816588,2679249093
+dimwishlist:item=871900124&perks=4090651448,791862061,3161816588,2679249093
+dimwishlist:item=871900124&perks=1047830412,679225683,3161816588,2679249093
+dimwishlist:item=871900124&perks=1300023272,679225683,3161816588,2679249093
+dimwishlist:item=871900124&perks=1482024992,679225683,3161816588,2679249093
+dimwishlist:item=871900124&perks=4090651448,679225683,3161816588,2679249093
+dimwishlist:item=871900124&perks=1047830412,1087426260,3161816588,2679249093
+dimwishlist:item=871900124&perks=1300023272,1087426260,3161816588,2679249093
+dimwishlist:item=871900124&perks=1482024992,1087426260,3161816588,2679249093
+dimwishlist:item=871900124&perks=4090651448,1087426260,3161816588,2679249093
+
+// Twilight Oath (PvE first-choice roll)
+// (Chambered Compensator, Arrowhead Brake), (Tactical Mag, Appended Mag, Extended Mag), Envious Assassin, (Precision Instrument, Vorpal Weapon)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for sustained damage to Boss Spec enemies in end-game content. Twilight Oath starts in last place for stats amongst its peers, but it has one trick up its sleeve to make it useful for boss damage, if you don't already have a well-rolled special weapon for when you run out of heavy ammo. You'll need to start out by taming the wonky recoil with a Recoil Direction or Stability barrel perk. Tactical Mag, Appended Mag and Extended Mag all get you to the maximum of 7 shots - Tactical Mag adds some useful additional Stability too. You can use this with the trait combination of Envious Assassin, which can get 18 shots after 14 primary/heavy kills - and up to 21 if you reproc), together with Precision Instrument, which provides a scaling damage bonus of up to +25% damage on the sixth and every subsequent crit hit. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Stability, with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1874424704&perks=3661387068,106909392,968510818,555281244
+dimwishlist:item=1874424704&perks=839105230,106909392,968510818,555281244
+dimwishlist:item=1874424704&perks=3661387068,1087426260,968510818,555281244
+dimwishlist:item=1874424704&perks=839105230,1087426260,968510818,555281244
+dimwishlist:item=1874424704&perks=3661387068,2420895100,968510818,555281244
+dimwishlist:item=1874424704&perks=839105230,2420895100,968510818,555281244
+dimwishlist:item=1874424704&perks=3661387068,106909392,968510818,1546637391
+dimwishlist:item=1874424704&perks=839105230,106909392,968510818,1546637391
+dimwishlist:item=1874424704&perks=3661387068,1087426260,968510818,1546637391
+dimwishlist:item=1874424704&perks=839105230,1087426260,968510818,1546637391
+dimwishlist:item=1874424704&perks=3661387068,2420895100,968510818,1546637391
+dimwishlist:item=1874424704&perks=839105230,2420895100,968510818,1546637391
+
+// Abide the Return (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard, Balanced Guard), Relentless Strikes, Whirlwind Blade
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for sustained damage to Boss Spec enemies in end-game content. If you already have a solar boss damage sword, you can pass. If you want to use Abide the Return, then get a blade perk that increases damage and, for a guard perk, Swordmaster's Guard speeds up your heavy attack regeneration or Balanced Guard gives you a little bit of everything to help survive in CQC with a boss. The usual trait combination of Relentless Strikes, returning one ammo for everyth three light hits, and Whirlwind Blade for an escalating +3% bump to damage topping off at +30% for landing light hits makes for a decent, if not top-tier option for boss DPS phases. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +20 charge rate for faster heavy attacks, together with a handy +20 Mobility, for 7.5s. Recommended MW: Impact, with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=250721843&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=250721843&perks=2827049491,269888150,1749209109,3913600130
+dimwishlist:item=250721843&perks=938542991,269888150,1749209109,3913600130
+dimwishlist:item=250721843&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=250721843&perks=2827049491,52780822,1749209109,3913600130
+dimwishlist:item=250721843&perks=938542991,52780822,1749209109,3913600130
+
+// Abide the Return (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge, Tempered Edge), (Swordmaster's Guard, Balanced Guard), (Tireless Blade, Relentless Strikes), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add clearing Minor spec enemies in end-game content, particularly with a solar subclass. If you already have a solar boss damage sword, you can pass. If you don't, then maybe consider trying to craft a Caretaker from Dares of Eternity before settling. If you want to use Abide the Return, then get a blade perk that increases ammo and reserves (adds will die to a single hit anyway) and, for a guard perk, Swordmaster's Guard speeds up your heavy attack regeneration or Balanced Guard gives you a little bit of everything to help survive in CQC. The usual trait combination of Tireless Blade or Relentless Strikes to extend your ammo and Incandescent to help with add clear, should make room clearing easy. You don't need to use a solar subclass but you can improve scorch and ignite verbs further with your fragments. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +20 charge rate for faster heavy attacks, together with a handy +20 Mobility, for 7.5s. Recommended MW: Impact, with a damage boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=250721843&perks=1261178282,269888150,2590710093,4293542123
+dimwishlist:item=250721843&perks=436053704,269888150,2590710093,4293542123
+dimwishlist:item=250721843&perks=1261178282,52780822,2590710093,4293542123
+dimwishlist:item=250721843&perks=436053704,52780822,2590710093,4293542123
+dimwishlist:item=250721843&perks=1261178282,269888150,1749209109,4293542123
+dimwishlist:item=250721843&perks=436053704,269888150,1749209109,4293542123
+dimwishlist:item=250721843&perks=1261178282,52780822,1749209109,4293542123
+dimwishlist:item=250721843&perks=436053704,52780822,1749209109,4293542123
+
+// Sleepless (PvE first-choice roll)
+// Volatile Launch, (High-Velocity Rounds, Alloy Casing), Field Prep, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add clearing Minor spec enemies in general content. Like other High-Impact Rocket Launchers with their high blast radius, Sleepless really only has one role, and that's add clearing - maybe for Gunsmith bounties. If you're going that way, you could maximise the Blast Radius with Volatile Launch as the barrel perk, and then boost Velocity with High-Velocity Rounds or reload Speed with Alloy Casing in the mag. You might as well have as many rockets to shoots as you can, so Field Prep boosts your reserves by one and reload speed further, as the first trait perk to support Chain Reaction in the second to really make sure that everything in the blast radius is dead. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Velocity or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2140635451&perks=1478423395,2822142346,2869569095,2396489472
+dimwishlist:item=2140635451&perks=1478423395,2985827016,2869569095,2396489472
+
+// Sleepless (PvE first-choice roll)
+// Linear Compensator, Black Poweder, Field Prep, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add clearing Minor spec enemies in general content. Like other High-Impact Rocket Launchers with their high blast radius, Sleepless really only has one role, and that's add clearing - maybe for Gunsmith bounties. If you're going that way, you could boost Blast Radius and Velocity with Linear Compensator as the barrel perk, and then boost Blast Radius with Black Powder in the mag. You might as well have as many rockets to shoots as you can, so Field Prep boosts your reserves by one and reload speed further, as the first trait perk to support Chain Reaction in the second to really make sure that everything in the blast radius is dead. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Velocity or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2140635451&perks=1441682018,1996142143,2869569095,2396489472
+
+// Sleepless (PvE first-choice roll)
+// Quick Launch, High-Velocity Rounds, Field Prep, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add clearing Minor spec enemies in general content. Like other High-Impact Rocket Launchers with their high blast radius, Sleepless really only has one role, and that's add clearing - maybe for Gunsmith bounties. If you're going that way, and you're lucky enough to get a Blast Radius masterwork, you can boost velocity and reload speed with Quick Launch in the barrel and High-Velocity Rounds in the mag. You might as well have as many rockets to shoots as you can, so Field Prep boosts your reserves by one and reload speed further, as the first trait perk to support Chain Reaction in the second to really make sure that everything in the blast radius is dead. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Blast Radius, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2140635451&perks=3525010810,2822142346,2869569095,2396489472
+
+// Sleepless (PvE first-choice roll)
+// Volatile Launch, High-Velocity Rounds, Field Prep, Bipod
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 91 (https://open.spotify.com/episode/50NPk7xF3Tt6X3DVucE9jU?si=44d2b7d44a5a4aec) with @CourtProjects and @ImpetusAlways. First-choice PvE pick for add clearing Minor spec enemies in general content. Like other High-Impact Rocket Launchers with their high blast radius, Sleepless really only has one role, and that's add clearing - maybe for Gunsmith bounties. If you're going that way, maximise the Blast Radius with Volatile Launch and Black Powder in the barrel and mag, and a Blast Radius Masterwork to start with. You might as well have as many rockets to shoot as you can, so Field Prep boosts your reserves and helps with reload speed, as the first trait perk to support Bipod - with all of this you'll have 15 rockets loading two at a time that still have 90 Blast Radius and a decent reload speed when crouched. The Advanced Reflexes origin trait is quite useful in PvE - when activated by an enemy hit, it adds +30 Handling for additional ready and ADS speed, together with a handy +20 Mobility, for 7.5s. Recommended MW: Blast Radius, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2140635451&perks=1478423395,1996142143,2869569095,1439600632
