@@ -1,0 +1,356 @@
+@title:Season 23 Playlist weapons
+@description:Season of the Wish drops from Vanguard, Crucible and Gambit activities 
+
+// Undercurrent (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control, Hard Launch, Linear Compensator), High-Velocity Rounds, Ambitious Assassin, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with an arc subclass. Undercurrent is a decent choice for an arc wave-frame grenade launcher if you don't have access to a Forbearance (or maybe even in addition to). The stats are worse - but it's not an end-game weapon so that's to be expected. Blast Radius has no meaningful effect, so maximise velocity, and try to help handling with the barrel perk. High-Velocity Rounds as the mag perk also usefully helps reload speed a bit too. For the first trait perk, Ambitious Assassin sets you up with two in the chamber (physics be damned) after a kill. With Voltshot as the second trait perk, you can alternate between an add-clearing shot to proc it, and then applying Jolt for crowd control or DoT against a beefier target. It requires the kill to set up, but Voltshot has a wider range of effect than Chain Reaction, so is probably worth a try, especially if you're running an arc subclass and add Sparks of Beacons, Ions and Discharge into the mix. Recommended MW: Reload Speed or Velocity, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1151688091&perks=3525010810,2822142346,2010801679,2173046394
+dimwishlist:item=1151688091&perks=3798852852,2822142346,2010801679,2173046394
+dimwishlist:item=1151688091&perks=981914802,2822142346,2010801679,2173046394
+dimwishlist:item=1151688091&perks=1441682018,2822142346,2010801679,2173046394
+
+// Undercurrent (PvE backup roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): Backup PvE pick for add-clearing Minor Spec enemies in end-game content. Undercurrent is a decent choice for an arc wave-frame grenade launcher if you don't have access to a Forbearance. The stats are worse - it's not an end-game weapon so that's to be expected. Blast Radius has no meaningful effect, so maximise velocity, and try to help handling with the barrel perk. High-Velocity Rounds as the mag perk also usefully helps reload speed ut a bit too. For the first trait perk Left From Gold or Demolitionist are both solid choices, while to boost damage in the second trait column One for All or Adrenaline Junkie should both help deal with bulkier adds. Recommended MW: Reload Speed or Velocity, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=1151688091&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=1151688091&perks=3798852852,2822142346,3523296417,4049631843
+dimwishlist:item=1151688091&perks=981914802,2822142346,3523296417,4049631843
+dimwishlist:item=1151688091&perks=1441682018,2822142346,3523296417,4049631843
+dimwishlist:item=1151688091&perks=3525010810,2822142346,1556840489,4049631843
+dimwishlist:item=1151688091&perks=3798852852,2822142346,1556840489,4049631843
+dimwishlist:item=1151688091&perks=981914802,2822142346,1556840489,4049631843
+dimwishlist:item=1151688091&perks=1441682018,2822142346,1556840489,4049631843
+dimwishlist:item=1151688091&perks=3525010810,2822142346,3523296417,11612903
+dimwishlist:item=1151688091&perks=3798852852,2822142346,3523296417,11612903
+dimwishlist:item=1151688091&perks=981914802,2822142346,3523296417,11612903
+dimwishlist:item=1151688091&perks=1441682018,2822142346,3523296417,11612903
+dimwishlist:item=1151688091&perks=3525010810,2822142346,1556840489,11612903
+dimwishlist:item=1151688091&perks=3798852852,2822142346,1556840489,11612903
+dimwishlist:item=1151688091&perks=981914802,2822142346,1556840489,11612903
+dimwishlist:item=1151688091&perks=1441682018,2822142346,1556840489,11612903
+
+// Undercurrent (Adept) (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control, Hard Launch, Linear Compensator), High-Velocity Rounds, Ambitious Assassin, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with an arc subclass. Undercurrent is a decent choice for an arc wave-frame grenade launcher if you don't have access to a Forbearance (or maybe even in addition to). The stats are worse - but it's not a Raid or Trials weapon so that's to be expected. Blast Radius has no meaningful effect, so maximise velocity, and try to help handling with the barrel perk. High-Velocity Rounds as the mag perk also usefully helps reload speed a bit too. For the first trait perk, Ambitious Assassin sets you up with two in the chamber (physics be damned) after a kill. With Voltshot as the second trait perk, you can alternate between an add-clearing shot to proc it, and then applying Jolt for crowd control or DoT against a beefier target. It requires the kill to set up, but Voltshot has a wider range of effect than Chain Reaction, so is probably worth a try, especially if you're running an arc subclass and add Sparks of Beacons, Ions and Discharge into the mix. Recommended MW: Reload Speed or Velocity, with a damage boosting (Minor, Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=672957262&perks=3525010810,2822142346,2010801679,2173046394
+dimwishlist:item=672957262&perks=3798852852,2822142346,2010801679,2173046394
+dimwishlist:item=672957262&perks=981914802,2822142346,2010801679,2173046394
+dimwishlist:item=672957262&perks=1441682018,2822142346,2010801679,2173046394
+
+// Undercurrent (Adept) (PvE backup roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): Backup PvE pick for add-clearing Minor Spec enemies in end-game content. Undercurrent is a decent choice for an arc wave-frame grenade launcher if you don't have access to a Forbearance. The stats are worse - it's not a Raid or Trials weapon so that's to be expected. Blast Radius has no meaningful effect, so maximise velocity, and try to help handling with the barrel perk. High-Velocity Rounds as the mag perk also usefully helps reload speed ut a bit too. For the first trait perk Left From Gold or Demolitionist are both solid choices, while to boost damage in the second trait column One for All or Adrenaline Junkie should both help deal with bulkier adds. Recommended MW: Reload Speed or Velocity, with a damage boosting (Minor, Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
+dimwishlist:item=672957262&perks=3525010810,2822142346,3523296417,4049631843
+dimwishlist:item=672957262&perks=3798852852,2822142346,3523296417,4049631843
+dimwishlist:item=672957262&perks=981914802,2822142346,3523296417,4049631843
+dimwishlist:item=672957262&perks=1441682018,2822142346,3523296417,4049631843
+dimwishlist:item=672957262&perks=3525010810,2822142346,1556840489,4049631843
+dimwishlist:item=672957262&perks=3798852852,2822142346,1556840489,4049631843
+dimwishlist:item=672957262&perks=981914802,2822142346,1556840489,4049631843
+dimwishlist:item=672957262&perks=1441682018,2822142346,1556840489,4049631843
+dimwishlist:item=672957262&perks=3525010810,2822142346,3523296417,11612903
+dimwishlist:item=672957262&perks=3798852852,2822142346,3523296417,11612903
+dimwishlist:item=672957262&perks=981914802,2822142346,3523296417,11612903
+dimwishlist:item=672957262&perks=1441682018,2822142346,3523296417,11612903
+dimwishlist:item=672957262&perks=3525010810,2822142346,1556840489,11612903
+dimwishlist:item=672957262&perks=3798852852,2822142346,1556840489,11612903
+dimwishlist:item=672957262&perks=981914802,2822142346,1556840489,11612903
+dimwishlist:item=672957262&perks=1441682018,2822142346,1556840489,11612903
+
+// Uzume RR4 (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Fluted Barrel, Smallbore), (Appended Mag, Alloy Mag, Flared Magwell), (Fourth Time's The Charm, Clown Cartridge), Vorpal Weapon
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies in end-game content. Uzume RR4 has very nice stats in it's subfamily, but the 50 zoom is either a blessing or a curse, depending on your viewpoint. Either way this is only worth keeping if you don't have a decent solar sniper, or it's better than the one you're replacing. The recoil direction of 75 is vertical, but if you're firing repeatedly at a crit spot it's still a good idea to control it with a boost to recoil direction or additional stability from your barrel perk. Handling is always nice to have too. Appended Mag gets you an extra shot - you can also use Alloy Mag or Flared Magwell to boost reload speed as your mag perk instead. In the first trait column as the support park, Fourth Time's The Charm or Clown Cartridge are pretty much tied - if you can reliably hit crits, FttC might get you an extra shot more reliably before reloading. In the second as the signature perk, Vorpal Weapon is the best of the bunch for a permanently-on +15% against Major Spec and Boss Spec enemies. Recommended MW: Stability or Handling, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2450917538&perks=839105230,1087426260,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1392496348,1087426260,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1840239774,1087426260,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1482024992,1087426260,1354429876,1546637391
+dimwishlist:item=2450917538&perks=839105230,1431678320,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1392496348,1431678320,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1840239774,1431678320,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1482024992,1431678320,1354429876,1546637391
+dimwishlist:item=2450917538&perks=839105230,3230963543,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1392496348,3230963543,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1840239774,3230963543,1354429876,1546637391
+dimwishlist:item=2450917538&perks=1482024992,3230963543,1354429876,1546637391
+dimwishlist:item=2450917538&perks=839105230,1087426260,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1392496348,1087426260,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1482024992,1087426260,2284787283,1546637391
+dimwishlist:item=2450917538&perks=839105230,1431678320,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1392496348,1431678320,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1840239774,1431678320,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1482024992,1431678320,2284787283,1546637391
+dimwishlist:item=2450917538&perks=839105230,3230963543,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1392496348,3230963543,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1840239774,3230963543,2284787283,1546637391
+dimwishlist:item=2450917538&perks=1482024992,3230963543,2284787283,1546637391
+
+// Double-Edged Answer (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), (Burst Guard, Balanced Guard), Cross Counter, Counterattack
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for burst damage against Major Spec enemies, or Boss spec enemies with short damage windows in end-game content. Double-Edged Answer has awful base stats and a huge perk pool so, if you are looking for a roll, reset your Vanguard reputation a few times first. Jagged Edge provides the most damage as a Blade perk, but decimates your ammo, so Honed Edge and Tempered Edge might be attractive alternatives. For this roll, you'll be looking to block damage, so a Guard perk like Burst Guard or Balanced Guard works best. This is the only sword dropping in S23 with the combination of Flash Counter and Counterattack - get in close to a tanky enemy to bait them into a melee/slam attack, and then the combination of weaken and bonus damage provides +80% damage for 2s, and +20% for the next two, which should be enough time to put a serious dent in their health bar. Nadir Focus could be an interesting mini-Eager Edge - each light attack increases lunge distance, if you want some fun. Recommended MW: Impact, with a damage boosting (Boss, Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=105164264&perks=3666208348,3625355092,2244851822,3016987351
+dimwishlist:item=105164264&perks=2827049491,3625355092,2244851822,3016987351
+dimwishlist:item=105164264&perks=938542991,3625355092,2244851822,3016987351
+dimwishlist:item=105164264&perks=3666208348,52780822,2244851822,3016987351
+dimwishlist:item=105164264&perks=2827049491,52780822,2244851822,3016987351
+dimwishlist:item=105164264&perks=938542991,52780822,2244851822,3016987351
+
+// Double-Edged Answer (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, (Whirlwind Blade, Surrounded)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for sustained damage against Boss spec enemies in end-game content. Double-Edged Answer has awful base stats and a huge perk pool so, if you are looking for a roll, reset your Vanguard reputation a few times first. This shouldn't be your chase weapon but, if you need a waepon for boss damage, then Jagged Edge provides the most damage as a Blade perk, but decimates your ammo, so Honed Edge and Tempered Edge might be attractive alternatives, and Swordmaster's Guard provides a little bit of everything as the guard perk. For reliable boss damage, if you haven't got anything better, Relentless Strikes in the first trait column as the support perk refunds ammo after three hits, while either Whirlwind Blade provides an escalating 3% damage per hit topping off at +30% or, if you know there are other minor adds about, Surrounded boosts damage by a hefty 40%. Nadir Focus could be an interesting mini-Eager Edge - each light attack increases lunge distance, if you want some fun. Recommended MW: Impact, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=105164264&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=105164264&perks=2827049491,269888150,1749209109,3913600130
+dimwishlist:item=105164264&perks=938542991,269888150,1749209109,3913600130
+dimwishlist:item=105164264&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=105164264&perks=2827049491,269888150,1749209109,3708227201
+dimwishlist:item=105164264&perks=938542991,269888150,1749209109,3708227201
+
+// Double-Edged Answer (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge, Honed Edge), Swordmaster's Guard, (Tireless Blade, Relentless Strikes, Unrelenting), (Surrounded, One For All)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in end-game content. Double-Edged Answer has awful base stats and a huge perk pool so, if you are looking for a roll, reset your Vanguard reputation a few times first. This shouldn't be your chase weapon but, if you don't have a sword that's rolled for add clear, increase the ammo you're carrying (even at the cost of impact - Minor adds will die anyway) with your blade perk. Swordmaster's Guard provides an all-round boost to stats in the guard slot. For your support perk in the first trait slot, you could boost ammo reserves with Tireless Blade or Relentless Strikes, or regenerate health with Unrelenting. For your signature perk in the second trait slot. Surrounded or One For All both boost damage, in case you come up against something a bit bulkier. Nadir Focus could be an interesting mini-Eager Edge - each light attack increases lunge distance, if you want some fun, or just take the little bits of health from Vanuard's Vindication. Recommended MW: Impact, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=105164264&perks=1261178282,269888150,2590710093,3708227201
+dimwishlist:item=105164264&perks=436053704,269888150,2590710093,3708227201
+dimwishlist:item=105164264&perks=2827049491,269888150,2590710093,3708227201
+dimwishlist:item=105164264&perks=1261178282,269888150,1749209109,3708227201
+dimwishlist:item=105164264&perks=436053704,269888150,1749209109,3708227201
+dimwishlist:item=105164264&perks=2827049491,269888150,1749209109,3708227201
+dimwishlist:item=105164264&perks=1261178282,269888150,3108830275,3708227201
+dimwishlist:item=105164264&perks=436053704,269888150,3108830275,3708227201
+dimwishlist:item=105164264&perks=2827049491,269888150,3108830275,3708227201
+dimwishlist:item=105164264&perks=1261178282,269888150,2590710093,4049631843
+dimwishlist:item=105164264&perks=436053704,269888150,2590710093,4049631843
+dimwishlist:item=105164264&perks=2827049491,269888150,2590710093,4049631843
+dimwishlist:item=105164264&perks=1261178282,269888150,1749209109,4049631843
+dimwishlist:item=105164264&perks=436053704,269888150,1749209109,4049631843
+dimwishlist:item=105164264&perks=2827049491,269888150,1749209109,4049631843
+dimwishlist:item=105164264&perks=1261178282,269888150,3108830275,4049631843
+dimwishlist:item=105164264&perks=436053704,269888150,3108830275,4049631843
+dimwishlist:item=105164264&perks=2827049491,269888150,3108830275,4049631843
+
+// Double-Edged Answer (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge, Honed Edge), Swordmaster's Guard, Repulsor Brace, (Destabilizing Rounds, Surrounded)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in end-game content, particularly with a void subclass. Double-Edged Answer has awful base stats and a huge perk pool so, if you are looking for a roll, reset your Vanguard reputation a few times first. This shouldn't be your chase weapon but, if you don't have a sword that's rolled for add clear, increase the ammo you're carrying (even at the cost of impact - Minor adds will die anyway) with your blade perk. Swordmaster's Guard provides an all-round boost to stats in the guard slot. For your support perk in the first trait slot, Repulsor Brace will provide a very handy void overshield when procced, while in the second, you can either take advantage of void abilities and use Surrounded in CQC or Destabilizing Rounds to apply a cloud of volatility. Either way, subclass fragments like Echo of Persistence, can build into subclass verbs. Nadir Focus could be an interesting mini-Eager Edge - each light attack increases lunge distance, if you want some fun, or just take the little bits of health from Vanuard's Vindication. Recommended MW: Impact, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=105164264&perks=1261178282,269888150,776531651,2048641572
+dimwishlist:item=105164264&perks=436053704,269888150,776531651,2048641572
+dimwishlist:item=105164264&perks=2827049491,269888150,776531651,2048641572
+dimwishlist:item=105164264&perks=1261178282,269888150,776531651,3708227201
+dimwishlist:item=105164264&perks=436053704,269888150,776531651,3708227201
+dimwishlist:item=105164264&perks=2827049491,269888150,776531651,3708227201
+
+// Retrofuturist  (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag, Appended Mag, Light Mag), Auto-Loading Holster, Trench Barrel
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for burst damage against Major spec enemies in end-game content. Unfortunately, Retrofuturist is distinctly meh, so it's only worth hanging onto a roll if it fills a hole in your vault, and even then you'll have to reset your Crucible rank a few times to stand a decent chance of the roll you're after. As a Lightweight shotgun, you do get the +20 mobility and +6.25% movement speed and, for some reason, it has a base mags size of 7, but that's where the praise ends. If you're hanging onto one, try a barrel perk that adds Handling, although a bit of range and stability doesn't hurt either. Assault Mag and Tactical Mag are the best mag perk choices, but Appended Mag or Light Mag aren't bad. For burst damage against majors, the trait combination of Auto-Loading Holster and Trench Barrel is decent enough. Recommended MW: Handling, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1612781792&perks=1300023272,791862061,3300816228,2360754333
+dimwishlist:item=1612781792&perks=4090651448,791862061,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1482024992,791862061,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1300023272,106909392,3300816228,2360754333
+dimwishlist:item=1612781792&perks=4090651448,106909392,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1482024992,106909392,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1300023272,1087426260,3300816228,2360754333
+dimwishlist:item=1612781792&perks=4090651448,1087426260,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1482024992,1087426260,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1300023272,679225683,3300816228,2360754333
+dimwishlist:item=1612781792&perks=4090651448,679225683,3300816228,2360754333
+dimwishlist:item=1612781792&perks=1482024992,679225683,3300816228,2360754333
+
+// Retrofuturist  (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag, Appended Mag, Light Mag), Pugilist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for burst damage against Major spec enemies in end-game content. Unfortunately, Retrofuturist is distinctly meh, so it's only worth hanging onto a roll if it fills a hole in your vault, and even then you'll have to reset your Crucible rank a few times to stand a decent chance of the roll you're after. As a Lightweight shotgun, you do get the +20 mobility and +6.25% movement speed and, for some reason, it has a base mags size of 7, but that's where the praise ends. If you're hanging onto one, try a barrel perk that adds Handling, although a bit of range and stability doesn't hurt either. Assault Mag and Tactical Mag are the best mag perk choices, but Appended Mag or Light Mag aren't bad. For burst damage against majors, there's the well-established trait combination of Pugilist, to recover melee energy and Swashbuckler for up to a +33% damage boost after a melee kill. Recommended MW: Handling, with a damage boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1612781792&perks=1300023272,791862061,691659142,4082225868
+dimwishlist:item=1612781792&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=1612781792&perks=1482024992,791862061,691659142,4082225868
+dimwishlist:item=1612781792&perks=1300023272,106909392,691659142,4082225868
+dimwishlist:item=1612781792&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=1612781792&perks=1482024992,106909392,691659142,4082225868
+dimwishlist:item=1612781792&perks=1300023272,1087426260,691659142,4082225868
+dimwishlist:item=1612781792&perks=4090651448,1087426260,691659142,4082225868
+dimwishlist:item=1612781792&perks=1482024992,1087426260,691659142,4082225868
+dimwishlist:item=1612781792&perks=1300023272,679225683,691659142,4082225868
+dimwishlist:item=1612781792&perks=4090651448,679225683,691659142,4082225868
+dimwishlist:item=1612781792&perks=1482024992,679225683,691659142,4082225868
+
+// Retrofuturist  (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Smallbore), (Assault Mag, Tactical Mag, Appended Mag, Light Mag), Unrelenting, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add clearing beefier Minor spec enemies in general content. Unfortunately, Retrofuturist is distinctly meh, so it's only worth hanging onto a roll if it fills a hole in your vault, and even then you'll have to reset your Crucible rank a few times to stand a decent chance of the roll you're after. As a Lightweight shotgun, you do get the +20 mobility and +6.25% movement speed and, for some reason, it has a base mags size of 7, but that's where the praise ends. If you're hanging onto one, try a barrel perk that adds Handling, although a bit of range and stability doesn't hurt either. Assault Mag and Tactical Mag are the best mag perk choices, but Appended Mag or Light Mag aren't bad. If you're planning to wade into groups of adds, them the trait combination of Unrelenting and Frenzy should keep you alive and killing for as long as you have ammo. Recommended MW: Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1612781792&perks=1300023272,791862061,3108830275,4104185692
+dimwishlist:item=1612781792&perks=4090651448,791862061,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1482024992,791862061,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1300023272,106909392,3108830275,4104185692
+dimwishlist:item=1612781792&perks=4090651448,106909392,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1482024992,106909392,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1300023272,1087426260,3108830275,4104185692
+dimwishlist:item=1612781792&perks=4090651448,1087426260,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1482024992,1087426260,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1300023272,679225683,3108830275,4104185692
+dimwishlist:item=1612781792&perks=4090651448,679225683,3108830275,4104185692
+dimwishlist:item=1612781792&perks=1482024992,679225683,3108830275,4104185692
+
+// Incisor (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Subsistence, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add clearing beefier Minor spec enemies in general content. Incisor may be the chase playlist activity weapon for S23, being the first legendary strand trace rifle - possibly worth the pain of Trials for! Excellent stats plus the Alacrity origin trait for solo play start us off. Recoil Direction is 94, so you don't need to worry too much. Handling and stability are both useful in a barrel perk. For the battery perk, we want as many charges as we can, so watch for Ionized or Enhanced Battery. For an add clearing weapon, pair Subsistence in the first trait column as the support perk and Killing Tally ini the second as the signature perk. You'll get an untimed +30% damage bonus after three kills, with those kills partially refilling the magazine. This works well for a Warlock running Cenotaph Mask to drop heavy ammo for a fireteam. Recommended MW: Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4248997900&perks=1840239774,1483536627,1820235745,557221067
+dimwishlist:item=4248997900&perks=839105230,1483536627,1820235745,557221067
+dimwishlist:item=4248997900&perks=4090651448,1483536627,1820235745,557221067
+dimwishlist:item=4248997900&perks=1840239774,2680121939,1820235745,557221067
+dimwishlist:item=4248997900&perks=839105230,2680121939,1820235745,557221067
+dimwishlist:item=4248997900&perks=4090651448,2680121939,1820235745,557221067
+
+// Incisor (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Envious Assassin, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add clearing beefier Minor spec enemies in general content. Incisor may be the chase playlist activity weapon for S23, being the first legendary strand trace rifle - possibly worth the pain of Trials for! Excellent stats plus the Alacrity origin trait for solo play start us off. Recoil Direction is 94, so you don't need to worry too much. Handling and stability are both useful in a barrel perk. For the battery perk, we want as many charges as we can, so watch for Ionized or Enhanced Battery. For a backup weapon to use against bosses, Envious Assassin can load a ridiculous 260 charges in your battery after 15 kills with other weapons, which means you can reach the upper +40% stack of Target Lock's damage boost with sustained fire against a target. This works well for a Warlock running Cenotaph Mask to drop heavy ammo for a fireteam. Recommended MW: Handling, with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4248997900&perks=1840239774,1483536627,968510818,365154968
+dimwishlist:item=4248997900&perks=839105230,1483536627,968510818,365154968
+dimwishlist:item=4248997900&perks=4090651448,1483536627,968510818,365154968
+dimwishlist:item=4248997900&perks=1840239774,2680121939,968510818,365154968
+dimwishlist:item=4248997900&perks=839105230,2680121939,968510818,365154968
+dimwishlist:item=4248997900&perks=4090651448,2680121939,968510818,365154968
+
+// Incisor (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Slice, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for sustained damage against Boss spec enemies in end-game content. Incisor may be the chase playlist activity weapon for S23, being the first legendary strand trace rifle - possibly worth the pain of Trials for! Excellent stats plus the Alacrity origin trait for solo play start us off. Recoil Direction is 94, so you don't need to worry too much. Handling and stability are both useful in a barrel perk. For the battery perk, we want as many charges as we can, so watch for Ionized or Enhanced Battery. For a weapon to use as part of a Bait and Switch rotation against a boss, Slide as the first trait column support perk reduces the target's damage output by 40% when procced by a class ability, while Target Lock provides a progressive damage boost for when you run out of heavy ammo. This works well for a Warlock running Cenotaph Mask to drop heavy ammo for a fireteam. Recommended MW: Handling, with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4248997900&perks=1840239774,1483536627,923806249,365154968
+dimwishlist:item=4248997900&perks=839105230,1483536627,923806249,365154968
+dimwishlist:item=4248997900&perks=4090651448,1483536627,923806249,365154968
+dimwishlist:item=4248997900&perks=1840239774,2680121939,923806249,365154968
+dimwishlist:item=4248997900&perks=839105230,2680121939,923806249,365154968
+dimwishlist:item=4248997900&perks=4090651448,2680121939,923806249,365154968
+
+// Incisor (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Subsistence, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add clearing beefier Minor spec enemies in general content. Incisor (Adept) may be the chase playlist activity weapon for S23, being the first legendary strand trace rifle - possibly worth the pain of Trials for! Excellent stats plus the Alacrity origin trait for solo play start us off. Recoil Direction is 94, so you don't need to worry too much. Handling and stability are both useful in a barrel perk. For the battery perk, we want as many charges as we can, so watch for Ionized or Enhanced Battery. For an add clearing weapon, pair Subsistence in the first trait column as the support perk and Killing Tally ini the second as the signature perk. You'll get an untimed +30% damage bonus after three kills, with those kills partially refilling the magazine. This works well for a Warlock running Cenotaph Mask to drop heavy ammo for a fireteam. Recommended MW: Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2421180981&perks=1840239774,1483536627,1820235745,557221067
+dimwishlist:item=2421180981&perks=839105230,1483536627,1820235745,557221067
+dimwishlist:item=2421180981&perks=4090651448,1483536627,1820235745,557221067
+dimwishlist:item=2421180981&perks=1840239774,2680121939,1820235745,557221067
+dimwishlist:item=2421180981&perks=839105230,2680121939,1820235745,557221067
+dimwishlist:item=2421180981&perks=4090651448,2680121939,1820235745,557221067
+
+// Incisor (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Envious Assassin, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add clearing beefier Minor spec enemies in general content. Incisor (Adept) may be the chase playlist activity weapon for S23, being the first legendary strand trace rifle - possibly worth the pain of Trials for! Excellent stats plus the Alacrity origin trait for solo play start us off. Recoil Direction is 94, so you don't need to worry too much. Handling and stability are both useful in a barrel perk. For the battery perk, we want as many charges as we can, so watch for Ionized or Enhanced Battery. For a backup weapon to use against bosses, Envious Assassin can load a ridiculous 260 charges in your battery after 15 kills with other weapons, which means you can reach the upper +40% stack of Target Lock's damage boost with sustained fire against a target. This works well for a Warlock running Cenotaph Mask to drop heavy ammo for a fireteam. Recommended MW: Handling, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2421180981&perks=1840239774,1483536627,968510818,365154968
+dimwishlist:item=2421180981&perks=839105230,1483536627,968510818,365154968
+dimwishlist:item=2421180981&perks=4090651448,1483536627,968510818,365154968
+dimwishlist:item=2421180981&perks=1840239774,2680121939,968510818,365154968
+dimwishlist:item=2421180981&perks=839105230,2680121939,968510818,365154968
+dimwishlist:item=2421180981&perks=4090651448,2680121939,968510818,365154968
+
+// Incisor (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Ionized Battery, Enhanced Battery), Slice, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for sustained damage against Boss spec enemies in end-game content. Incisor (Adept) may be the chase playlist activity weapon for S23, being the first legendary strand trace rifle - possibly worth the pain of Trials for! Excellent stats plus the Alacrity origin trait for solo play start us off. Recoil Direction is 94, so you don't need to worry too much. Handling and stability are both useful in a barrel perk. For the battery perk, we want as many charges as we can, so watch for Ionized or Enhanced Battery. For a weapon to use as part of a Bait and Switch rotation against a boss, Slide as the first trait column support perk reduces the target's damage output by 40% when procced by a class ability, while Target Lock provides a progressive damage boost for when you run out of heavy ammo. This works well for a Warlock running Cenotaph Mask to drop heavy ammo for a fireteam. Recommended MW: Handling, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2421180981&perks=1840239774,1483536627,923806249,365154968
+dimwishlist:item=2421180981&perks=839105230,1483536627,923806249,365154968
+dimwishlist:item=2421180981&perks=4090651448,1483536627,923806249,365154968
+dimwishlist:item=2421180981&perks=1840239774,2680121939,923806249,365154968
+dimwishlist:item=2421180981&perks=839105230,2680121939,923806249,365154968
+dimwishlist:item=2421180981&perks=4090651448,2680121939,923806249,365154968
+
+// Belisarius-D (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Mag), Vorpal Weapon, Deconstruct
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for damage against vehicles and constructs in end-game content. Belisarius-D (Belisarius isn't a dinosaur, but rather a 5th Century Byzantine general) has strong stats but, like all Aggressive Burst pulse rifles, suffers poor handling and reload speed. Arrowhead Brake adds handling and corrects the recoil direction to 100 or Fluted Barrel gives the highest handling bump as the barrel perk. Flared Magwell, or as an alternative, Light Mag or Alloy Mag help out with reload in the magazine slot. For a unique roll - something to add to a collection, just in case you ever need it - Vorpal Weapon is in the first trait column(!), so if you pair it with Deconstruct in the second and Hakke Breach Armaments as the origin trait, with a Boss Spec mod, and that's every perk available that provides additional damage against vehicles and constructs. Now all you've got to do is decide where to use it... Recommended MW: Handling, with a damage boosting (Boss Spec) mod. Tags: PvE, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2313726158&perks=839105230,3230963543,1546637391,3993379141
+dimwishlist:item=2313726158&perks=1840239774,3230963543,1546637391,3993379141
+dimwishlist:item=2313726158&perks=4090651448,3230963543,1546637391,3993379141
+dimwishlist:item=2313726158&perks=839105230,679225683,1546637391,3993379141
+dimwishlist:item=2313726158&perks=1840239774,679225683,1546637391,3993379141
+dimwishlist:item=2313726158&perks=4090651448,679225683,1546637391,3993379141
+dimwishlist:item=2313726158&perks=839105230,1431678320,1546637391,3993379141
+dimwishlist:item=2313726158&perks=1840239774,1431678320,1546637391,3993379141
+dimwishlist:item=2313726158&perks=4090651448,1431678320,1546637391,3993379141
+
+// Belisarius-D (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Mag), (Slice, Rapid Hit, Keep Away), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in end-game content, particularly for Strand subclasses. Belisarius-D (Belisarius isn't a dinosaur, but rather a 5th Century Byzantine general) has strong stats but, like all Aggressive Burst pulse rifles, suffers poor handling and reload speed. Arrowhead Brake adds handling and corrects the recoil direction to 100 or Fluted Barrel gives the highest handling bump as the barrel perk. Flared Magwell, or as an alternative, Light Mag or Alloy Mag help out with reload in the magazine slot. The traits are mostly PvP flavoured but Slice and Hatchling in the first and second trait columns work together as a weapon to synergise with Strand subclass fragments - this could make it a good option as part of a Bait and Switch rotation with Slice reducing outgong damage from a major boss by 40% when procced - or alternatively, Rapid Hit and Keep Away, again in the first column bump up gunfeel stats. Short Action Stock is the stock of choice, for another +15 to handling. Recommended MW: Handling, with a damage boosting (Boss Spec) mod. Tags: PvE, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2313726158&perks=839105230,3230963543,923806249,831391274
+dimwishlist:item=2313726158&perks=1840239774,3230963543,923806249,831391274
+dimwishlist:item=2313726158&perks=4090651448,3230963543,923806249,831391274
+dimwishlist:item=2313726158&perks=839105230,679225683,923806249,831391274
+dimwishlist:item=2313726158&perks=1840239774,679225683,923806249,831391274
+dimwishlist:item=2313726158&perks=4090651448,679225683,923806249,831391274
+dimwishlist:item=2313726158&perks=839105230,1431678320,923806249,831391274
+dimwishlist:item=2313726158&perks=1840239774,1431678320,923806249,831391274
+dimwishlist:item=2313726158&perks=4090651448,1431678320,923806249,831391274
+dimwishlist:item=2313726158&perks=839105230,3230963543,247725512,831391274
+dimwishlist:item=2313726158&perks=1840239774,3230963543,247725512,831391274
+dimwishlist:item=2313726158&perks=4090651448,3230963543,247725512,831391274
+dimwishlist:item=2313726158&perks=839105230,679225683,247725512,831391274
+dimwishlist:item=2313726158&perks=1840239774,679225683,247725512,831391274
+dimwishlist:item=2313726158&perks=4090651448,679225683,247725512,831391274
+dimwishlist:item=2313726158&perks=839105230,1431678320,247725512,831391274
+dimwishlist:item=2313726158&perks=1840239774,1431678320,247725512,831391274
+dimwishlist:item=2313726158&perks=4090651448,1431678320,247725512,831391274
+dimwishlist:item=2313726158&perks=839105230,3230963543,3619207468,831391274
+dimwishlist:item=2313726158&perks=1840239774,3230963543,3619207468,831391274
+dimwishlist:item=2313726158&perks=4090651448,3230963543,3619207468,831391274
+dimwishlist:item=2313726158&perks=839105230,679225683,3619207468,831391274
+dimwishlist:item=2313726158&perks=1840239774,679225683,3619207468,831391274
+dimwishlist:item=2313726158&perks=4090651448,679225683,3619207468,831391274
+dimwishlist:item=2313726158&perks=839105230,1431678320,3619207468,831391274
+dimwishlist:item=2313726158&perks=1840239774,1431678320,3619207468,831391274
+dimwishlist:item=2313726158&perks=4090651448,1431678320,3619207468,831391274
+
+// Lethal Abundance (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Mag), Slice, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in end-game content, particularly for Strand subclasses. Lethal Abundance has decent stats, but as a High-Impact frame auto rifle this isn't going to be on too many people's wish list. as a subfamily, they generally have poor handling and reload speed, so that's what to boost in the barrel and mag perk slots. For Strand synergy, Slice and Hatchling in the two trait columns give you the two perks to work with using your aspects and fragments. Slice also makes this a good swap weapon in a Bait and Switch rotation, applying 40% reduction in damage output from affected targets when procced after using your class ability. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2189073092&perks=1840239774,3230963543,923806249,831391274
+dimwishlist:item=2189073092&perks=839105230,3230963543,923806249,831391274
+dimwishlist:item=2189073092&perks=4090651448,3230963543,923806249,831391274
+dimwishlist:item=2189073092&perks=1840239774,679225683,923806249,831391274
+dimwishlist:item=2189073092&perks=839105230,679225683,923806249,831391274
+dimwishlist:item=2189073092&perks=4090651448,679225683,923806249,831391274
+dimwishlist:item=2189073092&perks=1840239774,1431678320,923806249,831391274
+dimwishlist:item=2189073092&perks=839105230,1431678320,923806249,831391274
+dimwishlist:item=2189073092&perks=4090651448,1431678320,923806249,831391274
+
+// Lethal Abundance (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Light Mag, Alloy Mag), (Slice, Enlightened Action), Onslaught
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in general content, particularly for Strand subclasses. Lethal Abundance has decent stats, but as a High-Impact frame auto rifle this isn't going to be on too many people's wish list. as a subfamily, they generally have poor handling and reload speed, so that's what to boost in the barrel and mag perk slots. In the first trait column, Slice is useful when facing tankier enemies, applying 40% reduction in damage output from affected targets when procced after using your class ability, which makes this a good swap weapon in a Bait and Switch rotation. Alternatively Enlightened Action boosts both handling and reload speed just for hitting a target. Pairing that with Onslaught in the second trait column should help mow through groups of minor spec adds. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2189073092&perks=1840239774,3230963543,923806249,95528736
+dimwishlist:item=2189073092&perks=839105230,3230963543,923806249,95528736
+dimwishlist:item=2189073092&perks=4090651448,3230963543,923806249,95528736
+dimwishlist:item=2189073092&perks=1840239774,679225683,923806249,95528736
+dimwishlist:item=2189073092&perks=839105230,679225683,923806249,95528736
+dimwishlist:item=2189073092&perks=4090651448,679225683,923806249,95528736
+dimwishlist:item=2189073092&perks=1840239774,1431678320,923806249,95528736
+dimwishlist:item=2189073092&perks=839105230,1431678320,923806249,95528736
+dimwishlist:item=2189073092&perks=4090651448,1431678320,923806249,95528736
+dimwishlist:item=2189073092&perks=1840239774,3230963543,3828510309,95528736
+dimwishlist:item=2189073092&perks=839105230,3230963543,3828510309,95528736
+dimwishlist:item=2189073092&perks=4090651448,3230963543,3828510309,95528736
+dimwishlist:item=2189073092&perks=1840239774,679225683,3828510309,95528736
+dimwishlist:item=2189073092&perks=839105230,679225683,3828510309,95528736
+dimwishlist:item=2189073092&perks=4090651448,679225683,3828510309,95528736
+dimwishlist:item=2189073092&perks=1840239774,1431678320,3828510309,95528736
+dimwishlist:item=2189073092&perks=839105230,1431678320,3828510309,95528736
+dimwishlist:item=2189073092&perks=4090651448,1431678320,3828510309,95528736
+
+// Breakneck (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Polygonal Rifling), (Extended Mag, Appended Mag), Subsistence, Onslaught
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in general content. Breakneck is back, and has very solid stats, although it looks like we're never going to see the OG (and OP) Rampage/ Onslaught version again. As a precision frame AR, you don't need to worry about recoil direction, so if you want a variation on the curated version, you might prefer Smallbore or Corkscrew Rifling as your barrel park, but Extended Magazine or Appended Magazine are definitely the top two options for the magazine. For your general content add-clearing, the combination of Subsistence and Onslaught in the first and second trait columns should minimise your need to reloads while you're working your way through crowds of adds. Recommended MW: Handling or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=2026755633&perks=1482024992,2420895100,1820235745,95528736
+dimwishlist:item=2026755633&perks=4090651448,2420895100,1820235745,95528736
+dimwishlist:item=2026755633&perks=1392496348,2420895100,1820235745,95528736
+dimwishlist:item=2026755633&perks=1482024992,1087426260,1820235745,95528736
+dimwishlist:item=2026755633&perks=4090651448,1087426260,1820235745,95528736
+dimwishlist:item=2026755633&perks=1392496348,1087426260,1820235745,95528736
+
+// Breakneck (PvE first-choice roll)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling), (Extended Mag, Appended Mag), (Subsistence, Enlightened Action), Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 93 (https://open.spotify.com/episode/0uYGSQqlyX1faCyATCDuno?si=IMSCRgTRQr-_THJdjxFMIQ) with @ImpetusAlways and @Saint_Kabr. (???  ???): First-choice PvE pick for add-clearing Minor spec enemies in end-game content. Breakneck is back, and has very solid stats, although it looks like we're never going to see the OG (and OP) Rampage/ Onslaught version again, As a precision frame AR, you don't need to worry about recoil direction, so if you're considering an alternative roll bumps to any combination of the stats should feel good in choosing barrel perk options. Any of the combat effect magazines add utility and then, in the first trait column, you can choose between Subsistence to keep your magazine topped off and Enlightened Action for better handling and reload speed. In the second column, Kinetic Tremors helps with crowd control around a target. Recommended MW: Handling, Stability or Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2026755633&perks=1482024992,1968497646,1820235745,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1968497646,1820235745,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1968497646,1820235745,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1561002382,1820235745,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1561002382,1820235745,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1561002382,1820235745,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1885400500,1820235745,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1885400500,1820235745,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1885400500,1820235745,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1968497646,3828510309,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1968497646,3828510309,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1968497646,3828510309,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1561002382,3828510309,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1561002382,3828510309,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1561002382,3828510309,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1885400500,3828510309,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1885400500,3828510309,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1885400500,3828510309,3891536761
+
