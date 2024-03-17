@@ -1,0 +1,298 @@
+@title:Reprised Prophecy and Trials of the Nine weapons
+@description:Refreshed Prophecy dungeon and Trials of the Nine weapons with Crossing Over origin trait
+
+// Adjudicator (PvE first-choice roll)
+// (Chambered Compensator, Smallbore, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Feeding Frenzy, Threat Detector, Perpetual Motion, Subsistence), Onslaught
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in general content. Adjudicator has decent stats and, with a precision frame, you don't need to worry too much about the published Recoil Direction. A little extra stability helps keep bullets on target, and a little extra range is nice, so Smallbore or Corkscrew Rifling can help out, or Chambered Compensator can take Recoil Direction to 100 as well as adding stability, You'll be emptying the mag a lot, so reload speed is the magazine perk choice - Alloy Mag, Tactical Mag and Flared Magwell all help. In the first trait column as the support park, Feeding Frenzy, Threat Detector, Perpetual Motion and Subsistence all speed up reload as well as bumping up other useful stats, or delay the need to reload, for you to keep uptime for Onslaught, in the second trait column, to boost RPM for additional damage to mow down adds. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom - Subsistence kills keeps feeding ammo into the bottom half of the mag to extend the time the extra damage is procced. Recommended MW: Stability or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=1013434963&perks=3661387068,1431678320,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,2779035018,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,2779035018,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,2779035018,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,2779035018,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=3661387068,1431678320,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,4071163871,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,4071163871,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,4071163871,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,4071163871,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=3661387068,1431678320,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,1428297954,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,1428297954,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,1428297954,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,1428297954,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1428297954,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,1428297954,95528736
+dimwishlist:item=1013434963&perks=3661387068,1431678320,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,1820235745,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,1820235745,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,1820235745,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,1820235745,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1820235745,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,1820235745,95528736
+
+// Adjudicator (PvE first-choice roll)
+// (Chambered Compensator, Smallbore, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Feeding Frenzy, Threat Detector, Perpetual Motion, Subsistence), Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Adjudicator has decent stats and, with a precision frame, you don't need to worry too much about the published Recoil Direction. A little extra stability helps keep bullets on target, and a little extra range is nice, so Smallbore or Corkscrew Rifling can help out, or Chambered Compensator can take Recoil Direction to 100 as well as adding stability, You'll be emptying the mag a lot, so reload speed is the magazine perk choice - Alloy Mag, Tactical Mag and Flared Magwell all help. In the first trait column as the support park, Feeding Frenzy, Threat Detector and Subsistence all speed up reload as well as bumping up other useful stats, or delay the need to reload. With Frenzy procced in the second perk column, you'll have a 15% damage boost, snappy handling and lightning fast reloads. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom - Subsistence kills keeps feeding ammo into the bottom half of the mag to extend the time the extra damage is procced. Recommended MW: Stability or Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, Pve-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1013434963&perks=3661387068,1431678320,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,2779035018,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,2779035018,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,2779035018,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,2779035018,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=3661387068,1431678320,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,4071163871,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,4071163871,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,4071163871,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,4071163871,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=3661387068,1431678320,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,1428297954,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,1428297954,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,1428297954,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,1428297954,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,1428297954,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1428297954,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,1428297954,95528736
+dimwishlist:item=1013434963&perks=3661387068,1431678320,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,1431678320,1820235745,95528736
+dimwishlist:item=1013434963&perks=4090651448,1431678320,1820235745,95528736
+dimwishlist:item=1013434963&perks=3661387068,106909392,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,106909392,1820235745,95528736
+dimwishlist:item=1013434963&perks=4090651448,106909392,1820235745,95528736
+dimwishlist:item=1013434963&perks=3661387068,3230963543,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1820235745,95528736
+dimwishlist:item=1013434963&perks=4090651448,3230963543,1820235745,95528736
+
+// Prosecutor (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), (High Caliber Rounds, Armor Piercing Rounds, Ricochet Rounds, Flared Magwell), Keep Away, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in general content. Prosecutor has decent stats by comparison to its peers and as it's a precision frame, you should find it fairly easy to control despite the 69 recoil direction. With that being the case, you can push out the range with the barrel perk, and any of the combat effect rounds as a mag perk will add a little more - High-Cal rounds in particular will help stun your minor adds. If you're looking at Voltshot in the second trait column. you're going to need s snappy reload, so Flared Magwell can work well too. Keep Away is the only perk in the first trait column to add to reload, although to benefit, you'll need to keep your engagement solidly in the mid-range. Voltshot is fun, but remember that the perk inherits the weapon's combatant damage scaling, so it won't be as effective at clearing add crowds as a Voltshot hand cannon. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3483591058&perks=3250034553,1561002382,3619207468,2173046394
+dimwishlist:item=3483591058&perks=1482024992,1561002382,3619207468,2173046394
+dimwishlist:item=3483591058&perks=3250034553,1968497646,3619207468,2173046394
+dimwishlist:item=3483591058&perks=1482024992,1968497646,3619207468,2173046394
+dimwishlist:item=3483591058&perks=3250034553,1885400500,3619207468,2173046394
+dimwishlist:item=3483591058&perks=1482024992,1885400500,3619207468,2173046394
+dimwishlist:item=3483591058&perks=3250034553,3230963543,3619207468,2173046394
+dimwishlist:item=3483591058&perks=1482024992,3230963543,3619207468,2173046394
+
+// Prosecutor (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore), (Flared Magwell, High Caliber Rounds, Armor Piercing Rounds, Ricochet Rounds), Dragonfly, Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in general content. Prosecutor has decent stats by comparison to its peers and as it's a precision frame, you should find it fairly easy to control despite the 69 recoil direction. With that being the case, you can push out the range with the barrel perk, and any of the combat effect rounds as a mag perk will add a little more - High-Cal rounds in particular will help stun your minor adds. But, if you're looking at Voltshot in the second trait column. you're going to need s snappy reload, so Flared Magwell is worth a serious look. If you're looking for all the explosions, Dragonfly and Voltshot is fun, but remember that both perks inherit the weapon's combatant damage scaling, so it won't be as effective at clearing add crowds as a Dragonfly/ Voltshot hand cannon. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: SReload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=3483591058&perks=3250034553,3230963543,2848615171,2173046394
+dimwishlist:item=3483591058&perks=1482024992,3230963543,2848615171,2173046394
+dimwishlist:item=3483591058&perks=3250034553,1561002382,2848615171,2173046394
+dimwishlist:item=3483591058&perks=1482024992,1561002382,2848615171,2173046394
+dimwishlist:item=3483591058&perks=3250034553,1968497646,2848615171,2173046394
+dimwishlist:item=3483591058&perks=1482024992,1968497646,2848615171,2173046394
+dimwishlist:item=3483591058&perks=3250034553,1885400500,2848615171,2173046394
+dimwishlist:item=3483591058&perks=1482024992,1885400500,2848615171,2173046394
+
+// Prosecutor (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Extended Barrel), (High Caliber Rounds, Armor Piercing Rounds, Ricochet Rounds), Rewind Rounds, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Prosecutor has decent stats by comparison to its peers and as it's a precision frame, you should find it fairly easy to control despite the 69 recoil direction. With that being the case, you can push out the range with the barrel perk, and any of the combat effect rounds as a mag perk will add a little more - High-Cal rounds in particular will help stun your minor adds. Rewind Rounds is a cunning plan to take advantage of the origin trait's bottom of the mag damage boost by continually refreshing the bottom half of the mag, while Frenzy adds a reliable 15% damage boost and maxes out your handling and reload speed. Recommended MW: Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3483591058&perks=3250034553,1561002382,3418782618,4104185692
+dimwishlist:item=3483591058&perks=1482024992,1561002382,3418782618,4104185692
+dimwishlist:item=3483591058&perks=1467527085,1561002382,3418782618,4104185692
+dimwishlist:item=3483591058&perks=3250034553,1968497646,3418782618,4104185692
+dimwishlist:item=3483591058&perks=1482024992,1968497646,3418782618,4104185692
+dimwishlist:item=3483591058&perks=1467527085,1968497646,3418782618,4104185692
+dimwishlist:item=3483591058&perks=3250034553,1885400500,3418782618,4104185692
+dimwishlist:item=3483591058&perks=1482024992,1885400500,3418782618,4104185692
+dimwishlist:item=3483591058&perks=1467527085,1885400500,3418782618,4104185692
+
+// Prosecutor (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Extended Barrel), (High Caliber Rounds, Armor Piercing Rounds, Ricochet Rounds), Rewind Rounds, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Prosecutor has decent stats by comparison to its peers and as it's a precision frame, you should find it fairly easy to control despite the 69 recoil direction. With that being the case, you can push out the range with the barrel perk, and any of the combat effect rounds as a mag perk will add a little more - High-Cal rounds in particular will help stun your minor adds. Rewind Rounds is a cunning plan to take advantage of the origin trait's bottom of the mag damage boost by continually refreshing the bottom half of the mag, while Golden Tricorn's second damage stack is easy to proc with the Arc 3.0 toolkit, for a very hefty 50% damage boost. Recommended MW: Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3483591058&perks=3250034553,1561002382,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1482024992,1561002382,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1467527085,1561002382,3418782618,2610012052
+dimwishlist:item=3483591058&perks=3250034553,1968497646,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1482024992,1968497646,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1467527085,1968497646,3418782618,2610012052
+dimwishlist:item=3483591058&perks=3250034553,1885400500,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1482024992,1885400500,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1467527085,1885400500,3418782618,2610012052
+
+// Judgment (PvE first-choice roll)
+// (Fastdraw HCS, Steadyhand HCS, Truesight HCS), (Tactical Mag, Flared Magwell, Alloy Mag), Headstone, (Timed Payload, Adrenaline Junkie)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content, particularly with a Stasis subclass. Judgment is back in a new Stasis form, although the stats are showing its age. On the plus side, you do still have Sight perks rather than barrels to choose from - Fastdraw, Steadyhand and Truesight all help to round out stats nicely. You can help reload speed with the mag perk - Tactical Mag is the top pick, but Flared Magwell or even Alloy Mag can work too. It's very unusual to see Headstone in the first trait perk slot, creating crystals to synergise with the Stasis fragments. Timed Payload looks interesting, although splitting impact and explosive damage might not play well with Headstone. Alternatively Adrenaline Junkie, when procced, will mean any Headstone crystals you create will share the same damage buffs when shattered. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2969415423&perks=1926090094,106909392,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090095,106909392,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090092,106909392,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090094,3230963543,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090095,3230963543,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090092,3230963543,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090094,1431678320,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090095,1431678320,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090092,1431678320,124408337,1954620775
+dimwishlist:item=2969415423&perks=1926090094,106909392,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090095,106909392,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090092,106909392,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090094,3230963543,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090095,3230963543,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090092,3230963543,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090094,1431678320,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090095,1431678320,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090092,1431678320,124408337,11612903
+
+// Relentless (PvE first-choice roll)
+// (Arrowhead Brake, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling), (Armor Piercing Rounds, High Caliber Rounds, Ricochet Rounds, Light Mag, Flared Magwell), Slice, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in general content, particularly with a Strand subclass. Relentless returns as a Strand pulse rifle with below average stats that reveal its Season 1 origin. The recoil direction of 65 is vertical, if a little loose, so you either look to improve it further or, if you can handle the recoil, push out the range with your barrel perk. Any of the combat effect mag perks add further range in addition to the bullet behaviour, or Light Mag and Flared Magwell improve reload speed. You don't need to run a strand subclass but if you do then Slice and Hatchling can sever enemies to reduce their damage output (very useful in a boss fight to help your fireteam), and generate Threadlings for additional damage to synergise with your fragments. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=435821041&perks=839105230,1561002382,923806249,831391274
+dimwishlist:item=435821041&perks=1482024992,1561002382,923806249,831391274
+dimwishlist:item=435821041&perks=4090651448,1561002382,923806249,831391274
+dimwishlist:item=435821041&perks=3250034553,1561002382,923806249,831391274
+dimwishlist:item=435821041&perks=839105230,1968497646,923806249,831391274
+dimwishlist:item=435821041&perks=1482024992,1968497646,923806249,831391274
+dimwishlist:item=435821041&perks=4090651448,1968497646,923806249,831391274
+dimwishlist:item=435821041&perks=3250034553,1968497646,923806249,831391274
+dimwishlist:item=435821041&perks=839105230,1885400500,923806249,831391274
+dimwishlist:item=435821041&perks=1482024992,1885400500,923806249,831391274
+dimwishlist:item=435821041&perks=4090651448,1885400500,923806249,831391274
+dimwishlist:item=435821041&perks=3250034553,1885400500,923806249,831391274
+dimwishlist:item=435821041&perks=839105230,679225683,923806249,831391274
+dimwishlist:item=435821041&perks=1482024992,679225683,923806249,831391274
+dimwishlist:item=435821041&perks=4090651448,679225683,923806249,831391274
+dimwishlist:item=435821041&perks=3250034553,679225683,923806249,831391274
+dimwishlist:item=435821041&perks=839105230,3230963543,923806249,831391274
+dimwishlist:item=435821041&perks=1482024992,3230963543,923806249,831391274
+dimwishlist:item=435821041&perks=4090651448,3230963543,923806249,831391274
+dimwishlist:item=435821041&perks=3250034553,3230963543,923806249,831391274
+
+// Relentless (PvE first-choice roll)
+// (Arrowhead Brake, Extended Barrel, Smallbore, Corkscrew Rifling, Hammer-Forged Rifling, Full Bore), (Armor Piercing Rounds, High Caliber Rounds, Ricochet Rounds), Slice, Feenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content, particularly with a Strand subclass. Relentless returns as a Strand pulse rifle with below average stats that reveal its Season 1 origin. The recoil direction of 65 is vertical, if a little loose, so you either look to improve it further or, if you can handle the recoil, push out the range with your barrel perk. Any of the combat effect mag perks add further range in addition to the bullet behaviour. You don't need to run a strand subclass but if you do then Slice as the first trait perk can sever enemies to reduce their damage output (very useful in a boss fight to help your fireteam), to synergise with Thread of Continuity. As the second trait perk, Frenzy provides a reliable passive 15% damage boost and maximises handling and reload speed stats. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Range, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=435821041&perks=839105230,1561002382,923806249,4104185692
+dimwishlist:item=435821041&perks=1467527085,1561002382,923806249,4104185692
+dimwishlist:item=435821041&perks=1482024992,1561002382,923806249,4104185692
+dimwishlist:item=435821041&perks=4090651448,1561002382,923806249,4104185692
+dimwishlist:item=435821041&perks=3250034553,1561002382,923806249,4104185692
+dimwishlist:item=435821041&perks=202670084,1561002382,923806249,4104185692
+dimwishlist:item=435821041&perks=839105230,1968497646,923806249,4104185692
+dimwishlist:item=435821041&perks=1467527085,1968497646,923806249,4104185692
+dimwishlist:item=435821041&perks=1482024992,1968497646,923806249,4104185692
+dimwishlist:item=435821041&perks=4090651448,1968497646,923806249,4104185692
+dimwishlist:item=435821041&perks=3250034553,1968497646,923806249,4104185692
+dimwishlist:item=435821041&perks=202670084,1968497646,923806249,4104185692
+dimwishlist:item=435821041&perks=839105230,1885400500,923806249,4104185692
+dimwishlist:item=435821041&perks=1467527085,1885400500,923806249,4104185692
+dimwishlist:item=435821041&perks=1482024992,1885400500,923806249,4104185692
+dimwishlist:item=435821041&perks=4090651448,1885400500,923806249,4104185692
+dimwishlist:item=435821041&perks=3250034553,1885400500,923806249,4104185692
+dimwishlist:item=435821041&perks=202670084,1885400500,923806249,4104185692
+
+// Darkest Before (PvE first-choice roll)
+// (Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Armor Piercing Rounds, High Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag), Heal Clip Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in general content, particularly with a Solar subclass. Darkest Before is back in a solar, rather than arc configuration, with the same strong stat package as before. The recoil direction of 64 is pretty controllable, but if you want to make it even more reliable, Arrowhead Brake will take it to 94. If you're happy with the recoil, there's no harm in pushing out the range with your barrel perk instead. Any of the combat effect mag perks add further range in addition to the bullet behaviour, or Light Mag and Flared Magwell improve reload speed. You can find the Heal Clip/ Incandescent trait perk combination on other pulse rifles but it is very nice to help keep your fireteam's health topped up, while you're incinerating crowds of minor spec adds while synergising with your solar subcalss fragments. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Range or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, M+KB, Controller
+dimwishlist:item=435821040&perks=839105230,1968497646,3017780555,4293542123
+dimwishlist:item=435821040&perks=3250034553,1968497646,3017780555,4293542123
+dimwishlist:item=435821040&perks=1482024992,1968497646,3017780555,4293542123
+dimwishlist:item=435821040&perks=4090651448,1968497646,3017780555,4293542123
+dimwishlist:item=435821040&perks=839105230,1561002382,3017780555,4293542123
+dimwishlist:item=435821040&perks=3250034553,1561002382,3017780555,4293542123
+dimwishlist:item=435821040&perks=1482024992,1561002382,3017780555,4293542123
+dimwishlist:item=435821040&perks=4090651448,1561002382,3017780555,4293542123
+dimwishlist:item=435821040&perks=839105230,1885400500,3017780555,4293542123
+dimwishlist:item=435821040&perks=3250034553,1885400500,3017780555,4293542123
+dimwishlist:item=435821040&perks=1482024992,1885400500,3017780555,4293542123
+dimwishlist:item=435821040&perks=4090651448,1885400500,3017780555,4293542123
+dimwishlist:item=435821040&perks=839105230,3230963543,3017780555,4293542123
+dimwishlist:item=435821040&perks=3250034553,3230963543,3017780555,4293542123
+dimwishlist:item=435821040&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=435821040&perks=4090651448,3230963543,3017780555,4293542123
+dimwishlist:item=435821040&perks=839105230,679225683,3017780555,4293542123
+dimwishlist:item=435821040&perks=3250034553,679225683,3017780555,4293542123
+dimwishlist:item=435821040&perks=1482024992,679225683,3017780555,4293542123
+dimwishlist:item=435821040&perks=4090651448,679225683,3017780555,4293542123
+
+// Darkest Before (PvE first-choice roll)
+// (Arrowhead Brake, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Armor Piercing Rounds, High Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag), (Heal Clip, Subsistence), One For All
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content, particularly with a Solar subclass. Darkest Before is back in a solar, rather than arc configuration, with the same strong stat package as before. The recoil direction of 64 is pretty controllable, but if you want to make it even more reliable, Arrowhead Brake will take it to 94. If you're happy with the recoil, there's no harm in pushing out the range with your barrel perk instead. Any of the combat effect mag perks add further range in addition to the bullet behaviour, or Light Mag and Flared Magwell improve reload speed. Looking at One For All as the second trait perk, you can use the 35% damage boost to mow through enemies while, as the first trait perk, you either Cure yourself and your fireteam with Heal Clip, or automatically top up your magazine with Subsistence. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Range or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=435821040&perks=839105230,1968497646,3017780555,4049631843
+dimwishlist:item=435821040&perks=3250034553,1968497646,3017780555,4049631843
+dimwishlist:item=435821040&perks=1482024992,1968497646,3017780555,4049631843
+dimwishlist:item=435821040&perks=4090651448,1968497646,3017780555,4049631843
+dimwishlist:item=435821040&perks=839105230,1561002382,3017780555,4049631843
+dimwishlist:item=435821040&perks=3250034553,1561002382,3017780555,4049631843
+dimwishlist:item=435821040&perks=1482024992,1561002382,3017780555,4049631843
+dimwishlist:item=435821040&perks=4090651448,1561002382,3017780555,4049631843
+dimwishlist:item=435821040&perks=839105230,1885400500,3017780555,4049631843
+dimwishlist:item=435821040&perks=3250034553,1885400500,3017780555,4049631843
+dimwishlist:item=435821040&perks=1482024992,1885400500,3017780555,4049631843
+dimwishlist:item=435821040&perks=4090651448,1885400500,3017780555,4049631843
+dimwishlist:item=435821040&perks=839105230,3230963543,3017780555,4049631843
+dimwishlist:item=435821040&perks=3250034553,3230963543,3017780555,4049631843
+dimwishlist:item=435821040&perks=1482024992,3230963543,3017780555,4049631843
+dimwishlist:item=435821040&perks=4090651448,3230963543,3017780555,4049631843
+dimwishlist:item=435821040&perks=839105230,679225683,3017780555,4049631843
+dimwishlist:item=435821040&perks=3250034553,679225683,3017780555,4049631843
+dimwishlist:item=435821040&perks=1482024992,679225683,3017780555,4049631843
+dimwishlist:item=435821040&perks=4090651448,679225683,3017780555,4049631843
+dimwishlist:item=435821040&perks=839105230,1968497646,1820235745,4049631843
+dimwishlist:item=435821040&perks=3250034553,1968497646,1820235745,4049631843
+dimwishlist:item=435821040&perks=1482024992,1968497646,1820235745,4049631843
+dimwishlist:item=435821040&perks=4090651448,1968497646,1820235745,4049631843
+dimwishlist:item=435821040&perks=839105230,1561002382,1820235745,4049631843
+dimwishlist:item=435821040&perks=3250034553,1561002382,1820235745,4049631843
+dimwishlist:item=435821040&perks=1482024992,1561002382,1820235745,4049631843
+dimwishlist:item=435821040&perks=4090651448,1561002382,1820235745,4049631843
+dimwishlist:item=435821040&perks=839105230,1885400500,1820235745,4049631843
+dimwishlist:item=435821040&perks=3250034553,1885400500,1820235745,4049631843
+dimwishlist:item=435821040&perks=1482024992,1885400500,1820235745,4049631843
+dimwishlist:item=435821040&perks=4090651448,1885400500,1820235745,4049631843
+dimwishlist:item=435821040&perks=839105230,3230963543,1820235745,4049631843
+dimwishlist:item=435821040&perks=3250034553,3230963543,1820235745,4049631843
+dimwishlist:item=435821040&perks=1482024992,3230963543,1820235745,4049631843
+dimwishlist:item=435821040&perks=4090651448,3230963543,1820235745,4049631843
+dimwishlist:item=435821040&perks=839105230,679225683,1820235745,4049631843
+dimwishlist:item=435821040&perks=3250034553,679225683,1820235745,4049631843
+dimwishlist:item=435821040&perks=1482024992,679225683,1820235745,4049631843
+dimwishlist:item=435821040&perks=4090651448,679225683,1820235745,4049631843
+
+// A Sudden Death (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Threat Detector, Envious Assassin), Trench Barrel
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Minor and Boss Spec enemies in end-game content. A Sudden Death returns as void, rather than arc shotgun with the rather poor stats you'd expect from a Year 1 gun. If you already have a burst damage void shotgun then feel free to pass as it's likely a fair bit better. If you are making do, then Barrel Shroud or Corkscrew Rifling pad out the Handling stats a little as the barrel perk, and Assault Mag speeds up shots, or Tactical Mag adds one to the mag as the magazine perk. You could take your choice of either Threat Detector's Handling and Reload buffs or Envious Assassin for an overflowed magazine to start an engagement with. Trench Barrel bumps up damage by 50% for three shots when procced - although you'll obviously need to be right up close to take advantage! The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4097972038&perks=1300023272,791862061,968510818,2360754333
+dimwishlist:item=4097972038&perks=4090651448,791862061,968510818,2360754333
+dimwishlist:item=4097972038&perks=1300023272,106909392,968510818,2360754333
+dimwishlist:item=4097972038&perks=4090651448,106909392,968510818,2360754333
+dimwishlist:item=4097972038&perks=1300023272,791862061,4071163871,2360754333
+dimwishlist:item=4097972038&perks=4090651448,791862061,4071163871,2360754333
+dimwishlist:item=4097972038&perks=1300023272,106909392,4071163871,2360754333
+dimwishlist:item=4097972038&perks=4090651448,106909392,4071163871,2360754333
+
+// A Sudden Death (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling, Full Choke), (Assault Mag, Tactical Mag), (Threat Detector, Envious Assassin), One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 97 from 13 March 2024 (https://open.spotify.com/episode/4Uy7pfo5Thjtt2MF4vZitv?si=8e3adcb68d234006) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE pick for burst damage against Minor and Boss Spec enemies in end-game content. A Sudden Death returns as void, rather than arc shotgun with the rather poor stats you'd expect from a Year 1 gun. If you already have a burst damage void shotgun then feel free to pass as it's likely a fair bit better. If you are making do, then Barrel Shroud or Corkscrew Rifling pad out the Handling stats a little, or Full Choke tightens the pellet spread as the barrel perk, and Assault Mag speeds up shots, or Tactical Mag adds one to the mag as the magazine perk. You could take your choice of either Threat Detector's Handling and Reload buffs or Envious Assassin for an overflowed magazine to start an engagement with. One-Two Punch doubles melee damage when procced for fast burst damage against majors and champions. The Crossing Over origin trait is useful all around for PvE, with bumps to range and handling in the top half of a magazine, and a small 3% damage boost at the bottom. Recommended MW: Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=4097972038&perks=1300023272,791862061,968510818,2679249093
+dimwishlist:item=4097972038&perks=4090651448,791862061,968510818,2679249093
+dimwishlist:item=4097972038&perks=1047830412,791862061,968510818,2679249093
+dimwishlist:item=4097972038&perks=1300023272,106909392,968510818,2679249093
+dimwishlist:item=4097972038&perks=4090651448,106909392,968510818,2679249093
+dimwishlist:item=4097972038&perks=1047830412,106909392,968510818,2679249093
+dimwishlist:item=4097972038&perks=1300023272,791862061,4071163871,2679249093
+dimwishlist:item=4097972038&perks=4090651448,791862061,4071163871,2679249093
+dimwishlist:item=4097972038&perks=1047830412,791862061,4071163871,2679249093
+dimwishlist:item=4097972038&perks=1300023272,106909392,4071163871,2679249093
+dimwishlist:item=4097972038&perks=4090651448,106909392,4071163871,2679249093
+dimwishlist:item=4097972038&perks=1047830412,106909392,4071163871,2679249093
+
+
