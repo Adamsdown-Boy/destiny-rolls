@@ -1,0 +1,664 @@
+@title:Reprised and new Playlist and Dares of Eternity weapons
+@description:Season 23 Nightfall, Trials and Iron Banner and selected Dares weapons
+
+// Retraced Path (PvE first-choice roll)
+// (Fluted Barrel, Polyconal Rifling, Smallbore, Hammer-Forged Rifling, Corkscrew Rifling), (Tactical Battery, Light Battery. Enhanced Battery), Shoot To Loot, (One For All, Golden Tricorn)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Retraced Path was our first legendary Trace Rifle, and has some very useful combinations. Use the barrel and battery to improve range, stability, reload speed or battery capacity. Shoot to Loot is really useful in raids and end-game content, particularly if you're a Warlock running Cenotaph Mask to mark targets. You have a range of second-column trait perk options - One For All is an easily triggered 35% damage boost, or Golden Tricorn provides a useful 15% with one stack or 50% with two (easily achieved with the solar toolkit!). The Hot Swap origin trait is always useful for a snappier gunfeel when you swap weapons. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=548958835&perks=1840239774,732557052,3700496672,4049631843
+dimwishlist:item=548958835&perks=1392496348,732557052,3700496672,4049631843
+dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,4049631843
+dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,4049631843
+dimwishlist:item=548958835&perks=4090651448,732557052,3700496672,4049631843
+dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,4049631843
+dimwishlist:item=548958835&perks=1392496348,2749775325,3700496672,4049631843
+dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,4049631843
+dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,4049631843
+dimwishlist:item=548958835&perks=4090651448,2749775325,3700496672,4049631843
+dimwishlist:item=548958835&perks=1840239774,2680121939,3700496672,4049631843
+dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,4049631843
+dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,4049631843
+dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,4049631843
+dimwishlist:item=548958835&perks=4090651448,2680121939,3700496672,4049631843
+dimwishlist:item=548958835&perks=1840239774,732557052,3700496672,2610012052
+dimwishlist:item=548958835&perks=1392496348,732557052,3700496672,2610012052
+dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,2610012052
+dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,2610012052
+dimwishlist:item=548958835&perks=4090651448,732557052,3700496672,2610012052
+dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,2610012052
+dimwishlist:item=548958835&perks=1392496348,2749775325,3700496672,2610012052
+dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,2610012052
+dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,2610012052
+dimwishlist:item=548958835&perks=4090651448,2749775325,3700496672,2610012052
+dimwishlist:item=548958835&perks=1840239774,2680121939,3700496672,2610012052
+dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,2610012052
+dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,2610012052
+dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,2610012052
+dimwishlist:item=548958835&perks=4090651448,2680121939,3700496672,2610012052
+
+// Retraced Path (PvE first-choice roll)
+// (Fluted Barrel, Polyconal Rifling, Smallbore, Hammer-Forged Rifling, Corkscrew Rifling), (Tactical Battery, Light Battery. Enhanced Battery), Shoot To Loot, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content, particularly with a solar subclass. Retraced Path was our first legendary Trace Rifle, and has some very useful combinations. Use the barrel and battery to improve range, stability, reload speed or battery capacity. Shoot to Loot is really useful in raids and end-game content, particularly if you're a Warlock running Cenotaph Mask to mark targets. Incandescent is great for dealing with groups of enemy adds, particularly with a solar subclass fragments and access to enhanced scorch and ignition. The Hot Swap origin trait is always useful for a snappier gunfeel when you swap weapons. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=548958835&perks=1840239774,732557052,3700496672,4293542123
+dimwishlist:item=548958835&perks=1392496348,732557052,3700496672,4293542123
+dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,4293542123
+dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,4293542123
+dimwishlist:item=548958835&perks=4090651448,732557052,3700496672,4293542123
+dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,4293542123
+dimwishlist:item=548958835&perks=1392496348,2749775325,3700496672,4293542123
+dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,4293542123
+dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,4293542123
+dimwishlist:item=548958835&perks=4090651448,2749775325,3700496672,4293542123
+dimwishlist:item=548958835&perks=1840239774,2680121939,3700496672,4293542123
+dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,4293542123
+dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,4293542123
+dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,4293542123
+dimwishlist:item=548958835&perks=4090651448,2680121939,3700496672,4293542123
+
+// Retraced Path (PvE first-choice roll)
+// (Fluted Barrel, Polyconal Rifling, Smallbore, Hammer-Forged Rifling, Corkscrew Rifling), (Ionized Battery, Enhanced Battery, Tactical Battery, Light Battery), Shoot To Loot, (One For All, Golden Tricorn)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content. Retraced Path was our first legendary Trace Rifle, and has some very useful combinations. Use the barrel and battery to improve range, stability, reload speed or battery capacity. Shoot to Loot is really useful in raids and end-game content, particularly if you're a Warlock running Cenotaph Mask to mark targets. For an all-purpose damage boost, Frenzy adds 15% damage just for being in combat, and boosts reload and handling to 100. You probably won't feel the Hot Swap origin trait with Frenzy, but it's always useful for a snappier gunfeel when you first swap weapons. Recommended MW: Reload Speed, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=548958835&perks=1840239774,1483536627,3700496672,4104185692
+dimwishlist:item=548958835&perks=1392496348,1483536627,3700496672,4104185692
+dimwishlist:item=548958835&perks=1482024992,1483536627,3700496672,4104185692
+dimwishlist:item=548958835&perks=3250034553,1483536627,3700496672,4104185692
+dimwishlist:item=548958835&perks=4090651448,1483536627,3700496672,4104185692
+dimwishlist:item=548958835&perks=1840239774,2680121939,3700496672,4104185692
+dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,4104185692
+dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,4104185692
+dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,4104185692
+dimwishlist:item=548958835&perks=4090651448,2680121939,3700496672,4104185692
+dimwishlist:item=548958835&perks=1840239774,732557052,3700496672,4104185692
+dimwishlist:item=548958835&perks=1392496348,732557052,3700496672,4104185692
+dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,4104185692
+dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,4104185692
+dimwishlist:item=548958835&perks=4090651448,732557052,3700496672,4104185692
+dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,4104185692
+dimwishlist:item=548958835&perks=1392496348,2749775325,3700496672,4104185692
+dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,4104185692
+dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,4104185692
+dimwishlist:item=548958835&perks=4090651448,2749775325,3700496672,4104185692
+
+// The Other Half (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, Surrounded
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for Major and Boss Spec enemies in end-game content. The Other Half returns with a few new perks, so if you haven't got one yet Dares of Eternity awaits! Boost the damage with the blade perk, and then Swordmaster's Guard adds a little bit of everything useful. While Eager Edge was the unique Dares perk back in the day, it's appeared elsewhere since so Relentless Strikes is probably the more sensible first column trait perk to combine with Surrounded in the second for 35% (41.8% when enhanced) bonus damage when in a crowd. The Hot Swap origin trait is always useful for boosting charge time and guarding stats when you first swap to it. Recommended MW: Impact, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=3257091167&perks=2827049491,269888150,1749209109,3708227201
+dimwishlist:item=3257091167&perks=938542991,269888150,1749209109,3708227201
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,3708227201
+dimwishlist:item=3257091167&perks=2827049491,269888150,2077819806,3708227201
+dimwishlist:item=3257091167&perks=938542991,269888150,2077819806,3708227201
+
+// The Slammer (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Chain Reaction, Cold Steel
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content, particularly with a Stasis subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Slammer is our first vortex frame Stasis sword, with the same stats as its peers. Boost the damage with the blade perk, and then Swordmaster's Guard adds a little bit of everything useful. For add clearing, the trait perk combination, that's unique to The Slammer, of Chain Reaction and Cold Steel spreads slow stacks (which you can improve with Stasis subclass fragments) with the add kill explosions and, when enhanced, Cold Steel also adds a useful 10 to the inventory stat for additional ammo reserves. You'll probably find more use for the Vanguard's Vindication origin trait, unless there's a champion mod around for swords that works with Stunning Recovery. Recommended MW: Impact, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2889501828&perks=3666208348,269888150,2396489472,3650930298
+dimwishlist:item=2889501828&perks=2827049491,269888150,2396489472,3650930298
+dimwishlist:item=2889501828&perks=938542991,269888150,2396489472,3650930298
+
+// The Slammer (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, Bair and Switch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for sustained damage to Boss Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Slammer is our first vortex frame Stasis sword, with the same stats as its peers. Boost the damage with the blade perk, and then Swordmaster's Guard adds a little bit of everything useful. For boss damage, the combination of Relentless Strikes and Bait and Switch has you covered, adding 30% damage for 10s. You'll probably find more use for the Vanguard's Vindication, unless there's a champion mod around for swords that works with Stunning Recovery. Recommended MW: Impact, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=2889501828&perks=3666208348,269888150,1749209109,3078487919
+dimwishlist:item=2889501828&perks=2827049491,269888150,1749209109,3078487919
+dimwishlist:item=2889501828&perks=938542991,269888150,1749209109,3078487919
+
+// The Slammer (Adept) (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Chain Reaction, Cold Steel
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add clearing Minor Spec enemies in end-game content, particularly with a Stasis subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Slammer is our first vortex frame Stasis sword, with the same stats as its peers. Boost the damage with the blade perk, and then Swordmaster's Guard adds a little bit of everything useful. For add clearing, the trait perk combination, that's unique to The Slammer, of Chain Reaction and Cold Steel spreads slow stacks (which you can improve with Stasis subclass fragments) with the add kill explosions and, when enhanced, Cold Steel also adds a useful 10 to the inventory stat for additional ammo reserves. You'll probably find more use for the Vanguard's Vindication origin trait, unless there's a champion mod around for swords that works with Stunning Recovery. Recommended MW: Impact, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1354727549&perks=3666208348,269888150,2396489472,3650930298
+dimwishlist:item=1354727549&perks=2827049491,269888150,2396489472,3650930298
+dimwishlist:item=1354727549&perks=938542991,269888150,2396489472,3650930298
+
+// The Slammer (Adept) (PvE first-choice roll)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, Bair and Switch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for sustained damage to Boss Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Slammer is our first vortex frame Stasis sword, with the same stats as its peers. Boost the damage with the blade perk, and then Swordmaster's Guard adds a little bit of everything useful. For boss damage, the combination of Relentless Strikes and Bait and Switch has you covered, adding 30% damage for 10s. You'll probably find more use for the Vanguard's Vindication, unless there's a champion mod around for swords that works with Stunning Recovery. Recommended MW: Impact, with a damage boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1354727549&perks=3666208348,269888150,1749209109,3078487919
+dimwishlist:item=1354727549&perks=2827049491,269888150,1749209109,3078487919
+dimwishlist:item=1354727549&perks=938542991,269888150,1749209109,3078487919
+
+// The Prophet (PvE first-choice roll)
+// (Fluted Barrel, Chambered Compensator, Polyconal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Steady Rounds), (Rapid Hit, Demolitionist, Keep Away), (Explosive Payload, Precision Instrument)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for Minor Spec add clearing in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Prophet is the first stasis aggressive frame scout rifle and while it has good stats it's not a very competitive subtype for PvE unfortunately. It's got a bit of a kick so, even on M+KB you might benefit from boosted stability with the barrel and mag perks. The trait perks are a bit underwhelming too - Rapid Hit is probably best in the first column, with Demolitionist and possibly Keep Away also useful for the reload boost. In the second column, Explosive Payload is, again, probably best or Precision Instrument can be okay if you're hitting your headshots. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead, or One Quiet Moment can be useful when in cover. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1968410628&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=1968410628&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=1968410628&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=1968410628&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=1968410628&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=1968410628&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=1968410628&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=1968410628&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=1968410628&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=1968410628&perks=1840239774,3177308360,247725512,3038247973
+dimwishlist:item=1968410628&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=1968410628&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=1968410628&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=1968410628&perks=1840239774,106909392,3523296417,3038247973
+dimwishlist:item=1968410628&perks=3661387068,106909392,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1392496348,106909392,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1482024992,106909392,3523296417,3038247973
+dimwishlist:item=1968410628&perks=4090651448,106909392,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1840239774,3230963543,3523296417,3038247973
+dimwishlist:item=1968410628&perks=3661387068,3230963543,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1392496348,3230963543,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3523296417,3038247973
+dimwishlist:item=1968410628&perks=4090651448,3230963543,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3523296417,3038247973
+dimwishlist:item=1968410628&perks=3661387068,3177308360,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1392496348,3177308360,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3523296417,3038247973
+dimwishlist:item=1968410628&perks=4090651448,3177308360,3523296417,3038247973
+dimwishlist:item=1968410628&perks=1840239774,106909392,3619207468,3038247973
+dimwishlist:item=1968410628&perks=3661387068,106909392,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1392496348,106909392,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1482024992,106909392,3619207468,3038247973
+dimwishlist:item=1968410628&perks=4090651448,106909392,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1840239774,3230963543,3619207468,3038247973
+dimwishlist:item=1968410628&perks=3661387068,3230963543,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1392496348,3230963543,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3619207468,3038247973
+dimwishlist:item=1968410628&perks=4090651448,3230963543,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3619207468,3038247973
+dimwishlist:item=1968410628&perks=3661387068,3177308360,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1392496348,3177308360,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3619207468,3038247973
+dimwishlist:item=1968410628&perks=4090651448,3177308360,3619207468,3038247973
+dimwishlist:item=1968410628&perks=1840239774,106909392,247725512,555281244
+dimwishlist:item=1968410628&perks=3661387068,106909392,247725512,555281244
+dimwishlist:item=1968410628&perks=1392496348,106909392,247725512,555281244
+dimwishlist:item=1968410628&perks=1482024992,106909392,247725512,555281244
+dimwishlist:item=1968410628&perks=4090651448,106909392,247725512,555281244
+dimwishlist:item=1968410628&perks=1840239774,3230963543,247725512,555281244
+dimwishlist:item=1968410628&perks=3661387068,3230963543,247725512,555281244
+dimwishlist:item=1968410628&perks=1392496348,3230963543,247725512,555281244
+dimwishlist:item=1968410628&perks=1482024992,3230963543,247725512,555281244
+dimwishlist:item=1968410628&perks=4090651448,3230963543,247725512,555281244
+dimwishlist:item=1968410628&perks=1840239774,3177308360,247725512,555281244
+dimwishlist:item=1968410628&perks=3661387068,3177308360,247725512,555281244
+dimwishlist:item=1968410628&perks=1392496348,3177308360,247725512,555281244
+dimwishlist:item=1968410628&perks=1482024992,3177308360,247725512,555281244
+dimwishlist:item=1968410628&perks=4090651448,3177308360,247725512,555281244
+dimwishlist:item=1968410628&perks=1840239774,106909392,3523296417,555281244
+dimwishlist:item=1968410628&perks=3661387068,106909392,3523296417,555281244
+dimwishlist:item=1968410628&perks=1392496348,106909392,3523296417,555281244
+dimwishlist:item=1968410628&perks=1482024992,106909392,3523296417,555281244
+dimwishlist:item=1968410628&perks=4090651448,106909392,3523296417,555281244
+dimwishlist:item=1968410628&perks=1840239774,3230963543,3523296417,555281244
+dimwishlist:item=1968410628&perks=3661387068,3230963543,3523296417,555281244
+dimwishlist:item=1968410628&perks=1392496348,3230963543,3523296417,555281244
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3523296417,555281244
+dimwishlist:item=1968410628&perks=4090651448,3230963543,3523296417,555281244
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3523296417,555281244
+dimwishlist:item=1968410628&perks=3661387068,3177308360,3523296417,555281244
+dimwishlist:item=1968410628&perks=1392496348,3177308360,3523296417,555281244
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3523296417,555281244
+dimwishlist:item=1968410628&perks=4090651448,3177308360,3523296417,555281244
+dimwishlist:item=1968410628&perks=1840239774,106909392,3619207468,555281244
+dimwishlist:item=1968410628&perks=3661387068,106909392,3619207468,555281244
+dimwishlist:item=1968410628&perks=1392496348,106909392,3619207468,555281244
+dimwishlist:item=1968410628&perks=1482024992,106909392,3619207468,555281244
+dimwishlist:item=1968410628&perks=4090651448,106909392,3619207468,555281244
+dimwishlist:item=1968410628&perks=1840239774,3230963543,3619207468,555281244
+dimwishlist:item=1968410628&perks=3661387068,3230963543,3619207468,555281244
+dimwishlist:item=1968410628&perks=1392496348,3230963543,3619207468,555281244
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=1968410628&perks=4090651448,3230963543,3619207468,555281244
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3619207468,555281244
+dimwishlist:item=1968410628&perks=3661387068,3177308360,3619207468,555281244
+dimwishlist:item=1968410628&perks=1392496348,3177308360,3619207468,555281244
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3619207468,555281244
+dimwishlist:item=1968410628&perks=4090651448,3177308360,3619207468,555281244
+
+// The Prophet (PvE first-choice roll)
+// (Fluted Barrel, Chambered Compensator, Polyconal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Steady Rounds), (Rapid Hit, Demolitionist, Keep Away), Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for Minor Spec add clearing in end-game content, particularly with a Stasis subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Prophet is the first stasis aggressive frame scout rifle and while it has good stats it's not a very competitive subtype for PvE unfortunately. It's got a bit of a kick so, even on M+KB you might benefit from boosted stability with the barrel and mag perks. The trait perks are a bit underwhelming too - Rapid Hit is probably best in the first column, with Demolitionist and possibly Keep Away also useful for the reload boost. In the second column, you should be able to create Stasis crystals easily enough, to synergise with the subclass fragments, but they'll be a long way away! Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead, or One Quiet Moment can be useful when in cover. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1968410628&perks=1840239774,106909392,247725512,124408337
+dimwishlist:item=1968410628&perks=3661387068,106909392,247725512,124408337
+dimwishlist:item=1968410628&perks=1392496348,106909392,247725512,124408337
+dimwishlist:item=1968410628&perks=1482024992,106909392,247725512,124408337
+dimwishlist:item=1968410628&perks=4090651448,106909392,247725512,124408337
+dimwishlist:item=1968410628&perks=1840239774,3230963543,247725512,124408337
+dimwishlist:item=1968410628&perks=3661387068,3230963543,247725512,124408337
+dimwishlist:item=1968410628&perks=1392496348,3230963543,247725512,124408337
+dimwishlist:item=1968410628&perks=1482024992,3230963543,247725512,124408337
+dimwishlist:item=1968410628&perks=4090651448,3230963543,247725512,124408337
+dimwishlist:item=1968410628&perks=1840239774,3177308360,247725512,124408337
+dimwishlist:item=1968410628&perks=3661387068,3177308360,247725512,124408337
+dimwishlist:item=1968410628&perks=1392496348,3177308360,247725512,124408337
+dimwishlist:item=1968410628&perks=1482024992,3177308360,247725512,124408337
+dimwishlist:item=1968410628&perks=4090651448,3177308360,247725512,124408337
+dimwishlist:item=1968410628&perks=1840239774,106909392,3523296417,124408337
+dimwishlist:item=1968410628&perks=3661387068,106909392,3523296417,124408337
+dimwishlist:item=1968410628&perks=1392496348,106909392,3523296417,124408337
+dimwishlist:item=1968410628&perks=1482024992,106909392,3523296417,124408337
+dimwishlist:item=1968410628&perks=4090651448,106909392,3523296417,124408337
+dimwishlist:item=1968410628&perks=1840239774,3230963543,3523296417,124408337
+dimwishlist:item=1968410628&perks=3661387068,3230963543,3523296417,124408337
+dimwishlist:item=1968410628&perks=1392496348,3230963543,3523296417,124408337
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3523296417,124408337
+dimwishlist:item=1968410628&perks=4090651448,3230963543,3523296417,124408337
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3523296417,124408337
+dimwishlist:item=1968410628&perks=3661387068,3177308360,3523296417,124408337
+dimwishlist:item=1968410628&perks=1392496348,3177308360,3523296417,124408337
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3523296417,124408337
+dimwishlist:item=1968410628&perks=4090651448,3177308360,3523296417,124408337
+dimwishlist:item=1968410628&perks=1840239774,106909392,3619207468,124408337
+dimwishlist:item=1968410628&perks=3661387068,106909392,3619207468,124408337
+dimwishlist:item=1968410628&perks=1392496348,106909392,3619207468,124408337
+dimwishlist:item=1968410628&perks=1482024992,106909392,3619207468,124408337
+dimwishlist:item=1968410628&perks=4090651448,106909392,3619207468,124408337
+dimwishlist:item=1968410628&perks=1840239774,3230963543,3619207468,124408337
+dimwishlist:item=1968410628&perks=3661387068,3230963543,3619207468,124408337
+dimwishlist:item=1968410628&perks=1392496348,3230963543,3619207468,124408337
+dimwishlist:item=1968410628&perks=1482024992,3230963543,3619207468,124408337
+dimwishlist:item=1968410628&perks=4090651448,3230963543,3619207468,124408337
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3619207468,124408337
+dimwishlist:item=1968410628&perks=3661387068,3177308360,3619207468,124408337
+dimwishlist:item=1968410628&perks=1392496348,3177308360,3619207468,124408337
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3619207468,124408337
+dimwishlist:item=1968410628&perks=4090651448,3177308360,3619207468,124408337
+
+// The Prophet (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Chambered Compensator, Polyconal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Steady Rounds), (Rapid Hit, Demolitionist, Keep Away), (Explosive Payload, Precision Instrument)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for Minor Spec add clearing in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Prophet is the first stasis aggressive frame scout rifle and while it has good stats it's not a very competitive subtype for PvE unfortunately. It's got a bit of a kick so, even on M+KB you might benefit from boosted stability with the barrel and mag perks. The trait perks are a bit underwhelming too - Rapid Hit is probably best in the first column, with Demolitionist and possibly Keep Away also useful for the reload boost. In the second column, Explosive Payload is, again, probably best or Precision Instrument can be okay if you're hitting your headshots. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead, or One Quiet Moment can be useful when in cover. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3019024381&perks=1840239774,106909392,247725512,3038247973
+dimwishlist:item=3019024381&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=3019024381&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=3019024381&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=3019024381&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=3019024381&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=3019024381&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=3019024381&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=3019024381&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=3019024381&perks=1840239774,3177308360,247725512,3038247973
+dimwishlist:item=3019024381&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=3019024381&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=3019024381&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=3019024381&perks=1840239774,106909392,3523296417,3038247973
+dimwishlist:item=3019024381&perks=3661387068,106909392,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1392496348,106909392,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1482024992,106909392,3523296417,3038247973
+dimwishlist:item=3019024381&perks=4090651448,106909392,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1840239774,3230963543,3523296417,3038247973
+dimwishlist:item=3019024381&perks=3661387068,3230963543,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1392496348,3230963543,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3523296417,3038247973
+dimwishlist:item=3019024381&perks=4090651448,3230963543,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3523296417,3038247973
+dimwishlist:item=3019024381&perks=3661387068,3177308360,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1392496348,3177308360,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3523296417,3038247973
+dimwishlist:item=3019024381&perks=4090651448,3177308360,3523296417,3038247973
+dimwishlist:item=3019024381&perks=1840239774,106909392,3619207468,3038247973
+dimwishlist:item=3019024381&perks=3661387068,106909392,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1392496348,106909392,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1482024992,106909392,3619207468,3038247973
+dimwishlist:item=3019024381&perks=4090651448,106909392,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1840239774,3230963543,3619207468,3038247973
+dimwishlist:item=3019024381&perks=3661387068,3230963543,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1392496348,3230963543,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3619207468,3038247973
+dimwishlist:item=3019024381&perks=4090651448,3230963543,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3619207468,3038247973
+dimwishlist:item=3019024381&perks=3661387068,3177308360,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1392496348,3177308360,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3619207468,3038247973
+dimwishlist:item=3019024381&perks=4090651448,3177308360,3619207468,3038247973
+dimwishlist:item=3019024381&perks=1840239774,106909392,247725512,555281244
+dimwishlist:item=3019024381&perks=3661387068,106909392,247725512,555281244
+dimwishlist:item=3019024381&perks=1392496348,106909392,247725512,555281244
+dimwishlist:item=3019024381&perks=1482024992,106909392,247725512,555281244
+dimwishlist:item=3019024381&perks=4090651448,106909392,247725512,555281244
+dimwishlist:item=3019024381&perks=1840239774,3230963543,247725512,555281244
+dimwishlist:item=3019024381&perks=3661387068,3230963543,247725512,555281244
+dimwishlist:item=3019024381&perks=1392496348,3230963543,247725512,555281244
+dimwishlist:item=3019024381&perks=1482024992,3230963543,247725512,555281244
+dimwishlist:item=3019024381&perks=4090651448,3230963543,247725512,555281244
+dimwishlist:item=3019024381&perks=1840239774,3177308360,247725512,555281244
+dimwishlist:item=3019024381&perks=3661387068,3177308360,247725512,555281244
+dimwishlist:item=3019024381&perks=1392496348,3177308360,247725512,555281244
+dimwishlist:item=3019024381&perks=1482024992,3177308360,247725512,555281244
+dimwishlist:item=3019024381&perks=4090651448,3177308360,247725512,555281244
+dimwishlist:item=3019024381&perks=1840239774,106909392,3523296417,555281244
+dimwishlist:item=3019024381&perks=3661387068,106909392,3523296417,555281244
+dimwishlist:item=3019024381&perks=1392496348,106909392,3523296417,555281244
+dimwishlist:item=3019024381&perks=1482024992,106909392,3523296417,555281244
+dimwishlist:item=3019024381&perks=4090651448,106909392,3523296417,555281244
+dimwishlist:item=3019024381&perks=1840239774,3230963543,3523296417,555281244
+dimwishlist:item=3019024381&perks=3661387068,3230963543,3523296417,555281244
+dimwishlist:item=3019024381&perks=1392496348,3230963543,3523296417,555281244
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3523296417,555281244
+dimwishlist:item=3019024381&perks=4090651448,3230963543,3523296417,555281244
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3523296417,555281244
+dimwishlist:item=3019024381&perks=3661387068,3177308360,3523296417,555281244
+dimwishlist:item=3019024381&perks=1392496348,3177308360,3523296417,555281244
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3523296417,555281244
+dimwishlist:item=3019024381&perks=4090651448,3177308360,3523296417,555281244
+dimwishlist:item=3019024381&perks=1840239774,106909392,3619207468,555281244
+dimwishlist:item=3019024381&perks=3661387068,106909392,3619207468,555281244
+dimwishlist:item=3019024381&perks=1392496348,106909392,3619207468,555281244
+dimwishlist:item=3019024381&perks=1482024992,106909392,3619207468,555281244
+dimwishlist:item=3019024381&perks=4090651448,106909392,3619207468,555281244
+dimwishlist:item=3019024381&perks=1840239774,3230963543,3619207468,555281244
+dimwishlist:item=3019024381&perks=3661387068,3230963543,3619207468,555281244
+dimwishlist:item=3019024381&perks=1392496348,3230963543,3619207468,555281244
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=3019024381&perks=4090651448,3230963543,3619207468,555281244
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3619207468,555281244
+dimwishlist:item=3019024381&perks=3661387068,3177308360,3619207468,555281244
+dimwishlist:item=3019024381&perks=1392496348,3177308360,3619207468,555281244
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3619207468,555281244
+dimwishlist:item=3019024381&perks=4090651448,3177308360,3619207468,555281244
+
+// The Prophet (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Chambered Compensator, Polyconal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Steady Rounds), (Rapid Hit, Demolitionist, Keep Away), Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for Minor Spec add clearing in end-game content, particularly with a Stasis subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Prophet is the first stasis aggressive frame scout rifle and while it has good stats it's not a very competitive subtype for PvE unfortunately. It's got a bit of a kick so, even on M+KB you might benefit from boosted stability with the barrel and mag perks. The trait perks are a bit underwhelming too - Rapid Hit is probably best in the first column, with Demolitionist and possibly Keep Away also useful for the reload boost. In the second column, you should be able to create Stasis crystals easily enough, to synergise with the subclass fragments, but they'll be a long way away! Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead, or One Quiet Moment can be useful when in cover. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3019024381&perks=1840239774,106909392,247725512,124408337
+dimwishlist:item=3019024381&perks=3661387068,106909392,247725512,124408337
+dimwishlist:item=3019024381&perks=1392496348,106909392,247725512,124408337
+dimwishlist:item=3019024381&perks=1482024992,106909392,247725512,124408337
+dimwishlist:item=3019024381&perks=4090651448,106909392,247725512,124408337
+dimwishlist:item=3019024381&perks=1840239774,3230963543,247725512,124408337
+dimwishlist:item=3019024381&perks=3661387068,3230963543,247725512,124408337
+dimwishlist:item=3019024381&perks=1392496348,3230963543,247725512,124408337
+dimwishlist:item=3019024381&perks=1482024992,3230963543,247725512,124408337
+dimwishlist:item=3019024381&perks=4090651448,3230963543,247725512,124408337
+dimwishlist:item=3019024381&perks=1840239774,3177308360,247725512,124408337
+dimwishlist:item=3019024381&perks=3661387068,3177308360,247725512,124408337
+dimwishlist:item=3019024381&perks=1392496348,3177308360,247725512,124408337
+dimwishlist:item=3019024381&perks=1482024992,3177308360,247725512,124408337
+dimwishlist:item=3019024381&perks=4090651448,3177308360,247725512,124408337
+dimwishlist:item=3019024381&perks=1840239774,106909392,3523296417,124408337
+dimwishlist:item=3019024381&perks=3661387068,106909392,3523296417,124408337
+dimwishlist:item=3019024381&perks=1392496348,106909392,3523296417,124408337
+dimwishlist:item=3019024381&perks=1482024992,106909392,3523296417,124408337
+dimwishlist:item=3019024381&perks=4090651448,106909392,3523296417,124408337
+dimwishlist:item=3019024381&perks=1840239774,3230963543,3523296417,124408337
+dimwishlist:item=3019024381&perks=3661387068,3230963543,3523296417,124408337
+dimwishlist:item=3019024381&perks=1392496348,3230963543,3523296417,124408337
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3523296417,124408337
+dimwishlist:item=3019024381&perks=4090651448,3230963543,3523296417,124408337
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3523296417,124408337
+dimwishlist:item=3019024381&perks=3661387068,3177308360,3523296417,124408337
+dimwishlist:item=3019024381&perks=1392496348,3177308360,3523296417,124408337
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3523296417,124408337
+dimwishlist:item=3019024381&perks=4090651448,3177308360,3523296417,124408337
+dimwishlist:item=3019024381&perks=1840239774,106909392,3619207468,124408337
+dimwishlist:item=3019024381&perks=3661387068,106909392,3619207468,124408337
+dimwishlist:item=3019024381&perks=1392496348,106909392,3619207468,124408337
+dimwishlist:item=3019024381&perks=1482024992,106909392,3619207468,124408337
+dimwishlist:item=3019024381&perks=4090651448,106909392,3619207468,124408337
+dimwishlist:item=3019024381&perks=1840239774,3230963543,3619207468,124408337
+dimwishlist:item=3019024381&perks=3661387068,3230963543,3619207468,124408337
+dimwishlist:item=3019024381&perks=1392496348,3230963543,3619207468,124408337
+dimwishlist:item=3019024381&perks=1482024992,3230963543,3619207468,124408337
+dimwishlist:item=3019024381&perks=4090651448,3230963543,3619207468,124408337
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3619207468,124408337
+dimwishlist:item=3019024381&perks=3661387068,3177308360,3619207468,124408337
+dimwishlist:item=3019024381&perks=1392496348,3177308360,3619207468,124408337
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3619207468,124408337
+dimwishlist:item=3019024381&perks=4090651448,3177308360,3619207468,124408337
+
+// The Summoner (PvE first-choice roll)
+// (Chambered Compensator, Arrohead Brake, Polyconal Rifling, Smallbore. Corkscrew Rifling), (Hammer-Forged Rifling, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Heal Clip, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in general content, particularly with a Solar subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Summoner returns with great stats and an interesting PvE perk pool. The recoil could do with a little taming, so you can use barrel and mag perks to help, or go with the combat effect magansine of your choice. For the trait perks, Heal Clip and Incandescent can both be improved by solar subclass fragments, but even without them will cure 120 health for you and 60 for Guardians around you for reloading after a kill, and Incandescent spreads scorch and ignites enemies. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead but honestly, Wild Card is much more fun. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1820994983&perks=3661387068,1561002382,3017780555,4293542123
+dimwishlist:item=1820994983&perks=839105230,1561002382,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1482024992,1561002382,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1392496348,1561002382,3017780555,4293542123
+dimwishlist:item=1820994983&perks=3661387068,1968497646,3017780555,4293542123
+dimwishlist:item=1820994983&perks=839105230,1968497646,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1482024992,1968497646,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1392496348,1968497646,3017780555,4293542123
+dimwishlist:item=1820994983&perks=3661387068,1885400500,3017780555,4293542123
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1482024992,1885400500,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1392496348,1885400500,3017780555,4293542123
+dimwishlist:item=1820994983&perks=3661387068,3230963543,3017780555,4293542123
+dimwishlist:item=1820994983&perks=839105230,3230963543,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=1820994983&perks=1392496348,3230963543,3017780555,4293542123
+
+// The Summoner (PvE first-choice roll)
+// (Chambered Compensator, Arrohead Brake, Polyconal Rifling, Smallbore. Corkscrew Rifling), (Hammer-Forged Rifling, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Heal Clip, Onslaught
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in general content, particularly with a Solar subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Summoner returns with great stats and an interesting PvE perk pool. The recoil could do with a little taming, so you can use barrel and mag perks to help, or go with the combat effect magansine of your choice. For the trait perks, Heal Clip can be improved by solar subclass fragments, but even without them will cure 120 health for you and 60 for Guardians around you for reloading after a kill. Then Onslaught is loads of fun - but you'll need as much stability as you can to control things at three stacks. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead but honestly, Wild Card is much more fun. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1820994983&perks=3661387068,1561002382,3017780555,95528736
+dimwishlist:item=1820994983&perks=839105230,1561002382,3017780555,95528736
+dimwishlist:item=1820994983&perks=1482024992,1561002382,3017780555,95528736
+dimwishlist:item=1820994983&perks=1392496348,1561002382,3017780555,95528736
+dimwishlist:item=1820994983&perks=3661387068,1968497646,3017780555,95528736
+dimwishlist:item=1820994983&perks=839105230,1968497646,3017780555,95528736
+dimwishlist:item=1820994983&perks=1482024992,1968497646,3017780555,95528736
+dimwishlist:item=1820994983&perks=1392496348,1968497646,3017780555,95528736
+dimwishlist:item=1820994983&perks=3661387068,1885400500,3017780555,95528736
+dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,95528736
+dimwishlist:item=1820994983&perks=1482024992,1885400500,3017780555,95528736
+dimwishlist:item=1820994983&perks=1392496348,1885400500,3017780555,95528736
+dimwishlist:item=1820994983&perks=3661387068,3230963543,3017780555,95528736
+dimwishlist:item=1820994983&perks=839105230,3230963543,3017780555,95528736
+dimwishlist:item=1820994983&perks=1482024992,3230963543,3017780555,95528736
+dimwishlist:item=1820994983&perks=1392496348,3230963543,3017780555,95528736
+
+// The Summoner (PvE first-choice roll)
+// (Chambered Compensator, Arrohead Brake, Polyconal Rifling, Smallbore. Corkscrew Rifling), (Hammer-Forged Rifling, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Perpetual Motion, (Onslaught, Golden Tricorn, Target Lock)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Summoner returns with great stats and an interesting PvE perk pool. The recoil could do with a little taming, so you can use barrel and mag perks to help, or go with the combat effect magansine of your choice. For the trait perks, Perpetual Motion is just a useful all-around boost to gunfeel to pair with a second column damage perk like Onslaught (the extra stability is hand to control the recoil at three stacks), Golden Tricorn or Target Lock. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead but honestly, Wild Card is much more fun. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1820994983&perks=3661387068,1561002382,1428297954,95528736
+dimwishlist:item=1820994983&perks=839105230,1561002382,1428297954,95528736
+dimwishlist:item=1820994983&perks=1482024992,1561002382,1428297954,95528736
+dimwishlist:item=1820994983&perks=1392496348,1561002382,1428297954,95528736
+dimwishlist:item=1820994983&perks=3661387068,1968497646,1428297954,95528736
+dimwishlist:item=1820994983&perks=839105230,1968497646,1428297954,95528736
+dimwishlist:item=1820994983&perks=1482024992,1968497646,1428297954,95528736
+dimwishlist:item=1820994983&perks=1392496348,1968497646,1428297954,95528736
+dimwishlist:item=1820994983&perks=3661387068,1885400500,1428297954,95528736
+dimwishlist:item=1820994983&perks=839105230,1885400500,1428297954,95528736
+dimwishlist:item=1820994983&perks=1482024992,1885400500,1428297954,95528736
+dimwishlist:item=1820994983&perks=1392496348,1885400500,1428297954,95528736
+dimwishlist:item=1820994983&perks=3661387068,3230963543,1428297954,95528736
+dimwishlist:item=1820994983&perks=839105230,3230963543,1428297954,95528736
+dimwishlist:item=1820994983&perks=1482024992,3230963543,1428297954,95528736
+dimwishlist:item=1820994983&perks=1392496348,3230963543,1428297954,95528736
+dimwishlist:item=1820994983&perks=3661387068,1561002382,1428297954,2610012052
+dimwishlist:item=1820994983&perks=839105230,1561002382,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1482024992,1561002382,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1392496348,1561002382,1428297954,2610012052
+dimwishlist:item=1820994983&perks=3661387068,1968497646,1428297954,2610012052
+dimwishlist:item=1820994983&perks=839105230,1968497646,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1482024992,1968497646,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1392496348,1968497646,1428297954,2610012052
+dimwishlist:item=1820994983&perks=3661387068,1885400500,1428297954,2610012052
+dimwishlist:item=1820994983&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1482024992,1885400500,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1392496348,1885400500,1428297954,2610012052
+dimwishlist:item=1820994983&perks=3661387068,3230963543,1428297954,2610012052
+dimwishlist:item=1820994983&perks=839105230,3230963543,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1482024992,3230963543,1428297954,2610012052
+dimwishlist:item=1820994983&perks=1392496348,3230963543,1428297954,2610012052
+dimwishlist:item=1820994983&perks=3661387068,1561002382,1428297954,365154968
+dimwishlist:item=1820994983&perks=839105230,1561002382,1428297954,365154968
+dimwishlist:item=1820994983&perks=1482024992,1561002382,1428297954,365154968
+dimwishlist:item=1820994983&perks=1392496348,1561002382,1428297954,365154968
+dimwishlist:item=1820994983&perks=3661387068,1968497646,1428297954,365154968
+dimwishlist:item=1820994983&perks=839105230,1968497646,1428297954,365154968
+dimwishlist:item=1820994983&perks=1482024992,1968497646,1428297954,365154968
+dimwishlist:item=1820994983&perks=1392496348,1968497646,1428297954,365154968
+dimwishlist:item=1820994983&perks=3661387068,1885400500,1428297954,365154968
+dimwishlist:item=1820994983&perks=839105230,1885400500,1428297954,365154968
+dimwishlist:item=1820994983&perks=1482024992,1885400500,1428297954,365154968
+dimwishlist:item=1820994983&perks=1392496348,1885400500,1428297954,365154968
+dimwishlist:item=1820994983&perks=3661387068,3230963543,1428297954,365154968
+dimwishlist:item=1820994983&perks=839105230,3230963543,1428297954,365154968
+dimwishlist:item=1820994983&perks=1482024992,3230963543,1428297954,365154968
+dimwishlist:item=1820994983&perks=1392496348,3230963543,1428297954,365154968
+
+// The Summoner (Adept) (PvE first-choice roll)
+// (Chambered Compensator, Arrohead Brake, Polyconal Rifling, Smallbore. Corkscrew Rifling), (Hammer-Forged Rifling, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Heal Clip, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in general content, particularly with a Solar subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Summoner returns with great stats and an interesting PvE perk pool. The recoil could do with a little taming, so you can use barrel and mag perks to help, or go with the combat effect magansine of your choice. For the trait perks, Heal Clip and Incandescent can both be improved by solar subclass fragments, but even without them will cure 120 health for you and 60 for Guardians around you for reloading after a kill, and Incandescent spreads scorch and ignites enemies. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead but honestly, Wild Card is much more fun. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1292594730&perks=3661387068,1561002382,3017780555,4293542123
+dimwishlist:item=1292594730&perks=839105230,1561002382,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1482024992,1561002382,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1392496348,1561002382,3017780555,4293542123
+dimwishlist:item=1292594730&perks=3661387068,1968497646,3017780555,4293542123
+dimwishlist:item=1292594730&perks=839105230,1968497646,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1482024992,1968497646,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1392496348,1968497646,3017780555,4293542123
+dimwishlist:item=1292594730&perks=3661387068,1885400500,3017780555,4293542123
+dimwishlist:item=1292594730&perks=839105230,1885400500,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1482024992,1885400500,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1392496348,1885400500,3017780555,4293542123
+dimwishlist:item=1292594730&perks=3661387068,3230963543,3017780555,4293542123
+dimwishlist:item=1292594730&perks=839105230,3230963543,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=1292594730&perks=1392496348,3230963543,3017780555,4293542123
+
+// The Summoner (Adept) (PvE first-choice roll)
+// (Chambered Compensator, Arrohead Brake, Polyconal Rifling, Smallbore. Corkscrew Rifling), (Hammer-Forged Rifling, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Heal Clip, Onslaught
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in general content, particularly with a Solar subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Summoner returns with great stats and an interesting PvE perk pool. The recoil could do with a little taming, so you can use barrel and mag perks to help, or go with the combat effect magansine of your choice. For the trait perks, Heal Clip can be improved by solar subclass fragments, but even without them will cure 120 health for you and 60 for Guardians around you for reloading after a kill. Then Onslaught is loads of fun - but you'll need as much stability as you can to control things at three stacks. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead but honestly, Wild Card is much more fun. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1292594730&perks=3661387068,1561002382,3017780555,95528736
+dimwishlist:item=1292594730&perks=839105230,1561002382,3017780555,95528736
+dimwishlist:item=1292594730&perks=1482024992,1561002382,3017780555,95528736
+dimwishlist:item=1292594730&perks=1392496348,1561002382,3017780555,95528736
+dimwishlist:item=1292594730&perks=3661387068,1968497646,3017780555,95528736
+dimwishlist:item=1292594730&perks=839105230,1968497646,3017780555,95528736
+dimwishlist:item=1292594730&perks=1482024992,1968497646,3017780555,95528736
+dimwishlist:item=1292594730&perks=1392496348,1968497646,3017780555,95528736
+dimwishlist:item=1292594730&perks=3661387068,1885400500,3017780555,95528736
+dimwishlist:item=1292594730&perks=839105230,1885400500,3017780555,95528736
+dimwishlist:item=1292594730&perks=1482024992,1885400500,3017780555,95528736
+dimwishlist:item=1292594730&perks=1392496348,1885400500,3017780555,95528736
+dimwishlist:item=1292594730&perks=3661387068,3230963543,3017780555,95528736
+dimwishlist:item=1292594730&perks=839105230,3230963543,3017780555,95528736
+dimwishlist:item=1292594730&perks=1482024992,3230963543,3017780555,95528736
+dimwishlist:item=1292594730&perks=1392496348,3230963543,3017780555,95528736
+
+// The Summoner (Adept) (PvE first-choice roll)
+// (Chambered Compensator, Arrohead Brake, Polyconal Rifling, Smallbore. Corkscrew Rifling), (Hammer-Forged Rifling, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Perpetual Motion, (Onslaught, Golden Tricorn, Target Lock)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Summoner returns with great stats and an interesting PvE perk pool. The recoil could do with a little taming, so you can use barrel and mag perks to help, or go with the combat effect magansine of your choice. For the trait perks, Perpetual Motion is just a useful all-around boost to gunfeel to pair with a second column damage perk like Onslaught (the extra stability is hand to control the recoil at three stacks), Golden Tricorn or Target Lock. Of the origin traits, Alacrity is best if you're running solo, in endgame activities to help clutch when everyone else is dead but honestly, Wild Card is much more fun. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1292594730&perks=3661387068,1561002382,1428297954,95528736
+dimwishlist:item=1292594730&perks=839105230,1561002382,1428297954,95528736
+dimwishlist:item=1292594730&perks=1482024992,1561002382,1428297954,95528736
+dimwishlist:item=1292594730&perks=1392496348,1561002382,1428297954,95528736
+dimwishlist:item=1292594730&perks=3661387068,1968497646,1428297954,95528736
+dimwishlist:item=1292594730&perks=839105230,1968497646,1428297954,95528736
+dimwishlist:item=1292594730&perks=1482024992,1968497646,1428297954,95528736
+dimwishlist:item=1292594730&perks=1392496348,1968497646,1428297954,95528736
+dimwishlist:item=1292594730&perks=3661387068,1885400500,1428297954,95528736
+dimwishlist:item=1292594730&perks=839105230,1885400500,1428297954,95528736
+dimwishlist:item=1292594730&perks=1482024992,1885400500,1428297954,95528736
+dimwishlist:item=1292594730&perks=1392496348,1885400500,1428297954,95528736
+dimwishlist:item=1292594730&perks=3661387068,3230963543,1428297954,95528736
+dimwishlist:item=1292594730&perks=839105230,3230963543,1428297954,95528736
+dimwishlist:item=1292594730&perks=1482024992,3230963543,1428297954,95528736
+dimwishlist:item=1292594730&perks=1392496348,3230963543,1428297954,95528736
+dimwishlist:item=1292594730&perks=3661387068,1561002382,1428297954,2610012052
+dimwishlist:item=1292594730&perks=839105230,1561002382,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1482024992,1561002382,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1392496348,1561002382,1428297954,2610012052
+dimwishlist:item=1292594730&perks=3661387068,1968497646,1428297954,2610012052
+dimwishlist:item=1292594730&perks=839105230,1968497646,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1482024992,1968497646,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1392496348,1968497646,1428297954,2610012052
+dimwishlist:item=1292594730&perks=3661387068,1885400500,1428297954,2610012052
+dimwishlist:item=1292594730&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1482024992,1885400500,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1392496348,1885400500,1428297954,2610012052
+dimwishlist:item=1292594730&perks=3661387068,3230963543,1428297954,2610012052
+dimwishlist:item=1292594730&perks=839105230,3230963543,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1482024992,3230963543,1428297954,2610012052
+dimwishlist:item=1292594730&perks=1392496348,3230963543,1428297954,2610012052
+dimwishlist:item=1292594730&perks=3661387068,1561002382,1428297954,365154968
+dimwishlist:item=1292594730&perks=839105230,1561002382,1428297954,365154968
+dimwishlist:item=1292594730&perks=1482024992,1561002382,1428297954,365154968
+dimwishlist:item=1292594730&perks=1392496348,1561002382,1428297954,365154968
+dimwishlist:item=1292594730&perks=3661387068,1968497646,1428297954,365154968
+dimwishlist:item=1292594730&perks=839105230,1968497646,1428297954,365154968
+dimwishlist:item=1292594730&perks=1482024992,1968497646,1428297954,365154968
+dimwishlist:item=1292594730&perks=1392496348,1968497646,1428297954,365154968
+dimwishlist:item=1292594730&perks=3661387068,1885400500,1428297954,365154968
+dimwishlist:item=1292594730&perks=839105230,1885400500,1428297954,365154968
+dimwishlist:item=1292594730&perks=1482024992,1885400500,1428297954,365154968
+dimwishlist:item=1292594730&perks=1392496348,1885400500,1428297954,365154968
+dimwishlist:item=1292594730&perks=3661387068,3230963543,1428297954,365154968
+dimwishlist:item=1292594730&perks=839105230,3230963543,1428297954,365154968
+dimwishlist:item=1292594730&perks=1482024992,3230963543,1428297954,365154968
+dimwishlist:item=1292594730&perks=1392496348,3230963543,1428297954,365154968
+
+// Multimach CCX (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Steady Rounds), Attrition Orbs, Under Over), (Frenzy, Kinetic Tremors)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. MultiMach CCX has the lightweight frame's +20 Mobility and +6.25% speed bonus, and the stats are great - it's just a shame there's nothing here to get excited about for PvE. If you must (really?), look for stability to help with keeping shots on target and then - are you absolutely insisting still? - Attrition Orbs or Under Over in the first trait perk column, and Frenzy with Kinetic Tremors in a distant second. Of the origin traits, Field Tested provides solid escalating gunfeel boosts for landing hits, as long as you don't die. Recommended MW: Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=3211624072&perks=1392496348,106909392,1870851715,4104185692
+dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,4104185692
+dimwishlist:item=3211624072&perks=3661387068,106909392,1870851715,4104185692
+dimwishlist:item=3211624072&perks=4090651448,106909392,1870851715,4104185692
+dimwishlist:item=3211624072&perks=1392496348,3230963543,1870851715,4104185692
+dimwishlist:item=3211624072&perks=1482024992,3230963543,1870851715,4104185692
+dimwishlist:item=3211624072&perks=3661387068,3230963543,1870851715,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,4104185692
+dimwishlist:item=3211624072&perks=1392496348,3177308360,1870851715,4104185692
+dimwishlist:item=3211624072&perks=1482024992,3177308360,1870851715,4104185692
+dimwishlist:item=3211624072&perks=3661387068,3177308360,1870851715,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3177308360,1870851715,4104185692
+dimwishlist:item=3211624072&perks=1392496348,106909392,243981275,4104185692
+dimwishlist:item=3211624072&perks=1482024992,106909392,243981275,4104185692
+dimwishlist:item=3211624072&perks=3661387068,106909392,243981275,4104185692
+dimwishlist:item=3211624072&perks=4090651448,106909392,243981275,4104185692
+dimwishlist:item=3211624072&perks=1392496348,3230963543,243981275,4104185692
+dimwishlist:item=3211624072&perks=1482024992,3230963543,243981275,4104185692
+dimwishlist:item=3211624072&perks=3661387068,3230963543,243981275,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,4104185692
+dimwishlist:item=3211624072&perks=1392496348,3177308360,243981275,4104185692
+dimwishlist:item=3211624072&perks=1482024992,3177308360,243981275,4104185692
+dimwishlist:item=3211624072&perks=3661387068,3177308360,243981275,4104185692
+dimwishlist:item=3211624072&perks=4090651448,3177308360,243981275,4104185692
+dimwishlist:item=3211624072&perks=1392496348,106909392,1870851715,3891536761
+dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,3891536761
+dimwishlist:item=3211624072&perks=3661387068,106909392,1870851715,3891536761
+dimwishlist:item=3211624072&perks=4090651448,106909392,1870851715,3891536761
+dimwishlist:item=3211624072&perks=1392496348,3230963543,1870851715,3891536761
+dimwishlist:item=3211624072&perks=1482024992,3230963543,1870851715,3891536761
+dimwishlist:item=3211624072&perks=3661387068,3230963543,1870851715,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,1870851715,3891536761
+dimwishlist:item=3211624072&perks=1392496348,3177308360,1870851715,3891536761
+dimwishlist:item=3211624072&perks=1482024992,3177308360,1870851715,3891536761
+dimwishlist:item=3211624072&perks=3661387068,3177308360,1870851715,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3177308360,1870851715,3891536761
+dimwishlist:item=3211624072&perks=1392496348,106909392,243981275,3891536761
+dimwishlist:item=3211624072&perks=1482024992,106909392,243981275,3891536761
+dimwishlist:item=3211624072&perks=3661387068,106909392,243981275,3891536761
+dimwishlist:item=3211624072&perks=4090651448,106909392,243981275,3891536761
+dimwishlist:item=3211624072&perks=1392496348,3230963543,243981275,3891536761
+dimwishlist:item=3211624072&perks=1482024992,3230963543,243981275,3891536761
+dimwishlist:item=3211624072&perks=3661387068,3230963543,243981275,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3230963543,243981275,3891536761
+dimwishlist:item=3211624072&perks=1392496348,3177308360,243981275,3891536761
+dimwishlist:item=3211624072&perks=1482024992,3177308360,243981275,3891536761
+dimwishlist:item=3211624072&perks=3661387068,3177308360,243981275,3891536761
+dimwishlist:item=3211624072&perks=4090651448,3177308360,243981275,3891536761
+
+// Tusk of the Boar (PvE first-choice roll)
+// (Quickl Launch, Smart Drift Hard Launch, Linear Compensator), High-Velocity Round, (Slideways, Grave Robber, Enlighted Action), Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Tusk of the Boar is the first wave frame grenade launcher, with decent stats in comparison to its energy-slot peers. Generally, you'll want to increase velocity and add a bit of handling if you can with the barrel and mag perks. Use the first trait perk to bypass or improve the reload - Slideways is best, but Grave Robber or Enlightened Action can work too. Chain Reaction is the go-to second trait perk for additional explosive AoE damage on kills, to speed add clearing. Of the origin traits, Field Tested provides solid escalating gunfeel boosts for landing hits, as long as you don't die. Recommended MW: Velocity or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472
+dimwishlist:item=1218113510&perks=3798852852,2822142346,2039302152,2396489472
+dimwishlist:item=1218113510&perks=981914802,2822142346,2039302152,2396489472
+dimwishlist:item=1218113510&perks=1441682018,2822142346,2039302152,2396489472
+dimwishlist:item=1218113510&perks=3525010810,2822142346,1631667848,2396489472
+dimwishlist:item=1218113510&perks=3798852852,2822142346,1631667848,2396489472
+dimwishlist:item=1218113510&perks=981914802,2822142346,1631667848,2396489472
+dimwishlist:item=1218113510&perks=1441682018,2822142346,1631667848,2396489472
+dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,2396489472
+dimwishlist:item=1218113510&perks=3798852852,2822142346,3828510309,2396489472
+dimwishlist:item=1218113510&perks=981914802,2822142346,3828510309,2396489472
+dimwishlist:item=1218113510&perks=1441682018,2822142346,3828510309,2396489472
+
+// Tusk of the Boar (PvE first-choice roll)
+// (Quickl Launch, Smart Drift Hard Launch, Linear Compensator), High-Velocity Round, Slice, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 101 from 17 April 2024 (https://open.spotify.com/episode/1CJQuqM89I7hWA9KYvjCop?si=arncPmZ1SseRp6Atuf1ilw) with @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with Hunters on Strand subclasses. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Tusk of the Boar is the first wave frame grenade launcher, with decent stats in comparison to its energy-slot peers. Generally, you'll want to increase velocity and add a bit of handling if you can with the barrel and mag perks. In the first trait column Slice is very useful against harder-hitting enemies to sever them and reduce their damage output - it's easiest to proc with the Hunter dodge and can be improved with Thread of Continuity. Chain Reaction is the go-to second trait perk for additional explosive AoE damage on kills, to speed add clearing and spread sever over a wider area. Of the origin traits, Field Tested provides solid escalating gunfeel boosts for landing hits, as long as you don't die. Recommended MW: Velocity or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472
+dimwishlist:item=1218113510&perks=3798852852,2822142346,923806249,2396489472
+dimwishlist:item=1218113510&perks=981914802,2822142346,923806249,2396489472
+dimwishlist:item=1218113510&perks=1441682018,2822142346,923806249,2396489472
+
