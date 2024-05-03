@@ -59,7 +59,7 @@ dimwishlist:item=205225492&perks=1392496348,3177308360,3700496672,3038247973
 dimwishlist:item=205225492&perks=4090651448,3177308360,3700496672,3038247973
 
 // Hung Jury SR4 (Shiny) (PvE backup roll)
-// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Rewind Rounds, Rapid Hit, Enlightened Action), (Explosive Payload, One For All, esperate Measures, Firefly)
+// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Rewind Rounds, Rapid Hit, Enlightened Action), (Explosive Payload, One For All, Desperate Measures, Firefly)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. Backup PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. This is the fourth iteration of Hung Jury SR4 (Shiny), and it's as much of a stat monster as ever. Being a precision frame, you don't really need to worry about recoil direction, and as a scout rifle you don't need to think about range either - use the barrel and mag perks to boost handling or stability, and maybe a little reload speed instead. Only if you don't already have a well-rolled endgame scout rifle, you have a good choice of reload and damage trait perks in the first and second columns to choose from. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Handling or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=205225492&perks=1840239774,106909392,3418782618,3038247973
 dimwishlist:item=205225492&perks=1392496348,106909392,3418782618,3038247973
@@ -241,7 +241,7 @@ dimwishlist:item=1453235079&perks=1392496348,3177308360,3700496672,3038247973
 dimwishlist:item=1453235079&perks=4090651448,3177308360,3700496672,3038247973
 
 // Hung Jury SR4 (PvE backup roll)
-// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Rewind Rounds, Rapid Hit, Enlightened Action), (Explosive Payload, One For All, esperate Measures, Firefly)
+// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Appended Mag), (Rewind Rounds, Rapid Hit, Enlightened Action), (Explosive Payload, One For All, Desperate Measures, Firefly)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. Backup PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. This is the fourth iteration of Hung Jury SR4, and it's as much of a stat monster as ever. Being a precision frame, you don't really need to worry about recoil direction, and as a scout rifle you don't need to think about range either - use the barrel and mag perks to boost handling or stability, and maybe a little reload speed instead. Only if you don't already have a well-rolled endgame scout rifle, you have a good choice of reload and damage trait perks in the first and second columns to choose from. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Handling or Stability, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=1453235079&perks=1840239774,106909392,3418782618,3038247973
 dimwishlist:item=1453235079&perks=1392496348,106909392,3418782618,3038247973
@@ -877,10 +877,10 @@ dimwishlist:item=570866107&perks=1840239774,106909392,1523832109,469285294
 dimwishlist:item=570866107&perks=1392496348,106909392,1523832109,469285294
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,469285294
 dimwishlist:item=570866107&perks=1392496348,2420895100,1523832109,469285294
-dimwishlist:item=570866107&perks=1840239774,106909392,1523832109,1431678320
-dimwishlist:item=570866107&perks=1392496348,106909392,1523832109,1431678320
-dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1431678320
-dimwishlist:item=570866107&perks=1392496348,2420895100,1523832109,1431678320
+dimwishlist:item=570866107&perks=1840239774,106909392,1523832109,1546637391
+dimwishlist:item=570866107&perks=1392496348,106909392,1523832109,1546637391
+dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1546637391
+dimwishlist:item=570866107&perks=1392496348,2420895100,1523832109,1546637391
 dimwishlist:item=570866107&perks=1840239774,106909392,1523832109,1771339417
 dimwishlist:item=570866107&perks=1392496348,106909392,1523832109,1771339417
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417
@@ -890,16 +890,18 @@ dimwishlist:item=570866107&perks=1392496348,106909392,1523832109,2896038713
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,2896038713
 dimwishlist:item=570866107&perks=1392496348,2420895100,1523832109,2896038713
 
+1546637391
+
 // Succession (PvE first-choice roll)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for burst damege against Major and Boss Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. First thing to say is if you already have the DSC raid version, you're already covered. If not, this is an excellent kinetic frame sniper rifle with pretty much best in-subfamily stats. The best rolls are more for burst damage against majors and stunned Champions. Fluted Barrel adds handling and stability, or go all-in to stability with Polygonal Rifling. You can use Tactical Mag to add stability and reload speed, or maximise your magazine size with Extended Mag and Backup Mag. For Majors, Reconstruction will double your magazine size (so you can get up to 10 in the mag with Extended Mag and a Backup Mag mod), and Recombination give you an Izanagi-lite first shot with up to 100% bonus damage, Firing Line provides a passive 20% bonus crit damage in a fireteam or, if you're running solo, Focused Fury can proc after three crit his, so your remaining shots have 20% bonus damage, or Vorpal Weapon is just a straight 15% damage against Majors and Bosses. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Stability, with a damage boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,469285294
 dimwishlist:item=3612338554&perks=1392496348,106909392,1523832109,469285294
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
 dimwishlist:item=3612338554&perks=1392496348,2420895100,1523832109,469285294
-dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1431678320
-dimwishlist:item=3612338554&perks=1392496348,106909392,1523832109,1431678320
-dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1431678320
-dimwishlist:item=3612338554&perks=1392496348,2420895100,1523832109,1431678320
+dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1546637391
+dimwishlist:item=3612338554&perks=1392496348,106909392,1523832109,1546637391
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391
+dimwishlist:item=3612338554&perks=1392496348,2420895100,1523832109,1546637391
 dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1771339417
 dimwishlist:item=3612338554&perks=1392496348,106909392,1523832109,1771339417
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
@@ -910,7 +912,7 @@ dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,2896038713
 dimwishlist:item=3612338554&perks=1392496348,2420895100,1523832109,2896038713
 
 // Edge Transit (Shiny) (PvE first-choice roll)
-// (Quick Launch, Smart Drift Control), Sticky Grenades, Cascaade Point, Deconstruct
+// (Quick Launch, Smart Drift Control), Sticky Grenades, Cascade Point, Deconstruct
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for sustained damage against Boss Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The meme-machine is back and, although the stats are average, it's a beast for boss damage. Go for a barrel perk that boosts Velocity and Handling and then, unusually, Sticky Grenades is the top mag perk for this particularl roll (bear with us). Either Field Prep or Cascade Point and Deconstruct together make this a great DPS choice. Either just take advantage of two extra reserve ammo and faster reload and handling from Field Prep, or proc Cascade Point with a couple of sniper crits and to proc the higher fire rate, while Deconstruct with Sticky Grenades pulls bonus ammo out of the air on every second, rather than every third, hit because of the delay before the explosive damage. This extends your effective magazine size to 11, but only using 6 ammo. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Velocity or Handling, with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=2228325504&perks=3525010810,3373736292,3751912585,3993379141
 dimwishlist:item=2228325504&perks=3798852852,3373736292,3751912585,3993379141
@@ -933,7 +935,7 @@ dimwishlist:item=2228325504&perks=3525010810,1771897777,2869569095,3194351027
 dimwishlist:item=2228325504&perks=3798852852,1771897777,2869569095,3194351027
 
 // Edge Transit (PvE first-choice roll)
-// (Quick Launch, Smart Drift Control), Sticky Grenades, Cascaade Point, Deconstruct
+// (Quick Launch, Smart Drift Control), Sticky Grenades, Cascade Point, Deconstruct
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for sustained damage against Boss Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The meme-machine is back and, although the stats are average, it's a beast for boss damage. Go for a barrel perk that boosts Velocity and Handling and then, unusually, Sticky Grenades is the top mag perk for this particularl roll (bear with us). Either Field Prep or Cascade Point and Deconstruct together make this a great DPS choice. Either just take advantage of two extra reserve ammo and faster reload and handling from Field Prep, or proc Cascade Point with a couple of sniper crits and to proc the higher fire rate, while Deconstruct with Sticky Grenades pulls bonus ammo out of the air on every second, rather than every third, hit because of the delay before the explosive damage. This extends your effective magazine size to 11, but only using 6 ammo. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Velocity or Handling, with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=568611923&perks=3525010810,3373736292,3751912585,3993379141
 dimwishlist:item=568611923&perks=3798852852,3373736292,3751912585,3993379141
@@ -987,6 +989,7 @@ dimwishlist:item=243425374&perks=2827049491,269888150,1749209109,3078487919
 dimwishlist:item=243425374&perks=938542991,269888150,1749209109,3078487919
 
 // Falling Guillotine (Shiny) (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge), Swordmaster's Guard, (Frenzy, Chain Reaction), (Surrounded, Sword Logic, Desperate Measures)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Falling Guillotine is a decent, legendary choice for add clearing, particularly now that the BRAVE version can roll with two damage perks. As usual, look for a blade perk that boosts reserves, and then Swordmaster's Guard as the guard perk for a bit of everything useful. In the first trait column, Frenzy provides the largest passive damage bonus of +15%, or there's the option of Chain Reaction (even if the combatant damage scaling means it's not as much fun as other weapon types). In the second trait column, Surrounded provides +35% damage (+42% when enhanced) when procced - which should be a lot if you're clearing adds, but there's also Desperate Measures and Sword Logic, which boost damage on kills, so you can chew through beefier adds too. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Impact, with a damage boosting (Major, Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=243425374&perks=1261178282,269888150,4104185692,3708227201
 dimwishlist:item=243425374&perks=436053704,269888150,4104185692,3708227201
@@ -1002,6 +1005,7 @@ dimwishlist:item=243425374&perks=1261178282,269888150,2396489472,2109543898
 dimwishlist:item=243425374&perks=436053704,269888150,2396489472,2109543898
 
 // Falling Guillotine (Shiny) (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge), Swordmaster's Guard, (Repulsor Brace, Chain Reaction), Destabilizing Rounds
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with a void subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Falling Guillotine is a decent, legendary choice for add clearing, particularly now that the BRAVE version can roll with two damage perks. As usual, look for a blade perk that boosts reserves, and then Swordmaster's Guard as the guard perk for a bit of everything useful. In the trait columns, for void fragment synergy, Repulsor Brace and Destabilizing Rounds grants any easy void overshield - handy for CQC work - on kills of adds made volatile on kills. If you're not so worried about the overshield, Chain Reaction can help spread Destabilizing Rounds volatility further through the death explosions in ad-dense areas. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Impact, with a damage boosting (Major, Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=243425374&perks=1261178282,269888150,776531651,2048641572
 dimwishlist:item=243425374&perks=436053704,269888150,776531651,2048641572
@@ -1040,6 +1044,7 @@ dimwishlist:item=1815105249&perks=2827049491,269888150,1749209109,3078487919
 dimwishlist:item=1815105249&perks=938542991,269888150,1749209109,3078487919
 
 // Falling Guillotine (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge), Swordmaster's Guard, (Frenzy, Chain Reaction), (Surrounded, Sword Logic, Desperate Measures)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Falling Guillotine is a decent, legendary choice for add clearing, particularly now that the BRAVE version can roll with two damage perks. As usual, look for a blade perk that boosts reserves, and then Swordmaster's Guard as the guard perk for a bit of everything useful. In the first trait column, Frenzy provides the largest passive damage bonus of +15%, or there's the option of Chain Reaction (even if the combatant damage scaling means it's not as much fun as other weapon types). In the second trait column, Surrounded provides +35% damage (+42% when enhanced) when procced - which should be a lot if you're clearing adds, but there's also Desperate Measures and Sword Logic, which boost damage on kills, so you can chew through beefier adds too. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Impact, with a damage boosting (Major, Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=1815105249&perks=1261178282,269888150,4104185692,3708227201
 dimwishlist:item=1815105249&perks=436053704,269888150,4104185692,3708227201
@@ -1055,6 +1060,7 @@ dimwishlist:item=1815105249&perks=1261178282,269888150,2396489472,2109543898
 dimwishlist:item=1815105249&perks=436053704,269888150,2396489472,2109543898
 
 // Falling Guillotine (PvE first-choice roll)
+// (Enduring Blade, Hungry Edge), Swordmaster's Guard, (Repulsor Brace, Chain Reaction), Destabilizing Rounds
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 102 from 23 April 2024 (https://open.spotify.com/episode/5kuhrmYKBDwvLtzZJQmxiK?si=7f73118bec6743ac) with @Saint_Kabr, @ImpetusAlways and @CourtProjects. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content, particularly with a void subclass. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Falling Guillotine is a decent, legendary choice for add clearing, particularly now that the BRAVE version can roll with two damage perks. As usual, look for a blade perk that boosts reserves, and then Swordmaster's Guard as the guard perk for a bit of everything useful. In the trait columns, for void fragment synergy, Repulsor Brace and Destabilizing Rounds grants any easy void overshield - handy for CQC work - on kills of adds made volatile on kills. If you're not so worried about the overshield, Chain Reaction can help spread Destabilizing Rounds volatility further through the death explosions in ad-dense areas. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Impact, with a damage boosting (Major, Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=1815105249&perks=1261178282,269888150,776531651,2048641572
 dimwishlist:item=1815105249&perks=436053704,269888150,776531651,2048641572
