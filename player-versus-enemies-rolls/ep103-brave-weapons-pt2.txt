@@ -333,9 +333,6 @@ dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
 dimwishlist:item=568611921&perks=3798852852,2822142346,3523296417,4049631843
 dimwishlist:item=568611921&perks=3809316345,2822142346,3523296417,4049631843
 
-1546637391
-
-
 // The Mountaintop (PvE first-choice roll)
 // Hard Launch, (Implosion Rounds, Spike Grenades), Auto-Loading Holster, (Recombination, Frenzy, Vorpal Weapon)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for sustained Boss Spec damage as part of a Bait and Switch weapon rotation in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Mountaintop has great stats and, even though it's now a "Micro-missile" frame, still retains the +20 Mobility and +6.25% movement speed bonuses of a lightweight. To maximise damage, you need to minimise the Blast Radius - there's only one barrel perk that does that, so Hard Launch is the only god-roll option. In the magazine park slot, Implosion Rounds gives the highest damage but Spike Grenades is so close as to make little practical difference. For the trait perks, Auto-Loading Holster just works - reloading in your pocket while you're doing dame with your heavy. To boost damage, Recombination provides a huge 100% bonus damage on your first shot when fully procced, but if you're firing eight or more shots over the course of a longer damage phase, you'll get more bonus damage from Frenzy or Vorpal Weapon, which also needs no setting up. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling (if you get Blast Radius DO NOT MASTERWORK!), with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
@@ -403,15 +400,14 @@ dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,1546637391
 // The Mountaintop (PvE first-choice roll)
 // (Hard Launch, Quick Launch, Smart Drift Control, Countermass), (Implosion Rounds, Spike Grenades), Demolitionist, Adrenaline Junkie
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for bulkier add clearing in end-game content, particularly for grenade builds. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Mountaintop has great stats and, even though it's now a "Micro-missile" frame, still retains the +20 Mobility and +6.25% movement speed bonuses of a lightweight. You're looking for Hard Launch ideally, but any barrel that boosts handling still works, to speed up swap speed. In the magazine park slot, Implosion Rounds gives the highest damage but Spike Grenades is so close as to make little practical difference. For the trait perks, to support a grenade build, the trait combination of Demolitionist (together with the origin trait on light subclasses) and Adrenaline Junkie is available for a very decent +33% damage boost when fully procced. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling (if you get Blast Radius DO NOT MASTERWORK!), with a damage boosting (Minor, Major or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
-dimwishlist:item=568611922&perks=3525010810,981914802,3523296417,11612903
-dimwishlist:item=568611922&perks=3798852852,981914802,3523296417,11612903
-dimwishlist:item=568611922&perks=3809316345,981914802,3523296417,11612903
-dimwishlist:item=568611922&perks=3525010810,3492396210,3523296417,11612903
-dimwishlist:item=568611922&perks=3798852852,3492396210,3523296417,11612903
-dimwishlist:item=568611922&perks=3809316345,3492396210,3523296417,11612903
+dimwishlist:item=568611922&perks=981914802,3301904089,3523296417,11612903
 dimwishlist:item=568611922&perks=3525010810,3301904089,3523296417,11612903
 dimwishlist:item=568611922&perks=3798852852,3301904089,3523296417,11612903
 dimwishlist:item=568611922&perks=3809316345,3301904089,3523296417,11612903
+dimwishlist:item=568611922&perks=981914802,3492396210,3523296417,11612903
+dimwishlist:item=568611922&perks=3525010810,3492396210,3523296417,11612903
+dimwishlist:item=568611922&perks=3798852852,3492396210,3523296417,11612903
+dimwishlist:item=568611922&perks=3809316345,3492396210,3523296417,11612903
 
 // Hammerhead (PvE first-choice roll)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag, Extended Mag), Rewind Rounds, (Killing Tally, Surrounded)
