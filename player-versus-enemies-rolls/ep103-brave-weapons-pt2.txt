@@ -55,7 +55,7 @@ dimwishlist:item=2763843898&perks=1840239774,3177308360,3038247973,2109543898
 
 // Midnight Coup (PvE first-choice roll)
 // (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Shoot to Loot, Kinetic Tremors
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. For end-game content, where running out to pick up ammo could be a death sentence, Shoot to Loot can be a godsend, particularly when paired with Kinetic Tremors, which will pick up blocks in it's AoE radius when procced, and is strong on hand cannons against majors and minors anyway. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. For end-game content, where running out to pick up ammo could be a death sentence, Shoot to Loot can be a godsend, particularly when paired with Kinetic Tremors, which will pick up blocks and orbs in it's AoE radius when procced, and is strong on hand cannons against majors and minors anyway. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, M+KB, Controller
 dimwishlist:item=2763843898&perks=839105230,106909392,3700496672,3891536761
 dimwishlist:item=2763843898&perks=1482024992,106909392,3700496672,3891536761
 dimwishlist:item=2763843898&perks=1392496348,106909392,3700496672,3891536761
@@ -71,7 +71,7 @@ dimwishlist:item=2763843898&perks=1840239774,3177308360,3700496672,3891536761
 
 // Midnight Coup (PvE backup roll)
 // (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Shoot to Loot, (One for All, Frenzy, Desperate Measures)
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. Backup PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. For end-game content, where running out to pick up ammo could be a death sentence, Shoot to Loot can be a godsend. In the second trait column, One for All, Frenzy or Desperate Measures can all be procced without a weapon kill to help deal with minor adds. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. Backup PvE pick for add-clearing Minor Spec enemies in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. Midnight Coup's stats are a bit of a mixed bag in what's a very competitive subfamily. The recoil pulls a little to the right so you can sort that with Arrowhead Brake, or boost the stability with the barrel perk. For end-game content, where running out to pick up ammo or orbs could be a death sentence, Shoot to Loot can be a godsend. In the second trait column, One for All, Frenzy or Desperate Measures can all be procced without a weapon kill to help deal with minor adds. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Stability or Handling, with a damage boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, M+KB, Controller
 dimwishlist:item=2763843898&perks=839105230,106909392,3700496672,4049631843
 dimwishlist:item=2763843898&perks=1482024992,106909392,3700496672,4049631843
 dimwishlist:item=2763843898&perks=1392496348,106909392,3700496672,4049631843
@@ -333,6 +333,9 @@ dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843
 dimwishlist:item=568611921&perks=3798852852,2822142346,3523296417,4049631843
 dimwishlist:item=568611921&perks=3809316345,2822142346,3523296417,4049631843
 
+1546637391
+
+
 // The Mountaintop (PvE first-choice roll)
 // Hard Launch, (Implosion Rounds, Spike Grenades), Auto-Loading Holster, (Recombination, Frenzy, Vorpal Weapon)
 //notes:Inspired by @DestinyMBP Podcast vs Enemies episode 103 from 7 May 2024 (https://open.spotify.com/episode/4QnASNlI9E2wArvSynJjVp?si=eb7298468d714686) with @CourtProjects, @Saint_Kabr and @ImpetusAlways. First-choice PvE pick for sustained Boss Spec damage as part of a Bait and Switch weapon rotation in end-game content. If you find a roll you like, keep for the ability to enhance perks when Final Shape arrives. The Mountaintop has great stats and, even though it's now a "Micro-missile" frame, still retains the +20 Mobility and +6.25% movement speed bonuses of a lightweight. To maximise damage, you need to minimise the Blast Radius - there's only one barrel perk that does that, so Hard Launch is the only god-roll option. In the magazine park slot, Implosion Rounds gives the highest damage but Spike Grenades is so close as to make little practical difference. For the trait perks, Auto-Loading Holster just works - reloading in your pocket while you're doing dame with your heavy. To boost damage, Recombination provides a huge 100% bonus damage on your first shot when fully procced, but if you're firing eight or more shots over the course of a longer damage phase, you'll get more bonus damage from Frenzy or Vorpal Weapon, which also needs no setting up. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade or melee energy according to your subclass type. Recommended MW: Handling (if you get Blast Radius DO NOT MASTERWORK!), with a damage boosting (Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-BossSpec, PvE-EndGame, PvE-God, M+KB, Controller
@@ -340,8 +343,8 @@ dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,4104185692
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,4104185692
-dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,3301904089
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,1546637391
 
 // The Mountaintop (PvE backup roll)
 // (Quick Launch, Smart Drift Control, Countermass), (Implosion Rounds, Spike Grenades), Auto-Loading Holster, (Recombination, Frenzy, Vorpal Weapon)
@@ -358,12 +361,12 @@ dimwishlist:item=568611922&perks=3809316345,3492396210,3300816228,4104185692
 dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
 dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,4104185692
 dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,4104185692
-dimwishlist:item=568611922&perks=3525010810,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=3798852852,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=3809316345,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,3301904089
-dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,3301904089
-dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,3301904089
+dimwishlist:item=568611922&perks=3525010810,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=3798852852,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=3809316345,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,1546637391
 
 // The Mountaintop (PvE first-choice roll)
 // Hard Launch, (Implosion Rounds, Spike Grenades), (Overflow, Ambitious Assassin), (Recombination, Frenzy, Vorpal Weapon)
@@ -372,8 +375,8 @@ dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,4104185692
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,4104185692
-dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,3301904089
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,1546637391
 
 // The Mountaintop (PvE backup roll)
 // (Quick Launch, Smart Drift Control, Countermass), (Implosion Rounds, Spike Grenades), (Overflow, Ambitious Assassin), (Recombination, Frenzy, Vorpal Weapon)
@@ -390,12 +393,12 @@ dimwishlist:item=568611922&perks=3809316345,3492396210,3300816228,4104185692
 dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,4104185692
 dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,4104185692
 dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,4104185692
-dimwishlist:item=568611922&perks=3525010810,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=3798852852,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=3809316345,3492396210,3300816228,3301904089
-dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,3301904089
-dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,3301904089
-dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,3301904089
+dimwishlist:item=568611922&perks=3525010810,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=3798852852,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=3809316345,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3809316345,3301904089,3300816228,1546637391
 
 // The Mountaintop (PvE first-choice roll)
 // (Hard Launch, Quick Launch, Smart Drift Control, Countermass), (Implosion Rounds, Spike Grenades), Demolitionist, Adrenaline Junkie
@@ -457,6 +460,3 @@ dimwishlist:item=1896309757&perks=4090651448,1087426260,2048641572,3708227201
 dimwishlist:item=1896309757&perks=1840239774,2420895100,2048641572,3708227201
 dimwishlist:item=1896309757&perks=839105230,2420895100,2048641572,3708227201
 dimwishlist:item=1896309757&perks=4090651448,2420895100,2048641572,3708227201
-
-
-
