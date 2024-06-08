@@ -1,0 +1,194 @@
+@title:Final Shape expansion and Episode 1: Echos (Season 24) new and reprised weapons
+@notes:Ordering within each section is primary/special/power weapon then alphabetic
+
+
+@title:New exotics
+//Choir Of One
+
+// Khvostov 7G-0X
+dimwishlist:item=4129629253
+
+// Red Death Reformed
+dimwishlist:item=427899681
+
+// Ergo Sum
+//notes: Literal Latin translation: "Therefore I am".
+dimwishlist:item=1681583613
+
+// Euphony
+//notes: Merriam-Webster definition "pleasing or sweet sound; especially: the acoustic effect produced by words so formed or combined as to please the ear."
+
+// Still Hunt
+dimwishlist:item=2905188646
+
+// Microcosm
+//notes: Merriam-Webster definition "a little world; especially: the human race or human nature seen as an epitome of the world or the universe"
+dimwishlist:item=4207066264
+
+
+@title:Pale Heart weapons
+// Bold Endings
+dimwishlist:item=496728945
+
+// No Hesitation
+dimwishlist:item=1801007332
+
+// Embraced Identity
+dimwishlist:item=2821677368
+
+// Someday
+dimwishlist:item=3232203524
+
+// The Call
+dimwishlist:item=3947966653
+
+// False Idols
+dimwishlist:item=4207120603
+
+// Pro Memoria
+//notes: Literal Latin translation: "for memory". Merriam-Webster definition "a formal note embodying the written record of a diplomatic discussion"
+dimwishlist:item=3605603507
+
+
+@title:Season of Dawn reprised weapons
+// Breachlight
+dimwishlist:item=2328923181
+
+// Patron of Lost Causes
+dimwishlist:item=2249996761
+
+// Martyr's Retribution
+dimwishlist:item=2584830733
+
+// Perfect Paradox
+dimwishlist:item=1298672084
+
+// Line in the Sand
+dimwishlist:item=2450049485
+
+
+@title:Salvations Edge raid weapons
+// Imminence
+
+// Non-Denouement
+//notes: French. Merriam-Webster definition for denouement "the final outcome of the main dramatic complication in a literary work or complex sequence of events", so maybe translates as "no final outcome", 
+
+// Nullify
+
+// Critical Anomaly
+
+// Forthcoming Deviance
+
+// Summun Bonun
+//note: Latin expression. Merriam-Webster definition "the supreme good from which all others are derived".
+
+
+@title:World drop new and reprised weapons
+// Adverse Possession IX
+dimwishlist:item=1890332078
+
+// Controlling Vision
+dimwishlist:item=423343404
+
+// Maahes HC4
+//notes:Maahes was an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes#:~:text=The%20name%20of%20Maahes%20begins,Knife%2C%20and%20The%20Scarlet%20Lord.).
+dimwishlist:item=1246793994
+
+// Yarovit MG4
+//notes:Yarovit is is a Polabian (collective name for tribes located on the Elbe river in Eastern Germany in 6th Century) god of war
+dimwishlist:item=3959549446
+
+// The Domino
+dimwishlist:item=2800870005
+
+// Truthteller
+dimwishlist:item=447296102
+
+// Suspectum-4fr
+//notes:Latin adjective translates as "suspected/mistrusted" or "of doubtful character" or "suspicious". Also the specific name for the Gila monster (Heloderma suspectum)
+dimwishlist:item=3615421669
+
+
+@title: Playlist weapons
+// Origin Story
+// Strikes
+dimwishlist:item=2826850739
+
+// Better Devils
+// Crucible
+dimwishlist:item=4152016199
+
+// Hush
+// Gambit
+dimwishlist:item=3962575203
+
+// Shadow Price
+// Nightfalls
+dimwishlist:item=2322926844
+
+// Shadow Price (Adept)
+// Nightfalls
+dimwishlist:item=1056103557
+
+// Scintillation
+// Nightfalls
+dimwishlist:item=2591257541
+
+// Scintillation (Adept)
+// Nightfalls
+dimwishlist:item=1492522228
+
+// Aisha's Care
+// Trials
+dimwishlist:item=3969379530
+
+// Aisha's Care (Adept)
+// Trials
+dimwishlist:item=3332125295
+
+// Crimil's Dagger
+// Iron Banner
+dimwishlist:item=198854575
+
+// The Riposte
+// Competitive
+dimwishlist:item=3754408118
+
+
+@title:Episode: Echos weapons
+// Corrasion
+dimwishlist:item=2126178511
+
+// Sightline Survey
+dimwishlist:item=2350330520
+
+// Timeworn Wayfarer
+dimwishlist:item=1058098236
+
+// Veiled Threat
+dimwishlist:item=3685470415
+
+// Aberrant Action
+dimwishlist:item=2198166292
+
+// Chronophage
+//notes:Derived from  Greek words "chronos" and "phage", literally meaning "time-eater". Used colloquially in French to mean "time-consuming".
+dimwishlist:item=1886840007
+
+// Lost Signal
+dimwishlist:item=1197771438
+
+// Faith-Keeper
+dimwishlist:item=4195186942
+
+// Ill Omen
+dimwishlist:item=3794274730
+
+// Speleologist
+// Someone involved in the scientific study or exploration of caves.
+dimwishlist:item=412251536
+
+
+@title:Episode: Echos ritual weapon
+// Perfect Pitch
+dimwishlist:item=3276304504
