@@ -13,7 +13,7 @@ dimwishlist:item=4129629253
 dimwishlist:item=427899681
 
 // Ergo Sum
-//notes:Literal Latin translation: "Therefore I am".
+//notes:Literal Latin translation: "Therefore I am", from the expression "Cogito, ergo sum" (I think, therefore I am).
 dimwishlist:item=1681583613
 
 // Euphony
