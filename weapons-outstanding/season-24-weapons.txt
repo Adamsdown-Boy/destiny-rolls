@@ -105,7 +105,7 @@ dimwishlist:item=2800870005
 dimwishlist:item=447296102
 
 // Suspectum-4fr
-//notes:Latin adjective translates as "suspected/mistrusted" or "of doubtful character" or "suspicious". Also the specific name for the Gila monster (Heloderma suspectum)
+//notes:Latin adjective - translates as "suspected/mistrusted" or "of doubtful character". Also the specific name for the Gila monster (Heloderma suspectum)
 dimwishlist:item=3615421669
 
 
