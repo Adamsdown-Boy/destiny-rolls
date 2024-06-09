@@ -157,6 +157,7 @@ dimwishlist:item=3754408118
 
 @title:Episode: Echos weapons
 // Corrasion
+//notes:The process of mechanical erosion by abrasion
 dimwishlist:item=2126178511
 
 // Sightline Survey
@@ -185,7 +186,7 @@ dimwishlist:item=4195186942
 dimwishlist:item=3794274730
 
 // Speleologist
-// Someone involved in the scientific study or exploration of caves.
+//notes:Someone involved in the scientific study or exploration of caves.
 dimwishlist:item=412251536
 
 
