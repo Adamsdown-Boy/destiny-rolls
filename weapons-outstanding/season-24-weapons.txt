@@ -92,11 +92,11 @@ dimwishlist:item=1890332078
 dimwishlist:item=423343404
 
 // Maahes HC4
-//notes:Maahes is an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes#:~:text=The%20name%20of%20Maahes%20begins,Knife%2C%20and%20The%20Scarlet%20Lord.).
+//notes:Maahes is an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes).
 dimwishlist:item=1246793994
 
 // Yarovit MG4
-//notes:Yarovit is is a Polabian (collective name for tribes located on the Elbe river in Eastern Germany in 6th Century) god of war (see https://en.wikipedia.org/wiki/Yarovit#:~:text=Some%20researchers%20also%20divide%20the,what%20is%20strong%2C%20powerful%22.)
+//notes:Yarovit is is a Polabian (collective name for tribes located on the Elbe river in Eastern Germany in 6th Century) god of war (see https://en.wikipedia.org/wiki/Yarovit)
 dimwishlist:item=3959549446
 
 // The Domino
