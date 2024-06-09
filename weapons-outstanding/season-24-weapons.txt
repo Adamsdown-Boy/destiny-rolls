@@ -6,23 +6,24 @@
 //Choir Of One
 
 // Khvostov 7G-0X
+//notes: Russian masculine surname - Хвостов, from хвост meaning "tail".
 dimwishlist:item=4129629253
 
 // Red Death Reformed
 dimwishlist:item=427899681
 
 // Ergo Sum
-//notes: Literal Latin translation: "Therefore I am".
+//notes:Literal Latin translation: "Therefore I am".
 dimwishlist:item=1681583613
 
 // Euphony
-//notes: Merriam-Webster definition "pleasing or sweet sound; especially: the acoustic effect produced by words so formed or combined as to please the ear."
+//notes:Merriam-Webster definition "pleasing or sweet sound; especially: the acoustic effect produced by words so formed or combined as to please the ear."
 
 // Still Hunt
 dimwishlist:item=2905188646
 
 // Microcosm
-//notes: Merriam-Webster definition "a little world; especially: the human race or human nature seen as an epitome of the world or the universe"
+//notes:Merriam-Webster definition "a little world; especially: the human race or human nature seen as an epitome of the world or the universe"
 dimwishlist:item=4207066264
 
 
@@ -46,7 +47,7 @@ dimwishlist:item=3947966653
 dimwishlist:item=4207120603
 
 // Pro Memoria
-//notes: Literal Latin translation: "for memory". Merriam-Webster definition "a formal note embodying the written record of a diplomatic discussion"
+//notes:Literal Latin translation: "for memory". Merriam-Webster definition "a formal note embodying the written record of a diplomatic discussion"
 dimwishlist:item=3605603507
 
 
@@ -71,7 +72,7 @@ dimwishlist:item=2450049485
 // Imminence
 
 // Non-Denouement
-//notes: French. Merriam-Webster definition for denouement "the final outcome of the main dramatic complication in a literary work or complex sequence of events", so maybe translates as "no final outcome", 
+//notes:French. Merriam-Webster definition for denouement "the final outcome of the main dramatic complication in a literary work or complex sequence of events", so maybe translates as "no final outcome", 
 
 // Nullify
 
@@ -80,7 +81,7 @@ dimwishlist:item=2450049485
 // Forthcoming Deviance
 
 // Summun Bonun
-//note: Latin expression. Merriam-Webster definition "the supreme good from which all others are derived".
+//note:Latin expression. Merriam-Webster definition "the supreme good from which all others are derived".
 
 
 @title:World drop new and reprised weapons
@@ -131,7 +132,8 @@ dimwishlist:item=2322926844
 dimwishlist:item=1056103557
 
 // Scintillation
-// Nightfalls - the process of being sparkly, either flashing, sparking light or witty in conversdation
+// Nightfalls
+//notes:The process of being sparkly, either flashing, sparking light or witty in conversdation
 dimwishlist:item=2591257541
 
 // Scintillation (Adept)
