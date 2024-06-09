@@ -131,7 +131,7 @@ dimwishlist:item=2322926844
 dimwishlist:item=1056103557
 
 // Scintillation
-// Nightfalls
+// Nightfalls - the process of being sparkly, either flashing, sparking light or witty in conversdation
 dimwishlist:item=2591257541
 
 // Scintillation (Adept)
