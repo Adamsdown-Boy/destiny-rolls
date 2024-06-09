@@ -92,7 +92,7 @@ dimwishlist:item=1890332078
 dimwishlist:item=423343404
 
 // Maahes HC4
-//notes:Maahes was an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes#:~:text=The%20name%20of%20Maahes%20begins,Knife%2C%20and%20The%20Scarlet%20Lord.).
+//notes:Maahes is an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes#:~:text=The%20name%20of%20Maahes%20begins,Knife%2C%20and%20The%20Scarlet%20Lord.).
 dimwishlist:item=1246793994
 
 // Yarovit MG4
