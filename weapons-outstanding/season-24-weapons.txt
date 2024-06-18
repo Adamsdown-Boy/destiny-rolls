@@ -132,6 +132,10 @@ dimwishlist:item=1246793994
 //notes:Yarovit is is a Polabian (collective name for tribes located on the Elbe river in Eastern Germany in 6th Century) god of war (see https://en.wikipedia.org/wiki/Yarovit#:~:text=Some%20researchers%20also%20divide%20the,what%20is%20strong%2C%20powerful%22.)
 dimwishlist:item=3959549446
 
+// Ded Gramarye IV
+//notes:Two archaic Middle English words, for "dead" and "occult learning, magic, or enchantment"
+dimwishlist:item=499245245
+
 // The Domino
 dimwishlist:item=2800870005
 
