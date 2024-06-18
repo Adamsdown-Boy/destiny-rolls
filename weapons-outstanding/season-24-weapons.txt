@@ -39,7 +39,7 @@ dimwishlist:item=1801007332
 dimwishlist:item=2821677368
 
 // Axial Lacuna
-//notes:Merriam-Webster definition - Axial is something situated around, in the direction of, on, or along an axis. and Lacuna is a blank space or a missing part, so this would be a gap of some sort in the direction of an axis.
+//notes:Merriam-Webster definition - Axial is something situated around, in the direction of, on, or along an axis; and Lacuna is a blank space or a missing part, so this would be a gap of some sort in the direction of an axis.
 dimwishlist:item=3867373351
 
 // Someday
