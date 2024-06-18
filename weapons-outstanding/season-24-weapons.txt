@@ -32,15 +32,19 @@ dimwishlist:item=4207066264
 // Bold Endings
 dimwishlist:item=496728945
 
+// Khvostov 7G-02
+//notes:Legendary Seaso 24 version
+dimwishlist:item=4209476803
+
 // No Hesitation
 dimwishlist:item=1801007332
-
-// Embraced Identity
-dimwishlist:item=2821677368
 
 // Axial Lacuna
 //notes:Merriam-Webster definition - Axial is something situated around, in the direction of, on, or along an axis; and Lacuna is a blank space or a missing part, so this would be a gap of some sort in the direction of an axis.
 dimwishlist:item=3867373351
+
+// Embraced Identity
+dimwishlist:item=2821677368
 
 // Someday
 dimwishlist:item=3232203524
