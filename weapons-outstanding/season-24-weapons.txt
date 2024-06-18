@@ -13,11 +13,12 @@ dimwishlist:item=4129629253
 dimwishlist:item=427899681
 
 // Ergo Sum
-//notes:Literal Latin translation: "Therefore I am", from the expression "Cogito, ergo sum" (I think, therefore I am).
+//notes:Literal Latin translation: "Therefore I am".
 dimwishlist:item=1681583613
 
 // Euphony
 //notes:Merriam-Webster definition "pleasing or sweet sound; especially: the acoustic effect produced by words so formed or combined as to please the ear."
+dimwishlist:item=3284383335
 
 // Still Hunt
 dimwishlist:item=2905188646
@@ -70,18 +71,42 @@ dimwishlist:item=2450049485
 
 @title:Salvations Edge raid weapons
 // Imminence
+dimwishlist:item=1258168956
+
+// Imminence (Adept)
+dimwishlist:item=3951511045
 
 // Non-Denouement
 //notes:French. Merriam-Webster definition for denouement "the final outcome of the main dramatic complication in a literary work or complex sequence of events", so maybe translates as "no final outcome", 
+dimwishlist:item=1770490683
+
+// Non-Denouement (Adept)
+dimwishlist:item=1039915310
 
 // Nullify
+dimwishlist:item=859869931
+
+// Nullify (Adept)
+dimwishlist:item=892183998
 
 // Critical Anomaly
+dimwishlist:item=445197843
+
+// Critical Anomaly (Adept)
+dimwishlist:item=172461430
 
 // Forthcoming Deviance
+dimwishlist:item=535198113
 
-// Summun Bonun
+// Forthcoming Deviance (Adept)
+dimwishlist:item=3123651616
+
+// Summun Bonum
 //note:Latin expression. Merriam-Webster definition "the supreme good from which all others are derived".
+dimwishlist:item=3569407878
+
+// Summum Bonum (Adept)
+dimwishlist:item=2001697739
 
 
 @title:World drop new and reprised weapons
@@ -92,11 +117,11 @@ dimwishlist:item=1890332078
 dimwishlist:item=423343404
 
 // Maahes HC4
-//notes:Maahes is an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes).
+//notes:Maahes was an Egyptian solar war god who took the form of a lion (see https://en.wikipedia.org/wiki/Maahes#:~:text=The%20name%20of%20Maahes%20begins,Knife%2C%20and%20The%20Scarlet%20Lord.).
 dimwishlist:item=1246793994
 
 // Yarovit MG4
-//notes:Yarovit is is a Polabian (collective name for tribes located on the Elbe river in Eastern Germany in 6th Century) god of war (see https://en.wikipedia.org/wiki/Yarovit)
+//notes:Yarovit is is a Polabian (collective name for tribes located on the Elbe river in Eastern Germany in 6th Century) god of war (see https://en.wikipedia.org/wiki/Yarovit#:~:text=Some%20researchers%20also%20divide%20the,what%20is%20strong%2C%20powerful%22.)
 dimwishlist:item=3959549446
 
 // The Domino
