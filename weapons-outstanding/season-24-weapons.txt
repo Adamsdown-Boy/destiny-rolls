@@ -1,5 +1,5 @@
 @title:Final Shape expansion and Episode 1: Echos (Season 24) new and newly reprised weapons
-@notes:Ordering within each section is primary/special/power weapon then alphabetic
+@notes:Ordering within each section is primary/special/power weapon then alphabetic. Shapeable = *
 
 
 @title:New exotics
@@ -29,51 +29,56 @@ dimwishlist:item=4207066264
 
 
 @title:Pale Heart weapons
-// Bold Endings
+// Bold Endings*
 dimwishlist:item=496728945
 
 // Khvostov 7G-02
-//notes:Legendary Seaso 24 version
+//notes:Legendary Season 24 version - not shapable
 dimwishlist:item=4209476803
 
-// No Hesitation
+// No Hesitation*
 dimwishlist:item=1801007332
 
-// Axial Lacuna
+// Axial Lacuna*
 //notes:Merriam-Webster definition - Axial is something situated around, in the direction of, on, or along an axis; and Lacuna is a blank space or a missing part, so this would be a gap of some sort in the direction of an axis.
 dimwishlist:item=3867373351
 
-// Embraced Identity
+// Embraced Identity*
 dimwishlist:item=2821677368
 
-// Someday
+// Someday*
 dimwishlist:item=3232203524
 
-// The Call
+// The Call*
 dimwishlist:item=3947966653
 
-// False Idols
+// False Idols*
 dimwishlist:item=4207120603
 
-// Pro Memoria
+// Pro Memoria*
 //notes:Literal Latin translation: "for memory". Merriam-Webster definition "a formal note embodying the written record of a diplomatic discussion"
 dimwishlist:item=3605603507
 
 
 @title:Season of Dawn reprised weapons
 // Breachlight
+//notes:Not shapeable
 dimwishlist:item=2328923181
 
 // Patron of Lost Causes
+//notes:Not shapeable
 dimwishlist:item=2249996761
 
 // Martyr's Retribution
+//notes:Not shapeable
 dimwishlist:item=2584830733
 
 // Perfect Paradox
+//notes:Not shapeable
 dimwishlist:item=1298672084
 
 // Line in the Sand
+//notes:Not shapeable
 dimwishlist:item=2450049485
 
 
@@ -195,36 +200,36 @@ dimwishlist:item=3754408118
 
 
 @title:Episode: Echos weapons
-// Corrasion
+// Corrasion*
 //notes:The process of mechanical erosion by abrasion
 dimwishlist:item=2126178511
 
-// Sightline Survey
+// Sightline Survey*
 dimwishlist:item=2350330520
 
-// Timeworn Wayfarer
+// Timeworn Wayfarer*
 dimwishlist:item=1058098236
 
-// Veiled Threat
+// Veiled Threat*
 dimwishlist:item=3685470415
 
-// Aberrant Action
+// Aberrant Action*
 dimwishlist:item=2198166292
 
-// Chronophage
+// Chronophage*
 //notes:Derived from  Greek words "chronos" and "phage", literally meaning "time-eater". Used colloquially in French to mean "time-consuming".
 dimwishlist:item=1886840007
 
-// Lost Signal
+// Lost Signal*
 dimwishlist:item=1197771438
 
-// Faith-Keeper
+// Faith-Keeper*
 dimwishlist:item=4195186942
 
-// Ill Omen
+// Ill Omen*
 dimwishlist:item=3794274730
 
-// Speleologist
+// Speleologist*
 //notes:Someone involved in the scientific study or exploration of caves.
 dimwishlist:item=412251536
 
