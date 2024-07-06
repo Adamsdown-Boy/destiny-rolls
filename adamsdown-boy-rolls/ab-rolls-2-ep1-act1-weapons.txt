@@ -1,5 +1,3 @@
-// Personal, non-DMB rolls for Final Shape
-
 // Episode 1, Act 1 weapons
 // Timeworn Wayfarer (PvE)
 // (Arrowhead Brake, Fluted Barrel), (Flared Magwell, Tactical Mag, Alloy Mag), Dual Loader, Incandescent
