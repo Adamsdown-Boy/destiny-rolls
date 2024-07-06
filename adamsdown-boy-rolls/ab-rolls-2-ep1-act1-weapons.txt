@@ -1,0 +1,59 @@
+// Non-PlayervsEnemies rolls from Episode 1, Act 1
+
+// Timeworn Wayfarer (PvE)
+// (Arrowhead Brake, Fluted Barrel), (Flared Magwell, Tactical Mag, Alloy Mag), Dual Loader, Incandescent
+//notes:Adamsdown_Boy (PvE / PvE-Solo / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add clearing in end-game content, particularly with solar fragments. Shapeable. Timeworn Wayfarer is the first solar aggressive frame rifle, which are easily outpaced by rapid-fires for DPS output, due to the long reload animation. It's got lowish stats but, like all of its peers, if you're running solo content and plinking away from a safe distance this offers near-adaptive hand cannon damage against adds at ranges up to around 70m. With it being slow firing, the reticule should have time to settle between shots, but you can improve gunfeel a little with Arrowhead Brake or Fluted Barrel as the barrel perk. Reload speed also needs some love, so Flared Magwell, Tactical Mag or, if you have the discipline to not reload prematurely, Alloy Mag are best for your mag perk. There's not a huge choice for the first trait perk - reload is a bit slow for Heal Clip, so Dual Loader (especially when enhanced) speeds things up. For add-clear, Incandescent in the second column can be used with solar fragments for clearing groups of adds. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Handling or Reload Speed, with a Backup Mag mod. 
+dimwishlist:item=1058098236&perks=839105230,106909392,25606670,4293542123
+dimwishlist:item=1058098236&perks=1840239774,106909392,25606670,4293542123
+dimwishlist:item=1058098236&perks=839105230,3230963543,25606670,4293542123
+dimwishlist:item=1058098236&perks=1840239774,3230963543,25606670,4293542123
+dimwishlist:item=1058098236&perks=839105230,1431678320,25606670,4293542123
+dimwishlist:item=1058098236&perks=1840239774,1431678320,25606670,4293542123
+
+// Timeworn Wayfarer (PvE)
+// (Arrowhead Brake, Fluted Barrel), Alloy Mag, Fourth Time's the Charm, Incandescent
+//notes:Adamsdown_Boy (PvE / PvE-Solo / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller):  PvE pick for add clearing in end-game content, particularly with solar fragments. Shapeable. Timeworn Wayfarer is the first solar aggressive frame solar rifle. It's got lowish stats but, like all of its peers, if you're running solo content and plinking away from distance this offers near-adaptive hand cannon damage against adds at ranges up to around 70m. It's slow firing, so the reticule should have time to settle between shots, but you can improve gunfeel a little with Arrowhead Brake or Fluted Barrel as the barrel perk. Reload speed also needs some love, so combine Alloy Mag as the mag perk with Fourth Time's The Charm and just keep hitting crits 'til the mag's empty.  For add-clear, Incandescent in the second column can be used with solar fragments for clearing groups of adds. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Handling or Reload Speed, with a Backup Mag mod.
+dimwishlist:item=1058098236&perks=839105230,1431678320,1354429876,4293542123
+dimwishlist:item=1058098236&perks=1840239774,1431678320,1354429876,4293542123
+
+// Faith-Keeper (PvE)
+// Confined Launch, (Impact Casing, Alloy Casing), (Field Prep, Clown Cartridge, Auto-Loading Holster), Lasting Impression
+//notes:Adamsdown_Boy (PvE / PvE-Boss / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for sustained Boss DPS in general content. Shapeable. Faith-Keeper isn't meta for boss damage, doing 10% less damage than Adaptives and Aggressives but having higher reserves at base. You get intrinsic tracking, which responds well to low velocity - giving more time to require if your target jinks out of the way - so Confined Launch is the optimum barrel perk. In the magazine perk slot, Impact Casing adds +2.2% total damage or Alloy Casing helps with the reload speed (3.57s base, 3.05s with AC). ield Prep is the best first column trait perk - when enhanced, you only need one Void reserves mod to get to the maximum total of 12 ammo, and crouching shaves a second or so when reloading. Alternatively, Clown Cartridge reloads three in the mag each time, or Auto-Loading Holster just works to have a rocket ready when you need it. For damage, if you're not in a time-gated damage phase so the delayed explosion isn't so much of an issue, Lasting Impression adds +19.5% damage (+21.7% with Impact Casing). The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Handling, with a Backup Mag mod.
+dimwishlist:item=4195186942&perks=1844523823,3796465595,2869569095,3927722942
+dimwishlist:item=4195186942&perks=1844523823,2985827016,2869569095,3927722942
+dimwishlist:item=4195186942&perks=1844523823,3796465595,2284787283,3927722942
+dimwishlist:item=4195186942&perks=1844523823,2985827016,2284787283,3927722942
+dimwishlist:item=4195186942&perks=1844523823,3796465595,3300816228,3927722942
+dimwishlist:item=4195186942&perks=1844523823,2985827016,3300816228,3927722942
+
+// Ill Omen (PvE)
+//notes:Adamsdown_Boy (PvE / PvE-MinorSpec / PvE-MajorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies. Shapeable. Ill Omen is the first Stasis Caster from sword so potentially provides both CQC and occasional distance damage with a sword. For add-clearing, you'll want to maximise ammo rather than damage with the Blade perk. For the guard perk, Swordmaster's Guard adds a little bit to everything and then, in the first trait perk column, Tireless Blade and Relentless Strikes are useful for ammo economy or Unrelenting will keep your health topped up in CQC. In the second column, Surrounded, Whirlwind Blade or One For All are all good choices for increasing damage against chunkier adds. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Impact, with a Backup Mag mod.
+dimwishlist:item=3794274730&perks=1261178282,269888150,3108830275,781192741
+dimwishlist:item=3794274730&perks=436053704,269888150,3108830275,781192741
+dimwishlist:item=3794274730&perks=938542991,269888150,3108830275,781192741
+dimwishlist:item=3794274730&perks=1261178282,269888150,2590710093,781192741
+dimwishlist:item=3794274730&perks=436053704,269888150,2590710093,781192741
+dimwishlist:item=3794274730&perks=938542991,269888150,2590710093,781192741
+dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,781192741
+dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,781192741
+dimwishlist:item=3794274730&perks=938542991,269888150,1749209109,781192741
+dimwishlist:item=3794274730&perks=1261178282,269888150,3108830275,4049631843
+dimwishlist:item=3794274730&perks=436053704,269888150,3108830275,4049631843
+dimwishlist:item=3794274730&perks=938542991,269888150,3108830275,4049631843
+dimwishlist:item=3794274730&perks=1261178282,269888150,2590710093,4049631843
+dimwishlist:item=3794274730&perks=436053704,269888150,2590710093,4049631843
+dimwishlist:item=3794274730&perks=938542991,269888150,2590710093,4049631843
+dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,4049631843
+dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,4049631843
+dimwishlist:item=3794274730&perks=938542991,269888150,1749209109,4049631843
+dimwishlist:item=3794274730&perks=1261178282,269888150,3108830275,3708227201
+dimwishlist:item=3794274730&perks=436053704,269888150,3108830275,3708227201
+dimwishlist:item=3794274730&perks=938542991,269888150,3108830275,3708227201
+dimwishlist:item=3794274730&perks=1261178282,269888150,2590710093,3708227201
+dimwishlist:item=3794274730&perks=436053704,269888150,2590710093,3708227201
+dimwishlist:item=3794274730&perks=938542991,269888150,2590710093,3708227201
+dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,3708227201
+dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3708227201
+dimwishlist:item=3794274730&perks=938542991,269888150,1749209109,3708227201
+
+
