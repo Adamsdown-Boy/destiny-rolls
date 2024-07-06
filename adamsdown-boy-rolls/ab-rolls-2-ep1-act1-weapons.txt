@@ -1,5 +1,6 @@
-// Non-PlayervsEnemies rolls from Episode 1, Act 1
+// Personal, non-DMB rolls for Final Shape
 
+// Episode 1, Act 1 weapons
 // Timeworn Wayfarer (PvE)
 // (Arrowhead Brake, Fluted Barrel), (Flared Magwell, Tactical Mag, Alloy Mag), Dual Loader, Incandescent
 //notes:Adamsdown_Boy (PvE / PvE-Solo / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add clearing in end-game content, particularly with solar fragments. Shapeable. Timeworn Wayfarer is the first solar aggressive frame rifle, which are easily outpaced by rapid-fires for DPS output, due to the long reload animation. It's got lowish stats but, like all of its peers, if you're running solo content and plinking away from a safe distance this offers near-adaptive hand cannon damage against adds at ranges up to around 70m. With it being slow firing, the reticule should have time to settle between shots, but you can improve gunfeel a little with Arrowhead Brake or Fluted Barrel as the barrel perk. Reload speed also needs some love, so Flared Magwell, Tactical Mag or, if you have the discipline to not reload prematurely, Alloy Mag are best for your mag perk. There's not a huge choice for the first trait perk - reload is a bit slow for Heal Clip, so Dual Loader (especially when enhanced) speeds things up. For add-clear, Incandescent in the second column can be used with solar fragments for clearing groups of adds. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Handling or Reload Speed, with a Backup Mag mod. 
@@ -27,7 +28,7 @@ dimwishlist:item=4195186942&perks=1844523823,3796465595,3300816228,3927722942
 dimwishlist:item=4195186942&perks=1844523823,2985827016,3300816228,3927722942
 
 // Ill Omen (PvE)
-//notes:Adamsdown_Boy (PvE / PvE-MinorSpec / PvE-MajorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies. Shapeable. Ill Omen is the first Stasis Caster from sword so potentially provides both CQC and occasional distance damage with a sword. For add-clearing, you'll want to maximise ammo rather than damage with the Blade perk. For the guard perk, Swordmaster's Guard adds a little bit to everything and then, in the first trait perk column, Tireless Blade and Relentless Strikes are useful for ammo economy or Unrelenting will keep your health topped up in CQC. In the second column, Surrounded, Whirlwind Blade or One For All are all good choices for increasing damage against chunkier adds. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Impact, with a Backup Mag mod.
+//notes:Adamsdown_Boy (PvE / PvE-MinorSpec / PvE-MajorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies. Shapeable. Ill Omen is the first Stasis Caster from sword so potentially provides both CQC and occasional distance damage with a sword. For add-clearing, you'll want to maximise ammo rather than damage with the Blade perk. For the guard perk, Swordmaster's Guard adds a little bit to everything and then, in the first trait perk column, Tireless Blade and Relentless Strikes are useful for ammo economy or Unrelenting will keep your health topped up in CQC. In the second column, Surrounded or One For All are all good choices for increasing damage against chunkier adds. The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Impact, with a Backup Mag mod.
 dimwishlist:item=3794274730&perks=1261178282,269888150,3108830275,781192741
 dimwishlist:item=3794274730&perks=436053704,269888150,3108830275,781192741
 dimwishlist:item=3794274730&perks=938542991,269888150,3108830275,781192741
@@ -56,4 +57,9 @@ dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,3708227201
 dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3708227201
 dimwishlist:item=3794274730&perks=938542991,269888150,1749209109,3708227201
 
+// Ill Omen (PvE)
+//notes:Adamsdown_Boy (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing Minor enemies. Shapeable. Ill Omen is the first Stasis Caster from sword so potentially provides both CQC and occasional distance damage with a sword. For add-clearing, you'll want to maximise ammo rather than damage with the Blade perk. For the guard perk, Swordmaster's Guard adds a little bit to everything and then for boss damage, Relentless Strikes aand  Whirlwind Blade is the best trait perk pairing for sustained boss damage (although this isn't necessarily the frame I'd choose to do boss damage with..!). The Radiolaria Transposer origin trait is nice to have - the AoE damage isn't huge, but it is additional to weapon damage so what's not to like?  Recommended MW: Impact, with a Backup Mag mod.
+dimwishlist:item=3794274730&perks=1261178282,269888150,1749209109,3913600130
+dimwishlist:item=3794274730&perks=436053704,269888150,1749209109,3913600130
+dimwishlist:item=3794274730&perks=938542991,269888150,1749209109,3913600130
 
