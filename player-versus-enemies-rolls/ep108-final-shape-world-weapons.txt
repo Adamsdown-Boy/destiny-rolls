@@ -1,4 +1,4 @@
-@title:Episode 107 - Episode 1, Act 1 weapons
+@title:Episode 108 - Episode 1, Act 1 weapons
 @description:Echo weapons with the Radiolaria Transposer origin trait
 
 // Maahes HC4 (First-choice PvE)
