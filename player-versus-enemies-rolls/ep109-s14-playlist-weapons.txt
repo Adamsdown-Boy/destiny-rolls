@@ -1,0 +1,456 @@
+@title:Episode 109 - Playlist weapons
+@description:Selected reprised Vanguard, Nightfall, Gambit and Crucible playlist weapons
+
+// Wild Style (First-choice PvE)
+// (Quick Launch, Smart Drift Control), Disorientating Grenades, (Reconstruction Envious Assassin), Vorpal Weapon
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style has returned with a refreshed perk pool and has gone from meh to must have. If you get Disorientating Grenades as the magazine perk, this automatically reduces blast radius to 0 in which case just use the barrel perk to improve velocity and handling. This mag perk disorients enemies up to boss-tier, helping manage firefights with both large groups and more difficult individual adds. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
+dimwishlist:item=1332123064&perks=3525010810,3032599245,1523832109,1546637391
+dimwishlist:item=1332123064&perks=3798852852,3032599245,1523832109,1546637391
+dimwishlist:item=1332123064&perks=3525010810,3032599245,968510818,1546637391
+dimwishlist:item=1332123064&perks=3798852852,3032599245,968510818,1546637391
+
+// Wild Style (First-choice PvE)
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Vorpal Weapon
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
+dimwishlist:item=1332123064&perks=981914802,3492396210,1523832109,1546637391
+dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,1546637391
+dimwishlist:item=1332123064&perks=981914802,3492396210,968510818,1546637391
+dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,1546637391
+
+// Wild Style (First-choice PvE)
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained Bait and Switch rotation damage against Bosses in end-game actives. Wild Style has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine or, for shorter damage phases, Envious Assassin does need a bit more setup but can overflow the mag to 3 shots. Then, if you're using a B+S ALH rocket launcher (for example), you could swap to this to continue damage with a +30% damage boost while it's reloading. The Tex Balanced Stock origin trait is probably the most useful of the three. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
+dimwishlist:item=1332123064&perks=981914802,3492396210,1523832109,3078487919
+dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,3078487919
+dimwishlist:item=1332123064&perks=981914802,3492396210,968510818,3078487919
+dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,3078487919
+
+// Wild Style (Adept) (First-choice PvE)
+// (Quick Launch, Smart Drift Control), Disorientating Grenades, (Reconstruction Envious Assassin), Vorpal Weapon
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style (Adept) has returned with a refreshed perk pool and has gone from meh to must have. If you get Disorientating Grenades as the magazine perk, this automatically reduces blast radius to 0 in which case just use the barrel perk to improve velocity and handling. This mag perk disorients enemies up to boss-tier, helping manage firefights with both large groups and more difficult individual adds. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
+dimwishlist:item=959037361&perks=3525010810,3032599245,1523832109,1546637391
+dimwishlist:item=959037361&perks=3798852852,3032599245,1523832109,1546637391
+dimwishlist:item=959037361&perks=3525010810,3032599245,968510818,1546637391
+dimwishlist:item=959037361&perks=3798852852,3032599245,968510818,1546637391
+
+// Wild Style (Adept) (First-choice PvE)
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Vorpal Weapon
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style (Adept) has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
+dimwishlist:item=959037361&perks=981914802,3492396210,1523832109,1546637391
+dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,1546637391
+dimwishlist:item=959037361&perks=981914802,3492396210,968510818,1546637391
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,1546637391
+
+// Wild Style (Adept) (First-choice PvE)
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained Bait and Switch rotation damage against Bosses in end-game actives. Wild Style (Adept) has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine or, for shorter damage phases, Envious Assassin does need a bit more setup but can overflow the mag to 3 shots. Then, if you're using a B+S ALH rocket launcher (for example), you could swap to this to continue damage with a +30% damage boost while it's reloading. The Tex Balanced Stock origin trait is probably the most useful of the three. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
+dimwishlist:item=959037361&perks=981914802,3492396210,1523832109,3078487919
+dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,3078487919
+dimwishlist:item=959037361&perks=981914802,3492396210,968510818,3078487919
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,3078487919
+
+// Origin Story (First-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Alloy Mag, Fluted Barrel), (Demolitionist, Dynamic Sway Reducation, Threat Detector, Feeding Frenzy, Keep Away), Onslaught
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for Minor add clearing in general content. Wanna fire the same Precision AR as Zavala? Origin Story returns with a refreshed (if huge) perk pool. If you're focussing make sure you've reset your reputation a few times first. The precision frame makes recoil easier to handle but the stats are on the low side, so you can use the barrel and magazine perks to fill them out a little. You've got a choice of first column support perks to add utility, boost gunfeel stats or directly improve reload speed. In the second column, Onslaught can dramatically improve outgoing damage as you're killing adds. Either Origin Trait can work, depending on whether you want a little bit of health or slightly improved gunfeel. The perk pool is huge, so reset Vanguard rank as many times as you can before you start focusing engrams. Recommended MW: any - dealer's choice, with a Backup Mag mod.
+dimwishlist:item=2826850739&perks=1840239774,1431678320,3523296417,95528736
+dimwishlist:item=2826850739&perks=1482024992,1431678320,3523296417,95528736
+dimwishlist:item=2826850739&perks=4090651448,1431678320,3523296417,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3523296417,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3523296417,95528736
+dimwishlist:item=2826850739&perks=4090651448,3230963543,3523296417,95528736
+dimwishlist:item=2826850739&perks=1840239774,1431678320,4071163871,95528736
+dimwishlist:item=2826850739&perks=1482024992,1431678320,4071163871,95528736
+dimwishlist:item=2826850739&perks=4090651448,1431678320,4071163871,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,4071163871,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,4071163871,95528736
+dimwishlist:item=2826850739&perks=4090651448,3230963543,4071163871,95528736
+dimwishlist:item=2826850739&perks=1840239774,1431678320,1359896290,95528736
+dimwishlist:item=2826850739&perks=1482024992,1431678320,1359896290,95528736
+dimwishlist:item=2826850739&perks=4090651448,1431678320,1359896290,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,1359896290,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,1359896290,95528736
+dimwishlist:item=2826850739&perks=4090651448,3230963543,1359896290,95528736
+dimwishlist:item=2826850739&perks=1840239774,1431678320,2779035018,95528736
+dimwishlist:item=2826850739&perks=1482024992,1431678320,2779035018,95528736
+dimwishlist:item=2826850739&perks=4090651448,1431678320,2779035018,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,2779035018,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,2779035018,95528736
+dimwishlist:item=2826850739&perks=4090651448,3230963543,2779035018,95528736
+dimwishlist:item=2826850739&perks=1840239774,1431678320,3619207468,95528736
+dimwishlist:item=2826850739&perks=1482024992,1431678320,3619207468,95528736
+dimwishlist:item=2826850739&perks=4090651448,1431678320,3619207468,95528736
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3619207468,95528736
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3619207468,95528736
+dimwishlist:item=2826850739&perks=4090651448,3230963543,3619207468,95528736
+
+// Origin Story (First-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Alloy Mag, Fluted Barrel), (Demolitionist, Threat Detector, Feeding Frenzy, Keep Away), Onslaught
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for Minor add clearing in general content. Wanna fire the same Precision AR as Zavala? Origin Story returns with a refreshed (if huge) perk pool. If you're focussing make sure you've reset your reputation a few times first. The precision frame makes recoil easier to handle but the stats are on the low side, so you can use the barrel and magazine perks to fill them out a little. You've got a choice of first column support perks to add utility, boost gunfeel stats or directly improve reload speed. In the second column, Kinetic Tremors needs 12 shots to hit, but is a good AoE damage effect for staggering beefier adds and controlling any nearby adds. Either Origin Trait can work, depending on whether you want a little bit of health or slightly improved gunfeel. The perk pool is huge, so reset Vanguard rank as many times as you can before you start focusing engrams. Recommended MW: any - dealer's choice, with a Backup Mag mod.
+dimwishlist:item=2826850739&perks=1840239774,1431678320,3523296417,3891536761
+dimwishlist:item=2826850739&perks=1482024992,1431678320,3523296417,3891536761
+dimwishlist:item=2826850739&perks=4090651448,1431678320,3523296417,3891536761
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3523296417,3891536761
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3523296417,3891536761
+dimwishlist:item=2826850739&perks=4090651448,3230963543,3523296417,3891536761
+dimwishlist:item=2826850739&perks=1840239774,1431678320,4071163871,3891536761
+dimwishlist:item=2826850739&perks=1482024992,1431678320,4071163871,3891536761
+dimwishlist:item=2826850739&perks=4090651448,1431678320,4071163871,3891536761
+dimwishlist:item=2826850739&perks=1840239774,3230963543,4071163871,3891536761
+dimwishlist:item=2826850739&perks=1482024992,3230963543,4071163871,3891536761
+dimwishlist:item=2826850739&perks=4090651448,3230963543,4071163871,3891536761
+dimwishlist:item=2826850739&perks=1840239774,1431678320,2779035018,3891536761
+dimwishlist:item=2826850739&perks=1482024992,1431678320,2779035018,3891536761
+dimwishlist:item=2826850739&perks=4090651448,1431678320,2779035018,3891536761
+dimwishlist:item=2826850739&perks=1840239774,3230963543,2779035018,3891536761
+dimwishlist:item=2826850739&perks=1482024992,3230963543,2779035018,3891536761
+dimwishlist:item=2826850739&perks=4090651448,3230963543,2779035018,3891536761
+dimwishlist:item=2826850739&perks=1840239774,1431678320,3619207468,3891536761
+dimwishlist:item=2826850739&perks=1482024992,1431678320,3619207468,3891536761
+dimwishlist:item=2826850739&perks=4090651448,1431678320,3619207468,3891536761
+dimwishlist:item=2826850739&perks=1840239774,3230963543,3619207468,3891536761
+dimwishlist:item=2826850739&perks=1482024992,3230963543,3619207468,3891536761
+dimwishlist:item=2826850739&perks=4090651448,3230963543,3619207468,3891536761
+
+// Origin Story (First-choice PvE)
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Alloy Mag, Fluted Barrel), Threat Detector, Surrounded
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): First-choice PvE pick for Minor add clearing in general content. Wanna fire the same Precision AR as Zavala? Origin Story returns with a refreshed (if huge) perk pool. If you're focussing make sure you've reset your reputation a few times first. The precision frame makes recoil easier to handle but the stats are on the low side, so you can use the barrel and magazine perks to fill them out a little. ARs are currently outpacing SMGs for damage output, so if you're using this at close range, Threat Detector and Surrounded is a natural pairing to boost gunfeel and damage by +40% (+47% when enhanced). Either Origin Trait can work, depending on whether you want a little bit of health or slightly improved gunfeel. The perk pool is huge, so reset Vanguard rank as many times as you can before you start focusing engrams. Recommended MW: any - dealer's choice, with a Backup Mag mod.
+dimwishlist:item=2826850739&perks=1840239774,1431678320,4071163871,3708227201
+dimwishlist:item=2826850739&perks=1482024992,1431678320,4071163871,3708227201
+dimwishlist:item=2826850739&perks=4090651448,1431678320,4071163871,3708227201
+dimwishlist:item=2826850739&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=2826850739&perks=1482024992,3230963543,4071163871,3708227201
+dimwishlist:item=2826850739&perks=4090651448,3230963543,4071163871,3708227201
+
+// Scintillation (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), Envious Assassin, Reservoir Burst
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for damage against Major and Boss enemies. Scintillation (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Enhanced Battery which, with a Backup Mag mod, is your first step towards the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, Envious Assassin can triple your number of shots to 21 - pretty much all of your reserve ammo. In the second, Reservoir Burst is the final step to get to 7 shots in the base battery, adds +25% damage to every overflowed shot and, if you kill your target, the explosion is 4x stronger than Chain Reaction would be. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,1427256713
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,1427256713
+
+// Scintillation (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Auto-Loading Holster, Envious Assassin, Rewind Rounds, Rapid Hit), Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Bait and Switch is still the perennial favourite, with +30% damage when procced, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=2591257541&perks=839105230,1483536627,3300816228,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,3300816228,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,3078487919
+dimwishlist:item=2591257541&perks=839105230,1483536627,247725512,3078487919
+dimwishlist:item=2591257541&perks=839105230,689005463,247725512,3078487919
+
+// Scintillation (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Envious Assassin, Rewind Rounds, Rapid Hit), Firing Line
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Firing Line is a solid +20% damage bonus just for being near your fireteam, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=2591257541&perks=839105230,1483536627,968510818,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,968510818,1771339417
+dimwishlist:item=2591257541&perks=839105230,1483536627,3418782618,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,3418782618,1771339417
+dimwishlist:item=2591257541&perks=839105230,1483536627,247725512,1771339417
+dimwishlist:item=2591257541&perks=839105230,689005463,247725512,1771339417
+
+// Scintillation (Adept) (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), Envious Assassin, Reservoir Burst
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for damage against Major and Boss enemies. Scintillation (Adept) (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Enhanced Battery which, with a Backup Mag mod, is your first step towards the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, Envious Assassin can triple your number of shots to 21 - pretty much all of your reserve ammo. In the second, Reservoir Burst is the final step to get to 7 shots in the base battery, adds +25% damage to every overflowed shot and, if you kill your target, the explosion is 4x stronger than Chain Reaction would be. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,1427256713
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,1427256713
+
+// Scintillation (Adept) (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Auto-Loading Holster, Envious Assassin, Rewind Rounds, Rapid Hit), Bait and Switch
+//notes:Inspired by @PodvsEnemies epis ode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (Adept) (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Bait and Switch is still the perennial favourite, with +30% damage when procced, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=1492522228&perks=839105230,1483536627,3300816228,3078487919
+dimwishlist:item=1492522228&perks=839105230,689005463,3300816228,3078487919
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,3078487919
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,3078487919
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,3078487919
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,3078487919
+dimwishlist:item=1492522228&perks=839105230,1483536627,247725512,3078487919
+dimwishlist:item=1492522228&perks=839105230,689005463,247725512,3078487919
+
+// Scintillation (Adept) (First-choice PvE)
+// Arrowhead Brake, (Enhanced Battery, Accelerated Coils), (Envious Assassin, Rewind Rounds, Rapid Hit), Firing Line
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained damage against Boss enemies. Scintillation (Adept) (that is, the process of being sparkly) is the first Strand adaptive burst LFR. It's got decent stats and feels good to use, and the Veist Stinger, while not the powerhouse it once more, is still the best origin trait to have on an LFR. With this being a three shot burst, you'll imp[rove control with Arrowhead Brake as the barrel perk. The best battery perk is Ionized Battery which, with a Backup Mag mod, is your only way to the maximum 7 shots but, if you get Accelerated Coils that also works to improve DPS rate at the cost of a small drop to total damage. In the first trait column, a reload or battery extending perk is a must-have for a sustained damage roll. In the second, Firing Line is a solid +20% damage bonus just for being near your fireteam, if you don't already have a well-rolled LFR that works for you. Recommended MW: Handling or Charge Time, with a Backup Mag mod.
+dimwishlist:item=1492522228&perks=839105230,1483536627,968510818,1771339417
+dimwishlist:item=1492522228&perks=839105230,689005463,968510818,1771339417
+dimwishlist:item=1492522228&perks=839105230,1483536627,3418782618,1771339417
+dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,1771339417
+dimwishlist:item=1492522228&perks=839105230,1483536627,247725512,1771339417
+dimwishlist:item=1492522228&perks=839105230,689005463,247725512,1771339417
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling, Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell, Alloy Mag), (Rapid Hit, Enlightened Action, Perpetual Motion, Air Trigger), (One For All, Explosive Payload)
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For end-game use, looking at first column trait perks that don't need a kill to proc and which further fill out the gunfeel stats Rapid Hit, Enlightened Action, Perpetual Motion all work. Air Trigger might be more of a PvP perk, but provides Outlaw-like reload speeds if you're off the ground. In the second column, One For All provides a +30% damage bonus for hitting three enemies, or Explosive Payload adds a little extra damage and flinch. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,3230963543,247725512,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,247725512,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,247725512,4049631843
+dimwishlist:item=4152016199&perks=3661387068,3230963543,247725512,4049631843
+dimwishlist:item=4152016199&perks=1467527085,3230963543,247725512,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,247725512,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,247725512,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,247725512,4049631843
+dimwishlist:item=4152016199&perks=3661387068,10690939,247725512,4049631843
+dimwishlist:item=4152016199&perks=1467527085,10690939,247725512,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,247725512,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,247725512,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,247725512,4049631843
+dimwishlist:item=4152016199&perks=3661387068,1431678320,247725512,4049631843
+dimwishlist:item=4152016199&perks=1467527085,1431678320,247725512,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,3828510309,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,3828510309,4049631843
+dimwishlist:item=4152016199&perks=3661387068,3230963543,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1467527085,3230963543,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,3828510309,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,3828510309,4049631843
+dimwishlist:item=4152016199&perks=3661387068,10690939,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1467527085,10690939,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,3828510309,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,3828510309,4049631843
+dimwishlist:item=4152016199&perks=3661387068,1431678320,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1467527085,1431678320,3828510309,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,1428297954,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,1428297954,4049631843
+dimwishlist:item=4152016199&perks=3661387068,3230963543,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1467527085,3230963543,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,1428297954,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,1428297954,4049631843
+dimwishlist:item=4152016199&perks=3661387068,10690939,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1467527085,10690939,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,1428297954,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,1428297954,4049631843
+dimwishlist:item=4152016199&perks=3661387068,1431678320,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1467527085,1431678320,1428297954,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,1421772400,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,1421772400,4049631843
+dimwishlist:item=4152016199&perks=3661387068,3230963543,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1467527085,3230963543,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,1421772400,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,1421772400,4049631843
+dimwishlist:item=4152016199&perks=3661387068,10690939,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1467527085,10690939,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,1421772400,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,1421772400,4049631843
+dimwishlist:item=4152016199&perks=3661387068,1431678320,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1467527085,1431678320,1421772400,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=4152016199&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=4152016199&perks=1467527085,3230963543,247725512,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,247725512,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,247725512,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,247725512,3038247973
+dimwishlist:item=4152016199&perks=3661387068,10690939,247725512,3038247973
+dimwishlist:item=4152016199&perks=1467527085,10690939,247725512,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,247725512,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,247725512,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,247725512,3038247973
+dimwishlist:item=4152016199&perks=3661387068,1431678320,247725512,3038247973
+dimwishlist:item=4152016199&perks=1467527085,1431678320,247725512,3038247973
+dimwishlist:item=4152016199&perks=1482024992,3230963543,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,3828510309,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,3828510309,3038247973
+dimwishlist:item=4152016199&perks=3661387068,3230963543,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1467527085,3230963543,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,3828510309,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,3828510309,3038247973
+dimwishlist:item=4152016199&perks=3661387068,10690939,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1467527085,10690939,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,3828510309,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,3828510309,3038247973
+dimwishlist:item=4152016199&perks=3661387068,1431678320,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1467527085,1431678320,3828510309,3038247973
+dimwishlist:item=4152016199&perks=1482024992,3230963543,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,1428297954,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,1428297954,3038247973
+dimwishlist:item=4152016199&perks=3661387068,3230963543,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1467527085,3230963543,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,1428297954,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,1428297954,3038247973
+dimwishlist:item=4152016199&perks=3661387068,10690939,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1467527085,10690939,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,1428297954,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,1428297954,3038247973
+dimwishlist:item=4152016199&perks=3661387068,1431678320,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1467527085,1431678320,1428297954,3038247973
+dimwishlist:item=4152016199&perks=1482024992,3230963543,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,1421772400,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,1421772400,3038247973
+dimwishlist:item=4152016199&perks=3661387068,3230963543,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1467527085,3230963543,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,1421772400,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,1421772400,3038247973
+dimwishlist:item=4152016199&perks=3661387068,10690939,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1467527085,10690939,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,1421772400,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,1421772400,3038247973
+dimwishlist:item=4152016199&perks=3661387068,1431678320,1421772400,3038247973
+dimwishlist:item=4152016199&perks=1467527085,1431678320,1421772400,3038247973
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling, Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell, Alloy Mag), (Rapid Hit, Perpetual Motion), Frenzy
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For end-game use, looking at first column trait perks that don't need a kill to proc and which further fill out the gunfeel stats Rapid Hit, and Perpetual Motion Perpetual Motion both help add stability to pretty much max out gunfeel stats when paired with Frenzy, which also adds a useful +15% damage. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,3230963543,247725512,4104185692
+dimwishlist:item=4152016199&perks=1840239774,3230963543,247725512,4104185692
+dimwishlist:item=4152016199&perks=4090651448,3230963543,247725512,4104185692
+dimwishlist:item=4152016199&perks=3661387068,3230963543,247725512,4104185692
+dimwishlist:item=4152016199&perks=1467527085,3230963543,247725512,4104185692
+dimwishlist:item=4152016199&perks=1482024992,10690939,247725512,4104185692
+dimwishlist:item=4152016199&perks=1840239774,10690939,247725512,4104185692
+dimwishlist:item=4152016199&perks=4090651448,10690939,247725512,4104185692
+dimwishlist:item=4152016199&perks=3661387068,10690939,247725512,4104185692
+dimwishlist:item=4152016199&perks=1467527085,10690939,247725512,4104185692
+dimwishlist:item=4152016199&perks=1482024992,1431678320,247725512,4104185692
+dimwishlist:item=4152016199&perks=1840239774,1431678320,247725512,4104185692
+dimwishlist:item=4152016199&perks=4090651448,1431678320,247725512,4104185692
+dimwishlist:item=4152016199&perks=3661387068,1431678320,247725512,4104185692
+dimwishlist:item=4152016199&perks=1467527085,1431678320,247725512,4104185692
+dimwishlist:item=4152016199&perks=1482024992,3230963543,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1840239774,3230963543,1428297954,4104185692
+dimwishlist:item=4152016199&perks=4090651448,3230963543,1428297954,4104185692
+dimwishlist:item=4152016199&perks=3661387068,3230963543,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1467527085,3230963543,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1482024992,10690939,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1840239774,10690939,1428297954,4104185692
+dimwishlist:item=4152016199&perks=4090651448,10690939,1428297954,4104185692
+dimwishlist:item=4152016199&perks=3661387068,10690939,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1467527085,10690939,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1482024992,1431678320,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1840239774,1431678320,1428297954,4104185692
+dimwishlist:item=4152016199&perks=4090651448,1431678320,1428297954,4104185692
+dimwishlist:item=4152016199&perks=3661387068,1431678320,1428297954,4104185692
+dimwishlist:item=4152016199&perks=1467527085,1431678320,1428297954,4104185692
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling, Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell, Alloy Mag), Slice, (Hatchling, One For All, Explosive Payload, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content, particularly using Strand fragments. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For strand fragment synergy, Slice is very useful in the first trait perk column in end-game content to reduce an outgoing enemy's damage - probably most useful on a Hunter. In the second column, Hatchling further synergises with Strand, or look for a damage boosting trait perk like One For All, Frenzy or Explosive Payload. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,3230963543,923806249,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,923806249,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,923806249,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,923806249,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,923806249,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,923806249,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,923806249,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,923806249,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,923806249,3038247973
+dimwishlist:item=4152016199&perks=1482024992,3230963543,923806249,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,923806249,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,923806249,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,923806249,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,923806249,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,923806249,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,923806249,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,923806249,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,923806249,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,923806249,831391274
+dimwishlist:item=4152016199&perks=1840239774,3230963543,923806249,831391274
+dimwishlist:item=4152016199&perks=4090651448,3230963543,923806249,831391274
+dimwishlist:item=4152016199&perks=1482024992,10690939,923806249,831391274
+dimwishlist:item=4152016199&perks=1840239774,10690939,923806249,831391274
+dimwishlist:item=4152016199&perks=4090651448,10690939,923806249,831391274
+dimwishlist:item=4152016199&perks=1482024992,1431678320,923806249,831391274
+dimwishlist:item=4152016199&perks=1840239774,1431678320,923806249,831391274
+dimwishlist:item=4152016199&perks=4090651448,1431678320,923806249,831391274
+dimwishlist:item=4152016199&perks=1482024992,3230963543,923806249,4104185692
+dimwishlist:item=4152016199&perks=1840239774,3230963543,923806249,4104185692
+dimwishlist:item=4152016199&perks=4090651448,3230963543,923806249,4104185692
+dimwishlist:item=4152016199&perks=1482024992,10690939,923806249,4104185692
+dimwishlist:item=4152016199&perks=1840239774,10690939,923806249,4104185692
+dimwishlist:item=4152016199&perks=4090651448,10690939,923806249,4104185692
+dimwishlist:item=4152016199&perks=1482024992,1431678320,923806249,4104185692
+dimwishlist:item=4152016199&perks=1840239774,1431678320,923806249,4104185692
+dimwishlist:item=4152016199&perks=4090651448,1431678320,923806249,4104185692
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling, Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell, Alloy Mag), Demolitionist, (Adrenaline Junkie, One For All, Explosive Payload, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content, particularly using a grenade build. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For grenade builds, Demolitionist is the obvious first column trait perk to look for and, to pair with that you can go all-in with Adrenaline Junkie for a damage boost, or look to one of the many other second column damage-boosting trait perks on offer. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=4152016199&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=4152016199&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=4152016199&perks=1482024992,10690939,3523296417,11612903
+dimwishlist:item=4152016199&perks=1840239774,10690939,3523296417,11612903
+dimwishlist:item=4152016199&perks=4090651448,10690939,3523296417,11612903
+dimwishlist:item=4152016199&perks=1482024992,1431678320,3523296417,11612903
+dimwishlist:item=4152016199&perks=1840239774,1431678320,3523296417,11612903
+dimwishlist:item=4152016199&perks=4090651448,1431678320,3523296417,11612903
+dimwishlist:item=4152016199&perks=1482024992,3230963543,3523296417,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,3523296417,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,3523296417,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,3523296417,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,3523296417,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,3523296417,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,3523296417,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,3523296417,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,3523296417,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,3523296417,4104185692
+dimwishlist:item=4152016199&perks=1840239774,3230963543,3523296417,4104185692
+dimwishlist:item=4152016199&perks=4090651448,3230963543,3523296417,4104185692
+dimwishlist:item=4152016199&perks=1482024992,10690939,3523296417,4104185692
+dimwishlist:item=4152016199&perks=1840239774,10690939,3523296417,4104185692
+dimwishlist:item=4152016199&perks=4090651448,10690939,3523296417,4104185692
+dimwishlist:item=4152016199&perks=1482024992,1431678320,3523296417,4104185692
+dimwishlist:item=4152016199&perks=1840239774,1431678320,3523296417,4104185692
+dimwishlist:item=4152016199&perks=4090651448,1431678320,3523296417,4104185692
+dimwishlist:item=4152016199&perks=1482024992,3230963543,3523296417,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,3523296417,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,3523296417,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,3523296417,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,3523296417,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,3523296417,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,3523296417,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,3523296417,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,3523296417,3038247973
+
+// Better Devils (First-choice PvE)
+// (Smallbore, Fluted Barrel, Corkscrew Rifling, Chambered Compensator, Extended Barrel), (Tactical Mag, Flared Magwell, Alloy Mag), Pugilist, (Swashbuckler, One For All, Explosive Payload, Frenzy)
+//notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for add-clearing Minor enemies in end-game content, particularly using a melee build. Better Devils returns (again) as a strand adaptive hand cannon and, as you'd expect from a playlist weapon, the stats aren't good. However, the two trait perk columns have just about every PvE option you could ever want! And, you also have the choice of two reasonable origin traits to use as well. Use the barrel and mag perks to round out gunfeel stats. For melee builds, Pugilist is the obvious first column trait perk to look for and, to pair with that you can go all-in with Swashbuckler for a damage boost, or look to one of the many other second column damage-boosting trait perks on offer. The perk pool is huge, so reset Crucible rank as many times as you can before you start focusing engrams. Recommended MW: Handling or Stability, with a Backup Mag mod.
+dimwishlist:item=4152016199&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=4152016199&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=4152016199&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=4152016199&perks=1482024992,10690939,691659142,4082225868
+dimwishlist:item=4152016199&perks=1840239774,10690939,691659142,4082225868
+dimwishlist:item=4152016199&perks=4090651448,10690939,691659142,4082225868
+dimwishlist:item=4152016199&perks=1482024992,1431678320,691659142,4082225868
+dimwishlist:item=4152016199&perks=1840239774,1431678320,691659142,4082225868
+dimwishlist:item=4152016199&perks=4090651448,1431678320,691659142,4082225868
+dimwishlist:item=4152016199&perks=1482024992,3230963543,691659142,4049631843
+dimwishlist:item=4152016199&perks=1840239774,3230963543,691659142,4049631843
+dimwishlist:item=4152016199&perks=4090651448,3230963543,691659142,4049631843
+dimwishlist:item=4152016199&perks=1482024992,10690939,691659142,4049631843
+dimwishlist:item=4152016199&perks=1840239774,10690939,691659142,4049631843
+dimwishlist:item=4152016199&perks=4090651448,10690939,691659142,4049631843
+dimwishlist:item=4152016199&perks=1482024992,1431678320,691659142,4049631843
+dimwishlist:item=4152016199&perks=1840239774,1431678320,691659142,4049631843
+dimwishlist:item=4152016199&perks=4090651448,1431678320,691659142,4049631843
+dimwishlist:item=4152016199&perks=1482024992,3230963543,691659142,4104185692
+dimwishlist:item=4152016199&perks=1840239774,3230963543,691659142,4104185692
+dimwishlist:item=4152016199&perks=4090651448,3230963543,691659142,4104185692
+dimwishlist:item=4152016199&perks=1482024992,10690939,691659142,4104185692
+dimwishlist:item=4152016199&perks=1840239774,10690939,691659142,4104185692
+dimwishlist:item=4152016199&perks=4090651448,10690939,691659142,4104185692
+dimwishlist:item=4152016199&perks=1482024992,1431678320,691659142,4104185692
+dimwishlist:item=4152016199&perks=1840239774,1431678320,691659142,4104185692
+dimwishlist:item=4152016199&perks=4090651448,1431678320,691659142,4104185692
+dimwishlist:item=4152016199&perks=1482024992,3230963543,691659142,3038247973
+dimwishlist:item=4152016199&perks=1840239774,3230963543,691659142,3038247973
+dimwishlist:item=4152016199&perks=4090651448,3230963543,691659142,3038247973
+dimwishlist:item=4152016199&perks=1482024992,10690939,691659142,3038247973
+dimwishlist:item=4152016199&perks=1840239774,10690939,691659142,3038247973
+dimwishlist:item=4152016199&perks=4090651448,10690939,691659142,3038247973
+dimwishlist:item=4152016199&perks=1482024992,1431678320,691659142,3038247973
+dimwishlist:item=4152016199&perks=1840239774,1431678320,691659142,3038247973
+dimwishlist:item=4152016199&perks=4090651448,1431678320,691659142,3038247973
