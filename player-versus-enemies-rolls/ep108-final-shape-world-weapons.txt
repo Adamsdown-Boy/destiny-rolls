@@ -1,5 +1,5 @@
 @title:Episode 108 - Final Shape world weapons
-@description:New and reprised weapons from the Final Shape expansion
+@description:Selected new and reprised weapons from the Final Shape expansion
 
 // Maahes HC4 (First-choice PvE)
 // (Fluted Barrel, Smallbore, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Rapid Hit, Perpetual Motion), Frenzy
