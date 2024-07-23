@@ -2,7 +2,7 @@
 @description:Selected reprised Vanguard, Nightfall, Gambit and Crucible playlist weapons
 
 // Wild Style (First-choice PvE)
-// (Quick Launch, Smart Drift Control), Disorientating Grenades, (Reconstruction Envious Assassin), Vorpal Weapon
+// (Quick Launch, Smart Drift Control), Disorientating Grenades, (Reconstruction, Envious Assassin), Vorpal Weapon
 //notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style has returned with a refreshed perk pool and has gone from meh to must have. If you get Disorientating Grenades as the magazine perk, this automatically reduces blast radius to 0 in which case just use the barrel perk to improve velocity and handling. This mag perk disorients enemies up to boss-tier, helping manage firefights with both large groups and more difficult individual adds. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
 dimwishlist:item=1332123064&perks=3525010810,3032599245,1523832109,1546637391
 dimwishlist:item=1332123064&perks=3798852852,3032599245,1523832109,1546637391
@@ -10,7 +10,7 @@ dimwishlist:item=1332123064&perks=3525010810,3032599245,968510818,1546637391
 dimwishlist:item=1332123064&perks=3798852852,3032599245,968510818,1546637391
 
 // Wild Style (First-choice PvE)
-// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Vorpal Weapon
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction, Envious Assassin), Vorpal Weapon
 //notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
 dimwishlist:item=1332123064&perks=981914802,3492396210,1523832109,1546637391
 dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,1546637391
@@ -18,7 +18,7 @@ dimwishlist:item=1332123064&perks=981914802,3492396210,968510818,1546637391
 dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,1546637391
 
 // Wild Style (First-choice PvE)
-// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Bait and Switch
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction, Envious Assassin), Bait and Switch
 //notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained Bait and Switch rotation damage against Bosses in end-game actives. Wild Style has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine or, for shorter damage phases, Envious Assassin does need a bit more setup but can overflow the mag to 3 shots. Then, if you're using a B+S ALH rocket launcher (for example), you could swap to this to continue damage with a +30% damage boost while it's reloading. The Tex Balanced Stock origin trait is probably the most useful of the three. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
 dimwishlist:item=1332123064&perks=981914802,3492396210,1523832109,3078487919
 dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,3078487919
@@ -26,7 +26,7 @@ dimwishlist:item=1332123064&perks=981914802,3492396210,968510818,3078487919
 dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,3078487919
 
 // Wild Style (Adept) (First-choice PvE)
-// (Quick Launch, Smart Drift Control), Disorientating Grenades, (Reconstruction Envious Assassin), Vorpal Weapon
+// (Quick Launch, Smart Drift Control), Disorientating Grenades, (Reconstruction, Envious Assassin), Vorpal Weapon
 //notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style (Adept) has returned with a refreshed perk pool and has gone from meh to must have. If you get Disorientating Grenades as the magazine perk, this automatically reduces blast radius to 0 in which case just use the barrel perk to improve velocity and handling. This mag perk disorients enemies up to boss-tier, helping manage firefights with both large groups and more difficult individual adds. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
 dimwishlist:item=959037361&perks=3525010810,3032599245,1523832109,1546637391
 dimwishlist:item=959037361&perks=3798852852,3032599245,1523832109,1546637391
@@ -34,7 +34,7 @@ dimwishlist:item=959037361&perks=3525010810,3032599245,968510818,1546637391
 dimwishlist:item=959037361&perks=3798852852,3032599245,968510818,1546637391
 
 // Wild Style (Adept) (First-choice PvE)
-// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Vorpal Weapon
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction, Envious Assassin), Vorpal Weapon
 //notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for burst damage against Majors, Bosses and Champions in end-game actives. Wild Style (Adept) has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine, or Envious Assassin needs a bit more setup but can overflow the mag to 3 shots. Then, Vorpal Weapon in the second column provides a reliable +15% damage. The Tex Balanced Stock origin trait is probably the most useful of the three, unless there's a GL artifact mod in which case use Stunning Recovery. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
 dimwishlist:item=959037361&perks=981914802,3492396210,1523832109,1546637391
 dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,1546637391
@@ -42,7 +42,7 @@ dimwishlist:item=959037361&perks=981914802,3492396210,968510818,1546637391
 dimwishlist:item=959037361&perks=981914802,3301904089,968510818,1546637391
 
 // Wild Style (Adept) (First-choice PvE)
-// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction Envious Assassin), Bait and Switch
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Reconstruction, Envious Assassin), Bait and Switch
 //notes:Inspired by @PodvsEnemies episode 109 from 17 July 2024 (https://open.spotify.com/episode/2nTeQvaqobDnHpu43iq8eH?si=091612d7b0604589) with @CourtProjects and @Saint_Kabr (PvE / PvE-Boss / PvE-MajorSpec / PvE-BossSpec / PvE-Champion / PvE-EndGame / PvE-God / M+KB / Controller): First-choice PvE pick for sustained Bait and Switch rotation damage against Bosses in end-game actives. Wild Style (Adept) has returned with a refreshed perk pool and has gone from meh to must have. To maximise damage, you'll need to reduce blast radius - Hard Launch is the only barrel perk to offer that. Implosion Rounds or Spike Grenades offer similar levels of damage boost as the magazine perks. As the first column trait perk, Reconstruction is just a better Auto-Loading Holster, overfilling to 2 in the magazine or, for shorter damage phases, Envious Assassin does need a bit more setup but can overflow the mag to 3 shots. Then, if you're using a B+S ALH rocket launcher (for example), you could swap to this to continue damage with a +30% damage boost while it's reloading. The Tex Balanced Stock origin trait is probably the most useful of the three. Recommended MW: Handling or Velocity, with a Quick Access Sling mod.
 dimwishlist:item=959037361&perks=981914802,3492396210,1523832109,3078487919
 dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,3078487919
