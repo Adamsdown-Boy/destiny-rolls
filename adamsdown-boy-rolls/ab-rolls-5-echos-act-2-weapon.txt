@@ -1,0 +1,8 @@
+// PvE podcast ep111 Echos Act 2 additional rolls
+
+// Aberrant Action  (PvE)
+//notes:Adamsdown_Boy written v8.0.0.8  (???  ???): (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in end-game activities, particularly using solar fragments. Shapeable. Aberrant Action is the third rocket-frame sidearm - solar flavour this time, with similar stats to Indebted Kindness (if the Range reads 0, then that's just a bug). For an add clearing role, maximise blast radius with your barrel perk, and then with one eye on the trait perks, look for reload in the mag. Match the lethality of the rocket sidearms with Heal Clip (hence the need to maximise reload speed) and Incandescent, particularly synergising with solar aspects and fragments to boost the verb potency, and you'll be curing yourself while wiping out add crowds with scorch and ignition. The Radiolaria Transposer origin trait is extra AoE damage that inherits the weapon's damage multiplier, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
+dimwishlist:item=2198166292&perks=1478423395,3230963543,3017780555,4293542123
+dimwishlist:item=2198166292&perks=1844523823,3230963543,3017780555,4293542123
+dimwishlist:item=2198166292&perks=1441682018,3230963543,3017780555,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,4293542123
