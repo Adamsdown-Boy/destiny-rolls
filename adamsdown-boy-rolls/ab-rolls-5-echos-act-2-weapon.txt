@@ -1,7 +1,176 @@
 // PvE podcast ep110 Echos Act 2 additional rolls
 
-// Aberrant Action  (PvE)
-//notes:Adamsdown_Boy written v8.0.0.8  (???  ???): (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in end-game activities, particularly using solar fragments. Shapeable. Aberrant Action is the third rocket-frame sidearm - solar flavour this time, with similar stats to Indebted Kindness (if the Range reads 0, then that's just a bug). For an add clearing role, maximise blast radius with your barrel perk, and then with one eye on the trait perks, look for reload in the mag. Match the lethality of the rocket sidearms with Heal Clip (hence the need to maximise reload speed) and Incandescent, particularly synergising with solar aspects and fragments to boost the verb potency, and you'll be curing yourself while wiping out add crowds with scorch and ignition. The Radiolaria Transposer origin trait is extra AoE damage that inherits the weapon's damage multiplier, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
+// Aberrant Action (PVE)
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch), (High-Explosive Ordnance, Tactical Mag, High-Velocity Rounds, Appended Mag), Field Prep, (Golden Tricorn, Swashbuckler)
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PVE pick for add-clearing minor enemies in end-game activities. Shapeable. Aberrant Action is the third rocket-frame sidearm - solar flavour this time, with similar stats to Indebted Kindness (if the Range reads 0, then that's just a bug). In the barrel and mag, you can prefer perks that give extra Blast Radius, Velocity or an extra shot or two (or a bit of a mix) - that's really down to personal preference. Field Prep can add around 8 shots to reserves (10 when enhanced), as well as speeding up reload, so is a solid pick for the first trait perk column. As a second column damage perk, Golden Tricorn's second stack is easy to proc with solar abilities for +50% damage, or (with a rocket's sidearm's lethality), Swashbuckler will be easy to proc and take to five stacks in add-dense areas for up to +33% damage. The Radiolaria Transposer origin trait is extra AoE damage that inherits the weapon's damage multiplier, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Velocity or Blast Radius, with a Backup Mag mod.
+dimwishlist:item=2198166292&perks=1478423395,1380253176,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1844523823,1380253176,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1441682018,1380253176,2869569095,2610012052
+dimwishlist:item=2198166292&perks=3525010810,1380253176,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1478423395,106909392,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1844523823,106909392,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1441682018,106909392,2869569095,2610012052
+dimwishlist:item=2198166292&perks=3525010810,106909392,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1478423395,2822142346,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1844523823,2822142346,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1441682018,2822142346,2869569095,2610012052
+dimwishlist:item=2198166292&perks=3525010810,2822142346,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1478423395,1087426260,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1844523823,1087426260,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1441682018,1087426260,2869569095,2610012052
+dimwishlist:item=2198166292&perks=3525010810,1087426260,2869569095,2610012052
+dimwishlist:item=2198166292&perks=1478423395,1380253176,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1844523823,1380253176,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1441682018,1380253176,2869569095,4082225868
+dimwishlist:item=2198166292&perks=3525010810,1380253176,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1478423395,106909392,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1844523823,106909392,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1441682018,106909392,2869569095,4082225868
+dimwishlist:item=2198166292&perks=3525010810,106909392,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1478423395,2822142346,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1844523823,2822142346,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1441682018,2822142346,2869569095,4082225868
+dimwishlist:item=2198166292&perks=3525010810,2822142346,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1478423395,1087426260,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1844523823,1087426260,2869569095,4082225868
+dimwishlist:item=2198166292&perks=1441682018,1087426260,2869569095,4082225868
+dimwishlist:item=2198166292&perks=3525010810,1087426260,2869569095,4082225868
+
+// Aberrant Action (PVE)
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch), (High-Explosive Ordnance, Tactical Mag, High-Velocity Rounds, Appended Mag), Pugilist, Swashbuckler
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PVE pick for add-clearing minor enemies in end-game activities, particularly for melee builds. Shapeable. Aberrant Action is the third rocket-frame sidearm - solar flavour this time, with similar stats to Indebted Kindness (if the Range reads 0, then that's just a bug). In the barrel and mag, you can prefer perks that give extra Blast Radius, Velocity or an extra shot or two (or a bit of a mix) - that's really down to personal preference. For melee builds, Pugilist is there in the first column to recover melee energy (as a special that's 10% per kill, or 11% when enhanced), while in the second Swashbuckler provides up to +33% damage when procced. The Radiolaria Transposer origin trait is extra AoE damage that inherits the weapon's damage multiplier, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Velocity or Blast Radius, with a Backup Mag mod.
+dimwishlist:item=2198166292&perks=1478423395,1380253176,691659142,4082225868
+dimwishlist:item=2198166292&perks=1844523823,1380253176,691659142,4082225868
+dimwishlist:item=2198166292&perks=1441682018,1380253176,691659142,4082225868
+dimwishlist:item=2198166292&perks=3525010810,1380253176,691659142,4082225868
+dimwishlist:item=2198166292&perks=1478423395,106909392,691659142,4082225868
+dimwishlist:item=2198166292&perks=1844523823,106909392,691659142,4082225868
+dimwishlist:item=2198166292&perks=1441682018,106909392,691659142,4082225868
+dimwishlist:item=2198166292&perks=3525010810,106909392,691659142,4082225868
+dimwishlist:item=2198166292&perks=1478423395,2822142346,691659142,4082225868
+dimwishlist:item=2198166292&perks=1844523823,2822142346,691659142,4082225868
+dimwishlist:item=2198166292&perks=1441682018,2822142346,691659142,4082225868
+dimwishlist:item=2198166292&perks=3525010810,2822142346,691659142,4082225868
+dimwishlist:item=2198166292&perks=1478423395,1087426260,691659142,4082225868
+dimwishlist:item=2198166292&perks=1844523823,1087426260,691659142,4082225868
+dimwishlist:item=2198166292&perks=1441682018,1087426260,691659142,4082225868
+dimwishlist:item=2198166292&perks=3525010810,1087426260,691659142,4082225868
+
+// Aberrant Action (PVE)
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch), (High-Explosive Ordnance, Tactical Mag, High-Velocity Rounds, Appended Mag), Strategist, Incandescent
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PVE pick for add-clearing minor enemies in end-game activities, particularly for Hazardous Propulsion Titans. Shapeable. Aberrant Action is the third rocket-frame sidearm - solar flavour this time, with similar stats to Indebted Kindness (if the Range reads 0, then that's just a bug). In the barrel and mag, you can prefer perks that give extra Blast Radius, Velocity or an extra shot or two (or a bit of a mix) - that's really down to personal preference. In the first trait perk column, Strategist returns 10% class ability energy on kills (11% when enhanced) to speed up barrier regeneration speed, while Incandescent in the second column both helps clear add crowds through scorch and ignite (even better with solar fragments), with the kills counting towards Strategist too, The Radiolaria Transposer origin trait is extra AoE damage that inherits the weapon's damage multiplier, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Velocity or Blast Radius, with a Backup Mag mod.
+dimwishlist:item=2198166292&perks=1478423395,1380253176,880644845,4293542123
+dimwishlist:item=2198166292&perks=1844523823,1380253176,880644845,4293542123
+dimwishlist:item=2198166292&perks=1441682018,1380253176,880644845,4293542123
+dimwishlist:item=2198166292&perks=3525010810,1380253176,880644845,4293542123
+dimwishlist:item=2198166292&perks=1478423395,106909392,880644845,4293542123
+dimwishlist:item=2198166292&perks=1844523823,106909392,880644845,4293542123
+dimwishlist:item=2198166292&perks=1441682018,106909392,880644845,4293542123
+dimwishlist:item=2198166292&perks=3525010810,106909392,880644845,4293542123
+dimwishlist:item=2198166292&perks=1478423395,2822142346,880644845,4293542123
+dimwishlist:item=2198166292&perks=1844523823,2822142346,880644845,4293542123
+dimwishlist:item=2198166292&perks=1441682018,2822142346,880644845,4293542123
+dimwishlist:item=2198166292&perks=3525010810,2822142346,880644845,4293542123
+dimwishlist:item=2198166292&perks=1478423395,1087426260,880644845,4293542123
+dimwishlist:item=2198166292&perks=1844523823,1087426260,880644845,4293542123
+dimwishlist:item=2198166292&perks=1441682018,1087426260,880644845,4293542123
+dimwishlist:item=2198166292&perks=3525010810,1087426260,880644845,4293542123
+
+// Aberrant Action (PvE)
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch), Flared Magwell, Heal Clip, Incandescent
+//notes:Adamsdown_Boy written v8.0.0.8 (??? ???): (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in end-game activities, particularly using solar fragments. Shapeable. Aberrant Action is the third rocket-frame sidearm - solar flavour this time, with similar stats to Indebted Kindness (if the Range reads 0, then that's just a bug). For an add clearing role, maximise blast radius with your barrel perk, and then with one eye on the trait perks, look for reload in the mag. Match the lethality of the rocket sidearms with Heal Clip (hence the need to maximise reload speed) and Incandescent, particularly synergising with solar aspects and fragments to boost the verb potency, and you'll be curing yourself x2 and nearby teammates x1 while wiping out add crowds with scorch and ignition. The Radiolaria Transposer origin trait is extra AoE damage that inherits the weapon's damage multiplier, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
 dimwishlist:item=2198166292&perks=1478423395,3230963543,3017780555,4293542123
 dimwishlist:item=2198166292&perks=1844523823,3230963543,3017780555,4293542123
 dimwishlist:item=2198166292&perks=1441682018,3230963543,3017780555,4293542123
+dimwishlist:item=2198166292&perks=3525010810,3230963543,3017780555,4293542123
+
+// Corrasion (PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Alloy Mag, Flared Magwell, Tactical Mag), High-Impact Reserves, (One For All, High Ground)
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in general activities. Shapeable. Corrasion - the process of mechanical erosion by abrasion - is the arc member of the new meta pulse rifle - it looks good, and is easily available during Final Shape. Base stats are, as you'd expect, poor compared to the small family of peers, and equate to 36.76m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.12s reload speed. It fires slowly enough for recoil not to be too much of an issue, so you can focus on Handling and Reload Speed with the barrel and mag perks. Unusually, there's a damage perk in the first trait column - High-Impact Reserves, so you can double up damage multipliers in the second column with One For All for an additional +35%, or High Ground for +25% damage for having your feet 1m higher than your enemy's. The Radiolaria Transposer origin trait is extra AoE damage that inherits the pulse rifle's decent damage multiplier and any damage bonus, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
+dimwishlist:item=2126178511&perks=1840239774,1431678320,2213355989,4049631843
+dimwishlist:item=2126178511&perks=4090651448,1431678320,2213355989,4049631843
+dimwishlist:item=2126178511&perks=1840239774,3230963543,2213355989,4049631843
+dimwishlist:item=2126178511&perks=4090651448,3230963543,2213355989,4049631843
+dimwishlist:item=2126178511&perks=1840239774,106909392,2213355989,4049631843
+dimwishlist:item=2126178511&perks=4090651448,106909392,2213355989,4049631843
+dimwishlist:item=2126178511&perks=1840239774,1431678320,2213355989,2319119708
+dimwishlist:item=2126178511&perks=4090651448,1431678320,2213355989,2319119708
+dimwishlist:item=2126178511&perks=1840239774,3230963543,2213355989,2319119708
+dimwishlist:item=2126178511&perks=4090651448,3230963543,2213355989,2319119708
+dimwishlist:item=2126178511&perks=1840239774,106909392,2213355989,2319119708
+dimwishlist:item=2126178511&perks=4090651448,106909392,2213355989,2319119708
+
+// Corrasion (PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Perpetual Motion, Air Trigger), Voltshot
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in general actives, particularly with arc fragments. Shapeable. Corrasion - the process of mechanical erosion by abrasion - is the arc member of the new meta pulse rifle - it looks good, and is easily available during Final Shape. Base stats are, as you'd expect, poor compared to the small family of peers, and equate to 36.76m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.12s reload speed. It fires slowly enough for recoil not to be too much of an issue, so you can focus on Handling and Reload Speed with the barrel and mag perks. If you're looking for a Voltshot roll, then you'll need a reload perk in the first trait column - Perpetual Motion provides a passive boost or - and don't judge me too harshly for this - Air Trigger provides Outlaw-like reload speeds just for being in the air as you reload. The Radiolaria Transposer origin trait is extra AoE damage that inherits the pulse rifle's decent damage multiplier, so the initial explosion is as damaging as a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
+dimwishlist:item=2126178511&perks=1840239774,3230963543,1428297954,2173046394
+dimwishlist:item=2126178511&perks=4090651448,3230963543,1428297954,2173046394
+dimwishlist:item=2126178511&perks=1840239774,106909392,1428297954,2173046394
+dimwishlist:item=2126178511&perks=4090651448,106909392,1428297954,2173046394
+dimwishlist:item=2126178511&perks=1840239774,3230963543,1421772400,2173046394
+dimwishlist:item=2126178511&perks=4090651448,3230963543,1421772400,2173046394
+dimwishlist:item=2126178511&perks=1840239774,106909392,1421772400,2173046394
+dimwishlist:item=2126178511&perks=4090651448,106909392,1421772400,2173046394
+
+// Corrasion (PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), (Enlightened Action, Eddy Current, Perpetual Motion, Air Trigger), (One For All, High Ground)
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in end-game activities. Shapeable. Corrasion - the process of mechanical erosion by abrasion - is the arc member of the new meta pulse rifle - it looks good, and is easily available during Final Shape. Base stats are, as you'd expect, poor compared to the small family of peers, and equate to 36.76m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.12s reload speed. It fires slowly enough for recoil not to be too much of an issue, so you can focus on Handling and Reload Speed with the barrel and mag perks. In the first trait column, Enlightened Action, Eddy Current, Perpetual Motion round out gunfeel stats or - and don't judge Saint to harshly for this - Air Trigger provides Outlaw-like reload speeds just for jumping as you reload. For passive damage boosts, PVE favourite One For All adds +35% damage for hitting three enemies, or High Ground up to +25% for having your feet 1m higher than your enemy's feet. The Radiolaria Transposer origin trait is extra AoE damage that inherits the pulse rifle's decent damage multiplier and any damage bonus, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
+dimwishlist:item=2126178511&perks=1840239774,3230963543,3828510309,4049631843
+dimwishlist:item=2126178511&perks=4090651448,3230963543,3828510309,4049631843
+dimwishlist:item=2126178511&perks=1840239774,106909392,3828510309,4049631843
+dimwishlist:item=2126178511&perks=4090651448,106909392,3828510309,4049631843
+dimwishlist:item=2126178511&perks=1840239774,1431678320,3828510309,4049631843
+dimwishlist:item=2126178511&perks=4090651448,1431678320,3828510309,4049631843
+dimwishlist:item=2126178511&perks=1840239774,3230963543,684456054,4049631843
+dimwishlist:item=2126178511&perks=4090651448,3230963543,684456054,4049631843
+dimwishlist:item=2126178511&perks=1840239774,106909392,684456054,4049631843
+dimwishlist:item=2126178511&perks=4090651448,106909392,684456054,4049631843
+dimwishlist:item=2126178511&perks=1840239774,1431678320,684456054,4049631843
+dimwishlist:item=2126178511&perks=4090651448,1431678320,684456054,4049631843
+dimwishlist:item=2126178511&perks=1840239774,3230963543,1428297954,4049631843
+dimwishlist:item=2126178511&perks=4090651448,3230963543,1428297954,4049631843
+dimwishlist:item=2126178511&perks=1840239774,106909392,1428297954,4049631843
+dimwishlist:item=2126178511&perks=4090651448,106909392,1428297954,4049631843
+dimwishlist:item=2126178511&perks=1840239774,1431678320,1428297954,4049631843
+dimwishlist:item=2126178511&perks=4090651448,1431678320,1428297954,4049631843
+dimwishlist:item=2126178511&perks=1840239774,3230963543,1421772400,4049631843
+dimwishlist:item=2126178511&perks=4090651448,3230963543,1421772400,4049631843
+dimwishlist:item=2126178511&perks=1840239774,106909392,1421772400,4049631843
+dimwishlist:item=2126178511&perks=4090651448,106909392,1421772400,4049631843
+dimwishlist:item=2126178511&perks=1840239774,1431678320,1421772400,4049631843
+dimwishlist:item=2126178511&perks=4090651448,1431678320,1421772400,4049631843
+dimwishlist:item=2126178511&perks=1840239774,3230963543,3828510309,2319119708
+dimwishlist:item=2126178511&perks=4090651448,3230963543,3828510309,2319119708
+dimwishlist:item=2126178511&perks=1840239774,106909392,3828510309,2319119708
+dimwishlist:item=2126178511&perks=4090651448,106909392,3828510309,2319119708
+dimwishlist:item=2126178511&perks=1840239774,1431678320,3828510309,2319119708
+dimwishlist:item=2126178511&perks=4090651448,1431678320,3828510309,2319119708
+dimwishlist:item=2126178511&perks=1840239774,3230963543,684456054,2319119708
+dimwishlist:item=2126178511&perks=4090651448,3230963543,684456054,2319119708
+dimwishlist:item=2126178511&perks=1840239774,106909392,684456054,2319119708
+dimwishlist:item=2126178511&perks=4090651448,106909392,684456054,2319119708
+dimwishlist:item=2126178511&perks=1840239774,1431678320,684456054,2319119708
+dimwishlist:item=2126178511&perks=4090651448,1431678320,684456054,2319119708
+dimwishlist:item=2126178511&perks=1840239774,3230963543,1428297954,2319119708
+dimwishlist:item=2126178511&perks=4090651448,3230963543,1428297954,2319119708
+dimwishlist:item=2126178511&perks=1840239774,106909392,1428297954,2319119708
+dimwishlist:item=2126178511&perks=4090651448,106909392,1428297954,2319119708
+dimwishlist:item=2126178511&perks=1840239774,1431678320,1428297954,2319119708
+dimwishlist:item=2126178511&perks=4090651448,1431678320,1428297954,2319119708
+dimwishlist:item=2126178511&perks=1840239774,3230963543,1421772400,2319119708
+dimwishlist:item=2126178511&perks=4090651448,3230963543,1421772400,2319119708
+dimwishlist:item=2126178511&perks=1840239774,106909392,1421772400,2319119708
+dimwishlist:item=2126178511&perks=4090651448,106909392,1421772400,2319119708
+dimwishlist:item=2126178511&perks=1840239774,1431678320,1421772400,2319119708
+dimwishlist:item=2126178511&perks=4090651448,1431678320,1421772400,2319119708
+
+// Corrasion (PvE)
+// (Fluted Barrel, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Alloy Mag), Pugilist, Swaskbuckler
+//notes:Adamsdown_Boy written v8.0.0.8 (PvE / PvE-MinorSpec / PvE-EndGame / PvE-God / M+KB / Controller): PvE pick for add-clearing minor enemies in general actives, particularly for melee builds. Shapeable. Corrasion - the process of mechanical erosion by abrasion - is the arc member of the new meta pulse rifle - it looks good, and is easily available during Final Shape. Base stats are, as you'd expect, poor compared to the small family of peers, and equate to 36.76m ADS range before damage dropoff, 0.39s ADS speed, 0.44s ready and 0.43s stow speed, and 2.12s reload speed. It fires slowly enough for recoil not to be too much of an issue, so you can focus on Handling and Reload Speed with the barrel and mag perks. If you don't already have a decent arc pulse rifle with a melee roll, the Pugilist/ Swashbuckler trait pairing is available for melee energy regeneration and up to +33% damage bonus. The Radiolaria Transposer origin trait is extra AoE damage that inherits the pulse rifle's decent damage multiplier and any damage bonus, so the initial explosion can be more damaging than a special ammo Chain Reaction explosion - what's not to love? Recommended MW: Reload Speed, with a Backup Mag mod.
+dimwishlist:item=2126178511&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=2126178511&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=2126178511&perks=1840239774,106909392,691659142,4082225868
+dimwishlist:item=2126178511&perks=4090651448,106909392,691659142,4082225868
+dimwishlist:item=2126178511&perks=1840239774,1431678320,691659142,4082225868
+dimwishlist:item=2126178511&perks=4090651448,1431678320,691659142,4082225868
+
