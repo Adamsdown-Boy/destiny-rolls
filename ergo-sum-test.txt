@@ -1,3 +1,5 @@
-// Ergo Sum test
+// Ergo Sum test rolls
+//notes:Adamsdown_Boy (??? PvE ???): Ergo sum tests to see if I can get specific intrinic perk combos to show|tags:PvE
+dimwishlist:item=1681583613&perks=
 
-dimwishlist:item=1681583613
+
