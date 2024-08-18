@@ -1,4 +1,4 @@
 // Ergo Sum test rolls
 //notes:Adamsdown_Boy (???  ???): Ergo sum tests to see if I can get specific intrinsic perk combos to show. Test using the sword I already have.
-dimwishlist:item=1681583613&perks=3949068808,1261178282,269888150,289811733
+dimwishlist:item=1681583613&perks=461437088,1261178282,269888150,289811733
 
