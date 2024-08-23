@@ -11,57 +11,61 @@
 // Insectoid Robot Grenades: 3325420353
 // Unplanned Reprieve: 1327961177
 
+// Vortex Frame: 2557881346
+// Caster Frame: 519046634
+// Wave Sword Frame: 289811733
+// Lightweight Frame: 2753228730
+// Aggressive Frame: 1726251414
+
 
 // Ergo Sum (first-choice PvE)
 // Unplanned Reprieve, (Enduring Blade, Hungry Edge), Swordmaster's Guard, Lightweight Frame
 //notes:Inspired by @PodvsEnemies episode 113 from 14 August 2024 (https://open.spotify.com/episode/6SKpRAnTC5gulAjyj6aed1?si=ed2635f4a03a4676) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions and sustained damage against bosses in end-game content. Ergo Sum - the literal Latin translation of "Therefore I am" - is the first special ammo sword can comes with combinations of perks for virtually every use case. The blade perk of choice is Enduring Blade or Hungry Edge - Jagged Edge makes almost no difference to damage output when you're Transcendent, and with picking up less ammo from special bricks, total ammo is more important. Swordmaster's Guard is the guard perk of choice, increasing the heavy attack charge rate, but Heavy Guard is worth looking at if you do ever guard against damage with a sword. Lightweight Frame perk versions of Ergo Sum increase mobility by +20 and movement speed by 6.25%, but they're also the most efficient in using a heavy attack, only costing 3 ammo per time. Pair that with the Unplanned Reprieve intrinsic perk to drop 7 void bolts, which do massive damage, in front of you after a heavy attack, and this becomes a beast against Majors, Champions and Bosses - alternate between one heavy and two light attacks for maximum effect. The Transcendent Duellist origin trait provides +2.5% light and darkness transcendance energy on kills and, while you're transcendent, adds +50 to the sword's charge rate, improves prismatic grenade regeneration speed on sword damage, boosts Ergo Sum's sword damage by +44% damage boost and extends transcendence on a kill. The catalyst is worth chasing, returning ammo on prismatic grenade hits.|tags:PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=1681583613&perks=2753228730,1327961177,1261178282,269888150
-dimwishlist:item=1681583613&perks=2753228730,436053704,1261178282,269888150
-dimwishlist:item=1681583613&perks=2753228730,1327961177,2349202967,269888150
-dimwishlist:item=1681583613&perks=2753228730,436053704,2349202967,269888150
+dimwishlist:item=1681583613&perks=1327961177,1261178282,269888150,2753228730
+dimwishlist:item=1681583613&perks=1327961177,436053704,269888150,2753228730
+dimwishlist:item=1681583613&perks=1327961177,1261178282,2349202967,2753228730
+dimwishlist:item=1681583613&perks=1327961177,436053704,2349202967,2753228730
 
 // Ergo Sum (first-choice PvE)
-// Unplanned Reprieve, (Enduring Blade, Hungry Edge), Swordmaster's Guard, Vortex Frame
+// Unplanned Reprieve, (Enduring Blade, Hungry Edge), (Swordmaster's Guard, Heavy Guard), Vortex Frame
 //notes:Inspired by @PodvsEnemies episode 113 from 14 August 2024 (https://open.spotify.com/episode/6SKpRAnTC5gulAjyj6aed1?si=ed2635f4a03a4676) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions and sustained damage against bosses in end-game content. Ergo Sum - the literal Latin translation of "Therefore I am" - is the first special ammo sword can comes with combinations of perks for virtually every use case. The blade perk of choice is Enduring Blade or Hungry Edge - Jagged Edge makes almost no difference to damage output when you're Transcendent, and with picking up less ammo from special bricks, total ammo is more important. Swordmaster's Guard is the guard perk of choice, increasing the heavy attack charge rate, but Heavy Guard is worth looking at if you do ever guard against damage with a sword. Vortex frame version of Ergo Sum offer the heavy "spin to win" attack at the cost of 6 ammo. Pair that with the Unplanned Reprieve intrinsic perk to drop 10 void bolts, which do massive damage, in a circle around you after a heavy attack, and this becomes a beast against Majors, Champions and Bosses - alternate between one heavy and two light attacks for maximum effect. The Transcendent Duellist origin trait provides +2.5% light and darkness transcendance energy on kills and, while you're transcendent, adds +50 to the sword's charge rate, improves prismatic grenade regeneration speed on sword damage, boosts Ergo Sum's sword damage by +44% damage boost and extends transcendence on a kill. The catalyst is worth chasing, returning ammo on prismatic grenade hits.|tags:PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=1681583613&perks=2753228730,1327961177,1261178282,2557881346
-dimwishlist:item=1681583613&perks=2753228730,436053704,1261178282,2557881346
-dimwishlist:item=1681583613&perks=2753228730,1327961177,2349202967,2557881346
-dimwishlist:item=1681583613&perks=2753228730,436053704,2349202967,2557881346
+dimwishlist:item=1681583613&perks=1327961177,1261178282,269888150,2557881346
+dimwishlist:item=1681583613&perks=1327961177,436053704,269888150,2557881346
+dimwishlist:item=1681583613&perks=1327961177,1261178282,2349202967,2557881346
+dimwishlist:item=1681583613&perks=1327961177,436053704,2349202967,2557881346
 
 // Ergo Sum (first-choice PvE)
-// Perfect Fifth, (Enduring Blade, Hungry Edge), Swordmaster's Guard, Caster Frame
+// Perfect Fifth, (Enduring Blade, Hungry Edge), (Swordmaster's Guard, Heavy Guard), Caster Frame
 //notes:Inspired by @PodvsEnemies episode 113 from 14 August 2024 (https://open.spotify.com/episode/6SKpRAnTC5gulAjyj6aed1?si=ed2635f4a03a4676) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions and sustained damage against bosses in end-game content, particularly with solar builds. Ergo Sum - the literal Latin translation of "Therefore I am" - is the first special ammo sword can comes with combinations of perks for virtually every use case. The blade perk of choice is Enduring Blade or Hungry Edge - Jagged Edge makes almost no difference to damage output when you're Transcendent, and with picking up less ammo from special bricks, total ammo is more important. Swordmaster's Guard is the guard perk of choice, increasing the heavy attack charge rate, but Heavy Guard is worth looking at if you do ever guard against damage with a sword. The Caster frame generate a projectile with the heavy attack, at the cost of 4 ammo to use with the Perfect Fifth intrinsic. This attaches a projectile to your target after 5 hits which applies 40 (60 with Ember of Ashes) scorch stacks - use a Heavy, Light Light attack for the best damage combination. The Transcendent Duellist origin trait provides +2.5% light and darkness transcendance energy on kills and, while you're transcendent, adds +50 to the sword's charge rate, improves prismatic grenade regeneration speed on sword damage, boosts Ergo Sum's sword damage by +44% damage boost and extends transcendence on a kill. The catalyst is worth chasing, returning ammo on prismatic grenade hits.|tags:PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=1681583613&perks=1522566605,1327961177,1261178282,519046634
-dimwishlist:item=1681583613&perks=1522566605,436053704,1261178282,519046634
-dimwishlist:item=1681583613&perks=1522566605,1327961177,2349202967,519046634
+dimwishlist:item=1681583613&perks=1522566605,1261178282,269888150,519046634
+dimwishlist:item=1681583613&perks=1522566605,436053704,269888150,519046634
+dimwishlist:item=1681583613&perks=1522566605,1261178282,2349202967,519046634
 dimwishlist:item=1681583613&perks=1522566605,436053704,2349202967,519046634
 
 // Ergo Sum (first-choice PvE)
-// Wolfpack Rounds, (Enduring Blade, Hungry Edge), Swordmaster's Guard, (Lightweight Frame, Vortex Frame)
+// Wolfpack Rounds, (Enduring Blade, Hungry Edge), (Swordmaster's Guard, Heavy Guard), (Lightweight Frame, Vortex Frame)
 //notes:Inspired by @PodvsEnemies episode 113 from 14 August 2024 (https://open.spotify.com/episode/6SKpRAnTC5gulAjyj6aed1?si=ed2635f4a03a4676) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for burst damage against Majors and Champions and sustained damage against bosses in end-game content. Ergo Sum - the literal Latin translation of "Therefore I am" - is the first special ammo sword can comes with combinations of perks for virtually every use case. The blade perk of choice is Enduring Blade or Hungry Edge - Jagged Edge makes almost no difference to damage output when you're Transcendent, and with picking up less ammo from special bricks, total ammo is more important. Swordmaster's Guard is the guard perk of choice, increasing the heavy attack charge rate, but Heavy Guard is worth looking at if you do ever guard against damage with a sword. As a support weapon for a sword-based boss DPS phase, Lightweight and Vortex frames are easiest to use with the Wolfpack Rounds intrinsic - just keep up a Heavy, Light Light pattern of attacks for the damage phase. This grants everyone else using a sword Wolfpack Rounds for additional damage. The Transcendent Duellist origin trait provides +2.5% light and darkness transcendance energy on kills and, while you're transcendent, adds +50 to the sword's charge rate, improves prismatic grenade regeneration speed on sword damage, boosts Ergo Sum's sword damage by +44% damage boost and extends transcendence on a kill. The catalyst is worth chasing, returning ammo on prismatic grenade hits.|tags:PvE PvE-Boss PvE-BossSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=1681583613&perks=1959135343,1327961177,1261178282,2753228730
-dimwishlist:item=1681583613&perks=1959135343,436053704,1261178282,2753228730
-dimwishlist:item=1681583613&perks=1959135343,1327961177,2349202967,2753228730
+dimwishlist:item=1681583613&perks=1959135343,1261178282,269888150,2753228730
+dimwishlist:item=1681583613&perks=1959135343,436053704,269888150,2753228730
+dimwishlist:item=1681583613&perks=1959135343,1261178282,2349202967,2753228730
 dimwishlist:item=1681583613&perks=1959135343,436053704,2349202967,2753228730
-dimwishlist:item=1681583613&perks=1959135343,1327961177,1261178282,2557881346
-dimwishlist:item=1681583613&perks=1959135343,436053704,1261178282,2557881346
-dimwishlist:item=1681583613&perks=1959135343,1327961177,2349202967,2557881346
-dimwishlist:item=1681583613&perks=1959135343,436053704,2349202967,2557881346
+dimwishlist:item=1681583613&perks=1959135343,1261178282,269888150,519046634
+dimwishlist:item=1681583613&perks=1959135343,436053704,269888150,519046634
+dimwishlist:item=1681583613&perks=1959135343,1261178282,2349202967,519046634
+dimwishlist:item=1681583613&perks=1959135343,436053704,2349202967,519046634
 
 // Ergo Sum (first-choice PvE)
-// Arc Conductor, (Enduring Blade, Hungry Edge), Swordmaster's Guard, (Wave Sword Frame, Caster Frame, Lightweight Frame)
+// Arc Conductor, (Enduring Blade, Hungry Edge), (Swordmaster's Guard, Heavy Guard), (Wave Sword Frame, Caster Frame, Lightweight Frame)
 //notes:Inspired by @PodvsEnemies episode 113 from 14 August 2024 (https://open.spotify.com/episode/6SKpRAnTC5gulAjyj6aed1?si=ed2635f4a03a4676) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add-clearing Minor adds in end-game content. Ergo Sum - the literal Latin translation of "Therefore I am" - is the first special ammo sword can comes with combinations of perks for virtually every use case. The blade perk of choice is Enduring Blade or Hungry Edge - Jagged Edge makes almost no difference to damage output when you're Transcendent, and with picking up less ammo from special bricks, total ammo is more important. Swordmaster's Guard is the guard perk of choice, increasing the heavy attack charge rate, but Heavy Guard is worth looking at if you do ever guard against damage with a sword. For a whole load or ridiculous fun, Arc Conductor on a Wave Frame, Caster or Lightweight sword gives you arc resistance on a heavy attack, chaining lightning for 10-15m around you to make it an add-clearing machine. The Transcendent Duellist origin trait provides +2.5% light and darkness transcendance energy on kills and, while you're transcendent, adds +50 to the sword's charge rate, improves prismatic grenade regeneration speed on sword damage, boosts Ergo Sum's sword damage by +44% damage boost and extends transcendence on a kill. The catalyst is worth chasing, returning ammo on prismatic grenade hits.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=1681583613&perks=3949068808,1327961177,1261178282,289811733
-dimwishlist:item=1681583613&perks=3949068808,436053704,1261178282,289811733
-dimwishlist:item=1681583613&perks=3949068808,1327961177,2349202967,289811733
+dimwishlist:item=1681583613&perks=3949068808,1261178282,269888150,289811733
+dimwishlist:item=1681583613&perks=3949068808,436053704,269888150,289811733
+dimwishlist:item=1681583613&perks=3949068808,1261178282,2349202967,289811733
 dimwishlist:item=1681583613&perks=3949068808,436053704,2349202967,289811733
-dimwishlist:item=1681583613&perks=3949068808,1327961177,1261178282,519046634
-dimwishlist:item=1681583613&perks=3949068808,436053704,1261178282,519046634
-dimwishlist:item=1681583613&perks=3949068808,1327961177,2349202967,519046634
+dimwishlist:item=1681583613&perks=3949068808,1261178282,269888150,519046634
+dimwishlist:item=1681583613&perks=3949068808,436053704,269888150,519046634
+dimwishlist:item=1681583613&perks=3949068808,1261178282,2349202967,519046634
 dimwishlist:item=1681583613&perks=3949068808,436053704,2349202967,519046634
-dimwishlist:item=1681583613&perks=3949068808,1327961177,1261178282,2753228730
-dimwishlist:item=1681583613&perks=3949068808,436053704,1261178282,2753228730
-dimwishlist:item=1681583613&perks=3949068808,1327961177,2349202967,2753228730
+dimwishlist:item=1681583613&perks=3949068808,1261178282,269888150,2753228730
+dimwishlist:item=1681583613&perks=3949068808,436053704,269888150,2753228730
+dimwishlist:item=1681583613&perks=3949068808,1261178282,2349202967,2753228730
 dimwishlist:item=1681583613&perks=3949068808,436053704,2349202967,2753228730
-
-
