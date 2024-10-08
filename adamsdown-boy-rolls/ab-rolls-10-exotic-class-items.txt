@@ -1,0 +1,20 @@
+// Exotic class items from u/engineeeeer7
+//Rolls rated 5 from the spreadsheet linked at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ that aren't in current PvE podacst or Adamsdown_Boy roll lists
+
+// Relativism (first-choice PvE)
+// Spirit of the Assassin, Spirit of Synthoceps - invisibility on melee kills/finishers and boosted melee damage (general play)
+// Spirit of Inmost Light, Spirit of Synthoceps - use combination blow for ability spam and boosted melee damage (general play)
+// Spirit of Inmost Light, Spirit of Verity - ability spam and matching weapon kills boost grenade damage (general play)
+// Spirit of the Foetracer, Spirit of the Star-Eater - big boost to super damage and then boss matching weapon damage after super (sustained boss damage)
+// Spirit of the Foetracer, Spirit of Verity - matching weapon kills boost grenade damage, grenade damage boosts matching weapon damage (general play)
+// Spirit of Renewal, Spirit of the Star-Eater - team defense and big boost to super damage (boss damage)
+
+// Stoicism (first-choice PvE)
+// Spirit of Inmost Light, Spirit of the Star-Eater - ability spam and big boost to super damage (general play)
+// Spirit of Inmost Light, Spirit of Scars - ability spam and healing on matching weapon kills (general play)
+// Spirit of the Bear, Spirit of the Star-Eater - faster super regeneration when using Unbreakable and better super damage (general play)
+
+// Solipsism (first-choice PvE)
+// Spirit of Inmost Light, Spirit of the Swarm - Strand builds for ability spam and additional Threadlings from tangles (general play)
+// Spirit of Osmiomancy, Spirit of the Star-Eater - faster grenade regeneration and big boost to super damage (general play)
+// Spirit of Osmiomancy, Spirit of the Swarm - general utility on Strand builds - faster grenade regeneration and additional Threadlings from tangles (general play)
