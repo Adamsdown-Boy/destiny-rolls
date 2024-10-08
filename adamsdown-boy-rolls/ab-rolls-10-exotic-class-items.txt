@@ -1,5 +1,5 @@
 // Exotic class items from u/engineeeeer7
-//Rolls rated 5 from the spreadsheet linked at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ that aren't in current PvE podacst or Adamsdown_Boy roll lists
+// Rolls rated 5 from the spreadsheet linked at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ that aren't in current PvE podacst or Adamsdown_Boy roll lists
 
 // Relativism (first-choice PvE)
 // Spirit of the Assassin, Spirit of Synthoceps - invisibility on melee kills/finishers and boosted melee damage (general play)
