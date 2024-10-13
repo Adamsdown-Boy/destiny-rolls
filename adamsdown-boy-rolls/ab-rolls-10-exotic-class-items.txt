@@ -1,20 +1,110 @@
 // Exotic class items from u/engineeeeer7
-// Rolls rated 5 from the spreadsheet linked at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ that aren't in current PvE podacst or Adamsdown_Boy roll lists
+//Rolls rated 5 from the spreadsheet linked at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ that aren't in current PvE podcast or Adamsdown_Boy roll lists
+
+// Solipsism (PvE)
+// (Spirit of Inmost Light, Spirit of Osmiomancy), Spirit of the Swarm
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-God M+KB Controller): One for Strand builds that aim to maximise Threadling generation in general content. The play loop is pretty simple - use Inmost Light to empower your abilities and speed up regeneration, or Osmiomancy to boost grenade regeneration and then use them (and weapons) to create Tangles which generate Threadlings when they're destroyed, through Swarm. If you're going all in to an army of Threadlings build, the Weaver's Call aspect is an obvious choice, and you'll probably want Facet of Honor, Awakening and maybe Solitude to create more Tangles and benefit from destroying them, or your own choice of fragments to boost the utility of your grenade, melee and rift, and gameplay preferences. And, seeing as you're asking, Solipsism is a philosophical theory holding that only one's own mind can be certain to exist.|tags:PvE PvE-Utility PvE-God M+KB Controller
+dimwishlist:item=2273643087&perks=1476923953,183430246
+dimwishlist:item=2273643087&perks=183430253,183430246
+
+// Solipsism (PvE)
+// Spirit of Osmiomancy, Spirit of the Star-Eater
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-God PvE-EndGame M+KB Controller): If you're looking for an all-purpose trait pairing to just throw on and not think about, that boosts grenade recharge rate and super damage, then Osmiomancy (for the boost to grenade regeneration on hits, rather than the improved Coldsnap seekers) and Star-Eater to boost super damage by up to ×1.7 by picking up power orbs. You'll want an AoE grenade for maximum effect on Osmiomancy, and then it's pretty much dealer's choice on weapons, super, aspects and fragments to support your gameplay preferences - maybe something like a Vortex Grenade ability with the Feed the Void aspect to proc Devour, and Facets of Bravery for void weapon volatile rounds and Dominance to weaken enemies with grenades too? And, seeing as you're asking, Solipsism is a philosophical theory holding that only one's own mind can be certain to exist.|tags:PvE PvE-Utility PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2273643087&perks=183430253,1476923955
 
 // Relativism (first-choice PvE)
-// Spirit of the Assassin, Spirit of Synthoceps - invisibility on melee kills/finishers and boosted melee damage (general play)
-// Spirit of Inmost Light, Spirit of Synthoceps - use combination blow for ability spam and boosted melee damage (general play)
-// Spirit of Inmost Light, Spirit of Verity - ability spam and matching weapon kills boost grenade damage (general play)
-// Spirit of the Foetracer, Spirit of the Star-Eater - big boost to super damage and then boss matching weapon damage after super (sustained boss damage)
-// Spirit of the Foetracer, Spirit of Verity - matching weapon kills boost grenade damage, grenade damage boosts matching weapon damage (general play)
-// Spirit of Renewal, Spirit of the Star-Eater - team defense and big boost to super damage (boss damage)
 
-// Stoicism (first-choice PvE)
-// Spirit of Inmost Light, Spirit of the Star-Eater - ability spam and big boost to super damage (general play)
-// Spirit of Inmost Light, Spirit of Scars - ability spam and healing on matching weapon kills (general play)
-// Spirit of the Bear, Spirit of the Star-Eater - faster super regeneration when using Unbreakable and better super damage (general play)
+// Relativism (PvE)
+// (Spirit of the Assassin, Spirit of Inmost Light), Spirit of Synthoceps
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-God M+KB Controller): One to help reclaim punchy-punchy builds from Titans, with a pretty simple gameplay loop - Synthoceps increases your melee damage by ×3 for 6s when you have 3+ enemies nearby, while either Assassin makes you invisible on a melee or finisher kill or Inmost Light improves your abilities and regen rate as you use them. This cries out for use with the Gambler's Dodge class ability to keep you punching, dodging and regenerating health, the Combination Blow melee, Grapple grenade, and Winter's Shroud and Stylish Executioner aspects for a pretty much one-Guardian army (while there are Minor adds to kill, anyway), although be warned that sometimes the damage can be confusingly inconsistent. You'll almost certainly need Facets of Dawn, Protection and Blessing to boost DR, healing and damage further with your CQC melee gameplay. And, seeing as you're asking, Relativism is a philosophical theory that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.|tags:PvE PvE-Utility PvE-God M+KB Controller
+dimwishlist:item=2809120022&perks=1476923952,1476923956
+dimwishlist:item=2809120022&perks=1476923953,1476923956
 
-// Solipsism (first-choice PvE)
-// Spirit of Inmost Light, Spirit of the Swarm - Strand builds for ability spam and additional Threadlings from tangles (general play)
-// Spirit of Osmiomancy, Spirit of the Star-Eater - faster grenade regeneration and big boost to super damage (general play)
-// Spirit of Osmiomancy, Spirit of the Swarm - general utility on Strand builds - faster grenade regeneration and additional Threadlings from tangles (general play)
+// Relativism (PvE)
+// Spirit of Inmost Light, Spirit of Verity
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-God M+KB Controller): This is a trait combination for grenade builds for everyday use - something to throw on that will just work in the background without too much effort. One the one hand, Inmost Light will boost abilities and regeneration time just by using them, while Verity can boost grenade damage by up to ×2 on matching weapon damage. Pretty much super, ability, aspect and fragment agnostic (although your weapon elemental damage type will need to match your grenade), so you can just use them to flesh out your preferred gameplay style. And, seeing as you're asking, Relativism is a philosophical theory that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.|tags:PvE PvE-Utility PvE-God M+KB Controller
+dimwishlist:item=2809120022&perks=1476923953,1476923957
+
+// Relativism (PvE)
+// Spirit of the Foetracer, Spirit of the Star-Eater
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): A great trait combination to use for burst boss damage - Star-Eater boosts super damage by up to ×1.7 on picking up power orbs and then once out of your super you'll get ×1.25 boost to matching elemental damage for 10s (which can be reprocced by damaging the boss with another arc ability). Ideally you'll need a burst damage super like Storm's Edge and then swap to your arc boss damage weapon of choice. As this is aimed at boss damage, you can choose your abilities, aspects and fragments to support your preferred gameplay objectives. And, seeing as you're asking, Relativism is a philosophical theory that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2809120022&perks=3751917997,1476923955
+
+// Relativism (PvE)
+// Spirit of the Foetracer, Spirit of Verity
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-MinorSpec PvE-Utility PvE-EndGame PvE-God M+KB Controller): This trait combination offers a nice, simple gameplay loop for offensive grenade builds - first Foetracer provides a ×1.25 for 10s to weapon damage on damaging an enemy with a matching ability, which then feeds kills into Verity stacks to boost grenade damage by up to ×2. Neither boosts grenade ability recharge rate, so you might want to look at a matching element weapon with the Demolitionist trait, and/or using aspects and fragments that do the same, or which improve your grenade use further. And, seeing as you're asking, Relativism is a philosophical theory that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.|tags:PvE PvE-MinorSpec PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2809120022&perks=3751917997,1476923957
+
+// Relativism (PvE)
+// Spirit of Renewal, Spirit of the Star-Eater
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): With the nerf to Well of Radiance, this trait pairing provides Star-Eater's up to ×1.7 boost to super damage by picking up power orbs, and improving your fireteam's survivability, through Renewal's generation of Frost Armor and ×0.5 reduction in enemy damage output when standing inside a Duskfield Grenade's radius. To regain grenade energy quickly after your super ends, you might look at Facets of Balance (to use with a Stasis/Strand primary weapon), and maybe also Courage to boost damage for a Gathering Storm super, butu otherwise melee, aspects and fragments can be used to support your gameplay objectives. And, seeing as you're asking, Relativism is a philosophical theory that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2809120022&perks=3751917995,1476923955
+
+// Stoicism (PvE)
+// Spirit of Inmost Light, Spirit of the Star-Eater
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): An all-purpose, throw it on and forget about it trait pairing which provides Star-Eater's up to ×1.7 boost to super damage by picking up power orbs together with Inmost Light's boost to your abilities and regeneration time just by using them. Pretty much super, ability, aspect and fragment agnostic, so you can just use them to flesh out your preferred gameplay style. And, seeing as you're asking, Stoicism is a philosophical theory holding that wise people should be free from passion, unmoved by joy or grief so, a bit like Spock.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=266021826&perks=1476923953,1476923955
+
+// Stoicism (PvE)
+// Spirit of Inmost Light, Spirit of Scars
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): An all-purpose, throw it on and forget about it trait pairing which provides Inmost Light's boost to your abilities and regeneration time just by using them with cure healing for you and your nearby fireteam for weapon kills that match your super's energy type. Pretty much super, ability, aspect and fragment agnostic as long as you have a matching weapon to proc Scars, so you can just use them to flesh out your preferred gameplay style. And, seeing as you're asking, Stoicism is a philosophical theory holding that wise people should be free from passion, unmoved by joy or grief so, a bit like Spock.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=266021826&perks=1476923953,3573490507
+
+// Stoicism (PvE)
+// Spirit of the Bear, Spirit of the Star-Eater
+//notes:Rolls published by u/engineeeeer7 and rated as 5/5 in the linked spreadsheet at https://www.reddit.com/r/DestinyTheGame/comments/1dz5sj5/exotic_class_item_planner_and_reference/ (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): This trait pairing is aimed at regaining your super quickly, with Bear using hits on the Unbreakable aspect's shield to speed up regeneration time, and then Star-Eater's up to ×1.7 boost to super damage by picking up power orbs. Your build will focus on grenade ability regeneration, to use with Unbreakable, and super damage - so Facets of Courage, for additional ability damage against darkness-debuffed targets, Balance, for boost to grenade energy on darkness kills, Purpose, for DR or healing on an orb pickup, and Solitude to sever targets to use with Courage all look like useful additions to the kit, together with a Stasis or Strand Demolitionist weapon and a Light-based super. And, seeing as you're asking, Stoicism is a philosophical theory holding that wise people should be free from passion, unmoved by joy or grief so, a bit like Spock.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=266021826&perks=3573490505,1476923955
+
+// Rolls if I have time later
+
+// Solipsism (backup PvE)
+// Spirit of the Assassin, Spirit of Synthoceps
+// Spirit of the Assassin, Spirit of the Claw
+// Spirit of Inmost Light, Spirit of the Star-Eater
+// Spirit of Inmost Light, Spirit of Synthoceps
+// Spirit of Inmost Light, Spirit of Verity
+// Spirit of Inmost Light, Spirit of Harmony
+// Spirit of Inmost Light, Spirit of the Claw
+// Spirit of the Ophidian, Spirit of the Star-Eater
+// Spirit of the Filaments, Spirit of Starfire
+// Spirit of the Necrotic, Spirit of the Star-Eater
+// Spirit of the Necrotic, Spirit of Synthoceps
+// Spirit of Osmiomancy, Spirit of Harmony
+// Spirit of Osmiomancy, Spirit of Starfire
+// Spirit of Apotheosis, Spirit of Synthoceps
+// Spirit of Apotheosis, Spirit of Verity
+
+// Stoicism (backup PvE)
+// Spirit of the Assassin, Spirit of Synthoceps
+// Spirit of the Assassin, Spirit of Contact
+// Spirit of Inmost Light, Spirit of Verity
+// Spirit of Inmost Light, Spirit of the Horn
+// Spirit of Inmost Light, Spirit of Alpha Lupi
+// Spirit of Inmost Light, Spirit of the Armamentarium
+// Spirit of Severance, Spirit of Inmost Light
+// Spirit of the Eternal Warrior, Spirit of Synthoceps
+// Spirit of the Eternal Warrior, Spirit of Scars
+// Spirit of the Abeyant, Spirit of the Star-Eater
+// Spirit of the Abeyant, Spirit of Synthoceps
+// Spirit of the Abeyant, Spirit of Contact
+// Spirit of the Abeyant, Spirit of Scars
+// Spirit of the Bear, Spirit of the Armamentarium
+
+// Relativism (backup PvE)
+// Spirit of the Assassin, Spirit of Gyrfalcon
+// Spirit of the Assassin, Spirit of the Liar
+// Spirit of Inmost Light, Spirit of the Star-Eater
+// Spirit of Inmost Light, Spirit of the Liar
+// Spirit of Inmost Light, Spirit of the Coyote
+// Spirit of the Ophidian, Spirit of the Star-Eater
+// Spirit of the Dragon, Spirit of the Star-Eater
+// Spirit of the Dragon, Spirit of the Coyote
+// Spirit of Galanor, Spirit of Verity
+// Spirit of Galanor, Spirit of the Gyrfalcon
+// Spirit of Galanor, Spirit of the Liar
+// Spirit of the Foetracer, Spirit of Gyrfalcon
+// Spirit of Caliban, Spirit of the Star-Eater
+// Spirit of Caliban, Spirit of Synthoceps
+// Spirit of Caliban, Spirit of Cyrtarachne
+// Spirit of Renewal, Spirit of Synthoceps
+// Spirit of Renewal, Spirit of the Liar
