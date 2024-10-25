@@ -1,0 +1,75 @@
+// PvE podcast ep119 Revenant weapons additional rolls
+
+// Liturgy (PvE)
+// (Hard Launch, Smart Drift Control), Disorienting Grenades, Rimestealer, Chill Clip
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): PvE utility pick for crowd control in both general and end-game, underleveled content, particularly with Stasis builds. Liturgy is the fourth double fire GL, and the first Stasis energy type with a weirdly lower Blast Radius of 40 - that aside, the stats are decent. At base, 89 Velocity equates to 63.78m/s, 47 Handling is 0.42s ready, 0.41s ADS speed and 0.38s stow speed, while the Reload Speed of 32 is a 2.62s reload. At base, with 0, 1, 2 or 3 chest reserves mods, you'll get total ammo of 22/23/24/25 which can be boosted by trait perks. For a utility roll that uses Disorienting Grenades as the magazine perk, Blast Radius is irrelevant as it'll always end up at 0, so use the barrel perk to boost Velocity, and Handling if possible. For Stasis synergy, the combination of new-to-season-25 Rimestealer and Chill Clip should disorient and slow enemies up to and including Champions and Minibosses - Whisper of Durance on a Stasis subclass will extend the slow effect. With other sources of slow and freeze, shattering frozen targets (and Stasis crystals) grants a stack of Frost Armor - two stacks when enhanced. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. For anyone interested, a liturgy is a form or formulary according to which public religious worship, is conducted. Recommended MW: Velocity or Handling, with a Quick Access Sling mod, or possibly a Tactical mod when enhanced.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2599338624&perks=981914802,3032599245,1955165503,2978966579,3525010810
+dimwishlist:item=2599338624&perks=3798852852,3032599245,1955165503,2978966579,3525010810
+
+// Liturgy (PvE)
+// Hard Launch, (Implosion Rounds, Spike Grenades), (Envious Arsenal, Slideways), Chill Clip
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for a boss damage rotation in both general and end-game, underleveled content, particularly with Stasis builds. Liturgy is the fourth double fire GL, and the first Stasis energy type with a weirdly lower Blast Radius of 40 (which is actually a plus for this roll), the stats are decent. At base, 89 Velocity equates to 63.78m/s, 47 Handling is 0.42s ready, 0.41s ADS speed and 0.38s stow speed, while the Reload Speed of 32 is a 2.62s reload. At base, with 0, 1, 2 or 3 chest reserves mods, you'll get total ammo of 22/23/24/25 which can be boosted by trait perks. Counter-intuitively, for single-target damage, the lower the blast radius, the more damage you cause so reduce the low BR even further with Hard Launch as the barrel perk, and Implosion Rounds in the magazine - although Spike Grenades is also very good. If you're using this in a Bait and Switch weapon rotation, Envious Arsenal in the first trait column will reload (and also boosts ammo reserves by the equivalent of 1 reserves mod, or 2 when enhanced), or if not, and you're moving between damage plates, Slideways does the same. There's no useful damage perk in the second column, but if you have Chill Clip, then you can use Prismatic's Facet of Courage for a ×1.1 damage multiplier with a light-based heavy weapon or super. You won't get much use from the excellent Dark Ether origin trait from this roll, unfortunately, as it's more about setting up for boss damage than kills. For anyone interested, a liturgy is a form or formulary according to which public religious worship, is conducted. Recommended MW: Velocity or Handling, with a Quick Access Sling mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2599338624&perks=981914802,3492396210,3987942396,2978966579
+dimwishlist:item=2599338624&perks=981914802,3301904089,3987942396,2978966579
+dimwishlist:item=2599338624&perks=981914802,3492396210,2039302152,2978966579
+dimwishlist:item=2599338624&perks=981914802,3301904089,2039302152,2978966579
+
+// Vantage Point (PvE)
+// (Arrowhead Brake, Fluted Barrel, Smallbore, Chambered Compensator), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag, Extended Mag), Deconstruction, (High-Impact Reserves, Focused Fury)
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller): First-choice utility PvE pick for dealing with constructs and vehicles in both general and end-game, underleveled content. Insurmountable is an arc adaptive Pulse Rifle with overall in-band stats. At base, 42 Range equates to 32.55m when ADS, 40 Handling is 0.42s ready, 0.38s ADS speed and 0.41s stow speed, while the Reload Speed of 42 is a 2.01s reload. You might find a little help with the recoil direction useful or, if you can handle it, look for some extra handling or stability. In the magazine perk slot, look to increase magazine size and reload speed. If you're facing enemy vehicles or constructs, then Deconstruction in the first trait column for a ×1.4 damage boost and a 10% magazine reload after hitting around four bursts, pairs multiplicatively with either High-Impact Reserves for an escalating further damage boost up to ×1.256 (if you target dosn't have a crit spot) or Focused Fury's ×1.2 damage boost (if it does) when you're firing continuously at a single contruct or vehicle target. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly a Synergy (for Ionic Traces to proc Amplified more often), Tactical or Ammo Finder Enhancement mod when enhanced.|tags:PvE PvE-Utility PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3830941962&perks=839105230,106909392,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,106909392,3993379141,2213355989
+dimwishlist:item=3830941962&perks=1482024992,106909392,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,106909392,3993379141,2213355989
+dimwishlist:item=3830941962&perks=839105230,3230963543,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,3230963543,3993379141,2213355989
+dimwishlist:item=3830941962&perks=1482024992,3230963543,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,3230963543,3993379141,2213355989
+dimwishlist:item=3830941962&perks=839105230,1431678320,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,1431678320,3993379141,2213355989
+dimwishlist:item=3830941962&perks=1482024992,1431678320,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,1431678320,3993379141,2213355989
+dimwishlist:item=3830941962&perks=839105230,1087426260,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,1087426260,3993379141,2213355989
+dimwishlist:item=3830941962&perks=1482024992,1087426260,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,1087426260,3993379141,2213355989
+dimwishlist:item=3830941962&perks=839105230,2420895100,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,2420895100,3993379141,2213355989
+dimwishlist:item=3830941962&perks=1482024992,2420895100,3993379141,2213355989
+dimwishlist:item=3830941962&perks=3661387068,2420895100,3993379141,2213355989
+dimwishlist:item=3830941962&perks=839105230,106909392,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,106909392,3993379141,2896038713
+dimwishlist:item=3830941962&perks=1482024992,106909392,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,106909392,3993379141,2896038713
+dimwishlist:item=3830941962&perks=839105230,3230963543,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,3230963543,3993379141,2896038713
+dimwishlist:item=3830941962&perks=1482024992,3230963543,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,3230963543,3993379141,2896038713
+dimwishlist:item=3830941962&perks=839105230,1431678320,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,1431678320,3993379141,2896038713
+dimwishlist:item=3830941962&perks=1482024992,1431678320,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,1431678320,3993379141,2896038713
+dimwishlist:item=3830941962&perks=839105230,1087426260,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,1087426260,3993379141,2896038713
+dimwishlist:item=3830941962&perks=1482024992,1087426260,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,1087426260,3993379141,2896038713
+dimwishlist:item=3830941962&perks=839105230,2420895100,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,2420895100,3993379141,2896038713
+dimwishlist:item=3830941962&perks=1482024992,2420895100,3993379141,2896038713
+dimwishlist:item=3830941962&perks=3661387068,2420895100,3993379141,2896038713
+
+// Sovereignty (PvE)
+// (Arrowhead Brake, Fluted Barrel), (Tactical Mag, Appended Mag, Extended Mag), Explosive Payload, Withering Gaze
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for backup sustained Boss damage in both general and end-game, underleveled content. Sovereignty is a void adaptive Sniper Rifle with overall in-band stats so, unfortunately it's not as good as a rapid-fire as a backup boss damage weapon. At base, it has 45 Zoom, 40 Handling which equates to 0.39s ready, 0.41s ADS speed and 0.34s stow speed, while the Reload Speed of 39 is a 3.04s reload. Total ammo at base with 0, 1, 2 and 3 reserve mods is 21/23/25/26. You might find a little help with the recoil direction useful or, if you can handle it, look for some extra handling or stability. In the magazine perk slot, look to increase magazine size - Appended or Extended Mag with a Backup Mag mod takes total ammo to 25/27/29/30. Combined with the origin trait, you can potentially get 10 in an overflowed mag (13 when the weapon's enhanced). If you haven't already got a well-rolled backup boss damage sniper (rapid fires are really much better), then pair Enlightened Action with either Firing Line or Precision Instrument as a backstop until you do. The Dark Ether origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows your weapon to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod, or possibly an Anti-Flinch mod when enhanced.|tags:PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3818198556&perks=839105230,106909392,3828510309,1771339417
+dimwishlist:item=3818198556&perks=1840239774,106909392,3828510309,1771339417
+dimwishlist:item=3818198556&perks=839105230,1087426260,3828510309,1771339417
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3828510309,1771339417
+dimwishlist:item=3818198556&perks=839105230,2420895100,3828510309,1771339417
+dimwishlist:item=3818198556&perks=1840239774,2420895100,3828510309,1771339417
+dimwishlist:item=3818198556&perks=839105230,106909392,3828510309,555281244
+dimwishlist:item=3818198556&perks=1840239774,106909392,3828510309,555281244
+dimwishlist:item=3818198556&perks=839105230,1087426260,3828510309,555281244
+dimwishlist:item=3818198556&perks=1840239774,1087426260,3828510309,555281244
+dimwishlist:item=3818198556&perks=839105230,2420895100,3828510309,555281244
+dimwishlist:item=3818198556&perks=1840239774,2420895100,3828510309,555281244
