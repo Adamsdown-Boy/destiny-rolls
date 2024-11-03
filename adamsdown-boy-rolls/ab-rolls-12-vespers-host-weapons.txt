@@ -1,0 +1,9 @@
+// PvE podcast ep120 Vesper's Host weapons additional rolls
+
+// VS Gravitic Arrest (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), (Enhanced Battery, Ionized Battery), Unrelenting, Chain Reaction
+//notes:Adamsdown_Boy written v8.1.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for add clearing minor enemies in general and end-game, underleveled content. VS Gravitic Arrest is the first ever legendary void adaptive FR in D2 so, if you've been yearning for one, your wait is over! The stats are on the low side though. At base, 34 Range equates to 15.73m while ADS and 12.10m hipfire, 30 Handling is 0.46s ready, 0.36s ADS speed and 0.36s stow speed, while the Reload Speed of 31 is a 2.27s reload. With 0/1/2/3 reserves, you have 20/23/26/27 total ammo. For the barrel perk, Arrowhead Brake or Fluted Barrel pump up the Handling stat. Enhanced Battery gots you to 7 shots or Ionized Battery provides 8 in as the battery perk. TBH, most of the trait perks are PvP focused, but there''s a nice trait perk synergy between Unrelenting and Chain Reaction - any CR detonation kills count as weapon kills for Unrelenting to help keep you alive in CQC. The Bray Legacy origin trait is useful in PvE, working in the background to add ability energy to the one closest to a full charge on every tick of weapon damage. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, a Tactical mod for bumps to handling and Reload Speed, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=93061497&perks=839105230,1483536627,3108830275,2396489472
+dimwishlist:item=93061497&perks=1840239774,1483536627,3108830275,2396489472
+dimwishlist:item=93061497&perks=839105230,2680121939,3108830275,2396489472
+dimwishlist:item=93061497&perks=1840239774,2680121939,3108830275,2396489472
