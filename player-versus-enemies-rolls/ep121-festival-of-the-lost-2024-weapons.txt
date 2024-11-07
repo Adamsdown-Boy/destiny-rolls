@@ -1,0 +1,106 @@
+@title:Episode 121 - Festival of the Lost weapons
+@description:New and reprised weapons from Season 25 (Revenant episode Act 1) with the Search Party origin trait
+
+// BrayTech Werewolf (first-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Alloy Mag, Light Mag, Appended Mag), Rewind Rounds, Onslaught
+//notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content. BrayTech Werewolf returns for 2024 with a couple of new tricks, and its previous good stats. At base, 69 Range equates to 31.00m while ADS and 19.38m hipfire, 39 Handling is 0.41s ready speed, 0.32 ADS speed and 0.38s stow speed, while the Reload Speed of 42 is a 1.94s reload. Being a precision frame, you can pretty much ignore the Recoil Direction stat, and use the barrel perk to boost handling and/or Stability, and pretty much any mag will do (except Extended) - so very much personal preference. For general add-clearing, the trait perk pairing of Rewind Rounds compliments Onslaught to passively refill your mag as you hit adds and reach the higher damage stacks. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Stability or Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3558681245&perks=1840239774,1885400500,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,1885400500,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,1885400500,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,1885400500,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,1968497646,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,1968497646,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,1968497646,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,1968497646,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,1561002382,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,1561002382,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,1561002382,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,1561002382,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,3230963543,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,3230963543,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,3230963543,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,3230963543,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,1431678320,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,1431678320,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,1431678320,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,1431678320,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,679225683,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,679225683,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,679225683,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,679225683,3418782618,95528736
+dimwishlist:item=3558681245&perks=1840239774,1087426260,3418782618,95528736
+dimwishlist:item=3558681245&perks=4090651448,1087426260,3418782618,95528736
+dimwishlist:item=3558681245&perks=1482024992,1087426260,3418782618,95528736
+dimwishlist:item=3558681245&perks=1392496348,1087426260,3418782618,95528736
+
+// BrayTech Werewolf (first-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Alloy Mag, Light Mag, Appended Mag), Rewind Rounds, Kinetic Tremors
+//notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general and end-game, underleveled, content. BrayTech Werewolf returns for 2024 with a couple of new tricks, and its previous good stats. At base, 69 Range equates to 31.00m while ADS and 19.38m hipfire, 39 Handling is 0.41s ready speed, 0.32 ADS speed and 0.38s stow speed, while the Reload Speed of 42 is a 1.94s reload. Being a precision frame, you can pretty much ignore the Recoil Direction stat, and use the barrel perk to boost handling and/or Stability, and pretty much any mag will do (except Extended) - so very much personal preference. For add-clearing, the trait perk pairing of Rewind Rounds compliments Kinetic Tremors to passively refill your mag as you hit adds - with KT proccing on every 12th hit, you might get four or five procs before you need to reload. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Stability or Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3558681245&perks=1840239774,1885400500,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1885400500,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,1885400500,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,1885400500,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1840239774,1968497646,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1968497646,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,1968497646,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,1968497646,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1840239774,1561002382,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1561002382,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,1561002382,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,1561002382,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1840239774,3230963543,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,3230963543,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,3230963543,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,3230963543,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1840239774,1431678320,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1431678320,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,1431678320,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,1431678320,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1840239774,679225683,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,679225683,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,679225683,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,679225683,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1840239774,1087426260,3418782618,3891536761
+dimwishlist:item=3558681245&perks=4090651448,1087426260,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1482024992,1087426260,3418782618,3891536761
+dimwishlist:item=3558681245&perks=1392496348,1087426260,3418782618,3891536761
+
+// Arcane Embrace (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Fourth Time's the Charm, Precision Instrument
+//notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for backup sustained Boss damage in general and end-game, underleveled, content. Arcane Embrace is the first of a new subfamily of Heavy Burst shotguns, which look like they might be the new top pick for special weapon boss DPS, doing 9.88% more damage that slug shotguns if both shits hit. The stats look similar to Pin Point Slug shotties too, and by that standard are pretty decent. At base, with 0/1/2/3 Reserve mods, you hold total ammo of 26/29/33/34, but you can chew through ammo fast, firing two shots with each trigger pull. The usual play for shotguns of boosting handling with the barrel perk still applies and, as there's no Assault Mag, look to a magazine perk that helps with Reload Speed. For sustained boss damage, once you're out of heavy ammo, the perk trait combination of Fourth Time's the Charm and Precision Instrument, if you can consistently hit a boss crit spot to take advantage of the up to ×1.25 boost to precision damage and extend your mag. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3649985571&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=839105230,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=4090651448,106909392,1354429876,555281244
+dimwishlist:item=3649985571&perks=1840239774,3230963543,1354429876,555281244
+dimwishlist:item=3649985571&perks=839105230,3230963543,1354429876,555281244
+dimwishlist:item=3649985571&perks=4090651448,3230963543,1354429876,555281244
+dimwishlist:item=3649985571&perks=1840239774,1431678320,1354429876,555281244
+dimwishlist:item=3649985571&perks=839105230,1431678320,1354429876,555281244
+dimwishlist:item=3649985571&perks=4090651448,1431678320,1354429876,555281244
+
+// Arcane Embrace (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Threat Detector, Surrounded
+//notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Majors, Champions and Bosses in general and end-game, underleveled, content. Arcane Embrace is the first of a new subfamily of Heavy Burst shotguns, which look like they might be the new top pick for special weapon boss DPS, doing 9.88% more damage that slug shotguns if both shits hit. The stats look similar to Pin Point Slug shotties too, and by that standard are pretty decent. At base, with 0/1/2/3 Reserve mods, you hold total ammo of 26/29/33/34, but you can chew through ammo fast, firing two shots with each trigger pull. The usual play for shotguns of boosting handling with the barrel perk still applies and, as there's no Assault Mag, look to a magazine perk that helps with Reload Speed. When in CQC, the trait perk combination of Threat Detector, boosting gunfeel when you're near 2+ enemies, and Surrounded for a chunky ×1.4 boost to damage (×1.47 when enhanced) when you're near 3 or more enemies, is hard to beat to burst down Majors, Champions and the occasional Boss. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Synergy to generate Ionic Traces or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3649985571&perks=1840239774,106909392,4071163871,3708227201
+dimwishlist:item=3649985571&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=3649985571&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=3649985571&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=3649985571&perks=839105230,3230963543,4071163871,3708227201
+dimwishlist:item=3649985571&perks=4090651448,3230963543,4071163871,3708227201
+dimwishlist:item=3649985571&perks=1840239774,1431678320,4071163871,3708227201
+dimwishlist:item=3649985571&perks=839105230,1431678320,4071163871,3708227201
+dimwishlist:item=3649985571&perks=4090651448,1431678320,4071163871,3708227201
+
+// Acosmic (first-choice PvE)
+// (Hard Launch, Quick Launch, Smart Drift Control), Spike Grenades, Air Trigger, Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Bosses in general and end-game, underleveled, content. Void rapid-fire grenade launcher Acosmic returns with a couple of new tricks for a boss damage. The stats look decent out of the box. At base, 25 Handling translates to 0.48s ready speed, 0.45s ADS speed and 0.43 stow speed, and with 0/1/2/3 Reserve mods, you hold total ammo of 33/35/37/38 shots. For boss damage, Hard Launch as the barrel perk squeezes a tiny bit more damage out of Spike Grenades, but otherwise look for one that boosts velocity. Air Trigger may sound like a weird recommendation for the first trait perk, but it's more for the additional reserves - equivalent to 1.5 reserve mods (2 mods when enhanced) and, as long as you start your reload animation while in the air, the whole reload will be sped up. You'll need a fast reload to use with Bait and Switch for the ×1.3 damage boost for 10s. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced, but don't overlook Nadir Focus for extra velocity. If you're interested, Acosmic is named after one of the two Hindu aspects of god; to be acosmic is to deny the objective reality of the temporal world - transcendental in a world-negating sense (according to Merriam-Webster). Recommended MW: Velocity or Reload Speed (if it's Blast Radius, leave it well alone with Spike Grenades) depending on your preference, with a Backup Mag mod or, when masterworked, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=425681240&perks=981914802,3301904089,1421772400,3078487919
+dimwishlist:item=425681240&perks=3525010810,3301904089,1421772400,3078487919
+dimwishlist:item=425681240&perks=3798852852,3301904089,1421772400,3078487919
+
+// Acosmic (first-choice PvE)
+// (Hard Launch, Quick Launch, Smart Drift Control), Spike Grenades, Withering Gaze, Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 121 from 5 November 2024 (https://open.spotify.com/episode/64p7wnHATJnZB8jnnJUnhP?si=f5552155425a4d6a) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Bosses in general and end-game, underleveled, content, particularly for void builds. Void rapid-fire grenade launcher Acosmic returns with a couple of new tricks for a boss damage. The stats look decent out of the box. At base, 25 Handling translates to 0.48s ready speed, 0.45s ADS speed and 0.43 stow speed, and with 0/1/2/3 Reserve mods, you hold total ammo of 33/35/37/38 shots. For boss damage, Hard Launch as the barrel perk squeezes a tiny bit more damage out of Spike Grenades, but otherwise look for one that boosts velocity. For boss damage, in the first trait perk column, Withering Gaze give access to Void weakening if you're not on a void subclass or for you to work with subclass fragments if you are, for an effective ×1.15 damage boost, together with Bait and Switch in the second for ×1.3 damage (which is a ×1.495 total damage boost when both are procced), which helps offset the lack of a reload perk. Maybe a roll to tuck away for a season/episode when we don't have access to weakening via an artifact mod. If you're interested, Acosmic is named after one of the two Hindu aspects of god; to be acosmic is to deny the objective reality of the temporal world - transcendental in a world-negating sense (according to Merriam-Webster). The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced, but don't overlook Nadir Focus for extra velocity. Recommended MW: Reload Speed (if it's Blast Radius, leave it well alone with Spike Grenades) depending on your preference, with a Backup Mag mod or, when masterworked, Synergy to generate Void Breaches, or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=425681240&perks=981914802,3301904089,1134488199,3078487919
+dimwishlist:item=425681240&perks=3525010810,3301904089,1134488199,3078487919
+dimwishlist:item=425681240&perks=3798852852,3301904089,1134488199,3078487919
