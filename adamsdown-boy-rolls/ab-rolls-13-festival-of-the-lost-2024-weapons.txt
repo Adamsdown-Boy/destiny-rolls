@@ -2,7 +2,7 @@
 
 // BrayTech Werewolf (PvE)
 // (Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds, Flared Magwell, Alloy Mag, Light Mag, Appended Mag), Subsistence, Onslaught
-//notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content. BrayTech Werewolf returns for 2024 with a couple of new tricks, and its previous good stats. At base, 69 Range equates to 31.00m while ADS and 19.38m hipfire, 39 Handling is 0.41s ready speed, 0.32 ADS speed and 0.38s stow speed, while the Reload Speed of 42 is a 1.94s reload. Being a precision frame, you can pretty much ignore the Recoil Direction stat, and use the barrel perk to boost handling and/or Stability, and pretty much any mag will do (except Extended) - so very much personal preference. For general add-clearing, the trait perk pairing of Subsistence compliments Onslaught to passively refill your mag as you kill adds and reach the higher damage stacks. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Stability or Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+//notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for add clearing minor enemies in general non-underleveled content. BrayTech Werewolf returns for 2024 with a couple of new tricks, and its previous good stats. At base, 69 Range equates to 31.00m while ADS and 19.38m hipfire, 39 Handling is 0.41s ready speed, 0.32 ADS speed and 0.38s stow speed, while the Reload Speed of 42 is a 1.94s reload. Being a precision frame, you can pretty much ignore the Recoil Direction stat, and use the barrel perk to boost handling and/or Stability, and pretty much any mag will do (except Extended) - so very much personal preference. For general add-clearing, the trait perk pairing of Subsistence compliments Onslaught to passively refill your mag as you kill adds and reach the higher DPS stacks. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Handling, Stability or Reload Speed depending on your preference, with a Backup Mag mod or, when masterworked, Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
 dimwishlist:item=3558681245&perks=1840239774,1885400500,1820235745,95528736
 dimwishlist:item=3558681245&perks=4090651448,1885400500,1820235745,95528736
 dimwishlist:item=3558681245&perks=1482024992,1885400500,1820235745,95528736
@@ -67,80 +67,80 @@ dimwishlist:item=3558681245&perks=1392496348,1087426260,1820235745,3891536761
 // Jurassic Green (PvE)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), Subsistence, Frenzy
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-MinorSpec PvE-God M+KB Controller): PvE first-choice roll for clearing Minor adds in end-game content. Dreadful stats compared to any other energy rapid-fire pulse rifle, but it's still the only non-endgame solar one currently available. The Range of 27 equates to 30.64m ADS and 18.02m hipfire, 19 Handling is 0.48 ready speed, 0.42s ADS speed and 0.48s stow speed, while 27 Reload Speed is 2.30s reload. It's got a wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction or control it with a Stability barrel perk 9or a bit of both) and then add a bit more stability with the magazine perk with Tactical Mag or Flared Magwell. In the first trait perk slot, Subsistence passively refills your mag on enemy kills, and Frenzy in the second provides a decent ×1.15 damage boost in combat, as well as maxing out Handling and Reload Speed. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Stability, with a Backup Mag mod or, when masterworked, when masterworked, Synergy to generate Firesprites or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=839105230,106909392,1820235745,4104185692
-dimwishlist:item=689294985&perks=3661387068,106909392,1820235745,4104185692
-dimwishlist:item=689294985&perks=1482024992,106909392,1820235745,4104185692
-dimwishlist:item=689294985&perks=839105230,3230963543,1820235745,4104185692
-dimwishlist:item=689294985&perks=3661387068,3230963543,1820235745,4104185692
-dimwishlist:item=689294985&perks=1482024992,3230963543,1820235745,4104185692
+dimwishlist:item=2477980485&perks=839105230,106909392,1820235745,4104185692
+dimwishlist:item=2477980485&perks=3661387068,106909392,1820235745,4104185692
+dimwishlist:item=2477980485&perks=1482024992,106909392,1820235745,4104185692
+dimwishlist:item=2477980485&perks=839105230,3230963543,1820235745,4104185692
+dimwishlist:item=2477980485&perks=3661387068,3230963543,1820235745,4104185692
+dimwishlist:item=2477980485&perks=1482024992,3230963543,1820235745,4104185692
 
 // Jurassic Green (PvE)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), Subsistence, Desperate Measures
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE first-choice roll for clearing Minor adds in end-game content. Dreadful stats compared to any other energy rapid-fire pulse rifle, but it's still the only non-endgame solar one currently available. The Range of 27 equates to 30.64m ADS and 18.02m hipfire, 19 Handling is 0.48 ready speed, 0.42s ADS speed and 0.48s stow speed, while 27 Reload Speed is 2.30s reload. It's got a wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction or control it with a Stability barrel perk 9or a bit of both) and then add a bit more stability with the magazine perk with Tactical Mag or Flared Magwell. In the first trait perk slot, Perpetual Motion passively boosts gunfeel stats just by moving about, or Subsistence passively refills your mag on enemy kills. In the second, Desperate Measures provides up to a decent, refreshable ×1.3 damage boost for 7s at three stacks, if you combine weapon and ability kills. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Stability, with a Backup Mag mod or, when masterworked, when masterworked, Synergy to generate Firesprites or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=839105230,106909392,1820235745,2109543898
-dimwishlist:item=689294985&perks=3661387068,106909392,1820235745,2109543898
-dimwishlist:item=689294985&perks=1482024992,106909392,1820235745,2109543898
-dimwishlist:item=689294985&perks=839105230,3230963543,1820235745,2109543898
-dimwishlist:item=689294985&perks=3661387068,3230963543,1820235745,2109543898
-dimwishlist:item=689294985&perks=1482024992,3230963543,1820235745,2109543898
+dimwishlist:item=2477980485&perks=839105230,106909392,1820235745,2109543898
+dimwishlist:item=2477980485&perks=3661387068,106909392,1820235745,2109543898
+dimwishlist:item=2477980485&perks=1482024992,106909392,1820235745,2109543898
+dimwishlist:item=2477980485&perks=839105230,3230963543,1820235745,2109543898
+dimwishlist:item=2477980485&perks=3661387068,3230963543,1820235745,2109543898
+dimwishlist:item=2477980485&perks=1482024992,3230963543,1820235745,2109543898
 
 // Jurassic Green (PvE)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), Heal Clip, Incandescent
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE first-choice roll for clearing Minor adds in end-game content, particularly with solar builds. Dreadful stats compared to any other energy rapid-fire pulse rifle, but it's still the only non-endgame solar one currently available. The Range of 27 equates to 30.64m ADS and 18.02m hipfire, 19 Handling is 0.48 ready speed, 0.42s ADS speed and 0.48s stow speed, while 27 Reload Speed is 2.30s reload. It's got a wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction or control it with a Stability barrel perk 9or a bit of both) and then add a bit more stability with the magazine perk with Tactical Mag or Flared Magwell. If you can't run a dungeon, this is the only way you can get the popular Heal Clip/Incandescent trait perk combination - good on their own to spread scorch and ignitions to clear add-dense areas while applying Cure to you and nearby fireteam members on reload after a kill - even better when synergising with solar fragments. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Stability, with a Backup Mag mod or, when masterworked, Synergy to generate Firesprites or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=839105230,106909392,3017780555,4293542123
-dimwishlist:item=689294985&perks=3661387068,106909392,3017780555,4293542123
-dimwishlist:item=689294985&perks=1482024992,106909392,3017780555,4293542123
-dimwishlist:item=689294985&perks=839105230,3230963543,3017780555,4293542123
-dimwishlist:item=689294985&perks=3661387068,3230963543,3017780555,4293542123
-dimwishlist:item=689294985&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=2477980485&perks=839105230,106909392,3017780555,4293542123
+dimwishlist:item=2477980485&perks=3661387068,106909392,3017780555,4293542123
+dimwishlist:item=2477980485&perks=1482024992,106909392,3017780555,4293542123
+dimwishlist:item=2477980485&perks=839105230,3230963543,3017780555,4293542123
+dimwishlist:item=2477980485&perks=3661387068,3230963543,3017780555,4293542123
+dimwishlist:item=2477980485&perks=1482024992,3230963543,3017780555,4293542123
 
 // Jurassic Green (PvE)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Tactical Mag, Flared Magwell), Loose Change, Incandescent
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE first-choice roll for clearing Minor adds in end-game content, particularly with solar builds. Dreadful stats compared to any other energy rapid-fire pulse rifle, but it's still the only non-endgame solar one currently available. The Range of 27 equates to 30.64m ADS and 18.02m hipfire, 19 Handling is 0.48 ready speed, 0.42s ADS speed and 0.48s stow speed, while 27 Reload Speed is 2.30s reload. It's got a wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction or control it with a Stability barrel perk (or a bit of both) and then add a bit more stability with the magazine perk with Tactical Mag or Flared Magwell. There's a rare trait perk pairing of Loose Change and Incandescent available, with the scorch spread by Incandescent kills proccing both +50 reload speed and +20 aim assist boosts, making crits more consistent. It's not essential, but you can use solar fragments to further improve scorch and ignitions. The Search Party origin trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Recommended MW: Stability, with a Backup Mag mod or, when masterworked, Synergy to generate Firesprites or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=839105230,106909392,1119449540,4293542123
-dimwishlist:item=689294985&perks=3661387068,106909392,1119449540,4293542123
-dimwishlist:item=689294985&perks=1482024992,106909392,1119449540,4293542123
-dimwishlist:item=689294985&perks=839105230,3230963543,1119449540,4293542123
-dimwishlist:item=689294985&perks=3661387068,3230963543,1119449540,4293542123
-dimwishlist:item=689294985&perks=1482024992,3230963543,1119449540,4293542123
+dimwishlist:item=2477980485&perks=839105230,106909392,1119449540,4293542123
+dimwishlist:item=2477980485&perks=3661387068,106909392,1119449540,4293542123
+dimwishlist:item=2477980485&perks=1482024992,106909392,1119449540,4293542123
+dimwishlist:item=2477980485&perks=839105230,3230963543,1119449540,4293542123
+dimwishlist:item=2477980485&perks=3661387068,3230963543,1119449540,4293542123
+dimwishlist:item=2477980485&perks=1482024992,3230963543,1119449540,4293542123
 
 // Mechabre (PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Keep Away, Air Trigger), Voltshot
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Major Spec enemies in end-game content, particularly for arc builds. Mechabre (it's so obviously a Transformers pun on Macabre, so let's just pronounce it Mech-ah-bruh) is reportedly excellent in PvP, but like all aggressive snipers it struggles to find a role in PvE. One thing you could do is use it to apply jolt to beefier targets at a distance. At base, Handling of 26 equates to 0.44s ready speed, 0.45s ADS speed and 0.39s stow speed, and Reload Speed of 30 is a 3.20s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 22/24/26/26 of a max total ammo of 27. As with most snipers, look for a handling-boosting barrel perk. Building towards the end, Flared Magwell gives the biggest boost to reload speed out of the magazine perks, with Tactical Mag a decent alternative. Keep Away in the first trait column as the support perk boosts reload speed by a further 30, as well as boosting range and accuracy all of which, with a reload Masterwork, can get the reload speed up to 85. Alternatively, Air Trigger can boost Reload Speed by the same +30 when you start the reload animation off the ground, and boosts total ammo by the equivalent of 1.5 reserves mods (2 when enhanced). Get one kill against an add, reload and then Voltshot in the second column as the signature perk can apply Jolt to your next target from a safe distance for burst and AoE damage, and to synergise with arc fragments. The Search Party origin trait is more PvP-orientated, but faster ADS speed is always nice to have. Recommended MW: Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to generate Ionic Traces or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=1840239774,3230963543,3619207468,2173046394
-dimwishlist:item=689294985&perks=839105230,3230963543,3619207468,2173046394
-dimwishlist:item=689294985&perks=4090651448,3230963543,3619207468,2173046394
-dimwishlist:item=689294985&perks=1840239774,106909392,3619207468,2173046394
-dimwishlist:item=689294985&perks=839105230,106909392,3619207468,2173046394
-dimwishlist:item=689294985&perks=4090651448,106909392,3619207468,2173046394
-dimwishlist:item=689294985&perks=1840239774,3230963543,1421772400,2173046394
-dimwishlist:item=689294985&perks=839105230,3230963543,1421772400,2173046394
-dimwishlist:item=689294985&perks=4090651448,3230963543,1421772400,2173046394
-dimwishlist:item=689294985&perks=1840239774,106909392,1421772400,2173046394
-dimwishlist:item=689294985&perks=839105230,106909392,1421772400,2173046394
-dimwishlist:item=689294985&perks=4090651448,106909392,1421772400,2173046394
+dimwishlist:item=2477980485&perks=1840239774,3230963543,3619207468,2173046394
+dimwishlist:item=2477980485&perks=839105230,3230963543,3619207468,2173046394
+dimwishlist:item=2477980485&perks=4090651448,3230963543,3619207468,2173046394
+dimwishlist:item=2477980485&perks=1840239774,106909392,3619207468,2173046394
+dimwishlist:item=2477980485&perks=839105230,106909392,3619207468,2173046394
+dimwishlist:item=2477980485&perks=4090651448,106909392,3619207468,2173046394
+dimwishlist:item=2477980485&perks=1840239774,3230963543,1421772400,2173046394
+dimwishlist:item=2477980485&perks=839105230,3230963543,1421772400,2173046394
+dimwishlist:item=2477980485&perks=4090651448,3230963543,1421772400,2173046394
+dimwishlist:item=2477980485&perks=1840239774,106909392,1421772400,2173046394
+dimwishlist:item=2477980485&perks=839105230,106909392,1421772400,2173046394
+dimwishlist:item=2477980485&perks=4090651448,106909392,1421772400,2173046394
 
 // Mechabre (PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (Triple Tap, Clown Cartridge, Air Trigger), (Firing Line, Vorpal Weapon)
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Boss enemies in end-game content. Mechabre (it's so obviously a Transformers pun on Macabre, so let's just pronounce it Mech-ah-bruh) is reportedly excellent in PvP, but like all aggressive snipers it struggles to find a role in PvE. At base, Handling of 26 equates to 0.44s ready speed, 0.45s ADS speed and 0.39s stow speed, and Reload Speed of 30 is a 3.20s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 22/24/26/26 of a max total ammo of 27. As with most snipers, look for a handling-boosting barrel perk, and then Appended Mag with a Backup Mag mod gets you to the maximum of 5 in the mag. If you don't have a well-rolled rapid-fire sniper for backup boss damage, you could start in the first trait perk slot with one of Triple Tap (7 crits before reload), Clown Cartridge (6-8 shots before reload), or Air Trigger to boost Reload Speed by the same +30 when you start the reload animation off the ground and boost total ammo by the equivalent of 1.5 reserves mods (2 when enhanced). Combine one of those with Firing Line for a ×1.2 damage boost in a fireteam or Vorpal Weapon for a flat ×1.15 boost to majors and bosses in the second. The Search Party origin trait is more PvP-orientated, but faster ADS speed is always nice to have. Recommended MW: Reload Speed, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=1840239774,1087426260,3400784728,1771339417
-dimwishlist:item=689294985&perks=839105230,1087426260,3400784728,1771339417
-dimwishlist:item=689294985&perks=4090651448,1087426260,3400784728,1771339417
-dimwishlist:item=689294985&perks=1840239774,1087426260,2284787283,1771339417
-dimwishlist:item=689294985&perks=839105230,1087426260,2284787283,1771339417
-dimwishlist:item=689294985&perks=4090651448,1087426260,2284787283,1771339417
-dimwishlist:item=689294985&perks=1840239774,1087426260,1421772400,1771339417
-dimwishlist:item=689294985&perks=839105230,1087426260,1421772400,1771339417
-dimwishlist:item=689294985&perks=4090651448,1087426260,1421772400,1771339417
-dimwishlist:item=689294985&perks=1840239774,1087426260,3400784728,1546637391
-dimwishlist:item=689294985&perks=839105230,1087426260,3400784728,1546637391
-dimwishlist:item=689294985&perks=4090651448,1087426260,3400784728,1546637391
-dimwishlist:item=689294985&perks=1840239774,1087426260,2284787283,1546637391
-dimwishlist:item=689294985&perks=839105230,1087426260,2284787283,1546637391
-dimwishlist:item=689294985&perks=4090651448,1087426260,2284787283,1546637391
-dimwishlist:item=689294985&perks=1840239774,1087426260,1421772400,1546637391
-dimwishlist:item=689294985&perks=839105230,1087426260,1421772400,1546637391
-dimwishlist:item=689294985&perks=4090651448,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=839105230,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=4090651448,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=839105230,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=4090651448,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=839105230,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=4090651448,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=839105230,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=4090651448,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=839105230,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=4090651448,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=839105230,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=4090651448,1087426260,1421772400,1546637391
 
 // Arcane Embrace (PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Dual Loader, Threat Detector), Voltshot
