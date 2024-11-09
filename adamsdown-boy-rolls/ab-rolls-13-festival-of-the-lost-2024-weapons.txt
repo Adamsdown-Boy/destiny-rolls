@@ -107,40 +107,40 @@ dimwishlist:item=689294985&perks=1482024992,3230963543,1119449540,4293542123
 // Mechabre (PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag), (Keep Away, Air Trigger), Voltshot
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Major Spec enemies in end-game content, particularly for arc builds. Mechabre (it's so obviously a Transformers pun on Macabre, so let's just pronounce it Mech-ah-bruh) is reportedly excellent in PvP, but like all aggressive snipers it struggles to find a role in PvE. One thing you could do is use it to apply jolt to beefier targets at a distance. At base, Handling of 26 equates to 0.44s ready speed, 0.45s ADS speed and 0.39s stow speed, and Reload Speed of 30 is a 3.20s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 22/24/26/26 of a max total ammo of 27. As with most snipers, look for a handling-boosting barrel perk. Building towards the end, Flared Magwell gives the biggest boost to reload speed out of the magazine perks, with Tactical Mag a decent alternative. Keep Away in the first trait column as the support perk boosts reload speed by a further 30, as well as boosting range and accuracy all of which, with a reload Masterwork, can get the reload speed up to 85. Alternatively, Air Trigger can boost Reload Speed by the same +30 when you start the reload animation off the ground, and boosts total ammo by the equivalent of 1.5 reserves mods (2 when enhanced). Get one kill against an add, reload and then Voltshot in the second column as the signature perk can apply Jolt to your next target from a safe distance for burst and AoE damage, and to synergise with arc fragments. The Search Party origin trait is more PvP-orientated, but faster ADS speed is always nice to have. Recommended MW: Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to generate Ionic Traces or Stunloader when there's a matching artifact mod.|tags:PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=1840239774,3230963543,3619207468,2173046394
-dimwishlist:item=689294985&perks=839105230,3230963543,3619207468,2173046394
-dimwishlist:item=689294985&perks=4090651448,3230963543,3619207468,2173046394
-dimwishlist:item=689294985&perks=1840239774,106909392,3619207468,2173046394
-dimwishlist:item=689294985&perks=839105230,106909392,3619207468,2173046394
-dimwishlist:item=689294985&perks=4090651448,106909392,3619207468,2173046394
-dimwishlist:item=689294985&perks=1840239774,3230963543,1421772400,2173046394
-dimwishlist:item=689294985&perks=839105230,3230963543,1421772400,2173046394
-dimwishlist:item=689294985&perks=4090651448,3230963543,1421772400,2173046394
-dimwishlist:item=689294985&perks=1840239774,106909392,1421772400,2173046394
-dimwishlist:item=689294985&perks=839105230,106909392,1421772400,2173046394
-dimwishlist:item=689294985&perks=4090651448,106909392,1421772400,2173046394
+dimwishlist:item=2477980485&perks=1840239774,3230963543,3619207468,2173046394
+dimwishlist:item=2477980485&perks=839105230,3230963543,3619207468,2173046394
+dimwishlist:item=2477980485&perks=4090651448,3230963543,3619207468,2173046394
+dimwishlist:item=2477980485&perks=1840239774,106909392,3619207468,2173046394
+dimwishlist:item=2477980485&perks=839105230,106909392,3619207468,2173046394
+dimwishlist:item=2477980485&perks=4090651448,106909392,3619207468,2173046394
+dimwishlist:item=2477980485&perks=1840239774,3230963543,1421772400,2173046394
+dimwishlist:item=2477980485&perks=839105230,3230963543,1421772400,2173046394
+dimwishlist:item=2477980485&perks=4090651448,3230963543,1421772400,2173046394
+dimwishlist:item=2477980485&perks=1840239774,106909392,1421772400,2173046394
+dimwishlist:item=2477980485&perks=839105230,106909392,1421772400,2173046394
+dimwishlist:item=2477980485&perks=4090651448,106909392,1421772400,2173046394
 
 // Mechabre (PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Appended Mag, (Triple Tap, Clown Cartridge, Air Trigger), (Firing Line, Vorpal Weapon)
 //notes:Adamsdown_Boy written v8.1.0.4 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Boss enemies in end-game content. Mechabre (it's so obviously a Transformers pun on Macabre, so let's just pronounce it Mech-ah-bruh) is reportedly excellent in PvP, but like all aggressive snipers it struggles to find a role in PvE. At base, Handling of 26 equates to 0.44s ready speed, 0.45s ADS speed and 0.39s stow speed, and Reload Speed of 30 is a 3.20s reload. With 0/1/2/3 reserve mods, you'll have total ammo of 22/24/26/26 of a max total ammo of 27. As with most snipers, look for a handling-boosting barrel perk, and then Appended Mag with a Backup Mag mod gets you to the maximum of 5 in the mag. If you don't have a well-rolled rapid-fire sniper for backup boss damage, you could start in the first trait perk slot with one of Triple Tap (7 crits before reload), Clown Cartridge (6-8 shots before reload), or Air Trigger to boost Reload Speed by the same +30 when you start the reload animation off the ground and boost total ammo by the equivalent of 1.5 reserves mods (2 when enhanced). Combine one of those with Firing Line for a ×1.2 damage boost in a fireteam or Vorpal Weapon for a flat ×1.15 boost to majors and bosses in the second. The Search Party origin trait is more PvP-orientated, but faster ADS speed is always nice to have. Recommended MW: Reload Speed, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
-dimwishlist:item=689294985&perks=1840239774,1087426260,3400784728,1771339417
-dimwishlist:item=689294985&perks=839105230,1087426260,3400784728,1771339417
-dimwishlist:item=689294985&perks=4090651448,1087426260,3400784728,1771339417
-dimwishlist:item=689294985&perks=1840239774,1087426260,2284787283,1771339417
-dimwishlist:item=689294985&perks=839105230,1087426260,2284787283,1771339417
-dimwishlist:item=689294985&perks=4090651448,1087426260,2284787283,1771339417
-dimwishlist:item=689294985&perks=1840239774,1087426260,1421772400,1771339417
-dimwishlist:item=689294985&perks=839105230,1087426260,1421772400,1771339417
-dimwishlist:item=689294985&perks=4090651448,1087426260,1421772400,1771339417
-dimwishlist:item=689294985&perks=1840239774,1087426260,3400784728,1546637391
-dimwishlist:item=689294985&perks=839105230,1087426260,3400784728,1546637391
-dimwishlist:item=689294985&perks=4090651448,1087426260,3400784728,1546637391
-dimwishlist:item=689294985&perks=1840239774,1087426260,2284787283,1546637391
-dimwishlist:item=689294985&perks=839105230,1087426260,2284787283,1546637391
-dimwishlist:item=689294985&perks=4090651448,1087426260,2284787283,1546637391
-dimwishlist:item=689294985&perks=1840239774,1087426260,1421772400,1546637391
-dimwishlist:item=689294985&perks=839105230,1087426260,1421772400,1546637391
-dimwishlist:item=689294985&perks=4090651448,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=839105230,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=4090651448,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=839105230,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=4090651448,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=839105230,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=4090651448,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=839105230,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=4090651448,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=839105230,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=4090651448,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=839105230,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=4090651448,1087426260,1421772400,1546637391
 
 // Arcane Embrace (PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell), (Dual Loader, Threat Detector), Voltshot
