@@ -1,5 +1,5 @@
-@title:Episode 123 - Echoes: Revenant world drop weapons
-@description:New and reprised weapons from Season 25 (Revenant episode Act 1) with the Search Party origin trait
+@title:Episode 123 - Revenant world drop 
+@description:New weapons in the world loot pool for the Episode: Revenant
 
 // Live Fire (first-choice PvE)
 // (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Mag, Flared Magwell, Armor-Piercing Rounds), Rimestealer, Headstone
