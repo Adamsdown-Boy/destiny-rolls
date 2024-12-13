@@ -1,0 +1,284 @@
+@title:PvE podcast ep124 Revenant Ritual weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Rake Angle (PvE)
+// (Tempered Truss Rod, Auxiliary Reserves), (Light Mag, Swap Mag), Pugilist, (Close to Melee, Swashbuckler)
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE utility pick in general non-underleveled content, particularly for melee builds. Rake Angle gives a kinetic slot Glaive option at last, for anyone dreaming of triple glaive builds. At base the stats are solid - 66 Range equates to 18.60m and a projectile speed of 112.32m/s, 52 Handling is 0.31s ready speed and 0.37s stow speed, Shield Duration of 42 is 11.27s when fully charged, while the Reload Speed of 43 is a 2.75s reload. Mag size is 4 (max is 6) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/28/31/33 (max is 33). With this being an aggressive frame, you could look to improve Handling with Tempered Truss Rods or Shield Duration with Auxiliary Reserves as the haft perk, depending on your preference. As the magazine perk, Light Mag improved reload a little and adds a smidge of range, or Swap Mag improves ready and stow speed. If you enjoy the melee lifestyle, Pugilist boosts melee energy by 20% on projectile kills, or +35 Handling for 3son glaive melee damage - with Close to Melee, you can boost glaive melee damage by ×1.3 or with Swashbuckler, you can use a glaive melee kill to boost projectile damage by ×1.33. The Vanguard Vindication provides a little bit of health, or Stunning Recovery refills the mag, and provides health and Recovery stat bumps after you deal with a Champion, when there's a matching seasonal artifact mod. Recommended MW: Shield Duration or Handling, with a Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2298039571&perks=580685494,679225683,691659142,1782407750
+dimwishlist:item=2298039571&perks=5699512,679225683,691659142,1782407750
+dimwishlist:item=2298039571&perks=580685494,3721627275,691659142,1782407750
+dimwishlist:item=2298039571&perks=5699512,3721627275,691659142,1782407750
+dimwishlist:item=2298039571&perks=580685494,679225683,691659142,4082225868
+dimwishlist:item=2298039571&perks=5699512,679225683,691659142,4082225868
+dimwishlist:item=2298039571&perks=580685494,3721627275,691659142,4082225868
+dimwishlist:item=2298039571&perks=5699512,3721627275,691659142,4082225868
+
+// Rake Angle (Adept) (PvE)
+// (Tempered Truss Rod, Auxiliary Reserves), (Light Mag, Swap Mag), Pugilist, (Close to Melee, Swashbuckler)
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for clearing Minor adds in general non-underleveled content, particularly for melee builds. Rake Angle gives a kinetic slot Glaive option at last, for anyone dreaming of triple glaive builds. At base the stats are solid - 66 Range equates to 18.60m and a projectile speed of 112.32m/s, 52 Handling is 0.31s ready speed and 0.37s stow speed, Shield Duration of 42 is 11.27s when fully charged, while the Reload Speed of 43 is a 2.75s reload. Mag size is 4 (max is 6) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/28/31/33 (max is 33). With this being an aggressive frame, you could look to improve Handling with Tempered Truss Rods or Shield Duration with Auxiliary Reserves as the haft perk, depending on your preference. As the magazine perk, Light Mag improved reload a little and adds a smidge of range. or Swap Mag improves ready and stow speed. If you enjoy the melee lifestyle, Pugilist boosts melee energy on bolt kills or Handling on glaive melee damage - with Close to Melee, you can boost glaive melee damage by ×1.3 or with Swashbuckler, you can use a glaive melee kill to boost projectile damage by ×1.33. The Vanguard Vindication provides a little bit of health, or Stunning Recovery refills the mag, and provides health and Recovery stat bumps after you deal with a Champion, when there's a matching seasonal artifact mod. Recommended MW: Shield Duration or Handling, with an Adept Backup Mag mod or, when masterworked, Synergy to create more Stasis shards or Stunloader when there's a matching artifact mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3997086838&perks=580685494,679225683,691659142,1782407750
+dimwishlist:item=3997086838&perks=5699512,679225683,691659142,1782407750
+dimwishlist:item=3997086838&perks=580685494,3721627275,691659142,1782407750
+dimwishlist:item=3997086838&perks=5699512,3721627275,691659142,1782407750
+dimwishlist:item=3997086838&perks=580685494,679225683,691659142,4082225868
+dimwishlist:item=3997086838&perks=5699512,679225683,691659142,4082225868
+dimwishlist:item=3997086838&perks=580685494,3721627275,691659142,4082225868
+dimwishlist:item=3997086838&perks=5699512,3721627275,691659142,4082225868
+
+// Wicked Sister (PvE)
+// Volatile Launch, High-Explosive Ordnance, (Envious Assassin, Field Prep, Auto-Loading Holster), Chain Reaction
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for add-clearing Minor enemies in  general, and end-game underleveled content. Wicked Sister is here for Guardians who, for any reason, can't run Trials, Raids or Dungeons. It does drop from Vanguard activities with a 12×12 trait perk pool, so if you're after it, reset your Zavala rank as many times as you're able before focusing. At base the stats are okay - 40 Handling is 0.44s ready, 0.43s ADS and 0.39s stow speed, while the Reload Speed of 41 is a 3.24s reload. Mag size is 5 (max is 8) and with 0/1/2/3 reserve mods, you'll start with total ammo of 24/26/28/28 (max is 31). Add-clearing isn't really what heavy GLs are for but, if you were looking for an option, maximise the Blast Radius with the barrel and magazine perks. In the second trait perk column, Chair Reaction detonations then extend the lethal radius on kills. First column perks worth considering are Envious Assassin to overflow your mag with kills from other weapons, Field Prep to boost your ammo reserves and reload speed, Clown Cartridge to overflow your magazine, or Auto-Loading Holster to simply reload in the background. The Nadir Focus origin Trait boosts your projectile velocity, so pairs well. Recommended MW: Bladt Radius, with a Backup Mag mod.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2039776723&perks=1478423395,1380253176,968510818,2396489472
+dimwishlist:item=2039776723&perks=1844523823,1380253176,968510818,2396489472
+dimwishlist:item=2039776723&perks=1478423395,1380253176,2284787283,2396489472
+dimwishlist:item=2039776723&perks=1844523823,1380253176,2284787283,2396489472
+dimwishlist:item=2039776723&perks=1478423395,1380253176,2869569095,2396489472
+dimwishlist:item=2039776723&perks=1844523823,1380253176,2869569095,2396489472
+dimwishlist:item=2039776723&perks=1478423395,1380253176,3300816228,2396489472
+dimwishlist:item=2039776723&perks=1844523823,1380253176,3300816228,2396489472
+
+// Anonymous Autumn (PvE)
+// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet rounds, Flared Magwell, Alloy Mag, Light Mag), Demolitionist, Desperate Measures
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for add-clearing Minor enemies in  general, and end-game underleveled content. If you've missed out on decent arc sidearms from previous seasons, Anonymous Autumn is a decent option. It does drop from Crucible activities with a 12×12 trait perk pool, so if you're after it, reset your Shaxx rank as many times as you're able before focusing. At base the stats are okay - 29 Range equates to 14.59m ADS and 12.16 hipfire, 60 Handling is 0.21s ready, 0.26s ADS and 0.31s stow speed, while the Reload Speed of 45 is a 1.63s reload. Range on sidearms is really compressed, so you can boost Handling and Stability (particularly for Controller) with your barrel perks, and then the Combat effect or reload magazine perks are all worth a look. As a trait perk pair, Demolitionist works well with Desperate Measures, gaining grenade energy on kills to keep the higher damage stacks (up to ×1.3) procced. You might feel more immediate benefit from the One Quiet Moment origin trait for reloads, but if you can stay alive, you'll start to feel Field Tested as you get to the higher stacks. Recommended MW: Handling, Stability or Reload Speed, with a Backup Mag mod or, when enhanced, a Synergy mod to generate Ionic Traces or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1051949956&perks=1840239774,1561002382,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1392496348,1561002382,3523296417,2109543898
+dimwishlist:item=1051949956&perks=4090651448,1561002382,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1840239774,1968497646,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1392496348,1968497646,3523296417,2109543898
+dimwishlist:item=1051949956&perks=4090651448,1968497646,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1840239774,1885400500,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1392496348,1885400500,3523296417,2109543898
+dimwishlist:item=1051949956&perks=4090651448,1885400500,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1840239774,3230963543,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1392496348,3230963543,3523296417,2109543898
+dimwishlist:item=1051949956&perks=4090651448,3230963543,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1840239774,1431678320,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1392496348,1431678320,3523296417,2109543898
+dimwishlist:item=1051949956&perks=4090651448,1431678320,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1840239774,679225683,3523296417,2109543898
+dimwishlist:item=1051949956&perks=1392496348,679225683,3523296417,2109543898
+dimwishlist:item=1051949956&perks=4090651448,679225683,3523296417,2109543898
+
+// Deadlock (PvE)
+// (Barrel Shroud, Corkscrew Rifling, Barrel Shroud), (Tactical Mag, Appended Mag, Assault Mag), Threat Remover, One-Two Punch, Short Action Stock
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for burst damage against Major and Champion enemies in general, and end-game underleveled content. I'll start by saying that there are plenty of burst damage shotguns out there so if you already have one, then don't sweat playing Comp just to pick a Deadlock up. At base the stats are good - 69 Range equates to 5.80m, 47 Handling is 0.39s ready, 0.34s ADS and 0.41s stow speed, while the Reload Speed of 49 is a 0.79s per shell reload. Magazine size is 5 (maximum 7), and with 0/1/2/3 reserves mods you get total ammo of 20/22/24/25 (max 25). Handling is the usual play for the barrel perk with Barrel Shroud or Corkscrew Rifling, although keeping the pellet spread tight with Barrel Choke can also be useful. In the magazine perk slot, Tactical or Appended Mag with Backup Mag get you to the maximum of 7 shots or Assault Mag can be helpful in faster follow-up shots. For burst damage, Threat Remover in the first trait perk column procs at the same time as One-Two Punch to boost gunfeel stats and deal ×2.0 melee damage after hitting all pellets (or 10 when enhanced). You'll have access to stocks rather than an origin trait - Short Action Stock is the best, boosting Handling by +15. Recommended MW: Handling with a Backup Mag mod or, when enhanced, a Synergy mod to generate Stasis shards or Stunloader when an artifact mod's around.|tags:PvE PvE-Boss PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2035738085&perks=1300023272,106909392,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=4090651448,106909392,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=1047830412,106909392,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=1300023272,1087426260,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=4090651448,1087426260,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=1047830412,1087426260,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=1300023272,791862061,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=4090651448,791862061,1126264488,2679249093,1067908860
+dimwishlist:item=2035738085&perks=1047830412,791862061,1126264488,2679249093,1067908860
+
+// Tinasha's Mastery (PvE)
+// (Quick Launch, Hard Launch, Smart Drift Control, Linear Compensator), (High-Velocity Rounds, Implosion Rounds), Deconstruct, Chill Clip
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Probably the most chased-after Iron Banner PvE weapon in years, Tinasha's Mastery is the first Stasis rocket-assisted sidearm. At base the stats are solid - 28 Range equates to 14.56m when ADS and 12.12m hipfire (although there really isn't that much damage dropoff), 42 Handling is 0.31s ready, 0.25s ADS and 0.35s stow speed, while the Reload Speed of 29 is a 1.81s reload. Magazine size is 10 (maximum 16), and with 0/1/2/3 reserves mods you get total ammo of 40/43/46/48 (max 57). This roll is all about slowing and freezing single targets, so Velocity is far more important to boost than Blast Radius with the barrel and magazine perks. At the time of writing, Deconstruct might be bugged, with both the impact and explosive damage counting towards proccing, after which you get 2 shots returned (10% of the magazine, as long as it's 11 or more) for every 2 shots fired, as well as the bonus damage to constructs and vehicles. All of this is building up to Chill Clip in the second trait perk column - one shot slows, and disrupts, Overload Champions and two shots freezes, and stuns, Unstoppable champions, which you can synergise with Stasis fragments. Apply Radiant and it'll pierce Barrier champions too. The Deconstruct/Chill Clip combo keeps your magazine above half full which means you can shoot an entire magazine's worth of slowing and freezing without reloads. It's bound to be nerfed at some point, so enjoy being totally overpowered for as long as it lasts. The Skulking Wolf origin trait is useless in PvE, unfortunately. Recommended MW: Velocity with a Backup Mag mod or, when enhanced, a Synergy mod to generate Stasis shards or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=480368036&perks=981914802,2822142346,3993379141,2978966579
+dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,2978966579
+dimwishlist:item=480368036&perks=3798852852,2822142346,3993379141,2978966579
+dimwishlist:item=480368036&perks=1441682018,2822142346,3993379141,2978966579
+dimwishlist:item=480368036&perks=981914802,3492396210,3993379141,2978966579
+dimwishlist:item=480368036&perks=3525010810,3492396210,3993379141,2978966579
+dimwishlist:item=480368036&perks=3798852852,3492396210,3993379141,2978966579
+dimwishlist:item=480368036&perks=1441682018,3492396210,3993379141,2978966579
+
+// Tinasha's Mastery (PvE)
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch, Smart Drift Control), (High-Velocity Rounds, High-Explosive Ordnance, Tactical Mag, Alloy Mag, Appended Mag, Extended Mag, Flared magwell), Deconstruct, (Surrounded, One For All, Desperate Measures, Frenzy, Bait and Switch))
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Probably the most chased-after Iron Banner PvE weapon in years, Tinasha's Mastery is the first Stasis rocket-assisted sidearm. At base the stats are solid - 28 Range equates to 14.56m when ADS and 12.12m hipfire (although there really isn't that much damage dropoff), 42 Handling is 0.31s ready, 0.25s ADS and 0.35s stow speed, while the Reload Speed of 29 is a 1.81s reload. Magazine size is 10 (maximum 16), and with 0/1/2/3 reserves mods you get total ammo of 40/43/46/48 (max 57). There are as many options for a good all-round, all-purpose kinetic slot rocket sidearm as Osiris could spend a lifetime in the Infinite Forest investigating - pair barrel and magazine perk options that increase blast radius, velocity, and magazine size to you preference. At the time of writing, Deconstruct might be bugged, with both the impact and explosive damage counting towards proccing, after which you get 2 shots returned (10% of the magazine, as long as it's 11 or more) for every 2 shots fired, as well as the bonus damage to constructs and vehicles. Pair that with a second column trait perk damage option for a sidearm that can work for every occasion. The Skulking Wolf origin trait is useless in PvE, unfortunately. Recommended MW: Velocity with a Backup Mag mod or, when enhanced, a Synergy mod to generate Stasis shards or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=480368036&perks=1478423395,2822142346,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,2822142346,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,2822142346,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,2822142346,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,1380253176,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,1380253176,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,1380253176,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,1380253176,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,1380253176,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,106909392,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,106909392,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,106909392,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,106909392,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,106909392,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,1431678320,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,1431678320,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,1431678320,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,1431678320,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,1431678320,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,1087426260,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,1087426260,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,1087426260,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,1087426260,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,1087426260,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,2420895100,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,2420895100,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,2420895100,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,2420895100,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,2420895100,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,3230963543,3993379141,3708227201
+dimwishlist:item=480368036&perks=1844523823,3230963543,3993379141,3708227201
+dimwishlist:item=480368036&perks=1441682018,3230963543,3993379141,3708227201
+dimwishlist:item=480368036&perks=3525010810,3230963543,3993379141,3708227201
+dimwishlist:item=480368036&perks=3798852852,3230963543,3993379141,3708227201
+dimwishlist:item=480368036&perks=1478423395,2822142346,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,2822142346,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,2822142346,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,2822142346,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,1380253176,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,1380253176,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,1380253176,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,1380253176,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,1380253176,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,106909392,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,106909392,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,106909392,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,106909392,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,106909392,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,1431678320,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,1431678320,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,1431678320,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,1431678320,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,1431678320,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,1087426260,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,1087426260,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,1087426260,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,1087426260,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,1087426260,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,2420895100,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,2420895100,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,2420895100,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,2420895100,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,2420895100,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,3230963543,3993379141,4049631843
+dimwishlist:item=480368036&perks=1844523823,3230963543,3993379141,4049631843
+dimwishlist:item=480368036&perks=1441682018,3230963543,3993379141,4049631843
+dimwishlist:item=480368036&perks=3525010810,3230963543,3993379141,4049631843
+dimwishlist:item=480368036&perks=3798852852,3230963543,3993379141,4049631843
+dimwishlist:item=480368036&perks=1478423395,2822142346,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,2822142346,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,2822142346,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,2822142346,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,1380253176,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,1380253176,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,1380253176,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,1380253176,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,1380253176,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,106909392,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,106909392,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,106909392,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,106909392,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,106909392,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,1431678320,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,1431678320,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,1431678320,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,1431678320,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,1431678320,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,1087426260,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,1087426260,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,1087426260,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,1087426260,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,1087426260,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,2420895100,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,2420895100,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,2420895100,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,2420895100,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,2420895100,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,3230963543,3993379141,2109543898
+dimwishlist:item=480368036&perks=1844523823,3230963543,3993379141,2109543898
+dimwishlist:item=480368036&perks=1441682018,3230963543,3993379141,2109543898
+dimwishlist:item=480368036&perks=3525010810,3230963543,3993379141,2109543898
+dimwishlist:item=480368036&perks=3798852852,3230963543,3993379141,2109543898
+dimwishlist:item=480368036&perks=1478423395,2822142346,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,2822142346,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,2822142346,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,2822142346,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,1380253176,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,1380253176,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,1380253176,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,1380253176,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,1380253176,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,106909392,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,106909392,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,106909392,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,106909392,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,106909392,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,1431678320,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,1431678320,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,1431678320,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,1431678320,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,1431678320,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,1087426260,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,1087426260,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,1087426260,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,1087426260,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,1087426260,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,2420895100,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,2420895100,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,2420895100,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,2420895100,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,2420895100,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,3230963543,3993379141,4104185692
+dimwishlist:item=480368036&perks=1844523823,3230963543,3993379141,4104185692
+dimwishlist:item=480368036&perks=1441682018,3230963543,3993379141,4104185692
+dimwishlist:item=480368036&perks=3525010810,3230963543,3993379141,4104185692
+dimwishlist:item=480368036&perks=3798852852,3230963543,3993379141,4104185692
+dimwishlist:item=480368036&perks=1478423395,2822142346,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,2822142346,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,2822142346,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,2822142346,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,2822142346,3993379141,3078487919
+dimwishlist:item=480368036&perks=1478423395,1380253176,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,1380253176,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,1380253176,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,1380253176,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,1380253176,3993379141,3078487919
+dimwishlist:item=480368036&perks=1478423395,106909392,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,106909392,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,106909392,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,106909392,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,106909392,3993379141,3078487919
+dimwishlist:item=480368036&perks=1478423395,1431678320,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,1431678320,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,1431678320,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,1431678320,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,1431678320,3993379141,3078487919
+dimwishlist:item=480368036&perks=1478423395,1087426260,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,1087426260,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,1087426260,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,1087426260,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,1087426260,3993379141,3078487919
+dimwishlist:item=480368036&perks=1478423395,2420895100,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,2420895100,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,2420895100,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,2420895100,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,2420895100,3993379141,3078487919
+dimwishlist:item=480368036&perks=1478423395,3230963543,3993379141,3078487919
+dimwishlist:item=480368036&perks=1844523823,3230963543,3993379141,3078487919
+dimwishlist:item=480368036&perks=1441682018,3230963543,3993379141,3078487919
+dimwishlist:item=480368036&perks=3525010810,3230963543,3993379141,3078487919
+dimwishlist:item=480368036&perks=3798852852,3230963543,3993379141,3078487919
+
+// Yesterday's Question (PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), Rapid Hit, Voltshot
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Yesterday's Questions has a lot of caveats for PvE - it's a Trials of Osiris reward so not very accessible, the rolls are mainly PvP focussed, and it doesn't really offer anything new if you already have a Voltshot hand cannon. At base the stats are good - 63 Range equates to 32.51m when ADS and 21.67m hipfire, 34 Handling is 0.38s ready, 0.28s ADS and 0.41s stow speed, while the Reload Speed of 31 is a 2.92s reload. It feels a lot better with help for Handling in the barrel perk. Voltshot relies on reload speed to proc and use, so Flared Magwell provides the biggest boost, or Light Mag slightly less. There's only one trait perk that helps with reload, and that's Rapid Hit. With luck and a following wind, reload speed could be as low as 1.70s so Voltshot doesn't run out to time to be procced. If you run the Synergy mod to general Ionic Traces to become amplified, that'll also help with reloads too. Either origin trait can work - Alacrity if you're running a solo activity to boost all your gunfeel stats, or One Quiet Moment for faster reloads when out of combat. Recommended MW: Reload Speed with a Backup Mag mod or, when enhanced, a Synergy mod to generate Ionic traces or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2300143112&perks=1840239774,3230963543,247725512,2173046394
+dimwishlist:item=2300143112&perks=839105230,3230963543,247725512,2173046394
+dimwishlist:item=2300143112&perks=1467527085,3230963543,247725512,2173046394
+dimwishlist:item=2300143112&perks=1840239774,679225683,247725512,2173046394
+dimwishlist:item=2300143112&perks=839105230,679225683,247725512,2173046394
+dimwishlist:item=2300143112&perks=1467527085,679225683,247725512,2173046394
+
+// Yesterday's Question (Adept) (PvE)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Light Mag), Rapid Hit, Voltshot
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick use against bulky Minor and Major enemies in general, and end-game underleveled content. Yesterday's Questions has a lot of caveats for PvE - it's a Trials of Osiris reward so not very accessible, the rolls are mainly PvP focussed, and it doesn't really offer anything new if you already have a Voltshot hand cannon. At base the stats are good - 63 Range equates to 32.51m when ADS and 21.67m hipfire, 34 Handling is 0.38s ready, 0.28s ADS and 0.41s stow speed, while the Reload Speed of 31 is a 2.92s reload. It feels a lot better with help for Handling in the barrel perk. Voltshot relies on reload speed to proc and use, so Flared Magwell provides the biggest boost, or Light Mag slightly less. There's only one trait perk that helps with reload, and that's Rapid Hit. With luck and a following wind, reload speed could be as low as 1.70s so Voltshot doesn't run out to time to be procced. If you run the Synergy mod to general Ionic Traces to become amplified, that'll also help with reloads too. Either origin trait can work - Alacrity if you're running a solo activity to boost all your gunfeel stats, or One Quiet Moment for faster reloads when out of combat. Recommended MW: Reload Speed with an Adept Backup Mag mod or, when enhanced, a Synergy mod to generate Ionic traces or Stunloader when an artifact mod's around.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2378785953&perks=1840239774,3230963543,247725512,2173046394
+dimwishlist:item=2378785953&perks=839105230,3230963543,247725512,2173046394
+dimwishlist:item=2378785953&perks=1467527085,3230963543,247725512,2173046394
+dimwishlist:item=2378785953&perks=1840239774,679225683,247725512,2173046394
+dimwishlist:item=2378785953&perks=839105230,679225683,247725512,2173046394
+dimwishlist:item=2378785953&perks=1467527085,679225683,247725512,2173046394
