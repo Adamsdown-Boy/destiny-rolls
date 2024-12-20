@@ -1,0 +1,60 @@
+@title:PvE podcast ep125 Garden of Salvation weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Accrued Redemption (PvE)
+// Elastic String, Straight Fletching, Archer's Tempo, Kinetic Tremors
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller): PvE pick for burst damage to bulkier Minor adds, Majors and Champions in general, and end-game underleveled content. Accrued Redemption's trait perk pool is mostly PvP-oriented, but there's still an excellent roll to shape for use against Champions. At base the stats are solid - Draw Time is standard 0.684ms, 43 Stability equates to a Perfect Draw time of 0.43s, 55 Handling is a 0.58s ready, 0.43s ADS and 0.44s stow time, and 40 Reload Speed is a 0.73s reload. There's no reason to look far beyond the standard play of using the bowstring perk to reduce Draw Time, and the arrow perk to boost Accuracy. The trait perk combination of Archer's Tempo and Kinetic Tremors will make this a great anti-champion weapon with the matching bow Artifact mod. Kinetic Tremors has the second highest combatant damage multiplier on bows and, when enhanced, only needs two hits to proc, so is just free damage against champions once stunned, as well as clearing ads in the area. The Photoinhibition origin trait is very strong for PvE - a ×1.343 damage boost against barriers and elemental shields and ×1.216 against combatant overshields plus disorienting your target and, if matched with the shield type adds nearby for 7s. Recommended MW: Draw Time, with a Quick Access Sling mod or, when masterworked, Synergy to create power orbs.|tags:PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3621336854&perks=4067834857,3827198035,201365942,3891536761
+dimwishlist:item=3621336854&perks=852209214,3827198035,201365942,3891536761
+dimwishlist:item=3621336854&perks=2801223209,3311977193,201365942,3891536761
+dimwishlist:item=3621336854&perks=4067834857,3311977193,201365942,3891536761
+dimwishlist:item=3621336854&perks=852209214,3311977193,201365942,3891536761
+
+// Prophet of Doom (vE)
+// (Full Choke, Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Reconstruction, Threat Remover, Slideways), One-Two Punch
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller): PvE pick for special weapon burst damage against Majors and Champions in general, and end-game underleveled content. Prophet of Doom joins the rather large list of decent raid shotguns, so if you already have one, you might consider passing. At base the stats are good - 67 Range equates to 5.74m, 35 Handling equates to a 0.42s ready, 0.37s ADS and 0.45s stow time, and 43 Reload Speed is a 0.76s reload per shell. As it's a precision frame, you don't need to worry about Recoil Direction, magazine size is 5 (max 7) and with 0/1/2/3 Reserves mods you have total ammo of 20/22/24/25 (max 25). If you're still looking for a burst damage weapon, you have One-Two Punch available in the second trait perk column for ×2 melee (once that make director contact with enemies, anyway) ability damage and ×2.5 against bosses and vehicles for 1.22s. You can opt to keep the pellet spread as tight as possible, or boost handling with the barrel perk and Assault Mag or Tactical Mag are good magazine perk choices. There are a few perks that can help with reload in the first trait perk column - Reconstruction passively overfills your mag over time, Threat Remover's stat boosts proc on the same condition as One-Two Punch, or Slideways partially refills after a slide. The Photoinhibition origin trait is very strong for PvE - a ×1.343 damage boost against barriers and elemental shields and ×1.216 against combatant overshields plus disorienting your target and, if matched with the shield type adds nearby too for 7s. Recommended MW: Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create the occasional Ionic Trace from a weapon kill or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2145441168&perks=1300023272,791862061,1523832109,2679249093
+dimwishlist:item=2145441168&perks=4090651448,791862061,1523832109,2679249093
+dimwishlist:item=2145441168&perks=1047830412,106909392,1523832109,2679249093
+dimwishlist:item=2145441168&perks=1300023272,106909392,1523832109,2679249093
+dimwishlist:item=2145441168&perks=4090651448,106909392,1523832109,2679249093
+dimwishlist:item=2145441168&perks=1047830412,791862061,1126264488,2679249093
+dimwishlist:item=2145441168&perks=1300023272,791862061,1126264488,2679249093
+dimwishlist:item=2145441168&perks=4090651448,791862061,1126264488,2679249093
+dimwishlist:item=2145441168&perks=1047830412,106909392,1126264488,2679249093
+dimwishlist:item=2145441168&perks=1300023272,106909392,1126264488,2679249093
+dimwishlist:item=2145441168&perks=4090651448,106909392,1126264488,2679249093
+dimwishlist:item=2145441168&perks=1047830412,791862061,2039302152,2679249093
+dimwishlist:item=2145441168&perks=1300023272,791862061,2039302152,2679249093
+dimwishlist:item=2145441168&perks=4090651448,791862061,2039302152,2679249093
+dimwishlist:item=2145441168&perks=1047830412,106909392,2039302152,2679249093
+dimwishlist:item=2145441168&perks=1300023272,106909392,2039302152,2679249093
+dimwishlist:item=2145441168&perks=4090651448,106909392,2039302152,2679249093
+
+// Prophet of Doom (PvE)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Pugilist, Threat Detector, Reconstruction, Slideways), Trench Barrel
+//notes:Adamsdown_Boy written v8.1.5.1 (PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller): PvE pick for special weapon burst damage against Majors and Champions in general, and end-game underleveled content. Prophet of Doom joins the rather large list of decent raid shotguns, so if you already have one, you might consider passing. At base the stats are good - 67 Range equates to 5.74m, 35 Handling equates to a 0.42s ready, 0.37s ADS and 0.45s stow time, and 43 Reload Speed is a 0.76s reload per shell. As it's a precision frame, you don't need to worry about Recoil Direction, magazine size is 5 (max 7) and with 0/1/2/3 Reserves mods you have total ammo of 20/22/24/25 (max 25). If you're still looking for a burst damage weapon, you have Trench Barrel available in the second trait perk column for ×1.5 damage and 30 to both Handling and Reload Speed for 3 shots or 5s. Look for a barrel perk that boosts Handling, and and Assault Mag or Tactical Mag are good magazine perk choices. In the first trait perk column, Pugilist returns 20% (22% when enhanced) melee ability energy on a kill, or there are a few perks that can help with reload in the first trait perk column - Threat Detector boosts Handling and Reload in CQC, Reconstruction passively overfills your mag over time, or Slideways partially refills after a slide. The Photoinhibition origin trait is very strong for PvE - a ×1.343 damage boost against barriers and elemental shields and ×1.216 against combatant overshields plus disorienting your target and, if matched with the shield type adds nearby too for 7s. Recommended MW: Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2145441168&perks=1300023272,791862061,691659142,2360754333
+dimwishlist:item=2145441168&perks=4090651448,791862061,691659142,2360754333
+dimwishlist:item=2145441168&perks=1300023272,106909392,691659142,2360754333
+dimwishlist:item=2145441168&perks=4090651448,106909392,691659142,2360754333
+dimwishlist:item=2145441168&perks=1300023272,791862061,4071163871,2360754333
+dimwishlist:item=2145441168&perks=4090651448,791862061,4071163871,2360754333
+dimwishlist:item=2145441168&perks=1300023272,106909392,4071163871,2360754333
+dimwishlist:item=2145441168&perks=4090651448,106909392,4071163871,2360754333
+dimwishlist:item=2145441168&perks=1300023272,791862061,1523832109,2360754333
+dimwishlist:item=2145441168&perks=4090651448,791862061,1523832109,2360754333
+dimwishlist:item=2145441168&perks=1300023272,106909392,1523832109,2360754333
+dimwishlist:item=2145441168&perks=4090651448,106909392,1523832109,2360754333
+dimwishlist:item=2145441168&perks=1300023272,791862061,2039302152,2360754333
+dimwishlist:item=2145441168&perks=4090651448,791862061,2039302152,2360754333
+dimwishlist:item=2145441168&perks=1300023272,106909392,2039302152,2360754333
+dimwishlist:item=2145441168&perks=4090651448,106909392,2039302152,2360754333
+
+// Prophet of Doom (PvE)
+// (Barrel Shroud, Corkscrew Rifling), Tactical Mag, (Threat Detector, Air Trigger), Voltshot
+//notes:Inspired by @PodvsEnemies episode 125 from 3 December 2024 (https://open.spotify.com/episode/0unzzecMfqDsL3nxHGSQsp?si=d40055092caa4fa1) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for special weapon burst damage against Majors and Champions in general, and end-game underleveled content, particularly with arc builds. Prophet of Doom joins the rather large list of decent raid shotguns, so if you already have one, you might consider passing. At base the stats are good - 67 Range equates to 5.74m, 35 Handling equates to a 0.42s ready, 0.37s ADS and 0.45s stow time, and 43 Reload Speed is a 0.76s reload per shell. As it's a precision frame, you don't need to worry about Recoil Direction, magazine size is 5 (max 7) and with 0/1/2/3 Reserves mods you have total ammo of 20/22/24/25 (max 25). Although the combatant damage modifier isn't great for shotguns, Voltshot is still quite fun, if you don't have one already, and viable as you only need to reload one shell to proc it. Look for a barrel perk that boosts Handling, and then Tactical Mag helps with reload speed. there are only two perks in the first trait perk column that help further with reload - Threat Detector is easier to proc and maxes Handling and Reload Speed when you're in CQC, or Air Trigger is even faster if you're happy to bunny hop as you reload. The Photoinhibition origin trait is very strong for PvE - a ×1.343 damage boost against barriers and elemental shields and ×1.216 against combatant overshields plus disorienting your target and, if matched with the shield type adds nearby too for 7s. Recommended MW: Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-Major PvE-Champion PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2145441168&perks=1300023272,106909392,4071163871,2173046394
+dimwishlist:item=2145441168&perks=4090651448,106909392,4071163871,2173046394
+dimwishlist:item=2145441168&perks=1300023272,106909392,1421772400,2173046394
+dimwishlist:item=2145441168&perks=4090651448,106909392,1421772400,2173046394
