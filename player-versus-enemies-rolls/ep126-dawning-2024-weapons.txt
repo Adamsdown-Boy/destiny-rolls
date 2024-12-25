@@ -1,0 +1,213 @@
+@title:Episode 126 - The Dawning weapons 
+@description:Reprised and new weapons from Revenant Episode 3 with the Dawning Surprise origin trait
+
+// Stay Frosty (first-choice PvE)
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Alloy Mag, Accurized Rounds), Rimestealer, Headstone
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Minor adds in general, and end-game underleveled content, particularly on Stasis builds. Stay Frosty has lost some solid PvE trait perks in its reprise so there's not as much to grind for in 2024-25. At base the stats are a little sub-par - 38 Range equates to 32.05m when ADS and 18.85m hipfire, 67 Handling is a 0.33s ready, 0.33s ADS and 0.31s stow time, and 56Reload Speed is a 1.78s reload. The Lightweight frame provides +20 to mobility and ×1.0625 movement speed. On M+KB you should push out range a bit with the barrel perk and then you can touch on reload or push the range out further with the magazine perk. The trait perk combination of Rimestealer and Headstone is a natural pairing, particularly when synergising with Stasis fragments, generating crystals to use and shatter, to grant a stack of Frost Armor (2 stacks when enhanced). The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Range, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1123433952&perks=3250034553,106909392,1955165503,124408337
+dimwishlist:item=1123433952&perks=1482024992,106909392,1955165503,124408337
+dimwishlist:item=1123433952&perks=3250034553,1431678320,1955165503,124408337
+dimwishlist:item=1123433952&perks=1482024992,1431678320,1955165503,124408337
+dimwishlist:item=1123433952&perks=3250034553,3142289711,1955165503,124408337
+dimwishlist:item=1123433952&perks=1482024992,3142289711,1955165503,124408337
+
+// Stay Frosty (backup PvE)
+(Full Bore, Hammer-Forged Rifling, Smallbore), (Tactical Mag, Alloy Mag, Appended Mag, Accurized Rounds), Enlightened Action, Headstone
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): Backup PvE pick for Minor adds in general, and end-game underleveled content, particularly on Stasis builds. Stay Frosty has lost some solid PvE trait perks in its reprise so there's not as much to grind for in 2024-25. At base the stats are a little sub-par - 38 Range equates to 32.05m when ADS and 18.85m hipfire, 67 Handling is a 0.33s ready, 0.33s ADS and 0.31s stow time, and 56Reload Speed is a 1.78s reload. The Lightweight frame provides +20 to mobility and ×1.0625 movement speed. On M+KB you should push out range a bit with the barrel perk and then you can touch on reload or push the range out further with the magazine perk. In the first trait perk column, Enlightened Action, which provides some nice reload speed and handling boosts is the best support perk available. If you've not already got a Stasis pulse rifle with Headstone, this can provide you with an option - if you have, then you can pass. The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Range, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame M+KB Controller
+dimwishlist:item=1123433952&perks=202670084,106909392,3828510309,124408337
+dimwishlist:item=1123433952&perks=3250034553,106909392,3828510309,124408337
+dimwishlist:item=1123433952&perks=1482024992,106909392,3828510309,124408337
+dimwishlist:item=1123433952&perks=202670084,1431678320,3828510309,124408337
+dimwishlist:item=1123433952&perks=3250034553,1431678320,3828510309,124408337
+dimwishlist:item=1123433952&perks=1482024992,1431678320,3828510309,124408337
+dimwishlist:item=1123433952&perks=202670084,3142289711,3828510309,124408337
+dimwishlist:item=1123433952&perks=3250034553,3142289711,3828510309,124408337
+dimwishlist:item=1123433952&perks=1482024992,3142289711,3828510309,124408337
+dimwishlist:item=1123433952&perks=202670084,1087426260,3828510309,124408337
+dimwishlist:item=1123433952&perks=3250034553,1087426260,3828510309,124408337
+dimwishlist:item=1123433952&perks=1482024992,1087426260,3828510309,124408337
+
+// Stay Frosty (backup PvE)
+(Full Bore, Hammer-Forged Rifling, Smallbore), (Tactical Mag, Alloy Mag, Appended Mag, Accurized Rounds), Enlightened Action, Desperado
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Minor adds in general, and end-game underleveled content, particularly on Stasis builds. Stay Frosty has lost some solid PvE trait perks in its reprise so there's not as much to grind for in 2024-25. At base the stats are a little sub-par - 38 Range equates to 32.05m when ADS and 18.85m hipfire, 67 Handling is a 0.33s ready, 0.33s ADS and 0.31s stow time, and 56Reload Speed is a 1.78s reload. The Lightweight frame provides +20 to mobility and ×1.0625 movement speed. On M+KB you should push out range a bit with the barrel perk and then you can touch on reload or push the range out further with the magazine perk. In the first trait perk column, Enlightened Action, which provides some nice reload speed and handling boosts is the best support perk available. If you've not already got a kinetic slot pulse rifle with Desperado, this can provide you with an option - if you have, then you can pass. The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Range, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame M+KB Controller
+dimwishlist:item=1123433952&perks=202670084,106909392,3828510309,3047969693
+dimwishlist:item=1123433952&perks=3250034553,106909392,3828510309,3047969693
+dimwishlist:item=1123433952&perks=1482024992,106909392,3828510309,3047969693
+dimwishlist:item=1123433952&perks=202670084,1431678320,3828510309,3047969693
+dimwishlist:item=1123433952&perks=3250034553,1431678320,3828510309,3047969693
+dimwishlist:item=1123433952&perks=1482024992,1431678320,3828510309,3047969693
+dimwishlist:item=1123433952&perks=202670084,3142289711,3828510309,3047969693
+dimwishlist:item=1123433952&perks=3250034553,3142289711,3828510309,3047969693
+dimwishlist:item=1123433952&perks=1482024992,3142289711,3828510309,3047969693
+dimwishlist:item=1123433952&perks=202670084,1087426260,3828510309,3047969693
+dimwishlist:item=1123433952&perks=3250034553,1087426260,3828510309,3047969693
+dimwishlist:item=1123433952&perks=1482024992,1087426260,3828510309,3047969693
+
+// Albedo Wing (first-choice PvE)
+// (Auxilliary Reserves, Low-Impedence Windings), Appended Mag, (Replenishing Aegis, Grave Robber), Close To Melee
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for bulkier Minor adds and Majors in general, and end-game underleveled content. If you're into the glaive life, Albedo Wing provides some variety, being one of the few aggressive frames available. At base the stats are solid - 38 Range equates to 19.09m and a projectile speed of 117m/s, 35 Handling is a 0.35s ready and 0.42s stow time, 30 Shield Duration is 9.95s when fully charged and 30 Reload Speed is a 2.98s reload. Magazine size is 4 (max 6) and with 0/1/2/3 Reserves mods, you'll have total ammo of 25/28/32/34 (max 36). You can focus on the shield duration stat with the haft perk for major damage reduction in PvE. Although the reload speed is also poor, we can get around that with traits, so Appended Mag ups mag size by one. In the first trait column, Replenishing Aegis refills the magazine by one on blocking damage with your shield or Grave Robber procs on glaive melees, and Close to Melee in the second boosts melee damage by ×1.3 for a projectile hit - all this works well with Titan Synthoceps or Hunter Triton Vice and Flow State. The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Shield Duration, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1845372864&perks=580685494,1087426260,1966281507,1782407750
+dimwishlist:item=1845372864&perks=2713678205,1087426260,1966281507,1782407750
+dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,1782407750
+dimwishlist:item=1845372864&perks=2713678205,1087426260,1631667848,1782407750
+
+// Glacioclasm (first-choice PvE)
+// (Full Bore, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling), (Ionized Battery, Extended Battery), (Overflow, Envious Assassin), Controlled Burst
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage against Major or Boss enemies in general, and end-game underleveled content. Grab Glacioclasm while you can - unusually, for a world-drop weapon it has great stats as a High-Impact fusion rifle. At base - 63 Range equates to 17.26m when ADS and 13.28m hipfire, 33 Handling is a 0.45s ready 0.36s ADS time and 0.35s stow time, and 15 Reload Speed is a 2.55s reload. Magazine size is 5 (max 8) and with 0/1/2/3 Reserves mods, you'll have total ammo of 16/18/20/22 (max 29). Only firing five bolts, it's a bit more controllable than faster-firing subtypes, so spec into range with the barrel perk. In the battery perk slot, you're aiming to get as many shots as possible, with Ionized or Extended Battery. For the first trait perk, Overflow to instantly double your battery size for picking up ammo, or you can triple your battery size from kills with other weapons. for a burst damage weapon against Majors or a backup weapon for boss damage phases, Controlled Burst in the second trait slot provides ×1.2 damage and ×0.9 charge time just for hitting all your bolts, or Reservoir Burst boosts damage by ×1.25 for every overflowed shot, and detonates on a kill for good AoE damage too. The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Charge Time, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or when the artifact mod's around, Stunloader.|tags:PvE PvE-Boss PvE-MajorSpec PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1183116657&perks=202670084,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=3250034553,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1482024992,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=4090651448,1483536627,3643424744,2594592626
+dimwishlist:item=1183116657&perks=202670084,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=3250034553,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=1482024992,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=4090651448,2680121939,3643424744,2594592626
+dimwishlist:item=1183116657&perks=202670084,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=3250034553,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=1482024992,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=4090651448,1483536627,968510818,2594592626
+dimwishlist:item=1183116657&perks=202670084,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=3250034553,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=1482024992,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=4090651448,2680121939,968510818,2594592626
+dimwishlist:item=1183116657&perks=202670084,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=3250034553,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1482024992,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=4090651448,1483536627,3643424744,1427256713
+dimwishlist:item=1183116657&perks=202670084,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=3250034553,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=1482024992,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=4090651448,2680121939,3643424744,1427256713
+dimwishlist:item=1183116657&perks=202670084,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=3250034553,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=1482024992,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=4090651448,1483536627,968510818,1427256713
+dimwishlist:item=1183116657&perks=202670084,2680121939,968510818,1427256713
+dimwishlist:item=1183116657&perks=3250034553,2680121939,968510818,1427256713
+dimwishlist:item=1183116657&perks=1482024992,2680121939,968510818,1427256713
+dimwishlist:item=1183116657&perks=4090651448,2680121939,968510818,1427256713
+
+// Avalanche (first-choice PvE)
+// (Arrowhead Brake, Smallbore, Fluted Barrel), (Extended Mag, Appended Mag), (Rewind Rounds, Subsistence), Incandescent
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for chunkier add-clearing against Minor Spec Enemies in general, and end-game underleveled content, particularly with a solar build. Avalanche has okay stats, but it is an event weapon so that's to be expected. At base - 50 Range equates to 47.38m when ADS and 29.61m hipfire, 40 Handling is a 0.40s ready 0.41s ADS time and 0.37s stow time, and 55 Reload Speed is a 4.71s reload. Magazine size is 57 (max 8) and with 0/1/2/3 Reserves mods, you'll have total ammo of 361/406/451/473 (max 477) - this has been buffed to match other adaptives, making Avalanche very viable as an LMG option. Arrowhead Brake cleans up the recoil direction to 100, or Smallbore or Fluted Barrel boost useful stats as the barrel perk. Then, Appended Mag or Extended Mag work as mag perks, giving you more shots without reloading. To use as a heavy scout rifle for add-clearing, in the first trait perk column the rounds that Rewind Rounds or Subsistence refills save time on reloads, or Dragonfly is always fun for additional solar detinations on crit kills, while Incandescent helps spread scorch stacks and tie into solar subclass fragments to assist with add-clearing. The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Range, Stability or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Firesprites or when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1845978721&perks=839105230,106909392,3418782618,4293542123
+dimwishlist:item=1845978721&perks=1840239774,106909392,3418782618,4293542123
+dimwishlist:item=1845978721&perks=1482024992,106909392,3418782618,4293542123
+dimwishlist:item=1845978721&perks=839105230,1087426260,3418782618,4293542123
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3418782618,4293542123
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3418782618,4293542123
+dimwishlist:item=1845978721&perks=839105230,106909392,1820235745,4293542123
+dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,4293542123
+dimwishlist:item=1845978721&perks=1482024992,106909392,1820235745,4293542123
+dimwishlist:item=1845978721&perks=839105230,1087426260,1820235745,4293542123
+dimwishlist:item=1845978721&perks=1840239774,1087426260,1820235745,4293542123
+dimwishlist:item=1845978721&perks=1482024992,1087426260,1820235745,4293542123
+dimwishlist:item=1845978721&perks=839105230,106909392,2848615171,4293542123
+dimwishlist:item=1845978721&perks=1840239774,106909392,2848615171,4293542123
+dimwishlist:item=1845978721&perks=1482024992,106909392,2848615171,4293542123
+dimwishlist:item=1845978721&perks=839105230,1087426260,2848615171,4293542123
+dimwishlist:item=1845978721&perks=1840239774,1087426260,2848615171,4293542123
+dimwishlist:item=1845978721&perks=1482024992,1087426260,2848615171,4293542123
+
+// Avalanche (first-choice PvE)
+// (Arrowhead Brake, Smallbore, Fluted Barrel), (Extended Mag, Appended Mag), (Rewind Rounds, Subsistence), Golden Tricorn
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for boss damage in general, and end-game underleveled content. Avalanche has okay stats, but it is an event weapon so that's to be expected. At base - 50 Range equates to 47.38m when ADS and 29.61m hipfire, 40 Handling is a 0.40s ready 0.41s ADS time and 0.37s stow time, and 55 Reload Speed is a 4.71s reload. Magazine size is 57 (max 8) and with 0/1/2/3 Reserves mods, you'll have total ammo of 361/406/451/473 (max 477) - this has been buffed to match other adaptives, making Avalanche very viable as an LMG option. Arrowhead Brake cleans up the recoil direction to 100, or Smallbore or Fluted Barrel boost useful stats as the barrel perk. Then, Appended Mag or Extended Mag work as mag perks, giving you more shots without reloading. To use as a heavy scout rifle for add-clearing, in the first trait perk column the rounds that Rewind Rounds or Subsistence refills save time on reloads, while Golden Tricorn in the second boosts damage by up to a hefty ×1.5 at two stacks. The Dawning Surprise origin trait is pretty potent for PvE - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Range, Stability or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Firesprites or when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1845978721&perks=839105230,106909392,3418782618,2610012052
+dimwishlist:item=1845978721&perks=1840239774,106909392,3418782618,2610012052
+dimwishlist:item=1845978721&perks=1482024992,106909392,3418782618,2610012052
+dimwishlist:item=1845978721&perks=839105230,1087426260,3418782618,2610012052
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3418782618,2610012052
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3418782618,2610012052
+dimwishlist:item=1845978721&perks=839105230,106909392,1820235745,2610012052
+dimwishlist:item=1845978721&perks=1840239774,106909392,1820235745,2610012052
+dimwishlist:item=1845978721&perks=1482024992,106909392,1820235745,2610012052
+dimwishlist:item=1845978721&perks=839105230,1087426260,1820235745,2610012052
+dimwishlist:item=1845978721&perks=1840239774,1087426260,1820235745,2610012052
+dimwishlist:item=1845978721&perks=1482024992,1087426260,1820235745,2610012052
+
+// Avalanche (first-choice PvE)
+// (Arrowhead Brake, Smallbore, Fluted Barrel), (Extended Mag, Appended Mag), (Rewind Rounds, Auto-Loading Holster), (Target Lock, Firing Line, Vorpal Weapon)
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for boss damage in general, and end-game underleveled content. Avalanche has okay stats, but it is an event weapon so that's to be expected. At base - 50 Range equates to 47.38m when ADS and 29.61m hipfire, 40 Handling is a 0.40s ready 0.41s ADS time and 0.37s stow time, and 55 Reload Speed is a 4.71s reload. Magazine size is 57 (max 8) and with 0/1/2/3 Reserves mods, you'll have total ammo of 361/406/451/473 (max 477) - this has been buffed to match other adaptives, making Avalanche very viable as an LMG option. Arrowhead Brake cleans up the recoil direction to 100, or Smallbore or Fluted Barrel boost useful stats as the barrel perk. Then, Appended Mag or Extended Mag work as mag perks, giving you more shots without reloading. For a boss DPS roll, in the first trait perk column, Rewind Rounds works for longer sustained damage or Auto-Loading Holster for shorter damage phases with regular breaks. In the second column, depending on how you're set up, you have your choice of Target Lock, Firing Line or (if there's nothing better), Vorpal Weapon as a damage trait perk. The Dawning Surprise origin trait is pretty potent for PvE (although it won't proc much during boss damage) - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Range, Stability or Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1845978721&perks=839105230,106909392,3418782618,365154968
+dimwishlist:item=1845978721&perks=1840239774,106909392,3418782618,365154968
+dimwishlist:item=1845978721&perks=1482024992,106909392,3418782618,365154968
+dimwishlist:item=1845978721&perks=839105230,1087426260,3418782618,365154968
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3418782618,365154968
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3418782618,365154968
+dimwishlist:item=1845978721&perks=839105230,106909392,3300816228,365154968
+dimwishlist:item=1845978721&perks=1840239774,106909392,3300816228,365154968
+dimwishlist:item=1845978721&perks=1482024992,106909392,3300816228,365154968
+dimwishlist:item=1845978721&perks=839105230,1087426260,3300816228,365154968
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3300816228,365154968
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3300816228,365154968
+dimwishlist:item=1845978721&perks=839105230,106909392,3418782618,1771339417
+dimwishlist:item=1845978721&perks=1840239774,106909392,3418782618,1771339417
+dimwishlist:item=1845978721&perks=1482024992,106909392,3418782618,1771339417
+dimwishlist:item=1845978721&perks=839105230,1087426260,3418782618,1771339417
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3418782618,1771339417
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3418782618,1771339417
+dimwishlist:item=1845978721&perks=839105230,106909392,3300816228,1771339417
+dimwishlist:item=1845978721&perks=1840239774,106909392,3300816228,1771339417
+dimwishlist:item=1845978721&perks=1482024992,106909392,3300816228,1771339417
+dimwishlist:item=1845978721&perks=839105230,1087426260,3300816228,1771339417
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3300816228,1771339417
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3300816228,1771339417
+dimwishlist:item=1845978721&perks=839105230,106909392,3418782618,1546637391
+dimwishlist:item=1845978721&perks=1840239774,106909392,3418782618,1546637391
+dimwishlist:item=1845978721&perks=1482024992,106909392,3418782618,1546637391
+dimwishlist:item=1845978721&perks=839105230,1087426260,3418782618,1546637391
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3418782618,1546637391
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3418782618,1546637391
+dimwishlist:item=1845978721&perks=839105230,106909392,3300816228,1546637391
+dimwishlist:item=1845978721&perks=1840239774,106909392,3300816228,1546637391
+dimwishlist:item=1845978721&perks=1482024992,106909392,3300816228,1546637391
+dimwishlist:item=1845978721&perks=839105230,1087426260,3300816228,1546637391
+dimwishlist:item=1845978721&perks=1840239774,1087426260,3300816228,1546637391
+dimwishlist:item=1845978721&perks=1482024992,1087426260,3300816228,1546637391
+
+// Mistral Lift (first-choice PvE)
+// (Arrowhead Brake, Fluted Barrel), Enhanced Battery, Envious Arsenal, Bait and Switch
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for boss damage in general, and end-game underleveled content. Mistral Lift has decent stats, and a whole stack of boss damage trait perk options. At base - 40 Handling equates to a 0.46s ready 0.37s ADS time and 0.37s stow time, and 26 Reload Speed is a 2.39s reload. Magazine size is 5 (max 7) and with 0/1/2/3 Reserves mods, you'll have total ammo of 23/24/26/26 (max 26). To help control the recoil, Arrowhead Brake straightens Recoil Direction to 100 and adds handling or, if you can handle the recoil, Fluted Barrel works too. Extended Battery and a Backup Mag mod gets you to 7 shots. For boss damage, Envious Arsenal and Bait and Switch are a perfect pairing - rotate through your weapons to reload and boost damage by ×1.3 for 10s. The Dawning Surprise origin trait is pretty potent for PvE (although it won't proc much during boss damage) - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Charge Time or Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3483485727&perks=839105230,2680121939,3987942396,3078487919
+dimwishlist:item=3483485727&perks=1840239774,2680121939,3987942396,3078487919
+
+// Mistral Lift (backup PvE)
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): Backup PvE pick for boss damage in general, and end-game underleveled content. Mistral Lift has decent stats, and a whole stack of boss damage trait perk options. At base - 40 Handling equates to a 0.46s ready 0.37s ADS time and 0.37s stow time, and 26 Reload Speed is a 2.39s reload. Magazine size is 5 (max 7) and with 0/1/2/3 Reserves mods, you'll have total ammo of 23/24/26/26 (max 26). To help control the recoil, Arrowhead Brake straightens Recoil Direction to 100 and adds handling or, if you can handle the recoil, Fluted Barrel works too. Extended Battery and a Backup Mag mod gets you to 7 shots. To support a fireteam's boss damage, Withering Gaze in the first column is effectively a ×1.15 damage boost for everyone, while Frenzy provides its own reload speed and handling boost, and your own additional damage boost of ×1.15. The Dawning Surprise origin trait is pretty potent for PvE (although it won't proc much during boss damage) - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Charge Time, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,3007133316
+dimwishlist:item=3483485727&perks=1840239774,2680121939,1134488199,3007133316
+
+// Mistral Lift (backup PvE)
+// (Arrowhead Brake, Fluted Barrel), Enhanced Battery, Reconstruction, (High Ground, Firing Line, Precision Instrument)
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame M+KB Controller): Backup PvE pick for boss damage in general, and end-game underleveled content. Mistral Lift has decent stats, and a whole stack of boss damage trait perk options. At base - 40 Handling equates to a 0.46s ready 0.37s ADS time and 0.37s stow time, and 26 Reload Speed is a 2.39s reload. Magazine size is 5 (max 7) and with 0/1/2/3 Reserves mods, you'll have total ammo of 23/24/26/26 (max 26). To help control the recoil, Arrowhead Brake straightens Recoil Direction to 100 and adds handling or, if you can handle the recoil, Fluted Barrel works too. Extended Battery and a Backup Mag mod gets you to 7 shots. For boss damage, in the first trait perk column, You can overflow your magazine with Reconstruction, Envious Assassin or Clown Cartridge, and you have a choice of High Ground, Firing Line of Precision Instrument in the second for easy boosts to damage output. The Dawning Surprise origin trait is pretty potent for PvE (although it won't proc much during boss damage) - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Charge Time or Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame M+KB Controller
+dimwishlist:item=3483485727&perks=839105230,2680121939,1523832109,2319119708
+dimwishlist:item=3483485727&perks=1840239774,2680121939,1523832109,2319119708
+dimwishlist:item=3483485727&perks=839105230,2680121939,968510818,2319119708
+dimwishlist:item=3483485727&perks=1840239774,2680121939,968510818,2319119708
+dimwishlist:item=3483485727&perks=839105230,2680121939,2284787283,2319119708
+dimwishlist:item=3483485727&perks=1840239774,2680121939,2284787283,2319119708
+dimwishlist:item=3483485727&perks=839105230,2680121939,1523832109,1771339417
+dimwishlist:item=3483485727&perks=1840239774,2680121939,1523832109,1771339417
+dimwishlist:item=3483485727&perks=839105230,2680121939,968510818,1771339417
+dimwishlist:item=3483485727&perks=1840239774,2680121939,968510818,1771339417
+dimwishlist:item=3483485727&perks=839105230,2680121939,2284787283,1771339417
+dimwishlist:item=3483485727&perks=1840239774,2680121939,2284787283,1771339417
+dimwishlist:item=3483485727&perks=839105230,2680121939,1523832109,555281244
+dimwishlist:item=3483485727&perks=1840239774,2680121939,1523832109,555281244
+dimwishlist:item=3483485727&perks=839105230,2680121939,968510818,555281244
+dimwishlist:item=3483485727&perks=1840239774,2680121939,968510818,555281244
+dimwishlist:item=3483485727&perks=839105230,2680121939,2284787283,555281244
+dimwishlist:item=3483485727&perks=1840239774,2680121939,2284787283,555281244
+
+// Zephyr (first-choice PvE)
+// (Jagged Edge, Honed Edge, Tempered Edge), Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for boss damage in general, and end-game underleveled content. Zephyr isn't quite as unique as it was when it appeared as the first stasis sword but it's still a useful addition to a vault for CQC boss encounters. All swords have pretty much the same base stats - except Bequest with its 70 Impact - so this stacks up decently by comparison. With 0/1/2/3 Reserves mods, you'll have total ammo of 67/71/73/74 (max 77). Choose a blade perk that boosts damage, and then the usual play is Swordmaster's Guard as the guard perk to speed up heavy attack regeneration time for maximum damage. In the first trait perk column, Relentless Strikes returns one ammo for every three hits, while in the second Whirlwind Blade boosts damage by up to ×1.3 at 10 stacks, or if you're in a crowd Surrounded boosts ×1.3 (×1.4175 when enhanced) without any need for stacking. The Dawning Surprise origin trait is pretty potent for PvE (although it won't proc much during boss damage) - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Impact, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=601948197&perks=2827049491,269888150,1749209109,3913600130
+dimwishlist:item=601948197&perks=938542991,269888150,1749209109,3913600130
+
+// Zephyr (first-choice PvE)
+// (Enduring Blade, Hungry Edge, Tempered Edge), Swordmaster's Guard, Rimestealer, Cold Steel
+//notes:Inspired by @PodvsEnemies episode 126 from 17 December 2024 (https://open.spotify.com/episode/6SVRlV4ttvPkAm9HA44Km0?si=a9d7a25536b747c3) with @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick against bulkier Minors and Majors in general, and end-game underleveled content, particularly with stasis builds. Zephyr isn't quite as unique as it was when it appeared as the first stasis sword but it's still a useful addition to a vault for CQC boss encounters. All swords have pretty much the same base stats - except Bequest with its 70 Impact - so this stacks up decently by comparison. With 0/1/2/3 Reserves mods, you'll have total ammo of 67/71/73/74 (max 77). Choose a blade perk that boosts ammo reserves, and then the usual play is Swordmaster's Guard as the guard perk to speed up heavy attack regeneration time for maximum damage. For clearing adds, and synergise with stasis builds, the combination of Rimestealer to build up Frost Armor stacks from kills and Cold Steel to apply slow stacks should make the job quick and easy. The Dawning Surprise origin trait is pretty potent for PvE (although it won't proc much during boss damage) - 6 Minor add rapid kills drops a "gift" for your fireteam which on pickup grants +20% energy to all your abilities, restores 22HP and starts health regeneration. Recommended MW: Impact, with a Backup Mag mod. or, when masterworked, Synergy to create Stasis shards.|tags:PvE PvE-MinorSpec PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=601948197&perks=1261178282,269888150,1955165503,3650930298
+dimwishlist:item=601948197&perks=436053704,269888150,1955165503,3650930298
+dimwishlist:item=601948197&perks=938542991,269888150,1955165503,3650930298
