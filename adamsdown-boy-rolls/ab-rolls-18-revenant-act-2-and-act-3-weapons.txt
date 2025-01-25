@@ -1,0 +1,99 @@
+@title:PvE podcast ep127 Episode 2 "Revenant" Act 2 and Act 3 additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Red Tape (first-choice PvE)
+// (Fluted Barrel, Arrowhead Brake, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Alloy Mag, Flared Magwell), Demolitionist, Adrenaline Junkie
+//notes:Adamsdown_Boy written v8.1.5.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for Minor adds in general, and end-game underleveled content, particularly on grenade builds. Red Tape is, surprisingly the first Lightweight frame stasis scout rifle - one of the stronger scout subfamilies for damage output in PvE, and offering the usual +20 Mobility and ×1.0625 boost to movement speed. At base, the stats are decent - the spread of stats among its peers is pretty compressed, though - 32 Range equates to 70.52m ADS and 35.27m hipfire, 33 Stability, 64 Handling is 0.36s ready, 0.30 ADS and 0.34 stow speed, and 52 Reload speed is a 1.96s reload. Look to boost Handling on M+KB, or improve control for controller with the barrel perk. In the mag, with the origin trait to bypass reload you could just go all-out for magazine size, or maybe look for additional reload speed for manual reloads in the mag perk slot. If you don't already have the combination of Demolitionist and Adrenaline Junkie, then it's a very natural pairing. Get a grenade kill to proc the ×1.33 damage boost for 4.5s, and then recover grenade energy through add kills to rinse and repeat. The Dark Ether Reaper origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows equipped and stowed Dark Ether weapons to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create stasis shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3423493037&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3423493037&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=3423493037&perks=1392496348,106909392,3523296417,11612903
+dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3423493037&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=3423493037&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=3423493037&perks=1840239774,2420895100,3523296417,11612903
+dimwishlist:item=3423493037&perks=839105230,2420895100,3523296417,11612903
+dimwishlist:item=3423493037&perks=1392496348,2420895100,3523296417,11612903
+dimwishlist:item=3423493037&perks=1840239774,1431678320,3523296417,11612903
+dimwishlist:item=3423493037&perks=839105230,1431678320,3523296417,11612903
+dimwishlist:item=3423493037&perks=1392496348,1431678320,3523296417,11612903
+dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=3423493037&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=3423493037&perks=1392496348,3230963543,3523296417,11612903
+
+// Noxious Vetiver (first-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling) (Flared Magwell, Tactical Mag, Alloy Mag), (Loose Change, Attrition Orbs, Unrelenting), Jolting Feedback
+//notes:Adamsdown_Boy written v8.1.5.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor adds in general, and end-game underleveled content, particularly with arc builds. Noxious Vetiver is an arc precision frame, so ghe recoil direction stat can be ignored. At base, the stats are decent (if you ignore Shayura's Wrath as the resident stat monster) - 48 Range equates to 18.79m ADS and 13.42m hipfire, 38 Stability, 18 Handling is 0.43s ready, 0.32 ADS and 0.40 stow speed, and 19 Reload speed is a 2.29s reload. First, look to boost Handling with the barrel perk. In the mag perk slot, maybe look for additional reload speed for manual reloads for when you can't proc the origin trait to bypass reload. For add-clearing purposes, you can boost handling and reload with Loose Change, generate orbs to proc armor mods with Attrition Orbs, or regenerate health with Unrelenting in the first trait perk column. Jolting Feedback is very useful in tougher content to proc Jolt on a target, without requiring a kill first. The Dark Ether Reaper origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows equipped and stowed Dark Ether weapons to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. If you're interested, vetiver is a fragrant extract or essential oil obtained from the root of an Indian grass, so a noxious version would be harmful or destructive. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=825495813&perks=1840239774,3230963543,1119449540,3966416502
+dimwishlist:item=825495813&perks=4090651448,3230963543,1119449540,3966416502
+dimwishlist:item=825495813&perks=1840239774,106909392,1119449540,3966416502
+dimwishlist:item=825495813&perks=4090651448,106909392,1119449540,3966416502
+dimwishlist:item=825495813&perks=1840239774,1431678320,1119449540,3966416502
+dimwishlist:item=825495813&perks=4090651448,1431678320,1119449540,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,3966416502
+dimwishlist:item=825495813&perks=4090651448,3230963543,243981275,3966416502
+dimwishlist:item=825495813&perks=1840239774,106909392,243981275,3966416502
+dimwishlist:item=825495813&perks=4090651448,106909392,243981275,3966416502
+dimwishlist:item=825495813&perks=1840239774,1431678320,243981275,3966416502
+dimwishlist:item=825495813&perks=4090651448,1431678320,243981275,3966416502
+dimwishlist:item=825495813&perks=1840239774,3230963543,3108830275,3966416502
+dimwishlist:item=825495813&perks=4090651448,3230963543,3108830275,3966416502
+dimwishlist:item=825495813&perks=1840239774,106909392,3108830275,3966416502
+dimwishlist:item=825495813&perks=4090651448,106909392,3108830275,3966416502
+dimwishlist:item=825495813&perks=1840239774,1431678320,3108830275,3966416502
+dimwishlist:item=825495813&perks=4090651448,1431678320,3108830275,3966416502
+
+// Noxious Vetiver (first-choice PvE)
+// (Fluted Barrel, Corkscrew Rifling) (Flared Magwell, Tactical Mag, Alloy Mag), (Attrition Orbs, Unrelenting), Frenzy
+//notes:Adamsdown_Boy written v8.1.5.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for clearing Minor adds in general, and end-game underleveled content, particularly with arc builds. Noxious Vetiver is an arc precision frame, so ghe recoil direction stat can be ignored. At base, the stats are decent (if you ignore Shayura's Wrath as the resident stat monster) - 48 Range equates to 18.79m ADS and 13.42m hipfire, 38 Stability, 18 Handling is 0.43s ready, 0.32 ADS and 0.40 stow speed, and 19 Reload speed is a 2.29s reload. First, look to boost Handling with the barrel perk. In the mag perk slot, maybe look for additional reload speed for manual reloads for when you can't proc the origin trait to bypass reload. For add-clearing purposes, you can generate orbs to proc armor mods with Attrition Orbs, or regenerate health with Unrelenting in the first trait perk column. In the second column, Frenzy is always good, maxxing out Handling and Reload Speed and boosting damage by ×1.15. The Dark Ether Reaper origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows equipped and stowed Dark Ether weapons to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. If you're interested, vetiver is a fragrant extract or essential oil obtained from the root of an Indian grass, so a noxious version would be harmful or destructive. Recommended MW: Handling or Reload Speed, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=825495813&perks=1840239774,3230963543,243981275,4104185692
+dimwishlist:item=825495813&perks=4090651448,3230963543,243981275,4104185692
+dimwishlist:item=825495813&perks=1840239774,106909392,243981275,4104185692
+dimwishlist:item=825495813&perks=4090651448,106909392,243981275,4104185692
+dimwishlist:item=825495813&perks=1840239774,1431678320,243981275,4104185692
+dimwishlist:item=825495813&perks=4090651448,1431678320,243981275,4104185692
+dimwishlist:item=825495813&perks=1840239774,3230963543,3108830275,4104185692
+dimwishlist:item=825495813&perks=4090651448,3230963543,3108830275,4104185692
+dimwishlist:item=825495813&perks=1840239774,106909392,3108830275,4104185692
+dimwishlist:item=825495813&perks=4090651448,106909392,3108830275,4104185692
+dimwishlist:item=825495813&perks=1840239774,1431678320,3108830275,4104185692
+dimwishlist:item=825495813&perks=4090651448,1431678320,3108830275,4104185692
+
+// Scavenger's Fate (first-choice PvE)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), Repulsor Brace, Destabilizing Rounds
+//notes:Adamsdown_Boy written v8.1.5.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for clearing Minor adds in general, and end-game underleveled content, particularly with void builds. Scavenger's Fate's precision frame means more predictably vertical recoil - not much of an advantage for a shotgun though. At base, the stats are decent - 60 Range equates to 5.53m, 38 Stability, 37 Handling is 0.42s ready, 0.36 ADS and 0.45 stow speed, and 46 Reload speed is a 0.73s per shell reload. The magazine size is 5 at base (max 7), and with 0/1/2/3 reserves mods, total ammo count is 20/22/23/24 (max 24). First, look to boost Handling with the barrel perk. In the mag perk slot, Assault Mag increase the RPM by +5, or Tactical Mag increases mag size by +1 and reload speed by +10, but you can always proc the origin trait to bypass reload when needed. For void builds, use the trait perk combination of Repulsor Brace to gain a void overshield and Destabilizing Rounds to spread volatility, should make for a useful way for clearing dense add crowds to synergise with your aspects and fragments. The Dark Ether Reaper origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows equipped and stowed Dark Ether weapons to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2913577176&perks=1300023272,791862061,776531651,2048641572
+dimwishlist:item=2913577176&perks=4090651448,791862061,776531651,2048641572
+dimwishlist:item=2913577176&perks=1300023272,106909392,776531651,2048641572
+dimwishlist:item=2913577176&perks=4090651448,106909392,776531651,2048641572
+
+// Scavenger's Fate (first-choice PvE)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Discord, SlideShot, Perpetual Motion, Dual Loader), Surrounded
+//notes:Adamsdown_Boy written v8.1.5.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for clearing Majors and beefier Minor adds in general, and end-game underleveled content. Scavenger's Fate's precision frame means more predictably vertical recoil - not much of an advantage for a shotgun though. At base, the stats are decent - 60 Range equates to 5.53m, 38 Stability, 37 Handling is 0.42s ready, 0.36 ADS and 0.45 stow speed, and 46 Reload speed is a 0.73s per shell reload. The magazine size is 5 at base (max 7), and with 0/1/2/3 reserves mods, total ammo count is 20/22/23/24 (max 24). First, look to boost Handling with the barrel perk. In the mag perk slot, Assault Mag increase the RPM by +5, or Tactical Mag increases mag size by +1 and reload speed by +10, but you can always proc the origin trait to bypass reload, when needed. If you don't already have a general-purpose shotgun for dealing with beefier minors and majors, in the first trait perk column, Discord refunds free ammo on kills when procced, SlideShot makes it easy to keep your magazine topped off, Perpetual Motion adds useful gunfeel boosts or Dual Loader effectively halves reload time. Add in Surrounded in the second, for a ×1.4 damage boost in add crowds (×1.47 when enhanced). The Dark Ether Reaper origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows equipped and stowed Dark Ether weapons to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2913577176&perks=1300023272,791862061,3978468247,3708227201
+dimwishlist:item=2913577176&perks=4090651448,791862061,3978468247,3708227201
+dimwishlist:item=2913577176&perks=1300023272,106909392,3978468247,3708227201
+dimwishlist:item=2913577176&perks=4090651448,106909392,3978468247,3708227201
+dimwishlist:item=2913577176&perks=1300023272,791862061,3161816588,3708227201
+dimwishlist:item=2913577176&perks=4090651448,791862061,3161816588,3708227201
+dimwishlist:item=2913577176&perks=1300023272,106909392,3161816588,3708227201
+dimwishlist:item=2913577176&perks=4090651448,106909392,3161816588,3708227201
+dimwishlist:item=2913577176&perks=1300023272,791862061,1428297954,3708227201
+dimwishlist:item=2913577176&perks=4090651448,791862061,1428297954,3708227201
+dimwishlist:item=2913577176&perks=1300023272,106909392,1428297954,3708227201
+dimwishlist:item=2913577176&perks=4090651448,106909392,1428297954,3708227201
+dimwishlist:item=2913577176&perks=1300023272,791862061,25606670,3708227201
+dimwishlist:item=2913577176&perks=4090651448,791862061,25606670,3708227201
+dimwishlist:item=2913577176&perks=1300023272,106909392,25606670,3708227201
+dimwishlist:item=2913577176&perks=4090651448,106909392,25606670,3708227201
+
+// Scavenger's Fate (first-choice PvE)
+// (Barrel Shroud, Corkscrew Rifling), (Assault Mag, Tactical Mag), (Discord, Dual Loader), Frenzy
+//notes:Inspired by @PodvsEnemies episode 127 from 21 January 2025 (https://open.spotify.com/episode/27QaoJnY0M7c7Ikhz8CbUv?si=397188c406294fcf) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Majors and beefier Minor adds in general, and end-game underleveled content. Scavenger's Fate's precision frame means more predictably vertical recoil - not much of an advantage for a shotgun though. At base, the stats are decent - 60 Range equates to 5.53m, 38 Stability, 37 Handling is 0.42s ready, 0.36 ADS and 0.45 stow speed, and 46 Reload speed is a 0.73s per shell reload. The magazine size is 5 at base (max 7), and with 0/1/2/3 reserves mods, total ammo count is 20/22/23/24 (max 24). First, look to boost Handling with the barrel perk. In the mag perk slot, Assault Mag increase the RPM by +5, or Tactical Mag increases mag size by +1 and reload speed by +10, but you can always proc the origin trait to bypass reload, when needed. If you don't already have a general-purpose shotgun for dealing with beefier minors and majors, in the first trait perk column, Discord refunds free ammo on kills when procced or Dual Loader effectively halves reload time. Add in Frenzy in the second, for a ×1.15 damage boost and maximised Handling and Reload Speed while in combat. The Dark Ether Reaper origin trait is one of the best in the sandbox for PvE - generate a Dark Ether charge for 5s from kills, and then shoot with any weapon (or run into) the charge to proc a Dragonfly-type detonation which also overflows equipped and stowed Dark Ether weapons to ×1.4 (rounded up) base capacity or ×1.8 when enhanced, completely bypassing reload. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2913577176&perks=1300023272,791862061,3978468247,4104185692
+dimwishlist:item=2913577176&perks=4090651448,791862061,3978468247,4104185692
+dimwishlist:item=2913577176&perks=1300023272,106909392,3978468247,4104185692
+dimwishlist:item=2913577176&perks=4090651448,106909392,3978468247,4104185692
+dimwishlist:item=2913577176&perks=1300023272,791862061,25606670,4104185692
+dimwishlist:item=2913577176&perks=4090651448,791862061,25606670,4104185692
+dimwishlist:item=2913577176&perks=1300023272,106909392,25606670,4104185692
+dimwishlist:item=2913577176&perks=4090651448,106909392,25606670,4104185692
