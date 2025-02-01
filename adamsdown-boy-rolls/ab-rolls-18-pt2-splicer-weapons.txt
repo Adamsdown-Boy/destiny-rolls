@@ -1,0 +1,22 @@
+@title:PvE podcast ep127 Episode 2 "Revenant" reprised Splicer weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Gridskipper (PvE)
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator, Fluted Barrel), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Demolitionist, Desperate Measures
+//notes:Adamsdown_Boy written v8.1.5.4 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for Minor adds in general, and end-game underleveled content. Gridskipper returns with updated trat perks, making it a decent choice if you're still looking for a void pulse rifle. At base, the stats are quite good - 33 Range equates to 31.41m ADS and 18.48m hipfire, 47 Stability, 27 Handling is 0.46s ready, 0.40s ADS and 0.45s stow speed, and 35 Reload Speed is a 2.14s reload (1.71s with the Rapid Fire frame intrinsic when reloading from an empty mag). The Recoil Direction of 55 is vertical but loose, so look to improve control with the barrel perk on controller, or boost handling on M+KB. The combat effect magazine perks are all here, and add utility, or Flared Magwell improves reload speed. For a general-purpose pulse rifle for dealing with adds, the trait perk combination of Demolitionist and Desperate Measures work together to generate grenade energy to feed the Desperate Measures damage boost of up to ×1.3. The Splicer Surge origin trait is nice for PvE - reload after dealing damage for up to three stacks, which boosts handling and reload speed by 10/20/45 and applies a reload animation multiplier of ×0.967/×0.934/×0.9. Recommended MW: Handling, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3433930495&perks=839105230,1561002382,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1392496348,1561002382,3523296417,2109543898
+dimwishlist:item=3433930495&perks=3661387068,1561002382,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1840239774,1561002382,3523296417,2109543898
+dimwishlist:item=3433930495&perks=839105230,1968497646,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1392496348,1968497646,3523296417,2109543898
+dimwishlist:item=3433930495&perks=3661387068,1968497646,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1840239774,1968497646,3523296417,2109543898
+dimwishlist:item=3433930495&perks=839105230,1885400500,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1392496348,1885400500,3523296417,2109543898
+dimwishlist:item=3433930495&perks=3661387068,1885400500,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1840239774,1885400500,3523296417,2109543898
+dimwishlist:item=3433930495&perks=839105230,3230963543,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1392496348,3230963543,3523296417,2109543898
+dimwishlist:item=3433930495&perks=3661387068,3230963543,3523296417,2109543898
+dimwishlist:item=3433930495&perks=1840239774,3230963543,3523296417,2109543898
