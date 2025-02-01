@@ -58,6 +58,33 @@ dimwishlist:item=2598420927&perks=3250034553,2420895100,1820235745,4104185692
 // Ignition Code (first-choice PvE)
 // (Quick Launch, Hard Launch, Smart Drift Control), (Implosion Rounds, Spike Grenades), (Slideshot, Lead From Gold, Ambitious Assassin), (Frenzy, High Ground, Vorpal Weapon)
 //notes:Inspired by @PodvsEnemies episode 127 from 21 January 2025 (https://open.spotify.com/episode/27QaoJnY0M7c7Ikhz8CbUv?si=397188c406294fcf) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for burst damage to Majors in general, and end-game underleveled content. If you're still looking for a kinetic burst damage grenade launcher Ignition Code could happily fill that gap. As a lightweight frame, you get the usual +20 mobility and ×1.0625 boost to speed. At base, the stats are decent - 72 Velocity equates to 57.25m/s, 64 Handling is 0.38s ready, 0.38s ADS and 0.34s stow speed, and 64 Reload Speed is a 2.15s reload. With 0/1/2/3 Ammo Reserves mods, total ammo count is 24/25/25/25 (max 25). To maximise damage per shot, Hard Launch and Implosion Rounds in the barrel and magazine perk slots combine for ×1.225 damage and +25 Velocity, or you can forgo damage for a bit of extra handling with the barrel perk, and Spike Grenades are almost as good for damage. In the first trait perk slot, Slideshot provides a way to bypass reload, Lead From Gold keeps ammo topped off or Ambitious Assassin overflows the magazine on a kill and manual reload. For damage you have a choice of Frenzy, High Ground or Vorpal Weapon. The Splicer Surge origin trait is nice for PvE - reload after dealing damage for up to three stacks, which boosts handling and reload speed by 10/20/45 and applies a reload animation multiplier of ×0.967/×0.934/×0.9. Recommended MW: Handling, with a Quick Access Sling Mag mod.|tags:PvE PvE-MajorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2761869150&perks=3525010810,3492396210,3161816588,4104185692
+dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3798852852,3492396210,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3492396210,1556840489,4104185692
+dimwishlist:item=2761869150&perks=981914802,3492396210,1556840489,4104185692
+dimwishlist:item=2761869150&perks=3798852852,3492396210,1556840489,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3492396210,2010801679,4104185692
+dimwishlist:item=2761869150&perks=981914802,3492396210,2010801679,4104185692
+dimwishlist:item=2761869150&perks=3798852852,3492396210,2010801679,4104185692
+dimwishlist:item=2761869150&perks=3525010810,3492396210,3161816588,2319119708
+dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,2319119708
+dimwishlist:item=2761869150&perks=3798852852,3492396210,3161816588,2319119708
+dimwishlist:item=2761869150&perks=3525010810,3492396210,1556840489,2319119708
+dimwishlist:item=2761869150&perks=981914802,3492396210,1556840489,2319119708
+dimwishlist:item=2761869150&perks=3798852852,3492396210,1556840489,2319119708
+dimwishlist:item=2761869150&perks=3525010810,3492396210,2010801679,2319119708
+dimwishlist:item=2761869150&perks=981914802,3492396210,2010801679,2319119708
+dimwishlist:item=2761869150&perks=3798852852,3492396210,2010801679,2319119708
+dimwishlist:item=2761869150&perks=3525010810,3492396210,3161816588,1546637391
+dimwishlist:item=2761869150&perks=981914802,3492396210,3161816588,1546637391
+dimwishlist:item=2761869150&perks=3798852852,3492396210,3161816588,1546637391
+dimwishlist:item=2761869150&perks=3525010810,3492396210,1556840489,1546637391
+dimwishlist:item=2761869150&perks=981914802,3492396210,1556840489,1546637391
+dimwishlist:item=2761869150&perks=3798852852,3492396210,1556840489,1546637391
+dimwishlist:item=2761869150&perks=3525010810,3492396210,2010801679,1546637391
+dimwishlist:item=2761869150&perks=981914802,3492396210,2010801679,1546637391
+dimwishlist:item=2761869150&perks=3798852852,3492396210,2010801679,1546637391
 dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,4104185692
 dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,4104185692
 dimwishlist:item=2761869150&perks=3798852852,3301904089,3161816588,4104185692
