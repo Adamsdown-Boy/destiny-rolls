@@ -89,6 +89,22 @@ dimwishlist:item=45643573&perks=852209214,3827198035,3700496672,3365897133
 dimwishlist:item=45643573&perks=4067834857,3429800428,3700496672,3365897133
 dimwishlist:item=45643573&perks=4067834857,3827198035,3700496672,3365897133
 
+// Midnight Coup
+// (Arrowhead Brake, Smallbore, Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell, Steady Rounds), Shoot to Loot, Kinetic Tremors
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. You can focus Hung Jury SR4 from Vanguard Onslaught, and rolls are enhanceable. At base, the stats are okay - 40 Range equates to 29.40m ADS and 19.60m hipfire, 45 Stability is ×1.1422 flinch resist at 100 Resilience, 60 Handling is 0.30s ready, 0.23s ADS and 0.34s stow speed, 56 Reload Speed is a 2.46s reload and Recoil Direction is 80. The barrel perk can be used to improve the Recoil Direction or Stability, and you could really do with some extra reload speed from the magazine perk. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Kinetic Tremors is a natural pairing, adding AoE damage and also extending the radius of pickups to anything within the shockwave area. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Handling or Stability, with a Backup Mag mod Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2763843898&perks=839105230,106909392,3700496672,3891536761
+dimwishlist:item=2763843898&perks=839105230,3230963543,3700496672,3891536761
+dimwishlist:item=2763843898&perks=839105230,3177308360,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1482024992,106909392,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1482024992,3230963543,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1482024992,3177308360,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1392496348,106909392,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1392496348,3177308360,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1840239774,106909392,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=2763843898&perks=1840239774,3177308360,3700496672,3891536761
+
 // Vulpecula
 // (Polygonal Rifling, Corkscrew Rifling, Smallbore, Fluted Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Shoot to Loot, Explosive Payload
 //notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Vulpecula doesn't drop in-game any more, so you'll have to rely on a roll from the Gunsmith to turn up. At base, the stats are on the low side - 32 Range equates to 28.32m ADS and 18.88m hipfire, 53 Stability is ×1.1557 flinch resist at 100 Resilience, 29 Handling is 0.39s ready, 0.28s ADS and 0.43s stow speed, 52 Reload Speed is a 2.53s reload and Recoil Direction is 97 (although as a precision frame, you can largely ignore the RD stat). The barrel perk can be used to improve Handling or Stability, or maybe push range out a little, and you could really do with some extra reload speed from the magazine perk. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. Recommended MW: Handling, Stability or Range, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
