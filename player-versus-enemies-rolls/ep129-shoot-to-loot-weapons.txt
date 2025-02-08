@@ -1,0 +1,318 @@
+title:Shoot to Loot weapons
+description:Deep dive of StL weapons, following the discussions on endgame use in the Podcast vs Enemies podcast episode 129
+
+// Breakneck
+// (Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Light Mag), Shoot To Loot, Kinetic Tremors
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It does drop from Gambit activities with a 12×12 trait perk pool, so if you're after it, reset your Drifter rank as many times as you're able before focusing. At base, the stats are solid - 64 Range equates to 30.00m ADS and 18.75m hipfire, 45 Stability is ×1.1703 flinch resist at 100 Resilience, 37 Handling is 0.42s ready, 0.32s ADS and 0.38s stow speed, 46 Reload Speed is a 1.87s reload and Recoil Direction is 80 (although as a precision frame, the RD stat is largely irrelevant). You can boost the stat of your choice with the barrel perk - maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, you could make an argument for any of them, so dealer's choice. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Kinetic Tremors is a natural pairing, adding AoE damage but also extending the radius of pickups to anything within the shockwave area. The Gun and Run Origin Trait is nice to have, providing the equivalent of a Lightweight Frame ×1.0625 boost to movement speed when procced. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2026755633&perks=1392496348,1561002382,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1392496348,1968497646,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1392496348,1885400500,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1392496348,1431678320,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1392496348,679225683,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1392496348,1087426260,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1561002382,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1968497646,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1885400500,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1431678320,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,679225683,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1840239774,1087426260,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1561002382,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1968497646,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1885400500,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,3230963543,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1431678320,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,679225683,3700496672,3891536761
+dimwishlist:item=2026755633&perks=1482024992,1087426260,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1561002382,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1968497646,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1885400500,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,3230963543,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1431678320,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,679225683,3700496672,3891536761
+dimwishlist:item=2026755633&perks=4090651448,1087426260,3700496672,3891536761
+
+// Fel Taradiddle
+// (Elastic String, Polymer String, Natural String), (Fiberglass Arrow Shaft), Straight Fletching, Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It can be obtained from The Wellspring: Attack on Savathûn's Throne World when the boss Bor'gong, Warden of the Spring is active, and if you drop five red-box Deepsight versions, is shapeable. As a Lightweight Frame, you'll have the frame intrinsic bonus of +20 Mobility and ×1.0625 boost to movement speed. At base, the stats are okay - Draw Time is the standard 0.580s for Lightweights, 52 Stability is 19.00% flinch resist at 100 Resilience and a perfect draw window of 0.66s, 65 Handling is 0.55s ready, 0.41s ADS and 0.42s stow speed, 60 Reload Speed is a 0.68s reload and Recoil Direction is 58. If you're shaping one, use Elastic String as the bow perk to reduce the Draw Time to 0.500s, although if you drop one with any perk that reduces Draw Time that's work, and Fiberglass Arrow Shaft or Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Psychohack Origin Trait is very nice to have for endgame use, exhausting a target after 3 hits to reduce outgoing damage by ×0.9 for 5s. If you're interested, “taradiddle” means a lie, fib, or made up story in informal British English, while "fel" has many possible meanings, but the most likely is treacherous, deceitful or false. Recommended MW: Draw Time or Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1399109800&perks=2801223209,3429800428,3700496672,3365897133
+dimwishlist:item=1399109800&perks=2801223209,3827198035,3700496672,3365897133
+dimwishlist:item=1399109800&perks=852209214,3429800428,3700496672,3365897133
+dimwishlist:item=1399109800&perks=852209214,3827198035,3700496672,3365897133
+dimwishlist:item=1399109800&perks=1784898267,3429800428,3700496672,3365897133
+dimwishlist:item=1399109800&perks=1784898267,3827198035,3700496672,3365897133
+
+// Hush
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching), Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It does drop from Gambit activities with a 12×12 trait perk pool, so if you're after it, reset your Drifter rank as many times as you're able before focusing. At base, the stats are okay - Draw Time is the standard 0.684s for Precisions, 40 Stability is ×1.0625 flinch resist and a 0.40s perfect draw window, 49 Handling is 0.59s ready, 0.44s ADS and 0.45s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 58 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s, although any perk that reduces draw time is fine, and Fiberglass Arrow Shaft or Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Gun and Run Origin Trait is nice to have, providing the equivalent of a Lightweight Frame ×1.0625 boost to movement speed when procced. Recommended MW: Draw Time or Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create Firesprites or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3962575203&perks=2801223209,3429800428,3700496672,3365897133
+dimwishlist:item=3962575203&perks=2801223209,3827198035,3700496672,3365897133
+dimwishlist:item=3962575203&perks=852209214,3429800428,3700496672,3365897133
+dimwishlist:item=3962575203&perks=852209214,3827198035,3700496672,3365897133
+dimwishlist:item=3962575203&perks=4067834857,3429800428,3700496672,3365897133
+dimwishlist:item=3962575203&perks=4067834857,3827198035,3700496672,3365897133
+
+// Non-Denouement
+// Elastic String, Straight Fletching, Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It drops from the Substratum, Herald of Finality and Verity encounters in Salvation's Edge raid, and is shapeable after collecting five Deepsight weapons. At base, the stats are good - Draw Time is the standard 0.684s for Precisions, 48 Stability is ×1.1787 flinch resist at 100 Resilience and a 0.42s perfect draw window, 54 Handling is 0.58s ready, 0.43s ADS and 0.44s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 80 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s, and Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Collective Action origin trait is nice to have in a firsteam - passively gaining a stack per ally (up to five) within 15m to boost draw time, handling and reload speed. If you're interested, Non-Dénouement is French for "No final outcome" - make of that what you will! Recommended MW: Draw Time or Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1770490683&perks=2801223209,3827198035,3700496672,3365897133
+
+// Non-Denouement (Adept)
+// Elastic String, Straight Fletching, Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It drops from the Substratum, Herald of Finality and Verity encounters in Salvation's Edge raid, and is shapeable after collecting five Deepsight weapons. At base, the stats are good - Draw Time is the standard 0.684s for Precisions, 48 Stability is ×1.1787 flinch resist at 100 Resilience and 0.42s perfect draw window, 54 Handling is 0.58s ready, 0.43s ADS and 0.44s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 80 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s, and Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Collective Action origin trait is nice to have in a firsteam - passively gaining a stack per ally (up to five) within 15m to boost draw time, handling and reload speed. If you're interested, Non-Dénouement is French for "No final outcome" - make of that what you will! Recommended MW: Draw Time or Handling, with an Adept Draw Time or Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1039915310&perks=2801223209,3827198035,3700496672,3365897133
+
+// Pre Astyanax IV
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching), Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Pre Astyanax IV drops from Nightfall Strikes and is enhanceable with Deepsight Harmonizers. At base, the stats are okay - Draw Time is the standard 0.684s for Precisions, 48 Stability is ×1.1563 flinch resist at 100 Resilience and a perfect draw window of 0.40s, 54 Handling is 0.58s ready, 0.43s ADS and 0.44s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 80 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s but any perk that lowers Draw Time is fine, and FiberGlass Arrow Shaft or Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. Of the three origin traits, Wild Card is the most fun to generate Telesto-like experimental submunitions on kills, or when anti-champion artifact mods are around, Stunning Recovery is a good choice for end-game activities. If you're interested, the literal translation means "Before Astyanax". Astyanax (“Lord of the City”), in Greek legend, is the Trojan popular nickname for the son of the city's greatest warrior, Prince Hector of Troy, and his wife Andromache. Recommended MW: Draw Time or Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create Firesprites or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2932922810&perks=2801223209,3429800428,3700496672,3365897133
+dimwishlist:item=2932922810&perks=2801223209,3827198035,3700496672,3365897133
+dimwishlist:item=2932922810&perks=852209214,3429800428,3700496672,3365897133
+dimwishlist:item=2932922810&perks=852209214,3827198035,3700496672,3365897133
+dimwishlist:item=2932922810&perks=4067834857,3429800428,3700496672,3365897133
+dimwishlist:item=2932922810&perks=4067834857,3827198035,3700496672,3365897133
+
+// Pre Astyanax IV (Adept)
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching), Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Pre Astyanax IV drops from Grandmaster Nightfall Strikes and is enhanceable with Deepsight Harmonizers. At base, the stats are okay - Draw Time is the standard 0.684s for Precisions, 48 Stability is ×1.1563 flinch resist at 100 Resilience and a perfect draw window of 0.40s, 54 Handling is 0.58s ready, 0.43s ADS and 0.44s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 80 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s but any perk that lowers Draw Time is fine, and FiberGlass Arrow Shaft or Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. Of the three origin traits, Wild Card is the most fun to generate Telesto-like experimental submunitions on kills, or when anti-champion artifact mods are around, Stunning Recovery is a good choice for end-game activities. If you're interested, the literal translation means "Before Astyanax". Astyanax (“Lord of the City”), in Greek legend, is the Trojan popular nickname for the son of the city's greatest warrior, Prince Hector of Troy, and his wife Andromache. Recommended MW: Draw Time or Handling, with an Adept Draw Time or Quick Access Sling mod or, when masterworked, Synergy to create Firesprites or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2063217087&perks=2801223209,3429800428,3700496672,3365897133
+dimwishlist:item=2063217087&perks=2801223209,3827198035,3700496672,3365897133
+
+// Raconteur
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching), Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Raconteur drops from the Avalon exotic mission, and is shapeable if you obtain five Deepsight versions. At base, the stats are okay - Draw Time is the standard 0.684s for Precisions, 48 Stability is ×1.1787 flinch resist at 100 Resilience and a perfect draw window of 0.42s, 56 Handling is 0.57s ready, 0.43s ADS and 0.44s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 72 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s but any perk that lowers Draw Time is fine, and FiberGlass Arrow Shaft or Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Noble Deeds origin trait is nice to have - healing, reviving or buffing team-mates provides 10 stacks of Noble Deeds, boosting Handling and Reload Speed by +30, using up one charge per enemy kill afterwards. Recommended MW: Draw Time or Handling, with a Quick Access Sling mod or, when masterworked, Synergy to create Stasis Shards or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=45643573&perks=2801223209,3429800428,3700496672,3365897133
+dimwishlist:item=45643573&perks=2801223209,3827198035,3700496672,3365897133
+dimwishlist:item=45643573&perks=852209214,3429800428,3700496672,3365897133
+dimwishlist:item=45643573&perks=852209214,3827198035,3700496672,3365897133
+dimwishlist:item=45643573&perks=4067834857,3429800428,3700496672,3365897133
+dimwishlist:item=45643573&perks=4067834857,3827198035,3700496672,3365897133
+
+// Vulpecula
+// (Polygonal Rifling, Corkscrew Rifling, Smallbore, Fluted Barrel, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Shoot to Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Vulpecula doesn't drop in-game any more, so you'll have to rely on a roll from the Gunsmith to turn up. At base, the stats are on the low side - 32 Range equates to 28.32m ADS and 18.88m hipfire, 53 Stability is ×1.1557 flinch resist at 100 Resilience, 29 Handling is 0.39s ready, 0.28s ADS and 0.43s stow speed, 52 Reload Speed is a 2.53s reload and Recoil Direction is 97 (although as a precision frame, you can largely ignore the RD stat). The barrel perk can be used to improve Handling or Stability, or maybe push range out a little, and you could really do with some extra reload speed from the magazine perk. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. Recommended MW: Handling, Stability or Range, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1622998472&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1392496348,3230963543,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1392496348,1431678320,3700496672,3038247973
+dimwishlist:item=1622998472&perks=4090651448,106909392,3700496672,3038247973
+dimwishlist:item=1622998472&perks=4090651448,3230963543,3700496672,3038247973
+dimwishlist:item=1622998472&perks=4090651448,1431678320,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1482024992,1431678320,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=1622998472&perks=1840239774,1431678320,3700496672,3038247973
+dimwishlist:item=1622998472&perks=3250034553,106909392,3700496672,3038247973
+dimwishlist:item=1622998472&perks=3250034553,3230963543,3700496672,3038247973
+dimwishlist:item=1622998472&perks=3250034553,1431678320,3700496672,3038247973
+
+// Battle Scar
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), Shoot To Loot, Kinetic Tremors
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Battle Scar is, at the moment, a world drop weapon with no way to farm or focus, so you're reliant on RNG or a good roll at the Gunsmith. As a Lightweight Frame, you'll have the frame intrinsic bonus of +20 Mobility and ×1.0625 boost to movement speed. At base, the stats are on the low side - 44 Range equates to 30.77m ADS and 18.10m hipfire, 55 Stability is ×1.1540 flinch resist at 100 Resilience, 66 Handling is 0.34s ready, 0.33s ADS and 0.32s stow speed, 56 Reload Speed is a 1.78s reload and Recoil Direction is 54. You can boost the stat of your choice with the barrel perk - maybe err more towards Recoil Direction and Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Kinetic Tremors is a natural pairing, adding AoE damage but also extending the radius of pickups to anything within the shockwave area. The Field Tested origin trait starts subtly but if you can stay alive to get kills, you'll start to feel the gunfeel stat boosts as you get to the higher stacks. Recommended MW: Handling or Stability, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2099894368&perks=839105230,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=839105230,3230963543,3700496672,3891536761
+dimwishlist:item=2099894368&perks=839105230,1431678320,3700496672,3891536761
+dimwishlist:item=2099894368&perks=3661387068,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=3661387068,3230963543,3700496672,3891536761
+dimwishlist:item=2099894368&perks=3661387068,1431678320,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1392496348,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1392496348,1431678320,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1840239774,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1840239774,1431678320,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1482024992,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1482024992,3230963543,3700496672,3891536761
+dimwishlist:item=2099894368&perks=1482024992,1431678320,3700496672,3891536761
+dimwishlist:item=2099894368&perks=4090651448,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=4090651448,3230963543,3700496672,3891536761
+dimwishlist:item=2099894368&perks=4090651448,1431678320,3700496672,3891536761
+
+// Bygones
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Fluted Barrel, Corkscrew Rifling, Smallbore), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Alloy Mag), Shoot To Loot, Kinetic Tremors
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It does drop from Gambit activities with a 12×12 trait perk pool, so if you're after it, reset your Drifter rank as many times as you're able before focusing. At base, the stats are solid - 48 Range equates to 33.32m ADS and 19.60m hipfire, 55 Stability is ×1.1787 flinch resist at 100 Resilience, 46 Handling is 0.40s ready, 0.37s ADS and 0.39s stow speed, 46 Reload Speed is a 1.94s reload and Recoil Direction is 69. You can boost the stat of your choice with the barrel perk - maybe err more towards Recoil Direction and Stability for controller and Handling for M+KB. As the magazine perk, you could make an argument for the combat effects perks, or something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Kinetic Tremors is a natural pairing, adding AoE damage but also extending the radius of pickups to anything within the shockwave area. The Gun and Run Origin Trait is nice to have, providing the equivalent of a Lightweight Frame ×1.0625 boost to movement speed when procced. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2199554524&perks=839105230,1561002382,3700496672,3891536761
+dimwishlist:item=2199554524&perks=839105230,1968497646,3700496672,3891536761
+dimwishlist:item=2199554524&perks=839105230,1885400500,3700496672,3891536761
+dimwishlist:item=2199554524&perks=839105230,3230963543,3700496672,3891536761
+dimwishlist:item=2199554524&perks=839105230,1431678320,3700496672,3891536761
+dimwishlist:item=2199554524&perks=3661387068,1561002382,3700496672,3891536761
+dimwishlist:item=2199554524&perks=3661387068,1968497646,3700496672,3891536761
+dimwishlist:item=2199554524&perks=3661387068,1885400500,3700496672,3891536761
+dimwishlist:item=2199554524&perks=3661387068,3230963543,3700496672,3891536761
+dimwishlist:item=2199554524&perks=3661387068,1431678320,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1392496348,1561002382,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1392496348,1968497646,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1392496348,1885400500,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1392496348,1431678320,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1840239774,1561002382,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1840239774,1968497646,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1840239774,1885400500,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1840239774,1431678320,3700496672,3891536761
+dimwishlist:item=2199554524&perks=4090651448,1561002382,3700496672,3891536761
+dimwishlist:item=2199554524&perks=4090651448,1968497646,3700496672,3891536761
+dimwishlist:item=2199554524&perks=4090651448,1885400500,3700496672,3891536761
+dimwishlist:item=2199554524&perks=4090651448,3230963543,3700496672,3891536761
+dimwishlist:item=2199554524&perks=4090651448,1431678320,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1482024992,1561002382,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1482024992,1968497646,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1482024992,1885400500,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1482024992,3230963543,3700496672,3891536761
+dimwishlist:item=2199554524&perks=1482024992,1431678320,3700496672,3891536761
+
+// Brya's Love
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Brya's Love is, at the moment, not obtainable in-world, so you're reliant on Xûr or the Gunsmith, but it is shapeable if you buy five copies and apply Deepsight Harmonizers. At base, the stats are on the low side - 48 Range equates to 75.55m ADS and 37.78m hipfire, 55 Stability is ×1.1450 flinch resist at 100 Resilience, 47 Handling is 0.41s ready, 0.33s ADS and 0.39s stow speed, 40 Reload Speed is a 2.18s reload and Recoil Direction is 54 (although as a precision frame, the RD stat is largely irrelevant). With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. If you're interested, Brya was the name of Eris's Ghost. Whether you find the Head Rush origin trait useful will depend on how often you crouch and get up again - if you do, the additional handling and reload speed is useful, if not game-changing. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2779821308&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1840239774,1431678320,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1392496348,1431678320,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1392496348,3230963543,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1392496348,1087426260,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1482024992,1431678320,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=2779821308&perks=1482024992,1087426260,3700496672,3038247973
+dimwishlist:item=2779821308&perks=4090651448,106909392,3700496672,3038247973
+dimwishlist:item=2779821308&perks=4090651448,1431678320,3700496672,3038247973
+dimwishlist:item=2779821308&perks=4090651448,3230963543,3700496672,3038247973
+dimwishlist:item=2779821308&perks=4090651448,1087426260,3700496672,3038247973
+
+// Hung Jury SR4 - S20
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. You can still currently obtain the older, Season 20 Nightfall version of Hung Jury SR4 as a Legacy focus froom Zavala. At base, the stats are excellent - 49 Range equates to 75.87m ADS and 37.93m hipfire, 55 Stability is ×1.1787 flinch resist at 100 Resilience, 50 Handling is 0.40s ready, 0.33s ADS and 0.38s stow speed, 46 Reload Speed is a 2.06s reload and Recoil Direction is 75 (although as a precision frame, the RD stat is largely irrelevant). With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Kinetic Tremors is a natural pairing, adding AoE damage and also extending the radius of pickups to anything within the shockwave area. Of the origin traits, Omolon Fluid Dynamics is good for compulsive reloaders, Stunning Recovery when the artifact mod is around, or Vanguard's Vindication for a 10HP (around 5% of your health bar) per enemy kill. Recommended MW: Handling or Stability, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3832743906&perks=1840239774,106909392,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1840239774,1431678320,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1840239774,1087426260,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1392496348,106909392,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1392496348,1431678320,3700496672,3891536761
+dimwishlist:item=3832743906&perks=1392496348,1087426260,3700496672,3891536761
+dimwishlist:item=3832743906&perks=4090651448,106909392,3700496672,3891536761
+dimwishlist:item=3832743906&perks=4090651448,3230963543,3700496672,3891536761
+dimwishlist:item=3832743906&perks=4090651448,1431678320,3700496672,3891536761
+dimwishlist:item=3832743906&perks=4090651448,1087426260,3700496672,3891536761
+
+// Hung Jury SR4 (Adept) - S20
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. You can still currently obtain the older, Season 20 Nightfall version of Hung Jury SR4 as a Legacy focus froom Zavala. At base, the stats are excellent - 49 Range equates to 75.87m ADS and 37.93m hipfire, 55 Stability is ×1.1787 flinch resist at 100 Resilience, 50 Handling is 0.40s ready, 0.33s ADS and 0.38s stow speed, 46 Reload Speed is a 2.06s reload and Recoil Direction is 75 (although as a precision frame, the RD stat is largely irrelevant). With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Kinetic Tremors is a natural pairing, adding AoE damage and also extending the radius of pickups to anything within the shockwave area. Of the origin traits, Omolon Fluid Dynamics is good for compulsive reloaders, Stunning Recovery when the artifact mod is around, or Vanguard's Vindication for a 10HP (around 5% of your health bar) per enemy kill. Recommended MW: Handling or Stability, with an Adept Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2883684343&perks=1840239774,106909392,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1840239774,1431678320,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1840239774,3230963543,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1840239774,1087426260,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1392496348,106909392,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1392496348,1431678320,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1392496348,3230963543,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1392496348,1087426260,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1482024992,106909392,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1482024992,1431678320,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1482024992,3230963543,3700496672,3891536761
+dimwishlist:item=2883684343&perks=1482024992,1087426260,3700496672,3891536761
+dimwishlist:item=2883684343&perks=4090651448,106909392,3700496672,3891536761
+dimwishlist:item=2883684343&perks=4090651448,1431678320,3700496672,3891536761
+dimwishlist:item=2883684343&perks=4090651448,3230963543,3700496672,3891536761
+dimwishlist:item=2883684343&perks=4090651448,1087426260,3700496672,3891536761
+
+// Hung Jury SR4 - S23
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. You can focus Hung Jury SR4 from Vanguard Onslaught, and rolls are enhanceable. At base, the stats are excellent - 49 Range equates to 75.87m ADS and 37.93m hipfire, 55 Stability is ×1.1787 flinch resist at 100 Resilience, 50 Handling is 0.40s ready, 0.33s ADS and 0.38s stow speed, 46 Reload Speed is a 2.06s reload and Recoil Direction is 75 (although as a precision frame, the RD stat is largely irrelevant). With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1453235079&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1840239774,1431678320,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1392496348,1431678320,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1392496348,3230963543,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1392496348,1087426260,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1482024992,1431678320,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=1453235079&perks=1482024992,1087426260,3700496672,3038247973
+dimwishlist:item=1453235079&perks=4090651448,106909392,3700496672,3038247973
+dimwishlist:item=1453235079&perks=4090651448,1431678320,3700496672,3038247973
+dimwishlist:item=1453235079&perks=4090651448,3230963543,3700496672,3038247973
+dimwishlist:item=1453235079&perks=4090651448,1087426260,3700496672,3038247973
+
+// Hung Jury SR4 (Shiny) - S23
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. You can focus Hung Jury SR4 from Vanguard Onslaught, and rolls are enhanceable. At base, the stats are excellent - 49 Range equates to 75.87m ADS and 37.93m hipfire, 55 Stability is ×1.1787 flinch resist at 100 Resilience, 50 Handling is 0.40s ready, 0.33s ADS and 0.38s stow speed, 46 Reload Speed is a 2.06s reload and Recoil Direction is 75 (although as a precision frame, the RD stat is largely irrelevant). With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Indomitability origin trait seems built for the Prismatic subclass, generating grenade of melle energy according to your subclass type. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create power orbs or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=205225492&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=205225492&perks=1840239774,1431678320,3700496672,3038247973
+dimwishlist:item=205225492&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=205225492&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=205225492&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=205225492&perks=1392496348,1431678320,3700496672,3038247973
+dimwishlist:item=205225492&perks=1392496348,3230963543,3700496672,3038247973
+dimwishlist:item=205225492&perks=1392496348,1087426260,3700496672,3038247973
+dimwishlist:item=205225492&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=205225492&perks=1482024992,1431678320,3700496672,3038247973
+dimwishlist:item=205225492&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=205225492&perks=1482024992,1087426260,3700496672,3038247973
+dimwishlist:item=205225492&perks=4090651448,106909392,3700496672,3038247973
+dimwishlist:item=205225492&perks=4090651448,1431678320,3700496672,3038247973
+dimwishlist:item=205225492&perks=4090651448,3230963543,3700496672,3038247973
+dimwishlist:item=205225492&perks=4090651448,1087426260,3700496672,3038247973
+
+// Perses-D
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Perses-D is, at the moment, a world drop weapon with no way to farm or focus, so you're reliant on RNG or a good roll at the Gunsmith. As a High-Impact frame, it suits a slower, more deliberate playstyle, providing improved accuracy when moving slowly or stationary. At base, the stats are on the poor side - 68 Range equates to 81.82m ADS and 40.91m hipfire, 22 Stability is ×1.1045 flinch resist at 100 Resilience, 31 Handling is 0.45s ready, 0.36s ADS and 0.44s stow speed, 33 Reload Speed is a 2.32s reload and Recoil Direction is 74. With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage and also extending the radius of pickups to anything within the explosion area. If you're interested, Perses is the Greek Titan god of destruction. The Hakke Breach Armaments origin trait is occasionally useful if you're facing constructs (×1.3 damage) or vehicles (×1.15 damage), or to break Stasis crystals (×1.45 damage). Recommended MW: Handling or Stability, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1019000888&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1840239774,1431678320,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1392496348,1431678320,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1392496348,3230963543,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1392496348,1087426260,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1482024992,1431678320,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=1019000888&perks=1482024992,1087426260,3700496672,3038247973
+dimwishlist:item=1019000888&perks=4090651448,106909392,3700496672,3038247973
+dimwishlist:item=1019000888&perks=4090651448,1431678320,3700496672,3038247973
+dimwishlist:item=1019000888&perks=4090651448,3230963543,3700496672,3038247973
+dimwishlist:item=1019000888&perks=4090651448,1087426260,3700496672,3038247973
+
+// Staccato-46
+// (Fluted Barrel, Polygonal Rifling, Smallbore, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Staccato-46 is, at the moment, a world drop weapon with no way to farm or focus, so you're reliant on RNG or a good roll at the Gunsmith. At base, the stats are okay - 39 Range equates to 72.73m ADS and 36.37m hipfire, 44 Stability is ×1.1540 flinch resist at 100 Resilience, 38 Handling is 0.43s ready, 0.35s ADS and 0.32s stow speed, 40 Reload Speed is a 2.18s reload and Recoil Direction is 58 (although as a precision frame, the RD stat is largely irrelevant). With the barrel perk, maybe err more towards Stability for controller and Handling for M+KB. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage and also extending the radius of pickups to anything within the explosion area. The Suros Synergy origin trait is more useful in PvP, but provides a useful +30 Handling after a reload for faster ADS. Recommended MW: Handling or Stability, with a Backup Mag mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4019668921&perks=1840239774,106909392,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1840239774,1431678320,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1840239774,1087426260,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1392496348,106909392,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1392496348,1431678320,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1392496348,3230963543,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1392496348,1087426260,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,106909392,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,1431678320,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,3230963543,3700496672,3038247973
+dimwishlist:item=4019668921&perks=1482024992,1087426260,3700496672,3038247973
+dimwishlist:item=4019668921&perks=4090651448,106909392,3700496672,3038247973
+dimwishlist:item=4019668921&perks=4090651448,1431678320,3700496672,3038247973
+dimwishlist:item=4019668921&perks=4090651448,3230963543,3700496672,3038247973
+dimwishlist:item=4019668921&perks=4090651448,1087426260,3700496672,3038247973
+
+// Strident Whistle
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching), Shoot to Loot, Explosive Head
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. It does drop from Vanguard activities with a 12×12 trait perk pool, so if you're after it, reset your Zavala rank as many times as you're able before focusing. At base, the stats are okay - Draw Time is the standard 0.684s for Precisions, 41 Stability is ×1.1591 flinch resist at 100 Resilience and a 0.40s perfect draw window, 50 Handling is 0.59s ready, 0.44s ADS and 0.45s stow speed, 40 Reload Speed is a 0.78s reload and Recoil Direction is 76 (although as a precision bow, you can largely ignore the RD stat). If you're shaping one, use Elastic String as the bowstring perk to reduce the Draw Time to 0.612s, although any perk that reduces draw time is fine, and Fiberglass Arrow Shaft or Straight Fletching as the arrow perk to recover the accuracy you lose. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Head is a natural pairing in the second, adding short-range AoE damage but also extending the radius of pickups to anything within the explosion area. The Vanguard Vindication is better than nothing, providing 10HP (or roughly 5% of health bar) on kills. Recommended MW: Draw Time or Handling, with a Quick Access Sling mod.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2591241074&perks=2801223209,3429800428,3700496672,3365897133
+dimwishlist:item=2591241074&perks=2801223209,3827198035,3700496672,3365897133
+dimwishlist:item=2591241074&perks=852209214,3429800428,3700496672,3365897133
+dimwishlist:item=2591241074&perks=852209214,3827198035,3700496672,3365897133
+dimwishlist:item=2591241074&perks=1784898267,3429800428,3700496672,3365897133
+dimwishlist:item=2591241074&perks=1784898267,3827198035,3700496672,3365897133
+
+// Tarnished Mettle
+// Arrowhead Brake, (Tactical Mag, Alloy Mag, Flared Magwell), Shoot To Loot, Explosive Payload
+//notes:Inspired by @PodvsEnemies episode 129 from 4 February 2024 (https://open.spotify.com/episode/2uWyYPQLbvZXwUsipV3EeL?si=2c7c05a5d9084d97) with @Saint_Kabr, @ImpetusAlways and @CourtProjects (PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for Shoot to Loot utility and use against Minor adds in general, and end-game underleveled content. Tarnished Mettle is, at the moment, not obtainable in-world, so you're reliant on Xûr or Banshee-44, but it is shapeable if you buy five copies and apply Deepsight Harmonizers. As a Lightweight Frame, you'll have the frame intrinsic bonus of +20 Mobility and ×1.0625 boost to movement speed. At base, the stats are okay - 30 Range equates to 69.91m ADS and 34.95m hipfire, 33 Stability is ×1.1292 flinch resist at 100 Resilience, 66 Handling is 0.35s ready, 0.30s ADS and 0.33s stow speed, 53 Reload Speed is a 1.94s reload and Recoil Direction is 52. With the barrel perk, straighten up the recoil and improve Handling with Arrowhead Brake. As the magazine perk, take something that helps reload. Looking at Shoot to Loot in the first trait perk column, for safe remote pickup of ammo bricks and power orbs in end-game or activities where you're under-levelled, Explosive Payload is a natural pairing in the second, adding short-range AoE damage and also extending the radius of pickups to anything within the explosion area. The Right Hook origin trait works well in CQC, and in particular for melee-heavy playstyles, so unfortunately that's not very useful for a Scout Rifle. Recommended MW: Handling or Stability, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader.|tags:PvE PvE-Utility PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2218569744&perks=839105230,106909392,3700496672,3038247973
+dimwishlist:item=2218569744&perks=839105230,1431678320,3700496672,3038247973
+dimwishlist:item=2218569744&perks=839105230,3230963543,3700496672,3038247973
