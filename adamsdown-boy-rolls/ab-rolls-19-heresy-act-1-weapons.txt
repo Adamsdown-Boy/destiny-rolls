@@ -1,0 +1,123 @@
+@title:PvE podcast ep130 Heresy Act 1 weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Psychopomp - Endgame God AB build
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Rolling Storm
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content, particularly wit arc builds. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, for arc build synergy, Rolling Thunder speeds up accumulation of Bolt Charge, adding a stack on a kill (2 when Amplified) for additional damage from lightning bolts. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,691659142,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=3840794631&perks=3525010810,2822142346,691659142,3218042543
+
+// Psychopomp (Adept) - Endgame god AB roll
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Pugilist), Rolling Storm
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for clearing Minor add crowds in general, and end-game underleveled content, particularly wit arc builds. Psychopomp adds an S-Tier arc option to the lineup of area denial frame grenade launchers. At base, the stats are in-band - at the time of writing, D2Foundry isn't showing the in-game stats, but hopefully they'll be added in soon. With 0/1/2/3 reserves mods, total ammo is 24/25/25/25 (max 25). Quick Launch as the barrel perk boosts both Handling and Velocity, and the High-Velocity Rounds magazine perk adds more Velocity with Reload Speed. In the first trait perk column, Ambitious Assassin overflows the magazine for two shots from a reload after a kill, as can the Runneth Over origin trait when you're with 15m of at least one other ally and, when the stars align, they can both proc for a physics-defying three in the tube. Alternatively, for melee builds, you gain 20% ability energy per kill from Pugilist. In the second column, for arc build synergy, Rolling Thunder speeds up accumulation of Bolt Charge, adding a stack on a kill (2 when Amplified) for additional damage from lightning bolts. Runneth Over is probably the more immediately useful origin trait, overflowing your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading. Recommended MW: Handling or Stability, with a Quick Access Sling mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,691659142,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=704410186&perks=3525010810,2822142346,691659142,3218042543
+
+
+// Watchful Eye - Endgame sustained damage god 3 AB
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag)), Overload, Target Lock
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. With Target Lock in the second column, you should then easily be able to reach maximum stack for ×1.4 damage against a single target. Recommended MW: Handling or Stability, with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=1757177186&perks=839105230,2420895100,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,1087426260,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,1561002382,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,1968497646,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,1885400500,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,1431678320,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,3230963543,3643424744,365154968
+dimwishlist:item=1757177186&perks=839105230,679225683,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,2420895100,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1087426260,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1561002382,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1968497646,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1885400500,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,1431678320,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,3230963543,3643424744,365154968
+dimwishlist:item=1757177186&perks=1840239774,679225683,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,2420895100,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,1087426260,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,1561002382,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,1968497646,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,1885400500,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,1431678320,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,3230963543,3643424744,365154968
+dimwishlist:item=768610585&perks=839105230,679225683,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,2420895100,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,1087426260,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,1561002382,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,1968497646,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,1885400500,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,1431678320,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,3230963543,3643424744,365154968
+dimwishlist:item=768610585&perks=1840239774,679225683,3643424744,365154968
+
+// Watchful Eye (Adept) - Endgame sustained damage god 3 AB
+// (Arrowhead Brake, Fluted Barrel), (Extended Mag, Appended Mag, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell, Light Mag)), Overload, Target Lock
+//notes:Adamsdown_Boy written v8.2.0.1 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): PvE pick for sustained Boss damage in general, and end-game underleveled content. Watchful Eye, as an aggressive frame is the best of the LMGs for damage at the time of writing. At base, the stats are average - 39 Range equates to 46.99m ADS and 29.37m hipfire, 49 Stability is ×1.1653 flinch resist at 100 Resilience, 25 Handling is 0.39s ready, 0.40s ADS and 0.37s stow speed, 37 Reload Speed is a 5.11s reload and Recoil Direction is 59. The mag size is 64 (max 87), and with 0/1/2/3 reserves mods total ammo is 429/483/538/566 (max 600). Use the barrel perk to add Handling and help control recoil to land crits easier, while you could make a case for any of the magazine perks, but maybe the top choice is to look to increase mag size. For sustained damage, Overflow in the first trait column doubles the number of shots you for just picking up an ammo brick, bypassing reload altogether you can also overflow using the Runneth Over origin trait which overflows your magazine by 10% of base magazine capacity per nearby ally (up to 5) when reloading and, when the stars align, they can both proc to dump around half of your total ammo into the mag. With Target Lock in the second column, you should then easily be able to reach maximum stack for ×1.4 damage against a single target. Recommended MW: Handling or Stability, with an Adept Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=737409399&perks=839105230,2420895100,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,2420895100,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,1087426260,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,1087426260,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,1561002382,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,1561002382,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,1968497646,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,1968497646,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,1885400500,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,1885400500,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,1431678320,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,1431678320,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,3230963543,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,3230963543,2869569095,365154968
+dimwishlist:item=737409399&perks=839105230,679225683,3643424744,365154968
+dimwishlist:item=737409399&perks=839105230,679225683,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,2420895100,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,2420895100,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1087426260,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1087426260,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1561002382,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1561002382,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1968497646,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1968497646,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1885400500,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1885400500,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,1431678320,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,1431678320,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,3230963543,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,3230963543,2869569095,365154968
+dimwishlist:item=737409399&perks=1840239774,679225683,3643424744,365154968
+dimwishlist:item=737409399&perks=1840239774,679225683,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,2420895100,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,2420895100,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,1087426260,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,1087426260,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,1561002382,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,1561002382,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,1968497646,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,1968497646,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,1885400500,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,1885400500,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,1431678320,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,1431678320,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,3230963543,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,3230963543,2869569095,365154968
+dimwishlist:item=2856225832&perks=839105230,679225683,3643424744,365154968
+dimwishlist:item=2856225832&perks=839105230,679225683,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,2420895100,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,2420895100,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,1087426260,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,1087426260,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,1561002382,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,1561002382,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,1968497646,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,1968497646,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,1885400500,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,1885400500,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,1431678320,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,1431678320,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,3230963543,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,3230963543,2869569095,365154968
+dimwishlist:item=2856225832&perks=1840239774,679225683,3643424744,365154968
+dimwishlist:item=2856225832&perks=1840239774,679225683,2869569095,365154968
