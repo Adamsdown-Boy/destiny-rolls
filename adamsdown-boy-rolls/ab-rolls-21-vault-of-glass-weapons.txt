@@ -1,0 +1,120 @@
+@title:PvE podcast ep132 Vault of Glass weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Fatebringer - PvE Minors god AB 1
+// (Smallbore, Corkscrew Rifling), Alloy Mag, (Kinetic Tremors, Explosive Payload), (Frenzy, Firefly)
+//notes:Adamsdown_Boy written v8.2.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and in end-game underleveled content. Fan favourite Fatebringer is still worth a look if you're looking for a strong kinetic slot primary which by default as a kinetic weapon, does ×1.1 damage against Minor adds. At base, the stats are good by comparison with its peers (particularly if you ignore the stat monster that is Midnight Coup) - 46 Range and 14 Zoom equates to 30.21m ADS and 20.14m hipfire, 57 Stability is ×1.1624 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, 46 Reload Speed is a 2.63s reload and Recoil Direction is 98. The barrel perk can be used to improve the Stability and Range, and Alloy Mag is the pick of the magazine perks, with an up to ×0.8 scalar to Reload Speed, but Tactical Mag and Flared Magwell are decent alternatives. The first trait perk column offers the option for double damage perks - Kinetic Tremors procs after 6 hits (5 when enhanced) for additional target and AoE damage or Explosive Payload adds damage (×1.1 to crit and ×1.15 to body) and flinch. Both pair well with Frenzy for an additional ×1.15 and maxed Handling and Reload Speed, or Firefly for a solar AoE detonation and +50 Reload Speed. The Timelost Magazine origin trait is very strong for PvE - essentially, the Thresh trait perk for free to build your super quickly on kills, and then providing a ×2 magazine size for 20s after your super finishes, refilling the mag from your reserves. Recommended MW: Range or Stability, with a Backup Mag mod or, when fully enhanced, Synergy to create power orbs or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4184168210&perks=1482024992,1431678320,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1482024992,1431678320,3891536761,3824105627
+dimwishlist:item=4184168210&perks=1482024992,1431678320,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,1431678320,3038247973,3824105627
+dimwishlist:item=4184168210&perks=1482024992,106909392,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1482024992,106909392,3891536761,3824105627
+dimwishlist:item=4184168210&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=4184168210&perks=1482024992,3230963543,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1482024992,3230963543,3891536761,3824105627
+dimwishlist:item=4184168210&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1482024992,3230963543,3038247973,3824105627
+dimwishlist:item=4184168210&perks=4090651448,1431678320,3891536761,4104185692
+dimwishlist:item=4184168210&perks=4090651448,1431678320,3891536761,3824105627
+dimwishlist:item=4184168210&perks=4090651448,1431678320,3038247973,4104185692
+dimwishlist:item=4184168210&perks=4090651448,1431678320,3038247973,3824105627
+dimwishlist:item=4184168210&perks=4090651448,106909392,3891536761,4104185692
+dimwishlist:item=4184168210&perks=4090651448,106909392,3891536761,3824105627
+dimwishlist:item=4184168210&perks=4090651448,106909392,3038247973,4104185692
+dimwishlist:item=4184168210&perks=4090651448,106909392,3038247973,3824105627
+dimwishlist:item=4184168210&perks=4090651448,3230963543,3891536761,4104185692
+dimwishlist:item=4184168210&perks=4090651448,3230963543,3891536761,3824105627
+dimwishlist:item=4184168210&perks=4090651448,3230963543,3038247973,4104185692
+dimwishlist:item=4184168210&perks=4090651448,3230963543,3038247973,3824105627
+dimwishlist:item=4184168210&perks=1840239774,1431678320,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1840239774,1431678320,3891536761,3824105627
+dimwishlist:item=4184168210&perks=1840239774,1431678320,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1840239774,1431678320,3038247973,3824105627
+dimwishlist:item=4184168210&perks=1840239774,106909392,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=4184168210&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=4184168210&perks=1840239774,3230963543,3891536761,4104185692
+dimwishlist:item=4184168210&perks=1840239774,3230963543,3891536761,3824105627
+dimwishlist:item=4184168210&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=4184168210&perks=1840239774,3230963543,3038247973,3824105627
+
+// Fatebringer (Timelost) - PvE Minors god 1 AB
+// (Smallbore, Corkscrew Rifling), Alloy Mag, (Kinetic Tremors, Explosive Payload), (Frenzy, Firefly)
+//notes:Adamsdown_Boy written v8.2.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and in end-game underleveled content. Fan favourite Fatebringer is still worth a look if you're looking for a strong kinetic slot primary which by default as a kinetic weapon, does ×1.1 damage against Minor adds. At base, the stats are good by comparison with its peers (particularly if you ignore the stat monster that is Midnight Coup) - 46 Range and 14 Zoom equates to 30.21m ADS and 20.14m hipfire, 57 Stability is ×1.1624 flinch resist at 100 Resilience, 55 Handling is 0.32s ready, 0.24s ADS and 0.35s stow speed, 46 Reload Speed is a 2.63s reload and Recoil Direction is 98. The barrel perk can be used to improve the Stability and Range, and Alloy Mag is the pick of the magazine perks, with an up to ×0.8 scalar to Reload Speed, but Tactical Mag and Flared Magwell are decent alternatives. The first trait perk column offers the option for double damage perks - Kinetic Tremors procs after 6 hits (5 when enhanced) for additional target and AoE damage or Explosive Payload adds damage (×1.1 to crit and ×1.15 to body) and flinch. Both pair well with Frenzy for an additional ×1.15 and maxed Handling and Reload Speed, or Firefly for a solar AoE detonation and +50 Reload Speed. The Timelost Magazine origin trait is very strong for PvE - essentially, the Thresh trait perk for free to build your super quickly on kills, and then providing a ×2 magazine size for 20s after your super finishes, refilling the mag from your reserves. Recommended MW: Range or Stability, with an Adept Backup Mag mod or, when fully enhanced, Synergy to create power orbs or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4219826183&perks=1482024992,1431678320,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1482024992,1431678320,3891536761,3824105627
+dimwishlist:item=4219826183&perks=1482024992,1431678320,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,1431678320,3038247973,3824105627
+dimwishlist:item=4219826183&perks=1482024992,106909392,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1482024992,106909392,3891536761,3824105627
+dimwishlist:item=4219826183&perks=1482024992,106909392,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,106909392,3038247973,3824105627
+dimwishlist:item=4219826183&perks=1482024992,3230963543,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1482024992,3230963543,3891536761,3824105627
+dimwishlist:item=4219826183&perks=1482024992,3230963543,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1482024992,3230963543,3038247973,3824105627
+dimwishlist:item=4219826183&perks=4090651448,1431678320,3891536761,4104185692
+dimwishlist:item=4219826183&perks=4090651448,1431678320,3891536761,3824105627
+dimwishlist:item=4219826183&perks=4090651448,1431678320,3038247973,4104185692
+dimwishlist:item=4219826183&perks=4090651448,1431678320,3038247973,3824105627
+dimwishlist:item=4219826183&perks=4090651448,106909392,3891536761,4104185692
+dimwishlist:item=4219826183&perks=4090651448,106909392,3891536761,3824105627
+dimwishlist:item=4219826183&perks=4090651448,106909392,3038247973,4104185692
+dimwishlist:item=4219826183&perks=4090651448,106909392,3038247973,3824105627
+dimwishlist:item=4219826183&perks=4090651448,3230963543,3891536761,4104185692
+dimwishlist:item=4219826183&perks=4090651448,3230963543,3891536761,3824105627
+dimwishlist:item=4219826183&perks=4090651448,3230963543,3038247973,4104185692
+dimwishlist:item=4219826183&perks=4090651448,3230963543,3038247973,3824105627
+dimwishlist:item=4219826183&perks=1840239774,1431678320,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1840239774,1431678320,3891536761,3824105627
+dimwishlist:item=4219826183&perks=1840239774,1431678320,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1840239774,1431678320,3038247973,3824105627
+dimwishlist:item=4219826183&perks=1840239774,106909392,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=4219826183&perks=1840239774,106909392,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1840239774,106909392,3038247973,3824105627
+dimwishlist:item=4219826183&perks=1840239774,3230963543,3891536761,4104185692
+dimwishlist:item=4219826183&perks=1840239774,3230963543,3891536761,3824105627
+dimwishlist:item=4219826183&perks=1840239774,3230963543,3038247973,4104185692
+dimwishlist:item=4219826183&perks=1840239774,3230963543,3038247973,3824105627
+
+
+// Vision of Confluence - PvE Minors god 1 AB
+// Fluted Barrel, (Flared Magwell, Tactical Mag), Demolitionist, Desperate Measures
+//notes:Adamsdown_Boy written v8.2.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for use against Minor adds in both general at-level or better, and in end-game underleveled content. Unfortunately, while Vision of Confluence is a solid scout rifle, it's in the subfamily with the lowest damage output and there are other options which offer much the same set of perks. At base, the stats are decent by comparison with its peers - 46 Range and 20 Zoom equates to 74.93m ADS and 37.46m hipfire, 42 Stability is ×1.1495 flinch resist at 100 Resilience, 45 Handling is 0.41s ready, 0.34s ADS and 0.39s stow speed, 47 Reload Speed is a 2.04s reload and Recoil Direction is 75 (but with the Precision frame intrinsic, you can pretty much ignore the RD stat). The barrel perk can be used to improve the Handling, and the magazine perk can be used to help out a little with Reload Speed and Stability. If you don't already have one, the trait perk combination of Demolitionist and Desperate Measures work together well to provide grenade energy to keep the up to ×1.3 damage boost running. The Timelost Magazine origin trait is very strong for PvE - essentially, the Thresh trait perk for free to build your super quickly on kills, and then providing a ×2 magazine size for 20s after your super finishes, refilling the mag from your reserves. Recommended MW: Handling, with a Backup Mag mod or, when fully enhanced, Synergy to create Firesprites or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3444688218&perks=1840239774,3230963543,3523296417,2109543898
+dimwishlist:item=3444688218&perks=1840239774,106909392,3523296417,2109543898
+dimwishlist:item=3444688218&perks=1840239774,1431678320,3523296417,2109543898
+dimwishlist:item=3444688218&perks=4090651448,3230963543,3523296417,2109543898
+dimwishlist:item=3444688218&perks=4090651448,106909392,3523296417,2109543898
+dimwishlist:item=3444688218&perks=4090651448,1431678320,3523296417,2109543898
+dimwishlist:item=3444688218&perks=1482024992,3230963543,3523296417,2109543898
+dimwishlist:item=3444688218&perks=1482024992,106909392,3523296417,2109543898
+dimwishlist:item=3444688218&perks=1482024992,1431678320,3523296417,2109543898
+
+// Vision of Confluence (Timelost) - PvE Minors god 1 AB
+// Fluted Barrel, (Flared Magwell, Tactical Mag), Demolitionist, Desperate Measures
+//notes:Adamsdown_Boy written v8.2.0.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for use against Minor adds in both general at-level or better, and in end-game underleveled content. Unfortunately, while Vision of Confluence is a solid scout rifle, it's in the subfamily with the lowest damage output and there are other options which offer much the same set of perks. At base, the stats are decent by comparison with its peers - 46 Range and 20 Zoom equates to 74.93m ADS and 37.46m hipfire, 42 Stability is ×1.1495 flinch resist at 100 Resilience, 45 Handling is 0.41s ready, 0.34s ADS and 0.39s stow speed, 47 Reload Speed is a 2.04s reload and Recoil Direction is 75 (but with the Precision frame intrinsic, you can pretty much ignore the RD stat). The barrel perk can be used to improve the Handling, and the magazine perk can be used to help out a little with Reload Speed and Stability. If you don't already have one, the trait perk combination of Demolitionist and Desperate Measures work together well to provide grenade energy to keep the up to ×1.3 damage boost running. The Timelost Magazine origin trait is very strong for PvE - essentially, the Thresh trait perk for free to build your super quickly on kills, and then providing a ×2 magazine size for 20s after your super finishes, refilling the mag from your reserves. Recommended MW: Handling, with an Adept Backup Mag mod or, when fully enhanced, Synergy to create Firesprites or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=337578911&perks=1840239774,3230963543,3523296417,2109543898
+dimwishlist:item=337578911&perks=1840239774,106909392,3523296417,2109543898
+dimwishlist:item=337578911&perks=1840239774,1431678320,3523296417,2109543898
+dimwishlist:item=337578911&perks=4090651448,3230963543,3523296417,2109543898
+dimwishlist:item=337578911&perks=4090651448,106909392,3523296417,2109543898
+dimwishlist:item=337578911&perks=4090651448,1431678320,3523296417,2109543898
+dimwishlist:item=337578911&perks=1482024992,3230963543,3523296417,2109543898
+dimwishlist:item=337578911&perks=1482024992,106909392,3523296417,2109543898
+dimwishlist:item=337578911&perks=1482024992,1431678320,3523296417,2109543898
+
+
+// Hezen Vengeance - PvE Bosses god 1 AB
+// Quick Launch, Impact Casing, Overflow, Lasting Impression
+//notes:Adamsdown_Boy written v8.2.0.2 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Bosses in both general at-level or better, and in end-game underleveled content. Hezen Vengeance is in the highest rocket launcher subfamily band for damage, and the highest RPM, which already makes it an excellent choice for DPS, but it also has the highest Inventory stat of any RL currently in game, for great total ammo. At base, the stats are good by comparison with its peers - 79 Velocity equates to 39.27m/s, 55 Stability is ×1.1101 flinch resist at 100 Resilience, 23 Handling is 0.57s ready, 0.48s ADS and 0.47s stow speed, 60 Reload Speed is a 2.95s reload and Recoil Direction is 65. Base magazine size is 1, and with 0/1/2/3 reserves mods total ammo is 8/9/10/11 (max 11). The barrel perk can be used to improve the Handling and Velocity with Quick Launch, and Impact Casing as the magazine perk boosts overall damage by ×1.022. This is the only rocket launcher that can roll Overflow, appearing in the first trait perk column, which is ×2 magazine size for collecting any ammo brick (×2.2 when enhanced, rounded up for 3 in the tube). When you proc the origin trait, this takes this to 5 shots without reloading. For sustained damage, pair that with Lasting Impression in the second, for ×1.194 overall bonus damage if you can wait 3s for a delayed explosion after a hit. The Timelost Magazine origin trait is very strong for PvE - essentially, the Thresh trait perk for free to build your super quickly on kills, and then providing a ×2 magazine size for 20s after your super finishes, refilling the mag from your reserves, making it ideal for boss damage phases. Recommended MW: Handling, with a Quick Access Sling mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3643424744,3927722942
+
+// Hezen Vengeance (Timelost) - PvE Bosses god 1 AB
+// Quick Launch, Impact Casing, Overflow, Lasting Impression
+//notes:Adamsdown_Boy written v8.2.0.2 (PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE pick for sustained damage against Bosses in both general at-level or better, and in end-game underleveled content. Hezen Vengeance is in the highest rocket launcher subfamily band for damage, and the highest RPM, which already makes it an excellent choice for DPS, but it also has the highest Inventory stat of any RL currently in game, for great total ammo. At base, the stats are good by comparison with its peers - 79 Velocity equates to 39.27m/s, 55 Stability is ×1.1101 flinch resist at 100 Resilience, 23 Handling is 0.57s ready, 0.48s ADS and 0.47s stow speed, 60 Reload Speed is a 2.95s reload and Recoil Direction is 65. Base magazine size is 1, and with 0/1/2/3 reserves mods total ammo is 8/9/10/11 (max 11). The barrel perk can be used to improve the Handling and Velocity with Quick Launch, and Impact Casing as the magazine perk boosts overall damage by ×1.022. This is the only rocket launcher that can roll Overflow, appearing in the first trait perk column, which is ×2 magazine size for collecting any ammo brick (×2.2 when enhanced, rounded up for 3 in the tube). When you proc the origin trait, this takes this to 5 shots without reloading. For sustained damage, pair that with Lasting Impression in the second, for ×1.194 overall bonus damage if you can wait 3s for a delayed explosion after a hit. The Timelost Magazine origin trait is very strong for PvE - essentially, the Thresh trait perk for free to build your super quickly on kills, and then providing a ×2 magazine size for 20s after your super finishes, refilling the mag from your reserves, making it ideal for boss damage phases. Recommended MW: Handling, with a Quick Access Sling mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,3927722942
