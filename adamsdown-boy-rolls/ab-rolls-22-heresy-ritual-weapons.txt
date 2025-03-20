@@ -1,0 +1,197 @@
+@title:PvE podcast ep133 Heresy Ritual weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// The Palindrome - PvE Minors god 1 AB
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Recycled Energy), (Desperate Measures)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for sustained damage against bosses in both general at-level or better, and end-game underlevelled content. The Palindrome is back, as an arc rather than void adaptive hand cannon and, even though it's a primarily PvE perk pool, there are still a fre PvE rolls worth looking at. At base, the stats are okay by comparison with its peers - 50 Range and 14 Zoom equates to 30.75m ADS and 20.50m hipfire, 58 Stability is ×1.1641 flinch resist at 100 Resilience, 50 Handling is 0.33s ready, 0.25s ADS and 0.37s stow speed, 42 Reload Speed is a 2.71s reload, Recoil Direction is 98, and base magazine size is 10 (max 14). Use the barrel perk to improve Handling, and then the magazine perk boost Reload Speed. The refreshed loot pool offers a combination of Recycled Energy to recover ability energy in you least charged ability which pairs nicely together with Desperate Measures for an up to ×1.3 multiplier for 7s for weapon and ability kills. Wild Card is the most fun of the origin traits, dropping Telesto-like "experimental submunitions" on kills. If there's a champion mod, then Stunning Recovery is great to trigger health regeneration on a champion. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy for Ionic Traces or when the champion mod's on the seasonal artifact, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=2876244791&perks=1840239774,1431678320,3713215006,2109543898
+dimwishlist:item=2876244791&perks=1840239774,106909392,3713215006,2109543898
+dimwishlist:item=2876244791&perks=1840239774,3230963543,3713215006,2109543898
+dimwishlist:item=2876244791&perks=839105230,1431678320,3713215006,2109543898
+dimwishlist:item=2876244791&perks=839105230,106909392,3713215006,2109543898
+dimwishlist:item=2876244791&perks=839105230,3230963543,3713215006,2109543898
+dimwishlist:item=2876244791&perks=4090651448,1431678320,3713215006,2109543898
+dimwishlist:item=2876244791&perks=4090651448,106909392,3713215006,2109543898
+dimwishlist:item=2876244791&perks=4090651448,3230963543,3713215006,2109543898
+
+// The Palindrome (Adept) - PvE Minors god 1 AB
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Recycled Energy), (Desperate Measures)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for sustained damage against bosses in both general at-level or better, and end-game underlevelled content. The Palindrome is back, as an arc rather than void adaptive hand cannon and, even though it's a primarily PvE perk pool, there are still a fre PvE rolls worth looking at. At base, the stats are okay by comparison with its peers - 50 Range and 14 Zoom equates to 30.75m ADS and 20.50m hipfire, 58 Stability is ×1.1641 flinch resist at 100 Resilience, 50 Handling is 0.33s ready, 0.25s ADS and 0.37s stow speed, 42 Reload Speed is a 2.71s reload, Recoil Direction is 98, and base magazine size is 10 (max 14). Use the barrel perk to improve Handling, and then the magazine perk boost Reload Speed. The refreshed loot pool offers a combination of Recycled Energy to recover ability energy in you least charged ability which pairs nicely together with Desperate Measures for an up to ×1.3 multiplier for 7s for weapon and ability kills. Wild Card is the most fun of the origin traits, dropping Telesto-like "experimental submunitions" on kills. If there's a champion mod, then Stunning Recovery is great to trigger health regeneration on a champion. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy for Ionic Traces or when the champion mod's on the seasonal artifact, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=4077588826&perks=1840239774,1431678320,3713215006,2109543898
+dimwishlist:item=4077588826&perks=1840239774,106909392,3713215006,2109543898
+dimwishlist:item=4077588826&perks=1840239774,3230963543,3713215006,2109543898
+dimwishlist:item=4077588826&perks=839105230,1431678320,3713215006,2109543898
+dimwishlist:item=4077588826&perks=839105230,106909392,3713215006,2109543898
+dimwishlist:item=4077588826&perks=839105230,3230963543,3713215006,2109543898
+dimwishlist:item=4077588826&perks=4090651448,1431678320,3713215006,2109543898
+dimwishlist:item=4077588826&perks=4090651448,106909392,3713215006,2109543898
+dimwishlist:item=4077588826&perks=4090651448,3230963543,3713215006,2109543898
+
+// Joxer's Longsword - PvE Minors god 1 AB
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), Dragonfly, (Destabilizing Rounds, Demoralize)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and end-game underlevelled content, particularly for void builds. Joxer's Longsword is only the second non-endgame Heavy Burst frame pulse rifle - it's a Crucible weapon so if you're focussing with Shaxx reset your reputation as many times as you can to get as many options as possible in the two trait perk columns. At base, the stats are on the low side by comparison with its end-game peers, but in-band when compared to Corrasion - 74 Range and 18 Zoom equate to 38.79m ADS and 21.55m hipfire, 33 Stability is ×1.1292 flinch resist at 100 Resilience, 36 Handling is 0.43s ready, 0.39s ADS and 0.42s stow speed, 33 Reload Speed is a 2.18s reload and Recoil Direction is 59. Base magazine size is 30. Use the barrel perk to improve Handling, and then any of the combat effect magazine perks or something to help with the slow reload speed. It might look a little old-fashioned now, but it you're new to Destiny and haven't already got a pulse rifle with Demolitionist or Pugilist in the first trait perk column and Desperate Measures in the second, they're a natural pairing, boosting damage by up to ×1.3 for 7s by combining weapon and ability kills, while regaining either grenade or melee energy on weapon kills. Of the three origin traits, One Quiet Moment is probably the most useful for PvE, boosting Handling by +20 and Reload Speed by +40 with a ×0.95 animation duration after 5s of not dealing or receiving damage, or and 1.5s after you get a kill but if you're trying to hit crits, Nadir Focus boosts range by up to +10 and up to ×1.075 increased accuracy cone size as you fire. If you're interested, Joxer is a character from the "Xena: Warrior Princess" TV series. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=157601190&perks=839105230,1561002382,3523296417,2109543898
+dimwishlist:item=157601190&perks=839105230,1561002382,691659142,2109543898
+dimwishlist:item=157601190&perks=839105230,1968497646,3523296417,2109543898
+dimwishlist:item=157601190&perks=839105230,1968497646,691659142,2109543898
+dimwishlist:item=157601190&perks=839105230,1885400500,3523296417,2109543898
+dimwishlist:item=157601190&perks=839105230,1885400500,691659142,2109543898
+dimwishlist:item=157601190&perks=839105230,1431678320,3523296417,2109543898
+dimwishlist:item=157601190&perks=839105230,1431678320,691659142,2109543898
+dimwishlist:item=157601190&perks=839105230,3230963543,3523296417,2109543898
+dimwishlist:item=157601190&perks=839105230,3230963543,691659142,2109543898
+dimwishlist:item=157601190&perks=839105230,679225683,3523296417,2109543898
+dimwishlist:item=157601190&perks=839105230,679225683,691659142,2109543898
+dimwishlist:item=157601190&perks=1840239774,1561002382,3523296417,2109543898
+dimwishlist:item=157601190&perks=1840239774,1561002382,691659142,2109543898
+dimwishlist:item=157601190&perks=1840239774,1968497646,3523296417,2109543898
+dimwishlist:item=157601190&perks=1840239774,1968497646,691659142,2109543898
+dimwishlist:item=157601190&perks=1840239774,1885400500,3523296417,2109543898
+dimwishlist:item=157601190&perks=1840239774,1885400500,691659142,2109543898
+dimwishlist:item=157601190&perks=1840239774,1431678320,3523296417,2109543898
+dimwishlist:item=157601190&perks=1840239774,1431678320,691659142,2109543898
+dimwishlist:item=157601190&perks=1840239774,3230963543,3523296417,2109543898
+dimwishlist:item=157601190&perks=1840239774,3230963543,691659142,2109543898
+dimwishlist:item=157601190&perks=1840239774,679225683,3523296417,2109543898
+dimwishlist:item=157601190&perks=1840239774,679225683,691659142,2109543898
+
+// Joxer's Longsword - PvE Minors god 2 AB
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), Dragonfly, (Destabilizing Rounds, Demoralize)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and end-game underlevelled content, particularly for void builds. Joxer's Longsword is only the second non-endgame Heavy Burst frame pulse rifle - it's a Crucible weapon so if you're focussing with Shaxx reset your reputation as many times as you can to get as many options as possible in the two trait perk columns. At base, the stats are on the low side by comparison with its end-game peers, but in-band when compared to Corrasion - 74 Range and 18 Zoom equate to 38.79m ADS and 21.55m hipfire, 33 Stability is ×1.1292 flinch resist at 100 Resilience, 36 Handling is 0.43s ready, 0.39s ADS and 0.42s stow speed, 33 Reload Speed is a 2.18s reload and Recoil Direction is 59. Base magazine size is 30. Use the barrel perk to improve Handling, and then any of the combat effect magazine perks or something to help with the slow reload speed. It might look a little old-fashioned now, but it you're new to Destiny and haven't already got a pulse rifle with Demolitionist in the first trait perk column and Adrenaline Junkie in the second, they're a natural pairing, boosting damage by up to ×1.33 for 4.5s after a grenade kill, while regaining grenade energy on weapon kills. Of the three origin traits, One Quiet Moment is probably the most useful for PvE, boosting Handling by +20 and Reload Speed by +40 with a ×0.95 animation duration after 5s of not dealing or receiving damage, or and 1.5s after you get a kill but if you're trying to hit crits, Nadir Focus boosts range by up to +10 and up to ×1.075 increased accuracy cone size as you fire. If you're interested, Joxer is a character from the "Xena: Warrior Princess" TV series. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=157601190&perks=839105230,1561002382,3523296417,11612903
+dimwishlist:item=157601190&perks=839105230,1968497646,3523296417,11612903
+dimwishlist:item=157601190&perks=839105230,1885400500,3523296417,11612903
+dimwishlist:item=157601190&perks=839105230,1431678320,3523296417,11612903
+dimwishlist:item=157601190&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=157601190&perks=839105230,679225683,3523296417,11612903
+dimwishlist:item=157601190&perks=1840239774,1561002382,3523296417,11612903
+dimwishlist:item=157601190&perks=1840239774,1968497646,3523296417,11612903
+dimwishlist:item=157601190&perks=1840239774,1885400500,3523296417,11612903
+dimwishlist:item=157601190&perks=1840239774,1431678320,3523296417,11612903
+dimwishlist:item=157601190&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=157601190&perks=1840239774,679225683,3523296417,11612903
+
+// Joxer's Longsword - PvE Minors god 3 AB
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), Pugilist, Swashbuckler
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and end-game underlevelled content, particularly for void builds. Joxer's Longsword is only the second non-endgame Heavy Burst frame pulse rifle - it's a Crucible weapon so if you're focussing with Shaxx reset your reputation as many times as you can to get as many options as possible in the two trait perk columns. At base, the stats are on the low side by comparison with its end-game peers, but in-band when compared to Corrasion - 74 Range and 18 Zoom equate to 38.79m ADS and 21.55m hipfire, 33 Stability is ×1.1292 flinch resist at 100 Resilience, 36 Handling is 0.43s ready, 0.39s ADS and 0.42s stow speed, 33 Reload Speed is a 2.18s reload and Recoil Direction is 59. Base magazine size is 30. Use the barrel perk to improve Handling, and then any of the combat effect magazine perks or something to help with the slow reload speed. It might look a little old-fashioned now, but it you're new to Destiny and haven't already got a pulse rifle with Pugilist in the first trait perk column and Swashbuckler in the second, they're a natural pairing, boosting damage by up to ×1.33 for 4.5s after a melee kill, while regaining melee energy on weapon kills. Of the three origin traits, One Quiet Moment is probably the most useful for PvE, boosting Handling by +20 and Reload Speed by +40 with a ×0.95 animation duration after 5s of not dealing or receiving damage, or and 1.5s after you get a kill but if you're trying to hit crits, Nadir Focus boosts range by up to +10 and up to ×1.075 increased accuracy cone size as you fire. If you're interested, Joxer is a character from the "Xena: Warrior Princess" TV series. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=157601190&perks=839105230,1561002382,691659142,4082225868
+dimwishlist:item=157601190&perks=839105230,1968497646,691659142,4082225868
+dimwishlist:item=157601190&perks=839105230,1885400500,691659142,4082225868
+dimwishlist:item=157601190&perks=839105230,1431678320,691659142,4082225868
+dimwishlist:item=157601190&perks=839105230,3230963543,691659142,4082225868
+dimwishlist:item=157601190&perks=839105230,679225683,691659142,4082225868
+dimwishlist:item=157601190&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=157601190&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=157601190&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=157601190&perks=1840239774,1431678320,691659142,4082225868
+dimwishlist:item=157601190&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=157601190&perks=1840239774,679225683,691659142,4082225868
+
+// Backfang - PvE Majors good 1 AB
+// (Supercooled Accelerator, Auxiliary Reserves), (Light Mag, Accurized Rounds, Drop Mag), (Replenishing Aegis, Field Prep, Lead from Gold, Impulse Amplifier, Grave Robber), (Unstoppable Force)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-Boss PvE-MajorSpec M+KB Controller): Backup PvE pick for dealing with Majors in both general at-level or better, and end-game underlevelled content. Backfang is the first Rapid-Fire glaive that you can use in the kinetic slot, for any glaive aficionados but, if you're after a roll. remember to reset your Gambit reputation as many times as you're able, to maximise your chances from the 12×12 trait perk options. At base, the stats are okay by comparison with its peers - 43 Range and equates to 17.35 ADS and a velocity of 100.36m/s, Shield Duration of 27 is 9.62s when fully charged, 71 Handling is 0.27s ready and 0.31s stow speed, 70 Reload Speed is a 2.27s reload (1.82s when reloading form an empty mag with the frame intrinsic), and base magazine size is 6 (max 8). With 0/1/2/3 reserves mods, total ammo is 36/40/44/44 (max 44). The one stat that's noticably poor is Range, so use the barrel perk to improve that, or you can extend Shield Duration if you playstyle involves blocking damage. For the magazine perk, again look to boost Range and/or Reload Speed. There are a fair few potential first trait perk column options for PvE - if you're using the glaive shield regularly, the combination of Replenishing Aegis to refill your mag when blocking damage, or Immovable Object for increased energy when you're stationery and blocking, together with Unstoppable Force for a ×1.2 boost to bolt damage while shielding is a natural pairing. Alternatively, in the first trait perk column, Field Prep boosts ammo reserves as well as Reload Speed and ready/stow speed when crouched, Lead From Gold is great for overall ammo economy, or Impulse Amplifier passively boosts Velocity and Reload Speed. Gun and Run is a decent origin trait for a melee playstyle, granting a ×1.0625 sprint speed boost for 10s for killing a Major or better or three Minors within 10s. Recommended MW: Range with a Backup Mag mod or, when fully enhanced, Synergy for Strand Tangles or when the champion mod's on the seasonal artifact, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-MajorSpec M+KB Controller
+dimwishlist:item=267672635&perks=1934171651,679225683,1966281507,2224838837
+dimwishlist:item=267672635&perks=1934171651,679225683,3800201097,2224838837
+dimwishlist:item=267672635&perks=1934171651,679225683,2869569095,2224838837
+dimwishlist:item=267672635&perks=1934171651,679225683,1556840489,2224838837
+dimwishlist:item=267672635&perks=1934171651,679225683,951095735,2224838837
+dimwishlist:item=267672635&perks=1934171651,3142289711,1966281507,2224838837
+dimwishlist:item=267672635&perks=1934171651,3142289711,3800201097,2224838837
+dimwishlist:item=267672635&perks=1934171651,3142289711,2869569095,2224838837
+dimwishlist:item=267672635&perks=1934171651,3142289711,1556840489,2224838837
+dimwishlist:item=267672635&perks=1934171651,3142289711,951095735,2224838837
+dimwishlist:item=267672635&perks=1934171651,1431678320,1966281507,2224838837
+dimwishlist:item=267672635&perks=1934171651,1431678320,3800201097,2224838837
+dimwishlist:item=267672635&perks=1934171651,1431678320,2869569095,2224838837
+dimwishlist:item=267672635&perks=1934171651,1431678320,1556840489,2224838837
+dimwishlist:item=267672635&perks=1934171651,1431678320,951095735,2224838837
+dimwishlist:item=267672635&perks=580685494,679225683,1966281507,2224838837
+dimwishlist:item=267672635&perks=580685494,679225683,3800201097,2224838837
+dimwishlist:item=267672635&perks=580685494,679225683,2869569095,2224838837
+dimwishlist:item=267672635&perks=580685494,679225683,1556840489,2224838837
+dimwishlist:item=267672635&perks=580685494,679225683,951095735,2224838837
+dimwishlist:item=267672635&perks=580685494,3142289711,1966281507,2224838837
+dimwishlist:item=267672635&perks=580685494,3142289711,3800201097,2224838837
+dimwishlist:item=267672635&perks=580685494,3142289711,2869569095,2224838837
+dimwishlist:item=267672635&perks=580685494,3142289711,1556840489,2224838837
+dimwishlist:item=267672635&perks=580685494,3142289711,951095735,2224838837
+dimwishlist:item=267672635&perks=580685494,1431678320,1966281507,2224838837
+dimwishlist:item=267672635&perks=580685494,1431678320,3800201097,2224838837
+dimwishlist:item=267672635&perks=580685494,1431678320,2869569095,2224838837
+dimwishlist:item=267672635&perks=580685494,1431678320,1556840489,2224838837
+dimwishlist:item=267672635&perks=580685494,1431678320,951095735,2224838837
+
+// Warlord's Spear - PvE Minors god 1 AB
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake), (Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Envious Assassin), Killing Tally
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and end-game underlevelled content. There are a few legendary adaptive frame trace rifles available now, and Warlord's Spear is not a bad arc variant. At base, the stats are good by comparison with its peers - 67 Range and 16 Zoom equate to 34.51m ADS and 21.57m hipfire, 76 Stability is ×1.2575 flinch resist at 100 Resilience, 55 Handling is 0.37s ready, 0.29s ADS and 0.34s stow speed, 33 Reload Speed is a 2.01s reload and Recoil Direction is 93. Base magazine size is 97 (Max 104) and, with 0/1//3 reserves mods, total ammo is 525/575/626/641 (max 687). Use the barrel perk to improve Handling (M+KB) or Stability (Controller), and then either a battery perk to boost Reload Speed or something to help with Stability. The first trait perk column standout Rewind Rounds is a decent alternative to extend your magazine and reduce the need to reload, although Envious Assassin can overfill your battery with kills from other weapons. In the second column, Killing Tally increases damage up to ×1.3 after three kills, until you reload or stow. The reworked Skulking Wolf origin trait can be useful in PvE, making enemies less accurate when firing at you for 10s after getting a kill while at low health. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=1968711238&perks=1840239774,2749775325,3418782618,557221067
+dimwishlist:item=1968711238&perks=1840239774,2749775325,968510818,557221067
+dimwishlist:item=1968711238&perks=1840239774,732557052,3418782618,557221067
+dimwishlist:item=1968711238&perks=1840239774,732557052,968510818,557221067
+dimwishlist:item=1968711238&perks=1840239774,3868766766,3418782618,557221067
+dimwishlist:item=1968711238&perks=1840239774,3868766766,968510818,557221067
+dimwishlist:item=1968711238&perks=1392496348,2749775325,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,2749775325,968510818,557221067
+dimwishlist:item=1968711238&perks=1392496348,732557052,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,732557052,968510818,557221067
+dimwishlist:item=1968711238&perks=1392496348,3868766766,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,3868766766,968510818,557221067
+dimwishlist:item=1968711238&perks=839105230,2749775325,3418782618,557221067
+dimwishlist:item=1968711238&perks=839105230,2749775325,968510818,557221067
+dimwishlist:item=1968711238&perks=839105230,732557052,3418782618,557221067
+dimwishlist:item=1968711238&perks=839105230,732557052,968510818,557221067
+dimwishlist:item=1968711238&perks=839105230,3868766766,3418782618,557221067
+dimwishlist:item=1968711238&perks=839105230,3868766766,968510818,557221067
+
+// Warlord's Spear - PvE Minors god 2 AB
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake), (Light Battery, Tactical Battery, Particle Repeater), High-Impact Reserves, (Killing Tally, Target Lock)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and end-game underlevelled content. There are a few legendary adaptive frame trace rifles available now, and Warlord's Spear is not a bad arc variant. At base, the stats are good by comparison with its peers - 67 Range and 16 Zoom equate to 34.51m ADS and 21.57m hipfire, 76 Stability is ×1.2575 flinch resist at 100 Resilience, 55 Handling is 0.37s ready, 0.29s ADS and 0.34s stow speed, 33 Reload Speed is a 2.01s reload and Recoil Direction is 93. Base magazine size is 97 (Max 104) and, with 0/1//3 reserves mods, total ammo is 525/575/626/641 (max 687). Use the barrel perk to improve Handling (M+KB) or Stability (Controller), and then either a battery perk to boost Reload Speed or something to help with Stability. You have access to double damage perks in the two trait perk columns with High-Impact Reserves in the first providing between ×1.121 and ×1.256 damage between halfway and an empty battery. In the second, you have Target Lock, which ramps up damage as you fire for an overall additional damage boost of ×1.25, or Killing Tally for a ×1.3 damage boost after three enemy kills until you reload or stow. The reworked Skulking Wolf origin trait can be useful in PvE, making enemies less accurate when firing at you for 10s after getting a kill while at low health. Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=1968711238&perks=1840239774,2749775325,2213355989,365154968
+dimwishlist:item=1968711238&perks=1840239774,2749775325,2213355989,557221067
+dimwishlist:item=1968711238&perks=1840239774,732557052,2213355989,365154968
+dimwishlist:item=1968711238&perks=1840239774,732557052,2213355989,557221067
+dimwishlist:item=1968711238&perks=1840239774,3868766766,2213355989,365154968
+dimwishlist:item=1968711238&perks=1840239774,3868766766,2213355989,557221067
+dimwishlist:item=1968711238&perks=1392496348,2749775325,2213355989,365154968
+dimwishlist:item=1968711238&perks=1392496348,2749775325,2213355989,557221067
+dimwishlist:item=1968711238&perks=1392496348,732557052,2213355989,365154968
+dimwishlist:item=1968711238&perks=1392496348,732557052,2213355989,557221067
+dimwishlist:item=1968711238&perks=1392496348,3868766766,2213355989,365154968
+dimwishlist:item=1968711238&perks=1392496348,3868766766,2213355989,557221067
+dimwishlist:item=1968711238&perks=839105230,2749775325,2213355989,365154968
+dimwishlist:item=1968711238&perks=839105230,2749775325,2213355989,557221067
+dimwishlist:item=1968711238&perks=839105230,732557052,2213355989,365154968
+dimwishlist:item=1968711238&perks=839105230,732557052,2213355989,557221067
+dimwishlist:item=1968711238&perks=839105230,3868766766,2213355989,365154968
+dimwishlist:item=1968711238&perks=839105230,3868766766,2213355989,557221067
+
+// Cynosure - PvE Bosses god 1 AB
+// (Quick Launch, Hard Launch, Smart Drift Control), (Impact Casing, Alloy casing, High-Velocity Rounds), (Overflow, Reconstruction, Field Prep), (Explosive Light)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE pick for sustained Boss damage in both general at-level or better, and end-game underlevelled content. It's been a few seasons since the last new adaptive frame rocket launcher, but Cynosure brings that wait to an end. If you're after a roll, remember to reset your Vanguard reputation as many times as you're able, to maximise your chances from the 12×12 trait perk options. At base, the stats are okay by comparison with its peers - 54 Velocity equates to 36.02m/s, 44 Stability is ×1.1270 flinch resist at 100 Resilience, 41 Handling is 0.50s ready, 0.44s ADS and 0.41s stow speed, and 39 Reload Speed is a 3.27s reload. With 0/1/2/3 reserves mods, total ammo is 8/9/10/11 (max 11). You can boost Handling and/or Velocity with the barrel and magazine perks, or use Impact Casing to boost overall damage by ×1.022. I you don't have a rocket launcher roll for boss damage then in the first trait perk column, Overflow or Reconstruction both overflow the magazine to front-load a damage phase, or Field Prep provides the equivalent of a reserve mod (2 when enhanced) and boosts Reload Speed and ready/stow speed. In the second column, Lasting Impression provides a setup-free ×1.194 damage boost for every shot, if you can wait 3s for a seperate explosion (so stop shooting 3s before the damage phase ends). If you're interested, "Cynosure" could be something or someone at the centre of attention, someone who directs or guides, or the Ursa Major constellation - take your pick! Suros Synergy is the more useful origin trait, providing +40 Handling and ×1.2 flinch resistance for 6s after a reload. Recommended MW: Velocity or Handling with a Quick Access Sling mod or, when the champion mod's on the seasonal artifact, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=694275488&perks=3525010810,3796465595,3643424744,3927722942
+dimwishlist:item=694275488&perks=3525010810,3796465595,1523832109,3927722942
+dimwishlist:item=694275488&perks=3525010810,3796465595,2869569095,3927722942
+dimwishlist:item=694275488&perks=3525010810,2985827016,3643424744,3927722942
+dimwishlist:item=694275488&perks=3525010810,2985827016,1523832109,3927722942
+dimwishlist:item=694275488&perks=3525010810,2985827016,2869569095,3927722942
+dimwishlist:item=694275488&perks=3525010810,2822142346,3643424744,3927722942
+dimwishlist:item=694275488&perks=3525010810,2822142346,1523832109,3927722942
+dimwishlist:item=694275488&perks=3525010810,2822142346,2869569095,3927722942
+dimwishlist:item=694275488&perks=981914802,3796465595,3643424744,3927722942
+dimwishlist:item=694275488&perks=981914802,3796465595,1523832109,3927722942
+dimwishlist:item=694275488&perks=981914802,3796465595,2869569095,3927722942
+dimwishlist:item=694275488&perks=981914802,2985827016,3643424744,3927722942
+dimwishlist:item=694275488&perks=981914802,2985827016,1523832109,3927722942
+dimwishlist:item=694275488&perks=981914802,2985827016,2869569095,3927722942
+dimwishlist:item=694275488&perks=981914802,2822142346,3643424744,3927722942
+dimwishlist:item=694275488&perks=981914802,2822142346,1523832109,3927722942
+dimwishlist:item=694275488&perks=981914802,2822142346,2869569095,3927722942
+dimwishlist:item=694275488&perks=1441682018,3796465595,3643424744,3927722942
+dimwishlist:item=694275488&perks=1441682018,3796465595,1523832109,3927722942
+dimwishlist:item=694275488&perks=1441682018,3796465595,2869569095,3927722942
+dimwishlist:item=694275488&perks=1441682018,2985827016,3643424744,3927722942
+dimwishlist:item=694275488&perks=1441682018,2985827016,1523832109,3927722942
+dimwishlist:item=694275488&perks=1441682018,2985827016,2869569095,3927722942
+dimwishlist:item=694275488&perks=1441682018,2822142346,3643424744,3927722942
+dimwishlist:item=694275488&perks=1441682018,2822142346,1523832109,3927722942
+dimwishlist:item=694275488&perks=1441682018,2822142346,2869569095,3927722942
