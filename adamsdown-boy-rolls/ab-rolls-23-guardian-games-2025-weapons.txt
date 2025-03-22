@@ -1,0 +1,56 @@
+@title:PvE podcast ep134 Episode: Heresy Guardian Games 2025 weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// The Title - PvE Minors god 1 AB
+// (Corkscrew Rifling, Smallbore, Fluted Barrel, Polygonal Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), (Grave Robber, Recycled Energy), (Swashbuckler)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE pick for use against Minor add groups in both general at-level or better, and end-game underlevelled content, particularly for melee builds. The Title returns for 2025 having lost Attrition Orbs as a trait perk but gaining a few other tricks. At base, the stats are decent by comparison with its peers - 40 Range and 15 Zoom equate to 18.06m ADS and 12.90m hipfire, 20 Stability is ×1.1000 flinch resist at 100 Resilience, 48 Handling is 0.36s ready, 0.27s ADS and 0.33s stow speed, 23 Reload Speed is a 2.22s reload, Recoil Direction is 85, and base magazine size is 32 (max 39). Aggressives could to with a bit more Stability (Controller) or Handling (M+KB), or both from your barrel perk, and then any of the combat effect magazine perks work well on a bullet hose, or look to improve Reload Speed. For melee builds, Grave Robber provides an instant magazine refill on a melee kill, or Recycled Energy grants energy to your lowest charged ability on weapon kills, both of which can work well with Swashbuckler in the second column for a damage boost of up to ×1.33 for 6.5s (8.5s when enhanced). Classy Contender is an unspectacular origin trait, generating roughly 5% class ability energy on kills, or situationally, Hakke Breach Armaments boosts damage against vehicles (×1.15), constructs (×1.3) and Stasis crystals (1.45). Recommended MW: Handling with a Backup Mag mod or, when fully enhanced, Synergy to create Void Breaches or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=55393445&perks=4090651448,1561002382,1631667848,4082225868
+dimwishlist:item=55393445&perks=4090651448,1561002382,3713215006,4082225868
+dimwishlist:item=55393445&perks=4090651448,1968497646,1631667848,4082225868
+dimwishlist:item=55393445&perks=4090651448,1968497646,3713215006,4082225868
+dimwishlist:item=55393445&perks=4090651448,1885400500,1631667848,4082225868
+dimwishlist:item=55393445&perks=4090651448,1885400500,3713215006,4082225868
+dimwishlist:item=55393445&perks=4090651448,1431678320,1631667848,4082225868
+dimwishlist:item=55393445&perks=4090651448,1431678320,3713215006,4082225868
+dimwishlist:item=55393445&perks=4090651448,3230963543,1631667848,4082225868
+dimwishlist:item=55393445&perks=4090651448,3230963543,3713215006,4082225868
+dimwishlist:item=55393445&perks=1482024992,1561002382,1631667848,4082225868
+dimwishlist:item=55393445&perks=1482024992,1561002382,3713215006,4082225868
+dimwishlist:item=55393445&perks=1482024992,1968497646,1631667848,4082225868
+dimwishlist:item=55393445&perks=1482024992,1968497646,3713215006,4082225868
+dimwishlist:item=55393445&perks=1482024992,1885400500,1631667848,4082225868
+dimwishlist:item=55393445&perks=1482024992,1885400500,3713215006,4082225868
+dimwishlist:item=55393445&perks=1482024992,1431678320,1631667848,4082225868
+dimwishlist:item=55393445&perks=1482024992,1431678320,3713215006,4082225868
+dimwishlist:item=55393445&perks=1482024992,3230963543,1631667848,4082225868
+dimwishlist:item=55393445&perks=1482024992,3230963543,3713215006,4082225868
+dimwishlist:item=55393445&perks=1840239774,1561002382,1631667848,4082225868
+dimwishlist:item=55393445&perks=1840239774,1561002382,3713215006,4082225868
+dimwishlist:item=55393445&perks=1840239774,1968497646,1631667848,4082225868
+dimwishlist:item=55393445&perks=1840239774,1968497646,3713215006,4082225868
+dimwishlist:item=55393445&perks=1840239774,1885400500,1631667848,4082225868
+dimwishlist:item=55393445&perks=1840239774,1885400500,3713215006,4082225868
+dimwishlist:item=55393445&perks=1840239774,1431678320,1631667848,4082225868
+dimwishlist:item=55393445&perks=1840239774,1431678320,3713215006,4082225868
+dimwishlist:item=55393445&perks=1840239774,3230963543,1631667848,4082225868
+dimwishlist:item=55393445&perks=1840239774,3230963543,3713215006,4082225868
+dimwishlist:item=55393445&perks=1392496348,1561002382,1631667848,4082225868
+dimwishlist:item=55393445&perks=1392496348,1561002382,3713215006,4082225868
+dimwishlist:item=55393445&perks=1392496348,1968497646,1631667848,4082225868
+dimwishlist:item=55393445&perks=1392496348,1968497646,3713215006,4082225868
+dimwishlist:item=55393445&perks=1392496348,1885400500,1631667848,4082225868
+dimwishlist:item=55393445&perks=1392496348,1885400500,3713215006,4082225868
+dimwishlist:item=55393445&perks=1392496348,1431678320,1631667848,4082225868
+dimwishlist:item=55393445&perks=1392496348,1431678320,3713215006,4082225868
+dimwishlist:item=55393445&perks=1392496348,3230963543,1631667848,4082225868
+dimwishlist:item=55393445&perks=1392496348,3230963543,3713215006,4082225868
+
+
+// Hullabaloo - PvE Majors god 1 AB
+// (Volatile Launch, Confined Launch, Linear Compensator, Quick Launch), (High-Velocity Rounds), (Demolitionist), (Golden Tricorn)
+//notes:Adamsdown_Boy written v8.5.2.1 (PvE PvE-Boss PvE-MajorSpec PvE-God M+KB Controller): First-choice PvE pick for burst damage against Elites, Champions and Minibosses. Hullabaloo is only one of two Compressed Wave Frame grenade launchers in game atm. At base, the stats are lowerby comparison with its only peer - 28 Velocity equates to 40.35m/s (although you're firing at your feet so isn't that important), 38 Stability is ×1.1242 flinch resist at 100 Resilience, 41 Handling is 0.44s ready, 0.42s ADS and 0.39s stow speed, 39 Reload Speed is a 3.27s reload, Recoil Direction is 80 (but that doesn't matter), and base magazine size is 5 (max 7). With 0/1/2/3 reserves mods, total ammo is 25/27/28/29 (max 31). Use the barrel perk to bump up the Blast Radius, to widen the wave or, if you're swapping a lot look to boost Handling. For a burst damage weapon, the trait perk combination of Demolitionist and Golden Tricorn to trigger the first stack of ×1.5 damage for 7s, proc the second stack of ×1.5 for 10s with a grenade, which also refills the magazine, and then regenerate grenade ability energy from kills, works well. Classy Contender is an unspectacular origin trait, generating roughly 5% class ability energy on kills. Recommended MW: Blast Radius or Handling with a Backup Mag mod. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God M+KB Controller
+dimwishlist:item=2666273249&perks=1478423395,2822142346,3523296417,2610012052
+dimwishlist:item=2666273249&perks=1844523823,2822142346,3523296417,2610012052
+dimwishlist:item=2666273249&perks=1441682018,2822142346,3523296417,2610012052
+dimwishlist:item=2666273249&perks=3525010810,2822142346,3523296417,2610012052
+
