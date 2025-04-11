@@ -1,0 +1,40 @@
+@title:PvE podcast ep136 Episode: Heresy world weapons additional rolls
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Cruoris FR4 - PvE Minors good 1 AB
+// (Arrowhead Brake, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal) Rifling, (Enhanced Battery, Accelerated Coils), (Threat Detector), (One for All, Eddy Current)
+//notes:Adamsdown_Boy written v8.5.2.3 (PvE PvE-MinorSpec PvE PvE-EndGame M+KB Controller): Backup PvE pick for clearing tougher adds in both general at-level or better, and end-game underleveled content. Cruoris FR4 is a rare Aggressive Frame fusion rifle that shoots three horizontal bursts of four bolts in a widening spread - think of how the Bastion exotic works. At base, by comparison with its peers, the stats are decent - standard 667ms charge time, 37 Range equates to 21.09m ADS and 16.22m hipfire before damage dropoff, 36 Stability is ×1.11.80 flinch resist at 100 Resilience, 34 Handling is 0.45s ready, 0.35s ADS and 0.35s stow speed, 31 Reload Speed is a 2.27s reload, Recoil Direction is 55, Zoom is 15, and magazine size is 6 (max 8). With 0/1/2/3 reserves mods, total ammo is 17/20/23/24 (max 25). Handling is the stat that needs the most TLC, so that's the top choice for the barrel perks. As the battery perk, boost the battery size or use Accelerated Coils to reduce charge time. You'll probably be engaging targets within 15m, so Threat Detector should be permanently procced for significant gunfeel boosts. Pair that together with One For All a ×1.3 damage boost for 10s hitting three enemies, or Rolling Storm to generate stacks of Bolt Charge for target and AoE damage, and you can cook anything within 15m or so. If you're interested, Cruoris is the genitive singular form of the Latin word for blood or blood clot, "cruor". The Omolon Fluid Dynamics is a useful origin trait, boosting stability and reload speed in the top half of a battery. Recommended MW: Reload Speed or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame M+KB Controller
+dimwishlist:item=891996636&perks=839105230,2680121939,4071163871,4049631843
+dimwishlist:item=891996636&perks=839105230,2680121939,4071163871,3218042543
+dimwishlist:item=891996636&perks=839105230,689005463,4071163871,4049631843
+dimwishlist:item=891996636&perks=839105230,689005463,4071163871,3218042543
+dimwishlist:item=891996636&perks=1840239774,2680121939,4071163871,4049631843
+dimwishlist:item=891996636&perks=1840239774,2680121939,4071163871,3218042543
+dimwishlist:item=891996636&perks=1840239774,689005463,4071163871,4049631843
+dimwishlist:item=891996636&perks=1840239774,689005463,4071163871,3218042543
+dimwishlist:item=891996636&perks=1482024992,2680121939,4071163871,4049631843
+dimwishlist:item=891996636&perks=1482024992,2680121939,4071163871,3218042543
+dimwishlist:item=891996636&perks=1482024992,689005463,4071163871,4049631843
+dimwishlist:item=891996636&perks=1482024992,689005463,4071163871,3218042543
+dimwishlist:item=891996636&perks=4090651448,2680121939,4071163871,4049631843
+dimwishlist:item=891996636&perks=4090651448,2680121939,4071163871,3218042543
+dimwishlist:item=891996636&perks=4090651448,689005463,4071163871,4049631843
+dimwishlist:item=891996636&perks=4090651448,689005463,4071163871,3218042543
+dimwishlist:item=891996636&perks=1392496348,2680121939,4071163871,4049631843
+dimwishlist:item=891996636&perks=1392496348,2680121939,4071163871,3218042543
+dimwishlist:item=891996636&perks=1392496348,689005463,4071163871,4049631843
+dimwishlist:item=891996636&perks=1392496348,689005463,4071163871,3218042543
+
+// Cruoris FR4 - PvE Majors god 1 AB
+// (Arrowhead Brake, Fluted Barrel, Smallbore, Corkscrew Rifling, Polygonal) Rifling, (Enhanced Battery, Accelerated Coils), (Threat Detector), (Elemental Honing)
+//notes:Adamsdown_Boy written v8.5.2.3 PvE PvE-Boss PvE-MajorSpec PvE-EndGame M+KB Controller): Backup PvE pick for clearing tougher adds and burst damage against Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content, particularly with prismatic builds. Cruoris FR4 is a rare Aggressive Frame fusion rifle that shoots three horizontal bursts of four bolts in a widening spread - think of how the Bastion exotic works. At base, by comparison with its peers, the stats are decent - standard 667ms charge time, 37 Range equates to 21.09m ADS and 16.22m hipfire before damage dropoff, 36 Stability is ×1.11.80 flinch resist at 100 Resilience, 34 Handling is 0.45s ready, 0.35s ADS and 0.35s stow speed, 31 Reload Speed is a 2.27s reload, Recoil Direction is 55, Zoom is 15, and magazine size is 6 (max 8). With 0/1/2/3 reserves mods, total ammo is 17/20/23/24 (max 25). Handling is the stat that needs the most TLC, so that's the top choice for the barrel perks. As the battery perk, boost the battery size or use Accelerated Coils to reduce charge time. For prismatic builds, Elemental Honing in the second trait perk column can provide a ×1.35 damage boost for 20s for cycling through all 5 elemental damage types with your abilities and other weapons. You'll probably be engaging targets within 15m, so Threat Detector should be permanently procced for significant gunfeel and reload speed boosts. If you're interested, Cruoris is the genitive singular form of the Latin word for blood or blood clot, "cruor". The Omolon Fluid Dynamics is a useful origin trait, boosting stability and reload speed in the top half of a battery. Recommended MW: Reload Speed or Handling, with a Backup Mag mod or, when masterworked, Synergy to create Ionic Traces or, when the artifact mod's around, Stunloader. Also, don't forget to check whether there's a useful Seasonal Fragile mod for the activity you're running.|tags:PvE PvE-MinorSpec PvE-EndGame M+KB Controller
+dimwishlist:item=891996636&perks=839105230,2680121939,4071163871,1089671869
+dimwishlist:item=891996636&perks=839105230,689005463,4071163871,1089671869
+dimwishlist:item=891996636&perks=1840239774,2680121939,4071163871,1089671869
+dimwishlist:item=891996636&perks=1840239774,689005463,4071163871,1089671869
+dimwishlist:item=891996636&perks=1482024992,2680121939,4071163871,1089671869
+dimwishlist:item=891996636&perks=1482024992,689005463,4071163871,1089671869
+dimwishlist:item=891996636&perks=4090651448,2680121939,4071163871,1089671869
+dimwishlist:item=891996636&perks=4090651448,689005463,4071163871,1089671869
+dimwishlist:item=891996636&perks=1392496348,2680121939,4071163871,1089671869
+dimwishlist:item=891996636&perks=1392496348,689005463,4071163871,1089671869
