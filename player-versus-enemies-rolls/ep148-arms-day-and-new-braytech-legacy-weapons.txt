@@ -1,0 +1,637 @@
+title:PvE Podcast 148 Arms Week and new Bray Legacy weapons
+description:Season 27 Edge of Fate Arms Day weapons with Tenacity Origin Trait and new weapons with Bray Legacy Origin Trait
+
+// Phoneutria Fera - PvE Minors god 1
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for melee builds and clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, One-Two Punch boosts melee damage by +75% for 3s (melee damage buffs are additive rather than multiplicative) on hitting all 12 pellets (10 when enhanced) - that's less than a shotgun, but the unlimited ammo for primary weapons makes the tradeoff worthwhile. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3496887154&perks=1840239774,106909392,1126264488,2679249093
+dimwishlist:item=3496887154&perks=1840239774,106909392,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1840239774,106909392,4190679284,2679249093
+dimwishlist:item=3496887154&perks=1840239774,3230963543,1126264488,2679249093
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4190679284,2679249093
+dimwishlist:item=3496887154&perks=1840239774,1431678320,1126264488,2679249093
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4190679284,2679249093
+dimwishlist:item=3496887154&perks=1392496348,106909392,1126264488,2679249093
+dimwishlist:item=3496887154&perks=1392496348,106909392,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1392496348,106909392,4190679284,2679249093
+dimwishlist:item=3496887154&perks=1392496348,3230963543,1126264488,2679249093
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4190679284,2679249093
+dimwishlist:item=3496887154&perks=1392496348,1431678320,1126264488,2679249093
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4071163871,2679249093
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4190679284,2679249093
+dimwishlist:item=3496887154&perks=839105230,106909392,1126264488,2679249093
+dimwishlist:item=3496887154&perks=839105230,106909392,4071163871,2679249093
+dimwishlist:item=3496887154&perks=839105230,106909392,4190679284,2679249093
+dimwishlist:item=3496887154&perks=839105230,3230963543,1126264488,2679249093
+dimwishlist:item=3496887154&perks=839105230,3230963543,4071163871,2679249093
+dimwishlist:item=3496887154&perks=839105230,3230963543,4190679284,2679249093
+dimwishlist:item=3496887154&perks=839105230,1431678320,1126264488,2679249093
+dimwishlist:item=3496887154&perks=839105230,1431678320,4071163871,2679249093
+dimwishlist:item=3496887154&perks=839105230,1431678320,4190679284,2679249093
+dimwishlist:item=3496887154&perks=4090651448,106909392,1126264488,2679249093
+dimwishlist:item=3496887154&perks=4090651448,106909392,4071163871,2679249093
+dimwishlist:item=3496887154&perks=4090651448,106909392,4190679284,2679249093
+dimwishlist:item=3496887154&perks=4090651448,3230963543,1126264488,2679249093
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4071163871,2679249093
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4190679284,2679249093
+dimwishlist:item=3496887154&perks=4090651448,1431678320,1126264488,2679249093
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4071163871,2679249093
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4190679284,2679249093
+
+// Phoneutria Fera - PvE Minors god 2
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Proximity Power), (Swashbuckler)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly for melee builds. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, Swashbuckler can boost damage by up to ×1.33 for 4.5s (6.5s when enhanced) after a melee kill. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3496887154&perks=1840239774,106909392,4190679284,4082225868
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4190679284,4082225868
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4190679284,4082225868
+dimwishlist:item=3496887154&perks=1392496348,106909392,4190679284,4082225868
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4190679284,4082225868
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4190679284,4082225868
+dimwishlist:item=3496887154&perks=839105230,106909392,4190679284,4082225868
+dimwishlist:item=3496887154&perks=839105230,3230963543,4190679284,4082225868
+dimwishlist:item=3496887154&perks=839105230,1431678320,4190679284,4082225868
+dimwishlist:item=3496887154&perks=4090651448,106909392,4190679284,4082225868
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4190679284,4082225868
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4190679284,4082225868
+
+// Phoneutria Fera - PvE Minors god 3
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, seeing as you're in close anyway, Surrounded boosts damage by ×1.4 (×1.47 when enhanced) for as long as three or more enemies are within 15m. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3496887154&perks=1840239774,106909392,1126264488,3708227201
+dimwishlist:item=3496887154&perks=1840239774,106909392,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1840239774,106909392,4190679284,3708227201
+dimwishlist:item=3496887154&perks=1840239774,3230963543,1126264488,3708227201
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4190679284,3708227201
+dimwishlist:item=3496887154&perks=1840239774,1431678320,1126264488,3708227201
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4190679284,3708227201
+dimwishlist:item=3496887154&perks=1392496348,106909392,1126264488,3708227201
+dimwishlist:item=3496887154&perks=1392496348,106909392,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1392496348,106909392,4190679284,3708227201
+dimwishlist:item=3496887154&perks=1392496348,3230963543,1126264488,3708227201
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4190679284,3708227201
+dimwishlist:item=3496887154&perks=1392496348,1431678320,1126264488,3708227201
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4071163871,3708227201
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4190679284,3708227201
+dimwishlist:item=3496887154&perks=839105230,106909392,1126264488,3708227201
+dimwishlist:item=3496887154&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=3496887154&perks=839105230,106909392,4190679284,3708227201
+dimwishlist:item=3496887154&perks=839105230,3230963543,1126264488,3708227201
+dimwishlist:item=3496887154&perks=839105230,3230963543,4071163871,3708227201
+dimwishlist:item=3496887154&perks=839105230,3230963543,4190679284,3708227201
+dimwishlist:item=3496887154&perks=839105230,1431678320,1126264488,3708227201
+dimwishlist:item=3496887154&perks=839105230,1431678320,4071163871,3708227201
+dimwishlist:item=3496887154&perks=839105230,1431678320,4190679284,3708227201
+dimwishlist:item=3496887154&perks=4090651448,106909392,1126264488,3708227201
+dimwishlist:item=3496887154&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=3496887154&perks=4090651448,106909392,4190679284,3708227201
+dimwishlist:item=3496887154&perks=4090651448,3230963543,1126264488,3708227201
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4071163871,3708227201
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4190679284,3708227201
+dimwishlist:item=3496887154&perks=4090651448,1431678320,1126264488,3708227201
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4071163871,3708227201
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4190679284,3708227201
+
+// Phoneutria Fera - PvE Minors god 4
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. For a general add clearing roll, Barrel Constrictor can make hitting crit shots easier after the first kill, by reducing pellet spread by ×0.8 for 7.5s (8.5s when enhanced), while Frenzy boosts Handling and Reload Speed by +100 and damage by ×1.15 after being in combat for 12s. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3496887154&perks=1840239774,106909392,1451849462,4104185692
+dimwishlist:item=3496887154&perks=1840239774,3230963543,1451849462,4104185692
+dimwishlist:item=3496887154&perks=1840239774,1431678320,1451849462,4104185692
+dimwishlist:item=3496887154&perks=1392496348,106909392,1451849462,4104185692
+dimwishlist:item=3496887154&perks=1392496348,3230963543,1451849462,4104185692
+dimwishlist:item=3496887154&perks=1392496348,1431678320,1451849462,4104185692
+dimwishlist:item=3496887154&perks=839105230,106909392,1451849462,4104185692
+dimwishlist:item=3496887154&perks=839105230,3230963543,1451849462,4104185692
+dimwishlist:item=3496887154&perks=839105230,1431678320,1451849462,4104185692
+dimwishlist:item=3496887154&perks=4090651448,106909392,1451849462,4104185692
+dimwishlist:item=3496887154&perks=4090651448,3230963543,1451849462,4104185692
+dimwishlist:item=3496887154&perks=4090651448,1431678320,1451849462,4104185692
+
+// Phoneutria Fera - PvE Minors god 5
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with solar builds. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, for solar builds, Incandescent is great for clearing add groups, spreading Scorch stacks to nearby enemies on kills. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3496887154&perks=1840239774,106909392,1126264488,4293542123
+dimwishlist:item=3496887154&perks=1840239774,106909392,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1840239774,106909392,4190679284,4293542123
+dimwishlist:item=3496887154&perks=1840239774,3230963543,1126264488,4293542123
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1840239774,3230963543,4190679284,4293542123
+dimwishlist:item=3496887154&perks=1840239774,1431678320,1126264488,4293542123
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1840239774,1431678320,4190679284,4293542123
+dimwishlist:item=3496887154&perks=1392496348,106909392,1126264488,4293542123
+dimwishlist:item=3496887154&perks=1392496348,106909392,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1392496348,106909392,4190679284,4293542123
+dimwishlist:item=3496887154&perks=1392496348,3230963543,1126264488,4293542123
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1392496348,3230963543,4190679284,4293542123
+dimwishlist:item=3496887154&perks=1392496348,1431678320,1126264488,4293542123
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4071163871,4293542123
+dimwishlist:item=3496887154&perks=1392496348,1431678320,4190679284,4293542123
+dimwishlist:item=3496887154&perks=839105230,106909392,1126264488,4293542123
+dimwishlist:item=3496887154&perks=839105230,106909392,4071163871,4293542123
+dimwishlist:item=3496887154&perks=839105230,106909392,4190679284,4293542123
+dimwishlist:item=3496887154&perks=839105230,3230963543,1126264488,4293542123
+dimwishlist:item=3496887154&perks=839105230,3230963543,4071163871,4293542123
+dimwishlist:item=3496887154&perks=839105230,3230963543,4190679284,4293542123
+dimwishlist:item=3496887154&perks=839105230,1431678320,1126264488,4293542123
+dimwishlist:item=3496887154&perks=839105230,1431678320,4071163871,4293542123
+dimwishlist:item=3496887154&perks=839105230,1431678320,4190679284,4293542123
+dimwishlist:item=3496887154&perks=4090651448,106909392,1126264488,4293542123
+dimwishlist:item=3496887154&perks=4090651448,106909392,4071163871,4293542123
+dimwishlist:item=3496887154&perks=4090651448,106909392,4190679284,4293542123
+dimwishlist:item=3496887154&perks=4090651448,3230963543,1126264488,4293542123
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4071163871,4293542123
+dimwishlist:item=3496887154&perks=4090651448,3230963543,4190679284,4293542123
+dimwishlist:item=3496887154&perks=4090651448,1431678320,1126264488,4293542123
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4071163871,4293542123
+dimwishlist:item=3496887154&perks=4090651448,1431678320,4190679284,4293542123
+
+
+// Phoneutria Fera - PvE Minors god 1
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for melee builds and clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, One-Two Punch boosts melee damage by +75% for 3s (melee damage buffs are additive rather than multiplicative) on hitting all 12 pellets (10 when enhanced) - that's less than a shotgun, but the unlimited ammo for primary weapons makes the tradeoff worthwhile. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242792&perks=1840239774,106909392,1126264488,2679249093
+dimwishlist:item=3804242792&perks=1840239774,106909392,4071163871,2679249093
+dimwishlist:item=3804242792&perks=1840239774,106909392,4190679284,2679249093
+dimwishlist:item=3804242792&perks=1840239774,3230963543,1126264488,2679249093
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4071163871,2679249093
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4190679284,2679249093
+dimwishlist:item=3804242792&perks=1840239774,1431678320,1126264488,2679249093
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4071163871,2679249093
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4190679284,2679249093
+dimwishlist:item=3804242792&perks=1392496348,106909392,1126264488,2679249093
+dimwishlist:item=3804242792&perks=1392496348,106909392,4071163871,2679249093
+dimwishlist:item=3804242792&perks=1392496348,106909392,4190679284,2679249093
+dimwishlist:item=3804242792&perks=1392496348,3230963543,1126264488,2679249093
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4071163871,2679249093
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4190679284,2679249093
+dimwishlist:item=3804242792&perks=1392496348,1431678320,1126264488,2679249093
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4071163871,2679249093
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4190679284,2679249093
+dimwishlist:item=3804242792&perks=839105230,106909392,1126264488,2679249093
+dimwishlist:item=3804242792&perks=839105230,106909392,4071163871,2679249093
+dimwishlist:item=3804242792&perks=839105230,106909392,4190679284,2679249093
+dimwishlist:item=3804242792&perks=839105230,3230963543,1126264488,2679249093
+dimwishlist:item=3804242792&perks=839105230,3230963543,4071163871,2679249093
+dimwishlist:item=3804242792&perks=839105230,3230963543,4190679284,2679249093
+dimwishlist:item=3804242792&perks=839105230,1431678320,1126264488,2679249093
+dimwishlist:item=3804242792&perks=839105230,1431678320,4071163871,2679249093
+dimwishlist:item=3804242792&perks=839105230,1431678320,4190679284,2679249093
+dimwishlist:item=3804242792&perks=4090651448,106909392,1126264488,2679249093
+dimwishlist:item=3804242792&perks=4090651448,106909392,4071163871,2679249093
+dimwishlist:item=3804242792&perks=4090651448,106909392,4190679284,2679249093
+dimwishlist:item=3804242792&perks=4090651448,3230963543,1126264488,2679249093
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4071163871,2679249093
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4190679284,2679249093
+dimwishlist:item=3804242792&perks=4090651448,1431678320,1126264488,2679249093
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4071163871,2679249093
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4190679284,2679249093
+
+// Phoneutria Fera - PvE Minors god 2
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Proximity Power), (Swashbuckler)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly for melee builds. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, Swashbuckler can boost damage by up to ×1.33 for 4.5s (6.5s when enhanced) after a melee kill. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242792&perks=1840239774,106909392,4190679284,4082225868
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4190679284,4082225868
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4190679284,4082225868
+dimwishlist:item=3804242792&perks=1392496348,106909392,4190679284,4082225868
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4190679284,4082225868
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4190679284,4082225868
+dimwishlist:item=3804242792&perks=839105230,106909392,4190679284,4082225868
+dimwishlist:item=3804242792&perks=839105230,3230963543,4190679284,4082225868
+dimwishlist:item=3804242792&perks=839105230,1431678320,4190679284,4082225868
+dimwishlist:item=3804242792&perks=4090651448,106909392,4190679284,4082225868
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4190679284,4082225868
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4190679284,4082225868
+
+// Phoneutria Fera - PvE Minors god 3
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, seeing as you're in close anyway, Surrounded boosts damage by ×1.4 (×1.47 when enhanced) for as long as three or more enemies are within 15m. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242792&perks=1840239774,106909392,1126264488,3708227201
+dimwishlist:item=3804242792&perks=1840239774,106909392,4071163871,3708227201
+dimwishlist:item=3804242792&perks=1840239774,106909392,4190679284,3708227201
+dimwishlist:item=3804242792&perks=1840239774,3230963543,1126264488,3708227201
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4190679284,3708227201
+dimwishlist:item=3804242792&perks=1840239774,1431678320,1126264488,3708227201
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4071163871,3708227201
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4190679284,3708227201
+dimwishlist:item=3804242792&perks=1392496348,106909392,1126264488,3708227201
+dimwishlist:item=3804242792&perks=1392496348,106909392,4071163871,3708227201
+dimwishlist:item=3804242792&perks=1392496348,106909392,4190679284,3708227201
+dimwishlist:item=3804242792&perks=1392496348,3230963543,1126264488,3708227201
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4071163871,3708227201
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4190679284,3708227201
+dimwishlist:item=3804242792&perks=1392496348,1431678320,1126264488,3708227201
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4071163871,3708227201
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4190679284,3708227201
+dimwishlist:item=3804242792&perks=839105230,106909392,1126264488,3708227201
+dimwishlist:item=3804242792&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=3804242792&perks=839105230,106909392,4190679284,3708227201
+dimwishlist:item=3804242792&perks=839105230,3230963543,1126264488,3708227201
+dimwishlist:item=3804242792&perks=839105230,3230963543,4071163871,3708227201
+dimwishlist:item=3804242792&perks=839105230,3230963543,4190679284,3708227201
+dimwishlist:item=3804242792&perks=839105230,1431678320,1126264488,3708227201
+dimwishlist:item=3804242792&perks=839105230,1431678320,4071163871,3708227201
+dimwishlist:item=3804242792&perks=839105230,1431678320,4190679284,3708227201
+dimwishlist:item=3804242792&perks=4090651448,106909392,1126264488,3708227201
+dimwishlist:item=3804242792&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=3804242792&perks=4090651448,106909392,4190679284,3708227201
+dimwishlist:item=3804242792&perks=4090651448,3230963543,1126264488,3708227201
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4071163871,3708227201
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4190679284,3708227201
+dimwishlist:item=3804242792&perks=4090651448,1431678320,1126264488,3708227201
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4071163871,3708227201
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4190679284,3708227201
+
+// Phoneutria Fera - PvE Minors god 4
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. For a general add clearing roll, Barrel Constrictor can make hitting crit shots easier after the first kill, by reducing pellet spread by ×0.8 for 7.5s (8.5s when enhanced), while Frenzy boosts Handling and Reload Speed by +100 and damage by ×1.15 after being in combat for 12s. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242792&perks=1840239774,106909392,1451849462,4104185692
+dimwishlist:item=3804242792&perks=1840239774,3230963543,1451849462,4104185692
+dimwishlist:item=3804242792&perks=1840239774,1431678320,1451849462,4104185692
+dimwishlist:item=3804242792&perks=1392496348,106909392,1451849462,4104185692
+dimwishlist:item=3804242792&perks=1392496348,3230963543,1451849462,4104185692
+dimwishlist:item=3804242792&perks=1392496348,1431678320,1451849462,4104185692
+dimwishlist:item=3804242792&perks=839105230,106909392,1451849462,4104185692
+dimwishlist:item=3804242792&perks=839105230,3230963543,1451849462,4104185692
+dimwishlist:item=3804242792&perks=839105230,1431678320,1451849462,4104185692
+dimwishlist:item=3804242792&perks=4090651448,106909392,1451849462,4104185692
+dimwishlist:item=3804242792&perks=4090651448,3230963543,1451849462,4104185692
+dimwishlist:item=3804242792&perks=4090651448,1431678320,1451849462,4104185692
+
+// Phoneutria Fera - PvE Minors god 5
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with solar builds. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, for solar builds, Incandescent is great for clearing add groups, spreading Scorch stacks to nearby enemies on kills. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242792&perks=1840239774,106909392,1126264488,4293542123
+dimwishlist:item=3804242792&perks=1840239774,106909392,4071163871,4293542123
+dimwishlist:item=3804242792&perks=1840239774,106909392,4190679284,4293542123
+dimwishlist:item=3804242792&perks=1840239774,3230963543,1126264488,4293542123
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4071163871,4293542123
+dimwishlist:item=3804242792&perks=1840239774,3230963543,4190679284,4293542123
+dimwishlist:item=3804242792&perks=1840239774,1431678320,1126264488,4293542123
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4071163871,4293542123
+dimwishlist:item=3804242792&perks=1840239774,1431678320,4190679284,4293542123
+dimwishlist:item=3804242792&perks=1392496348,106909392,1126264488,4293542123
+dimwishlist:item=3804242792&perks=1392496348,106909392,4071163871,4293542123
+dimwishlist:item=3804242792&perks=1392496348,106909392,4190679284,4293542123
+dimwishlist:item=3804242792&perks=1392496348,3230963543,1126264488,4293542123
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4071163871,4293542123
+dimwishlist:item=3804242792&perks=1392496348,3230963543,4190679284,4293542123
+dimwishlist:item=3804242792&perks=1392496348,1431678320,1126264488,4293542123
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4071163871,4293542123
+dimwishlist:item=3804242792&perks=1392496348,1431678320,4190679284,4293542123
+dimwishlist:item=3804242792&perks=839105230,106909392,1126264488,4293542123
+dimwishlist:item=3804242792&perks=839105230,106909392,4071163871,4293542123
+dimwishlist:item=3804242792&perks=839105230,106909392,4190679284,4293542123
+dimwishlist:item=3804242792&perks=839105230,3230963543,1126264488,4293542123
+dimwishlist:item=3804242792&perks=839105230,3230963543,4071163871,4293542123
+dimwishlist:item=3804242792&perks=839105230,3230963543,4190679284,4293542123
+dimwishlist:item=3804242792&perks=839105230,1431678320,1126264488,4293542123
+dimwishlist:item=3804242792&perks=839105230,1431678320,4071163871,4293542123
+dimwishlist:item=3804242792&perks=839105230,1431678320,4190679284,4293542123
+dimwishlist:item=3804242792&perks=4090651448,106909392,1126264488,4293542123
+dimwishlist:item=3804242792&perks=4090651448,106909392,4071163871,4293542123
+dimwishlist:item=3804242792&perks=4090651448,106909392,4190679284,4293542123
+dimwishlist:item=3804242792&perks=4090651448,3230963543,1126264488,4293542123
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4071163871,4293542123
+dimwishlist:item=3804242792&perks=4090651448,3230963543,4190679284,4293542123
+dimwishlist:item=3804242792&perks=4090651448,1431678320,1126264488,4293542123
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4071163871,4293542123
+dimwishlist:item=3804242792&perks=4090651448,1431678320,4190679284,4293542123
+
+
+// Phoneutria Fera - PvE Minors god 1
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for melee builds and clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, One-Two Punch boosts melee damage by +75% for 3s (melee damage buffs are additive rather than multiplicative) on hitting all 12 pellets (10 when enhanced) - that's less than a shotgun, but the unlimited ammo for primary weapons makes the tradeoff worthwhile. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242793&perks=1840239774,106909392,1126264488,2679249093
+dimwishlist:item=3804242793&perks=1840239774,106909392,4071163871,2679249093
+dimwishlist:item=3804242793&perks=1840239774,106909392,4190679284,2679249093
+dimwishlist:item=3804242793&perks=1840239774,3230963543,1126264488,2679249093
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4071163871,2679249093
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4190679284,2679249093
+dimwishlist:item=3804242793&perks=1840239774,1431678320,1126264488,2679249093
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4071163871,2679249093
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4190679284,2679249093
+dimwishlist:item=3804242793&perks=1392496348,106909392,1126264488,2679249093
+dimwishlist:item=3804242793&perks=1392496348,106909392,4071163871,2679249093
+dimwishlist:item=3804242793&perks=1392496348,106909392,4190679284,2679249093
+dimwishlist:item=3804242793&perks=1392496348,3230963543,1126264488,2679249093
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4071163871,2679249093
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4190679284,2679249093
+dimwishlist:item=3804242793&perks=1392496348,1431678320,1126264488,2679249093
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4071163871,2679249093
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4190679284,2679249093
+dimwishlist:item=3804242793&perks=839105230,106909392,1126264488,2679249093
+dimwishlist:item=3804242793&perks=839105230,106909392,4071163871,2679249093
+dimwishlist:item=3804242793&perks=839105230,106909392,4190679284,2679249093
+dimwishlist:item=3804242793&perks=839105230,3230963543,1126264488,2679249093
+dimwishlist:item=3804242793&perks=839105230,3230963543,4071163871,2679249093
+dimwishlist:item=3804242793&perks=839105230,3230963543,4190679284,2679249093
+dimwishlist:item=3804242793&perks=839105230,1431678320,1126264488,2679249093
+dimwishlist:item=3804242793&perks=839105230,1431678320,4071163871,2679249093
+dimwishlist:item=3804242793&perks=839105230,1431678320,4190679284,2679249093
+dimwishlist:item=3804242793&perks=4090651448,106909392,1126264488,2679249093
+dimwishlist:item=3804242793&perks=4090651448,106909392,4071163871,2679249093
+dimwishlist:item=3804242793&perks=4090651448,106909392,4190679284,2679249093
+dimwishlist:item=3804242793&perks=4090651448,3230963543,1126264488,2679249093
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4071163871,2679249093
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4190679284,2679249093
+dimwishlist:item=3804242793&perks=4090651448,1431678320,1126264488,2679249093
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4071163871,2679249093
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4190679284,2679249093
+
+// Phoneutria Fera - PvE Minors god 2
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Proximity Power), (Swashbuckler)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly for melee builds. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, Swashbuckler can boost damage by up to ×1.33 for 4.5s (6.5s when enhanced) after a melee kill. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242793&perks=1840239774,106909392,4190679284,4082225868
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4190679284,4082225868
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4190679284,4082225868
+dimwishlist:item=3804242793&perks=1392496348,106909392,4190679284,4082225868
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4190679284,4082225868
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4190679284,4082225868
+dimwishlist:item=3804242793&perks=839105230,106909392,4190679284,4082225868
+dimwishlist:item=3804242793&perks=839105230,3230963543,4190679284,4082225868
+dimwishlist:item=3804242793&perks=839105230,1431678320,4190679284,4082225868
+dimwishlist:item=3804242793&perks=4090651448,106909392,4190679284,4082225868
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4190679284,4082225868
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4190679284,4082225868
+
+// Phoneutria Fera - PvE Minors god 3
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, seeing as you're in close anyway, Surrounded boosts damage by ×1.4 (×1.47 when enhanced) for as long as three or more enemies are within 15m. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242793&perks=1840239774,106909392,1126264488,3708227201
+dimwishlist:item=3804242793&perks=1840239774,106909392,4071163871,3708227201
+dimwishlist:item=3804242793&perks=1840239774,106909392,4190679284,3708227201
+dimwishlist:item=3804242793&perks=1840239774,3230963543,1126264488,3708227201
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4071163871,3708227201
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4190679284,3708227201
+dimwishlist:item=3804242793&perks=1840239774,1431678320,1126264488,3708227201
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4071163871,3708227201
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4190679284,3708227201
+dimwishlist:item=3804242793&perks=1392496348,106909392,1126264488,3708227201
+dimwishlist:item=3804242793&perks=1392496348,106909392,4071163871,3708227201
+dimwishlist:item=3804242793&perks=1392496348,106909392,4190679284,3708227201
+dimwishlist:item=3804242793&perks=1392496348,3230963543,1126264488,3708227201
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4071163871,3708227201
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4190679284,3708227201
+dimwishlist:item=3804242793&perks=1392496348,1431678320,1126264488,3708227201
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4071163871,3708227201
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4190679284,3708227201
+dimwishlist:item=3804242793&perks=839105230,106909392,1126264488,3708227201
+dimwishlist:item=3804242793&perks=839105230,106909392,4071163871,3708227201
+dimwishlist:item=3804242793&perks=839105230,106909392,4190679284,3708227201
+dimwishlist:item=3804242793&perks=839105230,3230963543,1126264488,3708227201
+dimwishlist:item=3804242793&perks=839105230,3230963543,4071163871,3708227201
+dimwishlist:item=3804242793&perks=839105230,3230963543,4190679284,3708227201
+dimwishlist:item=3804242793&perks=839105230,1431678320,1126264488,3708227201
+dimwishlist:item=3804242793&perks=839105230,1431678320,4071163871,3708227201
+dimwishlist:item=3804242793&perks=839105230,1431678320,4190679284,3708227201
+dimwishlist:item=3804242793&perks=4090651448,106909392,1126264488,3708227201
+dimwishlist:item=3804242793&perks=4090651448,106909392,4071163871,3708227201
+dimwishlist:item=3804242793&perks=4090651448,106909392,4190679284,3708227201
+dimwishlist:item=3804242793&perks=4090651448,3230963543,1126264488,3708227201
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4071163871,3708227201
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4190679284,3708227201
+dimwishlist:item=3804242793&perks=4090651448,1431678320,1126264488,3708227201
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4071163871,3708227201
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4190679284,3708227201
+
+// Phoneutria Fera - PvE Minors god 4
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll clearing Minor adds in both general at-level or better, and end-game underleveled content. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. For a general add clearing roll, Barrel Constrictor can make hitting crit shots easier after the first kill, by reducing pellet spread by ×0.8 for 7.5s (8.5s when enhanced), while Frenzy boosts Handling and Reload Speed by +100 and damage by ×1.15 after being in combat for 12s. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242793&perks=1840239774,106909392,1451849462,4104185692
+dimwishlist:item=3804242793&perks=1840239774,3230963543,1451849462,4104185692
+dimwishlist:item=3804242793&perks=1840239774,1431678320,1451849462,4104185692
+dimwishlist:item=3804242793&perks=1392496348,106909392,1451849462,4104185692
+dimwishlist:item=3804242793&perks=1392496348,3230963543,1451849462,4104185692
+dimwishlist:item=3804242793&perks=1392496348,1431678320,1451849462,4104185692
+dimwishlist:item=3804242793&perks=839105230,106909392,1451849462,4104185692
+dimwishlist:item=3804242793&perks=839105230,3230963543,1451849462,4104185692
+dimwishlist:item=3804242793&perks=839105230,1431678320,1451849462,4104185692
+dimwishlist:item=3804242793&perks=4090651448,106909392,1451849462,4104185692
+dimwishlist:item=3804242793&perks=4090651448,3230963543,1451849462,4104185692
+dimwishlist:item=3804242793&perks=4090651448,1431678320,1451849462,4104185692
+
+// Phoneutria Fera - PvE Minors god 5
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (One-Two Punch)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with solar builds. Phoneutria Fera is one of a new hand cannon subfamily - Spread Shot, combining elements of hand cannons and shotguns. At base, there's not really much of a comparison to be made as the only other example has a completely different stat package - this looks like HC values, whereas Aureus Neutralizer looks more like a shotgun. That said, d2foundry.gg hasn't worked out the formula to calculate real-world values from stats at time of writing, but the Range is 35 - this does seem to be fixed at around 25m, after which pellets just vanish, Stability is 40, Handling is 35, Reload Speed is 25. Ammo Generation is 56, Recoil Direction is 93, and Zoom is 14. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Tactical Mag, Flared Magwell and Alloy Mag are all reliable options for boosting gunfeel stats. With an engagement range of 25m max, CQC perks are going to be useful in the trait perk columns. Threat Remover is strong - hitting 11 of 12 pellets (10 out of 12 when enhanced) improves Handling, Stability and Reload Speed for 7s, as is Threat Detector which boosts Stability by up to +40, Reload Speed by up to +60 (+44 and +63 when enhanced), and Handling by up to +100 with an ×0.81 animation modifier when within 15m of two or more enemies. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, for solar builds, Incandescent is great for clearing add groups, spreading Scorch stacks to nearby enemies on kills. The Tenacity Origin Trait is solid in PvE, stack up to ×30 on kills, with each stack providing a ×1.005 boost (so up to ×1.15 - the same as Frenzy) and +2 to both Handling and Reload, until you're killed. If you're interested, Phoneutria fera is a mix of Greek and Latin that translates as "Murderess, wild animal" and is a species of South American spider, commonly known as the Brazilian Wandering Spider or Banana Spider. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3804242793&perks=1840239774,106909392,1126264488,4293542123
+dimwishlist:item=3804242793&perks=1840239774,106909392,4071163871,4293542123
+dimwishlist:item=3804242793&perks=1840239774,106909392,4190679284,4293542123
+dimwishlist:item=3804242793&perks=1840239774,3230963543,1126264488,4293542123
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4071163871,4293542123
+dimwishlist:item=3804242793&perks=1840239774,3230963543,4190679284,4293542123
+dimwishlist:item=3804242793&perks=1840239774,1431678320,1126264488,4293542123
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4071163871,4293542123
+dimwishlist:item=3804242793&perks=1840239774,1431678320,4190679284,4293542123
+dimwishlist:item=3804242793&perks=1392496348,106909392,1126264488,4293542123
+dimwishlist:item=3804242793&perks=1392496348,106909392,4071163871,4293542123
+dimwishlist:item=3804242793&perks=1392496348,106909392,4190679284,4293542123
+dimwishlist:item=3804242793&perks=1392496348,3230963543,1126264488,4293542123
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4071163871,4293542123
+dimwishlist:item=3804242793&perks=1392496348,3230963543,4190679284,4293542123
+dimwishlist:item=3804242793&perks=1392496348,1431678320,1126264488,4293542123
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4071163871,4293542123
+dimwishlist:item=3804242793&perks=1392496348,1431678320,4190679284,4293542123
+dimwishlist:item=3804242793&perks=839105230,106909392,1126264488,4293542123
+dimwishlist:item=3804242793&perks=839105230,106909392,4071163871,4293542123
+dimwishlist:item=3804242793&perks=839105230,106909392,4190679284,4293542123
+dimwishlist:item=3804242793&perks=839105230,3230963543,1126264488,4293542123
+dimwishlist:item=3804242793&perks=839105230,3230963543,4071163871,4293542123
+dimwishlist:item=3804242793&perks=839105230,3230963543,4190679284,4293542123
+dimwishlist:item=3804242793&perks=839105230,1431678320,1126264488,4293542123
+dimwishlist:item=3804242793&perks=839105230,1431678320,4071163871,4293542123
+dimwishlist:item=3804242793&perks=839105230,1431678320,4190679284,4293542123
+dimwishlist:item=3804242793&perks=4090651448,106909392,1126264488,4293542123
+dimwishlist:item=3804242793&perks=4090651448,106909392,4071163871,4293542123
+dimwishlist:item=3804242793&perks=4090651448,106909392,4190679284,4293542123
+dimwishlist:item=3804242793&perks=4090651448,3230963543,1126264488,4293542123
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4071163871,4293542123
+dimwishlist:item=3804242793&perks=4090651448,3230963543,4190679284,4293542123
+dimwishlist:item=3804242793&perks=4090651448,1431678320,1126264488,4293542123
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4071163871,4293542123
+dimwishlist:item=3804242793&perks=4090651448,1431678320,4190679284,4293542123
+
+
+// Ahab Char - PvE Minors god 1
+// (Fluted Barrel, Fluted Barrel, Chambered Compensator, Polygonal Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Alloy Mag), (Heal Clip, Recycled Energy), (Burning Ambition)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Solar build. We've not seen a new rapid fire solar auto rifle since Beyond Light - the frame provides a useful ×0.8 reload animation multiplier when reloading from an empty mag. At base, by comparison with its peers, the stats are decent - d2foundry.gg calculates that 25 Range equates to 14.50m hipfire and 23.20m when ADS before damage falloff, 42 Stability is ×1.1094 flinch resist at base, 30 Handling is 0.44s ready, 0.33s ADS and 0.40s stow speed, and 45 Reload Speed is a 1.89s reload (1.51s when the mag's empty) . Ammo Generation is 52, Recoil Direction is 50, and Zoom is 16. With the barrel perk, bump up to recoil control on controller or add Handling for M+KB. The high RPM makes High-Caliber Rounds great, but any of the combat effect or reload boosting options will work. In the first trait perk column, Heal Clip can be a literal lifesaver providing Cure ×2 to you and ×1 to teammates within 15m when you reload within 5.3s of a kill. On ability-spamming builds, Recycled Energy might also be worth a look, synergising with the origin trail to refill both your ability closest to, and furthest from a full charge. Burning Ambition inflicts 10 scorch on enemies with 29 hits (26 when enhanced), so could fit nicely into a solar build. The Bray Legacy Origin Trait is solid in PvE, generating around 0.2% energy per hit for whichever ability is closest to a full charge. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1411560894&perks=839105230,1561002382,3017780555,2890807135
+dimwishlist:item=1411560894&perks=839105230,1561002382,3713215006,2890807135
+dimwishlist:item=1411560894&perks=839105230,1968497646,3017780555,2890807135
+dimwishlist:item=1411560894&perks=839105230,1968497646,3713215006,2890807135
+dimwishlist:item=1411560894&perks=839105230,1885400500,3017780555,2890807135
+dimwishlist:item=1411560894&perks=839105230,1885400500,3713215006,2890807135
+dimwishlist:item=1411560894&perks=839105230,3230963543,3017780555,2890807135
+dimwishlist:item=1411560894&perks=839105230,3230963543,3713215006,2890807135
+dimwishlist:item=1411560894&perks=839105230,1431678320,3017780555,2890807135
+dimwishlist:item=1411560894&perks=839105230,1431678320,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1561002382,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1561002382,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1968497646,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1968497646,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1885400500,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1885400500,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1840239774,3230963543,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,3230963543,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1431678320,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1840239774,1431678320,3713215006,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1561002382,3017780555,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1561002382,3713215006,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1968497646,3017780555,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1968497646,3713215006,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1885400500,3017780555,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1885400500,3713215006,2890807135
+dimwishlist:item=1411560894&perks=3661387068,3230963543,3017780555,2890807135
+dimwishlist:item=1411560894&perks=3661387068,3230963543,3713215006,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1431678320,3017780555,2890807135
+dimwishlist:item=1411560894&perks=3661387068,1431678320,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1561002382,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1561002382,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1968497646,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1968497646,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1885400500,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1885400500,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1392496348,3230963543,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1392496348,3230963543,3713215006,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1431678320,3017780555,2890807135
+dimwishlist:item=1411560894&perks=1392496348,1431678320,3713215006,2890807135
+
+// Ahab Char - PvE Minors god 2
+// (Fluted Barrel, Fluted Barrel, Chambered Compensator, Polygonal Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell, Alloy Mag), (Heal Clip, Recycled Energy), (Burning Ambition)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a melee build. We've not seen a new rapid fire solar auto rifle since Beyond Light - the frame provides a useful ×0.8 reload animation multiplier when reloading from an empty mag. At base, by comparison with its peers, the stats are decent - d2foundry.gg calculates that 25 Range equates to 14.50m hipfire and 23.20m when ADS before damage falloff, 42 Stability is ×1.1094 flinch resist at base, 30 Handling is 0.44s ready, 0.33s ADS and 0.40s stow speed, and 45 Reload Speed is a 1.89s reload (1.51s when the mag's empty) . Ammo Generation is 52, Recoil Direction is 50, and Zoom is 16. With the barrel perk, bump up to recoil control on controller or add Handling for M+KB. The high RPM makes High-Caliber Rounds great, but any of the combat effect or reload boosting options will work. For melee builds, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills in the first column. Alternatively, Grave Robber refills your magazine on a melee kill or elemental melee hit. In the second column, Swashbuckler can boost damage by up to ×1.33 for 4.5s (6.5s when enhanced) after a melee kill. The Bray Legacy Origin Trait is solid in PvE, generating around 0.2% energy per hit for whichever ability is closest to a full charge. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1411560894&perks=839105230,1561002382,4190679284,4082225868
+dimwishlist:item=1411560894&perks=839105230,1561002382,1631667848,4082225868
+dimwishlist:item=1411560894&perks=839105230,1968497646,4190679284,4082225868
+dimwishlist:item=1411560894&perks=839105230,1968497646,1631667848,4082225868
+dimwishlist:item=1411560894&perks=839105230,1885400500,4190679284,4082225868
+dimwishlist:item=1411560894&perks=839105230,1885400500,1631667848,4082225868
+dimwishlist:item=1411560894&perks=839105230,3230963543,4190679284,4082225868
+dimwishlist:item=1411560894&perks=839105230,3230963543,1631667848,4082225868
+dimwishlist:item=1411560894&perks=839105230,1431678320,4190679284,4082225868
+dimwishlist:item=1411560894&perks=839105230,1431678320,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1561002382,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1561002382,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1968497646,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1968497646,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1885400500,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1885400500,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1840239774,3230963543,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1840239774,3230963543,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1431678320,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1840239774,1431678320,1631667848,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1561002382,4190679284,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1561002382,1631667848,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1968497646,4190679284,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1968497646,1631667848,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1885400500,4190679284,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1885400500,1631667848,4082225868
+dimwishlist:item=1411560894&perks=3661387068,3230963543,4190679284,4082225868
+dimwishlist:item=1411560894&perks=3661387068,3230963543,1631667848,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1431678320,4190679284,4082225868
+dimwishlist:item=1411560894&perks=3661387068,1431678320,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1561002382,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1561002382,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1968497646,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1968497646,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1885400500,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1885400500,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1392496348,3230963543,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1392496348,3230963543,1631667848,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1431678320,4190679284,4082225868
+dimwishlist:item=1411560894&perks=1392496348,1431678320,1631667848,4082225868
+
+
+// Jurisprudent - PvE Minors god 1
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Rimestealer), (Headstone)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. Jurisprudent is a decent enough stasis scout rifle, for when you want to stay a long way away from trouble. At base, by comparison with its peers, the stats are fine - d2foundry.gg calculates that 68 Range equates to 40.91m hipfire and 81.82m when ADS before damage falloff, 23 Stability is ×1.0750 flinch resist at base, 28 Handling is 0.46s ready, 0.36s ADS and 0.44s stow speed, and 33 Reload Speed is a 2.32s reload. Ammo Regeneration is 55, Recoil Direction is 66, and Zoom is 21. With the slower fire rate of a high-impact scout rifle, stability isn't too much of an issue, so focus on Handling to improve snappiness with the barrel perk. For the magazine perk, Tactical Mag, Flared Magwell or Alloy Mag are reliable options for boosting gunfeel stats. For Stasis builds, you have the Rimestealer and Headstone combination to build Frost Armor stacks on killing frozen enemies or shattering Stasis crystals, which you can generate on crit kills. The Bray Legacy Origin Trait is solid in PvE, generating around 0.2% energy per hit for whichever ability is closest to a full charge. If you're interested, the word "Jurisprudent" means an expert in, or relating to the theory and philosophy of the law. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4090134063&perks=1840239774,106909392,1955165503,124408337
+dimwishlist:item=4090134063&perks=1840239774,3230963543,1955165503,124408337
+dimwishlist:item=4090134063&perks=1840239774,1431678320,1955165503,124408337
+dimwishlist:item=4090134063&perks=839105230,106909392,1955165503,124408337
+dimwishlist:item=4090134063&perks=839105230,3230963543,1955165503,124408337
+dimwishlist:item=4090134063&perks=839105230,1431678320,1955165503,124408337
+dimwishlist:item=4090134063&perks=4090651448,106909392,1955165503,124408337
+dimwishlist:item=4090134063&perks=4090651448,3230963543,1955165503,124408337
+dimwishlist:item=4090134063&perks=4090651448,1431678320,1955165503,124408337
+
+
+// Faustus Decline - PvE Minors god 1
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Corkscrew Rifling), (Alloy Mag, Flared Magwell, High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds), (Rimestealer), (Headstone)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. Faustus isn't a bad sidearm - the Lightweight frame boosts mobility - now the hidden Athletics stat - for better base movement speed and jump height. But at the end of the day it's still a primary sidearm, all of which need a bit of attention, with mainly PvP trait perks. At base, by comparison with its peers, the stats are good - d2foundry.gg calculates that 25 Range equates to 12.00m hipfire and 14.40m when ADS before damage falloff, 42 Stability is ×1.0550 flinch resist at base, 68 Handling is 0.24s ready, 0.19s ADS and 0.30s stow speed, and 50 Reload Speed is a 1.58s reload. Ammo Generation is 50, Recoil Direction is 95, and Zoom is 12. Bumping up Handling with the barrel perk will make the gunfeel noticibly snappier, but on controller you might want to look at Stability too. For the magazine perk, Alloy Magor Flared Magwell are reliable options for boosting gunfeel stats, or one of the combat effect options adds utility. For Stasis builds, you have the Rimestealer and Headstone combination to build Frost Armor stacks on killing frozen enemies or shattering Stasis crystals, which you can generate on crit kills. The Bray Legacy Origin Trait is solid in PvE, generating around 0.2% energy per hit for whichever ability is closest to a full charge. If you're interested, "Dr Faustus" is an Elizabethan tragedy by Christopher Marlowe, based on German stories about a scholar who sells his soul to the devil in exchange for magical power. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1663482635&perks=1840239774,1431678320,1955165503,124408337
+dimwishlist:item=1663482635&perks=1840239774,3230963543,1955165503,124408337
+dimwishlist:item=1663482635&perks=1840239774,1561002382,1955165503,124408337
+dimwishlist:item=1663482635&perks=1840239774,1968497646,1955165503,124408337
+dimwishlist:item=1663482635&perks=1840239774,1885400500,1955165503,124408337
+dimwishlist:item=1663482635&perks=1392496348,1431678320,1955165503,124408337
+dimwishlist:item=1663482635&perks=1392496348,3230963543,1955165503,124408337
+dimwishlist:item=1663482635&perks=1392496348,1561002382,1955165503,124408337
+dimwishlist:item=1663482635&perks=1392496348,1968497646,1955165503,124408337
+dimwishlist:item=1663482635&perks=1392496348,1885400500,1955165503,124408337
+dimwishlist:item=1663482635&perks=839105230,1431678320,1955165503,124408337
+dimwishlist:item=1663482635&perks=839105230,3230963543,1955165503,124408337
+dimwishlist:item=1663482635&perks=839105230,1561002382,1955165503,124408337
+dimwishlist:item=1663482635&perks=839105230,1968497646,1955165503,124408337
+dimwishlist:item=1663482635&perks=839105230,1885400500,1955165503,124408337
+dimwishlist:item=1663482635&perks=4090651448,1431678320,1955165503,124408337
+dimwishlist:item=1663482635&perks=4090651448,3230963543,1955165503,124408337
+dimwishlist:item=1663482635&perks=4090651448,1561002382,1955165503,124408337
+dimwishlist:item=1663482635&perks=4090651448,1968497646,1955165503,124408337
+dimwishlist:item=1663482635&perks=4090651448,1885400500,1955165503,124408337
+
+
+// Shoreline Dissident - PvE Boss god 1
+// (Arrowhead Brake, Fluted Barrel), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), (Triple Tap), (Binary Orbit, High Ground, Precision Instrument)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for a backup sustained Boss DPS weapon in both general at-level or better, and end-game underleveled content. Shoreline Dissident is a rapid fire sniper, so the best subfamily for damage output - the frame provides a useful ×0.8 reload animation multiplier when reloading from an empty mag. At base, by comparison with its peers, the stats are good - Range is 35, but is largely irrelevant, and d2foundry.gg calculates 45 Stability is ×1.0313 flinch resist at base, 70 Handling is 0.32s ready, 0.37s ADS and 0.29s stow speed, and 60 Reload Speed is a 2.69s reload (2.15s when the mag's empty). Ammo Generation is 55, Recoil Direction is 55, and Zoom is 35. With the barrel perk, bump up to recoil control on controller or add Handling for M+KB. Tactical Mag boosts the mag size to 7, but if you don't get that, Appended Mag works to, or look for a reload boosting option. For sustained damage, in the first trait perk column Triple Tap refills one round from reserves after three crit hits - with the max 7 in the magazine that's up to 10 shots without reloading. For damage, depending on your circumstances you could use Precision Instrument boosts damage by up to ×1.25 after six crits, if you're in an elevated position then High Ground also provides ×1.25 damage, or if there are adds that you can kill with an opposite type of weapon or ability energy (that would be darkness - so Stasis or Strand kills) boost damage by ×1.25 for 8.5s. The Bray Legacy Origin Trait is solid in PvE, although less useful on a sniper, generating around 0.2% energy per hit for whichever ability is closest to a full charge. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods. |tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1193318082&perks=839105230,106909392,3400784728,1546142478
+dimwishlist:item=1193318082&perks=839105230,106909392,3400784728,2319119708
+dimwishlist:item=1193318082&perks=839105230,106909392,3400784728,555281244
+dimwishlist:item=1193318082&perks=839105230,1087426260,3400784728,1546142478
+dimwishlist:item=1193318082&perks=839105230,1087426260,3400784728,2319119708
+dimwishlist:item=1193318082&perks=839105230,1087426260,3400784728,555281244
+dimwishlist:item=1193318082&perks=839105230,1431678320,3400784728,1546142478
+dimwishlist:item=1193318082&perks=839105230,1431678320,3400784728,2319119708
+dimwishlist:item=1193318082&perks=839105230,1431678320,3400784728,555281244
+dimwishlist:item=1193318082&perks=839105230,3230963543,3400784728,1546142478
+dimwishlist:item=1193318082&perks=839105230,3230963543,3400784728,2319119708
+dimwishlist:item=1193318082&perks=839105230,3230963543,3400784728,555281244
+dimwishlist:item=1193318082&perks=1840239774,106909392,3400784728,1546142478
+dimwishlist:item=1193318082&perks=1840239774,106909392,3400784728,2319119708
+dimwishlist:item=1193318082&perks=1840239774,106909392,3400784728,555281244
+dimwishlist:item=1193318082&perks=1840239774,1087426260,3400784728,1546142478
+dimwishlist:item=1193318082&perks=1840239774,1087426260,3400784728,2319119708
+dimwishlist:item=1193318082&perks=1840239774,1087426260,3400784728,555281244
+dimwishlist:item=1193318082&perks=1840239774,1431678320,3400784728,1546142478
+dimwishlist:item=1193318082&perks=1840239774,1431678320,3400784728,2319119708
+dimwishlist:item=1193318082&perks=1840239774,1431678320,3400784728,555281244
+dimwishlist:item=1193318082&perks=1840239774,3230963543,3400784728,1546142478
+dimwishlist:item=1193318082&perks=1840239774,3230963543,3400784728,2319119708
+dimwishlist:item=1193318082&perks=1840239774,3230963543,3400784728,555281244
+
+// Shoreline Dissident - PvE Major god 1
+// (Arrowhead Brake, Fluted Barrel), (Tactical Mag, Appended Mag, Alloy Mag, Flared Magwell), (Triple Tap), (Binary Orbit, High Ground, Precision Instrument)
+//notes:Inspired by @PodvsEnemies episode 148 from 5 August 2025 (https://open.spotify.com/episode/3S0TObWihybmZdCLM6wIUw?si=cf08fccbb9d44fa7) with @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for a burt damage weapon against Majors, Banes, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Shoreline Dissident is a rapid fire sniper, so the best subfamily for damage output - the frame provides a useful ×0.8 reload animation multiplier when reloading from an empty mag. At base, by comparison with its peers, the stats are good - Range is 35, but is largely irrelevant, and d2foundry.gg calculates 45 Stability is ×1.0313 flinch resist at base, 70 Handling is 0.32s ready, 0.37s ADS and 0.29s stow speed, and 60 Reload Speed is a 2.69s reload (2.15s when the mag's empty). Ammo Generation is 55, Recoil Direction is 55, and Zoom is 35. With the barrel perk, bump up to recoil control on controller or add Handling for M+KB. Tactical Mag boosts the mag size to 7, but if you don't get that, Appended Mag works to, or look for a reload boosting option. For burst damage, in the first trait perk column Explosive Payload passively boosts crit damage by ×1.044 and bodyshots by ×1.15. In the second column, depending on your circumstances Binary Orbit boosts damage by ×1.25 for 8.5s if you've recently killed an add with an opposite type of energy (which would be darkness - so Stasis or Strand), or if you're in an elevated position then High Ground also provides ×1.25 damage. The Bray Legacy Origin Trait is solid in PvE, although less useful on a sniper, generating around 0.2% energy per hit for whichever ability is closest to a full charge. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1193318082&perks=839105230,106909392,3038247973,1546142478
+dimwishlist:item=1193318082&perks=839105230,106909392,3038247973,2319119708
+dimwishlist:item=1193318082&perks=839105230,1087426260,3038247973,1546142478
+dimwishlist:item=1193318082&perks=839105230,1087426260,3038247973,2319119708
+dimwishlist:item=1193318082&perks=839105230,1431678320,3038247973,1546142478
+dimwishlist:item=1193318082&perks=839105230,1431678320,3038247973,2319119708
+dimwishlist:item=1193318082&perks=839105230,3230963543,3038247973,1546142478
+dimwishlist:item=1193318082&perks=839105230,3230963543,3038247973,2319119708
+dimwishlist:item=1193318082&perks=1840239774,106909392,3038247973,1546142478
+dimwishlist:item=1193318082&perks=1840239774,106909392,3038247973,2319119708
+dimwishlist:item=1193318082&perks=1840239774,1087426260,3038247973,1546142478
+dimwishlist:item=1193318082&perks=1840239774,1087426260,3038247973,2319119708
+dimwishlist:item=1193318082&perks=1840239774,1431678320,3038247973,1546142478
+dimwishlist:item=1193318082&perks=1840239774,1431678320,3038247973,2319119708
+dimwishlist:item=1193318082&perks=1840239774,3230963543,3038247973,1546142478
+dimwishlist:item=1193318082&perks=1840239774,3230963543,3038247973,2319119708
