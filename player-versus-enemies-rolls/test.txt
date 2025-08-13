@@ -4,4 +4,4 @@ dimwishlist:item=3585698380
 
 // Ribbontail
 //notes:Checking that you don't need any perks to get listed in DIM as a favourite weapon 
-dimwishlist:item=407150810
+dimwishlist:item=407150810&perks=839105230
