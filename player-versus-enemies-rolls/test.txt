@@ -1,3 +1,7 @@
 // Lustrous Helm - Titan
-//notes:Inspired by @PodvsEnemies episode 14 from 12 August 2025 (https://open.spotify.com/episode/2bhcY40IAVpSlQ0iaW50v0?si=8d157a1a4bdb4770) with @CourtProjects and @ImpetusAlways (PvE PvE-EndGame): Fantastic origin traits for both two-piece (Photogalvanic) and four-piece (Cauterize) with solar subclasses. You can proc Photogalvanic for additional flinch resistance, handling and reload speed with healing from any source, including Heal Clip, and Restoration continually re-procs the effect. Cauterize provides 35HP for three solar kills within about 3s of each other - so just over half of Cure ×1 (60HP).|tags:PvE PvE-EndGame
+//notes:Inspired by @PodvsEnemies episode 14 from 12 August 2025 (https://open.spotify.com/episode/2bhcY40IAVpSlQ0iaW50v0?si=8d157a1a4bdb4770) with @CourtProjects and @ImpetusAlways (PvE PvE-EndGame): Fantastic set bonus for both two-piece (Photogalvanic) and four-piece (Cauterize) with solar subclasses. You can proc Photogalvanic for additional flinch resistance, handling and reload speed with healing from any source, including Heal Clip, and Restoration continually re-procs the effect. Cauterize provides 35HP for three solar kills within about 3s of each other - so just over half of Cure ×1 (60HP).|tags:PvE PvE-EndGame
 dimwishlist:item=3585698380
+
+// Ribbontail
+//notes:Checking that you don't need any perks to get listed in DIM as a favourite weapon 
+dimwishlist:item=407150810
