@@ -1,0 +1,40 @@
+title:PvE Podcast 151 Edge of Fate Pinnacle weapons
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Lionfish-4fr - PvE Minors god AB 1
+// (Arrowhead Brake, Chambered Compensator, Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (Enhanced Battery, Particle Repeater), (Proximity Power), (Swashbuckler)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for use against bulkier minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. Lionfish-4fr is the rapid-fire replacement for the Riptide that's probably been gathering dust in your vault. At base, by comparison with its peers, the stats are good, and that's helped further at Tier 4/5 when barrel and battery perks are enhanced - d2foundry.gg calculates that Range of 21 translates to 11.58m hipfire and 15.05m ADS before damage drop-off, 33 Stability is ×1.0162 flinch resistance, 53 Handling is 0.42s ready, 0.32s ADS and 0.29s stow speed, 46 Reload Speed is a 2.05s reload (1.64s when empty, with the rapid-fire frame intrinsic), Magazine Size is 7 (max 8) and total ammo is 23. With rapid fire fusion rifles shooting 9 bolts, you might need some help with controlling recoil from the barrel perk, and you can use the battery perk either bump up battery size or help control the recoil with a little extra stability. or melee builds, in the first trait perk column, Proximity Power can stack three times to provide +15 (+18 when enhanced) to your Melee stat per stack - a total a +45 (+54) for 10s, refreshable on further kills. In the second column, for damage, Swashbuckler is a natural pairing for an up to ×1.33 damage bonus for 4.5s (6.5s enhanced) after a melee kill. The Problem Solver Origin Trait is very good for PvE when facing orange and yellow bars - 11 bolts hitting (easy to do with two shots) will proc to exhaust them and reduce damage output to ×0.75 for 5s and grant +50 to Reload Speed and Handling for 10s. Otherwise, for add clearing rolls, Veist Stinger has a 10% chance to refill 25% of your base battery on a hit. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller)
+dimwishlist:item=2423071981&perks=839105230,2680121939,4190679284,4082225868
+dimwishlist:item=2423071981&perks=839105230,3868766766,4190679284,4082225868
+dimwishlist:item=2423071981&perks=839105230,1483536627,4190679284,4082225868
+dimwishlist:item=2423071981&perks=3661387068,2680121939,4190679284,4082225868
+dimwishlist:item=2423071981&perks=3661387068,3868766766,4190679284,4082225868
+dimwishlist:item=2423071981&perks=3661387068,1483536627,4190679284,4082225868
+dimwishlist:item=2423071981&perks=1840239774,2680121939,4190679284,4082225868
+dimwishlist:item=2423071981&perks=1840239774,3868766766,4190679284,4082225868
+dimwishlist:item=2423071981&perks=1840239774,1483536627,4190679284,4082225868
+dimwishlist:item=2423071981&perks=1392496348,2680121939,4190679284,4082225868
+dimwishlist:item=2423071981&perks=1392496348,3868766766,4190679284,4082225868
+dimwishlist:item=2423071981&perks=1392496348,1483536627,4190679284,4082225868
+dimwishlist:item=2423071981&perks=4090651448,2680121939,4190679284,4082225868
+dimwishlist:item=2423071981&perks=4090651448,3868766766,4190679284,4082225868
+dimwishlist:item=2423071981&perks=4090651448,1483536627,4190679284,4082225868
+
+
+// Outrageous Fortune - PvE Minor god AB 1
+// (Quick Launch, Smart Drift Control), (Spike Grenades, Mini Frags, Augmented Drum), (Envious Arsenal), (Bait and Switch)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for crowd controlling large groups of Minor adds in both general at-level or better, and end-game underleveled content. Outrageous Fortune has had a glow-up since it first appeared in Season 4 and, as a rapid-fire grenade launcher is in the stronger subfamily for damage output offering better ammo reserves and a ×0.8 reload scalar when the mag's empty. At base, by comparison with its peers, the stats aren't great, but can be improved at Tier 4/5 when barrel and battery perks are enhanced - d2foundry.gg calculates that 50 Velocity translates to 48.80m/s, 29 Stability is ×1.0112 flinch resistance, 25 Handling is 0.48s ready, 0.45s ADS and 0.43s stow speed, 20 Reload Speed is a 3.66s reload (2.93s with the frame intrinsic when the mag's empty), Magazine Size is 5 (max 8) and total ammo is 29 (max 30). The Handling could definitely do with improving with the barrel perk. In the magazine perk slot, Spike Grenades does still boost impact damage by ×1.125 (which is a ×1.033 damage boost overall), but options that increase magazine size are worth considering as well. While not maybe the best use of a heavy weapon, if you did want to have a crowd control roll, then in the first trait perk column you could use Incandescent to spread +30 Scorch stacks to adds within 4m on a Minor add kill (+45 stacks within 8m for orange and yellow bars), with scorch stacks increased by ×1.5 using Ember of Ashes. Another way to go, for grenade builds is Blast Distributor which stacks up to ×5 through explosive damage, with each stack adding +10 to your grenade stat (+13 when enhanced) for 5s - so a max of +50 (+65 enhanced) pretty much on demand. For maximum booms, Chain Reaction explosions on kills in the second column extends the lethal radius by another 3m for both. The Problem Solver Origin Trait is very good for PvE when facing orange and yellow bars - 3 hits (with both impact and explosive damage counting as separate hits, that's two grenades) will proc to exhaust them and reduce damage output to ×0.75 for 5s and grant +50 to Reload Speed and Handling for 10s. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4146673634&perks=3525010810,3301904089,4293542123,2396489472
+dimwishlist:item=4146673634&perks=3525010810,3301904089,1017229899,2396489472
+dimwishlist:item=4146673634&perks=3525010810,332133599,4293542123,2396489472
+dimwishlist:item=4146673634&perks=3525010810,332133599,1017229899,2396489472
+dimwishlist:item=4146673634&perks=3525010810,1771897777,4293542123,2396489472
+dimwishlist:item=4146673634&perks=3525010810,1771897777,1017229899,2396489472
+dimwishlist:item=4146673634&perks=3798852852,3301904089,4293542123,2396489472
+dimwishlist:item=4146673634&perks=3798852852,3301904089,1017229899,2396489472
+dimwishlist:item=4146673634&perks=3798852852,332133599,4293542123,2396489472
+dimwishlist:item=4146673634&perks=3798852852,332133599,1017229899,2396489472
+dimwishlist:item=4146673634&perks=3798852852,1771897777,4293542123,2396489472
+dimwishlist:item=4146673634&perks=3798852852,1771897777,1017229899,2396489472
+
+
