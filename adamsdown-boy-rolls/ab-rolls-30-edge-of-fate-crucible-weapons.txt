@@ -1,0 +1,134 @@
+title:PvE Podcast 152 Edge of Fate Crucible weapons
+@description:Additional rolls that extend the podcast rolls, or rolls that weren't included
+
+// Auric Disabler - PvE Minor god AB 1
+// (Smallbore, Fluted Barrel, Corkscrew Rifling), (Hight-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), (Dragonfly, Hatchling), (Tear)
+//Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE roll for use against Minor adds in general at-level or better content. Auric Disabler's precision frame intrinsic means ×0.8 yaw recoil, so recoil is essentially vertical. At base, by comparison with its peers, the stats are good, which is improved further at Tier 4/5 when barrel and mag perks are enhanced - d2foundry.gg calculates that 63 Range equates to 18.63m hipfire and 29.80m ADS before damage dropoff, 46 Stability is ×1.0813 flinch resist, 46 Handling is 0.39s ready, 0.30s ADS and 0.36s stow speed, 48 Reload Speed is 1.84s reload and Magazine Size is 40 (max 45). You can be quite flexible with the barrel perk choice, and look for a little extra Handling and Range. In the magazine perk slot, there are the combat effect mags or look to boost Reload Speed. There aren't any reload options in the first trait perk column, but you can roll an AoE Damage perk with with either Dragonfly for a 4.5m explosion, or Hatchling to spawn a Threadling on a crit kill. Both of those proc on the same crit kill as Tear, which spreads AoE sever to reduce damage output to ×0.6 from enemies affected. If you're interested "Auric" means of, relating to, or derived from gold. The Fleet Footed Origin Trait's additional Airborne Effectiveness and Movement Speed are more of a PvP perk. Roar of Battle's +10 Handling and Stability is better, but unspectacular or for compulsive reloaders, Omolon Fluid Dynamics boost Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=702001725&perks=1482024992,1561002382,2848615171,960997401
+dimwishlist:item=702001725&perks=1482024992,1561002382,831391274,960997401
+dimwishlist:item=702001725&perks=1482024992,1968497646,2848615171,960997401
+dimwishlist:item=702001725&perks=1482024992,1968497646,831391274,960997401
+dimwishlist:item=702001725&perks=1482024992,1885400500,2848615171,960997401
+dimwishlist:item=702001725&perks=1482024992,1885400500,831391274,960997401
+dimwishlist:item=702001725&perks=1482024992,1431678320,2848615171,960997401
+dimwishlist:item=702001725&perks=1482024992,1431678320,831391274,960997401
+dimwishlist:item=702001725&perks=1482024992,3230963543,2848615171,960997401
+dimwishlist:item=702001725&perks=1482024992,3230963543,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,1561002382,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,1561002382,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,1968497646,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,1968497646,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,1885400500,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,1885400500,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,1431678320,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,1431678320,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,3230963543,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,3230963543,831391274,960997401
+dimwishlist:item=702001725&perks=4090651448,1561002382,2848615171,960997401
+dimwishlist:item=702001725&perks=4090651448,1561002382,831391274,960997401
+dimwishlist:item=702001725&perks=4090651448,1968497646,2848615171,960997401
+dimwishlist:item=702001725&perks=4090651448,1968497646,831391274,960997401
+dimwishlist:item=702001725&perks=4090651448,1885400500,2848615171,960997401
+dimwishlist:item=702001725&perks=4090651448,1885400500,831391274,960997401
+dimwishlist:item=702001725&perks=4090651448,1431678320,2848615171,960997401
+dimwishlist:item=702001725&perks=4090651448,1431678320,831391274,960997401
+dimwishlist:item=702001725&perks=4090651448,3230963543,2848615171,960997401
+dimwishlist:item=702001725&perks=4090651448,3230963543,831391274,960997401
+
+
+// Aureus Neutralizer - PvE Major god AB 1
+// (Full Choke, Barrel Shroud, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag), (Threat Remover, Threat Detector, Proximity Power), (Trench Barrel)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Major enemies in both general at-level or better, and end-game underleveled content, particularly with a melee build. Aureus Neutralizer is the second spread shot hand cannon - sitting in the kinetic slot. At base, by comparison with its peers, the stats are good, which is improved further at Tier 4/5 when barrel and mag perks are enhanced - but unfortunately d2foundry.gg hasn't yet work out the formula to translate weapon stats into in-game performance. Look for a little extra handling or a little extra range as a barrel perk. together with a magazine perk that boosts reload. For burst damage against Elites, Banes, Champions and Minibosses, you can roll double trait perk damage perks - Vorpal Weapon for ×1.2 damage against orange and yellow bars together with Desperate Measures for up to ×1.3 damage for weapon and ability kills or Trench Barrel for +30 Handling and Reload Speed together with ×1.5 damage for 5s or three shots - together, that's ×1.95 damage against beefier enemies. If you're interested an Aureus was the main gold coin of ancient Rome from the 1st century BC to the early 4th century AD. The Fleet Footed Origin Trait's additional Airborne Effectiveness and Movement Speed are more of a PvP perk. Roar of Battle's +10 Handling and Stability is better, but unspectacular or if you're encountering vehicles, constructs or Stasis crystals, Häkke Breach Armaments is good for extra free damage. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3981920134&perks=1300023272,106909392,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1300023272,106909392,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1300023272,1431678320,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1300023272,1431678320,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1300023272,3230963543,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1300023272,3230963543,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1300023272,1087426260,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1300023272,1087426260,1546637391,2360754333
+dimwishlist:item=3981920134&perks=4090651448,106909392,1546637391,2109543898
+dimwishlist:item=3981920134&perks=4090651448,106909392,1546637391,2360754333
+dimwishlist:item=3981920134&perks=4090651448,1431678320,1546637391,2109543898
+dimwishlist:item=3981920134&perks=4090651448,1431678320,1546637391,2360754333
+dimwishlist:item=3981920134&perks=4090651448,3230963543,1546637391,2109543898
+dimwishlist:item=3981920134&perks=4090651448,3230963543,1546637391,2360754333
+dimwishlist:item=3981920134&perks=4090651448,1087426260,1546637391,2109543898
+dimwishlist:item=3981920134&perks=4090651448,1087426260,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1482024992,106909392,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1482024992,106909392,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1482024992,1431678320,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1482024992,1431678320,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1482024992,3230963543,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1482024992,3230963543,1546637391,2360754333
+dimwishlist:item=3981920134&perks=1482024992,1087426260,1546637391,2109543898
+dimwishlist:item=3981920134&perks=1482024992,1087426260,1546637391,2360754333
+
+
+// Aisha's Embrace - PvE Minor god AB 1
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Vorpal Weapon), (Desperate Measures)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE roll for dealing with beefier Minor adds in general at-level or better content. This is the third version of Aisha's Embrace, with the frame intrinsic offering a ×0.8 animation scalar when reloading from an empty mag. At base, by comparison with its peers, the stats are good, which is improved further at Tier 4/5 when barrel and mag perks are enhanced - d2foundry.gg calculates that 34 Range equates to 35.58m hipfire and 71.16m ADS before damage dropoff, 46 Stability is ×1.0650 flinch resist, 26 Handling is 0.47s ready, 0.37s ADS and 0.45s stow speed, 35 Reload Speed is 2.27s reload (1.82s with the frame intrinsic when empty) and Magazine Size is 17 (max 20). With the fire rate, Controllers might need some help with taming the recoil, but otherwise the two weapon stats that need the most help from the barrel and mag perks are Handling and Reload Speed. For an all-purpose roll to use against a mix of enemies, there's the double perk combination of Vorpal Weapon and Desperate Measures. DM gives you up to ×1.3 damage for weapon and ability kills for a refreshable 7s (7.5s when enhanced) which is good for red bars, but then if you see an orange or yellow-bar enemy, Vorpal Weapon is a flat, always-on ×1.2 damage boost against them. When both are active, that's a total ×1.56 damage against majors and boss category enemies. If you're interested, Aisha was a human Hunter and a close friend of Shayura, who, along with Reed-7, comprised a fireteam that faced a mysterious entity in Old Chicago, according to the Wild Hunt Vest armour description. The Fleet Footed Origin Trait's additional Airborne Effectiveness and Movement Speed are more of a PvP perk. Roar of Battle's +10 Handling and Stability is better, but unspectacular. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=3709368142&perks=839105230,106909392,1546637391,2109543898
+dimwishlist:item=3709368142&perks=839105230,1431678320,1546637391,2109543898
+dimwishlist:item=3709368142&perks=839105230,3230963543,1546637391,2109543898
+dimwishlist:item=3709368142&perks=839105230,1087426260,1546637391,2109543898
+dimwishlist:item=3709368142&perks=3661387068,106909392,1546637391,2109543898
+dimwishlist:item=3709368142&perks=3661387068,1431678320,1546637391,2109543898
+dimwishlist:item=3709368142&perks=3661387068,3230963543,1546637391,2109543898
+dimwishlist:item=3709368142&perks=3661387068,1087426260,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1392496348,106909392,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1392496348,1431678320,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1392496348,3230963543,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1392496348,1087426260,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1840239774,106909392,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1840239774,1431678320,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1840239774,3230963543,1546637391,2109543898
+dimwishlist:item=3709368142&perks=1840239774,1087426260,1546637391,2109543898
+
+
+// Forgiveness - PvE Minor good AB 1
+// (Fluted Barrel, Polygonal Rifling, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), (Proximity Power), (Surrounded, Desperate Measures)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-MinorSpec M+KB Controller): Backup PvE roll for dealing with groups of Minor adds in general at-level or better content. The Heavy Burst frame Forgiveness means it's towards the bottom of the sidearm subfamilies for enemy damage, unfortunately and like all primary ammo sidearms it lives in the shadow of the micro-missile frame varieties. At base, by comparison with its peers, the stats are good, which is improved further at Tier 4/5 when barrel and mag perks are enhanced - d2foundry.gg calculates that 45 Range equates to 12.80m hipfire and 15.36m ADS before damage dropoff, 41 Stability is ×1.0525 flinch resist, 39 Handling is 0.32s ready, 0.26s ADS and 0.35s stow speed, 24 Reload Speed is 1.86s reload and Magazine Size is 24 (max 38) - firing two bullets per trigger pull, that's 12 shots. The range is very compressed on sidearms, so go for a barrel perk that provids Stability on Controller or Handling on M+KB. For the magazine, use a combat effect perk or look for something that boosts Reload Speed. Although not as useful is in the past, for grenade builds, there are the trait perk combinations of Demolitionist, in the first column for chunk grenade ability energy on kills and an instant magazine refill on grenade use. You can use that with Adrenaline Junkie for an up to ×1.33 damage for 4.5s (5s when enhanced) or Desperate Measures for up to ×1.3 damage with weapon and ability kills. The Fleet Footed Origin Trait's additional Airborne Effectiveness and Movement Speed are more of a PvP perk. Roar of Battle's +10 Handling and Stability is better, but unspectacular. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec M+KB Controller
+dimwishlist:item=1552443158&perks=1840239774,1561002382,3523296417,11612903
+dimwishlist:item=1552443158&perks=1840239774,1561002382,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1840239774,1968497646,3523296417,11612903
+dimwishlist:item=1552443158&perks=1840239774,1968497646,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1840239774,1885400500,3523296417,11612903
+dimwishlist:item=1552443158&perks=1840239774,1885400500,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1840239774,1431678320,3523296417,11612903
+dimwishlist:item=1552443158&perks=1840239774,1431678320,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=1552443158&perks=1840239774,3230963543,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1392496348,1561002382,3523296417,11612903
+dimwishlist:item=1552443158&perks=1392496348,1561002382,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1392496348,1968497646,3523296417,11612903
+dimwishlist:item=1552443158&perks=1392496348,1968497646,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1392496348,1885400500,3523296417,11612903
+dimwishlist:item=1552443158&perks=1392496348,1885400500,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1392496348,1431678320,3523296417,11612903
+dimwishlist:item=1552443158&perks=1392496348,1431678320,3523296417,2109543898
+dimwishlist:item=1552443158&perks=1392496348,3230963543,3523296417,11612903
+dimwishlist:item=1552443158&perks=1392496348,3230963543,3523296417,2109543898
+dimwishlist:item=1552443158&perks=4090651448,1561002382,3523296417,11612903
+dimwishlist:item=1552443158&perks=4090651448,1561002382,3523296417,2109543898
+dimwishlist:item=1552443158&perks=4090651448,1968497646,3523296417,11612903
+dimwishlist:item=1552443158&perks=4090651448,1968497646,3523296417,2109543898
+dimwishlist:item=1552443158&perks=4090651448,1885400500,3523296417,11612903
+dimwishlist:item=1552443158&perks=4090651448,1885400500,3523296417,2109543898
+dimwishlist:item=1552443158&perks=4090651448,1431678320,3523296417,11612903
+dimwishlist:item=1552443158&perks=4090651448,1431678320,3523296417,2109543898
+dimwishlist:item=1552443158&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=1552443158&perks=4090651448,3230963543,3523296417,2109543898
+
+
+// Unwavering Duty - PvE Minor god AB 1
+// (Arrowhead Brake, Fluted Barrel, Polygonal Rifling), (Extended Mag, Appended Mag), (Rampage), (Killing Tally)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First choice PvE roll for dealing with Minor add mobs and beefier enemies in both general at-level or better, and end-game underleveled content. Unwavering Duty is an adaptive frame, which is unfortunately towards the bottom of the LMG subfamily (3rd out of 4) for damage output. At base, by comparison with its peers, the stats are decent, and are improved further at Tier 4/5 when barrel and mag perks are enhanced - d2foundry.gg calculates that 58 Range equates to 29.79m hipfire and 47.67m ADS before damage dropoff, 60 Stability is ×1.1000 flinch resist, 50 Handling is a 0.38s ready, 0.40s ADS and 0.35s stow speed and 64 Reload Speed is a 4.54s reload. According to MossyMax's spreadsheet on destiny.science, Magazine Size is 55 (max 75) and total ammo is 375 (max 379). With the barrel perk, control the recoil to make crits easier, while maximise mag size with the magazine perk. If you want to mow through Minor add mobs, you can use roll double damage trait perks In the first column, Rampage provides up to ×1.331 damage for 4.5s (5s when enhanced) after three kills. In the second column, Killing Tally boosts damage by up to ×1.3 after 3 kills until you stow or reload. Proc both at the same time, and that's a ×1.7303 boost to damage. The Fleet Footed Origin Trait's additional Airborne Effectiveness and Movement Speed are more of a PvP perk. Roar of Battle's +10 Handling and Stability is better, but unspectacular, or there's Suros Synergy which procs on a reload to provide +40 Handling and ×1.2 Flinch Resistance for 6s. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3489054606&perks=839105230,2420895100,3425386926,557221067
+dimwishlist:item=3489054606&perks=839105230,1087426260,3425386926,557221067
+dimwishlist:item=3489054606&perks=1840239774,2420895100,3425386926,557221067
+dimwishlist:item=3489054606&perks=1840239774,1087426260,3425386926,557221067
+dimwishlist:item=3489054606&perks=1392496348,2420895100,3425386926,557221067
+dimwishlist:item=3489054606&perks=1392496348,1087426260,3425386926,557221067
+
+
