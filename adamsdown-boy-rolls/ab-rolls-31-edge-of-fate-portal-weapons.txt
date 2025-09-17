@@ -1,0 +1,19 @@
+title:Edge of Fate Portal weapons
+@description:Additional PvE Podcast 153 Part 2 rolls that extend the roll lists, or rolls that weren't included
+
+// Aurora Dawn - PvE Majors god AB 1
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard), (Sharp Harvest, Flash Counter), (Whirlwind Blade, Elemental Honing, Binary Orbit)
+//notes:Adamsdown_Boy written as at v9.0.0.8 (PvE PvE-Boss PvE-Utility PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE utility roll for CQC Boss damage in both general at-level or better, and end-game underleveled content, particularly with Stasis builds. Aurora Dawn is a wave frame, so the heavy wave attack costs 4 ammo with an extra 1 for the optional targeted follow-up. At base, by comparison with its peers, the stats look good - Impact and Charge Rate are both highest in the subfamily, and they're improved further at Tier 4/5 when blade and guard perks are enhanced - see https://d2foundry.gg/w/2111625436 for how the weapon stats impact in-game performance. Base total ammo is 66 (max 77). Use the blade perk to maximise damage and Swordmaster's Guard guard perk improves Charge Rate by +10 for the heavy attack. For a utility roll for both controlling ad crowds, orange bars and lower tier yellow bars, there's the combination of Flash Counter and Cold Steel. Flash Counter which emits a damaging Stasis blast in an 8m long cone in front of you that disorients enemies for 5s when you block damage while guarding, with the cone applying +60 Slow stacks to enemies for 4.25s from Cold Steel. On its own, Cold Steel applies +40 Slow stacks on a light attack and +60 with a heavy attack, so a wave attack plus a follow up light attack will freeze an enemy, which you can use fragments to synergise with on a Stasis build. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. Recommended MW: Impact, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-Utility PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2111625436&perks=3666208348,52780822,2244851822,3650930298
+dimwishlist:item=2111625436&perks=3666208348,3625355092,2244851822,3650930298
+dimwishlist:item=2111625436&perks=3666208348,599007201,2244851822,3650930298
+dimwishlist:item=2111625436&perks=3666208348,2349202967,2244851822,3650930298
+dimwishlist:item=2111625436&perks=2827049491,52780822,2244851822,3650930298
+dimwishlist:item=2111625436&perks=2827049491,3625355092,2244851822,3650930298
+dimwishlist:item=2111625436&perks=2827049491,599007201,2244851822,3650930298
+dimwishlist:item=2111625436&perks=2827049491,2349202967,2244851822,3650930298
+dimwishlist:item=2111625436&perks=938542991,52780822,2244851822,3650930298
+dimwishlist:item=2111625436&perks=938542991,3625355092,2244851822,3650930298
+dimwishlist:item=2111625436&perks=938542991,599007201,2244851822,3650930298
+dimwishlist:item=2111625436&perks=938542991,2349202967,2244851822,3650930298
+
