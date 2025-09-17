@@ -1,0 +1,221 @@
+title:PvE Podcast 153 Part 2 Edge of Fate Portal weapons
+description:Season 27 Portal activity weapons with the Vanguard Determination Origin Trait
+
+// Mercury-A - PvE Minor god 1
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Attrition Orbs), (Kinetic Tremors)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Mercury-A is the first of a new bow subfamily - high-impact longbows - whose frame intrinsic is to overpenetrate targets, like Armor-Piercing Rounds. There aren't really any peers to assess against - the weapon has higher impact and stability (so a longer perfect draw window), but longer draw time and worse attributes in every other respect, although that's helped at Tier 4/5 when bowstring and arrow perks are enhanced - see https://d2foundry.gg/w/2838279629 for how the weapon stats impact in-game performance. You'll definitely need to use the bowstring perk to improve Draw Time, and the arrow perk to recover any lost Accuracy or improve Reload Speed to improve the time before you're ready to shoot again. For an all-round roll there's a useful interaction in the trait perk combination of Attrition Orbs to spawn a power orb after 5 hits within 5s of each other, to help super generation and proc armour mods and Kinetic Tremors to emit three 6m Aoe kinetic shockwaves after 3 crit hits (2 when enhanced) emits three 6m AoE kinetic shockwaves after 3 crit hits (2 when enhanced) which are treated as weapon damage and inherit damage boosts, and also procs weapon effects like proccing Attrition Orbs' orb generation. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Vanguard Vindication provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. There's also Häkke Breach Armaments for an additional ×1.15 damage against vehicles, ×1.3 damage against constructs and ×1.45 damage against stasis crystals. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2838279629&perks=2801223209,3429800428,243981275,3891536761
+dimwishlist:item=2838279629&perks=2801223209,3827198035,243981275,3891536761
+dimwishlist:item=2838279629&perks=2801223209,3311977193,243981275,3891536761
+dimwishlist:item=2838279629&perks=2801223209,16392701,243981275,3891536761
+dimwishlist:item=2838279629&perks=852209214,3429800428,243981275,3891536761
+dimwishlist:item=2838279629&perks=852209214,3827198035,243981275,3891536761
+dimwishlist:item=2838279629&perks=852209214,3311977193,243981275,3891536761
+dimwishlist:item=2838279629&perks=852209214,16392701,243981275,3891536761
+dimwishlist:item=2838279629&perks=4067834857,3429800428,243981275,3891536761
+dimwishlist:item=2838279629&perks=4067834857,3827198035,243981275,3891536761
+dimwishlist:item=2838279629&perks=4067834857,3311977193,243981275,3891536761
+dimwishlist:item=2838279629&perks=4067834857,16392701,243981275,3891536761
+
+// Mercury-A - PvE Minor god 2
+// (Elastic String, Polymer String, Flexible String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Attrition Orbs), (Kinetic Tremors)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Mercury-A is the first of a new bow subfamily - high-impact longbows - whose frame intrinsic is to overpenetrate targets, like Armor-Piercing Rounds. There aren't really any peers to assess against - the weapon has higher impact and stability (so a longer perfect draw window), but longer draw time and worse attributes in every other respect, although that's helped at Tier 4/5 when bowstring and arrow perks are enhanced - see https://d2foundry.gg/w/2838279629 for how the weapon stats impact in-game performance. You'll definitely need to use the bowstring perk to improve Draw Time, and the arrow perk to recover any lost Accuracy or improve Reload Speed to improve the time before you're ready to shoot again. In the absence of Archer's Tempo in the first trait perk column to help with Draw Time, there is Successful Warm-Up which applies a ×0.625 scalar after a kill for 6s, with further kills adding 4s (5s when enhanced) at a time to a maximum of 20s or until stowed. In the second column, you can pair that with Kinetic Tremors to emit three 6m AoE kinetic shockwaves after 3 crit hits (2 enhanced). On Prismatic, there's also Elemental Honing which grants an escalating stack of damage up to ×1.4 for 20s (23s enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Vanguard Vindication provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. There's also Häkke Breach Armaments for an additional ×1.15 damage against vehicles, ×1.3 damage against constructs and ×1.45 damage against stasis crystals. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2838279629&perks=2801223209,3429800428,2652708987,3891536761
+dimwishlist:item=2838279629&perks=2801223209,3429800428,2652708987,1089671869
+dimwishlist:item=2838279629&perks=2801223209,3827198035,2652708987,3891536761
+dimwishlist:item=2838279629&perks=2801223209,3827198035,2652708987,1089671869
+dimwishlist:item=2838279629&perks=2801223209,3311977193,2652708987,3891536761
+dimwishlist:item=2838279629&perks=2801223209,3311977193,2652708987,1089671869
+dimwishlist:item=2838279629&perks=2801223209,16392701,2652708987,3891536761
+dimwishlist:item=2838279629&perks=2801223209,16392701,2652708987,1089671869
+dimwishlist:item=2838279629&perks=852209214,3429800428,2652708987,3891536761
+dimwishlist:item=2838279629&perks=852209214,3429800428,2652708987,1089671869
+dimwishlist:item=2838279629&perks=852209214,3827198035,2652708987,3891536761
+dimwishlist:item=2838279629&perks=852209214,3827198035,2652708987,1089671869
+dimwishlist:item=2838279629&perks=852209214,3311977193,2652708987,3891536761
+dimwishlist:item=2838279629&perks=852209214,3311977193,2652708987,1089671869
+dimwishlist:item=2838279629&perks=852209214,16392701,2652708987,3891536761
+dimwishlist:item=2838279629&perks=852209214,16392701,2652708987,1089671869
+dimwishlist:item=2838279629&perks=4067834857,3429800428,2652708987,3891536761
+dimwishlist:item=2838279629&perks=4067834857,3429800428,2652708987,1089671869
+dimwishlist:item=2838279629&perks=4067834857,3827198035,2652708987,3891536761
+dimwishlist:item=2838279629&perks=4067834857,3827198035,2652708987,1089671869
+dimwishlist:item=2838279629&perks=4067834857,3311977193,2652708987,3891536761
+dimwishlist:item=2838279629&perks=4067834857,3311977193,2652708987,1089671869
+dimwishlist:item=2838279629&perks=4067834857,16392701,2652708987,3891536761
+dimwishlist:item=2838279629&perks=4067834857,16392701,2652708987,1089671869
+
+
+// Qua Nilus II - PvE Minor god 1
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell), (Proximity Power), (Surrounded, Swashbuckler, Binary Orbit)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. As an adaptive frame SMG, Qua Nilus III is mid-tier for PvE damage output and has a bit of an unfocused pool of trait perks. The weapon stats look very good compared to its peers - and that's helped further at Tier 4/5 when bowstring and arrow perks are enhanced - see https://d2foundry.gg/w/190747610 for how the weapon stats impact in-game performance. You can use pretty much any barrel perk to boost your preferred stat that doesn't apply a malus. In the magazine perk slot, look for an option to boost Reload Speed. Within the useful range of SMGs, CQC trait perks shine - in the first column, Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. In the second column, for damage, there's either Surrounded which procs while within 15m of 3+ enemies to boost damage by up to ×1.4 (×1.47 enhanced), or use the melee stacks with Swashbuckler for up to ×5 stacks for ×1.33 damage on kills, with a melee kill giving 5 stacks, for a refreshable 4.5s (5s when enhanced). Another option would be to use melee stacks with an arc/solar/void melee to proc Binary Orbit to provide a ×1.25 damage boost for 8.5s (10.5s enhanced) on any elemental kill of the opposite type. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. There's also the fun Wild Card for the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy. If you're interested, "Qua Nilus" is badly translated Latin for "Where the Nile" - maybe Cassoid needs to hire better translators in its marketing department. Recommended MW: any, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=190747610&perks=1840239774,106909392,4190679284,3708227201
+dimwishlist:item=190747610&perks=1840239774,106909392,4190679284,4082225868
+dimwishlist:item=190747610&perks=1840239774,106909392,4190679284,1546142478
+dimwishlist:item=190747610&perks=1840239774,1431678320,4190679284,3708227201
+dimwishlist:item=190747610&perks=1840239774,1431678320,4190679284,4082225868
+dimwishlist:item=190747610&perks=1840239774,1431678320,4190679284,1546142478
+dimwishlist:item=190747610&perks=1840239774,3230963543,4190679284,3708227201
+dimwishlist:item=190747610&perks=1840239774,3230963543,4190679284,4082225868
+dimwishlist:item=190747610&perks=1840239774,3230963543,4190679284,1546142478
+dimwishlist:item=190747610&perks=1482024992,106909392,4190679284,3708227201
+dimwishlist:item=190747610&perks=1482024992,106909392,4190679284,4082225868
+dimwishlist:item=190747610&perks=1482024992,106909392,4190679284,1546142478
+dimwishlist:item=190747610&perks=1482024992,1431678320,4190679284,3708227201
+dimwishlist:item=190747610&perks=1482024992,1431678320,4190679284,4082225868
+dimwishlist:item=190747610&perks=1482024992,1431678320,4190679284,1546142478
+dimwishlist:item=190747610&perks=1482024992,3230963543,4190679284,3708227201
+dimwishlist:item=190747610&perks=1482024992,3230963543,4190679284,4082225868
+dimwishlist:item=190747610&perks=1482024992,3230963543,4190679284,1546142478
+dimwishlist:item=190747610&perks=4090651448,106909392,4190679284,3708227201
+dimwishlist:item=190747610&perks=4090651448,106909392,4190679284,4082225868
+dimwishlist:item=190747610&perks=4090651448,106909392,4190679284,1546142478
+dimwishlist:item=190747610&perks=4090651448,1431678320,4190679284,3708227201
+dimwishlist:item=190747610&perks=4090651448,1431678320,4190679284,4082225868
+dimwishlist:item=190747610&perks=4090651448,1431678320,4190679284,1546142478
+dimwishlist:item=190747610&perks=4090651448,3230963543,4190679284,3708227201
+dimwishlist:item=190747610&perks=4090651448,3230963543,4190679284,4082225868
+dimwishlist:item=190747610&perks=4090651448,3230963543,4190679284,1546142478
+dimwishlist:item=190747610&perks=839105230,106909392,4190679284,3708227201
+dimwishlist:item=190747610&perks=839105230,106909392,4190679284,4082225868
+dimwishlist:item=190747610&perks=839105230,106909392,4190679284,1546142478
+dimwishlist:item=190747610&perks=839105230,1431678320,4190679284,3708227201
+dimwishlist:item=190747610&perks=839105230,1431678320,4190679284,4082225868
+dimwishlist:item=190747610&perks=839105230,1431678320,4190679284,1546142478
+dimwishlist:item=190747610&perks=839105230,3230963543,4190679284,3708227201
+dimwishlist:item=190747610&perks=839105230,3230963543,4190679284,4082225868
+dimwishlist:item=190747610&perks=839105230,3230963543,4190679284,1546142478
+dimwishlist:item=190747610&perks=1392496348,106909392,4190679284,3708227201
+dimwishlist:item=190747610&perks=1392496348,106909392,4190679284,4082225868
+dimwishlist:item=190747610&perks=1392496348,106909392,4190679284,1546142478
+dimwishlist:item=190747610&perks=1392496348,1431678320,4190679284,3708227201
+dimwishlist:item=190747610&perks=1392496348,1431678320,4190679284,4082225868
+dimwishlist:item=190747610&perks=1392496348,1431678320,4190679284,1546142478
+dimwishlist:item=190747610&perks=1392496348,3230963543,4190679284,3708227201
+dimwishlist:item=190747610&perks=1392496348,3230963543,4190679284,4082225868
+dimwishlist:item=190747610&perks=1392496348,3230963543,4190679284,1546142478
+dimwishlist:item=190747610&perks=3250034553,106909392,4190679284,3708227201
+dimwishlist:item=190747610&perks=3250034553,106909392,4190679284,4082225868
+dimwishlist:item=190747610&perks=3250034553,106909392,4190679284,1546142478
+dimwishlist:item=190747610&perks=3250034553,1431678320,4190679284,3708227201
+dimwishlist:item=190747610&perks=3250034553,1431678320,4190679284,4082225868
+dimwishlist:item=190747610&perks=3250034553,1431678320,4190679284,1546142478
+dimwishlist:item=190747610&perks=3250034553,3230963543,4190679284,3708227201
+dimwishlist:item=190747610&perks=3250034553,3230963543,4190679284,4082225868
+dimwishlist:item=190747610&perks=3250034553,3230963543,4190679284,1546142478
+
+// Qua Nilus II - PvE Minor god 2
+// (Fluted Barrel, Smallbore, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell), (Proximity Power), (Surrounded, Swashbuckler)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Strand build. As an adaptive frame SMG, Qua Nilus III is mid-tier for PvE damage output and has a bit of an unfocused pool of trait perks. The weapon stats look very good compared to its peers - and that's helped further at Tier 4/5 when bowstring and arrow perks are enhanced - see https://d2foundry.gg/w/190747610 for how the weapon stats impact in-game performance. You can use pretty much any barrel perk to boost your preferred stat that doesn't apply a malus. In the magazine perk slot, look for an option to boost Reload Speed. For Strand builds, there's the trait perk pairing of Slice, which procs for 8s (9s when enhanced) after using a class ability, to apply Sever for 10s - 15s with Thread of Continuity - on up to 5 targets. Hitting the same target twice refreshes the timer. Use that with Hatchling, which spawns a Threadling on a crit kill or three crit hits within 3s of each other to use with Thread of Evolution. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. There's also the fun Wild Card for the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy. If you're interested, "Qua Nilus" is badly translated Latin for "Where the Nile" - maybe Cassoid needs to hire better translators in its marketing department. Recommended MW: any, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=190747610&perks=1840239774,106909392,923806249,831391274
+dimwishlist:item=190747610&perks=1840239774,1431678320,923806249,831391274
+dimwishlist:item=190747610&perks=1840239774,3230963543,923806249,831391274
+dimwishlist:item=190747610&perks=1482024992,106909392,923806249,831391274
+dimwishlist:item=190747610&perks=1482024992,1431678320,923806249,831391274
+dimwishlist:item=190747610&perks=1482024992,3230963543,923806249,831391274
+dimwishlist:item=190747610&perks=4090651448,106909392,923806249,831391274
+dimwishlist:item=190747610&perks=4090651448,1431678320,923806249,831391274
+dimwishlist:item=190747610&perks=4090651448,3230963543,923806249,831391274
+dimwishlist:item=190747610&perks=839105230,106909392,923806249,831391274
+dimwishlist:item=190747610&perks=839105230,1431678320,923806249,831391274
+dimwishlist:item=190747610&perks=839105230,3230963543,923806249,831391274
+dimwishlist:item=190747610&perks=1392496348,106909392,923806249,831391274
+dimwishlist:item=190747610&perks=1392496348,1431678320,923806249,831391274
+dimwishlist:item=190747610&perks=1392496348,3230963543,923806249,831391274
+dimwishlist:item=190747610&perks=3250034553,106909392,923806249,831391274
+dimwishlist:item=190747610&perks=3250034553,1431678320,923806249,831391274
+dimwishlist:item=190747610&perks=3250034553,3230963543,923806249,831391274
+
+// Boomslang-4fr - PvE Boss god 1
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator), (Enhanced Battery, Accelerated Coils), (Field Prep, Envious Arsenal, Rapid Hit), (Precision Instrument, Jolting Feedback)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for sustained boss DPS in both general at-level or better, and end-game underleveled content. LFRs aren't currently the meta for boss damage at the time of writing but, if you're looking for one that's a featured Edge of Fate weapon, Boomslang-4fr is the only game in town. The weapon stats look decent compared to its peers - and that's helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3926153598 for how the weapon stats impact in-game performance. At base, the battery holds 5 shots (max 6), and total ammo is 21. To keep the three-round burst on target, use the barrel perk to control recoil. For the battery perk, Enhanced Battery will maximise your shots or Accelerated Coils improves charge time and slightly increases DPS at the cost of less total damage. The trat perk set isn't ideal for boss damage, with no way to overflow the battery or passively refill it while shooting. In the first trait perk column, to help with reloads, Envious Arsenal refills the magazine from reserves on dealing damage with both of your other weapons (and bumps Ammo Generation by +20 when enhanced), Field Prep grants +50 Reload Speed with a ×0.8 animation scalar to both reload and ready/stow when crouched and bumps Ammo Generation by +30 (+55 Reload Speed and +40 Ammo Generation enhanced), or Rapid Hit stacks up to 5 times on crit hits for +25 Stability and +60 Reload Speed with a ×0.92 animation multiplier for a refreshable 2s. In the second column, for damage, Precision Instrument repeated crit hits grant escalating damage up to ×1.25 at 6 stacks (×1.3 when enhanced) for 1.25s or until you miss a crit. Alternatively, Jolting Feedback applies Jolt after 3 hits - the last shot of a single burst - to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. More usefully, Veist Stinger provides a 10% chance per hit to refill 25% of the battery. If you're interested, the boomslang is a highly venomous snake in the family Colubridae, native to Sub-Saharan Africa. Recommended MW: any, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3926153598&perks=839105230,2680121939,3987942396,555281244
+dimwishlist:item=3926153598&perks=839105230,2680121939,3987942396,3966416502
+dimwishlist:item=3926153598&perks=839105230,2680121939,2869569095,555281244
+dimwishlist:item=3926153598&perks=839105230,2680121939,2869569095,3966416502
+dimwishlist:item=3926153598&perks=839105230,2680121939,247725512,555281244
+dimwishlist:item=3926153598&perks=839105230,2680121939,247725512,3966416502
+dimwishlist:item=3926153598&perks=839105230,689005463,3987942396,555281244
+dimwishlist:item=3926153598&perks=839105230,689005463,3987942396,3966416502
+dimwishlist:item=3926153598&perks=839105230,689005463,2869569095,555281244
+dimwishlist:item=3926153598&perks=839105230,689005463,2869569095,3966416502
+dimwishlist:item=3926153598&perks=839105230,689005463,247725512,555281244
+dimwishlist:item=3926153598&perks=839105230,689005463,247725512,3966416502
+dimwishlist:item=3926153598&perks=1392496348,2680121939,3987942396,555281244
+dimwishlist:item=3926153598&perks=1392496348,2680121939,3987942396,3966416502
+dimwishlist:item=3926153598&perks=1392496348,2680121939,2869569095,555281244
+dimwishlist:item=3926153598&perks=1392496348,2680121939,2869569095,3966416502
+dimwishlist:item=3926153598&perks=1392496348,2680121939,247725512,555281244
+dimwishlist:item=3926153598&perks=1392496348,2680121939,247725512,3966416502
+dimwishlist:item=3926153598&perks=1392496348,689005463,3987942396,555281244
+dimwishlist:item=3926153598&perks=1392496348,689005463,3987942396,3966416502
+dimwishlist:item=3926153598&perks=1392496348,689005463,2869569095,555281244
+dimwishlist:item=3926153598&perks=1392496348,689005463,2869569095,3966416502
+dimwishlist:item=3926153598&perks=1392496348,689005463,247725512,555281244
+dimwishlist:item=3926153598&perks=1392496348,689005463,247725512,3966416502
+dimwishlist:item=3926153598&perks=3661387068,2680121939,3987942396,555281244
+dimwishlist:item=3926153598&perks=3661387068,2680121939,3987942396,3966416502
+dimwishlist:item=3926153598&perks=3661387068,2680121939,2869569095,555281244
+dimwishlist:item=3926153598&perks=3661387068,2680121939,2869569095,3966416502
+dimwishlist:item=3926153598&perks=3661387068,2680121939,247725512,555281244
+dimwishlist:item=3926153598&perks=3661387068,2680121939,247725512,3966416502
+dimwishlist:item=3926153598&perks=3661387068,689005463,3987942396,555281244
+dimwishlist:item=3926153598&perks=3661387068,689005463,3987942396,3966416502
+dimwishlist:item=3926153598&perks=3661387068,689005463,2869569095,555281244
+dimwishlist:item=3926153598&perks=3661387068,689005463,2869569095,3966416502
+dimwishlist:item=3926153598&perks=3661387068,689005463,247725512,555281244
+dimwishlist:item=3926153598&perks=3661387068,689005463,247725512,3966416502
+
+// Boomslang-4fr - PvE Major god 1
+// (Arrowhead Brake, Polygonal Rifling, Chambered Compensator), (Enhanced Battery, Accelerated Coils), (Field Prep, Envious Arsenal, Rapid Hit), (Precision Instrument, Jolting Feedback)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. LFRs are sort of mid-tier for damage output, but if you're looking for one that's a featured Edge of Fate weapon Boomslang-4fr is the only game in town. The weapon stats look decent compared to its peers - and that's helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3926153598 for how the weapon stats impact in-game performance. At base, the battery holds 5 shots (max 6), and total ammo is 21. To keep the three-round burst on target, use the barrel perk to control recoil. For the battery perk, Enhanced Battery will maximise your shots or Accelerated Coils improves charge time and slightly increases DPS at the cost of less total damage. In the first trait perk column, to help with reloads, Field Prep grants +50 Reload Speed with a ×0.8 animation scalar to both reload and ready/stow when crouched and bumps Ammo Generation by +30 (+55 Reload Speed and +40 Ammo Generation enhanced), or Rapid Hit stacks up to 5 times on crit hits for +25 Stability and +60 Reload Speed with a ×0.92 animation multiplier for a refreshable 2s. In the second column, for damage, Binary Orbit provides a ×1.25 damage boost for 8.5s (10.5s enhanced) after a kill with an opposing elemental alignment. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. More usefully, Veist Stinger provides a 10% chance per hit to refill 25% of the battery. If you're interested, the boomslang is a highly venomous snake in the family Colubridae, native to Sub-Saharan Africa. Recommended MW: any, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3926153598&perks=839105230,2680121939,2869569095,1546142478
+dimwishlist:item=3926153598&perks=839105230,2680121939,247725512,1546142478
+dimwishlist:item=3926153598&perks=839105230,689005463,2869569095,1546142478
+dimwishlist:item=3926153598&perks=839105230,689005463,247725512,1546142478
+dimwishlist:item=3926153598&perks=1392496348,2680121939,2869569095,1546142478
+dimwishlist:item=3926153598&perks=1392496348,2680121939,247725512,1546142478
+dimwishlist:item=3926153598&perks=1392496348,689005463,2869569095,1546142478
+dimwishlist:item=3926153598&perks=1392496348,689005463,247725512,1546142478
+dimwishlist:item=3926153598&perks=3661387068,2680121939,2869569095,1546142478
+dimwishlist:item=3926153598&perks=3661387068,2680121939,247725512,1546142478
+dimwishlist:item=3926153598&perks=3661387068,689005463,2869569095,1546142478
+dimwishlist:item=3926153598&perks=3661387068,689005463,247725512,1546142478
+
+
+// Aurora Dawn - PvE Boss god 1
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard), (Sharp Harvest, Flash Counter), (Whirlwind Blade, Elemental Honing, Binary Orbit)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC Boss damage in both general at-level or better, and end-game underleveled content. Aurora Dawn is a wave frame, so the heavy wave attack costs 4 ammo with an extra 1 for the optional targeted follow-up. At base, by comparison with its peers, the stats look good - Impact and Charge Rate are both highest in the subfamily, and they're improved further at Tier 4/5 when blade and guard perks are enhanced - see https://d2foundry.gg/w/2111625436 for how the weapon stats impact in-game performance. Base total ammo is 66 (max 77). Use the blade perk to maximise damage and Swordmaster's Guard guard perk improves Charge Rate by +10 for the heavy attack. Swords may not be the current meta for CQC boss damage, but if you want to tuck away a roll just in case, there's no first column trait perk to refund ammo, but Sharp Harvest returns 5% of special ammo reserves for 3 hits within ~1.5s (~2.0s when enhanced) or, if you're occasionally blocking against boss damage, Flash Counter emits a damaging Stasis blast in an 8m long cone in front of you that disorients enemies for 5s. For damage in the second column there's some viable options. Whirlwind Blade applies a stacking damage buff on hits within 3.5s of each other up to ×10 for ×1.3 damage. On a Transcendent subclass Elemental Honing grants an escalating stack of damage up to ×1.35 for 20s (23s enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5. For shorter damage windows, Binary Orbit provides a ×1.25 damage boost for 8.5s (10.5s enhanced) on any elemental kill of the opposite type. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. Recommended MW: Impact, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2111625436&perks=3666208348,269888150,4132187021,3913600130
+dimwishlist:item=2111625436&perks=3666208348,269888150,4132187021,1089671869
+dimwishlist:item=2111625436&perks=3666208348,269888150,4132187021,1546142478
+dimwishlist:item=2111625436&perks=3666208348,269888150,2244851822,3913600130
+dimwishlist:item=2111625436&perks=3666208348,269888150,2244851822,1089671869
+dimwishlist:item=2111625436&perks=3666208348,269888150,2244851822,1546142478
+dimwishlist:item=2111625436&perks=2827049491,269888150,4132187021,3913600130
+dimwishlist:item=2111625436&perks=2827049491,269888150,4132187021,1089671869
+dimwishlist:item=2111625436&perks=2827049491,269888150,4132187021,1546142478
+dimwishlist:item=2111625436&perks=2827049491,269888150,2244851822,3913600130
+dimwishlist:item=2111625436&perks=2827049491,269888150,2244851822,1089671869
+dimwishlist:item=2111625436&perks=2827049491,269888150,2244851822,1546142478
+dimwishlist:item=2111625436&perks=938542991,269888150,4132187021,3913600130
+dimwishlist:item=2111625436&perks=938542991,269888150,4132187021,1089671869
+dimwishlist:item=2111625436&perks=938542991,269888150,4132187021,1546142478
+dimwishlist:item=2111625436&perks=938542991,269888150,2244851822,3913600130
+dimwishlist:item=2111625436&perks=938542991,269888150,2244851822,1089671869
+dimwishlist:item=2111625436&perks=938542991,269888150,2244851822,1546142478
+
+// Aurora Dawn - PvE Minors god 1
+// (Jagged Edge, Honed Edge, Tempered Edge), (Swordmaster's Guard), (Sharp Harvest, Flash Counter), (Whirlwind Blade, Elemental Honing, Binary Orbit)
+//notes:Inspired by @PodvsEnemies episode 153 from 9 September 2025 (https://open.spotify.com/episode/6iEksMDGzT5euNuMAEqnVm?si=a9bf49987cdb441a) with @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-Utility PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC add clearing in both general at-level or better, and end-game underleveled content. Aurora Dawn is a wave frame, so the heavy wave attack costs 4 ammo with an extra 1 for the optional targeted follow-up. At base, by comparison with its peers, the stats look good - Impact and Charge Rate are both highest in the subfamily, and they're improved further at Tier 4/5 when blade and guard perks are enhanced - see https://d2foundry.gg/w/2111625436 for how the weapon stats impact in-game performance. Base total ammo is 66 (max 77). Use the blade perk to maximise damage and Swordmaster's Guard guard perk improves Charge Rate by +10 for the heavy attack. For a utility roll for both controlling add crowds, in the first trait perk column, Tireless Blade returns one ammo for killing every other enemy, Sharp Harvest returns 5% of special ammo reserves for 3 hits within ~1.5s (~2.0s when enhanced) or Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. In the second column, for CQC damage, One For All boosts damage by ×1.35 for a non-refreshable 10s after hitting three separate targets within 3s of each. The Vanguard Vindication Origin Trait provides up to 3 stacks of ×0.98/0.96/0.94 damage reduction for 10s, for kills within 20s of using a class ability. Recommended MW: Impact, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-Utility PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2111625436&perks=3666208348,269888150,2590710093,4049631843
+dimwishlist:item=2111625436&perks=3666208348,269888150,4132187021,4049631843
+dimwishlist:item=2111625436&perks=3666208348,269888150,4190679284,4049631843
+dimwishlist:item=2111625436&perks=2827049491,269888150,2590710093,4049631843
+dimwishlist:item=2111625436&perks=2827049491,269888150,4132187021,4049631843
+dimwishlist:item=2111625436&perks=2827049491,269888150,4190679284,4049631843
+dimwishlist:item=2111625436&perks=938542991,269888150,2590710093,4049631843
+dimwishlist:item=2111625436&perks=938542991,269888150,4132187021,4049631843
+dimwishlist:item=2111625436&perks=938542991,269888150,4190679284,4049631843
+
+
