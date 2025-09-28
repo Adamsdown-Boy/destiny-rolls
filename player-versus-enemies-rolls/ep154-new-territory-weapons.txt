@@ -1,0 +1,583 @@
+title:PvE Podcast 154 New Territory weapons
+description:Season 27 Ash and Iron Reclaim activity weapons discussed in the 9 September 2025 @PodvsEnemies Podcast episode 154 (https://open.spotify.com/episode/04etEnHfXSiCS39mjUyXsO?si=5251bf5c4e7441cd)
+
+// Romantic Death - PvE Minors god 1
+dimwishlist:item=4169082039
+dimwishlist:item=2979965244
+dimwishlist:item=2979965245
+dimwishlist:item=2979965246
+dimwishlist:item=2979965247
+
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Proximity Power, Threat Detector, (Surrounded)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in CQC in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/4169082039 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few CQC-procced trait perks to choose from. In the first column, Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. Alternatively, when you're within 15m of 1/2+ enemies, Threat Detector adds +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Surrounded procs to boost damage by up to ×1.4 (×1.47 when enhanced) while within 15m of 3+ enemies. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4169082039&perks=3525010810,2822142346,4190679284,3708227201
+dimwishlist:item=4169082039&perks=3525010810,2822142346,4071163871,3708227201
+dimwishlist:item=4169082039&perks=3798852852,2822142346,4190679284,3708227201
+dimwishlist:item=4169082039&perks=3798852852,2822142346,4071163871,3708227201
+dimwishlist:item=4169082039&perks=1478423395,2822142346,4190679284,3708227201
+dimwishlist:item=4169082039&perks=1478423395,2822142346,4071163871,3708227201
+dimwishlist:item=4169082039&perks=1441682018,2822142346,4190679284,3708227201
+dimwishlist:item=4169082039&perks=1441682018,2822142346,4071163871,3708227201
+
+// Romantic Death - PvE Minors god 2
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Feeding Frenzy, Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/4169082039 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few reload trait perks in the first column - with Feeding Frenzy, kills provide up to 5 stacks for +8/50/60/75/100 Reload Speed (+13/50/60/85/100 when enhanced) with a 0.975/0.95/0.87/0.84/0.8 animation scalar for 3.5s or Stats for All Stats For All boosts +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, ×1.05 damage dropoff distance for a non-refreshable 10s after hitting three separate targets within 3s of each. that's the same proccing condition and duration as One For All to boost damage by ×1.35. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4169082039&perks=3525010810,2822142346,2779035018,4049631843
+dimwishlist:item=4169082039&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=4169082039&perks=3798852852,2822142346,2779035018,4049631843
+dimwishlist:item=4169082039&perks=3798852852,2822142346,1583705720,4049631843
+dimwishlist:item=4169082039&perks=1478423395,2822142346,2779035018,4049631843
+dimwishlist:item=4169082039&perks=1478423395,2822142346,1583705720,4049631843
+dimwishlist:item=4169082039&perks=1441682018,2822142346,2779035018,4049631843
+dimwishlist:item=4169082039&perks=1441682018,2822142346,1583705720,4049631843
+
+// Romantic Death - PvE Minors god 3
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Repulsor Brace), (Destabilizing Rounds)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with groups of Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Void build. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/4169082039 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. As with most current void weapons, you have Repulsor Brace in the first trait perk column to provide a Void overshield for 8s (10s when enhanced) after killing a void-debuffed enemy - duration boosted by ×1.5 with Echo of Persistence. In the second, to apply the void debuff, Destabilizing Rounds spreads Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 4.5s (5.25s when enhanced). The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4169082039&perks=3525010810,2822142346,776531651,2048641572
+dimwishlist:item=4169082039&perks=3798852852,2822142346,776531651,2048641572
+dimwishlist:item=4169082039&perks=1478423395,2822142346,776531651,2048641572
+dimwishlist:item=4169082039&perks=1441682018,2822142346,776531651,2048641572
+
+// Romantic Death - PvE Majors god 1
+//notes: // (Quick Launch, Smart Drift Control), (Threat Detector), (Repulsor Brace), (Aggregate Charge)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against beefier adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/4169082039 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. For a burst damage weapon aimed at a single target, you'll need a reload perk that doesn't proc on kills - with Threat Detector when you're within 15m of 1/2+ enemies, you'll get +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Aggregate Charge provides up to ×3 stacks of elemental debuffs on a target to boost damage by ×1.1/1.2/1.3 which lasts as long as the debuff is applied. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4169082039&perks=3525010810,2822142346,4071163871,3764420437
+dimwishlist:item=4169082039&perks=3798852852,2822142346,4071163871,3764420437
+dimwishlist:item=4169082039&perks=1478423395,2822142346,4071163871,3764420437
+dimwishlist:item=4169082039&perks=1441682018,2822142346,4071163871,3764420437
+
+
+// Romantic Death - PvE Minors god 1
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Proximity Power, Threat Detector, (Surrounded)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in CQC in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965244 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few CQC-procced trait perks to choose from. In the first column, Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. Alternatively, when you're within 15m of 1/2+ enemies, Threat Detector adds +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Surrounded procs to boost damage by up to ×1.4 (×1.47 when enhanced) while within 15m of 3+ enemies. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965244&perks=3525010810,2822142346,4190679284,3708227201
+dimwishlist:item=2979965244&perks=3525010810,2822142346,4071163871,3708227201
+dimwishlist:item=2979965244&perks=3798852852,2822142346,4190679284,3708227201
+dimwishlist:item=2979965244&perks=3798852852,2822142346,4071163871,3708227201
+dimwishlist:item=2979965244&perks=1478423395,2822142346,4190679284,3708227201
+dimwishlist:item=2979965244&perks=1478423395,2822142346,4071163871,3708227201
+dimwishlist:item=2979965244&perks=1441682018,2822142346,4190679284,3708227201
+dimwishlist:item=2979965244&perks=1441682018,2822142346,4071163871,3708227201
+
+// Romantic Death - PvE Minors god 2
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Feeding Frenzy, Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965244 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few reload trait perks in the first column - with Feeding Frenzy, kills provide up to 5 stacks for +8/50/60/75/100 Reload Speed (+13/50/60/85/100 when enhanced) with a 0.975/0.95/0.87/0.84/0.8 animation scalar for 3.5s or Stats for All Stats For All boosts +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, ×1.05 damage dropoff distance for a non-refreshable 10s after hitting three separate targets within 3s of each. that's the same proccing condition and duration as One For All to boost damage by ×1.35. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965244&perks=3525010810,2822142346,2779035018,4049631843
+dimwishlist:item=2979965244&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=2979965244&perks=3798852852,2822142346,2779035018,4049631843
+dimwishlist:item=2979965244&perks=3798852852,2822142346,1583705720,4049631843
+dimwishlist:item=2979965244&perks=1478423395,2822142346,2779035018,4049631843
+dimwishlist:item=2979965244&perks=1478423395,2822142346,1583705720,4049631843
+dimwishlist:item=2979965244&perks=1441682018,2822142346,2779035018,4049631843
+dimwishlist:item=2979965244&perks=1441682018,2822142346,1583705720,4049631843
+
+// Romantic Death - PvE Minors god 3
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Repulsor Brace), (Destabilizing Rounds)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with groups of Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Void build. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965244 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. As with most current void weapons, you have Repulsor Brace in the first trait perk column to provide a Void overshield for 8s (10s when enhanced) after killing a void-debuffed enemy - duration boosted by ×1.5 with Echo of Persistence. In the second, to apply the void debuff, Destabilizing Rounds spreads Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 4.5s (5.25s when enhanced). The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965244&perks=3525010810,2822142346,776531651,2048641572
+dimwishlist:item=2979965244&perks=3798852852,2822142346,776531651,2048641572
+dimwishlist:item=2979965244&perks=1478423395,2822142346,776531651,2048641572
+dimwishlist:item=2979965244&perks=1441682018,2822142346,776531651,2048641572
+
+// Romantic Death - PvE Majors god 1
+//notes: // (Quick Launch, Smart Drift Control), (Threat Detector), (Repulsor Brace), (Aggregate Charge)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against beefier adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965244 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. For a burst damage weapon aimed at a single target, you'll need a reload perk that doesn't proc on kills - with Threat Detector when you're within 15m of 1/2+ enemies, you'll get +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Aggregate Charge provides up to ×3 stacks of elemental debuffs on a target to boost damage by ×1.1/1.2/1.3 which lasts as long as the debuff is applied. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965244&perks=3525010810,2822142346,4071163871,3764420437
+dimwishlist:item=2979965244&perks=3798852852,2822142346,4071163871,3764420437
+dimwishlist:item=2979965244&perks=1478423395,2822142346,4071163871,3764420437
+dimwishlist:item=2979965244&perks=1441682018,2822142346,4071163871,3764420437
+
+
+// Romantic Death - PvE Minors god 1
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Proximity Power, Threat Detector, (Surrounded)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in CQC in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965245 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few CQC-procced trait perks to choose from. In the first column, Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. Alternatively, when you're within 15m of 1/2+ enemies, Threat Detector adds +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Surrounded procs to boost damage by up to ×1.4 (×1.47 when enhanced) while within 15m of 3+ enemies. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965245&perks=3525010810,2822142346,4190679284,3708227201
+dimwishlist:item=2979965245&perks=3525010810,2822142346,4071163871,3708227201
+dimwishlist:item=2979965245&perks=3798852852,2822142346,4190679284,3708227201
+dimwishlist:item=2979965245&perks=3798852852,2822142346,4071163871,3708227201
+dimwishlist:item=2979965245&perks=1478423395,2822142346,4190679284,3708227201
+dimwishlist:item=2979965245&perks=1478423395,2822142346,4071163871,3708227201
+dimwishlist:item=2979965245&perks=1441682018,2822142346,4190679284,3708227201
+dimwishlist:item=2979965245&perks=1441682018,2822142346,4071163871,3708227201
+
+// Romantic Death - PvE Minors god 2
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Feeding Frenzy, Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965245 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few reload trait perks in the first column - with Feeding Frenzy, kills provide up to 5 stacks for +8/50/60/75/100 Reload Speed (+13/50/60/85/100 when enhanced) with a 0.975/0.95/0.87/0.84/0.8 animation scalar for 3.5s or Stats for All Stats For All boosts +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, ×1.05 damage dropoff distance for a non-refreshable 10s after hitting three separate targets within 3s of each. that's the same proccing condition and duration as One For All to boost damage by ×1.35. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965245&perks=3525010810,2822142346,2779035018,4049631843
+dimwishlist:item=2979965245&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=2979965245&perks=3798852852,2822142346,2779035018,4049631843
+dimwishlist:item=2979965245&perks=3798852852,2822142346,1583705720,4049631843
+dimwishlist:item=2979965245&perks=1478423395,2822142346,2779035018,4049631843
+dimwishlist:item=2979965245&perks=1478423395,2822142346,1583705720,4049631843
+dimwishlist:item=2979965245&perks=1441682018,2822142346,2779035018,4049631843
+dimwishlist:item=2979965245&perks=1441682018,2822142346,1583705720,4049631843
+
+// Romantic Death - PvE Minors god 3
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Repulsor Brace), (Destabilizing Rounds)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with groups of Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Void build. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965245 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. As with most current void weapons, you have Repulsor Brace in the first trait perk column to provide a Void overshield for 8s (10s when enhanced) after killing a void-debuffed enemy - duration boosted by ×1.5 with Echo of Persistence. In the second, to apply the void debuff, Destabilizing Rounds spreads Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 4.5s (5.25s when enhanced). The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965245&perks=3525010810,2822142346,776531651,2048641572
+dimwishlist:item=2979965245&perks=3798852852,2822142346,776531651,2048641572
+dimwishlist:item=2979965245&perks=1478423395,2822142346,776531651,2048641572
+dimwishlist:item=2979965245&perks=1441682018,2822142346,776531651,2048641572
+
+// Romantic Death - PvE Majors god 1
+//notes: // (Quick Launch, Smart Drift Control), (Threat Detector), (Repulsor Brace), (Aggregate Charge)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against beefier adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965245 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. For a burst damage weapon aimed at a single target, you'll need a reload perk that doesn't proc on kills - with Threat Detector when you're within 15m of 1/2+ enemies, you'll get +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Aggregate Charge provides up to ×3 stacks of elemental debuffs on a target to boost damage by ×1.1/1.2/1.3 which lasts as long as the debuff is applied. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965245&perks=3525010810,2822142346,4071163871,3764420437
+dimwishlist:item=2979965245&perks=3798852852,2822142346,4071163871,3764420437
+dimwishlist:item=2979965245&perks=1478423395,2822142346,4071163871,3764420437
+dimwishlist:item=2979965245&perks=1441682018,2822142346,4071163871,3764420437
+
+
+// Romantic Death - PvE Minors god 1
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Proximity Power, Threat Detector, (Surrounded)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in CQC in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965246 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few CQC-procced trait perks to choose from. In the first column, Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. Alternatively, when you're within 15m of 1/2+ enemies, Threat Detector adds +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Surrounded procs to boost damage by up to ×1.4 (×1.47 when enhanced) while within 15m of 3+ enemies. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965246&perks=3525010810,2822142346,4190679284,3708227201
+dimwishlist:item=2979965246&perks=3525010810,2822142346,4071163871,3708227201
+dimwishlist:item=2979965246&perks=3798852852,2822142346,4190679284,3708227201
+dimwishlist:item=2979965246&perks=3798852852,2822142346,4071163871,3708227201
+dimwishlist:item=2979965246&perks=1478423395,2822142346,4190679284,3708227201
+dimwishlist:item=2979965246&perks=1478423395,2822142346,4071163871,3708227201
+dimwishlist:item=2979965246&perks=1441682018,2822142346,4190679284,3708227201
+dimwishlist:item=2979965246&perks=1441682018,2822142346,4071163871,3708227201
+
+// Romantic Death - PvE Minors god 2
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Feeding Frenzy, Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965246 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few reload trait perks in the first column - with Feeding Frenzy, kills provide up to 5 stacks for +8/50/60/75/100 Reload Speed (+13/50/60/85/100 when enhanced) with a 0.975/0.95/0.87/0.84/0.8 animation scalar for 3.5s or Stats for All Stats For All boosts +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, ×1.05 damage dropoff distance for a non-refreshable 10s after hitting three separate targets within 3s of each. that's the same proccing condition and duration as One For All to boost damage by ×1.35. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965246&perks=3525010810,2822142346,2779035018,4049631843
+dimwishlist:item=2979965246&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=2979965246&perks=3798852852,2822142346,2779035018,4049631843
+dimwishlist:item=2979965246&perks=3798852852,2822142346,1583705720,4049631843
+dimwishlist:item=2979965246&perks=1478423395,2822142346,2779035018,4049631843
+dimwishlist:item=2979965246&perks=1478423395,2822142346,1583705720,4049631843
+dimwishlist:item=2979965246&perks=1441682018,2822142346,2779035018,4049631843
+dimwishlist:item=2979965246&perks=1441682018,2822142346,1583705720,4049631843
+
+// Romantic Death - PvE Minors god 3
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Repulsor Brace), (Destabilizing Rounds)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with groups of Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Void build. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965246 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. As with most current void weapons, you have Repulsor Brace in the first trait perk column to provide a Void overshield for 8s (10s when enhanced) after killing a void-debuffed enemy - duration boosted by ×1.5 with Echo of Persistence. In the second, to apply the void debuff, Destabilizing Rounds spreads Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 4.5s (5.25s when enhanced). The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965246&perks=3525010810,2822142346,776531651,2048641572
+dimwishlist:item=2979965246&perks=3798852852,2822142346,776531651,2048641572
+dimwishlist:item=2979965246&perks=1478423395,2822142346,776531651,2048641572
+dimwishlist:item=2979965246&perks=1441682018,2822142346,776531651,2048641572
+
+// Romantic Death - PvE Majors god 1
+//notes: // (Quick Launch, Smart Drift Control), (Threat Detector), (Repulsor Brace), (Aggregate Charge)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against beefier adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965246 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. For a burst damage weapon aimed at a single target, you'll need a reload perk that doesn't proc on kills - with Threat Detector when you're within 15m of 1/2+ enemies, you'll get +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Aggregate Charge provides up to ×3 stacks of elemental debuffs on a target to boost damage by ×1.1/1.2/1.3 which lasts as long as the debuff is applied. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965246&perks=3525010810,2822142346,4071163871,3764420437
+dimwishlist:item=2979965246&perks=3798852852,2822142346,4071163871,3764420437
+dimwishlist:item=2979965246&perks=1478423395,2822142346,4071163871,3764420437
+dimwishlist:item=2979965246&perks=1441682018,2822142346,4071163871,3764420437
+
+
+// Romantic Death - PvE Minors god 1
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Proximity Power, Threat Detector, (Surrounded)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in CQC in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965247 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few CQC-procced trait perks to choose from. In the first column, Proximity Power stacks up ×3 times to provide +15 (+18 when enhanced) to your Melee attribute per stack on kills when another enemy's within 15m - a total a +45 (+54) for a refreshable 10s on further kills, so you can invest stat points into other armour attributes. Alternatively, when you're within 15m of 1/2+ enemies, Threat Detector adds +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Surrounded procs to boost damage by up to ×1.4 (×1.47 when enhanced) while within 15m of 3+ enemies. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965247&perks=3525010810,2822142346,4190679284,3708227201
+dimwishlist:item=2979965247&perks=3525010810,2822142346,4071163871,3708227201
+dimwishlist:item=2979965247&perks=3798852852,2822142346,4190679284,3708227201
+dimwishlist:item=2979965247&perks=3798852852,2822142346,4071163871,3708227201
+dimwishlist:item=2979965247&perks=1478423395,2822142346,4190679284,3708227201
+dimwishlist:item=2979965247&perks=1478423395,2822142346,4071163871,3708227201
+dimwishlist:item=2979965247&perks=1441682018,2822142346,4190679284,3708227201
+dimwishlist:item=2979965247&perks=1441682018,2822142346,4071163871,3708227201
+
+// Romantic Death - PvE Minors god 2
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Feeding Frenzy, Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with Minor adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965247 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. You have a few reload trait perks in the first column - with Feeding Frenzy, kills provide up to 5 stacks for +8/50/60/75/100 Reload Speed (+13/50/60/85/100 when enhanced) with a 0.975/0.95/0.87/0.84/0.8 animation scalar for 3.5s or Stats for All Stats For All boosts +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, ×1.05 damage dropoff distance for a non-refreshable 10s after hitting three separate targets within 3s of each. that's the same proccing condition and duration as One For All to boost damage by ×1.35. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965247&perks=3525010810,2822142346,2779035018,4049631843
+dimwishlist:item=2979965247&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=2979965247&perks=3798852852,2822142346,2779035018,4049631843
+dimwishlist:item=2979965247&perks=3798852852,2822142346,1583705720,4049631843
+dimwishlist:item=2979965247&perks=1478423395,2822142346,2779035018,4049631843
+dimwishlist:item=2979965247&perks=1478423395,2822142346,1583705720,4049631843
+dimwishlist:item=2979965247&perks=1441682018,2822142346,2779035018,4049631843
+dimwishlist:item=2979965247&perks=1441682018,2822142346,1583705720,4049631843
+
+// Romantic Death - PvE Minors god 3
+//notes: // (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Repulsor Brace), (Destabilizing Rounds)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for dealing with groups of Minor adds in both general at-level or better, and end-game underleveled content, particularly with a Void build. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965247 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. As with most current void weapons, you have Repulsor Brace in the first trait perk column to provide a Void overshield for 8s (10s when enhanced) after killing a void-debuffed enemy - duration boosted by ×1.5 with Echo of Persistence. In the second, to apply the void debuff, Destabilizing Rounds spreads Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 4.5s (5.25s when enhanced). The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965247&perks=3525010810,2822142346,776531651,2048641572
+dimwishlist:item=2979965247&perks=3798852852,2822142346,776531651,2048641572
+dimwishlist:item=2979965247&perks=1478423395,2822142346,776531651,2048641572
+dimwishlist:item=2979965247&perks=1441682018,2822142346,776531651,2048641572
+
+// Romantic Death - PvE Majors god 1
+//notes: // (Quick Launch, Smart Drift Control), (Threat Detector), (Repulsor Brace), (Aggregate Charge)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against beefier adds in both general at-level or better, and end-game underleveled content. Romantic Death is the first void wave-frame grenade launcher since season 20 - the subfamily is overshadowed by area denial GLs, so maybe save one and hope they're given a bit of a buff. The stats are pretty average, except for a better Ammo Generation stat, and they're helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2979965247 for how the weapon stats impact in-game performance. Look to boost Handling or Blast Radius with the barrel perk - you'll be shooting at your feet, so Velocity is less important than with other GLs. Of the two Magazine perks, High-Velocity Rounds is the easy pick. For a burst damage weapon aimed at a single target, you'll need a reload perk that doesn't proc on kills - with Threat Detector when you're within 15m of 1/2+ enemies, you'll get +15/40 Stability (+19/44 when enhanced), +18/60 Reload Speed (+22/64 enhanced) with a ×0.9/0.81 animation scalar and +25/100 (+29/100 enhanced) Handling. For damage, Aggregate Charge provides up to ×3 stacks of elemental debuffs on a target to boost damage by ×1.1/1.2/1.3 which lasts as long as the debuff is applied. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Blast Radius, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2979965247&perks=3525010810,2822142346,4071163871,3764420437
+dimwishlist:item=2979965247&perks=3798852852,2822142346,4071163871,3764420437
+dimwishlist:item=2979965247&perks=1478423395,2822142346,4071163871,3764420437
+dimwishlist:item=2979965247&perks=1441682018,2822142346,4071163871,3764420437
+
+
+// Submersion - PvE Boss god 1
+dimwishlist:item=3524386983
+dimwishlist:item=1724104236
+
+// (Frictionless Rail, Quickload Rail), (Explosive Bolts, Charged Bolts, Spring-Auger Bolts, Serrated Bolts, Heavy Bolts), (Impulse Amplifier, Auto-Loading Holster, Bolt Scavenger), (Aggregate Charge, Firing Line, Collective Action)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for sustained damage against bosses in both general at-level or better, and end-game underleveled content, particularly if you're able to collect bolts from targets for effectively infinite ammo. Submersion is only the second high-impact crossbow, and the first that doesn't require a raid run to obtain. As a world drop, the stats aren't that good in comparison to Opaque Hourglass, but they're helped at Tier 4/5 when rail and bolt perks are enhanced - see https://d2foundry.gg/w/3524386983 for how the weapon stats impact in-game performance. It's early days with crossbows, but instinct says to boost Velocity or Reload Speed with the rail perk. There's something to be said for all of the bolt options - Explosive and Spring-Auger Bolts to generate flinch, Charged Bolts for damage over time, Serrated Bolts and Heavy Bolts for additional damage - although both require adapting your approach to make the most of. There are reload perks in the first trait perk column which work for different circumstances. First, Impulse Amplifier passively boosts projectile velocity by ×1.35, +20 Reload Speed (+25 when enhanced) with a ×0.85 animation scalar. Next, for weapon damage rotations, Auto-Loading Holster - refills the magazine 3.5s (3.3s enhanced) after stowing. The new Bolt Scavenger perk boosts Handling and Reload Speed for 4s after collecting a bolt - picking up additional bolts extend this by 3s each up to 15s max. It's worth noting that collecting a bolt will also pick up any other bolts within 2m. Finally Ensemble passively boosts Handling by +30 and Reload Speed by +40 (+35 and +45 enhanced) when you're within 15m of an ally. For damage, in the second column, Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by ×1.1/1.2/1.3, which lasts as long as the debuff is applied - so if you're using Tractor Cannon, that's two (Weaken and Suppress) and just add something like Sever or Unravel for the full boost. Alternatively, Firing Line boosts crit damage by ×1.2 when you're within 15m of two or more allies. The Contending Cascade Origin trait is a fun minigame. It's procced by chains of rapid kills within 4s of each other. These grant stacks to boost Handling and Reload Speed with the stack freezing once you fail to kill in time. You'll then start from scratch again - once you hit ×15 stacks, you'll hear a horn (yes, really) and the buff "Crowning Cascade" will proc to trigger a Dragonfly-type explosion on crit kills. Recommended MW: Reload Speed or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3524386983&perks=3786062476,3603807747,951095735,3764420437
+dimwishlist:item=3524386983&perks=3786062476,3603807747,951095735,1771339417
+dimwishlist:item=3524386983&perks=3786062476,3603807747,3300816228,3764420437
+dimwishlist:item=3524386983&perks=3786062476,3603807747,3300816228,1771339417
+dimwishlist:item=3524386983&perks=3786062476,3603807747,4042220767,3764420437
+dimwishlist:item=3524386983&perks=3786062476,3603807747,4042220767,1771339417
+dimwishlist:item=3524386983&perks=3786062476,3603807747,2621346526,3764420437
+dimwishlist:item=3524386983&perks=3786062476,3603807747,2621346526,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2955427634,951095735,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2955427634,951095735,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2955427634,3300816228,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2955427634,3300816228,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2955427634,4042220767,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2955427634,4042220767,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2955427634,2621346526,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2955427634,2621346526,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2136073194,951095735,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2136073194,951095735,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2136073194,3300816228,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2136073194,3300816228,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2136073194,4042220767,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2136073194,4042220767,1771339417
+dimwishlist:item=3524386983&perks=3786062476,2136073194,2621346526,3764420437
+dimwishlist:item=3524386983&perks=3786062476,2136073194,2621346526,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1069117426,951095735,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1069117426,951095735,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1069117426,3300816228,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1069117426,3300816228,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1069117426,4042220767,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1069117426,4042220767,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1069117426,2621346526,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1069117426,2621346526,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1202133695,951095735,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1202133695,951095735,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1202133695,3300816228,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1202133695,3300816228,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1202133695,4042220767,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1202133695,4042220767,1771339417
+dimwishlist:item=3524386983&perks=3786062476,1202133695,2621346526,3764420437
+dimwishlist:item=3524386983&perks=3786062476,1202133695,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4088731040,3603807747,951095735,3764420437
+dimwishlist:item=3524386983&perks=4088731040,3603807747,951095735,1771339417
+dimwishlist:item=3524386983&perks=4088731040,3603807747,3300816228,3764420437
+dimwishlist:item=3524386983&perks=4088731040,3603807747,3300816228,1771339417
+dimwishlist:item=3524386983&perks=4088731040,3603807747,4042220767,3764420437
+dimwishlist:item=3524386983&perks=4088731040,3603807747,4042220767,1771339417
+dimwishlist:item=3524386983&perks=4088731040,3603807747,2621346526,3764420437
+dimwishlist:item=3524386983&perks=4088731040,3603807747,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2955427634,951095735,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2955427634,951095735,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2955427634,3300816228,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2955427634,3300816228,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2955427634,4042220767,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2955427634,4042220767,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2955427634,2621346526,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2955427634,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2136073194,951095735,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2136073194,951095735,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2136073194,3300816228,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2136073194,3300816228,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2136073194,4042220767,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2136073194,4042220767,1771339417
+dimwishlist:item=3524386983&perks=4088731040,2136073194,2621346526,3764420437
+dimwishlist:item=3524386983&perks=4088731040,2136073194,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1069117426,951095735,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1069117426,951095735,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1069117426,3300816228,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1069117426,3300816228,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1069117426,4042220767,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1069117426,4042220767,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1069117426,2621346526,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1069117426,2621346526,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1202133695,951095735,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1202133695,951095735,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1202133695,3300816228,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1202133695,3300816228,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1202133695,4042220767,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1202133695,4042220767,1771339417
+dimwishlist:item=3524386983&perks=4088731040,1202133695,2621346526,3764420437
+dimwishlist:item=3524386983&perks=4088731040,1202133695,2621346526,1771339417
+
+// Submersion - PvE Majors god 1
+//notes: // (Frictionless Rail, Quickload Rail), (Explosive Bolts, Charged Bolts, Spring-Auger Bolts, Serrated Bolts, Heavy Bolts), (Impulse Amplifier, Auto-Loading Holster, Bolt Scavenger), (Aggregate Charge, Firing Line, Collective Action)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against bulkier enemies in both general at-level or better, and end-game underleveled content, particularly if you're able to collect bolts from targets for effectively infinite ammo. Submersion is only the second high-impact crossbow, and the first that doesn't require a raid run to obtain. As a world drop, the stats aren't that good in comparison to Opaque Hourglass, but they're helped at Tier 4/5 when rail and bolt perks are enhanced - see https://d2foundry.gg/w/3524386983 for how the weapon stats impact in-game performance. It's early days with crossbows, but instinct says to boost Velocity or Reload Speed with the rail perk. There's something to be said for all of the bolt options - Explosive and Spring-Auger Bolts to generate flinch, Charged Bolts for damage over time, Serrated Bolts and Heavy Bolts for additional damage - although both require adapting your approach to make the most of. There are reload perks in the first trait perk column which work for different circumstances. First, Impulse Amplifier passively boosts projectile velocity by ×1.35, +20 Reload Speed (+25 when enhanced) with a ×0.85 animation scalar. Next, to always have a shot ready, Auto-Loading Holster refills the magazine 3.5s (3.3s enhanced) after stowing. The new Bolt Scavenger perk boosts Handling and Reload Speed for 4s after collecting a bolt - picking up additional bolts extend this by 3s each up to 15s max. It's worth noting that collecting a bolt will also pick up any other bolts within 2m. In the second column, Collective Action boosts damage by ×1.2 after collecting an elemental pickup or throwing a strand tangle for 7s, refreshable up to a maximum 12s. For more of a utility roll, Chill Clip applies +60 stacks of slow per hit to enemies within 4m for 4s, so will freeze targets after 2 hits. The Contending Cascade Origin trait is a fun minigame. It's procced by chains of rapid kills within 4s of each other. These grant stacks to boost Handling and Reload Speed with the stack freezing once you fail to kill in time. You'll then start from scratch again - once you hit ×15 stacks, you'll hear a horn (yes, really) and the buff "Crowning Cascade" will proc to trigger a Dragonfly-type explosion on crit kills. Recommended MW: Reload Speed or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3524386983&perks=3786062476,3603807747,951095735,3324494224
+dimwishlist:item=3524386983&perks=3786062476,3603807747,951095735,2978966579
+dimwishlist:item=3524386983&perks=3786062476,3603807747,3300816228,3324494224
+dimwishlist:item=3524386983&perks=3786062476,3603807747,3300816228,2978966579
+dimwishlist:item=3524386983&perks=3786062476,3603807747,4042220767,3324494224
+dimwishlist:item=3524386983&perks=3786062476,3603807747,4042220767,2978966579
+dimwishlist:item=3524386983&perks=3786062476,2955427634,951095735,3324494224
+dimwishlist:item=3524386983&perks=3786062476,2955427634,951095735,2978966579
+dimwishlist:item=3524386983&perks=3786062476,2955427634,3300816228,3324494224
+dimwishlist:item=3524386983&perks=3786062476,2955427634,3300816228,2978966579
+dimwishlist:item=3524386983&perks=3786062476,2955427634,4042220767,3324494224
+dimwishlist:item=3524386983&perks=3786062476,2955427634,4042220767,2978966579
+dimwishlist:item=3524386983&perks=3786062476,2136073194,951095735,3324494224
+dimwishlist:item=3524386983&perks=3786062476,2136073194,951095735,2978966579
+dimwishlist:item=3524386983&perks=3786062476,2136073194,3300816228,3324494224
+dimwishlist:item=3524386983&perks=3786062476,2136073194,3300816228,2978966579
+dimwishlist:item=3524386983&perks=3786062476,2136073194,4042220767,3324494224
+dimwishlist:item=3524386983&perks=3786062476,2136073194,4042220767,2978966579
+dimwishlist:item=3524386983&perks=3786062476,1069117426,951095735,3324494224
+dimwishlist:item=3524386983&perks=3786062476,1069117426,951095735,2978966579
+dimwishlist:item=3524386983&perks=3786062476,1069117426,3300816228,3324494224
+dimwishlist:item=3524386983&perks=3786062476,1069117426,3300816228,2978966579
+dimwishlist:item=3524386983&perks=3786062476,1069117426,4042220767,3324494224
+dimwishlist:item=3524386983&perks=3786062476,1069117426,4042220767,2978966579
+dimwishlist:item=3524386983&perks=3786062476,1202133695,951095735,3324494224
+dimwishlist:item=3524386983&perks=3786062476,1202133695,951095735,2978966579
+dimwishlist:item=3524386983&perks=3786062476,1202133695,3300816228,3324494224
+dimwishlist:item=3524386983&perks=3786062476,1202133695,3300816228,2978966579
+dimwishlist:item=3524386983&perks=3786062476,1202133695,4042220767,3324494224
+dimwishlist:item=3524386983&perks=3786062476,1202133695,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4088731040,3603807747,951095735,3324494224
+dimwishlist:item=3524386983&perks=4088731040,3603807747,951095735,2978966579
+dimwishlist:item=3524386983&perks=4088731040,3603807747,3300816228,3324494224
+dimwishlist:item=3524386983&perks=4088731040,3603807747,3300816228,2978966579
+dimwishlist:item=3524386983&perks=4088731040,3603807747,4042220767,3324494224
+dimwishlist:item=3524386983&perks=4088731040,3603807747,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4088731040,2955427634,951095735,3324494224
+dimwishlist:item=3524386983&perks=4088731040,2955427634,951095735,2978966579
+dimwishlist:item=3524386983&perks=4088731040,2955427634,3300816228,3324494224
+dimwishlist:item=3524386983&perks=4088731040,2955427634,3300816228,2978966579
+dimwishlist:item=3524386983&perks=4088731040,2955427634,4042220767,3324494224
+dimwishlist:item=3524386983&perks=4088731040,2955427634,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4088731040,2136073194,951095735,3324494224
+dimwishlist:item=3524386983&perks=4088731040,2136073194,951095735,2978966579
+dimwishlist:item=3524386983&perks=4088731040,2136073194,3300816228,3324494224
+dimwishlist:item=3524386983&perks=4088731040,2136073194,3300816228,2978966579
+dimwishlist:item=3524386983&perks=4088731040,2136073194,4042220767,3324494224
+dimwishlist:item=3524386983&perks=4088731040,2136073194,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4088731040,1069117426,951095735,3324494224
+dimwishlist:item=3524386983&perks=4088731040,1069117426,951095735,2978966579
+dimwishlist:item=3524386983&perks=4088731040,1069117426,3300816228,3324494224
+dimwishlist:item=3524386983&perks=4088731040,1069117426,3300816228,2978966579
+dimwishlist:item=3524386983&perks=4088731040,1069117426,4042220767,3324494224
+dimwishlist:item=3524386983&perks=4088731040,1069117426,4042220767,2978966579
+dimwishlist:item=3524386983&perks=4088731040,1202133695,951095735,3324494224
+dimwishlist:item=3524386983&perks=4088731040,1202133695,951095735,2978966579
+dimwishlist:item=3524386983&perks=4088731040,1202133695,3300816228,3324494224
+dimwishlist:item=3524386983&perks=4088731040,1202133695,3300816228,2978966579
+dimwishlist:item=3524386983&perks=4088731040,1202133695,4042220767,3324494224
+dimwishlist:item=3524386983&perks=4088731040,1202133695,4042220767,2978966579
+
+
+// Submersion - PvE Boss god 1
+// (Frictionless Rail, Quickload Rail), (Explosive Bolts, Charged Bolts, Spring-Auger Bolts, Serrated Bolts, Heavy Bolts), (Impulse Amplifier, Auto-Loading Holster, Bolt Scavenger), (Aggregate Charge, Firing Line, Collective Action)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for sustained damage against bosses in both general at-level or better, and end-game underleveled content, particularly if you're able to collect bolts from targets for effectively infinite ammo. Submersion is only the second high-impact crossbow, and the first that doesn't require a raid run to obtain. As a world drop, the stats aren't that good in comparison to Opaque Hourglass, but they're helped at Tier 4/5 when rail and bolt perks are enhanced - see https://d2foundry.gg/w/1724104236 for how the weapon stats impact in-game performance. It's early days with crossbows, but instinct says to boost Velocity or Reload Speed with the rail perk. There's something to be said for all of the bolt options - Explosive and Spring-Auger Bolts to generate flinch, Charged Bolts for damage over time, Serrated Bolts and Heavy Bolts for additional damage - although both require adapting your approach to make the most of. There are reload perks in the first trait perk column which work for different circumstances. First, Impulse Amplifier passively boosts projectile velocity by ×1.35, +20 Reload Speed (+25 when enhanced) with a ×0.85 animation scalar. Next, for weapon damage rotations, Auto-Loading Holster - refills the magazine 3.5s (3.3s enhanced) after stowing. The new Bolt Scavenger perk boosts Handling and Reload Speed for 4s after collecting a bolt - picking up additional bolts extend this by 3s each up to 15s max. It's worth noting that collecting a bolt will also pick up any other bolts within 2m. Finally Ensemble passively boosts Handling by +30 and Reload Speed by +40 (+35 and +45 enhanced) when you're within 15m of an ally. For damage, in the second column, Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by ×1.1/1.2/1.3, which lasts as long as the debuff is applied - so if you're using Tractor Cannon, that's two (Weaken and Suppress) and just add something like Sever or Unravel for the full boost. Alternatively, Firing Line boosts crit damage by ×1.2 when you're within 15m of two or more allies. The Contending Cascade Origin trait is a fun minigame. It's procced by chains of rapid kills within 4s of each other. These grant stacks to boost Handling and Reload Speed with the stack freezing once you fail to kill in time. You'll then start from scratch again - once you hit ×15 stacks, you'll hear a horn (yes, really) and the buff "Crowning Cascade" will proc to trigger a Dragonfly-type explosion on crit kills. Recommended MW: Reload Speed or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1724104236&perks=3786062476,3603807747,951095735,3764420437
+dimwishlist:item=1724104236&perks=3786062476,3603807747,951095735,1771339417
+dimwishlist:item=1724104236&perks=3786062476,3603807747,3300816228,3764420437
+dimwishlist:item=1724104236&perks=3786062476,3603807747,3300816228,1771339417
+dimwishlist:item=1724104236&perks=3786062476,3603807747,4042220767,3764420437
+dimwishlist:item=1724104236&perks=3786062476,3603807747,4042220767,1771339417
+dimwishlist:item=1724104236&perks=3786062476,3603807747,2621346526,3764420437
+dimwishlist:item=1724104236&perks=3786062476,3603807747,2621346526,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2955427634,951095735,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2955427634,951095735,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2955427634,3300816228,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2955427634,3300816228,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2955427634,4042220767,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2955427634,4042220767,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2955427634,2621346526,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2955427634,2621346526,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2136073194,951095735,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2136073194,951095735,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2136073194,3300816228,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2136073194,3300816228,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2136073194,4042220767,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2136073194,4042220767,1771339417
+dimwishlist:item=1724104236&perks=3786062476,2136073194,2621346526,3764420437
+dimwishlist:item=1724104236&perks=3786062476,2136073194,2621346526,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1069117426,951095735,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1069117426,951095735,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1069117426,3300816228,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1069117426,3300816228,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1069117426,4042220767,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1069117426,4042220767,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1069117426,2621346526,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1069117426,2621346526,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1202133695,951095735,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1202133695,951095735,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1202133695,3300816228,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1202133695,3300816228,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1202133695,4042220767,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1202133695,4042220767,1771339417
+dimwishlist:item=1724104236&perks=3786062476,1202133695,2621346526,3764420437
+dimwishlist:item=1724104236&perks=3786062476,1202133695,2621346526,1771339417
+dimwishlist:item=1724104236&perks=4088731040,3603807747,951095735,3764420437
+dimwishlist:item=1724104236&perks=4088731040,3603807747,951095735,1771339417
+dimwishlist:item=1724104236&perks=4088731040,3603807747,3300816228,3764420437
+dimwishlist:item=1724104236&perks=4088731040,3603807747,3300816228,1771339417
+dimwishlist:item=1724104236&perks=4088731040,3603807747,4042220767,3764420437
+dimwishlist:item=1724104236&perks=4088731040,3603807747,4042220767,1771339417
+dimwishlist:item=1724104236&perks=4088731040,3603807747,2621346526,3764420437
+dimwishlist:item=1724104236&perks=4088731040,3603807747,2621346526,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2955427634,951095735,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2955427634,951095735,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2955427634,3300816228,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2955427634,3300816228,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2955427634,4042220767,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2955427634,4042220767,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2955427634,2621346526,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2955427634,2621346526,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2136073194,951095735,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2136073194,951095735,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2136073194,3300816228,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2136073194,3300816228,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2136073194,4042220767,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2136073194,4042220767,1771339417
+dimwishlist:item=1724104236&perks=4088731040,2136073194,2621346526,3764420437
+dimwishlist:item=1724104236&perks=4088731040,2136073194,2621346526,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1069117426,951095735,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1069117426,951095735,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1069117426,3300816228,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1069117426,3300816228,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1069117426,4042220767,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1069117426,4042220767,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1069117426,2621346526,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1069117426,2621346526,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1202133695,951095735,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1202133695,951095735,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1202133695,3300816228,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1202133695,3300816228,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1202133695,4042220767,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1202133695,4042220767,1771339417
+dimwishlist:item=1724104236&perks=4088731040,1202133695,2621346526,3764420437
+dimwishlist:item=1724104236&perks=4088731040,1202133695,2621346526,1771339417
+
+// Submersion - PvE Majors god 1
+//notes: // (Frictionless Rail, Quickload Rail), (Explosive Bolts, Charged Bolts, Spring-Auger Bolts, Serrated Bolts, Heavy Bolts), (Impulse Amplifier, Auto-Loading Holster, Bolt Scavenger), (Aggregate Charge, Firing Line, Collective Action)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against bulkier enemies in both general at-level or better, and end-game underleveled content, particularly if you're able to collect bolts from targets for effectively infinite ammo. Submersion is only the second high-impact crossbow, and the first that doesn't require a raid run to obtain. As a world drop, the stats aren't that good in comparison to Opaque Hourglass, but they're helped at Tier 4/5 when rail and bolt perks are enhanced - see https://d2foundry.gg/w/1724104236 for how the weapon stats impact in-game performance. It's early days with crossbows, but instinct says to boost Velocity or Reload Speed with the rail perk. There's something to be said for all of the bolt options - Explosive and Spring-Auger Bolts to generate flinch, Charged Bolts for damage over time, Serrated Bolts and Heavy Bolts for additional damage - although both require adapting your approach to make the most of. There are reload perks in the first trait perk column which work for different circumstances. First, Impulse Amplifier passively boosts projectile velocity by ×1.35, +20 Reload Speed (+25 when enhanced) with a ×0.85 animation scalar. Next, to always have a shot ready, Auto-Loading Holster refills the magazine 3.5s (3.3s enhanced) after stowing. The new Bolt Scavenger perk boosts Handling and Reload Speed for 4s after collecting a bolt - picking up additional bolts extend this by 3s each up to 15s max. It's worth noting that collecting a bolt will also pick up any other bolts within 2m. In the second column, Collective Action boosts damage by ×1.2 after collecting an elemental pickup or throwing a strand tangle for 7s, refreshable up to a maximum 12s. For more of a utility roll, Chill Clip applies +60 stacks of slow per hit to enemies within 4m for 4s, so will freeze targets after 2 hits. The Contending Cascade Origin trait is a fun minigame. It's procced by chains of rapid kills within 4s of each other. These grant stacks to boost Handling and Reload Speed with the stack freezing once you fail to kill in time. You'll then start from scratch again - once you hit ×15 stacks, you'll hear a horn (yes, really) and the buff "Crowning Cascade" will proc to trigger a Dragonfly-type explosion on crit kills. Recommended MW: Reload Speed or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1724104236&perks=3786062476,3603807747,951095735,3324494224
+dimwishlist:item=1724104236&perks=3786062476,3603807747,951095735,2978966579
+dimwishlist:item=1724104236&perks=3786062476,3603807747,3300816228,3324494224
+dimwishlist:item=1724104236&perks=3786062476,3603807747,3300816228,2978966579
+dimwishlist:item=1724104236&perks=3786062476,3603807747,4042220767,3324494224
+dimwishlist:item=1724104236&perks=3786062476,3603807747,4042220767,2978966579
+dimwishlist:item=1724104236&perks=3786062476,2955427634,951095735,3324494224
+dimwishlist:item=1724104236&perks=3786062476,2955427634,951095735,2978966579
+dimwishlist:item=1724104236&perks=3786062476,2955427634,3300816228,3324494224
+dimwishlist:item=1724104236&perks=3786062476,2955427634,3300816228,2978966579
+dimwishlist:item=1724104236&perks=3786062476,2955427634,4042220767,3324494224
+dimwishlist:item=1724104236&perks=3786062476,2955427634,4042220767,2978966579
+dimwishlist:item=1724104236&perks=3786062476,2136073194,951095735,3324494224
+dimwishlist:item=1724104236&perks=3786062476,2136073194,951095735,2978966579
+dimwishlist:item=1724104236&perks=3786062476,2136073194,3300816228,3324494224
+dimwishlist:item=1724104236&perks=3786062476,2136073194,3300816228,2978966579
+dimwishlist:item=1724104236&perks=3786062476,2136073194,4042220767,3324494224
+dimwishlist:item=1724104236&perks=3786062476,2136073194,4042220767,2978966579
+dimwishlist:item=1724104236&perks=3786062476,1069117426,951095735,3324494224
+dimwishlist:item=1724104236&perks=3786062476,1069117426,951095735,2978966579
+dimwishlist:item=1724104236&perks=3786062476,1069117426,3300816228,3324494224
+dimwishlist:item=1724104236&perks=3786062476,1069117426,3300816228,2978966579
+dimwishlist:item=1724104236&perks=3786062476,1069117426,4042220767,3324494224
+dimwishlist:item=1724104236&perks=3786062476,1069117426,4042220767,2978966579
+dimwishlist:item=1724104236&perks=3786062476,1202133695,951095735,3324494224
+dimwishlist:item=1724104236&perks=3786062476,1202133695,951095735,2978966579
+dimwishlist:item=1724104236&perks=3786062476,1202133695,3300816228,3324494224
+dimwishlist:item=1724104236&perks=3786062476,1202133695,3300816228,2978966579
+dimwishlist:item=1724104236&perks=3786062476,1202133695,4042220767,3324494224
+dimwishlist:item=1724104236&perks=3786062476,1202133695,4042220767,2978966579
+dimwishlist:item=1724104236&perks=4088731040,3603807747,951095735,3324494224
+dimwishlist:item=1724104236&perks=4088731040,3603807747,951095735,2978966579
+dimwishlist:item=1724104236&perks=4088731040,3603807747,3300816228,3324494224
+dimwishlist:item=1724104236&perks=4088731040,3603807747,3300816228,2978966579
+dimwishlist:item=1724104236&perks=4088731040,3603807747,4042220767,3324494224
+dimwishlist:item=1724104236&perks=4088731040,3603807747,4042220767,2978966579
+dimwishlist:item=1724104236&perks=4088731040,2955427634,951095735,3324494224
+dimwishlist:item=1724104236&perks=4088731040,2955427634,951095735,2978966579
+dimwishlist:item=1724104236&perks=4088731040,2955427634,3300816228,3324494224
+dimwishlist:item=1724104236&perks=4088731040,2955427634,3300816228,2978966579
+dimwishlist:item=1724104236&perks=4088731040,2955427634,4042220767,3324494224
+dimwishlist:item=1724104236&perks=4088731040,2955427634,4042220767,2978966579
+dimwishlist:item=1724104236&perks=4088731040,2136073194,951095735,3324494224
+dimwishlist:item=1724104236&perks=4088731040,2136073194,951095735,2978966579
+dimwishlist:item=1724104236&perks=4088731040,2136073194,3300816228,3324494224
+dimwishlist:item=1724104236&perks=4088731040,2136073194,3300816228,2978966579
+dimwishlist:item=1724104236&perks=4088731040,2136073194,4042220767,3324494224
+dimwishlist:item=1724104236&perks=4088731040,2136073194,4042220767,2978966579
+dimwishlist:item=1724104236&perks=4088731040,1069117426,951095735,3324494224
+dimwishlist:item=1724104236&perks=4088731040,1069117426,951095735,2978966579
+dimwishlist:item=1724104236&perks=4088731040,1069117426,3300816228,3324494224
+dimwishlist:item=1724104236&perks=4088731040,1069117426,3300816228,2978966579
+dimwishlist:item=1724104236&perks=4088731040,1069117426,4042220767,3324494224
+dimwishlist:item=1724104236&perks=4088731040,1069117426,4042220767,2978966579
+dimwishlist:item=1724104236&perks=4088731040,1202133695,951095735,3324494224
+dimwishlist:item=1724104236&perks=4088731040,1202133695,951095735,2978966579
+dimwishlist:item=1724104236&perks=4088731040,1202133695,3300816228,3324494224
+dimwishlist:item=1724104236&perks=4088731040,1202133695,3300816228,2978966579
+dimwishlist:item=1724104236&perks=4088731040,1202133695,4042220767,3324494224
+dimwishlist:item=1724104236&perks=4088731040,1202133695,4042220767,2978966579
+
+
+// Folded Root - PvE Boss god 1
+// (Quick Launch, Smart Drift Control, Hard Launch), (Impact cCasing, Alloy Casing), (Cluster Bomb), (Bipod, Frenzy)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Folded Root, as an Aggressive Frame, provides ×1.1 base damage. The stats are decent, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3184457500 for how the weapon stats impact in-game performance. Look to boost Handling or Velocity with the barrel perk and then for the magazine perk, Impact Casing boosts impact damage by ×1.1 - that's ×1.02 overall, or Alloy Casing speed up reloads. In the first trait perk column, there aren't any reload options to help with sustained damage, but Cluster Bombs is here to release 8 bomblets on detonation for additional damage - you'll want to reduce Blast Radius so that they drop as close to the target as much as possible. To aid with this, Bipod trades having two rockets in the chamber for burst damage for -20 to Blast Radius and Reload Speed (-15 to Reload Speed when enhanced) and a reduction by ×0.75 to overall damage. Alternatively, Frenzy boosts Handling and Reload Speed by +100 and boosts overall damage by ×1.15 - after being in combat for 12s - that's dealing or taking damage - for a refreshable 7.2s. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3184457500&perks=3525010810,3796465595,1275731761,1439600632
+dimwishlist:item=3184457500&perks=3525010810,3796465595,1275731761,4104185692
+dimwishlist:item=3184457500&perks=3525010810,2985827016,1275731761,1439600632
+dimwishlist:item=3184457500&perks=3525010810,2985827016,1275731761,4104185692
+dimwishlist:item=3184457500&perks=3798852852,3796465595,1275731761,1439600632
+dimwishlist:item=3184457500&perks=3798852852,3796465595,1275731761,4104185692
+dimwishlist:item=3184457500&perks=3798852852,2985827016,1275731761,1439600632
+dimwishlist:item=3184457500&perks=3798852852,2985827016,1275731761,4104185692
+dimwishlist:item=3184457500&perks=981914802,3796465595,1275731761,1439600632
+dimwishlist:item=3184457500&perks=981914802,3796465595,1275731761,4104185692
+dimwishlist:item=3184457500&perks=981914802,2985827016,1275731761,1439600632
+dimwishlist:item=3184457500&perks=981914802,2985827016,1275731761,4104185692
+
+
+// Folded Root - PvE Boss god 1
+// (Quick Launch, Smart Drift Control, Hard Launch), (Impact cCasing, Alloy Casing), (Cluster Bomb), (Bipod, Frenzy)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Folded Root, as an Aggressive Frame, provides ×1.1 base damage. The stats are decent, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3184457501 for how the weapon stats impact in-game performance. Look to boost Handling or Velocity with the barrel perk and then for the magazine perk, Impact Casing boosts impact damage by ×1.1 - that's ×1.02 overall, or Alloy Casing speed up reloads. In the first trait perk column, there aren't any reload options to help with sustained damage, but Cluster Bombs is here to release 8 bomblets on detonation for additional damage - you'll want to reduce Blast Radius so that they drop as close to the target as much as possible. To aid with this, Bipod trades having two rockets in the chamber for burst damage for -20 to Blast Radius and Reload Speed (-15 to Reload Speed when enhanced) and a reduction by ×0.75 to overall damage. Alternatively, Frenzy boosts Handling and Reload Speed by +100 and boosts overall damage by ×1.15 - after being in combat for 12s - that's dealing or taking damage - for a refreshable 7.2s. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3184457501&perks=3525010810,3796465595,1275731761,1439600632
+dimwishlist:item=3184457501&perks=3525010810,3796465595,1275731761,4104185692
+dimwishlist:item=3184457501&perks=3525010810,2985827016,1275731761,1439600632
+dimwishlist:item=3184457501&perks=3525010810,2985827016,1275731761,4104185692
+dimwishlist:item=3184457501&perks=3798852852,3796465595,1275731761,1439600632
+dimwishlist:item=3184457501&perks=3798852852,3796465595,1275731761,4104185692
+dimwishlist:item=3184457501&perks=3798852852,2985827016,1275731761,1439600632
+dimwishlist:item=3184457501&perks=3798852852,2985827016,1275731761,4104185692
+dimwishlist:item=3184457501&perks=981914802,3796465595,1275731761,1439600632
+dimwishlist:item=3184457501&perks=981914802,3796465595,1275731761,4104185692
+dimwishlist:item=3184457501&perks=981914802,2985827016,1275731761,1439600632
+dimwishlist:item=3184457501&perks=981914802,2985827016,1275731761,4104185692
+
+
+// Folded Root - PvE Boss god 1
+// (Quick Launch, Smart Drift Control, Hard Launch), (Impact cCasing, Alloy Casing), (Cluster Bomb), (Bipod, Frenzy)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Folded Root, as an Aggressive Frame, provides ×1.1 base damage. The stats are decent, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3184457502 for how the weapon stats impact in-game performance. Look to boost Handling or Velocity with the barrel perk and then for the magazine perk, Impact Casing boosts impact damage by ×1.1 - that's ×1.02 overall, or Alloy Casing speed up reloads. In the first trait perk column, there aren't any reload options to help with sustained damage, but Cluster Bombs is here to release 8 bomblets on detonation for additional damage - you'll want to reduce Blast Radius so that they drop as close to the target as much as possible. To aid with this, Bipod trades having two rockets in the chamber for burst damage for -20 to Blast Radius and Reload Speed (-15 to Reload Speed when enhanced) and a reduction by ×0.75 to overall damage. Alternatively, Frenzy boosts Handling and Reload Speed by +100 and boosts overall damage by ×1.15 - after being in combat for 12s - that's dealing or taking damage - for a refreshable 7.2s. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3184457502&perks=3525010810,3796465595,1275731761,1439600632
+dimwishlist:item=3184457502&perks=3525010810,3796465595,1275731761,4104185692
+dimwishlist:item=3184457502&perks=3525010810,2985827016,1275731761,1439600632
+dimwishlist:item=3184457502&perks=3525010810,2985827016,1275731761,4104185692
+dimwishlist:item=3184457502&perks=3798852852,3796465595,1275731761,1439600632
+dimwishlist:item=3184457502&perks=3798852852,3796465595,1275731761,4104185692
+dimwishlist:item=3184457502&perks=3798852852,2985827016,1275731761,1439600632
+dimwishlist:item=3184457502&perks=3798852852,2985827016,1275731761,4104185692
+dimwishlist:item=3184457502&perks=981914802,3796465595,1275731761,1439600632
+dimwishlist:item=3184457502&perks=981914802,3796465595,1275731761,4104185692
+dimwishlist:item=3184457502&perks=981914802,2985827016,1275731761,1439600632
+dimwishlist:item=3184457502&perks=981914802,2985827016,1275731761,4104185692
+
+
+// Folded Root - PvE Boss god 1
+// (Quick Launch, Smart Drift Control, Hard Launch), (Impact cCasing, Alloy Casing), (Cluster Bomb), (Bipod, Frenzy)
+//notes:Inspired by @ImpetusAlways, @CourtProjects and @Saint_Kabr (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. Folded Root, as an Aggressive Frame, provides ×1.1 base damage. The stats are decent, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3184457503 for how the weapon stats impact in-game performance. Look to boost Handling or Velocity with the barrel perk and then for the magazine perk, Impact Casing boosts impact damage by ×1.1 - that's ×1.02 overall, or Alloy Casing speed up reloads. In the first trait perk column, there aren't any reload options to help with sustained damage, but Cluster Bombs is here to release 8 bomblets on detonation for additional damage - you'll want to reduce Blast Radius so that they drop as close to the target as much as possible. To aid with this, Bipod trades having two rockets in the chamber for burst damage for -20 to Blast Radius and Reload Speed (-15 to Reload Speed when enhanced) and a reduction by ×0.75 to overall damage. Alternatively, Frenzy boosts Handling and Reload Speed by +100 and boosts overall damage by ×1.15 - after being in combat for 12s - that's dealing or taking damage - for a refreshable 7.2s. The Tenacity Origin trait stacks up to ×20 on kills, providing +2.5 Handling and Reload Speed and an extra 0.5% damage per stack (max +50 Handling and Reload, and ×1.1 damage boost) until you die. Recommended MW: Handling or Velocity, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3184457503&perks=3525010810,3796465595,1275731761,1439600632
+dimwishlist:item=3184457503&perks=3525010810,3796465595,1275731761,4104185692
+dimwishlist:item=3184457503&perks=3525010810,2985827016,1275731761,1439600632
+dimwishlist:item=3184457503&perks=3525010810,2985827016,1275731761,4104185692
+dimwishlist:item=3184457503&perks=3798852852,3796465595,1275731761,1439600632
+dimwishlist:item=3184457503&perks=3798852852,3796465595,1275731761,4104185692
+dimwishlist:item=3184457503&perks=3798852852,2985827016,1275731761,1439600632
+dimwishlist:item=3184457503&perks=3798852852,2985827016,1275731761,4104185692
+dimwishlist:item=3184457503&perks=981914802,3796465595,1275731761,1439600632
+dimwishlist:item=3184457503&perks=981914802,3796465595,1275731761,4104185692
+dimwishlist:item=3184457503&perks=981914802,2985827016,1275731761,1439600632
+dimwishlist:item=3184457503&perks=981914802,2985827016,1275731761,4104185692
+
+
