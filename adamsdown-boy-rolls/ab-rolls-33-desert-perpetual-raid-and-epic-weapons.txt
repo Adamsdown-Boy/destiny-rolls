@@ -1,0 +1,205 @@
+title:Desert Perpetual raid and epic raid weapons
+@description:Additional weapon rolls to those discussed in @PodvsEnemies Podcast episode 155
+
+// Cusp Sempiternal - PvE Minors god AB 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Repulsor Brace), (Destabilizing Rounds)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-Utility PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for fireteam support and clearing groups of minor adds in both general at-level or better, and end-game underleveled content, particularly with void subclasses. This is only the third Support Frame auto rifle - the second best AR subfamily for damage output, which builds up healing charges on hitting enemies that you can use to heal allies by hipfiring at them. Rapidly healing provides them with a Void Overshield, and procs a ×1.1 damage boost for 5s for you. However, you may have to get used to the travel time of the projectiles, as this isn't a hitscan weapon. The stats are decent by comparison with its peers, which are helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2579693381 for how the weapon stats impact in-game performance. Use the barrel perk to try and improve Handling - the projectiles gently home in on enemies, so Recoil Direction isn't really an issue. With the magazine perk, look to increase the magazine size, or boost Reload Speed. For void synergy, you can roll the trait perk combination of Repulsor Brace which provides a Void overshield for 8s (10s when enhanced) after killing a void-debuffed enemy - duration boosted by ×1.5 with Echo of Persistence - and Destabilizing Rounds to spread Volatility a 6.5m radius on a kill in and provide Volatile Rounds for 4.5s (5.25s enhanced), which together should let you safely plough through minor add groups. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. If you're interested, "cusp" is either a turning point or a point on a tooth, and "sempiternal" describes something that's everlasting, eternal, or of never-ending duration. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Utility PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2579693381&perks=1840239774,106909392,776531651,2048641572
+dimwishlist:item=2579693381&perks=1840239774,1431678320,776531651,2048641572
+dimwishlist:item=2579693381&perks=1840239774,3230963543,776531651,2048641572
+dimwishlist:item=2579693381&perks=1840239774,1087426260,776531651,2048641572
+dimwishlist:item=2579693381&perks=839105230,106909392,776531651,2048641572
+dimwishlist:item=2579693381&perks=839105230,1431678320,776531651,2048641572
+dimwishlist:item=2579693381&perks=839105230,3230963543,776531651,2048641572
+dimwishlist:item=2579693381&perks=839105230,1087426260,776531651,2048641572
+dimwishlist:item=2579693381&perks=4090651448,106909392,776531651,2048641572
+dimwishlist:item=2579693381&perks=4090651448,1431678320,776531651,2048641572
+dimwishlist:item=2579693381&perks=4090651448,3230963543,776531651,2048641572
+dimwishlist:item=2579693381&perks=4090651448,1087426260,776531651,2048641572
+
+// Cusp Sempiternal - PvE Minors god AB 2
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Demolitionist), (Adrenaline Junkie, Master of Arms)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-Utility PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for fireteam support and clearing groups of minor adds in both general at-level or better, and end-game underleveled content, particularly with void subclasses. This is only the third Support Frame auto rifle - the second best AR subfamily for damage output, which builds up healing charges on hitting enemies that you can use to heal allies by hipfiring at them. Rapidly healing provides them with a Void Overshield, and procs a ×1.1 damage boost for 5s for you. However, you may have to get used to the travel time of the projectiles, as this isn't a hitscan weapon. The stats are decent by comparison with its peers, which are helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2579693381 for how the weapon stats impact in-game performance. Use the barrel perk to try and improve Handling - the projectiles gently home in on enemies, so Recoil Direction isn't really an issue. With the magazine perk, look to increase the magazine size, or boost Reload Speed. For a general purpose roll, Demolitionist generates for chunk grenade ability energy on kills and an instant magazine refill on grenade use. For damage in the second column, Adrenaline Junkie is a natural pairing for up to ×5 stacks boosting damage by up to ×1.33 on kills, with a grenade kill giving 5 stacks, for a refreshable 4.5s (5s when enhanced). Otherwise, Master of Arms - provides ×1.15 damage for 7s (8s enhanced) after a kill with any weapon, with a second stack of ×1.25 for 4s (5s enhanced) on any kills with the first stack active. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. If you're interested, "cusp" is either a turning point or a point on a tooth, and "sempiternal" describes something that's everlasting, eternal, or of never-ending duration. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Utility PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2579693381&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=2579693381&perks=1840239774,106909392,3523296417,3081867624
+dimwishlist:item=2579693381&perks=1840239774,1431678320,3523296417,11612903
+dimwishlist:item=2579693381&perks=1840239774,1431678320,3523296417,3081867624
+dimwishlist:item=2579693381&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=2579693381&perks=1840239774,3230963543,3523296417,3081867624
+dimwishlist:item=2579693381&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=2579693381&perks=1840239774,1087426260,3523296417,3081867624
+dimwishlist:item=2579693381&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=2579693381&perks=839105230,106909392,3523296417,3081867624
+dimwishlist:item=2579693381&perks=839105230,1431678320,3523296417,11612903
+dimwishlist:item=2579693381&perks=839105230,1431678320,3523296417,3081867624
+dimwishlist:item=2579693381&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=2579693381&perks=839105230,3230963543,3523296417,3081867624
+dimwishlist:item=2579693381&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=2579693381&perks=839105230,1087426260,3523296417,3081867624
+dimwishlist:item=2579693381&perks=4090651448,106909392,3523296417,11612903
+dimwishlist:item=2579693381&perks=4090651448,106909392,3523296417,3081867624
+dimwishlist:item=2579693381&perks=4090651448,1431678320,3523296417,11612903
+dimwishlist:item=2579693381&perks=4090651448,1431678320,3523296417,3081867624
+dimwishlist:item=2579693381&perks=4090651448,3230963543,3523296417,11612903
+dimwishlist:item=2579693381&perks=4090651448,3230963543,3523296417,3081867624
+dimwishlist:item=2579693381&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=2579693381&perks=4090651448,1087426260,3523296417,3081867624
+
+// Cusp Sempiternal - PvE Minors god AB 3
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Attrition Orbs), (Master of Arms)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-Utility PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for fireteam support and clearing groups of minor adds in both general at-level or better, and end-game underleveled content, particularly with void subclasses. This is only the third Support Frame auto rifle - the second best AR subfamily for damage output, which builds up healing charges on hitting enemies that you can use to heal allies by hipfiring at them. Rapidly healing provides them with a Void Overshield, and procs a ×1.1 damage boost for 5s for you. However, you may have to get used to the travel time of the projectiles, as this isn't a hitscan weapon. The stats are decent by comparison with its peers, which are helped at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2579693381 for how the weapon stats impact in-game performance. Use the barrel perk to try and improve Handling - the projectiles gently home in on enemies, so Recoil Direction isn't really an issue. With the magazine perk, look to increase the magazine size, or boost Reload Speed. For a general purpose roll, Attrition Orbs looks very attractive in the first trait perk column, spawning a power orb after ~67% of the magazine has scored hits within 5s of each other to proc armour mods - the good news is that hipfire healing shots count as double hits. For damage in the second column, Master of Arms - provides ×1.15 damage for 7s (8s when enhanced) after a kill with any weapon, with a second stack of ×1.25 for 4s (5s enhanced) on any kills with the first stack active. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. If you're interested, "cusp" is either a turning point or a point on a tooth, and "sempiternal" describes something that's everlasting, eternal, or of never-ending duration. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Utility PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2579693381&perks=1840239774,106909392,243981275,3081867624
+dimwishlist:item=2579693381&perks=1840239774,1431678320,243981275,3081867624
+dimwishlist:item=2579693381&perks=1840239774,3230963543,243981275,3081867624
+dimwishlist:item=2579693381&perks=1840239774,1087426260,243981275,3081867624
+dimwishlist:item=2579693381&perks=839105230,106909392,243981275,3081867624
+dimwishlist:item=2579693381&perks=839105230,1431678320,243981275,3081867624
+dimwishlist:item=2579693381&perks=839105230,3230963543,243981275,3081867624
+dimwishlist:item=2579693381&perks=839105230,1087426260,243981275,3081867624
+dimwishlist:item=2579693381&perks=4090651448,106909392,243981275,3081867624
+dimwishlist:item=2579693381&perks=4090651448,1431678320,243981275,3081867624
+dimwishlist:item=2579693381&perks=4090651448,3230963543,243981275,3081867624
+dimwishlist:item=2579693381&perks=4090651448,1087426260,243981275,3081867624
+
+
+// Intercalary - PvE Minor god AB 1
+// (Arrowhead Brake, Chambered Compensator), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), (Headstone), (Master of Arms)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. Intercalary's frame intrinsic doesn't offer any specific benefit other than just being "well-rounded". The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2725426834 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), base mag size is 42 (max 60). The Recoil Direction is a bit wonky, so use the barrel perk to try and control that a little. You have the full range of combat effect magazine perks to choose from, or look for one that helps with reload. For something to synergise with a Stasis build, in the first trait perk column Headstone generates a Stasis crystal on a crit kill, which can be shattered for AoE damage and to proc Stasis ability effects. You can then pair this with Master of Arms to provide a ×1.15 damage for 7s (8s enhanced) after a kill with any weapon, with a second stack of ×1.25 for 4s (5s enhanced) on any kills with the first stack active. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. If you're interested, "Intercalary" refers to a day inserted in a calendar year to bring it in line with the solar year, so 29th February is an intercalary day in leap years. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2725426834&perks=839105230,1561002382,124408337,3081867624
+dimwishlist:item=2725426834&perks=839105230,1968497646,124408337,3081867624
+dimwishlist:item=2725426834&perks=839105230,1885400500,124408337,3081867624
+dimwishlist:item=2725426834&perks=839105230,1431678320,124408337,3081867624
+dimwishlist:item=2725426834&perks=839105230,3230963543,124408337,3081867624
+dimwishlist:item=2725426834&perks=3661387068,1561002382,124408337,3081867624
+dimwishlist:item=2725426834&perks=3661387068,1968497646,124408337,3081867624
+dimwishlist:item=2725426834&perks=3661387068,1885400500,124408337,3081867624
+dimwishlist:item=2725426834&perks=3661387068,1431678320,124408337,3081867624
+dimwishlist:item=2725426834&perks=3661387068,3230963543,124408337,3081867624
+dimwishlist:item=2725426834&perks=1392496348,1561002382,124408337,3081867624
+dimwishlist:item=2725426834&perks=1392496348,1968497646,124408337,3081867624
+dimwishlist:item=2725426834&perks=1392496348,1885400500,124408337,3081867624
+dimwishlist:item=2725426834&perks=1392496348,1431678320,124408337,3081867624
+dimwishlist:item=2725426834&perks=1392496348,3230963543,124408337,3081867624
+
+// Intercalary - PvE Minor god AB 2
+// (Arrowhead Brake, Chambered Compensator), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), (Headstone), (Master of Arms)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing minor adds in both general at-level or better, and end-game underleveled content, particularly with a Stasis build. Intercalary's frame intrinsic doesn't offer any specific benefit other than just being "well-rounded". The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2725426834 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), base mag size is 42 (max 60). The Recoil Direction is a bit wonky, so use the barrel perk to try and control that a little. You have the full range of combat effect magazine perks to choose from, or look for one that helps with reload. For a general purpose roll, in the first trait perk column, Demolitionist provides chunk grenade ability energy on kills and an instant magazine refill on grenade use. For damage, you can pair that with Desperate Measures to generate up to 3 stacks for ×1.3 damage for a refreshable 7s, for a weapon and then two ability kills. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. If you're interested, "Intercalary" refers to a day inserted in a calendar year to bring it in line with the solar year, so 29th February is an intercalary day in leap years. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=2725426834&perks=839105230,1561002382,3523296417,2109543898
+dimwishlist:item=2725426834&perks=839105230,1968497646,3523296417,2109543898
+dimwishlist:item=2725426834&perks=839105230,1885400500,3523296417,2109543898
+dimwishlist:item=2725426834&perks=839105230,1431678320,3523296417,2109543898
+dimwishlist:item=2725426834&perks=839105230,3230963543,3523296417,2109543898
+dimwishlist:item=2725426834&perks=3661387068,1561002382,3523296417,2109543898
+dimwishlist:item=2725426834&perks=3661387068,1968497646,3523296417,2109543898
+dimwishlist:item=2725426834&perks=3661387068,1885400500,3523296417,2109543898
+dimwishlist:item=2725426834&perks=3661387068,1431678320,3523296417,2109543898
+dimwishlist:item=2725426834&perks=3661387068,3230963543,3523296417,2109543898
+dimwishlist:item=2725426834&perks=1392496348,1561002382,3523296417,2109543898
+dimwishlist:item=2725426834&perks=1392496348,1968497646,3523296417,2109543898
+dimwishlist:item=2725426834&perks=1392496348,1885400500,3523296417,2109543898
+dimwishlist:item=2725426834&perks=1392496348,1431678320,3523296417,2109543898
+dimwishlist:item=2725426834&perks=1392496348,3230963543,3523296417,2109543898
+
+
+// Antedate - PvE Minor god AB 1
+// (Arrowhead Brake, fluted Barrel, Corkscrew Rifling, Chambered Compensator), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Alloy Mag, Flared Magwell), (Rolling Storm), (Jolting Feedback)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing minor adds in both general at-level or better, and end-game underleveled content, particularly with Arc builds. Antedate's frame intrinsic doesn't offer any specific benefit other than just being "well-rounded". The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/2725426834 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), base mag size is 36 (max 41). The use the barrel perk to try and improve handling or, maybe something to help control recoil on Controller. You have the full range of combat effect magazine perks to choose from, or look for one that helps with reload. For a Jack-of-all-trades roll to synergise with Arc builds, in the first trait perk column when you're up against Minor adds, Rolling Storm generates a stack of Bolt Charge (2 when Amplified) on a kill, to trigger a lightning bolt at ×10 stacks for both target and AoE damage. Then, in the second column, use Jolting Feedback to apply Jolt after 18 hits (17 when enhanced and 13 when Amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for more target and AoE damage. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. If you're interested, "antedate" means to come before something in time. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller)
+dimwishlist:item=1435808083&perks=1840239774,1561002382,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1968497646,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1885400500,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1840239774,1431678320,3218042543,3966416502
+dimwishlist:item=1435808083&perks=1840239774,3230963543,3218042543,3966416502
+dimwishlist:item=1435808083&perks=839105230,1561002382,3218042543,3966416502
+dimwishlist:item=1435808083&perks=839105230,1968497646,3218042543,3966416502
+dimwishlist:item=1435808083&perks=839105230,1885400500,3218042543,3966416502
+dimwishlist:item=1435808083&perks=839105230,1431678320,3218042543,3966416502
+dimwishlist:item=1435808083&perks=839105230,3230963543,3218042543,3966416502
+dimwishlist:item=1435808083&perks=4090651448,1561002382,3218042543,3966416502
+dimwishlist:item=1435808083&perks=4090651448,1968497646,3218042543,3966416502
+dimwishlist:item=1435808083&perks=4090651448,1885400500,3218042543,3966416502
+dimwishlist:item=1435808083&perks=4090651448,1431678320,3218042543,3966416502
+dimwishlist:item=1435808083&perks=4090651448,3230963543,3218042543,3966416502
+dimwishlist:item=1435808083&perks=3661387068,1561002382,3218042543,3966416502
+dimwishlist:item=1435808083&perks=3661387068,1968497646,3218042543,3966416502
+dimwishlist:item=1435808083&perks=3661387068,1885400500,3218042543,3966416502
+dimwishlist:item=1435808083&perks=3661387068,1431678320,3218042543,3966416502
+dimwishlist:item=1435808083&perks=3661387068,3230963543,3218042543,3966416502
+
+
+// Finite Maybe - PvE Minor god AB 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Enhanced Battery, Accelerated Coils), (Incandescent), (Discord)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for tougher adds, Banes and Elites in both general at-level or better, and end-game underleveled content, particularly with solar builds. Finite Maybe, as an aggressive frame it fires a horizontal spread of bolts which can be difficult to land at any sort of distance. The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3241217409 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), base mag size is 6 (max 8) and total ammo is 23 (max 23). You're not going to be able to do much about the horizontal spread, so look to boost handling with the barrel perk, then use the battery perk to boost battery size or reduce charge time. For aggressive add clearing, the fun combination of Discord which grants ×0.75 ADS animation modifier and improves accuracy for 7s (8s when enhanced) after another weapon kill, but more important while active refunds a shot from thin air on kills, so you'll not run out of ammo with Incandescent to spread +30 Scorch stacks within 4m on a red bar Minor add kill (+40 stacks within 8m for orange and yellow bars, +45 enhanced) with scorch damage inheriting any weapon damage bonuses. If on a solar subclass, all of the scorch stacks are increased by ×1.5 with Ember of Ashes. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3241217409&perks=839105230,2680121939,4293542123,3978468247
+dimwishlist:item=3241217409&perks=839105230,689005463,4293542123,3978468247
+dimwishlist:item=3241217409&perks=3661387068,2680121939,4293542123,3978468247
+dimwishlist:item=3241217409&perks=3661387068,689005463,4293542123,3978468247
+dimwishlist:item=3241217409&perks=1467527085,2680121939,4293542123,3978468247
+dimwishlist:item=3241217409&perks=1467527085,689005463,4293542123,3978468247
+
+
+// Starscape Null - PvE Major god AB 1
+// (Full Choke, Barrel Shroud, Corkscrew Rifling), (Tactical Mag, Assault Mag), (Pugilist), (Desperate Measures, Swashbuckler)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content, particularly with a melee build. As a lightweight frame, you get the +20 Mobility and ×1.0625 base movement speed, but as a shotgun there's a question mark over what the use case is over other special weapon options. The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3868973291 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), base mag size is 6 (max 8) and total ammo is 16. Range is very compressed on shotguns, so look for a barrel perk to improve Handling. For the magazine perk, Assault Mag to increase RPM to 85.71 to improve damage output or Tactical Mag to bump up the magazine a bit and improve reload speed both work. If you've not already got a general purpose shotgun to use with melee builds, in the first trait perk column Pugilist generates chunk melee ability energy on kills and +35 Handling for 3s after dealing melee damage. You can use melees with either Desperate Measures to provide up to 3 stacks on weapon and ability kills for up to ×1.3 damage for a refreshable 7s or Swashbuckler - provides up to ×5 damage stacks on kills for ×1.33 damage, with a melee kill giving 5 stacks, for a refreshable 4.5s (5s when enhanced). The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3868973291&perks=1300023272,791862061,691659142,2109543898
+dimwishlist:item=3868973291&perks=1300023272,791862061,691659142,4082225868
+dimwishlist:item=3868973291&perks=1300023272,106909392,691659142,2109543898
+dimwishlist:item=3868973291&perks=1300023272,106909392,691659142,4082225868
+dimwishlist:item=3868973291&perks=4090651448,791862061,691659142,2109543898
+dimwishlist:item=3868973291&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=3868973291&perks=4090651448,106909392,691659142,2109543898
+dimwishlist:item=3868973291&perks=4090651448,106909392,691659142,4082225868
+
+// Starscape Null - PvE Major god AB 2
+// (Full Choke, Barrel Shroud, Corkscrew Rifling), (Tactical Mag, Assault Mag), (Reconstruction), (One-Two Punch, Trench Barrel)
+//notes:Adamsdown_Boy written as at v9.1.5 (PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for CQC burst damage against Banes, Elites, Champions and Minibosses in both general at-level or better, and end-game underleveled content. As a lightweight frame, you get the +20 Mobility and ×1.0625 base movement speed, but as a shotgun there's a question mark over what the use case is over other special weapon options. The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3868973291 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), base mag size is 6 (max 8) and total ammo is 16. Range is very compressed on shotguns, so look for a barrel perk to improve Handling . For the magazine perk, Assault Mag to increase RPM to 85.71 to improve damage output or Tactical Mag to bump up the magazine a bit and improve reload speed both work. For burst damage, in the first trait perk column, Reconstruction - refills 25% of the magazine every 6s (5.5s when enhanced) up to ×2 capacity when stowed or not firing so you'll have plenty of ammo ready when you swap. For CQC damage as you'll have to be within a few metres to use a shotgun anyway, in the second column, One-Two Punch provides +150% melee damage for 3s for hitting all 12 pellets (10  enhanced) or Trench Barrel provides +30 Handling and Reload Speed together with ×1.5 damage for 5s or three shots after a melee hit. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-MajorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3868973291&perks=1300023272,791862061,1523832109,2679249093
+dimwishlist:item=3868973291&perks=1300023272,791862061,1523832109,2360754333
+dimwishlist:item=3868973291&perks=1300023272,106909392,1523832109,2679249093
+dimwishlist:item=3868973291&perks=1300023272,106909392,1523832109,2360754333
+dimwishlist:item=3868973291&perks=4090651448,791862061,1523832109,2679249093
+dimwishlist:item=3868973291&perks=4090651448,791862061,1523832109,2360754333
+dimwishlist:item=3868973291&perks=4090651448,106909392,1523832109,2679249093
+dimwishlist:item=3868973291&perks=4090651448,106909392,1523832109,2360754333
+
+
+// Opaque Hourglass - PvE Boss god AB 1
+// (Low-Profile Rail, Frictionless Rail, Ultralight Rail), (Charged Bolts, Serrated Bolts), (Impulse Amplifier, Field Prep, Bolt Scavenger), (Elemental Honing)
+//notes:Inspired by @CourtProjects, @Saint_Kabr and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for sustained damage against bosses in both general at-level or better, and end-game underleveled content. Being honest, Opaque Hourglass - like the other high-impact frame crossbow - is difficult to define a role for. It's a bit slow for burst damage in short damage windows, but because you can recover bolts manually or with a Shoot to Loot weapon as part of a damage rotation, you can effectively have infinite ammo so might be more useful for sustained damage. The stats are good by comparison with its peers, and they're helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/1553681400 for how the weapon stats impact in-game performance. From @mossy_max's spreadsheet (https://destiny2.science/reserves), total ammo is 10. Gut instinct is to improve Handling with the rail perk, or maybe boost velocity or reload speed without any other maluses. With the bolt perk, Charged Bolts adds a little damage over time - but this is instanced so multiple hits on a target don't increase this DoT - or Serrated Bolts deals damage when you recover a bolt. Note that recovering a bolt will also recover any other bolts within ~2m. For a sustained damage roll, as there are no auto-reload trait perks available, Impulse Amplifier passively boosts projectile velocity by ×1.35, and +20 Reload Speed (+25 when enhanced) with a ×0.85/0.8* animation scalar or Field Prep grants +50 Reload Speed with a ×0.8 animation scalar to both reload and ready/stow when crouched and bumps Ammo Generation by +30 (+55 Reload Speed and +40 Ammo Generation enhanced). There's also Bolt Scavenger which boosts Handling and Reload Speed for 4s after collecting a bolt - picking up additional bolts extend this by 3s each up to 15s max. In the second column, for damage, Elemental Honing grants an escalating stack of damage up to ×1.35 at ×5 stack for 20s (23s enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5. Alternatively, Firing Line -boosts crit damage by ×1.2 when you're within 15m of two or more allies. The Frame of Reference Origin Trait stacks up to ×5 times on kills, providing up to ×1.07 damage and boosts to Reload Speed and Range for 8s, with the timer pausing when the weapon's stowed. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1553681400&perks=1220787353,2955427634,951095735,1089671869
+dimwishlist:item=1553681400&perks=1220787353,2955427634,951095735,1771339417
+dimwishlist:item=1553681400&perks=1220787353,2955427634,2869569095,1089671869
+dimwishlist:item=1553681400&perks=1220787353,2955427634,2869569095,1771339417
+dimwishlist:item=1553681400&perks=1220787353,2955427634,4042220767,1089671869
+dimwishlist:item=1553681400&perks=1220787353,2955427634,4042220767,1771339417
+dimwishlist:item=1553681400&perks=1220787353,1069117426,951095735,1089671869
+dimwishlist:item=1553681400&perks=1220787353,1069117426,951095735,1771339417
+dimwishlist:item=1553681400&perks=1220787353,1069117426,2869569095,1089671869
+dimwishlist:item=1553681400&perks=1220787353,1069117426,2869569095,1771339417
+dimwishlist:item=1553681400&perks=1220787353,1069117426,4042220767,1089671869
+dimwishlist:item=1553681400&perks=1220787353,1069117426,4042220767,1771339417
+dimwishlist:item=1553681400&perks=1890040155,2955427634,951095735,1089671869
+dimwishlist:item=1553681400&perks=1890040155,2955427634,951095735,1771339417
+dimwishlist:item=1553681400&perks=1890040155,2955427634,2869569095,1089671869
+dimwishlist:item=1553681400&perks=1890040155,2955427634,2869569095,1771339417
+dimwishlist:item=1553681400&perks=1890040155,2955427634,4042220767,1089671869
+dimwishlist:item=1553681400&perks=1890040155,2955427634,4042220767,1771339417
+dimwishlist:item=1553681400&perks=1890040155,1069117426,951095735,1089671869
+dimwishlist:item=1553681400&perks=1890040155,1069117426,951095735,1771339417
+dimwishlist:item=1553681400&perks=1890040155,1069117426,2869569095,1089671869
+dimwishlist:item=1553681400&perks=1890040155,1069117426,2869569095,1771339417
+dimwishlist:item=1553681400&perks=1890040155,1069117426,4042220767,1089671869
+dimwishlist:item=1553681400&perks=1890040155,1069117426,4042220767,1771339417
+dimwishlist:item=1553681400&perks=3786062476,2955427634,951095735,1089671869
+dimwishlist:item=1553681400&perks=3786062476,2955427634,951095735,1771339417
+dimwishlist:item=1553681400&perks=3786062476,2955427634,2869569095,1089671869
+dimwishlist:item=1553681400&perks=3786062476,2955427634,2869569095,1771339417
+dimwishlist:item=1553681400&perks=3786062476,2955427634,4042220767,1089671869
+dimwishlist:item=1553681400&perks=3786062476,2955427634,4042220767,1771339417
+dimwishlist:item=1553681400&perks=3786062476,1069117426,951095735,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1069117426,951095735,1771339417
+dimwishlist:item=1553681400&perks=3786062476,1069117426,2869569095,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1069117426,2869569095,1771339417
+dimwishlist:item=1553681400&perks=3786062476,1069117426,4042220767,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1069117426,4042220767,1771339417
+
+
