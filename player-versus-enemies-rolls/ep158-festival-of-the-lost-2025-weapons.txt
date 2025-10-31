@@ -1,0 +1,356 @@
+title:PvE Podcast 158 Festival of the Lost 2025 weapons
+description:Ash and Iron Season 27 "Reclamation" Festival of the Lost weapons with the Search Party origin trait, discussed in the 28 October 2025 @PodvsEnemies podcast episode 158 (https://open.spotify.com/episode/3f1mlvCUG1NK1iE2ccFhPM?si=25d0ceab4dec4afb).
+
+// Hushed Whisper - PvE Minor god 1
+// (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Tear), (Hatchling)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content, particularly on Strand builds. Hushed Whisper is a precision frame bow which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides ×0.8 horizontal recoil, which isn't that impactful on bows. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. As ever for bows, use the bowstring perk to reduce Draw Time and boost Handling, and the arrow perk to boost Accuracy or Reload Speed. For Strand synergy, there's the trait perk pairing of Tear which spreads ~4m AoE sever on a crit kill to reduce damage output to ×0.6 from enemies affected. A crit kill, or three crit hits within 3s of each other, also procs Hatchling to spawn a Threadling. For the Origin Trait, there's either Wild Card to provide the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy, or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1175295126&perks=2801223209,3429800428,960997401,831391274
+dimwishlist:item=1175295126&perks=2801223209,3827198035,960997401,831391274
+dimwishlist:item=1175295126&perks=2801223209,3311977193,960997401,831391274
+dimwishlist:item=1175295126&perks=2801223209,16392701,960997401,831391274
+dimwishlist:item=1175295126&perks=4067834857,3429800428,960997401,831391274
+dimwishlist:item=1175295126&perks=4067834857,3827198035,960997401,831391274
+dimwishlist:item=1175295126&perks=4067834857,3311977193,960997401,831391274
+dimwishlist:item=1175295126&perks=4067834857,16392701,960997401,831391274
+dimwishlist:item=1175295126&perks=852209214,3429800428,960997401,831391274
+dimwishlist:item=1175295126&perks=852209214,3827198035,960997401,831391274
+dimwishlist:item=1175295126&perks=852209214,3311977193,960997401,831391274
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,831391274
+
+// Hushed Whisper - PvE Minor god 2
+// (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Tear), (Explosive Head, Precision Instrument)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content, particularly on Strand builds. Hushed Whisper is a precision frame bow which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides ×0.8 horizontal recoil, which isn't that impactful on bows. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. As ever for bows, use the bowstring perk to reduce Draw Time and boost Handling, and the arrow perk to boost Accuracy or Reload Speed. For Strand synergy, Tear in the first trait perk column spreads ~4m AoE sever on a crit kill to reduce damage output to ×0.6 from enemies affected. For damage in the second column, Explosive Head boosts bodyshot damage by ×1.15 and crit damage by ×1.1 with increased stagger, and inflicts AoE damage on enemies within 3m. Precision Instrument also procs on crit hits granting up to 6 stacks of escalating damage for ×1.25 (×1.3 when enhanced) for 1.25s or until you miss a crit. For the Origin Trait, there's either Wild Card to provide the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy, or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1175295126&perks=2801223209,3429800428,960997401,3365897133
+dimwishlist:item=1175295126&perks=2801223209,3429800428,960997401,555281244
+dimwishlist:item=1175295126&perks=2801223209,3827198035,960997401,3365897133
+dimwishlist:item=1175295126&perks=2801223209,3827198035,960997401,555281244
+dimwishlist:item=1175295126&perks=2801223209,3311977193,960997401,3365897133
+dimwishlist:item=1175295126&perks=2801223209,3311977193,960997401,555281244
+dimwishlist:item=1175295126&perks=2801223209,16392701,960997401,3365897133
+dimwishlist:item=1175295126&perks=2801223209,16392701,960997401,555281244
+dimwishlist:item=1175295126&perks=4067834857,3429800428,960997401,3365897133
+dimwishlist:item=1175295126&perks=4067834857,3429800428,960997401,555281244
+dimwishlist:item=1175295126&perks=4067834857,3827198035,960997401,3365897133
+dimwishlist:item=1175295126&perks=4067834857,3827198035,960997401,555281244
+dimwishlist:item=1175295126&perks=4067834857,3311977193,960997401,3365897133
+dimwishlist:item=1175295126&perks=4067834857,3311977193,960997401,555281244
+dimwishlist:item=1175295126&perks=4067834857,16392701,960997401,3365897133
+dimwishlist:item=1175295126&perks=4067834857,16392701,960997401,555281244
+dimwishlist:item=1175295126&perks=852209214,3429800428,960997401,3365897133
+dimwishlist:item=1175295126&perks=852209214,3429800428,960997401,555281244
+dimwishlist:item=1175295126&perks=852209214,3827198035,960997401,3365897133
+dimwishlist:item=1175295126&perks=852209214,3827198035,960997401,555281244
+dimwishlist:item=1175295126&perks=852209214,3311977193,960997401,3365897133
+dimwishlist:item=1175295126&perks=852209214,3311977193,960997401,555281244
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,3365897133
+dimwishlist:item=1175295126&perks=852209214,16392701,960997401,555281244
+
+// Hushed Whisper - PvE Minor god 3
+// (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Tear), (Explosive Head, Precision Instrument)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for Minor add control in both general at-level or better, and end-game underleveled content. Hushed Whisper is a precision frame bow which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides ×0.8 horizontal recoil, which isn't that impactful on bows. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. As ever for bows, use the bowstring perk to reduce Draw Time and boost Handling, and the arrow perk to boost Accuracy or Reload Speed. In the first trait perk column, Successful Warm-Up applies a ×0.625 scalar after a kill for 6s, with further kills adding 4s at a time to a maximum of 20s or until stowed. For damage in the second column, Hatchling spawns a Threadling on a crit kill or three crit hits within 3s of each other. Alternatively, Explosive Head boosts bodyshot damage by ×1.15 and crit damage by ×1.1 with increased stagger, and inflicts AoE damage on enemies within 3m or Precision Instrument procs on crit hits granting up to 6 stacks of escalating damage for ×1.25 (×1.3 when enhanced) for 1.25s or until you miss a crit. For the Origin Trait, there's either Wild Card to provide the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy, or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1175295126&perks=2801223209,3429800428,2652708987,831391274
+dimwishlist:item=1175295126&perks=2801223209,3429800428,2652708987,3365897133
+dimwishlist:item=1175295126&perks=2801223209,3429800428,2652708987,555281244
+dimwishlist:item=1175295126&perks=2801223209,3827198035,2652708987,831391274
+dimwishlist:item=1175295126&perks=2801223209,3827198035,2652708987,3365897133
+dimwishlist:item=1175295126&perks=2801223209,3827198035,2652708987,555281244
+dimwishlist:item=1175295126&perks=2801223209,3311977193,2652708987,831391274
+dimwishlist:item=1175295126&perks=2801223209,3311977193,2652708987,3365897133
+dimwishlist:item=1175295126&perks=2801223209,3311977193,2652708987,555281244
+dimwishlist:item=1175295126&perks=2801223209,16392701,2652708987,831391274
+dimwishlist:item=1175295126&perks=2801223209,16392701,2652708987,3365897133
+dimwishlist:item=1175295126&perks=2801223209,16392701,2652708987,555281244
+dimwishlist:item=1175295126&perks=4067834857,3429800428,2652708987,831391274
+dimwishlist:item=1175295126&perks=4067834857,3429800428,2652708987,3365897133
+dimwishlist:item=1175295126&perks=4067834857,3429800428,2652708987,555281244
+dimwishlist:item=1175295126&perks=4067834857,3827198035,2652708987,831391274
+dimwishlist:item=1175295126&perks=4067834857,3827198035,2652708987,3365897133
+dimwishlist:item=1175295126&perks=4067834857,3827198035,2652708987,555281244
+dimwishlist:item=1175295126&perks=4067834857,3311977193,2652708987,831391274
+dimwishlist:item=1175295126&perks=4067834857,3311977193,2652708987,3365897133
+dimwishlist:item=1175295126&perks=4067834857,3311977193,2652708987,555281244
+dimwishlist:item=1175295126&perks=4067834857,16392701,2652708987,831391274
+dimwishlist:item=1175295126&perks=4067834857,16392701,2652708987,3365897133
+dimwishlist:item=1175295126&perks=4067834857,16392701,2652708987,555281244
+dimwishlist:item=1175295126&perks=852209214,3429800428,2652708987,831391274
+dimwishlist:item=1175295126&perks=852209214,3429800428,2652708987,3365897133
+dimwishlist:item=1175295126&perks=852209214,3429800428,2652708987,555281244
+dimwishlist:item=1175295126&perks=852209214,3827198035,2652708987,831391274
+dimwishlist:item=1175295126&perks=852209214,3827198035,2652708987,3365897133
+dimwishlist:item=1175295126&perks=852209214,3827198035,2652708987,555281244
+dimwishlist:item=1175295126&perks=852209214,3311977193,2652708987,831391274
+dimwishlist:item=1175295126&perks=852209214,3311977193,2652708987,3365897133
+dimwishlist:item=1175295126&perks=852209214,3311977193,2652708987,555281244
+dimwishlist:item=1175295126&perks=852209214,16392701,2652708987,831391274
+dimwishlist:item=1175295126&perks=852209214,16392701,2652708987,3365897133
+dimwishlist:item=1175295126&perks=852209214,16392701,2652708987,555281244
+
+
+// Hushed Whisper - PvE Minor god 1
+// (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Tear), (Hatchling)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content, particularly on Strand builds. Hushed Whisper is a precision frame bow which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides ×0.8 horizontal recoil, which isn't that impactful on bows. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. As ever for bows, use the bowstring perk to reduce Draw Time and boost Handling, and the arrow perk to boost Accuracy or Reload Speed. For Strand synergy, there's the trait perk pairing of Tear which spreads ~4m AoE sever on a crit kill to reduce damage output to ×0.6 from enemies affected. A crit kill, or three crit hits within 3s of each other, also procs Hatchling to spawn a Threadling. For the Origin Trait, there's either Wild Card to provide the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy, or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3574168117&perks=2801223209,3429800428,960997401,831391274
+dimwishlist:item=3574168117&perks=2801223209,3827198035,960997401,831391274
+dimwishlist:item=3574168117&perks=2801223209,3311977193,960997401,831391274
+dimwishlist:item=3574168117&perks=2801223209,16392701,960997401,831391274
+dimwishlist:item=3574168117&perks=4067834857,3429800428,960997401,831391274
+dimwishlist:item=3574168117&perks=4067834857,3827198035,960997401,831391274
+dimwishlist:item=3574168117&perks=4067834857,3311977193,960997401,831391274
+dimwishlist:item=3574168117&perks=4067834857,16392701,960997401,831391274
+dimwishlist:item=3574168117&perks=852209214,3429800428,960997401,831391274
+dimwishlist:item=3574168117&perks=852209214,3827198035,960997401,831391274
+dimwishlist:item=3574168117&perks=852209214,3311977193,960997401,831391274
+dimwishlist:item=3574168117&perks=852209214,16392701,960997401,831391274
+
+// Hushed Whisper - PvE Minor god 2
+// (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Tear), (Explosive Head, Precision Instrument)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content, particularly on Strand builds. Hushed Whisper is a precision frame bow which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides ×0.8 horizontal recoil, which isn't that impactful on bows. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. As ever for bows, use the bowstring perk to reduce Draw Time and boost Handling, and the arrow perk to boost Accuracy or Reload Speed. For Strand synergy, Tear in the first trait perk column spreads ~4m AoE sever on a crit kill to reduce damage output to ×0.6 from enemies affected. For damage in the second column, Explosive Head boosts bodyshot damage by ×1.15 and crit damage by ×1.1 with increased stagger, and inflicts AoE damage on enemies within 3m. Precision Instrument also procs on crit hits granting up to 6 stacks of escalating damage for ×1.25 (×1.3 when enhanced) for 1.25s or until you miss a crit. For the Origin Trait, there's either Wild Card to provide the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy, or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3574168117&perks=2801223209,3429800428,960997401,3365897133
+dimwishlist:item=3574168117&perks=2801223209,3429800428,960997401,555281244
+dimwishlist:item=3574168117&perks=2801223209,3827198035,960997401,3365897133
+dimwishlist:item=3574168117&perks=2801223209,3827198035,960997401,555281244
+dimwishlist:item=3574168117&perks=2801223209,3311977193,960997401,3365897133
+dimwishlist:item=3574168117&perks=2801223209,3311977193,960997401,555281244
+dimwishlist:item=3574168117&perks=2801223209,16392701,960997401,3365897133
+dimwishlist:item=3574168117&perks=2801223209,16392701,960997401,555281244
+dimwishlist:item=3574168117&perks=4067834857,3429800428,960997401,3365897133
+dimwishlist:item=3574168117&perks=4067834857,3429800428,960997401,555281244
+dimwishlist:item=3574168117&perks=4067834857,3827198035,960997401,3365897133
+dimwishlist:item=3574168117&perks=4067834857,3827198035,960997401,555281244
+dimwishlist:item=3574168117&perks=4067834857,3311977193,960997401,3365897133
+dimwishlist:item=3574168117&perks=4067834857,3311977193,960997401,555281244
+dimwishlist:item=3574168117&perks=4067834857,16392701,960997401,3365897133
+dimwishlist:item=3574168117&perks=4067834857,16392701,960997401,555281244
+dimwishlist:item=3574168117&perks=852209214,3429800428,960997401,3365897133
+dimwishlist:item=3574168117&perks=852209214,3429800428,960997401,555281244
+dimwishlist:item=3574168117&perks=852209214,3827198035,960997401,3365897133
+dimwishlist:item=3574168117&perks=852209214,3827198035,960997401,555281244
+dimwishlist:item=3574168117&perks=852209214,3311977193,960997401,3365897133
+dimwishlist:item=3574168117&perks=852209214,3311977193,960997401,555281244
+dimwishlist:item=3574168117&perks=852209214,16392701,960997401,3365897133
+dimwishlist:item=3574168117&perks=852209214,16392701,960997401,555281244
+
+// Hushed Whisper - PvE Minor god 3
+// (Elastic String, Flexible String, Polymer String), (Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching, Compact Arrow Shaft), (Tear), (Explosive Head, Precision Instrument)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for Minor add control in both general at-level or better, and end-game underleveled content. Hushed Whisper is a precision frame bow which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides ×0.8 horizontal recoil, which isn't that impactful on bows. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. As ever for bows, use the bowstring perk to reduce Draw Time and boost Handling, and the arrow perk to boost Accuracy or Reload Speed. In the first trait perk column, Successful Warm-Up applies a ×0.625 scalar after a kill for 6s, with further kills adding 4s at a time to a maximum of 20s or until stowed. For damage in the second column, Hatchling spawns a Threadling on a crit kill or three crit hits within 3s of each other. Alternatively, Explosive Head boosts bodyshot damage by ×1.15 and crit damage by ×1.1 with increased stagger, and inflicts AoE damage on enemies within 3m or Precision Instrument procs on crit hits granting up to 6 stacks of escalating damage for ×1.25 (×1.3 when enhanced) for 1.25s or until you miss a crit. For the Origin Trait, there's either Wild Card to provide the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy, or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Draw Time, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3574168117&perks=2801223209,3429800428,2652708987,831391274
+dimwishlist:item=3574168117&perks=2801223209,3429800428,2652708987,3365897133
+dimwishlist:item=3574168117&perks=2801223209,3429800428,2652708987,555281244
+dimwishlist:item=3574168117&perks=2801223209,3827198035,2652708987,831391274
+dimwishlist:item=3574168117&perks=2801223209,3827198035,2652708987,3365897133
+dimwishlist:item=3574168117&perks=2801223209,3827198035,2652708987,555281244
+dimwishlist:item=3574168117&perks=2801223209,3311977193,2652708987,831391274
+dimwishlist:item=3574168117&perks=2801223209,3311977193,2652708987,3365897133
+dimwishlist:item=3574168117&perks=2801223209,3311977193,2652708987,555281244
+dimwishlist:item=3574168117&perks=2801223209,16392701,2652708987,831391274
+dimwishlist:item=3574168117&perks=2801223209,16392701,2652708987,3365897133
+dimwishlist:item=3574168117&perks=2801223209,16392701,2652708987,555281244
+dimwishlist:item=3574168117&perks=4067834857,3429800428,2652708987,831391274
+dimwishlist:item=3574168117&perks=4067834857,3429800428,2652708987,3365897133
+dimwishlist:item=3574168117&perks=4067834857,3429800428,2652708987,555281244
+dimwishlist:item=3574168117&perks=4067834857,3827198035,2652708987,831391274
+dimwishlist:item=3574168117&perks=4067834857,3827198035,2652708987,3365897133
+dimwishlist:item=3574168117&perks=4067834857,3827198035,2652708987,555281244
+dimwishlist:item=3574168117&perks=4067834857,3311977193,2652708987,831391274
+dimwishlist:item=3574168117&perks=4067834857,3311977193,2652708987,3365897133
+dimwishlist:item=3574168117&perks=4067834857,3311977193,2652708987,555281244
+dimwishlist:item=3574168117&perks=4067834857,16392701,2652708987,831391274
+dimwishlist:item=3574168117&perks=4067834857,16392701,2652708987,3365897133
+dimwishlist:item=3574168117&perks=4067834857,16392701,2652708987,555281244
+dimwishlist:item=3574168117&perks=852209214,3429800428,2652708987,831391274
+dimwishlist:item=3574168117&perks=852209214,3429800428,2652708987,3365897133
+dimwishlist:item=3574168117&perks=852209214,3429800428,2652708987,555281244
+dimwishlist:item=3574168117&perks=852209214,3827198035,2652708987,831391274
+dimwishlist:item=3574168117&perks=852209214,3827198035,2652708987,3365897133
+dimwishlist:item=3574168117&perks=852209214,3827198035,2652708987,555281244
+dimwishlist:item=3574168117&perks=852209214,3311977193,2652708987,831391274
+dimwishlist:item=3574168117&perks=852209214,3311977193,2652708987,3365897133
+dimwishlist:item=3574168117&perks=852209214,3311977193,2652708987,555281244
+dimwishlist:item=3574168117&perks=852209214,16392701,2652708987,831391274
+dimwishlist:item=3574168117&perks=852209214,16392701,2652708987,3365897133
+dimwishlist:item=3574168117&perks=852209214,16392701,2652708987,555281244
+
+
+// Gunburn - PvE Minor god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Threat Detector), (Kinetic Tremors, Ancillary Ordinance, One For All)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content. Gunburn is a lightweight frame SMG - the first ever from the Veist foundry - which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides +20 to your hidden Mobility attribute and a ×1.0625 forward movement scalar. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine size is 37 (max 44). Range is compressed on SMGs, so look for a Handling boost from your barrel perk on M+KB, or Stability on Controller. In the magazine slot, a perk a bump Reload Speed is pretty much the only option. With an SMG, you'll pretty much always be engaging in CQC ranges, so Threat Detector is a natural first trait perk column choice - it procs per enemy within 15m up to ×2 stacks, with two stacks providing +40 Stability, +60 Reload Speed with a ×0.81 animation scalar and +100 Handling (+44, +64 and +100 respectively, when enhanced). For add group control, in the second column, Kinetic Tremors emits three 6m AoE kinetic shockwaves after 14 hits (13 when enhanced) within 3s of each other, which are treated as weapon damage and inherit damage boosts. Requiring a bit more setup, Ancillary Ordinance builds up to ×5 stacks on elemental kills or kills of elementally-debuffed enemies with abilities or elemental weapons - then, on a kinetic weapon kill, a stack is used to spawn a micro-missile on the corpse to track to an enemy within 30m. With no stacks, kinetic kills on elementally-debuffed enemies instantly spawn a micro-missile. For the Origin Trait, there's either Veist Stinger which provides a 2% chance per hit to refill 25% of the magazine or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3431536253&perks=1840239774,1431678320,4071163871,3891536761
+dimwishlist:item=3431536253&perks=1840239774,1431678320,4071163871,1202584452
+dimwishlist:item=3431536253&perks=1840239774,106909392,4071163871,3891536761
+dimwishlist:item=3431536253&perks=1840239774,106909392,4071163871,1202584452
+dimwishlist:item=3431536253&perks=1840239774,3230963543,4071163871,3891536761
+dimwishlist:item=3431536253&perks=1840239774,3230963543,4071163871,1202584452
+dimwishlist:item=3431536253&perks=839105230,1431678320,4071163871,3891536761
+dimwishlist:item=3431536253&perks=839105230,1431678320,4071163871,1202584452
+dimwishlist:item=3431536253&perks=839105230,106909392,4071163871,3891536761
+dimwishlist:item=3431536253&perks=839105230,106909392,4071163871,1202584452
+dimwishlist:item=3431536253&perks=839105230,3230963543,4071163871,3891536761
+dimwishlist:item=3431536253&perks=839105230,3230963543,4071163871,1202584452
+dimwishlist:item=3431536253&perks=3661387068,1431678320,4071163871,3891536761
+dimwishlist:item=3431536253&perks=3661387068,1431678320,4071163871,1202584452
+dimwishlist:item=3431536253&perks=3661387068,106909392,4071163871,3891536761
+dimwishlist:item=3431536253&perks=3661387068,106909392,4071163871,1202584452
+dimwishlist:item=3431536253&perks=3661387068,3230963543,4071163871,3891536761
+dimwishlist:item=3431536253&perks=3661387068,3230963543,4071163871,1202584452
+dimwishlist:item=3431536253&perks=1392496348,1431678320,4071163871,3891536761
+dimwishlist:item=3431536253&perks=1392496348,1431678320,4071163871,1202584452
+dimwishlist:item=3431536253&perks=1392496348,106909392,4071163871,3891536761
+dimwishlist:item=3431536253&perks=1392496348,106909392,4071163871,1202584452
+dimwishlist:item=3431536253&perks=1392496348,3230963543,4071163871,3891536761
+dimwishlist:item=3431536253&perks=1392496348,3230963543,4071163871,1202584452
+dimwishlist:item=3431536253&perks=4090651448,1431678320,4071163871,3891536761
+dimwishlist:item=3431536253&perks=4090651448,1431678320,4071163871,1202584452
+dimwishlist:item=3431536253&perks=4090651448,106909392,4071163871,3891536761
+dimwishlist:item=3431536253&perks=4090651448,106909392,4071163871,1202584452
+dimwishlist:item=3431536253&perks=4090651448,3230963543,4071163871,3891536761
+dimwishlist:item=3431536253&perks=4090651448,3230963543,4071163871,1202584452
+
+// Gunburn - PvE Minor god 2
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Stats For All, Threat Detector), (One For All)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for tougher add control in both general at-level or better, and end-game underleveled content. Gunburn is a lightweight frame SMG - the first ever from the Veist foundry - which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides +20 to your hidden Mobility attribute and a ×1.0625 forward movement scalar. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3431536253 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine size is 37 (max 44). Range is compressed on SMGs, so look for a Handling boost from your barrel perk on M+KB, or Stability on Controller. In the magazine slot, a perk a bump Reload Speed is pretty much the only option. With an SMG, you'll pretty much always be engaging in CQC ranges, so Threat Detector is a natural first trait perk column choice - it procs per enemy within 15m up to ×2 stacks, with two stacks providing +40 Stability, +60 Reload Speed with a ×0.81 animation scalar and +100 Handling (+44, +64 and +100 respectively, when enhanced). Alternatively, there's the ever-popular SOFA roll of Stats For All and One For All, both procced on hitting three separate targets within 3s of each, which applies +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, and ×1.05 damage dropoff distance, and boosts boosts damage by ×1.35 for a non-refreshable 10s (11s when enhanced). For the Origin Trait, there's either Veist Stinger which provides a 2% chance per hit to refill 25% of the magazine or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3431536253&perks=1840239774,1431678320,1583705720,4049631843
+dimwishlist:item=3431536253&perks=1840239774,1431678320,4071163871,4049631843
+dimwishlist:item=3431536253&perks=1840239774,106909392,1583705720,4049631843
+dimwishlist:item=3431536253&perks=1840239774,106909392,4071163871,4049631843
+dimwishlist:item=3431536253&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=3431536253&perks=1840239774,3230963543,4071163871,4049631843
+dimwishlist:item=3431536253&perks=839105230,1431678320,1583705720,4049631843
+dimwishlist:item=3431536253&perks=839105230,1431678320,4071163871,4049631843
+dimwishlist:item=3431536253&perks=839105230,106909392,1583705720,4049631843
+dimwishlist:item=3431536253&perks=839105230,106909392,4071163871,4049631843
+dimwishlist:item=3431536253&perks=839105230,3230963543,1583705720,4049631843
+dimwishlist:item=3431536253&perks=839105230,3230963543,4071163871,4049631843
+dimwishlist:item=3431536253&perks=3661387068,1431678320,1583705720,4049631843
+dimwishlist:item=3431536253&perks=3661387068,1431678320,4071163871,4049631843
+dimwishlist:item=3431536253&perks=3661387068,106909392,1583705720,4049631843
+dimwishlist:item=3431536253&perks=3661387068,106909392,4071163871,4049631843
+dimwishlist:item=3431536253&perks=3661387068,3230963543,1583705720,4049631843
+dimwishlist:item=3431536253&perks=3661387068,3230963543,4071163871,4049631843
+dimwishlist:item=3431536253&perks=1392496348,1431678320,1583705720,4049631843
+dimwishlist:item=3431536253&perks=1392496348,1431678320,4071163871,4049631843
+dimwishlist:item=3431536253&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=3431536253&perks=1392496348,106909392,4071163871,4049631843
+dimwishlist:item=3431536253&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=3431536253&perks=1392496348,3230963543,4071163871,4049631843
+dimwishlist:item=3431536253&perks=4090651448,1431678320,1583705720,4049631843
+dimwishlist:item=3431536253&perks=4090651448,1431678320,4071163871,4049631843
+dimwishlist:item=3431536253&perks=4090651448,106909392,1583705720,4049631843
+dimwishlist:item=3431536253&perks=4090651448,106909392,4071163871,4049631843
+dimwishlist:item=3431536253&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=3431536253&perks=4090651448,3230963543,4071163871,4049631843
+
+
+// Gunburn - PvE Minor god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Threat Detector), (Kinetic Tremors, Ancillary Ordinance, One For All)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content. Gunburn is a lightweight frame SMG - the first ever from the Veist foundry - which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides +20 to your hidden Mobility attribute and a ×1.0625 forward movement scalar. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/72775246 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine size is 37 (max 44). Range is compressed on SMGs, so look for a Handling boost from your barrel perk on M+KB, or Stability on Controller. In the magazine slot, a perk a bump Reload Speed is pretty much the only option. With an SMG, you'll pretty much always be engaging in CQC ranges, so Threat Detector is a natural first trait perk column choice - it procs per enemy within 15m up to ×2 stacks, with two stacks providing +40 Stability, +60 Reload Speed with a ×0.81 animation scalar and +100 Handling (+44, +64 and +100 respectively, when enhanced). For add group control, in the second column, Kinetic Tremors emits three 6m AoE kinetic shockwaves after 14 hits (13 when enhanced) within 3s of each other, which are treated as weapon damage and inherit damage boosts. Requiring a bit more setup, Ancillary Ordinance builds up to ×5 stacks on elemental kills or kills of elementally-debuffed enemies with abilities or elemental weapons - then, on a kinetic weapon kill, a stack is used to spawn a micro-missile on the corpse to track to an enemy within 30m. With no stacks, kinetic kills on elementally-debuffed enemies instantly spawn a micro-missile. For the Origin Trait, there's either Veist Stinger which provides a 2% chance per hit to refill 25% of the magazine or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=72775246&perks=1840239774,1431678320,4071163871,3891536761
+dimwishlist:item=72775246&perks=1840239774,1431678320,4071163871,1202584452
+dimwishlist:item=72775246&perks=1840239774,106909392,4071163871,3891536761
+dimwishlist:item=72775246&perks=1840239774,106909392,4071163871,1202584452
+dimwishlist:item=72775246&perks=1840239774,3230963543,4071163871,3891536761
+dimwishlist:item=72775246&perks=1840239774,3230963543,4071163871,1202584452
+dimwishlist:item=72775246&perks=839105230,1431678320,4071163871,3891536761
+dimwishlist:item=72775246&perks=839105230,1431678320,4071163871,1202584452
+dimwishlist:item=72775246&perks=839105230,106909392,4071163871,3891536761
+dimwishlist:item=72775246&perks=839105230,106909392,4071163871,1202584452
+dimwishlist:item=72775246&perks=839105230,3230963543,4071163871,3891536761
+dimwishlist:item=72775246&perks=839105230,3230963543,4071163871,1202584452
+dimwishlist:item=72775246&perks=3661387068,1431678320,4071163871,3891536761
+dimwishlist:item=72775246&perks=3661387068,1431678320,4071163871,1202584452
+dimwishlist:item=72775246&perks=3661387068,106909392,4071163871,3891536761
+dimwishlist:item=72775246&perks=3661387068,106909392,4071163871,1202584452
+dimwishlist:item=72775246&perks=3661387068,3230963543,4071163871,3891536761
+dimwishlist:item=72775246&perks=3661387068,3230963543,4071163871,1202584452
+dimwishlist:item=72775246&perks=1392496348,1431678320,4071163871,3891536761
+dimwishlist:item=72775246&perks=1392496348,1431678320,4071163871,1202584452
+dimwishlist:item=72775246&perks=1392496348,106909392,4071163871,3891536761
+dimwishlist:item=72775246&perks=1392496348,106909392,4071163871,1202584452
+dimwishlist:item=72775246&perks=1392496348,3230963543,4071163871,3891536761
+dimwishlist:item=72775246&perks=1392496348,3230963543,4071163871,1202584452
+dimwishlist:item=72775246&perks=4090651448,1431678320,4071163871,3891536761
+dimwishlist:item=72775246&perks=4090651448,1431678320,4071163871,1202584452
+dimwishlist:item=72775246&perks=4090651448,106909392,4071163871,3891536761
+dimwishlist:item=72775246&perks=4090651448,106909392,4071163871,1202584452
+dimwishlist:item=72775246&perks=4090651448,3230963543,4071163871,3891536761
+dimwishlist:item=72775246&perks=4090651448,3230963543,4071163871,1202584452
+
+// Gunburn - PvE Minor god 2
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Corkscrew Rifling), (Alloy Mag, Tactical Mag, Flared Magwell), (Stats For All, Threat Detector), (One For All)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for tougher add control in both general at-level or better, and end-game underleveled content. Gunburn is a lightweight frame SMG - the first ever from the Veist foundry - which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic, and provides +20 to your hidden Mobility attribute and a ×1.0625 forward movement scalar. The stats are good by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/72775246 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine size is 37 (max 44). Range is compressed on SMGs, so look for a Handling boost from your barrel perk on M+KB, or Stability on Controller. In the magazine slot, a perk a bump Reload Speed is pretty much the only option. With an SMG, you'll pretty much always be engaging in CQC ranges, so Threat Detector is a natural first trait perk column choice - it procs per enemy within 15m up to ×2 stacks, with two stacks providing +40 Stability, +60 Reload Speed with a ×0.81 animation scalar and +100 Handling (+44, +64 and +100 respectively, when enhanced). Alternatively, there's the ever-popular SOFA roll of Stats For All and One For All, both procced on hitting three separate targets within 3s of each, which applies +35 Handling and Reload Speed with a ×0.95 reload animation scalar, +10 Stability and Range, and ×1.05 damage dropoff distance, and boosts boosts damage by ×1.35 for a non-refreshable 10s (11s when enhanced). For the Origin Trait, there's either Veist Stinger which provides a 2% chance per hit to refill 25% of the magazine or Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling or Stability, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=72775246&perks=1840239774,1431678320,1583705720,4049631843
+dimwishlist:item=72775246&perks=1840239774,1431678320,4071163871,4049631843
+dimwishlist:item=72775246&perks=1840239774,106909392,1583705720,4049631843
+dimwishlist:item=72775246&perks=1840239774,106909392,4071163871,4049631843
+dimwishlist:item=72775246&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=72775246&perks=1840239774,3230963543,4071163871,4049631843
+dimwishlist:item=72775246&perks=839105230,1431678320,1583705720,4049631843
+dimwishlist:item=72775246&perks=839105230,1431678320,4071163871,4049631843
+dimwishlist:item=72775246&perks=839105230,106909392,1583705720,4049631843
+dimwishlist:item=72775246&perks=839105230,106909392,4071163871,4049631843
+dimwishlist:item=72775246&perks=839105230,3230963543,1583705720,4049631843
+dimwishlist:item=72775246&perks=839105230,3230963543,4071163871,4049631843
+dimwishlist:item=72775246&perks=3661387068,1431678320,1583705720,4049631843
+dimwishlist:item=72775246&perks=3661387068,1431678320,4071163871,4049631843
+dimwishlist:item=72775246&perks=3661387068,106909392,1583705720,4049631843
+dimwishlist:item=72775246&perks=3661387068,106909392,4071163871,4049631843
+dimwishlist:item=72775246&perks=3661387068,3230963543,1583705720,4049631843
+dimwishlist:item=72775246&perks=3661387068,3230963543,4071163871,4049631843
+dimwishlist:item=72775246&perks=1392496348,1431678320,1583705720,4049631843
+dimwishlist:item=72775246&perks=1392496348,1431678320,4071163871,4049631843
+dimwishlist:item=72775246&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=72775246&perks=1392496348,106909392,4071163871,4049631843
+dimwishlist:item=72775246&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=72775246&perks=1392496348,3230963543,4071163871,4049631843
+dimwishlist:item=72775246&perks=4090651448,1431678320,1583705720,4049631843
+dimwishlist:item=72775246&perks=4090651448,1431678320,4071163871,4049631843
+dimwishlist:item=72775246&perks=4090651448,106909392,1583705720,4049631843
+dimwishlist:item=72775246&perks=4090651448,106909392,4071163871,4049631843
+dimwishlist:item=72775246&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=72775246&perks=4090651448,3230963543,4071163871,4049631843
+
+
+// Arcane Embrace - PvE Boss god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Fourth Time's the Charm), (Precision Instrument)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll backup sustained Boss damage in both general at-level or better, and end-game underleveled content. Arcane Embrace was the first heavy burst frame shotgun and are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic. While they struggle to find a defined role in the current sandbox, the subfamily does offer good single mag damage. The stats are decent by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/3328019216 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine Size is 12 (max 16) - each trigger pull fires two shots - and total ammo is 36. The usual play for shotguns of boosting Handling with the barrel perk still applies and, as there's no Assault Mag, look to a magazine perk that helps with Reload Speed. For sustained boss damage, once you're out of heavy ammo, there's the perk trait combination of Fourth Time's the Charm to refill 2 shots from reserves after 4 crits within 2s (3s when enhanced) of each other and Precision Instrument which also procs on crit hits granting up to 6 stacks of escalating damage for ×1.25 (×1.3 when enhanced) for 1.25s or until you miss a crit. Alternatively, if you're in a fireteam or a Transcendent subclass, Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by ×1.3 (×1.33 when enhanced), with each stack lasting as long as the debuff is active. For the Origin Trait, there's only Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=3328019216&perks=1840239774,106909392,1354429876,3764420437
+dimwishlist:item=3328019216&perks=1840239774,3230963543,1354429876,555281244
+dimwishlist:item=3328019216&perks=1840239774,3230963543,1354429876,3764420437
+dimwishlist:item=3328019216&perks=1840239774,1431678320,1354429876,555281244
+dimwishlist:item=3328019216&perks=1840239774,1431678320,1354429876,3764420437
+dimwishlist:item=3328019216&perks=839105230,106909392,1354429876,555281244
+dimwishlist:item=3328019216&perks=839105230,106909392,1354429876,3764420437
+dimwishlist:item=3328019216&perks=839105230,3230963543,1354429876,555281244
+dimwishlist:item=3328019216&perks=839105230,3230963543,1354429876,3764420437
+dimwishlist:item=3328019216&perks=839105230,1431678320,1354429876,555281244
+dimwishlist:item=3328019216&perks=839105230,1431678320,1354429876,3764420437
+dimwishlist:item=3328019216&perks=4090651448,106909392,1354429876,555281244
+dimwishlist:item=3328019216&perks=4090651448,106909392,1354429876,3764420437
+dimwishlist:item=3328019216&perks=4090651448,3230963543,1354429876,555281244
+dimwishlist:item=3328019216&perks=4090651448,3230963543,1354429876,3764420437
+dimwishlist:item=3328019216&perks=4090651448,1431678320,1354429876,555281244
+dimwishlist:item=3328019216&perks=4090651448,1431678320,1354429876,3764420437
+
+
+// Arcane Embrace - PvE Boss god 1
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag), (Fourth Time's the Charm), (Precision Instrument)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll backup sustained Boss damage in both general at-level or better, and end-game underleveled content. Arcane Embrace was the first heavy burst frame shotgun and are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic. While they struggle to find a defined role in the current sandbox, the subfamily does offer good single mag damage. The stats are decent by comparison with its peers, and are helped further at Tier 4/5 when barrel and magazine perks are enhanced - see https://d2foundry.gg/w/1813474267 for how the weapon stats impact in-game performance. From the @Mossy-Max spreadsheet at https://www.destiny2.science/ base Magazine Size is 12 (max 16) - each trigger pull fires two shots - and total ammo is 36. The usual play for shotguns of boosting Handling with the barrel perk still applies and, as there's no Assault Mag, look to a magazine perk that helps with Reload Speed. For sustained boss damage, once you're out of heavy ammo, there's the perk trait combination of Fourth Time's the Charm to refill 2 shots from reserves after 4 crits within 2s (3s when enhanced) of each other and Precision Instrument which also procs on crit hits granting up to 6 stacks of escalating damage for ×1.25 (×1.3 when enhanced) for 1.25s or until you miss a crit. Alternatively, if you're in a fireteam or a Transcendent subclass, Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by ×1.3 (×1.33 when enhanced), with each stack lasting as long as the debuff is active. For the Origin Trait, there's only Search Party which applies a ×0.85 ADS animation scalar and ×1.1 ADS movement speed when there are no allies within 15m. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BossSpec PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1813474267&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=1813474267&perks=1840239774,106909392,1354429876,3764420437
+dimwishlist:item=1813474267&perks=1840239774,3230963543,1354429876,555281244
+dimwishlist:item=1813474267&perks=1840239774,3230963543,1354429876,3764420437
+dimwishlist:item=1813474267&perks=1840239774,1431678320,1354429876,555281244
+dimwishlist:item=1813474267&perks=1840239774,1431678320,1354429876,3764420437
+dimwishlist:item=1813474267&perks=839105230,106909392,1354429876,555281244
+dimwishlist:item=1813474267&perks=839105230,106909392,1354429876,3764420437
+dimwishlist:item=1813474267&perks=839105230,3230963543,1354429876,555281244
+dimwishlist:item=1813474267&perks=839105230,3230963543,1354429876,3764420437
+dimwishlist:item=1813474267&perks=839105230,1431678320,1354429876,555281244
+dimwishlist:item=1813474267&perks=839105230,1431678320,1354429876,3764420437
+dimwishlist:item=1813474267&perks=4090651448,106909392,1354429876,555281244
+dimwishlist:item=1813474267&perks=4090651448,106909392,1354429876,3764420437
+dimwishlist:item=1813474267&perks=4090651448,3230963543,1354429876,555281244
+dimwishlist:item=1813474267&perks=4090651448,3230963543,1354429876,3764420437
+dimwishlist:item=1813474267&perks=4090651448,1431678320,1354429876,555281244
+dimwishlist:item=1813474267&perks=4090651448,1431678320,1354429876,3764420437
+
