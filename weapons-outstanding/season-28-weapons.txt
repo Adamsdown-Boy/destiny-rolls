@@ -1,0 +1,88 @@
+@title:Year 8 and Season 28 new and returning weapons
+@desription:Listing of all of the Year 8, "Year of Prophecy" and Season 28 "Renegades" weapons, by activity.
+
+
+//*Season Pass*
+// Service of Luzaku (Exotic)
+
+
+// *Renegades destination weapons* with Air-Cooled Core origin trait
+//Modified B-7 Pistol
+@notes:Modelled on the MW-20 Bryar pistol used by Cassian Andor (and the K-16 Bryar that inspired that, used by Kyle Katarn in Dark Forces)
+
+//Uncivil Discourse
+@notes:Modelled on the DL-44 blaster pistol used by Han Solo
+
+//All or Nothing
+//notes:Modelled on the EE-3 Carbine rifleused by Mandalorian bounty hunter Boba Fett
+
+//Compact Defender
+@notes:Modelled after the Defender sporting blaster pistol used by Princess Leia Organa in the opening scenes of Star Wars: A New Hope
+
+//M-17 Fast Talker
+@notes:Modelled after the DC-17m Interchangeable Weapon System used by Clone Commandos during the Clone Wars
+
+//Refurbished A499
+@notes:Modelled after the Amban Phase-Pulse Blaster used by the Mandalorian bounty hunter Din Djarin
+
+// Praxic Blade (Exotic)
+@notes:Modelled on a lightsabre, which is not as clumsy or as random as a blaster
+
+
+// *Equilibrium Dungeon weapons*
+//Zealous Ideal
+
+// High Tyrant
+
+// Voltaic Shade
+
+// Conspiracy Honed
+
+// Bitter End
+
+// Sullen Claw	Sword
+
+// Heirloom (Exotic)
+@notes:Modelled on the the Wookiee bowcaster
+
+
+// *Lawless Frontier weapons*
+// Eighty-Six
+
+// Monody-44
+@notes:A monody is an ode sung by one voice (as in a Greek tragedy) or an elegy or dirge performed by one person
+
+// Motif-41
+
+// Hawthorne’s Field-Forged Shotgun
+
+
+// *Pinnacle Ops weapons* with Vanguard Determination origin trait
+// Duty Bound
+
+// A Good Shout
+
+// Oxygen SR3
+
+// Sarpedon-D
+@notes:Sarpedon was a son of Zeus and Europa and king of Lycia killed in the Trojan War
+
+
+// *Crucible Ops weapons* with Roar of Battle origin trait
+// Peculiar Charm
+
+Mos Athanor IV
+@notes:An athenor was a self-feeding digesting furnace that maintained a uniform and durable heat, used by alchemists
+
+Qua Vinctus IV
+@notes:A Latin phrase that translates to approximately "as bound" or "in the capacity of someone who is bound"
+
+
+// *Trials of Osiris weapons* with Fleet Footed origin trait
+//Corundum Hammer
+@notes:Corundum is a very hard, crystalline mineral composed of aluminum oxide, the third-hardest mineral after diamond and moissanite and the basis for rubies and sapphires when of gemstone quality
+
+// The Martlet
+@notes:A mythical bird used in heraldry that, in tradition, never lands from birth to death
+
+
