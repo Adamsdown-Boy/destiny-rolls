@@ -53,6 +53,7 @@
 @notes:A monody is an ode sung by one voice (as in a Greek tragedy) or an elegy or dirge performed by one person
 
 // Motif-41
+@notes:A motif could be either a dominant or recurring idea in an artistic work, or a decorative image or design, especially a repeated one, forming a pattern
 
 // Hawthorne’s Field-Forged Shotgun
 
