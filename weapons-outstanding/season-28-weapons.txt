@@ -40,7 +40,7 @@
 
 // Bitter End
 
-// Sullen Claw	Sword
+// Sullen Claw
 
 // Heirloom (Exotic)
 @notes:Modelled on the the Wookiee bowcaster
