@@ -14,7 +14,7 @@
 @notes:Modelled on the DL-44 blaster pistol used by Han Solo
 
 //All or Nothing
-//notes:Modelled on the EE-3 Carbine rifle used by Mandalorian bounty hunter Boba Fett
+//notes:Modelled on the EE-3 Carbine rifleused by Mandalorian bounty hunter Boba Fett
 
 //Compact Defender
 @notes:Modelled after the Defender sporting blaster pistol used by Princess Leia Organa in the opening scenes of Star Wars: A New Hope
@@ -57,6 +57,17 @@
 // Hawthorne’s Field-Forged Shotgun
 
 
+//*Portal weapons*
+// Psi Aeterna IV
+@notes:"Psi Aeterna" combines the Greek letter Psi (Ψ) with the Latin word Aeterna, which together roughly translate to "Eternal Soul" or "Unending Mind"
+
+// Evening SI4
+
+// Nox Sidereal IV
+@notes:"Nox Sidereal" is a compound phrase derived from Latin, meaning "night of the stars".
+
+// Something Something
+
 // *Pinnacle Ops weapons* with Vanguard Determination origin trait
 // Duty Bound
 
@@ -71,18 +82,23 @@
 // *Crucible Ops weapons* with Roar of Battle origin trait
 // Peculiar Charm
 
-Mos Athanor IV
+// Mos Athanor IV
 @notes:An athenor was a self-feeding digesting furnace that maintained a uniform and durable heat, used by alchemists
 
-Qua Vinctus IV
+// Qua Vinctus IV
 @notes:A Latin phrase that translates to approximately "as bound" or "in the capacity of someone who is bound"
 
 
 // *Trials of Osiris weapons* with Fleet Footed origin trait
-//Corundum Hammer
+// Corundum Hammer
 @notes:Corundum is a very hard, crystalline mineral composed of aluminum oxide, the third-hardest mineral after diamond and moissanite and the basis for rubies and sapphires when of gemstone quality
 
-// The Martlet
+// The Immortal
+
+//The Martlet
 @notes:A mythical bird used in heraldry that, in tradition, never lands from birth to death
 
+// Astral Horizon
+
+// Cataphract GL3
 
