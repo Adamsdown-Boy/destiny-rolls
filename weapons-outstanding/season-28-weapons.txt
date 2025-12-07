@@ -85,7 +85,7 @@
 // Peculiar Charm
 
 // Mos Athanor IV
-@notes:An athenor was a self-feeding digesting furnace that maintained a uniform and durable heat, used by alchemists
+@notes:A combination of the Latin word "mos" (meaning "custom" or "manner") and "athanor" (an alchemical furnace) - a literal translation could be "the custom of the athanor" or "the manner of the alchemical furnace"
 
 // Qua Vinctus IV
 @notes:A Latin phrase that translates to approximately "as bound" or "in the capacity of someone who is bound"
