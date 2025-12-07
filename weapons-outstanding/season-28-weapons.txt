@@ -26,7 +26,7 @@
 @notes:Modelled after the Amban Phase-Pulse Blaster used by the Mandalorian bounty hunter Din Djarin
 
 // Praxic Blade (Exotic)
-@notes:Modelled on a lightsabre, which is not as clumsy or as random as a blaster
+@notes:Modelled on a lightsabre, which is not as clumsy or as random as a blaster - an elegant weapon for a more civilised age
 
 
 // *Equilibrium Dungeon weapons*
