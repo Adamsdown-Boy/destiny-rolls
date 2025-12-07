@@ -68,7 +68,7 @@ dimwishlist:item=3620277039&perks=4090651448,2420895100,2579169598,460017080,425
 dimwishlist:item=3620277039&perks=4090651448,3177308360,2579169598,460017080,4259401308
 
 // Peculiar Charm - PvP Duelling good 1
-// (Hammer-Forged Rifling, Mallbore, Extended Barrel, Full Bore, Corkscrew Rifling), (Extended Magazine, Steady Rounds), (Rangefinder, Rapid Hit), (Headseeker)
+// (Hammer-Forged Rifling, Mallbore, Extended Barrel, Full Bore, Corkscrew Rifling), (Accurized Rounds), (Rangefinder, Rapid Hit), (Headseeker)
 //notes:Inspired by https://www.youtube.com/@cammycakesgaming (PvP PvP-KillChain M+KB Controller): Good PvP for duelling. Peculiar Charm is the first of a new Aggressive Burst SMG subfamily that shoots four rounds before a short pause - early days, but could be very competitive in PvP, particularly if you're used to Antiope or Shuayura's. The only downside is that the pause makes it difficult to use against snipers, who might well be able to shoot through the flinch. There's no data yet at the @hugowo_ spreadsheet at https://www.destiny2.science/, but Cammy's testing looks like it's a similar TTK to precision SMGs ~0.8s (8c 1b). The stats aren't really comparable with any existing weapons, but notable are the magazine size of 56 at base, and the range - a max range roll reaches out to ~26m, before damage falloff compared to Shayura's ~23.5m. You can see the in-game effect of stat changes at https://d2foundry.gg/w/3620277039 for yourself. For the barrel and magazine perks, push out the range, even at the cost of a little handling - if you're using Peacekeepers, Dragon's Shadow or St0mp-EE5, you'll still be covered, and Fitted Stock can straighten out Recoil Direction to a perfect 100 and recover any lost stability. For duelling, in the first trait perk column Rangefinder pushes out the damage drop-off and aim assist, Lone Wolf and Rapid Hit both improve gunfeel, and Shoot to Loot picks up remote ammo bricks or orbs from safety, which reloads all your weapons from reserves. In the second column, Headseeker provides additional consistency with highly mobile playstyles, or Kinetic Tremors is triggered after 14 hits for additional target and AoE damage. Recommended MW: Range, with a Range mod/enhanced mod, or your choice depending on your play style.|tags:PvP PvP-KillChain M+KB Controller
 dimwishlist:item=3620277039&perks=3250034553,3142289711,2846385770,460017080,4259401308
 dimwishlist:item=3620277039&perks=3250034553,3142289711,2846385770,3891536761,4259401308
@@ -110,5 +110,3 @@ dimwishlist:item=3620277039&perks=4090651448,3142289711,2579169598,460017080,425
 dimwishlist:item=3620277039&perks=4090651448,3142289711,2579169598,3891536761,4259401308
 dimwishlist:item=3620277039&perks=4090651448,3142289711,3700496672,460017080,4259401308
 dimwishlist:item=3620277039&perks=4090651448,3142289711,3700496672,3891536761,4259401308
-
-
