@@ -14,7 +14,7 @@
 @notes:Modelled on the DL-44 blaster pistol used by Han Solo
 
 //All or Nothing
-//notes:Modelled on the EE-3 Carbine rifleused by Mandalorian bounty hunter Boba Fett
+//notes:Modelled on the EE-3 Carbine rifle used by Mandalorian bounty hunter Boba Fett
 
 //Compact Defender
 @notes:Modelled after the Defender sporting blaster pistol used by Princess Leia Organa in the opening scenes of Star Wars: A New Hope
