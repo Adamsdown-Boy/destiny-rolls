@@ -1,5 +1,5 @@
 @title:Year 8 and Season 28 new and returning weapons
-@desription:Listing of all of the Year 8, "Year of Prophecy" and Season 28 "Renegades" weapons, by activity.
+@desription:Listing of all of the Year 8, "Year of Prophecy" and Season 28 "Renegades" weapons, by activity. Information on Star Wars weapon models taken from https://starwars.fandom.com/wiki/Destiny_2
 
 
 //*Season Pass*
@@ -31,16 +31,22 @@
 
 // *Equilibrium Dungeon weapons*
 //Zealous Ideal
+@notes:Modelled on the E-11 medium blaster rifle, the standard-issue weapon for the Galactic Empire's stormtrooper
 
 // High Tyrant
+@notes:Modelled on the A280C blaster rifle, the preferred weapon of Rebel Alliance Special Forces
 
 // Voltaic Shade
+@notes:Modelled on the EL-16HFE blaster rifle, the Heavy Field Edition of the smaller EL-16 blaster rifle used by the New Republic and then by the Resistance Army during the Cold War against the First Order
 
 // Conspiracy Honed
+@notes:Modelled on the DLT-19x targeting blaster, the primary ranged weapon for Imperial sharpshooters
 
 // Bitter End
+@notes:Modelled on the Z-6 rotary blaster cannon used by Hevy in the Clone Wars series
 
 // Sullen Claw
+@notes:Modelled on the vibroswords commonly utilized by CIS BX-series droid commandos
 
 // Heirloom (Exotic)
 @notes:Modelled on the the Wookiee bowcaster
@@ -75,6 +81,8 @@
 
 // A Good Shout
 
+// Horror's Least
+
 // Oxygen SR3
 
 // Sarpedon-D
@@ -86,6 +94,8 @@
 
 // Mos Athanor IV
 @notes:A combination of the Latin word "mos" (meaning "custom" or "manner") and "athanor" (from Arabic "al-tannūr" - an alchemical furnace) - a literal translation could be "the custom of the athanor" or "the manner of the alchemical furnace"
+
+// Riptide
 
 // Qua Vinctus IV
 @notes:A Latin phrase that translates to approximately "as bound" or "in the capacity of someone who is bound"
@@ -104,3 +114,21 @@
 
 // Cataphract GL3
 
+
+// *The Dawning* weapons with Dawning Surprise origin trait
+
+// Fimbulwinter Stitch
+
+// Permafrost
+
+// Mistral Lift
+
+
+// *Unknown source - possibly Guardian Games* with the Nail, Meet Hammer origin trait/
+// King Orfeo
+
+// The Heron
+
+// Action Item
+
+// Micromort
