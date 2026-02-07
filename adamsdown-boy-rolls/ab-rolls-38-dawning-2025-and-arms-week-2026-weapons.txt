@@ -1,0 +1,87 @@
+title:Dawning 2025 and Arms Week 2026 weapons
+@description:Additional weapon rolls to those discussed in @PodvsEnemies Podcast episode 163
+
+// Fimbulwinter Stitch - PvE Minor god AB 1
+// (Fluted Barrel, Arrowhead Brake), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), (Supercharged Magazine, Trickle Charge), (Collective Action)
+//notes:Adamsdown_Boy written as at v9.5.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for single-target damage against Minor adds in general at-level or better content, particularly for Arc builds. Fimbulwinter Stitch is a precision frame sidearm which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic having a worse damage profile than other sidearms. The stats are in-band by comparison with its peers - see https://d2foundry.gg/w/3685829362 for how the weapon stats impact in-game performance. The precision frame, and good Recoil Direction means you don't need too much help taming the recoil, so look for a barrel perk that helps Handling and then, although the Reload Speed is slow, you can ignore that with the right trait perks, so you can choose whichever combat effect magazine perk you like, or maybe Flared Magwell for a little extra Stability. For endgame use with arc builds, you can use Supercharged Magazine to refill 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while it's active, overflowing the magazine to up to ×2 capacity or Trickle Charge to refill 10% of the magazine on receiving a stack of Bolt Charge, and 20% when you discharge with a lightning bolt on a target. Pair either of those together with Collective Action to use your Ionic Traces, which helpfully track to your position, to boost damage by ×1.2 after collecting an elemental pickup for 7s, refreshable up to a maximum 12s. For the Origin Trait, Dawning Surprise has a hidden counter - 6 red bar kills (5 enhanced) or 2 orange/yellow bars will fill this to generate a pickup which last 10s that grants 10% energy to melee, grenade and super, +22 HP and start regeneration, so can be very useful. If you're interested, Fimbulwinter (Old Norse: Fimbulvetr) is the devastating, three-year long winter with no summer that signals the beginning of Ragnarök (the end of the world) in Norse mythology. Recommended MW: Handling or Stability, with a Synergy mod or your preferred choice of mod/enhanced mod to boost mag size, weapon stats or ammo regeneration - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE EndGame PvE-God M+KB Controller
+dimwishlist:item=3685829362&perks=1840239774,1561002382,1511100135,3324494224
+dimwishlist:item=3685829362&perks=1840239774,1561002382,1115162408,3324494224
+dimwishlist:item=3685829362&perks=1840239774,1968497646,1511100135,3324494224
+dimwishlist:item=3685829362&perks=1840239774,1968497646,1115162408,3324494224
+dimwishlist:item=3685829362&perks=1840239774,1885400500,1511100135,3324494224
+dimwishlist:item=3685829362&perks=1840239774,1885400500,1115162408,3324494224
+dimwishlist:item=3685829362&perks=1840239774,3230963543,1511100135,3324494224
+dimwishlist:item=3685829362&perks=1840239774,3230963543,1115162408,3324494224
+dimwishlist:item=3685829362&perks=839105230,1561002382,1511100135,3324494224
+dimwishlist:item=3685829362&perks=839105230,1561002382,1115162408,3324494224
+dimwishlist:item=3685829362&perks=839105230,1968497646,1511100135,3324494224
+dimwishlist:item=3685829362&perks=839105230,1968497646,1115162408,3324494224
+dimwishlist:item=3685829362&perks=839105230,1885400500,1511100135,3324494224
+dimwishlist:item=3685829362&perks=839105230,1885400500,1115162408,3324494224
+dimwishlist:item=3685829362&perks=839105230,3230963543,1511100135,3324494224
+dimwishlist:item=3685829362&perks=839105230,3230963543,1115162408,3324494224
+dimwishlist:item=3685829362&perks=4090651448,1561002382,1511100135,3324494224
+dimwishlist:item=3685829362&perks=4090651448,1561002382,1115162408,3324494224
+dimwishlist:item=3685829362&perks=4090651448,1968497646,1511100135,3324494224
+dimwishlist:item=3685829362&perks=4090651448,1968497646,1115162408,3324494224
+dimwishlist:item=3685829362&perks=4090651448,1885400500,1511100135,3324494224
+dimwishlist:item=3685829362&perks=4090651448,1885400500,1115162408,3324494224
+dimwishlist:item=3685829362&perks=4090651448,3230963543,1511100135,3324494224
+dimwishlist:item=3685829362&perks=4090651448,3230963543,1115162408,3324494224
+
+
+// Fimbulwinter Stitch - PvE Minor god AB 1
+// (Fluted Barrel, Arrowhead Brake), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), (Supercharged Magazine, Trickle Charge), (Collective Action)
+//notes:Adamsdown_Boy written as at v9.5.5.1 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for single-target damage against Minor adds in general at-level or better content, particularly for Arc builds. Fimbulwinter Stitch is a precision frame sidearm which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic having a worse damage profile than other sidearms. The stats are in-band by comparison with its peers - see https://d2foundry.gg/w/2645567209 for how the weapon stats impact in-game performance. The precision frame, and good Recoil Direction means you don't need too much help taming the recoil, so look for a barrel perk that helps Handling and then, although the Reload Speed is slow, you can ignore that with the right trait perks, so you can choose whichever combat effect magazine perk you like, or maybe Flared Magwell for a little extra Stability. For endgame use with arc builds, you can use Supercharged Magazine to refill 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while it's active, overflowing the magazine to up to ×2 capacity or Trickle Charge to refill 10% of the magazine on receiving a stack of Bolt Charge, and 20% when you discharge with a lightning bolt on a target. Pair either of those together with Collective Action to use your Ionic Traces, which helpfully track to your position, to boost damage by ×1.2 after collecting an elemental pickup for 7s, refreshable up to a maximum 12s. For the Origin Trait, Dawning Surprise has a hidden counter - 6 red bar kills (5 enhanced) or 2 orange/yellow bars will fill this to generate a pickup which last 10s that grants 10% energy to melee, grenade and super, +22 HP and start regeneration, so can be very useful. If you're interested, Fimbulwinter (Old Norse: Fimbulvetr) is the devastating, three-year long winter with no summer that signals the beginning of Ragnarök (the end of the world) in Norse mythology. Recommended MW: Handling or Stability, with a Synergy mod or your preferred choice of mod/enhanced mod to boost mag size, weapon stats or ammo regeneration - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE EndGame PvE-God M+KB Controller
+dimwishlist:item=2645567209&perks=1840239774,1561002382,1511100135,3324494224
+dimwishlist:item=2645567209&perks=1840239774,1561002382,1115162408,3324494224
+dimwishlist:item=2645567209&perks=1840239774,1968497646,1511100135,3324494224
+dimwishlist:item=2645567209&perks=1840239774,1968497646,1115162408,3324494224
+dimwishlist:item=2645567209&perks=1840239774,1885400500,1511100135,3324494224
+dimwishlist:item=2645567209&perks=1840239774,1885400500,1115162408,3324494224
+dimwishlist:item=2645567209&perks=1840239774,3230963543,1511100135,3324494224
+dimwishlist:item=2645567209&perks=1840239774,3230963543,1115162408,3324494224
+dimwishlist:item=2645567209&perks=839105230,1561002382,1511100135,3324494224
+dimwishlist:item=2645567209&perks=839105230,1561002382,1115162408,3324494224
+dimwishlist:item=2645567209&perks=839105230,1968497646,1511100135,3324494224
+dimwishlist:item=2645567209&perks=839105230,1968497646,1115162408,3324494224
+dimwishlist:item=2645567209&perks=839105230,1885400500,1511100135,3324494224
+dimwishlist:item=2645567209&perks=839105230,1885400500,1115162408,3324494224
+dimwishlist:item=2645567209&perks=839105230,3230963543,1511100135,3324494224
+dimwishlist:item=2645567209&perks=839105230,3230963543,1115162408,3324494224
+dimwishlist:item=2645567209&perks=4090651448,1561002382,1511100135,3324494224
+dimwishlist:item=2645567209&perks=4090651448,1561002382,1115162408,3324494224
+dimwishlist:item=2645567209&perks=4090651448,1968497646,1511100135,3324494224
+dimwishlist:item=2645567209&perks=4090651448,1968497646,1115162408,3324494224
+dimwishlist:item=2645567209&perks=4090651448,1885400500,1511100135,3324494224
+dimwishlist:item=2645567209&perks=4090651448,1885400500,1115162408,3324494224
+dimwishlist:item=2645567209&perks=4090651448,3230963543,1511100135,3324494224
+dimwishlist:item=2645567209&perks=4090651448,3230963543,1115162408,3324494224
+
+
+// Permafrost - PvE Minor god AB 1
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Blast Distributor, Demolitionist), (Desperate Measures, Adrenaline Junkie)
+//notes:Adamsdown_Boy written as at v9.5.5.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE roll for controlling groups of Minor adds in general at-level or better content, particularly with Warlock buddy builds. Permafrost is a wave frame GL which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic having been power crept by aerial denial frames, so this is more to think about keeping in case there's a future rebalancing. The stats are in-band by comparison with its peers - see https://d2foundry.gg/w/2922964484 for how the weapon stats impact in-game performance. Looks for a barrel perk that helps Handling - Velocity's nice, but you'll be shooting at your feet most of the time. Try not to hurt the Blast Radius, as that affects the width and height of the wave. For the magazine perk just High-Velocity Rounds. For Warlock buddy builds, in the first trait perk column you have Blast Distributor which stacks up to ×5 to provide +10 to your Grenade attribute (+13 when enhanced) per stack on explosive damage - a total of +50 (+65 enhanced) for a refreshable 5s on further explosive damage to improve buddy damage, or Demolitionist to generate chunk grenade ability energy on kills, if you're not running Devour, and an instant magazine refill on grenade use. In the second column, Desperate Measures provides up to 3 stacks for ×1.3 damage for a refreshable 7s for a weapon and then two ability kills, or Adrenaline Junkie generates up to ×5 stacks on kills for +20 handling and ×1.33 damage, with a grenade kill giving an instant 5 stacks, for a refreshable 4.5s (5s when enhanced). If you're interested, Permafrost is a permanently frozen layer on or under Earth's surface. For the Origin Trait, Dawning Surprise has a hidden counter - 6 red bar kills (5 enhanced) or 2 orange/yellow bars will fill this to generate a pickup which last 10s that grants 10% energy to melee, grenade and super, +22 HP and start regeneration, so can be very useful or Field Test provides steady boosts to Range, Stability, Handling and Reload Speed on hits and kills, lasting until you die. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1017229899,2109543898
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1017229899,11612903
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,2109543898
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,11612903
+dimwishlist:item=2922964484&perks=3798852852,2822142346,1017229899,2109543898
+dimwishlist:item=2922964484&perks=3798852852,2822142346,1017229899,11612903
+dimwishlist:item=2922964484&perks=3798852852,2822142346,3523296417,2109543898
+dimwishlist:item=2922964484&perks=3798852852,2822142346,3523296417,11612903
+
+
+// Permafrost - PvE Minor god AB 1
+// (Quick Launch, Smart Drift Control), (High-Velocity Rounds), (Blast Distributor, Demolitionist), (Desperate Measures, Adrenaline Junkie)
+//notes:Adamsdown_Boy written as at v9.5.5.1 (PvE PvE-MinorSpec PvE-God M+KB Controller): First-choice PvE roll for controlling groups of Minor adds in general at-level or better content, particularly with Warlock buddy builds. Permafrost is a wave frame GL which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic having been power crept by aerial denial frames, so this is more to think about keeping in case there's a future rebalancing. The stats are in-band by comparison with its peers - see https://d2foundry.gg/w/2316331767 for how the weapon stats impact in-game performance. Looks for a barrel perk that helps Handling - Velocity's nice, but you'll be shooting at your feet most of the time. Try not to hurt the Blast Radius, as that affects the width and height of the wave. For the magazine perk just High-Velocity Rounds. For Warlock buddy builds, in the first trait perk column you have Blast Distributor which stacks up to ×5 to provide +10 to your Grenade attribute (+13 when enhanced) per stack on explosive damage - a total of +50 (+65 enhanced) for a refreshable 5s on further explosive damage to improve buddy damage, or Demolitionist to generate chunk grenade ability energy on kills, if you're not running Devour, and an instant magazine refill on grenade use. In the second column, Desperate Measures provides up to 3 stacks for ×1.3 damage for a refreshable 7s for a weapon and then two ability kills, or Adrenaline Junkie generates up to ×5 stacks on kills for +20 handling and ×1.33 damage, with a grenade kill giving an instant 5 stacks, for a refreshable 4.5s (5s when enhanced). If you're interested, Permafrost is a permanently frozen layer on or under Earth's surface. For the Origin Trait, Dawning Surprise has a hidden counter - 6 red bar kills (5 enhanced) or 2 orange/yellow bars will fill this to generate a pickup which last 10s that grants 10% energy to melee, grenade and super, +22 HP and start regeneration, so can be very useful or Field Test provides steady boosts to Range, Stability, Handling and Reload Speed on hits and kills, lasting until you die. Recommended MW: Handling, with your preferred choice of mod/enhanced mod to boost mag size, weapon stats, ammo regeneration, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-God M+KB Controller
+dimwishlist:item=2316331767&perks=3525010810,2822142346,1017229899,2109543898
+dimwishlist:item=2316331767&perks=3525010810,2822142346,1017229899,11612903
+dimwishlist:item=2316331767&perks=3525010810,2822142346,3523296417,2109543898
+dimwishlist:item=2316331767&perks=3525010810,2822142346,3523296417,11612903
+dimwishlist:item=2316331767&perks=3798852852,2822142346,1017229899,2109543898
+dimwishlist:item=2316331767&perks=3798852852,2822142346,1017229899,11612903
+dimwishlist:item=2316331767&perks=3798852852,2822142346,3523296417,2109543898
+dimwishlist:item=2316331767&perks=3798852852,2822142346,3523296417,11612903
+
+
