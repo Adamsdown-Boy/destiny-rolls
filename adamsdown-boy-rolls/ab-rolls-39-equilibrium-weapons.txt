@@ -1,0 +1,17 @@
+title:Equilibrium weapons
+@description:Additional weapon rolls to those discussed in @PodvsEnemies Podcast episode 164
+
+// Conspiracy Honed - PvE Minor god AB 1
+// (Arrowhead Brake, Fluted Barrel, Corkscrew Rifling), (Accelerated Heatsink, Ionized Heatsink, Enhanced Heatsink), (Headstone), (Firefly)
+//notes:Adamsdown_Boy written as at v9.5.5.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for add group control in both general at-level or better, and end-game underleveled content. Conspiracy Honed is a Dynamic Heat frame sniper, which has a rapid-fire firing rate, which are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic being a very interesting high total special weapon damage option. The heat frame is like an extra perk set, first providing a pseudo-Reconstruction, automatically "refilling" as the weapon loses heat when not being used. Additionally, there's an intrinsic ×1.15 damage boost against red-bar enemies and ×1.325 against orange and yellow bars and vehicles, plus a ×0.5 heat generation for 6s if you manually reload when the heat bar is at <12.5% of maximum heat to proc Dynamic Heat Limiter, as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with other rapid-fire snipers, although max total ammo is lower at 26 - see https://d2foundry.gg/w/3481382332 for how the weapon stats impact in-game performance, once the formulas have been worked out. First, a barrel perk with Handling makes everything snappier. For the heatsink perk, you're looking for something that improves cooling or slows heat generation. For a legendary "we've got Icebreaker at home" roll, pair Headstone to generate a Stasis crystal on a crit kill, and Firefly which also procs on a crit kill to create a 4m AoE solar explosion that automatically shatters the crystal for more AoE damage and to proc stasis ability effects, plus +50 Manual Vent Speed for 6s. For the Origin Trait, Imperial Allegiance grants a stack for each ally in 15m up to ×3 to boost both the cooling rate and damage when heat is >50% by up to ×1.105, so ideal for working in a fireteam. If you're interested, this is modelled on the DLT-19x targeting blaster, the primary ranged weapon for Imperial sharpshooters. Recommended MW: Cooling Efficiency, with a Heat Generated mod or your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=4062069077&perks=839105230,1806718225,124408337,3824105627
+dimwishlist:item=4062069077&perks=839105230,807993149,124408337,3824105627
+dimwishlist:item=4062069077&perks=839105230,1080094173,124408337,3824105627
+dimwishlist:item=4062069077&perks=1840239774,1806718225,124408337,3824105627
+dimwishlist:item=4062069077&perks=1840239774,807993149,124408337,3824105627
+dimwishlist:item=4062069077&perks=1840239774,1080094173,124408337,3824105627
+dimwishlist:item=4062069077&perks=4090651448,1806718225,124408337,3824105627
+dimwishlist:item=4062069077&perks=4090651448,807993149,124408337,3824105627
+dimwishlist:item=4062069077&perks=4090651448,1080094173,124408337,3824105627
+
+
