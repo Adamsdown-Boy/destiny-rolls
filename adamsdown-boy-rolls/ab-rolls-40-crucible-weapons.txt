@@ -1,0 +1,19 @@
+title:Crucible weapons
+@description:Additional weapon rolls to those discussed in @PodvsEnemies Podcast episode 165
+
+// Corundum Hammer - PvE Minor god AB 1
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Firefly), (Elemental Honing)
+//notes:Adamsdown_Boy written as at v9.5.5.2 (PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for Minor add clearing in both general at-level or better, and end-game underleveled content, particularly for Prismatic builds. Corundum Hammer is an adaptive hand cannon, which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic being a good quality of life subfamily, even if damage output isn't great. The frame offers no intrinsic bonuses as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are a bit random by comparison with other adaptive HCs - see https://d2foundry.gg/w/1323862250 for how the weapon stats impact in-game performance. First priority with the barrel perk is Recoil Direction, and then with the magazine perk look for something that helps ammo, reload speed or both. For use with a Prismatic subclass, the combination of the Strand energy type and Firefly to proc a 4m AoE Solar explosion on a crit kill plus +50 Reload Speed for 6s provides a pretty much constant ×2 stacks of Elemental Honing for ×1.1 damage, escalating up to ×5 stacks for ×1.35 for 20s (23s when enhanced) for each different elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5 with your prismatic setup. There's a choice of Roar of Battle which grants +10 Stability and Handling for 6s after dealing or taking damage every 0.5s or so for 2s, or Fleet Footed which stacks up to ×1 on hits and ×2 on kills to boost movement speed and Airborne Effectiveness for a refreshable 5s (6s enhanced). If you're interested, Corundum is a very hard, crystalline mineral composed of aluminum oxide, the third-hardest mineral after diamond and moissanite and the basis for rubies and sapphires when of gemstone quality. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-MinorSpec PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2263462407&perks=839105230,106909392,3824105627,1089671869
+dimwishlist:item=2263462407&perks=839105230,1431678320,3824105627,1089671869
+dimwishlist:item=2263462407&perks=839105230,3230963543,3824105627,1089671869
+dimwishlist:item=2263462407&perks=839105230,1087426260,3824105627,1089671869
+dimwishlist:item=2263462407&perks=3661387068,106909392,3824105627,1089671869
+dimwishlist:item=2263462407&perks=3661387068,1431678320,3824105627,1089671869
+dimwishlist:item=2263462407&perks=3661387068,3230963543,3824105627,1089671869
+dimwishlist:item=2263462407&perks=3661387068,1087426260,3824105627,1089671869
+dimwishlist:item=2263462407&perks=1467527085,106909392,3824105627,1089671869
+dimwishlist:item=2263462407&perks=1467527085,1431678320,3824105627,1089671869
+dimwishlist:item=2263462407&perks=1467527085,3230963543,3824105627,1089671869
+dimwishlist:item=2263462407&perks=1467527085,1087426260,3824105627,1089671869
+
