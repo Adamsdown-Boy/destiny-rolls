@@ -1,5 +1,5 @@
 title:Legoleflash 1 - Riptide
-description:Reprised Season 28 Riptide, discussed in the "Riptide 2.0 Dethrones Number One Fusion Rifle" video (https://youtu.be/IvsMxN8ssuU).
+description:Reprised Season 28 Riptide, discussed in the "Riptide 2.0 Dethrones Number One Fusion Rifle" video from 5 January 2026 (https://youtu.be/IvsMxN8ssuU).
 
 // Riptide - PvP Duelling god 1
 // (Hammer-Forged Rifling), (Projection Fuse), (Overflow, Under Pressure, Built to Blast), (Closing Time)
