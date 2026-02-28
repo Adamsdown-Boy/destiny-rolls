@@ -1,5 +1,5 @@
 title:Legoleflash 2 - Compact Defender
-description:Compact Defender, discussed and play-tested in the "Compact Defender Outperforms EVERY PRIMARY in Destiny 2" video (https://youtu.be/Ljg_7aSDdUU).
+description:Compact Defender, discussed and play-tested in the "Compact Defender Outperforms EVERY PRIMARY in Destiny 2" video from 12 January 2026 (https://youtu.be/Ljg_7aSDdUU).
 
 // Compact Defender - PvP Duel god 1
 // Smallbore, Corkscrew Rifling), (Particle Repeater), (Delicate Tuning), (Precision instrument)
