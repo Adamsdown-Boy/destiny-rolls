@@ -1,0 +1,72 @@
+title:Renegades weapons
+@description:Additional weapon rolls to those discussed in @PodvsEnemies Podcast episode 166
+
+// Nox Sidereal IV - PvE Minor god AB 1 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Polygonal Rifling), (Enhanced Battery, Accelerated Coils), (Clown Cartridge, Demolitionist), (Frenzy)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-Boss PvE-BurstDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for burst DPS against Banes, Elites, Champions or Minibosses, or shorter boss DPS windows in both general at-level or better, and end-game underleveled content. Nox Sidereal IV is an aggressive fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic offering the best one-mag boss DPS post-buff 9.5.0 in December 2025, although still a bit awkward to use on some bosses. The frame intrinsic fires three bursts of four bolts each in an increasingly wider spread as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are poor by comparison with its peers - hopefully when the website's back https://d2foundry.gg/w/2875763009 will show how the weapon stats impact in-game performance. First priority with the barrel perk is recoil control, and then with the magazine perk look for something that helps improve battery capacity or speeds up Charge Time. For burst damage when you're close enough not to worry about landing bolts, in the first trait perk column use Clown Cartridge to overflow the battery or Demolitionist to refill the battery on grenade use once the battery's empty with Frenzy which, after being in combat for 12s - that's dealing or taking damage, boosts damage by ×1.15 for a refreshable 7.2s and boosts Handling and Reload Speed by +100. The Wild Card origin trait provides the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy. Of less interest is Vanguard Vindication which provides up to ×3 stacks that reduces incoming damage at max to ×0.94 for a refreshable 10s (12.5s when enhanced), on kills within 20s of using a class ability. If you're interested, "Nox Sidereal" is a compound phrase derived from Latin, meaning "night of the stars". Recommended MW: Charge Time, with an enhanced Charge Time mod or your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BurstDamage PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=2875763009&perks=839105230,2680121939,2284787283,4104185692
+dimwishlist:item=2875763009&perks=839105230,2680121939,3523296417,4104185692
+dimwishlist:item=2875763009&perks=839105230,689005463,2284787283,4104185692
+dimwishlist:item=2875763009&perks=839105230,689005463,3523296417,4104185692
+dimwishlist:item=2875763009&perks=3661387068,2680121939,2284787283,4104185692
+dimwishlist:item=2875763009&perks=3661387068,2680121939,3523296417,4104185692
+dimwishlist:item=2875763009&perks=3661387068,689005463,2284787283,4104185692
+dimwishlist:item=2875763009&perks=3661387068,689005463,3523296417,4104185692
+dimwishlist:item=2875763009&perks=1467527085,2680121939,2284787283,4104185692
+dimwishlist:item=2875763009&perks=1467527085,2680121939,3523296417,4104185692
+dimwishlist:item=2875763009&perks=1467527085,689005463,2284787283,4104185692
+dimwishlist:item=2875763009&perks=1467527085,689005463,3523296417,4104185692
+dimwishlist:item=2875763009&perks=1392496348,2680121939,2284787283,4104185692
+dimwishlist:item=2875763009&perks=1392496348,2680121939,3523296417,4104185692
+dimwishlist:item=2875763009&perks=1392496348,689005463,2284787283,4104185692
+dimwishlist:item=2875763009&perks=1392496348,689005463,3523296417,4104185692
+
+
+// Nox Sidereal IV - PvE Minor god AB 1 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Polygonal Rifling), (Enhanced Battery, Accelerated Coils), (Clown Cartridge, Demolitionist), (Frenzy)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-Boss PvE-BurstDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for burst DPS against Banes, Elites, Champions or Minibosses, or shorter boss DPS windows in both general at-level or better, and end-game underleveled content. Nox Sidereal IV is an aggressive fusion rifle, which are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic offering the best one-mag boss DPS post-buff 9.5.0 in December 2025, although still a bit awkward to use on some bosses. The frame intrinsic fires three bursts of four bolts each in an increasingly wider spread as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are poor by comparison with its peers - hopefully when the website's back https://d2foundry.gg/w/74733286 will show how the weapon stats impact in-game performance. First priority with the barrel perk is recoil control, and then with the magazine perk look for something that helps improve battery capacity or speeds up Charge Time. For burst damage when you're close enough not to worry about landing bolts, in the first trait perk column use Clown Cartridge to overflow the battery or Demolitionist to refill the battery on grenade use once the battery's empty with Frenzy which, after being in combat for 12s - that's dealing or taking damage, boosts damage by ×1.15 for a refreshable 7.2s and boosts Handling and Reload Speed by +100. The Wild Card origin trait provides the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy. Of less interest is Vanguard Vindication which provides up to ×3 stacks that reduces incoming damage at max to ×0.94 for a refreshable 10s (12.5s when enhanced), on kills within 20s of using a class ability. If you're interested, "Nox Sidereal" is a compound phrase derived from Latin, meaning "night of the stars". Recommended MW: Charge Time, with an enhanced Charge Time mod or your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Boss PvE-BurstDamage PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=74733286&perks=839105230,2680121939,2284787283,4104185692
+dimwishlist:item=74733286&perks=839105230,2680121939,3523296417,4104185692
+dimwishlist:item=74733286&perks=839105230,689005463,2284787283,4104185692
+dimwishlist:item=74733286&perks=839105230,689005463,3523296417,4104185692
+dimwishlist:item=74733286&perks=3661387068,2680121939,2284787283,4104185692
+dimwishlist:item=74733286&perks=3661387068,2680121939,3523296417,4104185692
+dimwishlist:item=74733286&perks=3661387068,689005463,2284787283,4104185692
+dimwishlist:item=74733286&perks=3661387068,689005463,3523296417,4104185692
+dimwishlist:item=74733286&perks=1467527085,2680121939,2284787283,4104185692
+dimwishlist:item=74733286&perks=1467527085,2680121939,3523296417,4104185692
+dimwishlist:item=74733286&perks=1467527085,689005463,2284787283,4104185692
+dimwishlist:item=74733286&perks=1467527085,689005463,3523296417,4104185692
+dimwishlist:item=74733286&perks=1392496348,2680121939,2284787283,4104185692
+dimwishlist:item=74733286&perks=1392496348,2680121939,3523296417,4104185692
+dimwishlist:item=74733286&perks=1392496348,689005463,2284787283,4104185692
+dimwishlist:item=74733286&perks=1392496348,689005463,3523296417,4104185692
+
+
+// Something Something - PvP Boss god 1 AB (god-pve)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag), (Stopping Power), (Elemental Honing, Kinetic Tremors, All-Star)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-Boss PvE-BurstDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for backup boss DPS in both general at-level or better, and end-game underleveled content. Something Something is an aggressive sniper rifle, which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic offering high damage per shot but still usually outclassed by rapid-fire frames. The frame intrinsic offers no bonuses as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are solid by comparison with its peers - hopefully when the website's back https://d2foundry.gg/w/3421075982 will show how the weapon stats impact in-game performance. First priority with the barrel perk is Handling, and then with the magazine perk look for something that helps improve magazine size without penalising reload. For a special weapon option towards the end of a boss fight, possibly for final stand if you've run out of heavy ammo, you have a double damage perk option of Stopping Power in the first trait perk column which provides increased stagger and Aim Assist, and increased damage on low health enemies - ×1.07 when health is below 34%, ×1.1 when <23% and ×1.15 when <18%. In the second column as the main damage perk, Elemental Honing grants an escalating stack of damage up to ×1.4 for 20s (23s when enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5. There's also Kinetic Tremors emits three 6m AoE Kinetic shockwaves after 3 hits (2 when enhanced) within 3s of each other, which are treated as weapon damage so inherit damage boosts. Finally, there's All-Star which boosts damage by ×1.35 and Reload Speed by +100 for a refreshable 6s (7s enhanced) after picking up a special brick, or 9s (10s enhanced) for a heavy brick, with the timer starting only after you ready. The Vanguard Vindication origin trait provides up to ×3 stacks that reduces incoming damage at max to ×0.94 for a refreshable 10s (12.5s when enhanced), on kills within 20s of using a class ability. If you're interested, it's thought the name is from "Something, Something, Something, Dark Side", the Family Guy parody of The Empire Strikes Back. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3421075982&perks=1840239774,1087426260,1517798362,1089671869
+dimwishlist:item=3421075982&perks=1840239774,1087426260,1517798362,3891536761
+dimwishlist:item=3421075982&perks=1840239774,1087426260,1517798362,1226351311
+dimwishlist:item=3421075982&perks=839105230,1087426260,1517798362,1089671869
+dimwishlist:item=3421075982&perks=839105230,1087426260,1517798362,3891536761
+dimwishlist:item=3421075982&perks=839105230,1087426260,1517798362,1226351311
+dimwishlist:item=3421075982&perks=4090651448,1087426260,1517798362,1089671869
+dimwishlist:item=3421075982&perks=4090651448,1087426260,1517798362,3891536761
+dimwishlist:item=3421075982&perks=4090651448,1087426260,1517798362,1226351311
+
+
+// Something Something - PvP Boss god 1 AB (god-pve)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Appended Mag), (Stopping Power), (Elemental Honing, Kinetic Tremors, All-Star)
+//notes:Inspired by @CourtProjects and @ImpetusAlways (PvE PvE-Boss PvE-BurstDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for backup boss DPS in both general at-level or better, and end-game underleveled content. Something Something is an aggressive sniper rifle, which are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic offering high damage per shot but still usually outclassed by rapid-fire frames. The frame intrinsic offers no bonuses as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are solid by comparison with its peers - hopefully when the website's back https://d2foundry.gg/w/690412397 will show how the weapon stats impact in-game performance. First priority with the barrel perk is Handling, and then with the magazine perk look for something that helps improve magazine size without penalising reload. For a special weapon option towards the end of a boss fight, possibly for final stand if you've run out of heavy ammo, you have a double damage perk option of Stopping Power in the first trait perk column which provides increased stagger and Aim Assist, and increased damage on low health enemies - ×1.07 when health is below 34%, ×1.1 when <23% and ×1.15 when <18%. In the second column as the main damage perk, Elemental Honing grants an escalating stack of damage up to ×1.4 for 20s (23s when enhanced) for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5. There's also Kinetic Tremors emits three 6m AoE Kinetic shockwaves after 3 hits (2 when enhanced) within 3s of each other, which are treated as weapon damage so inherit damage boosts. Finally, there's All-Star which boosts damage by ×1.35 and Reload Speed by +100 for a refreshable 6s (7s enhanced) after picking up a special brick, or 9s (10s enhanced) for a heavy brick, with the timer starting only after you ready. The Vanguard Vindication origin trait provides up to ×3 stacks that reduces incoming damage at max to ×0.94 for a refreshable 10s (12.5s when enhanced), on kills within 20s of using a class ability. If you're interested, it's thought the name is from "Something, Something, Something, Dark Side", the Family Guy parody of The Empire Strikes Back. Recommended MW: Handling, with a Backup Mag mod.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=690412397&perks=1840239774,1087426260,1517798362,1089671869
+dimwishlist:item=690412397&perks=1840239774,1087426260,1517798362,3891536761
+dimwishlist:item=690412397&perks=1840239774,1087426260,1517798362,1226351311
+dimwishlist:item=690412397&perks=839105230,1087426260,1517798362,1089671869
+dimwishlist:item=690412397&perks=839105230,1087426260,1517798362,3891536761
+dimwishlist:item=690412397&perks=839105230,1087426260,1517798362,1226351311
+dimwishlist:item=690412397&perks=4090651448,1087426260,1517798362,1089671869
+dimwishlist:item=690412397&perks=4090651448,1087426260,1517798362,3891536761
+dimwishlist:item=690412397&perks=4090651448,1087426260,1517798362,1226351311
+
