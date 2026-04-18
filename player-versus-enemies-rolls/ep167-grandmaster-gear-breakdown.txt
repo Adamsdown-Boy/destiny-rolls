@@ -1,0 +1,469 @@
+title:PvE Podcast 167 - Grandmaster Gear Breakdown
+description:Renegades expansion Pinnacle Ops weapons, discussed in the 7 April 2026 @PodvsEnemies podcast (https://open.spotify.com/episode/1nsctNRVxji8sAOUl4FoPB?si=847478848e02416b)
+
+// Duty Bound - PvE Minor god 1 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Tactical Mag, Alloy Mag, Appended Mag, Flared Magwell, Extended mag), (Fourth Time's the Charm), (Onslaught, Rampage)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty. Duty Bound returns (again) still as an adaptive auto rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable auto rifle families. The frame intrinsic offers no bonuses beyond "being well-rounded and reliable" as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/89693562 how the weapon stats impact in-game performance. The recoil is loose and to the right, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For clearing groups of adds in general content, Fourth Time's the Charm in the first trait perk column generates 2 shots from thin air after 4 crits within 2s (3s when enhanced) of each other to help keep uptime on Onslaught which, while it doesn't increase total damage per magazine, as you ramp up to the maximum 3 stacks does increase raw DPS for a refreshable 4.5s per kill (5s enhanced), by increasing RPM from 600 to a max of around 960. Alternatively, the reworked Rampage stacks up to ×3 on kills for ×1.331 damage for a refreshable 4.5s (5s when enhanced), with the stacks now decaying one at a time. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 12 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=260532765&perks=839105230,106909392,1354429876,95528736
+dimwishlist:item=260532765&perks=839105230,106909392,1354429876,3425386926
+dimwishlist:item=260532765&perks=839105230,1431678320,1354429876,95528736
+dimwishlist:item=260532765&perks=839105230,1431678320,1354429876,3425386926
+dimwishlist:item=260532765&perks=839105230,1087426260,1354429876,95528736
+dimwishlist:item=260532765&perks=839105230,1087426260,1354429876,3425386926
+dimwishlist:item=260532765&perks=839105230,3230963543,1354429876,95528736
+dimwishlist:item=260532765&perks=839105230,3230963543,1354429876,3425386926
+dimwishlist:item=260532765&perks=839105230,2420895100,1354429876,95528736
+dimwishlist:item=260532765&perks=839105230,2420895100,1354429876,3425386926
+dimwishlist:item=260532765&perks=3661387068,106909392,1354429876,95528736
+dimwishlist:item=260532765&perks=3661387068,106909392,1354429876,3425386926
+dimwishlist:item=260532765&perks=3661387068,1431678320,1354429876,95528736
+dimwishlist:item=260532765&perks=3661387068,1431678320,1354429876,3425386926
+dimwishlist:item=260532765&perks=3661387068,1087426260,1354429876,95528736
+dimwishlist:item=260532765&perks=3661387068,1087426260,1354429876,3425386926
+dimwishlist:item=260532765&perks=3661387068,3230963543,1354429876,95528736
+dimwishlist:item=260532765&perks=3661387068,3230963543,1354429876,3425386926
+dimwishlist:item=260532765&perks=3661387068,2420895100,1354429876,95528736
+dimwishlist:item=260532765&perks=3661387068,2420895100,1354429876,3425386926
+dimwishlist:item=260532765&perks=1467527085,106909392,1354429876,95528736
+dimwishlist:item=260532765&perks=1467527085,106909392,1354429876,3425386926
+dimwishlist:item=260532765&perks=1467527085,1431678320,1354429876,95528736
+dimwishlist:item=260532765&perks=1467527085,1431678320,1354429876,3425386926
+dimwishlist:item=260532765&perks=1467527085,1087426260,1354429876,95528736
+dimwishlist:item=260532765&perks=1467527085,1087426260,1354429876,3425386926
+dimwishlist:item=260532765&perks=1467527085,3230963543,1354429876,95528736
+dimwishlist:item=260532765&perks=1467527085,3230963543,1354429876,3425386926
+dimwishlist:item=260532765&perks=1467527085,2420895100,1354429876,95528736
+dimwishlist:item=260532765&perks=1467527085,2420895100,1354429876,3425386926
+
+// Duty Bound - PvE Minor god 2 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Flared Magwell, Tactical Mag, Alloy Mag, Appended Mag), (Bewildering Burst , Enlightened Action), (Rampage)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty. Duty Bound returns (again) still as an adaptive auto rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable auto rifle families. The frame intrinsic offers no bonuses beyond "being well-rounded and reliable" as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/89693562 how the weapon stats impact in-game performance. The recoil is loose and to the right, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For clearing groups of adds in general content, in the first trait perk column Bewildering Burst procs for 6s (7s when enhanced) after finishing a reload following a kill, and then on the next hit launches a kinetic flashbang above the target that does damage and disorients enemies within 9m for 3.5s. Alternatively, to help wit general gunfeel, Enlightened Action builds stacks on hits for a refreshable 2s, that build after 50 hits to +50 Handling and Reload Speed (+55 when enhanced). In the second column, the reworked Rampage stacks up to ×3 on kills for ×1.331 damage for a refreshable 4.5s (5s when enhanced), with the stacks now decaying one at a time. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 12 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=260532765&perks=839105230,3230963543,2289534249,3425386926
+dimwishlist:item=260532765&perks=839105230,3230963543,3828510309,3425386926
+dimwishlist:item=260532765&perks=839105230,106909392,2289534249,3425386926
+dimwishlist:item=260532765&perks=839105230,106909392,3828510309,3425386926
+dimwishlist:item=260532765&perks=839105230,1431678320,2289534249,3425386926
+dimwishlist:item=260532765&perks=839105230,1431678320,3828510309,3425386926
+dimwishlist:item=260532765&perks=839105230,1087426260,2289534249,3425386926
+dimwishlist:item=260532765&perks=839105230,1087426260,3828510309,3425386926
+dimwishlist:item=260532765&perks=3661387068,3230963543,2289534249,3425386926
+dimwishlist:item=260532765&perks=3661387068,3230963543,3828510309,3425386926
+dimwishlist:item=260532765&perks=3661387068,106909392,2289534249,3425386926
+dimwishlist:item=260532765&perks=3661387068,106909392,3828510309,3425386926
+dimwishlist:item=260532765&perks=3661387068,1431678320,2289534249,3425386926
+dimwishlist:item=260532765&perks=3661387068,1431678320,3828510309,3425386926
+dimwishlist:item=260532765&perks=3661387068,1087426260,2289534249,3425386926
+dimwishlist:item=260532765&perks=3661387068,1087426260,3828510309,3425386926
+dimwishlist:item=260532765&perks=1467527085,3230963543,2289534249,3425386926
+dimwishlist:item=260532765&perks=1467527085,3230963543,3828510309,3425386926
+dimwishlist:item=260532765&perks=1467527085,106909392,2289534249,3425386926
+dimwishlist:item=260532765&perks=1467527085,106909392,3828510309,3425386926
+dimwishlist:item=260532765&perks=1467527085,1431678320,2289534249,3425386926
+dimwishlist:item=260532765&perks=1467527085,1431678320,3828510309,3425386926
+dimwishlist:item=260532765&perks=1467527085,1087426260,2289534249,3425386926
+dimwishlist:item=260532765&perks=1467527085,1087426260,3828510309,3425386926
+
+
+// Horror's Least - PvE Minor god 1 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Flared Magwell, Tactical Mag, Alloy Mag, Appended Mag), (Supercharged Magazine), (Jolting Feedback)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing tougher individual Minor adds, Banes, Elites, Champions and Minibosses in activities rated Normal, Hard or Very Hard difficulty, particularly with an Arc build. Horror's Least returns (again) as a rapid-fire pulse rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable pulse rifle families. The frame intrinsic offers a ×0.8 reload animation scalar when starting a manual reload with an empty mag as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/827835657 how the weapon stats impact in-game performance. The recoil is vertical but loose, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For Arc synergy, in the first trait perk column Supercharged Magazine refills 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while the buff is active, overflowing the magazine to up to ×2 capacity. In the second column, for damage, Jolting Feedback applies Arc Jolt after 14 hits (13 when enhanced and 9 when amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 11 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=827835657&perks=839105230,106909392,1511100135,3966416502
+dimwishlist:item=827835657&perks=839105230,1087426260,1511100135,3966416502
+dimwishlist:item=827835657&perks=839105230,1431678320,1511100135,3966416502
+dimwishlist:item=827835657&perks=839105230,3230963543,1511100135,3966416502
+dimwishlist:item=827835657&perks=3661387068,106909392,1511100135,3966416502
+dimwishlist:item=827835657&perks=3661387068,1087426260,1511100135,3966416502
+dimwishlist:item=827835657&perks=3661387068,1431678320,1511100135,3966416502
+dimwishlist:item=827835657&perks=3661387068,3230963543,1511100135,3966416502
+dimwishlist:item=827835657&perks=1467527085,106909392,1511100135,3966416502
+dimwishlist:item=827835657&perks=1467527085,1087426260,1511100135,3966416502
+dimwishlist:item=827835657&perks=1467527085,1431678320,1511100135,3966416502
+dimwishlist:item=827835657&perks=1467527085,3230963543,1511100135,3966416502
+
+// Horror's Least - PvE Minor god 2 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Tactical Mag, Alloy Mag, Appended Mag, Flared Magwell), (Trickle Charge, Supercharged Magazine), (Rolling Storm)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty, particularly with an Arc build. Horror's Least returns (again) as a rapid-fire pulse rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable pulse rifle families. The frame intrinsic offers a ×0.8 reload animation scalar when starting a manual reload with an empty mag as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/827835657 how the weapon stats impact in-game performance. The recoil is vertical but loose, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For Arc synergy and clearing groups of adds in Normal difficulty, in the first trait perk column Trickle Charge refills 10% of the magazine on receiving a stack of Bolt Charge, and 20% when you discharge with a lightning bolt on a target. Alternatively, Supercharged Magazine refills 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while the buff is active, overflowing the magazine to up to ×2 capacity. In the second column, Rolling Storm generates 1 stack of Arc Bolt Charge (2 when Amplified) on a kill, to trigger a lightning bolt at ×10 stacks for both target and AoE damage. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 11 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=827835657&perks=839105230,106909392,1115162408,3218042543
+dimwishlist:item=827835657&perks=839105230,106909392,1511100135,3218042543
+dimwishlist:item=827835657&perks=839105230,1431678320,1115162408,3218042543
+dimwishlist:item=827835657&perks=839105230,1431678320,1511100135,3218042543
+dimwishlist:item=827835657&perks=839105230,1087426260,1115162408,3218042543
+dimwishlist:item=827835657&perks=839105230,1087426260,1511100135,3218042543
+dimwishlist:item=827835657&perks=839105230,3230963543,1115162408,3218042543
+dimwishlist:item=827835657&perks=839105230,3230963543,1511100135,3218042543
+dimwishlist:item=827835657&perks=3661387068,106909392,1115162408,3218042543
+dimwishlist:item=827835657&perks=3661387068,106909392,1511100135,3218042543
+dimwishlist:item=827835657&perks=3661387068,1431678320,1115162408,3218042543
+dimwishlist:item=827835657&perks=3661387068,1431678320,1511100135,3218042543
+dimwishlist:item=827835657&perks=3661387068,1087426260,1115162408,3218042543
+dimwishlist:item=827835657&perks=3661387068,1087426260,1511100135,3218042543
+dimwishlist:item=827835657&perks=3661387068,3230963543,1115162408,3218042543
+dimwishlist:item=827835657&perks=3661387068,3230963543,1511100135,3218042543
+dimwishlist:item=827835657&perks=1467527085,106909392,1115162408,3218042543
+dimwishlist:item=827835657&perks=1467527085,106909392,1511100135,3218042543
+dimwishlist:item=827835657&perks=1467527085,1431678320,1115162408,3218042543
+dimwishlist:item=827835657&perks=1467527085,1431678320,1511100135,3218042543
+dimwishlist:item=827835657&perks=1467527085,1087426260,1115162408,3218042543
+dimwishlist:item=827835657&perks=1467527085,1087426260,1511100135,3218042543
+dimwishlist:item=827835657&perks=1467527085,3230963543,1115162408,3218042543
+dimwishlist:item=827835657&perks=1467527085,3230963543,1511100135,3218042543
+
+// Horror's Least - PvE Minor god 3 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Flared Magwell, Tactical Mag, Alloy Mag, Appended Mag), (Supercharged Magazine), (Rampage)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty, particularly with an Arc build. Horror's Least returns (again) as a rapid-fire pulse rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable pulse rifle families. The frame intrinsic offers a ×0.8 reload animation scalar when starting a manual reload with an empty mag as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/827835657 how the weapon stats impact in-game performance. The recoil is vertical but loose, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For Arc synergy and clearing groups of adds in Normal difficulty, in the first trait perk column Supercharged Magazine refills 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while the buff is active, overflowing the magazine to up to ×2 capacity. In the second column, for damage, the reworked Rampage stacks up to ×3 on kills for up to ×1.331 damage for a refreshable 4.5s (5s when enhanced), with the stacks decaying one at a time. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 11 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=827835657&perks=839105230,106909392,1511100135,3425386926
+dimwishlist:item=827835657&perks=839105230,1087426260,1511100135,3425386926
+dimwishlist:item=827835657&perks=839105230,1431678320,1511100135,3425386926
+dimwishlist:item=827835657&perks=839105230,3230963543,1511100135,3425386926
+dimwishlist:item=827835657&perks=3661387068,106909392,1511100135,3425386926
+dimwishlist:item=827835657&perks=3661387068,1087426260,1511100135,3425386926
+dimwishlist:item=827835657&perks=3661387068,1431678320,1511100135,3425386926
+dimwishlist:item=827835657&perks=3661387068,3230963543,1511100135,3425386926
+dimwishlist:item=827835657&perks=1467527085,106909392,1511100135,3425386926
+dimwishlist:item=827835657&perks=1467527085,1087426260,1511100135,3425386926
+dimwishlist:item=827835657&perks=1467527085,1431678320,1511100135,3425386926
+dimwishlist:item=827835657&perks=1467527085,3230963543,1511100135,3425386926
+
+
+// Horror's Least - PvE Minor god 1 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Flared Magwell, Tactical Mag, Alloy Mag, Appended Mag), (Supercharged Magazine), (Jolting Feedback)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing tougher individual Minor adds, Banes, Elites, Champions and Minibosses in activities rated Normal, Hard or Very Hard difficulty, particularly with an Arc build. Horror's Least returns (again) as a rapid-fire pulse rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable pulse rifle families. The frame intrinsic offers a ×0.8 reload animation scalar when starting a manual reload with an empty mag as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/1018012078 how the weapon stats impact in-game performance. The recoil is vertical but loose, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For Arc synergy, in the first trait perk column Supercharged Magazine refills 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while the buff is active, overflowing the magazine to up to ×2 capacity. In the second column, for damage, Jolting Feedback applies Arc Jolt after 14 hits (13 when enhanced and 9 when amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 11 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1018012078&perks=839105230,106909392,1511100135,3966416502
+dimwishlist:item=1018012078&perks=839105230,1087426260,1511100135,3966416502
+dimwishlist:item=1018012078&perks=839105230,1431678320,1511100135,3966416502
+dimwishlist:item=1018012078&perks=839105230,3230963543,1511100135,3966416502
+dimwishlist:item=1018012078&perks=3661387068,106909392,1511100135,3966416502
+dimwishlist:item=1018012078&perks=3661387068,1087426260,1511100135,3966416502
+dimwishlist:item=1018012078&perks=3661387068,1431678320,1511100135,3966416502
+dimwishlist:item=1018012078&perks=3661387068,3230963543,1511100135,3966416502
+dimwishlist:item=1018012078&perks=1467527085,106909392,1511100135,3966416502
+dimwishlist:item=1018012078&perks=1467527085,1087426260,1511100135,3966416502
+dimwishlist:item=1018012078&perks=1467527085,1431678320,1511100135,3966416502
+dimwishlist:item=1018012078&perks=1467527085,3230963543,1511100135,3966416502
+
+// Horror's Least - PvE Minor god 2 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Tactical Mag, Alloy Mag, Appended Mag, Flared Magwell), (Trickle Charge, Supercharged Magazine), (Rolling Storm)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty, particularly with an Arc build. Horror's Least returns (again) as a rapid-fire pulse rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable pulse rifle families. The frame intrinsic offers a ×0.8 reload animation scalar when starting a manual reload with an empty mag as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/1018012078 how the weapon stats impact in-game performance. The recoil is vertical but loose, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For Arc synergy and clearing groups of adds in Normal difficulty, in the first trait perk column Trickle Charge refills 10% of the magazine on receiving a stack of Bolt Charge, and 20% when you discharge with a lightning bolt on a target. Alternatively, Supercharged Magazine refills 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while the buff is active, overflowing the magazine to up to ×2 capacity. In the second column, Rolling Storm generates 1 stack of Arc Bolt Charge (2 when Amplified) on a kill, to trigger a lightning bolt at ×10 stacks for both target and AoE damage. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 11 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=1018012078&perks=839105230,106909392,1115162408,3218042543
+dimwishlist:item=1018012078&perks=839105230,106909392,1511100135,3218042543
+dimwishlist:item=1018012078&perks=839105230,1431678320,1115162408,3218042543
+dimwishlist:item=1018012078&perks=839105230,1431678320,1511100135,3218042543
+dimwishlist:item=1018012078&perks=839105230,1087426260,1115162408,3218042543
+dimwishlist:item=1018012078&perks=839105230,1087426260,1511100135,3218042543
+dimwishlist:item=1018012078&perks=839105230,3230963543,1115162408,3218042543
+dimwishlist:item=1018012078&perks=839105230,3230963543,1511100135,3218042543
+dimwishlist:item=1018012078&perks=3661387068,106909392,1115162408,3218042543
+dimwishlist:item=1018012078&perks=3661387068,106909392,1511100135,3218042543
+dimwishlist:item=1018012078&perks=3661387068,1431678320,1115162408,3218042543
+dimwishlist:item=1018012078&perks=3661387068,1431678320,1511100135,3218042543
+dimwishlist:item=1018012078&perks=3661387068,1087426260,1115162408,3218042543
+dimwishlist:item=1018012078&perks=3661387068,1087426260,1511100135,3218042543
+dimwishlist:item=1018012078&perks=3661387068,3230963543,1115162408,3218042543
+dimwishlist:item=1018012078&perks=3661387068,3230963543,1511100135,3218042543
+dimwishlist:item=1018012078&perks=1467527085,106909392,1115162408,3218042543
+dimwishlist:item=1018012078&perks=1467527085,106909392,1511100135,3218042543
+dimwishlist:item=1018012078&perks=1467527085,1431678320,1115162408,3218042543
+dimwishlist:item=1018012078&perks=1467527085,1431678320,1511100135,3218042543
+dimwishlist:item=1018012078&perks=1467527085,1087426260,1115162408,3218042543
+dimwishlist:item=1018012078&perks=1467527085,1087426260,1511100135,3218042543
+dimwishlist:item=1018012078&perks=1467527085,3230963543,1115162408,3218042543
+dimwishlist:item=1018012078&perks=1467527085,3230963543,1511100135,3218042543
+
+// Horror's Least - PvE Minor god 3 (god-pve)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel), (Flared Magwell, Tactical Mag, Alloy Mag, Appended Mag), (Supercharged Magazine), (Rampage)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty, particularly with an Arc build. Horror's Least returns (again) as a rapid-fire pulse rifle which as a subfamily are rated C-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as one of the largely interchangeable pulse rifle families. The frame intrinsic offers a ×0.8 reload animation scalar when starting a manual reload with an empty mag as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/1018012078 how the weapon stats impact in-game performance. The recoil is vertical but loose, so to tighten that up, look for a barrel perk that helps with Recoil Direction, and then with the magazine perk go for something that helps improve magazine size or reload. For Arc synergy and clearing groups of adds in Normal difficulty, in the first trait perk column Supercharged Magazine refills 5% of the magazine every 1.5s while you're Amplified or, after you sprint when Amplified to gain Speed Booster this accelerates to 5% every 0.25s while the buff is active, overflowing the magazine to up to ×2 capacity. In the second column, for damage, the reworked Rampage stacks up to ×3 on kills for up to ×1.331 damage for a refreshable 4.5s (5s when enhanced), with the stacks decaying one at a time. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 11 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=1018012078&perks=839105230,106909392,1511100135,3425386926
+dimwishlist:item=1018012078&perks=839105230,1087426260,1511100135,3425386926
+dimwishlist:item=1018012078&perks=839105230,1431678320,1511100135,3425386926
+dimwishlist:item=1018012078&perks=839105230,3230963543,1511100135,3425386926
+dimwishlist:item=1018012078&perks=3661387068,106909392,1511100135,3425386926
+dimwishlist:item=1018012078&perks=3661387068,1087426260,1511100135,3425386926
+dimwishlist:item=1018012078&perks=3661387068,1431678320,1511100135,3425386926
+dimwishlist:item=1018012078&perks=3661387068,3230963543,1511100135,3425386926
+dimwishlist:item=1018012078&perks=1467527085,106909392,1511100135,3425386926
+dimwishlist:item=1018012078&perks=1467527085,1087426260,1511100135,3425386926
+dimwishlist:item=1018012078&perks=1467527085,1431678320,1511100135,3425386926
+dimwishlist:item=1018012078&perks=1467527085,3230963543,1511100135,3425386926
+
+
+// Sarpedon-D - PvE Minor god 1 (god-pve)
+// (Barrel Shroud, Full Choke, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Eddy Current, Trickle Charge), (One-Two Punch, Trench Barrel)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly with Arc melee builds. Sarpedon-D is a spread shot hand cannon which as a subfamily are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as a huge statistical outlier but a little niche and close-range. The frame intrinsic fires a spread of 12 pellets that disappear after 25m as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/1242785638 how the weapon stats impact in-game performance. Use the barrel perk to boost Handling or tighten up the pellet spread, and then with the magazine perk go for something that helps improve the poor Reload Speed or the magazine size. Arc builds give you access to Amplified and Spark of Frequency, and the boosts to Handling, Stability and Reload Speed, and you can improve that in the first trait perk column with Eddy Current which boosts Handling with a ×0.95 animation scalar and +20 Reload Speed with a ×0.95 animation scalar for 3s after sprinting for 1.5s, which is all applied instantly when Amplified with +60 to Reload Speed. Alternatively, you can use Spark of Momentum together with Trickle Charge to refill 10% of the magazine on receiving a stack of Arc Bolt Charge, and 20% when you discharge with a lightning bolt on a target. For melee builds, there's both One-Two Punch for +75% melee damage for 3s for hitting all 12 pellets (10 when enhanced) or Trench Barrel to provide ×1.5 damage for 5s or three shots together with +30 (+35 enhanced) to Handling and Reload Speed after a melee hit. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 4 hits from the central pellet of the spread will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Häkke Breach Armaments passively boosts damage against vehicles by ×1.15 (×1.2 enhanced), turrets and constructs by ×1.3 (×1.6 enhanced) and Stasis crystals by ×1.45. If you're interested, Sarpedon was a son of Zeus and Europa and king of Lycia, killed in the Trojan War. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=1242785638&perks=1300023272,106909392,684456054,2679249093
+dimwishlist:item=1242785638&perks=1300023272,106909392,684456054,2360754333
+dimwishlist:item=1242785638&perks=1300023272,106909392,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1300023272,106909392,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1300023272,1431678320,684456054,2679249093
+dimwishlist:item=1242785638&perks=1300023272,1431678320,684456054,2360754333
+dimwishlist:item=1242785638&perks=1300023272,1431678320,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1300023272,1431678320,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1300023272,3230963543,684456054,2679249093
+dimwishlist:item=1242785638&perks=1300023272,3230963543,684456054,2360754333
+dimwishlist:item=1242785638&perks=1300023272,3230963543,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1300023272,3230963543,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1300023272,1087426260,684456054,2679249093
+dimwishlist:item=1242785638&perks=1300023272,1087426260,684456054,2360754333
+dimwishlist:item=1242785638&perks=1300023272,1087426260,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1300023272,1087426260,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1047830412,106909392,684456054,2679249093
+dimwishlist:item=1242785638&perks=1047830412,106909392,684456054,2360754333
+dimwishlist:item=1242785638&perks=1047830412,106909392,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1047830412,106909392,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1047830412,1431678320,684456054,2679249093
+dimwishlist:item=1242785638&perks=1047830412,1431678320,684456054,2360754333
+dimwishlist:item=1242785638&perks=1047830412,1431678320,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1047830412,1431678320,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1047830412,3230963543,684456054,2679249093
+dimwishlist:item=1242785638&perks=1047830412,3230963543,684456054,2360754333
+dimwishlist:item=1242785638&perks=1047830412,3230963543,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1047830412,3230963543,1115162408,2360754333
+dimwishlist:item=1242785638&perks=1047830412,1087426260,684456054,2679249093
+dimwishlist:item=1242785638&perks=1047830412,1087426260,684456054,2360754333
+dimwishlist:item=1242785638&perks=1047830412,1087426260,1115162408,2679249093
+dimwishlist:item=1242785638&perks=1047830412,1087426260,1115162408,2360754333
+dimwishlist:item=1242785638&perks=4090651448,106909392,684456054,2679249093
+dimwishlist:item=1242785638&perks=4090651448,106909392,684456054,2360754333
+dimwishlist:item=1242785638&perks=4090651448,106909392,1115162408,2679249093
+dimwishlist:item=1242785638&perks=4090651448,106909392,1115162408,2360754333
+dimwishlist:item=1242785638&perks=4090651448,1431678320,684456054,2679249093
+dimwishlist:item=1242785638&perks=4090651448,1431678320,684456054,2360754333
+dimwishlist:item=1242785638&perks=4090651448,1431678320,1115162408,2679249093
+dimwishlist:item=1242785638&perks=4090651448,1431678320,1115162408,2360754333
+dimwishlist:item=1242785638&perks=4090651448,3230963543,684456054,2679249093
+dimwishlist:item=1242785638&perks=4090651448,3230963543,684456054,2360754333
+dimwishlist:item=1242785638&perks=4090651448,3230963543,1115162408,2679249093
+dimwishlist:item=1242785638&perks=4090651448,3230963543,1115162408,2360754333
+dimwishlist:item=1242785638&perks=4090651448,1087426260,684456054,2679249093
+dimwishlist:item=1242785638&perks=4090651448,1087426260,684456054,2360754333
+dimwishlist:item=1242785638&perks=4090651448,1087426260,1115162408,2679249093
+dimwishlist:item=1242785638&perks=4090651448,1087426260,1115162408,2360754333
+
+// Sarpedon-D - PvE Minor god 2 (god-pve)
+// (Barrel Shroud, Full Choke, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Trickle Charge), (Rolling Storm)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty, particularly with Arc builds. Sarpedon-D is a spread shot hand cannon which as a subfamily are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as a huge statistical outlier but a little niche and close-range. The frame intrinsic fires a spread of 12 pellets that disappear after 25m as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/1242785638 how the weapon stats impact in-game performance. Use the barrel perk to boost Handling or tighten up the pellet spread, and then with the magazine perk go for something that helps improve the poor Reload Speed or the magazine size, although Arc builds give you access to Amplified and Spark of Frequency, and the boosts to Handling, Stability and Reload Speed. For Arc Bolt Charge builds, in the first trait perk column Trickle Charge refills 10% of the magazine on receiving a stack of Arc Bolt Charge, and 20% when you discharge with a lightning bolt on a target to pair with Rolling Storm in the second column to generate ×1 stack of Arc Bolt Charge (×2 when Amplified) on a kill, to trigger a lightning bolt at ×10 stacks for both target and AoE damage. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 4 hits from the central pellet of the spread will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Häkke Breach Armaments passively boosts damage against vehicles by ×1.15 (×1.2 enhanced), turrets and constructs by ×1.3 (×1.6 enhanced) and Stasis crystals by ×1.45. If you're interested, Sarpedon was a son of Zeus and Europa and king of Lycia, killed in the Trojan War. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=1242785638&perks=1300023272,106909392,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1300023272,1431678320,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1300023272,3230963543,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1300023272,1087426260,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1047830412,106909392,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1047830412,1431678320,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1047830412,3230963543,1115162408,3218042543
+dimwishlist:item=1242785638&perks=1047830412,1087426260,1115162408,3218042543
+dimwishlist:item=1242785638&perks=4090651448,106909392,1115162408,3218042543
+dimwishlist:item=1242785638&perks=4090651448,1431678320,1115162408,3218042543
+dimwishlist:item=1242785638&perks=4090651448,3230963543,1115162408,3218042543
+dimwishlist:item=1242785638&perks=4090651448,1087426260,1115162408,3218042543
+
+// Sarpedon-D - PvE Minor god 1 (god-pve)
+// (Barrel Shroud, Full Choke, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Eddy Current, Trickle Charge), (One-Two Punch, Trench Barrel)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly with Arc melee builds. Sarpedon-D is a spread shot hand cannon which as a subfamily are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as a huge statistical outlier but a little niche and close-range. The frame intrinsic fires a spread of 12 pellets that disappear after 25m as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/3318545829 how the weapon stats impact in-game performance. Use the barrel perk to boost Handling or tighten up the pellet spread, and then with the magazine perk go for something that helps improve the poor Reload Speed or the magazine size. Arc builds give you access to Amplified and Spark of Frequency, and the boosts to Handling, Stability and Reload Speed, and you can improve that in the first trait perk column with Eddy Current which boosts Handling with a ×0.95 animation scalar and +20 Reload Speed with a ×0.95 animation scalar for 3s after sprinting for 1.5s, which is all applied instantly when Amplified with +60 to Reload Speed. Alternatively, you can use Spark of Momentum together with Trickle Charge to refill 10% of the magazine on receiving a stack of Arc Bolt Charge, and 20% when you discharge with a lightning bolt on a target. For melee builds, there's both One-Two Punch for +75% melee damage for 3s for hitting all 12 pellets (10 when enhanced) or Trench Barrel to provide ×1.5 damage for 5s or three shots together with +30 (+35 enhanced) to Handling and Reload Speed after a melee hit. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 4 hits from the central pellet of the spread will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Häkke Breach Armaments passively boosts damage against vehicles by ×1.15 (×1.2 enhanced), turrets and constructs by ×1.3 (×1.6 enhanced) and Stasis crystals by ×1.45. If you're interested, Sarpedon was a son of Zeus and Europa and king of Lycia, killed in the Trojan War. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3318545829&perks=1300023272,106909392,684456054,2679249093
+dimwishlist:item=3318545829&perks=1300023272,106909392,684456054,2360754333
+dimwishlist:item=3318545829&perks=1300023272,106909392,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1300023272,106909392,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1300023272,1431678320,684456054,2679249093
+dimwishlist:item=3318545829&perks=1300023272,1431678320,684456054,2360754333
+dimwishlist:item=3318545829&perks=1300023272,1431678320,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1300023272,1431678320,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1300023272,3230963543,684456054,2679249093
+dimwishlist:item=3318545829&perks=1300023272,3230963543,684456054,2360754333
+dimwishlist:item=3318545829&perks=1300023272,3230963543,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1300023272,3230963543,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1300023272,1087426260,684456054,2679249093
+dimwishlist:item=3318545829&perks=1300023272,1087426260,684456054,2360754333
+dimwishlist:item=3318545829&perks=1300023272,1087426260,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1300023272,1087426260,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1047830412,106909392,684456054,2679249093
+dimwishlist:item=3318545829&perks=1047830412,106909392,684456054,2360754333
+dimwishlist:item=3318545829&perks=1047830412,106909392,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1047830412,106909392,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1047830412,1431678320,684456054,2679249093
+dimwishlist:item=3318545829&perks=1047830412,1431678320,684456054,2360754333
+dimwishlist:item=3318545829&perks=1047830412,1431678320,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1047830412,1431678320,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1047830412,3230963543,684456054,2679249093
+dimwishlist:item=3318545829&perks=1047830412,3230963543,684456054,2360754333
+dimwishlist:item=3318545829&perks=1047830412,3230963543,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1047830412,3230963543,1115162408,2360754333
+dimwishlist:item=3318545829&perks=1047830412,1087426260,684456054,2679249093
+dimwishlist:item=3318545829&perks=1047830412,1087426260,684456054,2360754333
+dimwishlist:item=3318545829&perks=1047830412,1087426260,1115162408,2679249093
+dimwishlist:item=3318545829&perks=1047830412,1087426260,1115162408,2360754333
+dimwishlist:item=3318545829&perks=4090651448,106909392,684456054,2679249093
+dimwishlist:item=3318545829&perks=4090651448,106909392,684456054,2360754333
+dimwishlist:item=3318545829&perks=4090651448,106909392,1115162408,2679249093
+dimwishlist:item=3318545829&perks=4090651448,106909392,1115162408,2360754333
+dimwishlist:item=3318545829&perks=4090651448,1431678320,684456054,2679249093
+dimwishlist:item=3318545829&perks=4090651448,1431678320,684456054,2360754333
+dimwishlist:item=3318545829&perks=4090651448,1431678320,1115162408,2679249093
+dimwishlist:item=3318545829&perks=4090651448,1431678320,1115162408,2360754333
+dimwishlist:item=3318545829&perks=4090651448,3230963543,684456054,2679249093
+dimwishlist:item=3318545829&perks=4090651448,3230963543,684456054,2360754333
+dimwishlist:item=3318545829&perks=4090651448,3230963543,1115162408,2679249093
+dimwishlist:item=3318545829&perks=4090651448,3230963543,1115162408,2360754333
+dimwishlist:item=3318545829&perks=4090651448,1087426260,684456054,2679249093
+dimwishlist:item=3318545829&perks=4090651448,1087426260,684456054,2360754333
+dimwishlist:item=3318545829&perks=4090651448,1087426260,1115162408,2679249093
+dimwishlist:item=3318545829&perks=4090651448,1087426260,1115162408,2360754333
+
+// Sarpedon-D - PvE Minor god 2 (god-pve)
+// (Barrel Shroud, Full Choke, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Trickle Charge), (Rolling Storm)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal difficulty, particularly with Arc builds. Sarpedon-D is a spread shot hand cannon which as a subfamily are rated B-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as a huge statistical outlier but a little niche and close-range. The frame intrinsic fires a spread of 12 pellets that disappear after 25m as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/3318545829 how the weapon stats impact in-game performance. Use the barrel perk to boost Handling or tighten up the pellet spread, and then with the magazine perk go for something that helps improve the poor Reload Speed or the magazine size, although Arc builds give you access to Amplified and Spark of Frequency, and the boosts to Handling, Stability and Reload Speed. For Arc Bolt Charge builds, in the first trait perk column Trickle Charge refills 10% of the magazine on receiving a stack of Arc Bolt Charge, and 20% when you discharge with a lightning bolt on a target to pair with Rolling Storm in the second column to generate ×1 stack of Arc Bolt Charge (×2 when Amplified) on a kill, to trigger a lightning bolt at ×10 stacks for both target and AoE damage. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 4 hits from the central pellet of the spread will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Häkke Breach Armaments passively boosts damage against vehicles by ×1.15 (×1.2 enhanced), turrets and constructs by ×1.3 (×1.6 enhanced) and Stasis crystals by ×1.45. If you're interested, Sarpedon was a son of Zeus and Europa and king of Lycia, killed in the Trojan War. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God M+KB Controller
+dimwishlist:item=3318545829&perks=1300023272,106909392,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1300023272,1431678320,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1300023272,3230963543,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1300023272,1087426260,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1047830412,106909392,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1047830412,1431678320,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1047830412,3230963543,1115162408,3218042543
+dimwishlist:item=3318545829&perks=1047830412,1087426260,1115162408,3218042543
+dimwishlist:item=3318545829&perks=4090651448,106909392,1115162408,3218042543
+dimwishlist:item=3318545829&perks=4090651448,1431678320,1115162408,3218042543
+dimwishlist:item=3318545829&perks=4090651448,3230963543,1115162408,3218042543
+dimwishlist:item=3318545829&perks=4090651448,1087426260,1115162408,3218042543
+
+
+// Oxygen SR3 - PvE Minor god 1 (god-pve)
+// (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag), (Shoot to Loot), (Meganeura)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal, Hard or Very Hard difficulty. Oxygen SR3 returns still as a precision scout rifle which as a subfamily are rated D-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as feeling bad and with a poor damage profile compared to top-tier scouts. The frame intrinsic offers a ×0.8 horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/4104613038 how the weapon stats impact in-game performance. You don't have to worry about Recoil Direction, so you can use the barrel perk to boost Handling or Stability, and then with the magazine perk go for something that helps improve magazine size or reload. For end-game difficulty, in the first trait perk column Shoot to Loot lets you pick up remote ammo bricks or orbs from safety by shooting them, which also reloads all your weapons from reserves. In the second, Meganeura builds up to ×3 stacks on crit hits for a refreshable 3.5s (4s when enhanced) for AoE explosive damage in a 7.5m radius on a crit kill. This counts as weapon damage, so extends the radius of Shoot to Loot's orb and ammo pickup. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 6 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Omolon Fluid Dynamics boosts Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag, decreasing linearly until the mag's at 50%. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4104613038&perks=1840239774,106909392,3700496672,657025441
+dimwishlist:item=4104613038&perks=1840239774,3230963543,3700496672,657025441
+dimwishlist:item=4104613038&perks=1840239774,1431678320,3700496672,657025441
+dimwishlist:item=4104613038&perks=1840239774,1087426260,3700496672,657025441
+dimwishlist:item=4104613038&perks=1392496348,106909392,3700496672,657025441
+dimwishlist:item=4104613038&perks=1392496348,3230963543,3700496672,657025441
+dimwishlist:item=4104613038&perks=1392496348,1431678320,3700496672,657025441
+dimwishlist:item=4104613038&perks=1392496348,1087426260,3700496672,657025441
+dimwishlist:item=4104613038&perks=3661387068,106909392,3700496672,657025441
+dimwishlist:item=4104613038&perks=3661387068,3230963543,3700496672,657025441
+dimwishlist:item=4104613038&perks=3661387068,1431678320,3700496672,657025441
+dimwishlist:item=4104613038&perks=3661387068,1087426260,3700496672,657025441
+dimwishlist:item=4104613038&perks=4090651448,106909392,3700496672,657025441
+dimwishlist:item=4104613038&perks=4090651448,3230963543,3700496672,657025441
+dimwishlist:item=4104613038&perks=4090651448,1431678320,3700496672,657025441
+dimwishlist:item=4104613038&perks=4090651448,1087426260,3700496672,657025441
+
+// Oxygen SR3 - PvE Minor god 2 (god-pve)
+// (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag), (Shoot to Loot), (One For All)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing individual Minor adds and tougher enemies in activities rated Normal, Hard or Very Hard difficulty. Oxygen SR3 returns still as a precision scout rifle which as a subfamily are rated D-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as feeling bad and with a poor damage profile compared to top-tier scouts. The frame intrinsic offers a ×0.8 horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/4104613038 how the weapon stats impact in-game performance. You don't have to worry about Recoil Direction, so you can use the barrel perk to boost Handling or Stability, and then with the magazine perk go for something that helps improve magazine size or reload. For end-game difficulty, in the first trait perk column Shoot to Loot lets you pick up remote ammo bricks or orbs from safety by shooting them, which also reloads all your weapons from reserves. In the second, One For All boosts damage by ×1.35 for a non-refreshable 10s (11s when enhanced) after hitting three separate targets within 3s of each. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 6 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Omolon Fluid Dynamics boosts Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag, decreasing linearly until the mag's at 50%. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4104613038&perks=1840239774,106909392,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1840239774,3230963543,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1840239774,1431678320,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1840239774,1087426260,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1392496348,106909392,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1392496348,3230963543,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1392496348,1431678320,3700496672,4049631843
+dimwishlist:item=4104613038&perks=1392496348,1087426260,3700496672,4049631843
+dimwishlist:item=4104613038&perks=3661387068,106909392,3700496672,4049631843
+dimwishlist:item=4104613038&perks=3661387068,3230963543,3700496672,4049631843
+dimwishlist:item=4104613038&perks=3661387068,1431678320,3700496672,4049631843
+dimwishlist:item=4104613038&perks=3661387068,1087426260,3700496672,4049631843
+dimwishlist:item=4104613038&perks=4090651448,106909392,3700496672,4049631843
+dimwishlist:item=4104613038&perks=4090651448,3230963543,3700496672,4049631843
+dimwishlist:item=4104613038&perks=4090651448,1431678320,3700496672,4049631843
+dimwishlist:item=4104613038&perks=4090651448,1087426260,3700496672,4049631843
+
+// Oxygen SR3 - PvE Minor god 3 (god-pve)
+// (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag), (Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing individual Minor adds and tougher enemies in activities rated Normal, Hard or Very Hard difficulty. Oxygen SR3 returns still as a precision scout rifle which as a subfamily are rated D-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as feeling bad and with a poor damage profile compared to top-tier scouts. The frame intrinsic offers a ×0.8 horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/4104613038 how the weapon stats impact in-game performance. You don't have to worry about Recoil Direction, so you can use the barrel perk to boost Handling or Stability, and then with the magazine perk go for something that helps improve magazine size or reload. For end-game difficulty, you can roll the combination of Stats for All for a boost of +35 to Handling and Reload Speed with a ×0.95 reload animation scalar, +10 to Stability and Range with a ×1.05 damage dropoff distance and One For All to boost damage by ×1.35 for a non-refreshable 10s (11s when enhanced), which both proc on the same condition of hitting three separate targets within 3s of each. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 6 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Omolon Fluid Dynamics boosts Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag, decreasing linearly until the mag's at 50%. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=4104613038&perks=1840239774,106909392,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1840239774,1431678320,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1840239774,1087426260,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1392496348,1431678320,1583705720,4049631843
+dimwishlist:item=4104613038&perks=1392496348,1087426260,1583705720,4049631843
+dimwishlist:item=4104613038&perks=3661387068,106909392,1583705720,4049631843
+dimwishlist:item=4104613038&perks=3661387068,3230963543,1583705720,4049631843
+dimwishlist:item=4104613038&perks=3661387068,1431678320,1583705720,4049631843
+dimwishlist:item=4104613038&perks=3661387068,1087426260,1583705720,4049631843
+dimwishlist:item=4104613038&perks=4090651448,106909392,1583705720,4049631843
+dimwishlist:item=4104613038&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=4104613038&perks=4090651448,1431678320,1583705720,4049631843
+dimwishlist:item=4104613038&perks=4090651448,1087426260,1583705720,4049631843
+
+
+// Oxygen SR3 - PvE Minor god 1 (god-pve)
+// (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag), (Shoot to Loot), (Meganeura)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-GroupAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal, Hard or Very Hard difficulty. Oxygen SR3 returns still as a precision scout rifle which as a subfamily are rated D-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as feeling bad and with a poor damage profile compared to top-tier scouts. The frame intrinsic offers a ×0.8 horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/444627789 how the weapon stats impact in-game performance. You don't have to worry about Recoil Direction, so you can use the barrel perk to boost Handling or Stability, and then with the magazine perk go for something that helps improve magazine size or reload. For end-game difficulty, in the first trait perk column Shoot to Loot lets you pick up remote ammo bricks or orbs from safety by shooting them, which also reloads all your weapons from reserves. In the second, Meganeura builds up to ×3 stacks on crit hits for a refreshable 3.5s (4s when enhanced) for AoE explosive damage in a 7.5m radius on a crit kill. This counts as weapon damage, so extends the radius of Shoot to Loot's orb and ammo pickup. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 6 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Omolon Fluid Dynamics boosts Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag, decreasing linearly until the mag's at 50%. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-GroupAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=444627789&perks=1840239774,106909392,3700496672,657025441
+dimwishlist:item=444627789&perks=1840239774,3230963543,3700496672,657025441
+dimwishlist:item=444627789&perks=1840239774,1431678320,3700496672,657025441
+dimwishlist:item=444627789&perks=1840239774,1087426260,3700496672,657025441
+dimwishlist:item=444627789&perks=1392496348,106909392,3700496672,657025441
+dimwishlist:item=444627789&perks=1392496348,3230963543,3700496672,657025441
+dimwishlist:item=444627789&perks=1392496348,1431678320,3700496672,657025441
+dimwishlist:item=444627789&perks=1392496348,1087426260,3700496672,657025441
+dimwishlist:item=444627789&perks=3661387068,106909392,3700496672,657025441
+dimwishlist:item=444627789&perks=3661387068,3230963543,3700496672,657025441
+dimwishlist:item=444627789&perks=3661387068,1431678320,3700496672,657025441
+dimwishlist:item=444627789&perks=3661387068,1087426260,3700496672,657025441
+dimwishlist:item=444627789&perks=4090651448,106909392,3700496672,657025441
+dimwishlist:item=444627789&perks=4090651448,3230963543,3700496672,657025441
+dimwishlist:item=444627789&perks=4090651448,1431678320,3700496672,657025441
+dimwishlist:item=444627789&perks=4090651448,1087426260,3700496672,657025441
+
+// Oxygen SR3 - PvE Minor god 2 (god-pve)
+// (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag), (Shoot to Loot), (One For All)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing individual Minor adds and tougher enemies in activities rated Normal, Hard or Very Hard difficulty. Oxygen SR3 returns still as a precision scout rifle which as a subfamily are rated D-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as feeling bad and with a poor damage profile compared to top-tier scouts. The frame intrinsic offers a ×0.8 horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/444627789 how the weapon stats impact in-game performance. You don't have to worry about Recoil Direction, so you can use the barrel perk to boost Handling or Stability, and then with the magazine perk go for something that helps improve magazine size or reload. For end-game difficulty, in the first trait perk column Shoot to Loot lets you pick up remote ammo bricks or orbs from safety by shooting them, which also reloads all your weapons from reserves. In the second, One For All boosts damage by ×1.35 for a non-refreshable 10s (11s when enhanced) after hitting three separate targets within 3s of each. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 6 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Omolon Fluid Dynamics boosts Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag, decreasing linearly until the mag's at 50%. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=444627789&perks=1840239774,106909392,3700496672,4049631843
+dimwishlist:item=444627789&perks=1840239774,3230963543,3700496672,4049631843
+dimwishlist:item=444627789&perks=1840239774,1431678320,3700496672,4049631843
+dimwishlist:item=444627789&perks=1840239774,1087426260,3700496672,4049631843
+dimwishlist:item=444627789&perks=1392496348,106909392,3700496672,4049631843
+dimwishlist:item=444627789&perks=1392496348,3230963543,3700496672,4049631843
+dimwishlist:item=444627789&perks=1392496348,1431678320,3700496672,4049631843
+dimwishlist:item=444627789&perks=1392496348,1087426260,3700496672,4049631843
+dimwishlist:item=444627789&perks=3661387068,106909392,3700496672,4049631843
+dimwishlist:item=444627789&perks=3661387068,3230963543,3700496672,4049631843
+dimwishlist:item=444627789&perks=3661387068,1431678320,3700496672,4049631843
+dimwishlist:item=444627789&perks=3661387068,1087426260,3700496672,4049631843
+dimwishlist:item=444627789&perks=4090651448,106909392,3700496672,4049631843
+dimwishlist:item=444627789&perks=4090651448,3230963543,3700496672,4049631843
+dimwishlist:item=444627789&perks=4090651448,1431678320,3700496672,4049631843
+dimwishlist:item=444627789&perks=4090651448,1087426260,3700496672,4049631843
+
+// Oxygen SR3 - PvE Minor god 3 (god-pve)
+// (Fluted Barrel, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling), (Tactical Mag, Flared Magwell, Alloy Mag, Appended Mag), (Stats For All), (One For All)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for clearing individual Minor adds and tougher enemies in activities rated Normal, Hard or Very Hard difficulty. Oxygen SR3 returns still as a precision scout rifle which as a subfamily are rated D-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as feeling bad and with a poor damage profile compared to top-tier scouts. The frame intrinsic offers a ×0.8 horizontal recoil as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are decent by comparison with its peers - you can see at https://d2foundry.gg/w/444627789 how the weapon stats impact in-game performance. You don't have to worry about Recoil Direction, so you can use the barrel perk to boost Handling or Stability, and then with the magazine perk go for something that helps improve magazine size or reload. For end-game difficulty, you can roll the combination of Stats for All for a boost of +35 to Handling and Reload Speed with a ×0.95 reload animation scalar, +10 to Stability and Range with a ×1.05 damage dropoff distance and One For All to boost damage by ×1.35 for a non-refreshable 10s (11s when enhanced), which both proc on the same condition of hitting three separate targets within 3s of each. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 6 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). Finally, Omolon Fluid Dynamics boosts Stability by up to +20 and Reload Speed by up to +30 in the top half of the mag, decreasing linearly until the mag's at 50%. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=444627789&perks=1840239774,106909392,1583705720,4049631843
+dimwishlist:item=444627789&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=444627789&perks=1840239774,1431678320,1583705720,4049631843
+dimwishlist:item=444627789&perks=1840239774,1087426260,1583705720,4049631843
+dimwishlist:item=444627789&perks=1392496348,106909392,1583705720,4049631843
+dimwishlist:item=444627789&perks=1392496348,3230963543,1583705720,4049631843
+dimwishlist:item=444627789&perks=1392496348,1431678320,1583705720,4049631843
+dimwishlist:item=444627789&perks=1392496348,1087426260,1583705720,4049631843
+dimwishlist:item=444627789&perks=3661387068,106909392,1583705720,4049631843
+dimwishlist:item=444627789&perks=3661387068,3230963543,1583705720,4049631843
+dimwishlist:item=444627789&perks=3661387068,1431678320,1583705720,4049631843
+dimwishlist:item=444627789&perks=3661387068,1087426260,1583705720,4049631843
+dimwishlist:item=444627789&perks=4090651448,106909392,1583705720,4049631843
+dimwishlist:item=444627789&perks=4090651448,3230963543,1583705720,4049631843
+dimwishlist:item=444627789&perks=4090651448,1431678320,1583705720,4049631843
+dimwishlist:item=444627789&perks=4090651448,1087426260,1583705720,4049631843
+
+
+// A Good Shout - PvE Boss god 1
+// (Barrel Shroud, Full Choke, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Eddy Current, Trickle Charge), (One-Two Punch, Trench Barrel)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Boss PvE-SustainedDamage PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for sustained Boss DPS against a single yellow-bar target as part of a weapon rotation in activities rated Normal, Hard or Very Hard difficulty. A Good Shout is a high-impact heavy bow which as a subfamily are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as having very high potential ceiling for damage rotations with refill perks. The frame intrinsic provides a ×0.8 accuracy cone size and ×0.83 accuracy cone growth when stationary or moving less than 2.8m/s - crouch walking speed - as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are excellent by comparison with its peers - you can see at https://d2foundry.gg/w/3615748501 how the weapon stats impact in-game performance. Use the rail perk to boost Handling, for faster swaps, and the bolt perk to improve damage. For sustained boss damage, you'll need a special weapon that does damage over time so you can proc Envious Arsenal to refill a bolt from reserves by swapping between this and your primary/ second special weapon. For damage, High Ground either provides ×1.25 damage for your feet being 2m or more higher than an enemy's lowest point, or up to ×3 stacks of escalating damage on kills for a max of ×1.25. Because you can retrieve your bolts from the target, you should have no problems with ammo, making sustained damage easier. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 3 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). If you're interested, Sarpedon was a son of Zeus and Europa and king of Lycia, killed in the Trojan War. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=3615748501&perks=1220787353,1202133695,3987942396,2319119708
+dimwishlist:item=3615748501&perks=1220787353,2955427634,3987942396,2319119708
+dimwishlist:item=3615748501&perks=1220787353,3603807747,3987942396,2319119708
+dimwishlist:item=3615748501&perks=1890040155,1202133695,3987942396,2319119708
+dimwishlist:item=3615748501&perks=1890040155,2955427634,3987942396,2319119708
+dimwishlist:item=3615748501&perks=1890040155,3603807747,3987942396,2319119708
+
+
+// A Good Shout - PvE Boss god 1
+// (Barrel Shroud, Full Choke, Corkscrew Rifling, Smallbore), (Tactical Mag, Alloy Mag, Flared Magwell, Appended Mag), (Eddy Current, Trickle Charge), (One-Two Punch, Trench Barrel)
+//notes:Inspired by @ImpetusAlways, @Saint_Kabr and @CourtProjects (PvE PvE-Boss PvE-SustainedDamage PvE-God PvE-EndGame M+KB Controller): First-choice PvE roll for sustained Boss DPS against a single yellow-bar target as part of a weapon rotation in activities rated Normal, Hard or Very Hard difficulty. A Good Shout is a high-impact heavy bow which as a subfamily are rated A-Tier for endgame PvE by @TheAegisRelic tiering spreadsheet https://linktr.ee/TheAegisRelic as having very high potential ceiling for damage rotations with refill perks. The frame intrinsic provides a ×0.8 accuracy cone size and ×0.83 accuracy cone growth when stationary or moving less than 2.8m/s - crouch walking speed - as per the https://www.destiny2.science/ Destiny Data Compendium. The stats are excellent by comparison with its peers - you can see at https://d2foundry.gg/w/649691506 how the weapon stats impact in-game performance. Use the rail perk to boost Handling, for faster swaps, and the bolt perk to improve damage. For sustained boss damage, you'll need a special weapon that does damage over time so you can proc Envious Arsenal to refill a bolt from reserves by swapping between this and your primary/ second special weapon. For damage, High Ground either provides ×1.25 damage for your feet being 2m or more higher than an enemy's lowest point, or up to ×3 stacks of escalating damage on kills for a max of ×1.25. Because you can retrieve your bolts from the target, you should have no problems with ammo, making sustained damage easier. You've got a choice of origin traits. You might be lucky and get the rare Accelerated Assault origin trait, which passively refills 10% of the magazine, and boosts damage by ×1.05 for getting 3 hits within a 1.6s window. Otherwise there's Problem Solver, which is very good for PvE when facing yellow bars - 3 hits will apply Exhaust to an enemy, reducing damage output to ×0.9 for a refreshable 5s and grant +50 to Reload Speed and Handling for 10s (12s enhanced) - both effects are also refreshable. There's also Vanguard Vindication which provides up to ×3 stacks on kills within 20s of using a class ability that reduces incoming damage to a max ×0.94 for a refreshable 10s (12.5s enhanced). If you're interested, Sarpedon was a son of Zeus and Europa and king of Lycia, killed in the Trojan War. Recommended MW: Handling or Stability, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds - and don't forget to check any available seasonal fragile mods.|tags:PvE PvE-Minor PvE-SingleAdd PvE-God PvE-EndGame M+KB Controller
+dimwishlist:item=649691506&perks=1220787353,1202133695,3987942396,2319119708
+dimwishlist:item=649691506&perks=1220787353,2955427634,3987942396,2319119708
+dimwishlist:item=649691506&perks=1220787353,3603807747,3987942396,2319119708
+dimwishlist:item=649691506&perks=1890040155,1202133695,3987942396,2319119708
+dimwishlist:item=649691506&perks=1890040155,2955427634,3987942396,2319119708
+dimwishlist:item=649691506&perks=1890040155,3603807747,3987942396,2319119708
+
+
