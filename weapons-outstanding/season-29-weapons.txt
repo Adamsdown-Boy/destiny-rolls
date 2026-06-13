@@ -4,7 +4,7 @@
 
 //*Season Pass*
 // Turncoat
-@notes: a "turncoat" is a term for a traitor or a defector—someone who switches sides and abandons their previous allegiance or beliefs.
+@notes: a "turncoat" is a term for a traitor or a defector — someone who switches sides and abandons their previous allegiance or beliefs.
 
 
 //*Exotic quest
