@@ -21,7 +21,7 @@
 // Trendsetter
 
 // Infinite Paths 8
-@notes: this originally dropped from "Curse of Osiris" and relates to the Vex's ability to simulate infinite timelines and potential futures in the Infinite Forest.
+@notes: this originally dropped from "Curse of Osiris" and relates to the Vex's ability to simulate timelines and potential futures in the Infinite Forest.
 
 // Inbound Surveillance
 
