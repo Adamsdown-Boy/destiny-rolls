@@ -1,0 +1,150 @@
+@title:Moment of Triumph new and returning weapons
+@desription:Listing of all of final 9th June 2026 update
+
+
+//*Season Pass*
+// Turncoat
+
+
+//*Exotic quest
+// Fafnir
+@notes: in Germanic heroic legend and folklore, Fáfnir was a dwarf, who shapeshifted into the form of a Germanic dragon in order to protect his treasure, eventually being slain by Sigurð.
+
+// Cull's Shadow
+@notes: Dredgen Cull is a character tied to the Shadows of Yor. His name also refers to his goal (and the purpose of the Shadows as a whole), to weed out weak or vulnerable Guardians who are susceptible to the corruption of the Darkness. 
+
+
+//*World Drops*
+// Steelfeather Repeater
+
+// Trendsetter
+
+// Infinite Paths 8
+@notes: this originally dropped from "Curse of Osiris" and relates to the Vex's ability to simulate infinite timelines and potential futures in the Infinite Forest.
+
+// Inbound Surveillance
+
+
+//*Nessus*
+// Pluperfect
+@notes: "Pluperfect" is a grammatical term (also known as the past perfect), describing an action that was completed before another event in the past.
+
+
+//*Distortions*
+// DECATUR 02
+@notes: its name is a geographical reference to Decatur, Illinois — a city situated near the pre-Golden Age headquarters of the Department of External Observation (DEO) in Old Chicago.
+
+// IRONWOOD 03
+@notes: the Ironwood tree is the sacred tree beneath which the Iron Lords and Iron Wolves gathered to forge their unbreakable oaths of protection for humanity.
+
+// DEADHORSE 04
+@notes:  the name is derived from Deadhorse, Alaska - the furthest northern outpost in the United States, which the Department of External Observation (DEO) used as a monitoring station to track anomalies across the Northwest Passage.
+
+// ALLEN 05
+@notes: the name refers to Allen, South Dakota, where a significant pre-Collapse event occurred. It's the site of a 1960 research incident involving the Ishtar Collective and the Seer Shell, an artifact that contains data implying the Traveler's presence on Earth long before the Golden Age.
+
+// TAHOMA 01
+@notes: "Tahoma" is the traditional Native American (Salishan) name for Mount Rainier, Washington State, which was a key investigative territory and monitoring area for the Department of External Observation (DEO).
+
+// DIABLERETS 06
+@notes: named after the location of a pre-Golden Age incident - the Les Diablerets anomaly/crash site in the Swiss Alps that the Department of External Observation (DEO) investigated.
+
+//*Pantheon*
+// Threat Level
+@notes:  the name is widely considered to be a reference to "Threat Level Midnight", the fictional action movie created by Michael Scott in the TV show "The Office".
+
+// Alone as a God
+@notes: the name reflects the ego of Emperor Calus and his solipsistic philosophy - that he is the universe's only true, supreme deity, isolated from and superior to all of creation.
+
+// Bane of Sorrow
+
+
+//*Fireteam Ops*
+// Convened Recurve
+
+// Service Revolver
+
+
+//*Arena Ops*
+// The Ringing Nail
+@notes: a "ringing nail" refers to the high-pitched, metallic ping or ring an anvil or piece of hot iron makes when it is struck repeatedly by a blacksmith's hammer.
+
+// The Spiteful Fang
+
+// Kindled Orchid
+
+// Tempered Dynamo
+
+// Tatara Gaze
+@notes:  a "tatara" is a traditional Japanese clay furnace or vessel used by swordsmiths to smelt iron sand into high-quality steel (tamahagane) for crafting samurai swords.
+
+// No Feelings
+
+// Bellowing Giant
+
+// Stryker's Sure-Hand	
+@notes: there is a popular consensus on the DestinyLore subreddit that "Stryker" is a subtle Easter egg referencing Wolverine's creator, William Stryker, from the X-Men franchise.
+
+
+//*Pinnacle Ops*
+// Whatchamacallit
+@notes: the name is a lighthearted nod to the common English slang used when you cannot remember or do not know the name of an item.
+
+// Ouster Engine
+@notes: "ouster" is an English noun that means the act of forcing someone out of a position, office, or place, alluding to ejecting or overthrowing an enemy.
+
+
+//*Gambit Ops*
+// Python
+@notes: its name references the large, constricting snake, tying into the VEIST foundry's established naming convention of using venomous or predatory animals.
+
+// Doomsday
+
+// 21% Delirium
+@notes: the 21% refers to the specific atmospheric concentration of oxygen on Earth, while the "Delirium" part is a nod to a frantic, oxygen-fueled killing frenzy.
+
+//*Crucible Ops*
+// The Helmsman
+@notes: the name and design are direct references to Emperor Calus's helmsman, a significant figure in Cabal lore named Jarus, Ace Defiant.
+
+
+//*Sparrow Racing League*
+// Snipehunt Mk. 47
+@notes: the name references a practical joke where beginners are led into the wilderness on a fabricated mission to hunt an impossible creature.
+
+// Vikala SMG4
+@notes: in South Slavic languages (such as Serbian), "vikala" is a grammatical form of the verb "vikati", which means "to shout". Alternatively, in Sanskrit and Hindi, vikala (विकल) is an adjective with two main roots - defective/imperfect or agitated/distressed.
+
+// Veillantif-D
+@notes: In the "Matter of France" (a collection of medieval legends similar to King Arthur's tales), Veillantif is the legendary, highly intelligent warhorse of the paladin Roland. It's also a nod to the original Marathon game, where the character Durandal makes frequent references to Roland's mythos.
+
+// Accelerando-42
+@notes: a musical term meaning "a gradual increase in speed or tempo". In SUROS's naming convention, model numbers above 40 indicate legendary tier gear.
+
+// Crux Celeritas IV
+@notes: the name "Crux Celeritas" translates from Latin to mean "Swift Cross" or "Speedy Cross".
+
+// Terciopelo-4BL
+@notes: this translates directly to "Velvet" in Spanish. 4BL is a stylistic abbreviation that stands for "4-Way Blend" - in the textiles industry, this is a fabric, often called "terciopelo elástico en 4 direcciones", which means the material can stretch and flex in all directions, making it incredibly flexible and smooth.
+
+
+//*Crucible Competitive*
+// Solemn Lie
+
+
+//*Trials of Osiris*
+// Willful Hamartia
+@notes: Hamartia is a Greek literary term made famous by Aristotle in his Poetics. It translates to a "tragic flaw" or a fatal error in judgment that ultimately leads to a character's downfall.
+
+
+//*Solstice Engram*
+// Dawn Far Off
+
+// Rapid Growth
+
+
+//*Lawless Engram*
+// Sixth Sense
+@notes: "Sixth Sense" refers to extra-sensory perception (ESP) or heightened intuition.
+
+// Hardline Cut
