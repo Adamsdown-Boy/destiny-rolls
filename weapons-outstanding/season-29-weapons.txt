@@ -5,7 +5,7 @@
 //**Season Pass**
 	Turncoat - @notes: a "turncoat" is a term for a traitor or a defector — someone who switches sides and abandons their previous allegiance or beliefs.
 
-//*Exotic quest*
+//*Exotic quest
 	Cull's Shadow - @notes: Dredgen Cull is a character tied to the Shadows of Yor. His name also refers to his goal (and the purpose of the Shadows as a whole), to weed out weak or vulnerable Guardians who are susceptible to the corruption of the Darkness. 
 	Fafnir - @notes: in Germanic heroic legend and folklore, Fáfnir was a dwarf, who shapeshifted into the form of a Germanic dragon in order to protect his treasure, eventually being slain by Sigurð.
 
@@ -33,7 +33,7 @@
 	Cartesian Coordinate
 	Scathelocke - @notes: Scathelocke is an alternate name for Will Scarlet, one of Robin Hood's legendary "Merry Men" in English folklore.
 
-//*Cosmodrome*
+//* Cosmodrome*
 	Seventh Seraph Carbine - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 	Seventh Seraph CQC-12  - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 	Seventh Seraph Officer Revolver  - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
