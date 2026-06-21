@@ -5,7 +5,7 @@
 //**Season Pass**
 	Turncoat - @notes: a "turncoat" is a term for a traitor or a defector — someone who switches sides and abandons their previous allegiance or beliefs.
 
-//*Exotic quest
+//*Exotic quest*
 	Cull's Shadow - @notes: Dredgen Cull is a character tied to the Shadows of Yor. His name also refers to his goal (and the purpose of the Shadows as a whole), to weed out weak or vulnerable Guardians who are susceptible to the corruption of the Darkness. 
 	Fafnir - @notes: in Germanic heroic legend and folklore, Fáfnir was a dwarf, who shapeshifted into the form of a Germanic dragon in order to protect his treasure, eventually being slain by Sigurð.
 
