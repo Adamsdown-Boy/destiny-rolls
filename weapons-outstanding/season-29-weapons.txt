@@ -453,6 +453,16 @@
 	Tomorrow's Answer
 	Willful Hamartia - @notes: Hamartia is a Greek literary term made famous by Aristotle in his Poetics. It translates to a "tragic flaw" or a fatal error in judgment that ultimately leads to a character's downfall.
 
+/*Lord Saladin Forge*
+	Bite of the Fox
+	Claws of the Wolf
+	Frontier's Cry
+	Jorum's Claw
+	Peacebond
+	Riiswalker
+	Tinasha's Mastery
+	Tusk of the Boar
+	
 //*Iron Banner*
 	Crimil's Dagger
 	Felwinter's Lie
@@ -469,16 +479,6 @@
 	The Time-Worn Spire
 	The Wizened Rebuke
 
-/Saladin*
-	Bite of the Fox
-	Claws of the Wolf
-	Frontier's Cry
-	Jorum's Claw
-	Peacebond
-	Riiswalker
-	Tinasha's Mastery
-	Tusk of the Boar
-	
 	
 //**Gambit Ops**
 /*The Drifter**
