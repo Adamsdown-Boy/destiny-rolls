@@ -342,7 +342,7 @@
 	Hammerhead
 	Kindled Orchid
 	No Feelings
-	Stryker's Sure-Hand	@notes: there is a popular consensus on the DestinyLore subreddit that "Stryker" is a subtle Easter egg referencing Wolverine's creator, William Stryker, from the X-Men franchise.
+	Stryker's Sure-Hand	- @notes: there is a popular consensus on the DestinyLore subreddit that "Stryker" is an Easter egg referencing Wolverine's creator, William Stryker, from the X-Men franchise.
 	Tempered Dynamo
 	Tatara Gaze - @notes:  a "tatara" is a traditional Japanese clay furnace or vessel used by swordsmiths to smelt iron sand into high-quality steel (tamahagane) for crafting samurai swords.
 	The Ringing Nail - @notes: a "ringing nail" refers to the high-pitched, metallic ping or ring an anvil or piece of hot iron makes when it is struck repeatedly by a blacksmith's hammer.
