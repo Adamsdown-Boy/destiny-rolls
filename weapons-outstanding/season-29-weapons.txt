@@ -296,6 +296,7 @@
 	Horror's Least
 	Lionfish-4FR
 	Loaded Question
+	Mindbender's Ambition
 	Outrageous Fortune
 	Oxygen SR3
 	Pre-Astyanax IV
@@ -306,11 +307,10 @@
 	Seraphine Haze
 	Shadow Price
 	Theodolite
+	Uzume RR4
 	Wendigo GL3
 	Warden's Law
 	Wild Style
-	Mindbender's Ambition
-	Uzume RR4
 
 //*Fireteam Ops*
 	Aurora Dawn
