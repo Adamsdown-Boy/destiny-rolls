@@ -29,6 +29,7 @@
 
 //**Destinations**
 //*European Dead Zone*
+	Battle Scar
 	Cartesian Coordinate
 	Scathelocke - @notes: Scathelocke is an alternate name for Will Scarlet, one of Robin Hood's legendary "Merry Men" in English folklore.
 
@@ -596,7 +597,6 @@
 	Watchful Eye
 
 //*Pulse Rifles*
-	Battle Scar
 	Cold Denial
 	Live Fire
 	Ogma PR6
