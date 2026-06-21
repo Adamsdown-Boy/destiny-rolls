@@ -17,7 +17,7 @@
 	Gridskipper
 	Heliocentric QSc
 	Inbound Surveillance
-	Infinite Paths 8 - @notes: this originally dropped from "Curse of Osiris" and relates to the Vex's ability to simulate infinite timelines and potential futures in the Infinite Forest.
+	Infinite Paths 8 - @notes: this originally dropped from "Curse of Osiris" and relates to the Vex's ability to simulate infinite timelines and potential futures in the Infinite Forest on Mercury.
 	Liturgy
 	Nox Perennial V
 	Perfect Paradox
@@ -100,13 +100,13 @@
 	IRONWOOD 03 - @notes: the Ironwood tree is the sacred tree beneath which the Iron Lords and Iron Wolves gathered to forge their unbreakable oaths of protection for humanity.
 	TAHOMA 01 - @notes: "Tahoma" is the traditional Native American (Salishan) name for Mount Rainier, Washington State, which was a key investigative territory and monitoring area for the Department of External Observation (DEO).
 
+//**Raids**
 //*Pantheon*
 	Alone as a God - @notes: the name reflects the ego of Emperor Calus and his solipsistic philosophy - that he is the universe's only true, supreme deity, isolated from and superior to all of creation.
 	Bane of Sorrow
 	Threat Level - @notes:  the name is widely considered to be a reference to "Threat Level Midnight", the fictional action movie created by Michael Scott in the TV show "The Office".
 	Zaouli's Bane
 
-//**Raids**
 //*Last Wish*
 	Age-Old Bond
 	Apex Predator
@@ -126,7 +126,7 @@
 	Sacred Provenance
 	Zealot's Reward
 
-//* Deep Stone Crypt*
+//*Deep Stone Crypt*
 	Bequest
 	Commemoration
 	Heritage
@@ -182,7 +182,7 @@
 	Nullify
 	Summum Bonum
 
-//*The Desert Perpetual and Epic*
+//*The Desert Perpetual Standard and Epic*
 	Antedate
 	Cusp Sempiternal (Epic)
 	Finite Maybe
@@ -342,7 +342,7 @@
 	Hammerhead
 	Kindled Orchid
 	No Feelings
-	Stryker's Sure-Hand	- @notes: there is a popular consensus on the DestinyLore subreddit that "Stryker" is an Easter egg referencing Wolverine's creator, William Stryker, from the X-Men franchise.
+	Stryker's Sure-Hand	- @notes: there is a popular consensus on the DestinyLore subreddit that "Stryker" is a subtle Easter egg referencing Wolverine's creator, William Stryker, from the X-Men franchise.
 	Tempered Dynamo
 	Tatara Gaze - @notes:  a "tatara" is a traditional Japanese clay furnace or vessel used by swordsmiths to smelt iron sand into high-quality steel (tamahagane) for crafting samurai swords.
 	The Ringing Nail - @notes: a "ringing nail" refers to the high-pitched, metallic ping or ring an anvil or piece of hot iron makes when it is struck repeatedly by a blacksmith's hammer.
@@ -581,7 +581,6 @@
 
 //*Glaives*
 	Backfang
-	Refusal of the Call
 
 //*Grenade Launchers*
 
