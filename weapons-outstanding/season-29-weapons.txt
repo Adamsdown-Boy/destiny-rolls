@@ -31,24 +31,32 @@
 //*European Dead Zone*
 	Battle Scar
 	Cartesian Coordinate
+	Last Foray
+	Nasreddin
+	Parabellum
 	Scathelocke - @notes: Scathelocke is an alternate name for Will Scarlet, one of Robin Hood's legendary "Merry Men" in English folklore.
 
 //* Cosmodrome*
 	Seventh Seraph Carbine - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 	Seventh Seraph CQC-12  - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 	Seventh Seraph Officer Revolver  - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
+	Seventh Seraph SAW - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 	Seventh Seraph SI-2 - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 	Seventh Seraph VY-7 - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
-	Seventh Seraph SAW - @notes: a "seraph" (or seraphim) refers to a celestial, six-winged angel. The Hebrew root שְׂרָפִים literally translates to "burning one,". The Seventh Seraph refers to an elite, secretive group of Golden Age soldiers who directly served and protected the Warmind Rasputin.
 
 //*Nessus*
 	Pluperfect - @notes: "Pluperfect" is a grammatical term (also known as the past perfect), describing an action that was completed before another event in the past, such as "By the time we landed for the Deep Stone Crypt boss checkpoint, I had already equipped Divinity".
+	Pyroclastic Flow
+	Temporal Clause
+	The Deicide
+	Trophy Hunter
+	True Prophecy
 
 //*Dreaming City*
 	Abide the Return - @notes: the name serves as an Awoken call to arms and a test of faith, demanding that Guardians patiently endure and accept the impending resurrection and homecoming of Queen Mara Sov despite the chaos consuming the Dreaming City.
-	Tigerspite
 	Retold Tale - @notes: the name references oral tradition and folklore, where classic myths and legends change over time as they are passed down and narrated anew.
 	Sleepless - @notes: the name references the Awoken warrior Sjur Eido waking from a prophetic dream about dying and Mara Sov.
+	Tigerspite
 	Twilight Oath - @notes: the refers to the solemn vow made by the Awoken people to protect the Dreaming City.
 	Vouchsafe - @notes: "vouchsafe" means to grant or give something to someone in a gracious or condescending manner.
 	Waking Vigil - @notes: the name reflects the ongoing, sleepless watch of the Awoken corsairs and Techeuns protecting the Dreaming City.
@@ -62,6 +70,7 @@
 	Love and Death - @notes: the name stems from a quote by Eris Morn "To the Hive, they are the same. Show them some love", referencing Hive lore that killing is the ultimate act of love through the Sword Logic.
 	Night Terror - @notes: this is the blade wielded by Eris Morn during Season of the Witch, the name embodying Eris's thematic quote for the weapon "Become their nightmare".
 	One Small Step - @notes: the name is a direct, historical reference to humanity's first Moon landing and Neil Armstrong’s famous quote, "That's one small step for man, one giant leap for mankind".
+	Premonition - where does this drop from?
 	Tranquility - @notes: the name directly references the Mare Tranquillitatis (Sea of Tranquility) and Tranquility Base, the historic Apollo 11 lunar landing site located on the Moon.
 /Altars of Sorrow
 	Apostate
@@ -75,12 +84,28 @@
 	Coriolis Force
 	Hailing Confusion
 	High Albedo
-	Thermal Erosion
 	Subzero Salvo
+	Thermal Erosion
 
-//*Savathûn’s Throne World*
+//*Savathûn’s Throne World (check to see if they are newly tiered, otherwise trait perks unchanged from Witch Queen)*
+	Come to Pass
+	Empirical Evidence
+	Father's Sins
+	Fel Taradiddle
+	Forensic Nightmare
+	Likely Suspect
+	Pointed Inquiry
+	Red Herring
+	Tarnation
+	The Enigma
 
 //*Neomuna*
+	Dimensional Hypertrochoid (trait perks unchanged from Lightfall)
+	Iterative Loop (trait perks unchanged from Lightfall)
+	Phyllotactic Spiral (trait perks unchanged from Lightfall)
+	Round Robin (trait perks unchanged from Lightfall)
+	Volta Bracket (trait perks unchanged from Lightfall)
+	Epochal Integration
 /Terminal Overload - Ahimsa Park
 	Basso Ostinato
 /Terminal Overload - Límíng Harbor
@@ -88,9 +113,30 @@
 /Terminal Overload - Zephyr Concourse
 	Circular Logic
 
-//*Pale Heart*
+//*Pale Heart (trait perks unchanged from The Final Shape)*
+	Axial Lacuna
+	Bold Endings
+	False Idols
+	Embraced Identity
+	No Hesitations
+	Someday
+	The Call
 
-//*Kepler*
+//*Kepler (trait perks unchanged from Edge of Fate)*
+	Giver's Blessing
+	Agape
+	Ulterior Observation
+	Last Thursday
+	Sublimation
+	Precipial
+
+//*Lawless Frontier (trait perks unchanged from Renegades*
+	All or Nothing
+	Compact Defender
+	M-17 "Fast Talker"
+	Modified B-7 Pistol
+	Refurbished A4-99
+	Uncivil Discourse
 
 
 //*Distortions*
@@ -105,6 +151,8 @@
 //*Pantheon*
 	Alone as a God - @notes: the name reflects the ego of Emperor Calus and his solipsistic philosophy - that he is the universe's only true, supreme deity, isolated from and superior to all of creation.
 	Bane of Sorrow
+	Chattering Bone
+	Reckless Oracle
 	Threat Level - @notes:  the name is widely considered to be a reference to "Threat Level Midnight", the fictional action movie created by Michael Scott in the TV show "The Office".
 	Zaouli's Bane
 
@@ -136,54 +184,54 @@
 	Trustee
 
 //*Vault of Glass*
-	Corrective Measure
-	Fatebringer
-	Found Verdict
-	Hezen Vengeance
-	Praedyth's Revenge
-	Vision of Confluence
+	Corrective Measure (and Timelost)
+	Fatebringer (and Timelost)
+	Found Verdict (and Timelost)
+	Hezen Vengeance (and Timelost)
+	Praedyth's Revenge (and Timelost)
+	Vision of Confluence (and Timelost)
 
 //*Vow of the Disciple*
-	Cataclysmic
-	Deliverance
-	Forbearance
-	Insidious
-	Lubrae's Ruin
-	Submission
+	Cataclysmic (and Adept)
+	Deliverance (and Adept)
+	Forbearance (and Adept)
+	Insidious (and Adept)
+	Lubrae's Ruin (and Adept)
+	Submission (and Adept)
 
 //*King's Fall*
-	Defiance of Yasmin
-	Doom of Chelchis
-	Midha's Reckoning
-	Qullim's Terminus
-	Smite of Merain
-	Zaouli's Bane
+	Defiance of Yasmin (and Adept)
+	Doom of Chelchis (and Adept)
+	Midha's Reckoning (and Adept)
+	Qullim's Terminus (and Adept)
+	Smite of Merain (and Adept)
+	Zaouli's Bane (and Adept)
 
 //*Root of Nightmares"
-	Acasia's Dejection
-	Koraxis's Distress
-	Mykel's Reverence
-	Nessa's Oblation
-	Rufus's Fury
-	Briar's Contempt
+	Acasia's Dejection (and Adept)
+	Koraxis's Distress (and Adept)
+	Mykel's Reverence (and Adept)
+	Nessa's Oblation (and Adept)
+	Rufus's Fury (and Adept)
+	Briar's Contempt (and Adept)
 
 //*Crota's End*
-	Abyss Defiant
-	Fang of Ir Yût
-	Oversoul Edict
-	Song of Ir Yût
-	Swordbreaker
-	Word of Crota
+	Abyss Defiant (and Adept)
+	Fang of Ir Yût (and Adept)
+	Oversoul Edict (and Adept)
+	Song of Ir Yût (and Adept)
+	Swordbreaker (and Adept)
+	Word of Crota (and Adept)
 
 //*Salvation's Edge*
-	Critical Anomaly
-	Forthcoming Deviance
-	Imminence
-	Non-Denouement
-	Nullify
-	Summum Bonum
+	Critical Anomaly (and Adept)
+	Forthcoming Deviance (and Adept)
+	Imminence (and Adept)
+	Non-Denouement (and Adept)
+	Nullify (and Adept)
+	Summum Bonum (and Adept)
 
-//*The Desert Perpetual Standard and Epic*
+//*The Desert Perpetual Standard and Epic (trait perk set same as Edge of Fate)*
 	Antedate
 	Cusp Sempiternal (Epic)
 	Finite Maybe
@@ -260,7 +308,7 @@
 	Unvoiced
 	Unworthy
 
-//*Equilibrium*
+//*Equilibrium (trait perk set same as Renegades)*
 	Bitter End
 	Conspiracy Honed
 	High Tyrant
@@ -270,7 +318,7 @@
 
 
 //**Vanguard Ops**
-//*Zavala*
+//*Zavala exclusive*
 //Fireteam Ops list
 	Boomslang-4FR
 	Empty Vessel
@@ -377,7 +425,7 @@
 
 
 //**Crucible Ops**
-//*Lord Shaxx*
+//*Lord Shaxx exclusive*
 	Anonymous Autumn
 	Archon's Thunder
 	Last Perdition
@@ -422,7 +470,7 @@
 	Solemn Lie
 	The Riposte
 
-//*Saint-14*
+//*Saint-14 exclusive*
 	Aisha's Embrace
 	Astral Horizon
 	Aureus Neutralizer
@@ -454,7 +502,7 @@
 	Tomorrow's Answer
 	Willful Hamartia - @notes: Hamartia is a Greek literary term made famous by Aristotle in his Poetics. It translates to a "tragic flaw" or a fatal error in judgment that ultimately leads to a character's downfall.
 
-/*Lord Saladin Forge*
+/*Lord Saladin Forge exclusive*
 	Bite of the Fox
 	Claws of the Wolf
 	Frontier's Cry
@@ -482,7 +530,7 @@
 
 	
 //**Gambit Ops**
-/*The Drifter**
+/*The Drifter exclusive**
 	Breakneck
 	Bottom Dollar
 	Herod-C
@@ -510,75 +558,87 @@
 //*Dawning Engram*
 	Albedo Wing
 	Fimbulwinter Stitch
-	Mistral Lift
-	Permafrost
-	Stay Frosty
+	Mistral Lift (trait perk set same as Renegades)
+	Permafrost (trait perk set same as Renegades)
+	Stay Frosty (trait perk set same as Renegades)
 	Zephyr
 
 //*Eerie Engram*
 	Acosmic
-	Arcane Embrace
-	Gunburn
+	Arcane Embrace (trait perk set same as Edge of Fate)
+	Gunburn (trait perk set same as Edge of Fate)
 	Horror Story
-	Hushed Whisper
+	Hushed Whisper (trait perk set same as Edge of Fate)
 	Mechabre
 
 //*Guardian Games Engram*
-	Keraunios
+	Keraunios (trait perk set same as Renegades)
 	Hullabaloo
 	Taraxippos
-	The Beacon
+	The Beacon (trait perk set same as Renegades)
 	The Title
-	Triple Laureate
+	Triple Laureate (trait perk set same as Renegades)
 
 //*Lawless Engram*
-	Action Item
-	King Orfeo
-	Gizmo Weft
+	Action Item (trait perk set same as Renegades)
+	King Orfeo (trait perk set same as Renegades)
+	Gizmo Weft (trait perk set same as Renegades)
 	Hardline Cut
-	Micromort
+	Micromort (trait perk set same as Renegades)
 	Sixth Sense - @notes: "Sixth Sense" refers to extra-sensory perception (ESP) or heightened intuition.
-	The Heron
+	The Heron (trait perk set same as Renegades)
 
-//*Reclamation Engram*
-	Folded Root
-	Phoneutria Fera
-	Trachinus
-	Ribbontail
-	Romantic Death
-	Submersion
-	Synanceia
+//*Reclamation Engram (trait perk set same as Edge of Fate)*
+	Folded Root (trait perk set same as Edge of Fate)
+	Phoneutria Fera (trait perk set same as Edge of Fate)
+	Trachinus (trait perk set same as Edge of Fate)
+	Ribbontail (trait perk set same as Edge of Fate)
+	Romantic Death (trait perk set same as Edge of Fate)
+	Submersion (trait perk set same as Edge of Fate)
+	Synanceia (trait perk set same as Edge of Fate)
 
 //*Seasonal Engram*
-	Ahab Char
-	Drang
-	Eighty-Sixth
-	Faustus Decline
-	Haliaetus
+	Ahab Char (trait perk set same as Edge of Fate)
+	Drang (trait perk set same as Edge of Fate)
+	Eighty-Sixth (trait perk set same as Renegades)
+	Faustus Decline (trait perk set same as Edge of Fate)
+	Haliaetus (trait perk set same as Edge of Fate)
 	Hawthorne's Field-Forged Shotgun 
-	Jurisprudent
-	MIDA Mini-Tool 
-	Monody-44
-	Motif-41
-	Shoreline Dissident
+	Jurisprudent (trait perk set same as Edge of Fate)
+	MIDA Mini-Tool (trait perk set same as Edge of Fate)
+	Monody-44 (trait perk set same as Renegades)
+	Motif-41 (trait perk set same as Renegades)
+	Shoreline Dissident (trait perk set same as Edge of Fate)
 
 //*Solstice Engram*
 	Compass Rose
 	Crowning Duologue
 	Dawn Far Off
-	Festival Flight
-	Fortunate Star
+	Festival Flight (trait perk set same as Edge of Fate)
+	Fortunate Star (trait perk set same as Edge of Fate)
 	Something New
 	Rapid Growth
-	Yeartide Apex
+	Yeartide Apex (trait perk set same as Edge of Fate)
+
+//*Banshee-44 exclusive*
+	Abyssal Edge
+	Admetus-D
+	Aurvandil FR6
+	Cold Denial
+	Ded Gramarye IV
+	Glissando-47
+	Insurmountable
+	Live Fire
+	Maahes HC4
+	Ogma PR6
+	Patron of Lost Causes
+	Watchful Eye
 
 
 //**Don't know the source yet**
 //*Auto Rifles*
 
 //*Fusion Rifles*
-	Aurvandil FR6
-	Resounding
 
 //*Glaives*
 	Backfang
@@ -586,49 +646,85 @@
 //*Grenade Launchers*
 
 //*Hand Cannons*
-	Epochal Integration
-	Maahes HC4
-	True Prophecy
 
 //*Linear Fusion Rifle*
 
 //*Machine Gun*
-	Temporal Clause
-	Watchful Eye
 
 //*Pulse Rifles*
-	Cold Denial
-	Live Fire
-	Ogma PR6
 
-/*Rocket Launchers*
+//*Rocket Launchers*
 	Ascendancy
-	Pyroclastic Flow
 
 //*Scout Rifles*
-	Admetus-D
-	Glissando-47
-	Patron of Lost Causes
 
 //*Shotguns*
-	Deadlock
-	Ded Gramarye IV
 	Fortissimo-11
 	Reckless Endangerment
-	The Deicide
 
-/*Sidearms*
+//*Sidearms*
 	Allied Demand
-	Insurmountable
 
-/*Sniper Rifles*
-	Last Foray
-	Trophy Hunter
+//*Sniper Rifles*
 
-/*Submachine Gun*
-	Parabellum
+//*Submachine Gun*
 	The Hero's Burden
 
-/*Swords*
-	Abyssal Edge
-	Nasreddin
+//*Swords*
+
+
+First - just to say this has probably saved me hours or working out which drops are world drops and which are from destinations, which was proving a long a very boring process! I've been using the https://www.light.gg/db/new-items/monument-of-triumph/new-weapons as my master list of new and newly reprised weapons.
+
+I think Round Robin in the Neomuna section of the Destinations tab isn't an MoT update. From what I can see from the light.gg list, all 5 of the Neomuna destination weapons that don't come from Terminal Overload have the same perk pools as Lightfall.
+
+I can't see any of the Savathun Throne World weapons in the light.gg Monument of Triumph listing, so the trait perk set might be the same as in Witch Queen, but I'll have to double check a
+
+Zavala has a lot of purchaseable weapons that you don't have in your Zavala list:
+//Fireteam Ops list
+	Boomslang-4FR
+	Empty Vessel
+	Evening SI4
+	Fortissimo-11
+	Mercury-A
+	Nox Sidereal IV
+	Origin Story
+	Psi Aeturna IV
+	Qua Nilus II
+	Something Something
+	Spoiler Alert
+	The Last Dance
+	The Third Axiom
+	Unfall
+	Xenoclast IV
+//Pinnacle Ops list
+	A Good Shout
+	Buzzard
+	Cruel Mercy
+	Duty Bound
+	Forced Memorializer
+	Horror's Least
+	Lionfish-4FR
+	Loaded Question
+	Mindbender's Ambition
+	Outrageous Fortune
+	Oxygen SR3
+	Pre-Astyanax IV
+	PLUG ONE.1
+	Rake Angle
+	Sarpedon-D
+	Scintillation
+	Seraphine Haze
+	Shadow Price
+	Theodolite
+	Uzume RR4
+	Wendigo GL3
+	Warden's Law
+	Wild Style
+	
+Finally, there a few weapons that are in the light.gg listing but missing from the spreadsheet, which I've not found a reference to anywhere else:
+	Allied Demand
+	Ascendancy
+	Backfang
+	Fortissimo-11
+	Reckless Endangerment
+	The Hero's Burden
