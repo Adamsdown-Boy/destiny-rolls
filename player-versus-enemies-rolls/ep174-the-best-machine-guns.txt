@@ -40,7 +40,7 @@ dimwishlist:item=91672792&perks=3250034553,3230963543,1955165503,124408337
 
 // Qua Vinctus IV - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Tactical Mag Appended Mag, Alloy Mag, Flared Magwell, Light Mag), (Hatchling), (Meganeura, Tear)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly on Strand builds. Qua Vinctus IV is a high-impact LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "highest total damage without losing that much DPS, also stagger intrinsic". The frame intrinsic offers built in Anti-Unstoppable, ×0.8 accuracy cone size and ×0.83 accuracy cone growth when moving 2.8m/s or less (crouch walking speed) as per the Destiny Data Compendium. The recoil direction is just to the right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. To clear adds, perhaps supporting a double special loadout, in the first trait perk column Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Meganeura builds up to ×3 stacks on crit hits for a refreshable 4s for AoE explosive damage in a 7.5m radius on a crit kill - the explosion is treated as weapon damage so inherits damage boosts and also procs subclass fragments, or Tear spreads ~4m AoE Strand Sever on a crit kill to reduce damage output to ×0.6 from enemies affected. Aegis ranks the Wild Card origin trait as C-Tier - it provides the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy for a bit of damage. That's still better than the D-Tier Roar of Battle which The Roar of Battle origin trait grants a barely noticeable +10 Stability and Handling for 6s after dealing or taking damage every 0.5s or so for 2s. If you're interested, the name translates to "as a memorial" or "for a memory/ remembrance", and links to the ghost Targe reflecting on his bond with Zavala. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly on Strand builds. Qua Vinctus IV is a high-impact LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "highest total damage without losing that much DPS, also stagger intrinsic". The frame intrinsic offers built in Anti-Unstoppable, ×0.8 accuracy cone size and ×0.83 accuracy cone growth when moving 2.8m/s or less (crouch walking speed) as per the Destiny Data Compendium. The recoil direction is just to the right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. To clear adds, perhaps supporting a double special loadout, in the first trait perk column Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Meganeura builds up to ×3 stacks on crit hits for a refreshable 4s for AoE explosive damage in a 7.5m radius on a crit kill - the explosion is treated as weapon damage so inherits damage boosts and also procs subclass fragments, or Tear spreads ~4m AoE Strand Sever on a crit kill to reduce damage output to ×0.6 from enemies affected. Aegis ranks the Wild Card origin trait as C-Tier - it provides the chance of Telesto-like "Experimental Submunitions" dropping on a kill - the number depends on the enemy tier - that last up to 10.5s and explode on contact or proximity to an enemy for a bit of damage. That's still better than the D-Tier Roar of Battle which grants a barely noticeable +10 Stability and Handling for 6s after dealing or taking damage every 0.5s or so for 2s. If you're interested, the name translates to "as a memorial" or "for a memory/ remembrance", and links to the ghost Targe reflecting on his bond with Zavala. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=337893613&perks=839105230,106909392,831391274,657025441
 dimwishlist:item=337893613&perks=839105230,106909392,831391274,960997401
 dimwishlist:item=337893613&perks=839105230,1087426260,831391274,657025441
@@ -559,7 +559,7 @@ dimwishlist:item=954563454&perks=3250034553,769709866,243981275,4104185692
 
 // Qullim's Terminus - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Extended Mag, Appended Mag, Alloy Mag, Flared Magwell), (Demolitionist), (Crystalline Corpsebloom, Headstone)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal, Hard or Very Hard difficulty, particularly with Stasis builds. Qullim's Terminus is a high-impact LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "highest total damage without losing that much DPS, also stagger intrinsic". The frame intrinsic offers built in Anti-Unstoppable, ×0.8 accuracy cone size and ×0.83 accuracy cone growth when moving 2.8m/s or less (crouch walking speed) as per the Destiny Data Compendium. The recoil direction is right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. Qullim's Terminus can be used for add clear with Stasis builds, perhaps supporting a double special loadout. For that, Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Headstone generates a Stasis crystal on a crit kill or Crystalline Corpsebloom procs on a kill to provide a 4s buff - kills with the buff active generate a Stasis seeker which travels 3m before spawning a large Stasis crystal - these crystals are weapon-generated entities so can inherit damage buffs, and proc weapon traits like Demolitionist and subclass fragments when shattered for AoE damage. Aegis ranks the Runneth Over origin trait as B-Tier - in a fireteam, it acts a bit like Clown Cartridge on a manual reload, increasing magazine capacity on reload by 10% for each nearby ally to a max 50%. If you're interested, the lore isn't clear who Qullim was - possibly an Awoken, or a figure from a civilization destroyed by the Hive - who fell during past conflicts with Oryx, but the naming convention matches other King's Fall gear memorializing killed leaders and warriors. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal, Hard or Very Hard difficulty, particularly with Stasis builds. Qullim's Terminus is a high-impact LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "highest total damage without losing that much DPS, also stagger intrinsic". The frame intrinsic offers built in Anti-Unstoppable, ×0.8 accuracy cone size and ×0.83 accuracy cone growth when moving 2.8m/s or less (crouch walking speed) as per the Destiny Data Compendium. The recoil direction is right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. Qullim's Terminus can be used for add clear with Stasis builds, perhaps supporting a double special loadout. For that, Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Headstone generates a Stasis crystal on a crit kill or Crystalline Corpsebloom procs on a kill to provide a 4s buff - kills with the buff active generate a Stasis seeker which travels 3m before spawning a large Stasis crystal - these crystals are weapon-generated entities so can inherit damage buffs, and proc weapon traits like Demolitionist and subclass fragments when shattered for AoE damage. Aegis ranks the Runneth Over origin trait as B-Tier - in a fireteam, it acts a bit like Clown Cartridge on a manual reload, increasing magazine capacity by 10% for each nearby ally to a max 50%. If you're interested, the lore isn't clear who Qullim was - possibly an Awoken, or a figure from a civilization destroyed by the Hive - who fell during past conflicts with Oryx, but the naming convention matches other King's Fall gear memorialising killed leaders and warriors. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=1321506184&perks=839105230,106909392,3523296417,2922950962
 dimwishlist:item=1321506184&perks=839105230,106909392,3523296417,124408337
 dimwishlist:item=1321506184&perks=839105230,2420895100,3523296417,2922950962
@@ -644,7 +644,7 @@ dimwishlist:item=1321506184&perks=3250034553,3230963543,3523296417,124408337
 
 // Qullim's Terminus (Harrowed) - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Tactical Mag, Extended Mag, Appended Mag, Alloy Mag, Flared Magwell), (Demolitionist), (Crystalline Corpsebloom, Headstone)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal, Hard or Very Hard difficulty, particularly with Stasis builds. Qullim's Terminus (Harrowed) is a high-impact LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "highest total damage without losing that much DPS, also stagger intrinsic". The frame intrinsic offers built in Anti-Unstoppable, ×0.8 accuracy cone size and ×0.83 accuracy cone growth when moving 2.8m/s or less (crouch walking speed) as per the Destiny Data Compendium. The recoil direction is right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. Qullim's Terminus (Harrowed) can be used for add clear with Stasis builds, perhaps supporting a double special loadout. For that, Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Headstone generates a Stasis crystal on a crit kill or Crystalline Corpsebloom procs on a kill to provide a 4s buff - kills with the buff active generate a Stasis seeker which travels 3m before spawning a large Stasis crystal - these crystals are weapon-generated entities so can inherit damage buffs, and proc weapon traits like Demolitionist and subclass fragments when shattered for AoE damage. Aegis ranks the Runneth Over origin trait as B-Tier - in a fireteam, it acts a bit like Clown Cartridge on a manual reload, increasing magazine capacity on reload by 10% for each nearby ally to a max 50%. If you're interested, the lore isn't clear who Qullim was - possibly an Awoken, or a figure from a civilization destroyed by the Hive - who fell during past conflicts with Oryx, but the naming convention matches other King's Fall gear memorializing killed leaders and warriors. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing groups of Minor adds in activities rated Normal, Hard or Very Hard difficulty, particularly with Stasis builds. Qullim's Terminus (Harrowed) is a high-impact LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "highest total damage without losing that much DPS, also stagger intrinsic". The frame intrinsic offers built in Anti-Unstoppable, ×0.8 accuracy cone size and ×0.83 accuracy cone growth when moving 2.8m/s or less (crouch walking speed) as per the Destiny Data Compendium. The recoil direction is right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. Qullim's Terminus (Harrowed) can be used for add clear with Stasis builds, perhaps supporting a double special loadout. For that, Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Headstone generates a Stasis crystal on a crit kill or Crystalline Corpsebloom procs on a kill to provide a 4s buff - kills with the buff active generate a Stasis seeker which travels 3m before spawning a large Stasis crystal - these crystals are weapon-generated entities so can inherit damage buffs, and proc weapon traits like Demolitionist and subclass fragments when shattered for AoE damage. Aegis ranks the Runneth Over origin trait as B-Tier - in a fireteam, it acts a bit like Clown Cartridge on a manual reload, increasing magazine capacity by 10% for each nearby ally to a max 50%. If you're interested, the lore isn't clear who Qullim was - possibly an Awoken, or a figure from a civilization destroyed by the Hive - who fell during past conflicts with Oryx, but the naming convention matches other King's Fall gear memorialising killed leaders and warriors. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3248429089&perks=839105230,106909392,3523296417,2922950962
 dimwishlist:item=3248429089&perks=839105230,106909392,3523296417,124408337
 dimwishlist:item=3248429089&perks=839105230,2420895100,3523296417,2922950962
@@ -2202,7 +2202,7 @@ dimwishlist:item=2584201248&perks=3250034553,3230963543,243981275,95528736
 
 // Song of Ir Yût - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Flared Magwell, Light Mag), (Jolting Feedback), (Kill Clip)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly with Arc builds. Song of Ir Yût is an adaptive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "technically a strict downgrade to aggressive damage profile, but barrier intrinsic is noticeable". The frame intrinsic offers built in Anti-Barrier, but no other benefits as per the Destiny Data Compendium. The recoil direction is right but pretty tight so you could improve Recoil Direction or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed are pretty much essential for this roll if you're not using Hunter dodge to reload. For tackling add groups and the occasional tougher enemy, there's a double trait perk damage pairing in Jolting Feedback which applies Arc Jolt after 14 hits (11 when Amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage, and Mega Kill Clip which boosts damage by ×1.4 with a duration of 3s + (2s × the number of kills) up to a max 20s, on a reload within 5s of a kill. Aegis ranks the Cursed Thrall origin trait as A-Tier -synergising well with melee builds - killing an enemy with a melee gives you 8.5s to proc a 4.5m radius Cursed Thrall AoE explosion on your next weapon kill. If you're interested, "circular logic" is a psychological term for an argument that goes nowhere, looping back on its own unproven premises - which fits the messy, tangled web of thoughts and reflects the philosophy of Strand. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly with Arc builds. Song of Ir Yût is an adaptive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "technically a strict downgrade to aggressive damage profile, but barrier intrinsic is noticeable". The frame intrinsic offers built in Anti-Barrier, but no other benefits as per the Destiny Data Compendium. The recoil direction is right but pretty tight so you could improve Recoil Direction or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed are pretty much essential for this roll if you're not using Hunter dodge to reload. For tackling add groups and the occasional tougher enemy, there's a double trait perk damage pairing in Jolting Feedback which applies Arc Jolt after 14 hits (11 when Amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage, and Mega Kill Clip which boosts damage by ×1.4 with a duration of 3s + (2s × the number of kills) up to a max 20s, on a reload within 5s of a kill. Aegis ranks the Cursed Thrall origin trait as A-Tier -synergising well with melee builds - killing an enemy with a melee gives you 8.5s to proc a 4.5m radius Cursed Thrall AoE explosion on your next weapon kill. If you're interested, the name is a direct reference to the Deathsong, a lethal Hive melody - a mathematical description of death - composed and sung by the Hive Wizard Ir Yût, the Deathsinger.. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2828278545&perks=839105230,3230963543,3966416502,2305480722
 dimwishlist:item=2828278545&perks=839105230,679225683,3966416502,2305480722
 dimwishlist:item=2828278545&perks=3661387068,3230963543,3966416502,2305480722
@@ -2219,6 +2219,27 @@ dimwishlist:item=2828278545&perks=1482024992,3230963543,3966416502,2305480722
 dimwishlist:item=2828278545&perks=1482024992,679225683,3966416502,2305480722
 dimwishlist:item=2828278545&perks=3250034553,3230963543,3966416502,2305480722
 dimwishlist:item=2828278545&perks=3250034553,679225683,3966416502,2305480722
+
+
+// Song of Ir Yût (Adept)  - PvE Minor god 1
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Flared Magwell, Light Mag), (Jolting Feedback), (Kill Clip)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for clearing individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty, particularly with Arc builds. Song of Ir Yût is an adaptive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "technically a strict downgrade to aggressive damage profile, but barrier intrinsic is noticeable". The frame intrinsic offers built in Anti-Barrier, but no other benefits as per the Destiny Data Compendium. The recoil direction is right but pretty tight so you could improve Recoil Direction or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed are pretty much essential for this roll if you're not using Hunter dodge to reload. For tackling add groups and the occasional tougher enemy, there's a double trait perk damage pairing in Jolting Feedback which applies Arc Jolt after 14 hits (11 when Amplified) to tougher enemies who can survive the weapon damage, triggering chain lightning on further hits for both target and AoE damage, and Mega Kill Clip which boosts damage by ×1.4 with a duration of 3s + (2s × the number of kills) up to a max 20s, on a reload within 5s of a kill. Aegis ranks the Cursed Thrall origin trait as A-Tier -synergising well with melee builds - killing an enemy with a melee gives you 8.5s to proc a 4.5m radius Cursed Thrall AoE explosion on your next weapon kill. If you're interested, the name is a direct reference to the Deathsong, a lethal Hive melody - a mathematical description of death - composed and sung by the Hive Wizard Ir Yût, the Deathsinger.. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=407511664&perks=839105230,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=839105230,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=3661387068,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=3661387068,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=1467527085,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=1467527085,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=1840239774,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=1840239774,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=4090651448,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=4090651448,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=1392496348,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=1392496348,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=1482024992,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=1482024992,679225683,3966416502,2305480722
+dimwishlist:item=407511664&perks=3250034553,3230963543,3966416502,2305480722
+dimwishlist:item=407511664&perks=3250034553,679225683,3966416502,2305480722
 
 
 // 21% Delirium - PvE Minor god 1
@@ -3133,6 +3154,371 @@ dimwishlist:item=3489054606&perks=3250034553,679225683,3300816228,557221067
 dimwishlist:item=3489054606&perks=3250034553,679225683,3300816228,365154968
 
 
+// Unwavering Duty (Adept) - PvE Boss god 1
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Alloy Mag, Flared Magwell, Light Mag), (Fouth Time's the Charm, Envious Arsenal, Auto-Loading Holster), (Bair and Switch, Killing Tally, Target Lock)
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Unwavering Duty is an adaptive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "technically a strict downgrade to aggressive damage profile, but barrier intrinsic is noticeable". The frame intrinsic offers built in Anti-Barrier, but offers no bonuses beyond being "well-rounded, reliable and sturdy" as per the Destiny Data Compendium. The recoil direction is just to the right of vertical and pretty tight so you could improve recoil control or look to boost Stability with the barrel perk to help hit crits, or boost Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size work best for a boss damage roll. For sustained boss damage, in the first trait perk column Fourth Time's the Charm generates 2 shots from thin air after 4 crits within 3s of each other, almost doubling your total ammo if you can keep hitting crits, or Envious Assassin overflows the magazine to up to ×3 capacity at 12.5% of base size per kill with primary weapons and 22.5% with specials before readying. Alternatively, Auto-Loading Holster refills the magazine 3.3s after stowing. In the second column, Bait and Switch boosts damage by ×1.3 for 11s for doing damage with your other two weapons, Killing Tally gains a stack for each enemy killed during an add phase up to ×3 to boost damage by up to ×1.3 until you reload or stow, or Target Lock stacks up to 5 times on repeated hits within 0.2s of each other for up to ×1.4 damage at 110.33% of base magazine capacity - so works well with overflowed or auto-refilled magazines. There are three origin traits to choose from. Aegis rates the Roar of Battle as D-Tier for PvE - it grants +10 Stability and Handling for 6s after dealing or taking damage every 0.5s or so for 2s. Other options are the E-Tier Suros Synergy, which grants +30 Handling and ×1.2 flinch resistance for 6s after reloading, and the F-Tier Fleet Footed which stacks up to ×1 on hits and ×2 on kills to boost movement speed and Airborne Effectiveness for a refreshable 6s. If you're interested, the name has a direct, bittersweet deeper meaning rooted in the weapon's lore tab, reflecting the core thematic struggles of the Trials of Osiris team composed of Aisha, Reed-7, and Shayura, and represents the literal obligation and heavy psychological burden placed upon a Guardian’s shoulders, particularly when it comes to holding their traumatized allies accountable or protecting them. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
+dimwishlist:item=3444632029&perks=839105230,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=839105230,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=839105230,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=839105230,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=839105230,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=839105230,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=839105230,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=839105230,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=839105230,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=839105230,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=839105230,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=839105230,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=839105230,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=839105230,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=839105230,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=839105230,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=839105230,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=839105230,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=839105230,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=839105230,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=839105230,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=839105230,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=839105230,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=839105230,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=839105230,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=839105230,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=839105230,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=839105230,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=839105230,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=839105230,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=839105230,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=839105230,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=839105230,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=839105230,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=839105230,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=839105230,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=839105230,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=839105230,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=839105230,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=839105230,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=839105230,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=839105230,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=839105230,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=839105230,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=839105230,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=3661387068,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3661387068,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=3661387068,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=3661387068,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=3661387068,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=3661387068,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=3661387068,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3661387068,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=3661387068,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=3661387068,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3661387068,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=3661387068,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=3661387068,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=3661387068,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=3661387068,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=3661387068,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3661387068,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=3661387068,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=3661387068,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3661387068,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=3661387068,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=3661387068,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=3661387068,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=3661387068,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=3661387068,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3661387068,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=3661387068,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=3661387068,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3661387068,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=3661387068,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=3661387068,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=3661387068,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=3661387068,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=3661387068,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3661387068,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=3661387068,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=3661387068,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3661387068,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=3661387068,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=3661387068,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=3661387068,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=3661387068,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=3661387068,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3661387068,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=3661387068,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=1467527085,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1467527085,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=1467527085,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=1467527085,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=1467527085,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=1467527085,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=1467527085,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1467527085,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=1467527085,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=1467527085,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1467527085,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=1467527085,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=1467527085,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=1467527085,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=1467527085,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=1467527085,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1467527085,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=1467527085,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=1467527085,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1467527085,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=1467527085,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=1467527085,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=1467527085,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=1467527085,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=1467527085,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1467527085,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=1467527085,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=1467527085,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1467527085,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=1467527085,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=1467527085,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=1467527085,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=1467527085,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=1467527085,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1467527085,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=1467527085,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=1467527085,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1467527085,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=1467527085,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=1467527085,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=1467527085,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=1467527085,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=1467527085,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1467527085,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=1467527085,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=1840239774,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1840239774,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=1840239774,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=1840239774,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=1840239774,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=1840239774,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=1840239774,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1840239774,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=1840239774,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=1840239774,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1840239774,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=1840239774,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=1840239774,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=1840239774,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=1840239774,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=1840239774,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1840239774,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=1840239774,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=1840239774,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1840239774,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=1840239774,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=1840239774,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=1840239774,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=1840239774,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=1840239774,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1840239774,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=1840239774,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=1840239774,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1840239774,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=1840239774,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=1840239774,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=1840239774,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=1840239774,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=1840239774,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1840239774,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=1840239774,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=1840239774,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1840239774,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=1840239774,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=1840239774,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=1840239774,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=1840239774,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=1840239774,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1840239774,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=1840239774,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=4090651448,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=4090651448,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=4090651448,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=4090651448,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=4090651448,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=4090651448,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=4090651448,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=4090651448,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=4090651448,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=4090651448,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=4090651448,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=4090651448,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=4090651448,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=4090651448,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=4090651448,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=4090651448,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=4090651448,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=4090651448,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=4090651448,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=4090651448,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=4090651448,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=4090651448,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=4090651448,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=4090651448,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=4090651448,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=4090651448,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=4090651448,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=4090651448,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=4090651448,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=4090651448,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=4090651448,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=4090651448,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=4090651448,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=4090651448,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=4090651448,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=4090651448,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=4090651448,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=4090651448,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=4090651448,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=4090651448,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=4090651448,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=4090651448,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=4090651448,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=4090651448,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=4090651448,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=1392496348,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1392496348,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=1392496348,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=1392496348,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=1392496348,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=1392496348,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=1392496348,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1392496348,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=1392496348,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=1392496348,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1392496348,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=1392496348,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=1392496348,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=1392496348,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=1392496348,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=1392496348,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1392496348,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=1392496348,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=1392496348,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1392496348,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=1392496348,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=1392496348,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=1392496348,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=1392496348,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=1392496348,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1392496348,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=1392496348,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=1392496348,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1392496348,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=1392496348,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=1392496348,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=1392496348,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=1392496348,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=1392496348,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1392496348,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=1392496348,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=1392496348,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1392496348,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=1392496348,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=1392496348,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=1392496348,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=1392496348,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=1392496348,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1392496348,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=1392496348,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=1482024992,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1482024992,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=1482024992,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=1482024992,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=1482024992,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=1482024992,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=1482024992,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1482024992,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=1482024992,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=1482024992,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1482024992,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=1482024992,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=1482024992,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=1482024992,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=1482024992,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=1482024992,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1482024992,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=1482024992,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=1482024992,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1482024992,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=1482024992,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=1482024992,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=1482024992,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=1482024992,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=1482024992,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1482024992,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=1482024992,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=1482024992,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1482024992,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=1482024992,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=1482024992,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=1482024992,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=1482024992,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=1482024992,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1482024992,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=1482024992,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=1482024992,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=1482024992,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=1482024992,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=1482024992,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=1482024992,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=1482024992,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=1482024992,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=1482024992,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=1482024992,679225683,3300816228,365154968
+dimwishlist:item=3444632029&perks=3250034553,2420895100,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3250034553,2420895100,1354429876,557221067
+dimwishlist:item=3444632029&perks=3250034553,2420895100,1354429876,365154968
+dimwishlist:item=3444632029&perks=3250034553,2420895100,968510818,3078487919
+dimwishlist:item=3444632029&perks=3250034553,2420895100,968510818,557221067
+dimwishlist:item=3444632029&perks=3250034553,2420895100,968510818,365154968
+dimwishlist:item=3444632029&perks=3250034553,2420895100,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3250034553,2420895100,3300816228,557221067
+dimwishlist:item=3444632029&perks=3250034553,2420895100,3300816228,365154968
+dimwishlist:item=3444632029&perks=3250034553,1087426260,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3250034553,1087426260,1354429876,557221067
+dimwishlist:item=3444632029&perks=3250034553,1087426260,1354429876,365154968
+dimwishlist:item=3444632029&perks=3250034553,1087426260,968510818,3078487919
+dimwishlist:item=3444632029&perks=3250034553,1087426260,968510818,557221067
+dimwishlist:item=3444632029&perks=3250034553,1087426260,968510818,365154968
+dimwishlist:item=3444632029&perks=3250034553,1087426260,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3250034553,1087426260,3300816228,557221067
+dimwishlist:item=3444632029&perks=3250034553,1087426260,3300816228,365154968
+dimwishlist:item=3444632029&perks=3250034553,1431678320,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3250034553,1431678320,1354429876,557221067
+dimwishlist:item=3444632029&perks=3250034553,1431678320,1354429876,365154968
+dimwishlist:item=3444632029&perks=3250034553,1431678320,968510818,3078487919
+dimwishlist:item=3444632029&perks=3250034553,1431678320,968510818,557221067
+dimwishlist:item=3444632029&perks=3250034553,1431678320,968510818,365154968
+dimwishlist:item=3444632029&perks=3250034553,1431678320,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3250034553,1431678320,3300816228,557221067
+dimwishlist:item=3444632029&perks=3250034553,1431678320,3300816228,365154968
+dimwishlist:item=3444632029&perks=3250034553,3230963543,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3250034553,3230963543,1354429876,557221067
+dimwishlist:item=3444632029&perks=3250034553,3230963543,1354429876,365154968
+dimwishlist:item=3444632029&perks=3250034553,3230963543,968510818,3078487919
+dimwishlist:item=3444632029&perks=3250034553,3230963543,968510818,557221067
+dimwishlist:item=3444632029&perks=3250034553,3230963543,968510818,365154968
+dimwishlist:item=3444632029&perks=3250034553,3230963543,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3250034553,3230963543,3300816228,557221067
+dimwishlist:item=3444632029&perks=3250034553,3230963543,3300816228,365154968
+dimwishlist:item=3444632029&perks=3250034553,679225683,1354429876,3078487919
+dimwishlist:item=3444632029&perks=3250034553,679225683,1354429876,557221067
+dimwishlist:item=3444632029&perks=3250034553,679225683,1354429876,365154968
+dimwishlist:item=3444632029&perks=3250034553,679225683,968510818,3078487919
+dimwishlist:item=3444632029&perks=3250034553,679225683,968510818,557221067
+dimwishlist:item=3444632029&perks=3250034553,679225683,968510818,365154968
+dimwishlist:item=3444632029&perks=3250034553,679225683,3300816228,3078487919
+dimwishlist:item=3444632029&perks=3250034553,679225683,3300816228,557221067
+dimwishlist:item=3444632029&perks=3250034553,679225683,3300816228,365154968
+
+
 // Pro Memoria - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Appended Mag, Alloy Mag, Flared Magwell, Light Mag), (Demolitionist), (Dragonfly, Frenzy)
 //notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for individual Minor adds or tougher enemies in activities rated Normal, Hard or Very Hard difficulty. Pro Memoria is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just to the right of vertical but pretty tight so you could improve recoil control or look to boost Stability to help hit crits, or Handling if you can land your shots. In the magazine perk slot, perks that improve Reload Speed or mag size are the best available. To clear adds, perhaps supporting a double special loadout, in the first trait perk column Demolitionist generates chunk grenade ability energy on kills and an instant magazine refill on grenade use. In the second column, Dragonfly procs a 4.5m Strand explosion on a crit kill - this is treated as weapon damage so inherits damage boosts and also procs weapon effects like Demolitionist, or Frenzy which, after being in combat for 12s - that's dealing or taking damage - boosts Handling and Reload Speed by +100 and boosts damage by ×1.15 for a refreshable 7.2s. Aegis ranks the Dealer's Choice origin trait as S-Tier - it provides an escalating bonus to super generation on a kill, depending on how many other Dealer's Choice weapons are equipped - this is the fastest way bar none to generating super energy. If you're interested, the name translates to "as a memorial" or "for a memory/ remembrance", and links to the ghost Targe reflecting on his bond with Zavala. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
@@ -3296,7 +3682,7 @@ dimwishlist:item=3605603507&perks=3250034553,679225683,3523296417,1089671869
 
 // Corrective Measure - PvE Boss god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Rewind Rounds, Demolitionist), (Elemental Honing, Aggregate Charge)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For sustained damage, in the first trait perk column Rewind Rounds refills 70% of hits landed from reserves when the magazine empties, or Demolitionist provides an instant magazine refill on grenade use and chunk grenade ability energy on kills. In the second column for damage Elemental Honing grants an escalating stack of damage up to max ×1.35 for 23s for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5, or Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by max ×1.33, with each stack lasting as long as the debuff is active. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For sustained damage, in the first trait perk column Rewind Rounds refills 70% of hits landed from reserves when the magazine empties, or Demolitionist provides an instant magazine refill on grenade use and chunk grenade ability energy on kills. In the second column for damage Elemental Honing grants an escalating stack of damage up to max ×1.35 for 23s for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5, or Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by max ×1.33, with each stack lasting as long as the debuff is active. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3654744298&perks=839105230,2420895100,3418782618,1089671869
 dimwishlist:item=3654744298&perks=839105230,2420895100,3418782618,3764420437
 dimwishlist:item=3654744298&perks=839105230,2420895100,3523296417,1089671869
@@ -3460,7 +3846,7 @@ dimwishlist:item=3654744298&perks=3250034553,3230963543,3523296417,3764420437
 
 // Corrective Measure - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Destabilizing Rounds, Dimensional Shift), (Demoralize)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Void builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For add clearing on Void builds, in the first trait perk column Destabilizing Rounds spreads Void Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 5.25s, or Dimensional Shift grants Dimensional Breach on picking up a Void Breach which, while active provides a refreshable 8s overshield on kills. In the second column, Demoralize spreads a ~4m AoE cloud of Void Weaken to nearby enemies for a ×1.15 boost to damage for your fireteam for 5s on a crit kill. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroundAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Void builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For add clearing on Void builds, in the first trait perk column Destabilizing Rounds spreads Void Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 5.25s, or Dimensional Shift grants Dimensional Breach on picking up a Void Breach which, while active provides a refreshable 8s overshield on kills. In the second column, Demoralize spreads a ~4m AoE cloud of Void Weaken to nearby enemies for a ×1.15 boost to damage for your fireteam for 5s on a crit kill. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroundAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3654744298&perks=839105230,2420895100,2048641572,1464081238
 dimwishlist:item=3654744298&perks=839105230,2420895100,3182497402,1464081238
 dimwishlist:item=3654744298&perks=839105230,1087426260,2048641572,1464081238
@@ -3544,7 +3930,7 @@ dimwishlist:item=3654744298&perks=3250034553,3230963543,3182497402,1464081238
 
 // Corrective Measure - PvE Minor god 2
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Rewind Rounds, Demolitionist, Subsistence, Firefly, Destabilizing Rounds, Redirection), (Killing Tally, One For All, Demoralize, Butterfly)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For general add clearing, you have a range of magazine refilling perks in the first trait perk column - Rewind Rounds, Demolitionist and Subsistence - to choose from, as well as double damage with Firefly that also boosts reload, Destabilizing Rounds for Void volatility, or Redirection. Similarly, the second column has loads of damage-boosting options to pick from - Killing Tally, One For All, Demoralize and Butterfly all provide something to pair with your first column perks. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For general add clearing, you have a range of magazine refilling perks in the first trait perk column - Rewind Rounds, Demolitionist and Subsistence - to choose from, as well as double damage with Firefly that also boosts reload, Destabilizing Rounds for Void volatility, or Redirection. Similarly, the second column has loads of damage-boosting options to pick from - Killing Tally, One For All, Demoralize and Butterfly all provide something to pair with your first column perks. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3654744298&perks=839105230,2420895100,3418782618,557221067
 dimwishlist:item=3654744298&perks=839105230,2420895100,3418782618,4049631843
 dimwishlist:item=3654744298&perks=839105230,2420895100,3418782618,1464081238
@@ -4508,7 +4894,7 @@ dimwishlist:item=3654744298&perks=3250034553,3230963543,3201496230,198336270
 
 // Corrective Measure - PvE Minor god 3
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Demolitionist), (Adrenaline Junkie)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, aperticularly with grenade builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For grenade builds, there's the classic trait perk combination of Demolitionist which generates chunk grenade ability energy on kills and an instant magazine refill on grenade use and Adrenaline Junkie which stacks up to ×5 on kills for +20 handling and max ×1.33 damage, with a grenade kill giving an instant 5 stacks, for a refreshable 5s. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, aperticularly with grenade builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For grenade builds, there's the classic trait perk combination of Demolitionist which generates chunk grenade ability energy on kills and an instant magazine refill on grenade use and Adrenaline Junkie which stacks up to ×5 on kills for +20 handling and max ×1.33 damage, with a grenade kill giving an instant 5 stacks, for a refreshable 5s. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=3654744298&perks=839105230,2420895100,3523296417,11612903
 dimwishlist:item=3654744298&perks=839105230,1087426260,3523296417,11612903
 dimwishlist:item=3654744298&perks=839105230,106909392,3523296417,11612903
@@ -4553,7 +4939,7 @@ dimwishlist:item=3654744298&perks=3250034553,3230963543,3523296417,11612903
 
 // Corrective Measure (Timelost) - PvE Boss god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Rewind Rounds, Demolitionist), (Elemental Honing, Aggregate Charge)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For sustained damage, in the first trait perk column Rewind Rounds refills 70% of hits landed from reserves when the magazine empties, or Demolitionist provides an instant magazine refill on grenade use and chunk grenade ability energy on kills. In the second column for damage Elemental Honing grants an escalating stack of damage up to max ×1.35 for 23s for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5, or Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by max ×1.33, with each stack lasting as long as the debuff is active. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Prismatic builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For sustained damage, in the first trait perk column Rewind Rounds refills 70% of hits landed from reserves when the magazine empties, or Demolitionist provides an instant magazine refill on grenade use and chunk grenade ability energy on kills. In the second column for damage Elemental Honing grants an escalating stack of damage up to max ×1.35 for 23s for each elemental damage type inflicted, which can be refreshed with a new damage type until you've run through all 5, or Aggregate Charge provides a stack for each different elemental debuff up to ×3 stacks to boost damage by max ×1.33, with each stack lasting as long as the debuff is active. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Boss PvE-SustainedDamage PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2334480463&perks=839105230,2420895100,3418782618,1089671869
 dimwishlist:item=2334480463&perks=839105230,2420895100,3418782618,3764420437
 dimwishlist:item=2334480463&perks=839105230,2420895100,3523296417,1089671869
@@ -4717,7 +5103,7 @@ dimwishlist:item=2334480463&perks=3250034553,3230963543,3523296417,3764420437
 
 // Corrective Measure (Timelost) - PvE Minor god 1
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Destabilizing Rounds, Dimensional Shift), (Demoralize)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Void builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For add clearing on Void builds, in the first trait perk column Destabilizing Rounds spreads Void Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 5.25s, or Dimensional Shift grants Dimensional Breach on picking up a Void Breach which, while active provides a refreshable 8s overshield on kills. In the second column, Demoralize spreads a ~4m AoE cloud of Void Weaken to nearby enemies for a ×1.15 boost to damage for your fireteam for 5s on a crit kill. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroundAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-GroupAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, particularly on Void builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For add clearing on Void builds, in the first trait perk column Destabilizing Rounds spreads Void Volatility on a kill in a 6.5m radius and provides Volatile Rounds for 5.25s, or Dimensional Shift grants Dimensional Breach on picking up a Void Breach which, while active provides a refreshable 8s overshield on kills. In the second column, Demoralize spreads a ~4m AoE cloud of Void Weaken to nearby enemies for a ×1.15 boost to damage for your fireteam for 5s on a crit kill. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-GroundAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2334480463&perks=839105230,2420895100,2048641572,1464081238
 dimwishlist:item=2334480463&perks=839105230,2420895100,3182497402,1464081238
 dimwishlist:item=2334480463&perks=839105230,1087426260,2048641572,1464081238
@@ -4801,7 +5187,7 @@ dimwishlist:item=2334480463&perks=3250034553,3230963543,3182497402,1464081238
 
 // Corrective Measure (Timelost) - PvE Minor god 2
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Rewind Rounds, Demolitionist, Subsistence, Firefly, Destabilizing Rounds, Redirection), (Killing Tally, One For All, Demoralize, Butterfly)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For general add clearing, you have a range of magazine refilling perks in the first trait perk column - Rewind Rounds, Demolitionist and Subsistence - to choose from, as well as double damage with Firefly that also boosts reload, Destabilizing Rounds for Void volatility, or Redirection. Similarly, the second column has loads of damage-boosting options to pick from - Killing Tally, One For All, Demoralize and Butterfly all provide something to pair with your first column perks. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For general add clearing, you have a range of magazine refilling perks in the first trait perk column - Rewind Rounds, Demolitionist and Subsistence - to choose from, as well as double damage with Firefly that also boosts reload, Destabilizing Rounds for Void volatility, or Redirection. Similarly, the second column has loads of damage-boosting options to pick from - Killing Tally, One For All, Demoralize and Butterfly all provide something to pair with your first column perks. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2334480463&perks=839105230,2420895100,3418782618,557221067
 dimwishlist:item=2334480463&perks=839105230,2420895100,3418782618,4049631843
 dimwishlist:item=2334480463&perks=839105230,2420895100,3418782618,1464081238
@@ -5765,7 +6151,7 @@ dimwishlist:item=2334480463&perks=3250034553,3230963543,3201496230,198336270
 
 // Corrective Measure (Timelost) - PvE Minor god 3
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Corkscrew Rifling, Polygonal Rifling, Smallbore, Hammer-Forged Rifling), (Extended Mag, Appended Mag, Tactical Mag, Alloy Mag, Flared Magwell), (Demolitionist), (Adrenaline Junkie)
-//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, aperticularly with grenade builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For grenade builds, there's the classic trait perk combination of Demolitionist which generates chunk grenade ability energy on kills and an instant magazine refill on grenade use and Adrenaline Junkie which stacks up to ×5 on kills for +20 handling and max ×1.33 damage, with a grenade kill giving an instant 5 stacks, for a refreshable 5s. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Bolt Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Within the context of the Vault of Glass the name carries a sinister, clinical irony - the weapon is designed to forcibly "correct" the fabric of time and space by permanently deleting anomalous threats, acting as a tool of localised reality-editing. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
+//notes:Constructed by @Adamsdown_Boy (PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller): First-choice PvE roll for sustained DPS in a damage phase against a single yellow-bar target in activities rated Normal, Hard or Very Hard difficulty, aperticularly with grenade builds. Corrective Measure is an aggressive LMG, which are rated B-Tier for endgame PvE by @TheAegisRelic Endgame Analysis Spreadsheet​, who says "best balance of DPS and total amongst LMGs, stagger intrinsic good". The frame intrinsic offers built in Anti-Unstoppable, but no other benefit as per the Destiny Data Compendium. The recoil direction is just vertical and quite tight, so you can improve recoil control or look to boost Stability to help hit crits with the barrel perk, or just boost Handling if you can land your shots. In the magazine perk slot, perks that improve mag size or Reload Speed work best for a boss damage roll. For grenade builds, there's the classic trait perk combination of Demolitionist which generates chunk grenade ability energy on kills and an instant magazine refill on grenade use and Adrenaline Junkie which stacks up to ×5 on kills for +20 handling and max ×1.33 damage, with a grenade kill giving an instant 5 stacks, for a refreshable 5s. Aegis rates the Timelost Magazine origin trait as the best in game S-Tier - it provides an additional 1% super energy on kills and, after using your super, boosts magazine capacity ×2 for 21s - this stacks with trait perks that refill or boost mag size, like Overflow and Trickle Charge. If you're interested, a corrective measure is a mechanical or bureaucratic action taken to fix an error or bring a system back into compliance. Recommended MW: Handling, with your preferred choice of mod to boost weapon stats, ammo generation, or elemental pickups for builds.|tags:PvE PvE-Minor PvE-SingleAdd PvE-EndGame PvE-God M+KB Controller
 dimwishlist:item=2334480463&perks=839105230,2420895100,3523296417,11612903
 dimwishlist:item=2334480463&perks=839105230,1087426260,3523296417,11612903
 dimwishlist:item=2334480463&perks=839105230,106909392,3523296417,11612903
